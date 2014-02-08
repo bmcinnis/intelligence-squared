@@ -2,9 +2,9 @@
 S'for'
 p1
 (lp2
-S'ORVILLE SCHELL'
+S'PETER SCHIFF'
 p3
-aS' PETER SCHIFF'
+aS'ORVILLE SCHELL'
 p4
 asS'text'
 p5
@@ -5042,7 +5042,7 @@ p2414
 (lp2415
 S'IAN BREMMER'
 p2416
-aS' MINXIN PEI'
+aS'MINXIN PEI'
 p2417
 asS'moderator'
 p2418

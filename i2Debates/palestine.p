@@ -4,7 +4,7 @@ p1
 (lp2
 S'MUSTAFA BARGHOUTHI'
 p3
-aS' DANIEL LEVY'
+aS'DANIEL LEVY'
 p4
 asS'text'
 p5
@@ -5638,9 +5638,9 @@ p2703
 asS'against'
 p2704
 (lp2705
-S'DORE GOLD'
+S'AARON DAVID MILLER'
 p2706
-aS' AARON DAVID MILLER'
+aS'DORE GOLD'
 p2707
 asS'moderator'
 p2708

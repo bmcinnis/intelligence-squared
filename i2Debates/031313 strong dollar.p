@@ -4,7 +4,7 @@ p1
 (lp2
 S'FREDERIC MISHKIN'
 p3
-aS' JOHN TAYLOR'
+aS'JOHN TAYLOR'
 p4
 asS'text'
 p5
@@ -5646,7 +5646,7 @@ p2708
 (lp2709
 S'JAMES GRANT'
 p2710
-aS' STEVE FORBES'
+aS'STEVE FORBES'
 p2711
 asS'moderator'
 p2712

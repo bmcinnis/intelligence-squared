@@ -2,9 +2,9 @@
 S'for'
 p1
 (lp2
-S'HUGH HEWITT'
+S'STEPHEN MOORE'
 p3
-aS' STEPHEN MOORE'
+aS'HUGH HEWITT'
 p4
 asS'text'
 p5
@@ -4788,7 +4788,7 @@ p2304
 (lp2305
 S'GRAY DAVIS'
 p2306
-aS' MICHAEL LIND'
+aS'MICHAEL LIND'
 p2307
 asS'moderator'
 p2308

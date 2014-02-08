@@ -2,9 +2,9 @@
 S'for'
 p1
 (lp2
-S'DAVID BROOKS'
+S'MICKEY EDWARDS'
 p3
-aS' MICKEY EDWARDS'
+aS'DAVID BROOKS'
 p4
 asS'text'
 p5
@@ -6048,7 +6048,7 @@ p2909
 (lp2910
 S'LAURA INGRAHAM'
 p2911
-aS' RALPH REED'
+aS'RALPH REED'
 p2912
 asS'moderator'
 p2913

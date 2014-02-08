@@ -2,9 +2,9 @@
 S'for'
 p1
 (lp2
-S'ARTHUR KELLERMANN'
+S'PETER SINGER'
 p3
-aS' PETER SINGER'
+aS'ARTHUR KELLERMANN'
 p4
 asS'text'
 p5
@@ -4512,9 +4512,9 @@ p2146
 asS'against'
 p2147
 (lp2148
-S'KEN CONNOR'
+S'SALLY PIPES'
 p2149
-aS' SALLY PIPES'
+aS'KEN CONNOR'
 p2150
 asS'moderator'
 p2151

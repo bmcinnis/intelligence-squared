@@ -2,9 +2,9 @@
 S'for'
 p1
 (lp2
-S'DAVID KEATING'
+S'JACOB SULLUM'
 p3
-aS' JACOB SULLUM'
+aS'DAVID KEATING'
 p4
 asS'text'
 p5
@@ -4880,9 +4880,9 @@ p2342
 asS'against'
 p2343
 (lp2344
-S'TREVOR POTTER'
+S'JONATHAN SOROS'
 p2345
-aS' JONATHAN SOROS'
+aS'TREVOR POTTER'
 p2346
 asS'moderator'
 p2347

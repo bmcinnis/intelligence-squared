@@ -2,9 +2,9 @@
 S'for'
 p1
 (lp2
-S'GLENN HUBBARD'
+S'ARTHUR LAFFER'
 p3
-aS' ARTHUR LAFFER'
+aS'GLENN HUBBARD'
 p4
 asS'text'
 p5
@@ -5897,37 +5897,39 @@ p2805
 asS'against'
 p2806
 (lp2807
-S'ROBERT REICH'
+S'I'
 p2808
-aS' MARK ZANDI'
+aS'ROBERT REICH'
 p2809
-asS'moderator'
+aS'MARK Z'
 p2810
-(lp2811
+asS'moderator'
+p2811
+(lp2812
 S'JOHN DONVAN'
-p2812
-asS'date'
 p2813
-(dp2814
+asS'date'
+p2814
+(dp2815
 S'year'
-p2815
-S'2012'
 p2816
-sS'day'
+S'2012'
 p2817
-S'24'
+sS'day'
 p2818
-sS'month'
+S'24'
 p2819
-S'October'
+sS'month'
 p2820
-ssS'before'
+S'October'
 p2821
-(lp2822
+ssS'before'
+p2822
+(lp2823
 S'28%-FOR'
-p2823
-aS'49%-AGAINST'
 p2824
-aS'23%-UNDECIDED'
+aS'49%-AGAINST'
 p2825
+aS'23%-UNDECIDED'
+p2826
 as.

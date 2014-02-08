@@ -4,7 +4,7 @@ p1
 (lp2
 S'CHARLES MURRAY'
 p3
-aS' PETER THIEL'
+aS'PETER THIEL'
 p4
 asS'text'
 p5
@@ -4649,7 +4649,7 @@ p2238
 (lp2239
 S'HENRY BIENEN'
 p2240
-aS' VIVEK WADHWA'
+aS'VIVEK WADHWA'
 p2241
 asS'moderator'
 p2242
