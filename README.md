@@ -21,4 +21,25 @@ As of January 2014 the Intelligence Squared US project has hosted 83 debates.  E
 As more records are added to this folder the general data layout is subject to change, but ideally at a minimum.
 
 ## Get Started
-A single script to download the data and begin processing.
+A single script to download the data and begin processing.  The python script *i2-getstarted.py* demonstrates how to open the pickle files and perform some very basic summaries of the data.
+
+```python
+    debateDir = 'i2Debates'
+    debateFilePattern = '.*[.]p$'
+
+    ## Identify all of the pickle files associated with I2US debates
+    debateFiles = ["%s/%s" %(debateDir,f) for f in os.listdir(debateDir+"/") if re.match(debateFilePattern,f)]
+
+    ## Load a debate from its pickle file and return the turn taking frequency
+    ##   by role and participant
+    for d in debateFiles:
+        debate = openDebate(filepath=d)
+        speakerTurns = speakerTurnFrequencies(debate)
+        print (d)
+        pprint.pprint(speakerTurns)
+```
+
+Additionally, functions are offered to view the pickle debate object in the browser and edit/add to the data using a javascript/css GUI.  Finally, once the object has been edited using the GUI a final function is offered to save the updates to the pickle debate object.
+
+> The reality of text oriented research is that these files are initially very messy and need cleaning.  While I could write scripts that clean them all, the effort would take a tremendous amount of time and accuracy would be limited to my own eyeballs on the files.  *Lets work together* to prepare the research files and then build some interesting NLP algorithms for exploring them.
+> Thanks, Brian
