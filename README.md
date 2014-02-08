@@ -42,4 +42,5 @@ A single script to download the data and begin processing.  The python script *i
 Additionally, functions are offered to view the pickle debate object in the browser and edit/add to the data using a javascript/css GUI.  Finally, once the object has been edited using the GUI a final function is offered to save the updates to the pickle debate object.
 
 > The reality of text oriented research is that these files are initially very messy and need cleaning.  While I could write scripts that clean them all, the effort would take a tremendous amount of time and accuracy would be limited to my own eyeballs on the files.  *Lets work together* to prepare the research files and then build some interesting NLP algorithms for exploring them.
-> Thanks, Brian
+
+-- Thanks, Brian
