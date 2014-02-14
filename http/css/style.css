@@ -1,0 +1,68 @@
+html, body {
+  height: 50%;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+span[class^=link-] {
+  color: #0093d0;
+  background: none;
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.5s, background 0.5s, text-decoration 0.5s;
+}
+
+span[class^=link-]:hover {
+  color: #B31B1B;
+  background: none;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+div#svg-contain {  
+  height: 200px;
+  overflow: auto;
+  overflow-y: hidden;
+}
+
+div#full-text {
+  height: 300px;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+svg {
+  height:200px;
+  width: 8000px;
+  background: white;
+}
+ 
+path.line {
+    stroke-width: 3px;
+    stroke: #ff0000;
+    fill:none;
+}
+
+circle {
+  fill: #89cce2;
+  stroke: black;
+  stroke-width: 1;
+  transition: fill 1s, stroke 1s;
+}
+
+circle:hover {
+  fill: #B31B1B;
+  stroke: white;
+}
+
+footer {
+  position:relative;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 0px;
+  bottom: 0;
+  height: 50px;
+  padding: 10px;
+  background-color: #d8d2c9;
+  border-top-color: #e7e7e7;
+  border-width: 1px;
+}

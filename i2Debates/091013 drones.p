@@ -10,4879 +10,7067 @@ asS'text'
 p5
 (lp6
 (dp7
-S'SPEAKER'
+S'FULL-TEXT'
 p8
-S'PREAMBLE'
-p9
-sS'PAGE'
+(lp9
+S'The U.S. drone program is fatally flawed'
 p10
-(dp11
+asS'SPEAKER'
+p11
+S'PREAMBLE'
+p12
+sS'PAGE'
+p13
+(dp14
 I0
 S'1'
-p12
-ssS'STATEMENT'
-p13
-(lp14
-S'The U.S. drone program is fatally flawed'
 p15
-asS'TIME'
+ssS'STATEMENT'
 p16
-(dp17
-I1
-S'18:46:03'
+(lp17
+g10
+asS'TIME'
 p18
-ssa(dp19
-S'BREAK'
+(dp19
+S'18:46:03'
 p20
-(dp21
+I1
+ssa(dp21
+S'BREAK'
+p22
+(dp23
 I2
 S'[applause]'
-p22
+p24
 ssg8
-S'JOHN DONVAN'
-p23
-sg13
-(lp24
-S' So Id like welcome to the stage the Chairman of Intelligence Squared U.S., Mr. Robert'
-p25
-aS'Rosenkranz.'
+(lp25
+S' So Id like welcome to the stage the Chairman of Intelligence Squared U.S., Mr. RobertRosenkranz.Hi Bob.'
 p26
-aS'Hi Bob. How are you?'
+aS'How are you?'
 p27
-asa(dp28
-g8
-S'ROBERT ROSENKRANZ'
-p29
-sg13
-(lp30
-S'Im good.'
-p31
-asa(dp32
-g8
+aS'[[applause]] '
+p28
+asg11
 S'JOHN DONVAN'
+p29
+sg16
+(lp30
+S' So Id like welcome to the stage the Chairman of Intelligence Squared U.S., Mr. Robert Rosenkranz.'
+p31
+aS'Hi Bob.'
+p32
+aS'How are you?'
 p33
-sg13
-(lp34
-S'Good. Thank you. So at "Nightline," we\'ve always said sometimes we work on some'
-p35
-aS'stories for months, and then suddenly the day we put it on the air, something breaks'
-p36
-aS'that makes it very relevant. And we say, "Well, the news gods have smiled on us today."'
-p37
-aS"It's not in a happy way, but there's a real timing relevance to what we're doing tonight,"
-p38
-aS"isn't there?"
-p39
-asa(dp40
+asa(dp34
 g8
+(lp35
+S'Im good.'
+p36
+asg11
 S'ROBERT ROSENKRANZ'
+p37
+sg16
+(lp38
+g36
+asa(dp39
+g8
+(lp40
+S'Good.'
 p41
-sg10
-(dp42
+aS'Thank you.'
+p42
+aS'So at "Nightline," we\'ve always said sometimes we work on somestories for months, and then suddenly the day we put it on the air, something breaksthat makes it very relevant.'
+p43
+aS'And we say, "Well, the news gods have smiled on us today.'
+p44
+aS'"It\'s not in a happy way, but there\'s a real timing relevance to what we\'re doing tonight,isn\'t there?'
+p45
+asg11
+S'JOHN DONVAN'
+p46
+sg16
+(lp47
+S'Good.'
+p48
+aS'Thank you.'
+p49
+aS'So at "Nightline," we\'ve always said sometimes we work on some stories for months, and then suddenly the day we put it on the air, something breaks that makes it very relevant.'
+p50
+aS'And we say, "Well, the news gods have smiled on us today.'
+p51
+aS'" It\'s not in a happy way, but there\'s a real timing relevance to what we\'re doing tonight, isn\'t there?'
+p52
+asa(dp53
+g8
+(lp54
+S'Yeah, of course there is.'
+p55
+aS"There's a presidential address this evening, and it concernsobviously Syria, where if there's any action taken at all, probably will involve drones.Drones are in active roles now in Yemen and Somalia."
+p56
+aS'So it is an extremely timely issue.'
+p57
+asg11
+S'ROBERT ROSENKRANZ'
+p58
+sg13
+(dp59
 I0
 S'2'
-p43
-ssg13
-(lp44
-S"Yeah, of course there is. There's a presidential address this evening, and it concerns"
-p45
-aS"obviously Syria, where if there's any action taken at all, probably will involve drones."
-p46
-aS'Drones are in active roles now in Yemen and Somalia. So it is an extremely timely issue.'
-p47
-asa(dp48
-g8
-S'JOHN DONVAN'
-p49
-sg13
-(lp50
-S'So looking at this argument, these two teams we know have actually lived this in ways'
-p51
-aS"that they'll reveal very, very directly. Some have sent them, and some have been near"
-p52
-aS'or close to the receiving end.'
-p53
-aS"The side that's arguing in support of drone warfare, actually, in our case, the side"
-p54
-aS'arguing against the motion, the side that is enforcing it and standing up for drone'
-p55
-aS'warfare, what arguments do they have going for them?'
-p56
-asg16
-(dp57
-I3
-S'18:47:04'
-p58
-ssa(dp59
-g8
-S'ROBERT ROSENKRANZ'
 p60
-sg13
+ssg16
 (lp61
-S'Well, I think their best argument is that it has been highly effective. It has killed a lot of'
+S'Yeah, of course there is.'
 p62
-aS'terrorists. And it does it in a very precise way because these unmanned aerial vehicles'
+aS"There's a presidential address this evening, and it concerns obviously Syria, where if there's any action taken at all, probably will involve drones."
 p63
-aS'can provide surveillance for many, many hours, days, coordinate with other forms of'
+aS'Drones are in active roles now in Yemen and Somalia.'
 p64
-aS'intelligent cell phone intercepts and really identify targets to a degree of precision that'
+aS'So it is an extremely timely issue.'
 p65
-aS"no other weapon system can do. So it's very accurate. It minimizes collateral damage"
-p66
-aS'to civilians, does not eliminate it. And, of course, it keeps the U.S. operators many,'
-p67
-aS"many thousands of miles out of harm's way."
+asa(dp66
+g8
+(lp67
+S"So looking at this argument, these two teams we know have actually lived this in waysthat they'll reveal very, very directly."
 p68
-asg16
-(dp69
-I7
-S'18:48:01'
-p70
-ssa(dp71
-g8
+aS"Some have sent them, and some have been nearor close to the receiving end.The side that's arguing in support of drone warfare, actually, in our case, the sidearguing against the motion, the side that is enforcing it and standing up for dronewarfare, what arguments do they have going for them?"
+p69
+asg11
 S'JOHN DONVAN'
+p70
+sg16
+(lp71
+S"So looking at this argument, these two teams we know have actually lived this in ways that they'll reveal very, very directly."
 p72
-sg13
-(lp73
-S'And the side arguing against it, what do they have to put forward here?'
+aS'Some have sent them, and some have been near or close to the receiving end.'
+p73
+aS"The side that's arguing in support of drone warfare, actually, in our case, the side arguing against the motion, the side that is enforcing it and standing up for drone warfare, what arguments do they have going for them?"
 p74
-asa(dp75
-g8
-S'ROBERT ROSENKRANZ'
+asg18
+(dp75
+S'18:47:04'
 p76
-sg13
-(lp77
-S"Well, I think their best point of view is that this just doesn't feel like conventional"
-p78
-aS'warfare. These are not soldiers on a battlefield. These are individuals on a kill list.'
+I3
+ssa(dp77
+g8
+(lp78
+S'Well, I think their best argument is that it has been highly effective.'
 p79
-aS"They're targeted. They feel like assassinations. And it raises questions about the"
+aS'It has killed a lot ofterrorists.'
 p80
-aS'morality, about the legality, who is it that approves these targets, how are they vetted,'
+aS'And it does it in a very precise way because these unmanned aerial vehiclescan provide surveillance for many, many hours, days, coordinate with other forms ofintelligent cell phone intercepts and really identify targets to a degree of precision thatno other weapon system can do.'
 p81
-aS'how precise is that process? What are the legal safeguards around it? And particularly'
+aS"So it's very accurate."
 p82
-aS'when the administration reserves the right to kill American citizens abroad with this'
+aS'It minimizes collateral damageto civilians, does not eliminate it.'
 p83
-aS'program, it just shows how difficult and problematic the legal environment is around'
+aS"And, of course, it keeps the U.S. operators many,many thousands of miles out of harm's way."
 p84
-aS'these issues.'
+asg11
+S'ROBERT ROSENKRANZ'
 p85
-asa(dp86
-g20
-(dp87
+sg16
+(lp86
+S'Well, I think their best argument is that it has been highly effective.'
+p87
+aS'It has killed a lot of terrorists.'
+p88
+aS'And it does it in a very precise way because these unmanned aerial vehicles can provide surveillance for many, many hours, days, coordinate with other forms of intelligent cell phone intercepts and really identify targets to a degree of precision that no other weapon system can do.'
+p89
+aS"So it's very accurate."
+p90
+aS'It minimizes collateral damage to civilians, does not eliminate it.'
+p91
+aS"And, of course, it keeps the U.S. operators many, many thousands of miles out of harm's way."
+p92
+asg18
+(dp93
+S'18:48:01'
+p94
+I7
+ssa(dp95
+g8
+(lp96
+S'And the side arguing against it, what do they have to put forward here?'
+p97
+asg11
+S'JOHN DONVAN'
+p98
+sg16
+(lp99
+g97
+asa(dp100
+g8
+(lp101
+S"Well, I think their best point of view is that this just doesn't feel like conventionalwarfare."
+p102
+aS'These are not soldiers on a battlefield.'
+p103
+aS"These are individuals on a kill list.They're targeted."
+p104
+aS'They feel like assassinations.'
+p105
+aS'And it raises questions about themorality, about the legality, who is it that approves these targets, how are they vetted,how precise is that process?'
+p106
+aS'What are the legal safeguards around it?'
+p107
+aS'And particularlywhen the administration reserves the right to kill American citizens abroad with thisprogram, it just shows how difficult and problematic the legal environment is aroundthese issues.'
+p108
+asg11
+S'ROBERT ROSENKRANZ'
+p109
+sg16
+(lp110
+S"Well, I think their best point of view is that this just doesn't feel like conventional warfare."
+p111
+aS'These are not soldiers on a battlefield.'
+p112
+aS'These are individuals on a kill list.'
+p113
+aS"They're targeted."
+p114
+aS'They feel like assassinations.'
+p115
+aS'And it raises questions about the morality, about the legality, who is it that approves these targets, how are they vetted, how precise is that process?'
+p116
+aS'What are the legal safeguards around it?'
+p117
+aS'And particularly when the administration reserves the right to kill American citizens abroad with this program, it just shows how difficult and problematic the legal environment is around these issues.'
+p118
+asa(dp119
+g22
+(dp120
 I2
 S'[applause]'
-p88
-ssg8
+p121
+ssg11
 S'JOHN DONVAN'
-p89
-sg10
-(dp90
+p122
+sg16
+(lp123
+S'And the nice thing about our debaters tonight, none of this is theoretical for them.'
+p124
+aS"So let's bring them out."
+p125
+aS'And thanks to Bob Rosenkranz for that introduction.'
+p126
+asg18
+(dp127
+S'18:49:02'
+p128
+I2
+ssg8
+(lp129
+S'And the nice thing about our debaters tonight, none of this is theoretical for them.'
+p130
+aS"Solet's bring them out."
+p131
+aS'And thanks to Bob Rosenkranz for that introduction.'
+p132
+asg13
+(dp133
 I2
 S'3'
-p91
-ssg13
-(lp92
-S'And the nice thing about our debaters tonight, none of this is theoretical for them. So'
-p93
-aS"let's bring them out. And thanks to Bob Rosenkranz for that introduction."
-p94
-asg16
-(dp95
-I2
-S'18:49:02'
-p96
-ssa(dp97
+p134
+ssa(dp135
 g8
-S'ROBERT ROSENKRANZ'
-p98
-sg13
-(lp99
+(lp136
 S'Thank you.'
-p100
-asa(dp101
-g20
-(dp102
+p137
+asg11
+S'ROBERT ROSENKRANZ'
+p138
+sg16
+(lp139
+g137
+asa(dp140
+g22
+(dp141
 I1
 S'[applause]'
-p103
+p142
 sI23
 S'[applause]'
-p104
+p143
 sI7
 S'[applause]'
-p105
-ssg8
+p144
+ssg11
 S'JOHN DONVAN'
-p106
-sg10
-(dp107
+p145
+sg16
+(lp146
+S'Thanks, Bob.'
+p147
+aS'Also, as I mentioned, because we are a radio broadcast, there will be a few points in the evening when I want to encourage spontaneous applause.'
+p148
+aS'Laugh when we come back from breaks and things like that.'
+p149
+aS'I think you kind of caught it.'
+p150
+aS'If I give you one of these - - yeah, you all got it.'
+p151
+aS"I'm getting nods."
+p152
+aS'Well, done without any training whatsoever.'
+p153
+aS'And I also, at this point, want to just ask for one more round of applause for Robert Rosenkranz who really made this all possible.'
+p154
+aS"The U.S. Air Force -- it's the agency that makes pilots."
+p155
+aS'And in one recent 12-month period, it made 250 of them trained up to fly bombers and fighter jets.'
+p156
+aS'But that is versus the 350 who were trained during the same period to fly drones by remote control, never leaving the ground themselves.'
+p157
+aS'350 drone pilots versus 250 traditional, clearly a trend that has good reasons behind it as the U.S. and especially the CIA sends these riderless aircraft week after week after al-Qaeda.'
+p158
+aS"But there's also a backlash against the drones and worries that the way we're using these weapons could come back to bite us."
+p159
+aS'Well, this sounds like the makings of a debate.'
+p160
+aS"So let's have it."
+p161
+aS'Yes or no to this statement: The U.S. drone program is fatally flawed, a debate from John Donvan.'
+p162
+aS'We have four superbly qualified debaters, two against two, who will argue for and against this motion: The U.S. drone program is fatally flawed.'
+p163
+aS'As always, our debate will go in three rounds.'
+p164
+aS'And then the live audience votes to choose the winner.'
+p165
+aS'And only one side can win.'
+p166
+aS'Our motion is "the U.S. drone program is fatally flawed.'
+p167
+aS'" And let\'s meet the team arguing for this motion, but first welcome, ladies and gentlemen, Ahmed Rashid.'
+p168
+aS"And, Ahmed, you are a journalist, you're a bestselling author."
+p169
+aS'In your youth straight out of Cambridge you moved to Baluchistan in Pakistan and became a guerrilla fighter and a political organizer for 10 years.'
+p170
+aS'You came home with fewer teeth and a case of malaria.'
+p171
+aS'You then became a journalist and before September 11 you spent some time with the Taliban and wrote a book called "Taliban: Militant Islam, Oil, and Fundamentalism in Central Asia.'
+p172
+aS'" It was a book that everybody wanted to read after September 11.'
+p173
+aS'According to the New York Times, when you wrote this book you, quote, "wore out welcome with the Taliban," meaning that it wasn\'t exactly a fluff piece.'
+p174
+asg18
+(dp175
+S'18:51:04'
+p176
+I20
+sS'18:50:04'
+p177
+I9
+sS'18:52:01'
+p178
+I31
+ssg8
+(lp179
+S'Thanks, Bob.Also, as I mentioned, because we are a radio broadcast, there will be a few points in the [[applause]] evening when I want to encourage spontaneous applause.'
+p180
+aS'Laugh when we come backfrom breaks and things like that.'
+p181
+aS'I think you kind of caught it.'
+p182
+aS'If I give you one of these -- yeah, you all got it.'
+p183
+aS"I'm getting nods."
+p184
+aS"Well, done without any training whatsoever.And I also, at this point, want to just ask for one more round of applause for RobertRosenkranz who really made this all possible.The U.S. Air Force -- it's the agency that makes pilots."
+p185
+aS'And in one recent 12-month [[applause]] period, it made 250 of them trained up to fly bombers and fighter jets.But that is versus the 350 who were trained during the same period to fly drones byremote control, never leaving the ground themselves.'
+p186
+aS'350 drone pilots versus 250traditional, clearly a trend that has good reasons behind it as the U.S. and especially theCIA sends these riderless aircraft week after week after al-Qaeda.'
+p187
+aS"But there's also abacklash against the drones and worries that the way we're using these weapons couldcome back to bite us."
+p188
+aS'Well, this sounds like the makings of a debate.'
+p189
+aS"So let's have it.Yes or no to this statement: The U.S. drone program is fatally flawed, a debate fromJohn Donvan."
+p190
+aS'We have four superbly qualified debaters, two against two, who willargue for and against this motion: The U.S. drone program is fatally flawed.'
+p191
+aS'As always,our debate will go in three rounds.'
+p192
+aS'And then the live audience votes to choose thewinner.And only one side can win.'
+p193
+aS'Our motion is "the U.S. drone program is fatally flawed.'
+p194
+aS'"And let\'s meet the team arguing for this motion, but first welcome, ladies andgentlemen, Ahmed Rashid.And, Ahmed, you are a journalist, you\'re a bestselling author.'
+p195
+aS'In your youth straight out [[applause]] of Cambridge you moved to Baluchistan in Pakistan and became a guerrilla fighter and apolitical organizer for 10 years.'
+p196
+aS'You came home with fewer teeth and a case of malaria.You then became a journalist and before September 11 you spent some time with theTaliban and wrote a book called "Taliban: Militant Islam, Oil, and Fundamentalism inCentral Asia.'
+p197
+aS'" It was a book that everybody wanted to read after September 11.According to the New York Times, when you wrote this book you, quote, "wore out welcome with the Taliban," meaning that it wasn\'t exactly a fluff piece.'
+p198
+asg13
+(dp199
 I20
 S'4'
-p108
-ssg13
-(lp109
-S'Thanks, Bob.'
-p110
-aS'Also, as I mentioned, because we are a radio broadcast, there will be a few points in the'
-p111
-aS'evening when I want to encourage spontaneous applause. Laugh when we come back'
-p112
-aS'from breaks and things like that. I think you kind of caught it. If I give you one of these -'
-p113
-aS"- yeah, you all got it. I'm getting nods. Well, done without any training whatsoever."
-p114
-aS'And I also, at this point, want to just ask for one more round of applause for Robert'
-p115
-aS'Rosenkranz who really made this all possible.'
-p116
-aS"The U.S. Air Force -- it's the agency that makes pilots. And in one recent 12-month"
-p117
-aS'period, it made 250 of them trained up to fly bombers and fighter jets.'
-p118
-aS'But that is versus the 350 who were trained during the same period to fly drones by'
-p119
-aS'remote control, never leaving the ground themselves. 350 drone pilots versus 250'
-p120
-aS'traditional, clearly a trend that has good reasons behind it as the U.S. and especially the'
-p121
-aS"CIA sends these riderless aircraft week after week after al-Qaeda. But there's also a"
-p122
-aS"backlash against the drones and worries that the way we're using these weapons could"
-p123
-aS"come back to bite us. Well, this sounds like the makings of a debate. So let's have it."
-p124
-aS'Yes or no to this statement: The U.S. drone program is fatally flawed, a debate from'
-p125
-aS'John Donvan. We have four superbly qualified debaters, two against two, who will'
-p126
-aS'argue for and against this motion: The U.S. drone program is fatally flawed. As always,'
-p127
-aS'our debate will go in three rounds. And then the live audience votes to choose the'
-p128
-aS'winner.'
-p129
-aS'And only one side can win. Our motion is "the U.S. drone program is fatally flawed."'
-p130
-aS"And let's meet the team arguing for this motion, but first welcome, ladies and"
-p131
-aS'gentlemen, Ahmed Rashid.'
-p132
-aS"And, Ahmed, you are a journalist, you're a bestselling author. In your youth straight out"
-p133
-aS'of Cambridge you moved to Baluchistan in Pakistan and became a guerrilla fighter and a'
-p134
-aS'political organizer for 10 years. You came home with fewer teeth and a case of malaria.'
-p135
-aS'You then became a journalist and before September 11 you spent some time with the'
-p136
-aS'Taliban and wrote a book called "Taliban: Militant Islam, Oil, and Fundamentalism in'
-p137
-aS'Central Asia." It was a book that everybody wanted to read after September 11.'
-p138
-aS'According to the New York Times, when you wrote this book you, quote, "wore out'
-p139
-aS' welcome with the Taliban," meaning that it wasn\'t exactly a fluff piece.'
-p140
-asg16
-(dp141
-I9
-S'18:50:04'
-p142
-sI20
-S'18:51:04'
-p143
-sI31
-S'18:52:01'
-p144
-ssa(dp145
+p200
+ssa(dp201
 g8
+(lp202
+S"Well, that's not entirely true because there is and there always has been a peace lobbywithin the Taliban."
+p203
+aS"And they do talk to me still, but the hardliners, I agree, don't like mevery much."
+p204
+asg11
 S'AHMED RASHID'
-p146
-sg13
-(lp147
-S"Well, that's not entirely true because there is and there always has been a peace lobby"
-p148
-aS"within the Taliban. And they do talk to me still, but the hardliners, I agree, don't like me"
-p149
-aS'very much.'
-p150
-asa(dp151
+p205
+sg16
+(lp206
+S"Well, that's not entirely true because there is and there always has been a peace lobby within the Taliban."
+p207
+aS"And they do talk to me still, but the hardliners, I agree, don't like me very much."
+p208
+asa(dp209
 g8
+(lp210
+S'And thank you, Ahmed Rashid.'
+p211
+aS'And your partner is?'
+p212
+asg11
 S'JOHN DONVAN'
-p152
-sg13
-(lp153
-S'And thank you, Ahmed Rashid. And your partner is?'
-p154
-asa(dp155
+p213
+sg16
+(lp214
+S'And thank you, Ahmed Rashid.'
+p215
+aS'And your partner is?'
+p216
+asa(dp217
 g8
-S'AHMED RASHID'
-p156
-sg13
-(lp157
+(lp218
 S'Kael --'
-p158
-asa(dp159
-g20
-(dp160
+p219
+asg11
+S'AHMED RASHID'
+p220
+sg16
+(lp221
+g219
+asa(dp222
+g22
+(dp223
 I8
 S'[laughter]'
-p161
+p224
 sI1
 S'[applause]'
-p162
-ssg8
+p225
+ssg11
 S'JOHN DONVAN'
-p163
-sg10
-(dp164
+p226
+sg16
+(lp227
+S'John Kael Weston, thank you.'
+p228
+aS'Ladies and gentlemen, John Kael Weston.'
+p229
+aS'Kael, you are also arguing that "The U.S. drone program is fatally flawed.'
+p230
+aS'" You had a very interesting and unorthodox career in the State Department.'
+p231
+aS'You were there for 10 years.'
+p232
+aS'Seven of those years you were in Iraq and Afghanistan but you were not on a red carpet inside an embassy, you were in the dust with U.S. Marines.'
+p233
+aS'You were out there in the field more than any other State Department officer.'
+p234
+aS'Newsweek, Kael, called you a "renegade diplomat" in part because of this style in the field but also because you had some issues in dealing with authority.'
+p235
+aS"So this debate, you're up against a general and an admiral, both four stars."
+p236
+aS'Are you a little intimidated by that?'
+p237
+asg18
+(dp238
+S'18:53:02'
+p239
+I8
+ssg8
+(lp240
+S'John Kael Weston, thank you.'
+p241
+aS'Ladies and gentlemen, John Kael Weston.Kael, you are also arguing that "The U.S. drone program is fatally flawed.'
+p242
+aS'" You had a [[applause]] very interesting and unorthodox career in the State Department.'
+p243
+aS'You were there for 10years.'
+p244
+aS'Seven of those years you were in Iraq and Afghanistan but you were not on a redcarpet inside an embassy, you were in the dust with U.S. Marines.'
+p245
+aS'You were out therein the field more than any other State Department officer.'
+p246
+aS'Newsweek, Kael, called you a"renegade diplomat" in part because of this style in the field but also because you hadsome issues in dealing with authority.So this debate, you\'re up against a general and an admiral, both four stars.'
+p247
+aS'Are you a [[laughter]] little intimidated by that?'
+p248
+asg13
+(dp249
 I8
 S'5'
-p165
-ssg13
-(lp166
-S'John Kael Weston, thank you. Ladies and gentlemen, John Kael Weston.'
-p167
-aS'Kael, you are also arguing that "The U.S. drone program is fatally flawed." You had a'
-p168
-aS'very interesting and unorthodox career in the State Department. You were there for 10'
-p169
-aS'years. Seven of those years you were in Iraq and Afghanistan but you were not on a red'
-p170
-aS'carpet inside an embassy, you were in the dust with U.S. Marines. You were out there'
-p171
-aS'in the field more than any other State Department officer. Newsweek, Kael, called you a'
-p172
-aS'"renegade diplomat" in part because of this style in the field but also because you had'
-p173
-aS'some issues in dealing with authority.'
-p174
-aS"So this debate, you're up against a general and an admiral, both four stars. Are you a"
-p175
-aS'little intimidated by that?'
-p176
-asg16
-(dp177
-I8
-S'18:53:02'
-p178
-ssa(dp179
-g20
-(dp180
+p250
+ssa(dp251
+g22
+(dp252
 I1
 S'[laughter]'
-p181
+p253
 ssg8
+(lp254
+S'Not really, not because they\'re ---- not because they\'re not great gentlemen, but, you know, I got star struck my first year [[laughter]] and then realized that I would no more rather be with people in the military than withthe gentlemen across the table but I have to say, that being said, you know, AmbassadorHolbrooke used to remind me what Premier Clemenceau said about war, which is "It\'stoo important to leave to military men.'
+p255
+aS'" If they\'re feeling bad about that, they just needto Google what General Jack Rippersaid in response, which is even a better quote.'
+p256
+aS'So,thank you.'
+p257
+asg11
 S'JOHN KAEL WESTON'
-p182
-sg13
-(lp183
-S"Not really, not because they're --"
-p184
-aS"-- not because they're not great gentlemen, but, you know, I got star struck my first year"
-p185
-aS'and then realized that I would no more rather be with people in the military than with'
-p186
-aS'the gentlemen across the table but I have to say, that being said, you know, Ambassador'
-p187
-aS'Holbrooke used to remind me what Premier Clemenceau said about war, which is "It\'s'
-p188
-aS'too important to leave to military men." If they\'re feeling bad about that, they just need'
-p189
-aS'to Google what General Jack Rippersaid in response, which is even a better quote. So,'
-p190
-aS'thank you.'
-p191
-asa(dp192
-g20
-(dp193
+p258
+sg16
+(lp259
+S'Not really, not because they\'re -- -- not because they\'re not great gentlemen, but, you know, I got star struck my first year and then realized that I would no more rather be with people in the military than with the gentlemen across the table but I have to say, that being said, you know, Ambassador Holbrooke used to remind me what Premier Clemenceau said about war, which is "It\'s too important to leave to military men.'
+p260
+aS'" If they\'re feeling bad about that, they just need to Google what General Jack Rippersaid in response, which is even a better quote.'
+p261
+aS'So, thank you.'
+p262
+asa(dp263
+g22
+(dp264
 I9
 S'[laughter]'
-p194
+p265
 sI2
 S'[applause]'
-p195
+p266
 sI4
 S'[applause]'
-p196
+p267
 ssg8
+(lp268
+S'All right.'
+p269
+aS"We're going to come back to you to find out."
+p270
+aS'Ladies and gentlemen, John KaelWeston.And our motion is "The U.S. drone program is fatally flawed.'
+p271
+aS'" And here to argue against [[applause]] this motion, two debaters.'
+p272
+aS'First, ladies and gentlemen, please welcome Dennis Blair.Dennis, you are a former director of National Intelligence, a retired four-star general in [[applause]] the Navy, sixth generation Naval officer in your family.'
+p273
+aS"You've commanded the UnitedStates Pacific Command."
+p274
+aS'Words used about you pretty often include often "cerebral,brainy, workaholic.'
+p275
+aS'" You\'re fluent in Russian.'
+p276
+aS"You're a Rhodes Scholar."
+p277
+aS"But we've alsoheard that you once tried to waterski behind the Navy destroyer ---- which tells us what about you?"
+p278
+aS'[[laughter]] '
+p279
+asg11
 S'JOHN DONVAN'
-p197
-sg13
-(lp198
-S"All right. We're going to come back to you to find out. Ladies and gentlemen, John Kael"
-p199
-aS'Weston.'
-p200
-aS'And our motion is "The U.S. drone program is fatally flawed." And here to argue against'
-p201
-aS'this motion, two debaters. First, ladies and gentlemen, please welcome Dennis Blair.'
-p202
-aS'Dennis, you are a former director of National Intelligence, a retired four-star general in'
-p203
-aS"the Navy, sixth generation Naval officer in your family. You've commanded the United"
-p204
-aS'States Pacific Command. Words used about you pretty often include often "cerebral,'
-p205
-aS'brainy, workaholic." You\'re fluent in Russian. You\'re a Rhodes Scholar. But we\'ve also'
-p206
-aS'heard that you once tried to waterski behind the Navy destroyer --'
-p207
-aS'-- which tells us what about you?'
-p208
-asg16
-(dp209
-I4
+p280
+sg16
+(lp281
+S'All right.'
+p282
+aS"We're going to come back to you to find out."
+p283
+aS'Ladies and gentlemen, John Kael Weston.'
+p284
+aS'And our motion is "The U.S. drone program is fatally flawed.'
+p285
+aS'" And here to argue against this motion, two debaters.'
+p286
+aS'First, ladies and gentlemen, please welcome Dennis Blair.'
+p287
+aS'Dennis, you are a former director of National Intelligence, a retired four-star general in the Navy, sixth generation Naval officer in your family.'
+p288
+aS"You've commanded the United States Pacific Command."
+p289
+aS'Words used about you pretty often include often "cerebral, brainy, workaholic.'
+p290
+aS'" You\'re fluent in Russian.'
+p291
+aS"You're a Rhodes Scholar."
+p292
+aS"But we've also heard that you once tried to waterski behind the Navy destroyer -- -- which tells us what about you?"
+p293
+asg18
+(dp294
 S'18:54:04'
-p210
-ssa(dp211
-g20
-(dp212
+p295
+I4
+ssa(dp296
+g22
+(dp297
 I1
 S'[laughter]'
-p213
+p298
 ssg8
+(lp299
+S'Well, you can be over prepared for the task at hand.'
+p300
+asg11
 S'ADMIRAL DENNIS BLAIR'
-p214
-sg10
-(dp215
+p301
+sg13
+(dp302
 I1
 S'6'
-p216
-ssg13
-(lp217
-S'Well, you can be over prepared for the task at hand.'
-p218
-asa(dp219
-g20
-(dp220
+p303
+ssg16
+(lp304
+g300
+asa(dp305
+g22
+(dp306
 I1
 S'[applause]'
-p221
+p307
 ssg8
+(lp308
+S'Thank you, Dennis Blair, ladies and gentlemen.And, Dennis, your partner is?'
+p309
+aS'[[applause]] '
+p310
+asg11
 S'JOHN DONVAN'
-p222
-sg13
-(lp223
+p311
+sg16
+(lp312
 S'Thank you, Dennis Blair, ladies and gentlemen.'
-p224
+p313
 aS'And, Dennis, your partner is?'
-p225
-asa(dp226
+p314
+asa(dp315
 g8
+(lp316
+S'One of the wise warriors of my generation in the armed forces, retired Air Force GeneralNorty Schwartz.'
+p317
+asg11
 S'ADMIRAL DENNIS BLAIR'
-p227
-sg13
-(lp228
-S'One of the wise warriors of my generation in the armed forces, retired Air Force General'
-p229
-aS'Norty Schwartz.'
-p230
-asa(dp231
-g20
-(dp232
+p318
+sg16
+(lp319
+S'One of the wise warriors of my generation in the armed forces, retired Air Force General Norty Schwartz.'
+p320
+asa(dp321
+g22
+(dp322
 I1
 S'[applause]'
-p233
+p323
 ssg8
+(lp324
+S"Ladies and gentlemen, Martin Schwartz, General Martin Schwartz.Norton Schwartz, you're also taking this position against our motion."
+p325
+aS'The motion is "The [[applause]] U.S. drone program is fatally flawed.'
+p326
+aS'" You\'re arguing against it.You have only recently retired as the U.S. Air Force\'s top officer.'
+p327
+aS'You were chief of staffin 2012 after 39 years of service.'
+p328
+aS'You got interested in flying as a kid.'
+p329
+aS'You graduatedfrom the Air Force Academy.'
+p330
+aS'As a command pilot, you have more than 4,400 hoursunder your belt.'
+p331
+aS'And it was under your leadership that actually the Air Force retooledsignificantly in the direction of drone aircraft remotely piloted aircraft.'
+p332
+aS'And I just wantto know have you actually piloted one of the -- one of those riderless planes?'
+p333
+asg11
 S'JOHN DONVAN'
-p234
-sg13
-(lp235
+p334
+sg16
+(lp335
 S'Ladies and gentlemen, Martin Schwartz, General Martin Schwartz.'
-p236
-aS'Norton Schwartz, you\'re also taking this position against our motion. The motion is "The'
-p237
-aS'U.S. drone program is fatally flawed." You\'re arguing against it.'
-p238
-aS"You have only recently retired as the U.S. Air Force's top officer. You were chief of staff"
-p239
-aS'in 2012 after 39 years of service. You got interested in flying as a kid. You graduated'
-p240
-aS'from the Air Force Academy. As a command pilot, you have more than 4,400 hours'
-p241
-aS'under your belt. And it was under your leadership that actually the Air Force retooled'
-p242
-aS'significantly in the direction of drone aircraft remotely piloted aircraft. And I just want'
-p243
-aS'to know have you actually piloted one of the -- one of those riderless planes?'
-p244
-asg16
-(dp245
-I3
+p336
+aS"Norton Schwartz, you're also taking this position against our motion."
+p337
+aS'The motion is "The U.S. drone program is fatally flawed.'
+p338
+aS'" You\'re arguing against it.'
+p339
+aS"You have only recently retired as the U.S. Air Force's top officer."
+p340
+aS'You were chief of staff in 2012 after 39 years of service.'
+p341
+aS'You got interested in flying as a kid.'
+p342
+aS'You graduated from the Air Force Academy.'
+p343
+aS'As a command pilot, you have more than 4,400 hours under your belt.'
+p344
+aS'And it was under your leadership that actually the Air Force retooled significantly in the direction of drone aircraft remotely piloted aircraft.'
+p345
+aS'And I just want to know have you actually piloted one of the -- one of those riderless planes?'
+p346
+asg18
+(dp347
 S'18:55:03'
-p246
-ssa(dp247
+p348
+I3
+ssa(dp349
 g8
+(lp350
+S'I have.'
+p351
+aS"And interestingly enough, it's harder than it looks."
+p352
+aS"It's not a cartoon."
+p353
+aS"Theinteresting thing, ladies and gentlemen, is that you don't have the sensations of flightthat you actually have in an aircraft."
+p354
+aS'And it makes a big difference.'
+p355
+asg11
 S'GENERAL NORTON SCHWARTZ'
-p248
-sg13
-(lp249
-S"I have. And interestingly enough, it's harder than it looks. It's not a cartoon. The"
-p250
-aS"interesting thing, ladies and gentlemen, is that you don't have the sensations of flight"
-p251
-aS'that you actually have in an aircraft. And it makes a big difference.'
-p252
-asa(dp253
+p356
+sg16
+(lp357
+S'I have.'
+p358
+aS"And interestingly enough, it's harder than it looks."
+p359
+aS"It's not a cartoon."
+p360
+aS"The interesting thing, ladies and gentlemen, is that you don't have the sensations of flight that you actually have in an aircraft."
+p361
+aS'And it makes a big difference.'
+p362
+asa(dp363
 g8
-S'JOHN DONVAN'
-p254
-sg13
-(lp255
+(lp364
 S"So it's a different kind of pilot."
-p256
-asa(dp257
+p365
+asg11
+S'JOHN DONVAN'
+p366
+sg16
+(lp367
+g365
+asa(dp368
 g8
-S'GENERAL NORTON SCHWARTZ'
-p258
-sg13
-(lp259
+(lp369
 S'Is it -- well, it is a different piloting experience for sure.'
-p260
-asa(dp261
-g20
-(dp262
+p370
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p371
+sg16
+(lp372
+g370
+asa(dp373
+g22
+(dp374
 I24
 S'[applause]'
-p263
+p375
 sI1
 S'[applause]'
-p264
-ssg8
+p376
+ssg11
 S'JOHN DONVAN'
-p265
-sg10
-(dp266
+p377
+sg16
+(lp378
+S'Okay, thank you.'
+p379
+aS'Ladies and gentlemen, Norton Schwartz, General Norton Schwartz.'
+p380
+aS'So as we said at the beginning, this is a debate.'
+p381
+aS"It's a contest."
+p382
+aS'And in this contest only one side wins.'
+p383
+aS'And we have you, our live audience, make that choice.'
+p384
+aS"By the time the debate is over, we will have asked you to vote twice -- once before and once again after you've heard the arguments."
+p385
+aS'And the way we decide victory here -- the team who has changed your percentage point -- your vote by the most percentage points will be declared our winner.'
+p386
+aS"So, let's go now to do the preliminary vote."
+p387
+aS'You go to those keypads that are at your seat.'
+p388
+aS"And it's on the right hand -- right arm of your seat."
+p389
+aS"You look at the motion -- I want to be careful, but there's kind of a negative built into this motion."
+p390
+aS'The U.S. Drone Program is Fatally Flawed.'
+p391
+aS"This is the team that's taking that position."
+p392
+aS"They're for that motion."
+p393
+aS'If you agree with them at this point, push #1.'
+p394
+aS"If you take the opposite side -- which means that you're with this team, push #2."
+p395
+aS"And if you're undecided, which is perfectly reasonable, push #3."
+p396
+aS"And we'll lock the votes in a couple of seconds."
+p397
+aS'If you pushed the wrong button, just correct yourself and the system will record your last vote.'
+p398
+aS'And you can ignore all of the other keys.'
+p399
+aS'And then you stick around to the end to the debate.'
+p400
+aS'We have you vote immediately.'
+p401
+aS'And then within about 90 seconds, we find out who has picked up the most percentage points.'
+p402
+aS'Okay.'
+p403
+aS"We're going to close those out now."
+p404
+aS'Our motion is: The U.S. Drone Program is Fatally Flawed.'
+p405
+aS'Onto Round 1.'
+p406
+aS'Opening statements from each of our debaters in turn.'
+p407
+aS'They will be seven minutes each.'
+p408
+aS'First to speak -- John Kael Weston.'
+p409
+aS'He is a former State Department officer.'
+p410
+aS'He spent seven years in Iraq and Afghanistan as an advisor to U.S. Marine Combat Units.'
+p411
+aS'He is now a regular contributor to the Daily Beast.'
+p412
+aS"He's writing a book, due to be published in 2014."
+p413
+aS'Ladies and gentlemen, John Kael Weston.'
+p414
+asg18
+(dp415
+S'18:57:10'
+p416
+I15
+sS'18:57:58'
+p417
+I24
+sS'18:56:01'
+p418
+I1
+ssg8
+(lp419
+S'Okay, thank you.'
+p420
+aS'Ladies and gentlemen, Norton Schwartz, General Norton Schwartz.So as we said at the beginning, this is a debate.'
+p421
+aS"It's a contest."
+p422
+aS'And in this contest only [[applause]] one side wins.'
+p423
+aS'And we have you, our live audience, make that choice.'
+p424
+aS"By the time thedebate is over, we will have asked you to vote twice -- once before and once again afteryou've heard the arguments."
+p425
+aS'And the way we decide victory here -- the team who haschanged your percentage point -- your vote by the most percentage points will bedeclared our winner.'
+p426
+aS"So, let's go now to do the preliminary vote."
+p427
+aS'You go to thosekeypads that are at your seat.'
+p428
+aS"And it's on the right hand -- right arm of your seat."
+p429
+aS"Youlook at the motion -- I want to be careful, but there's kind of a negative built into thismotion."
+p430
+aS'The U.S. Drone Program is Fatally Flawed.'
+p431
+aS"This is the team that's taking thatposition."
+p432
+aS"They're for that motion."
+p433
+aS'If you agree with them at this point, push #1.'
+p434
+aS"If youtake the opposite side -- which means that you're with this team, push #2."
+p435
+aS"And if you'reundecided, which is perfectly reasonable, push #3."
+p436
+aS"And we'll lock the votes in a coupleof seconds."
+p437
+aS'If you pushed the wrong button, just correct yourself and the system willrecord your last vote.'
+p438
+aS'And you can ignore all of the other keys.And then you stick around to the end to the debate.'
+p439
+aS'We have you vote immediately.And then within about 90 seconds, we find out who has picked up the most percentagepoints.'
+p440
+aS'Okay.'
+p441
+aS"We're going to close those out now."
+p442
+aS'Our motion is: The U.S. DroneProgram is Fatally Flawed.Onto Round 1.'
+p443
+aS'Opening statements from each of our debaters in turn.'
+p444
+aS'They will beseven minutes each.'
+p445
+aS'First to speak -- John Kael Weston.'
+p446
+aS'He is a former StateDepartment officer.'
+p447
+aS'He spent seven years in Iraq and Afghanistan as an advisor to U.S.Marine Combat Units.'
+p448
+aS'He is now a regular contributor to the Daily Beast.'
+p449
+aS"He's writing abook, due to be published in 2014."
+p450
+aS'Ladies and gentlemen, John Kael Weston.'
+p451
+asg13
+(dp452
 I1
 S'7'
-p267
-ssg13
-(lp268
-S'Okay, thank you. Ladies and gentlemen, Norton Schwartz, General Norton Schwartz.'
-p269
-aS"So as we said at the beginning, this is a debate. It's a contest. And in this contest only"
-p270
-aS'one side wins. And we have you, our live audience, make that choice. By the time the'
-p271
-aS'debate is over, we will have asked you to vote twice -- once before and once again after'
-p272
-aS"you've heard the arguments. And the way we decide victory here -- the team who has"
-p273
-aS'changed your percentage point -- your vote by the most percentage points will be'
-p274
-aS"declared our winner. So, let's go now to do the preliminary vote. You go to those"
-p275
-aS"keypads that are at your seat. And it's on the right hand -- right arm of your seat. You"
-p276
-aS"look at the motion -- I want to be careful, but there's kind of a negative built into this"
-p277
-aS"motion. The U.S. Drone Program is Fatally Flawed. This is the team that's taking that"
-p278
-aS"position. They're for that motion. If you agree with them at this point, push #1. If you"
-p279
-aS"take the opposite side -- which means that you're with this team, push #2. And if you're"
-p280
-aS"undecided, which is perfectly reasonable, push #3. And we'll lock the votes in a couple"
-p281
-aS'of seconds. If you pushed the wrong button, just correct yourself and the system will'
-p282
-aS'record your last vote. And you can ignore all of the other keys.'
-p283
-aS'And then you stick around to the end to the debate. We have you vote immediately.'
-p284
-aS'And then within about 90 seconds, we find out who has picked up the most percentage'
-p285
-aS"points. Okay. We're going to close those out now. Our motion is: The U.S. Drone"
-p286
-aS'Program is Fatally Flawed.'
-p287
-aS'Onto Round 1. Opening statements from each of our debaters in turn. They will be'
-p288
-aS'seven minutes each. First to speak -- John Kael Weston. He is a former State'
-p289
-aS'Department officer. He spent seven years in Iraq and Afghanistan as an advisor to U.S.'
-p290
-aS"Marine Combat Units. He is now a regular contributor to the Daily Beast. He's writing a"
-p291
-aS'book, due to be published in 2014. Ladies and gentlemen, John Kael Weston.'
-p292
-asg16
-(dp293
-I24
-S'18:57:58'
-p294
-sI1
-S'18:56:01'
-p295
-sI15
-S'18:57:10'
-p296
-ssa(dp297
+p453
+ssa(dp454
 g8
+(lp455
+S'Thank you.'
+p456
+aS"And I want to say, it's great to be back in New York City."
+p457
+aS"I was a residenthere for four years, and I think it's one of the two most scrappy and resilient places inAmerica."
+p458
+aS"I won't say what the other one is, but you can probably guess.I also have to say that although our topic tonight is drones, I think in the back of ourmind, we know that our nation is having a very important debate about Syria."
+p459
+aS"And I justwant to say I'm grateful that we the people are leading our government on that issue,and at least we're pausing for a while, perhaps, before a decision is made.The issue at hand is the motion that Ahmed and I are going to spend seven minuteseach -- as well as the rest of the evening, of course -- we believe strongly that theprogram is fatally flawed."
+p460
+aS"Ahmed will cover some of the issues that I won't."
+p461
+aS"We'vedivided the labor as follows: he's going to look at lot of the legality questions."
+p462
+aS"He'll lookat -- from his perspective in Pakistan and all the great books he's written -- how muchrecruiting has actually increased."
+p463
+aS'And contrary to, I think, some of the conventionalwisdom, how effective and how targeted some of these drone strikes are.My points are going to be based on having lived in interesting places like Fallujah, Khost,Helmand .'
+p464
+aS"I view my role tonight as being the ambassador for the people that don't geta voice on this debate, which are really the Afghans and the Pakistanis -- most of thepeople I sat across a table from and heard the stories after the drones launched thehellfire missiles."
+p465
+aS"So, if I do that well enough, hopefully you'll get some of their voices,which is what motivated me mostly in this debate, is to not speak as a former StateDepartment official, but to actually speak for the people."
+p466
+aS"So, it's not a headquartersperspective."
+p467
+aS"It's not a State Department official perspective."
+p468
+aS"It's their perspective.One thing left out of my bio was that my mother is a fifth-grade schoolteacher, so ifyou'll bear with me, I'm going to ask you to do a couple things she taught me."
+p469
+aS"I've gotabout 30 seconds to ask you for this, so, the first is show and tell, and the second is apop quiz."
+p470
+aS"I'm going to start with the show and tell because -- I think it reinforces, again,what's lost in the drone debate too often.This is a pakol, which is a wool cap that basically, the more rural parts of Afghanistan,you'll see the tribal people wearing."
+p471
+aS"Again, I'm trying to give voice to these guys, someof my friends."
+p472
+asg11
 S'JOHN KAEL WESTON'
-p298
-sg10
-(dp299
+p473
+sg13
+(dp474
 I5
 S'8'
-p300
-ssg13
-(lp301
-S"Thank you. And I want to say, it's great to be back in New York City. I was a resident"
-p302
-aS"here for four years, and I think it's one of the two most scrappy and resilient places in"
-p303
-aS"America. I won't say what the other one is, but you can probably guess."
-p304
-aS'I also have to say that although our topic tonight is drones, I think in the back of our'
-p305
-aS'mind, we know that our nation is having a very important debate about Syria. And I just'
-p306
-aS"want to say I'm grateful that we the people are leading our government on that issue,"
-p307
-aS"and at least we're pausing for a while, perhaps, before a decision is made."
-p308
-aS'The issue at hand is the motion that Ahmed and I are going to spend seven minutes'
-p309
-aS'each -- as well as the rest of the evening, of course -- we believe strongly that the'
-p310
-aS"program is fatally flawed. Ahmed will cover some of the issues that I won't. We've"
-p311
-aS"divided the labor as follows: he's going to look at lot of the legality questions. He'll look"
-p312
-aS"at -- from his perspective in Pakistan and all the great books he's written -- how much"
-p313
-aS'recruiting has actually increased. And contrary to, I think, some of the conventional'
-p314
-aS'wisdom, how effective and how targeted some of these drone strikes are.'
-p315
-aS'My points are going to be based on having lived in interesting places like Fallujah, Khost,'
-p316
-aS"Helmand . I view my role tonight as being the ambassador for the people that don't get"
-p317
-aS'a voice on this debate, which are really the Afghans and the Pakistanis -- most of the'
-p318
-aS'people I sat across a table from and heard the stories after the drones launched the'
-p319
-aS"hellfire missiles. So, if I do that well enough, hopefully you'll get some of their voices,"
-p320
-aS'which is what motivated me mostly in this debate, is to not speak as a former State'
-p321
-aS"Department official, but to actually speak for the people. So, it's not a headquarters"
-p322
-aS"perspective. It's not a State Department official perspective. It's their perspective."
-p323
-aS'One thing left out of my bio was that my mother is a fifth-grade schoolteacher, so if'
-p324
-aS"you'll bear with me, I'm going to ask you to do a couple things she taught me. I've got"
-p325
-aS'about 30 seconds to ask you for this, so, the first is show and tell, and the second is a'
-p326
-aS"pop quiz. I'm going to start with the show and tell because -- I think it reinforces, again,"
-p327
-aS"what's lost in the drone debate too often."
-p328
-aS'This is a pakol, which is a wool cap that basically, the more rural parts of Afghanistan,'
-p329
-aS"you'll see the tribal people wearing. Again, I'm trying to give voice to these guys, some"
-p330
-aS'of my friends.'
-p331
-asg16
-(dp332
-I27
-S'19:00:03'
-p333
-sI14
-S'18:59:00'
-p334
-ssa(dp335
-g8
-S'JOHN DONVAN'
-p336
-sg13
-(lp337
-S"Kael, just for the -- our radio audience, can you tell them that you're holding up --"
-p338
-asa(dp339
-g8
-S'JOHN KAEL WESTON'
-p340
-sg13
-(lp341
-S"It's a wool cap that kind of looks like -- I don't know how I'd explain it, but it's a pretty"
-p342
-aS"cool cap that's round and rolled up at the bottom. The --"
-p343
-asa(dp344
-g8
-S'JOHN DONVAN'
-p345
-sg10
-(dp346
-I1
-S'9'
-p347
-ssg13
-(lp348
-S'Worn by?'
-p349
-asa(dp350
-g8
-S'JOHN KAEL WESTON'
-p351
-sg10
-(dp352
-I30
-S'10'
-p353
-ssg13
-(lp354
-S'Worn by Afghans in the tribal regions. This sparkly cap is called a kandahari, which is'
-p355
-aS"what I consider the next generation of leaders that you'll see wearing a lot. And again, if"
-p356
-aS"we're listening to them, what they tell us is basically that the drone program is"
-p357
-aS'undercutting them and undercutting their future.'
-p358
-aS"And then finally -- and I'll be quick -- I think I'm speaking on behalf of the front-line"
-p359
-aS'troops, because contrary, again, to conventional wisdom, this Kevlar helmet -- which is a'
-p360
-aS'Marine helmet -- I think represents those of us who dodge more IEDs and dodge more'
-p361
-aS"bombs when these drone strikes actually don't hit their target."
-p362
-aS'Okay. The quiz. If you could pull out a piece of paper, my mom will be proud. Or if you'
-p363
-aS"can take some mental notes -- I'm going to ask you two questions, and I think they're"
-p364
-aS"important questions, and they're relevant. The first is, after 12 years of constant"
-p365
-aS'warfare, which really started in the scarred city of New York with Lower Manhattan,'
-p366
-aS'what words or adjectives do you think Afghans or Iraqis or Yemenis associate with the'
-p367
-aS'United States of America? Nouns, adjectives, whatever comes to mind.'
-p368
-aS'And then secondly, what words would you associate with our nation, the United States'
-p369
-aS'of America, after 12 years of basically constant warfare? Second question is, why is May'
-p370
-aS"1, 2010, relevant to this debate? Don't Google it. Don't use your iPhones. But if you"
-p371
-aS"happen to -- if that rings a bell with you, we'll come back to it. The two case studies I'm"
-p372
-aS"now going to focus on in about the -- half of the time I've got left are one from Iraq,"
-p373
-aS'Fallujah, and a couple basically from Afghanistan.'
-p374
-aS'In 2004, drones were not armed. They were eyes in the sky. When drones became a'
-p375
-aS"fatally flawed program is really the X that I'm trying to hit here. The Fallujans would"
-p376
-aS"look up, they'd hear a flying lawnmower. The women would hang their clothes and get"
-p377
-aS'awkward and uncomfortable. The city leaders would come into our meetings and be'
-p378
-aS"irritated, but they weren't yet strategically against us. And, of course, this is the site of"
-p379
-aS'the largest battle of the Iraq war. When did they become fatally flawed, and who did'
-p380
-aS'they become fatal to? I will argue, and Ahmed will argue as well they became fatal to'
-p381
-aS'civilians, more than a few. And they became fatal, I believe, to all of us. In Afghanistan,'
-p382
-aS'in early 2009, marine general Larry Nicholson and I were in a place called Tagaz, which is'
-p383
-aS'basically the southern reaches of our area of operation.'
-p384
-aS'We met a bunch of Marines who were alone and unafraid at the edge of the American'
-p385
-aS'military empire, overstretched. We all know the story. The next day, in the same'
-p386
-aS'location, a suicide bomber blew himself up, killed two marines and killed a corpsman. If'
-p387
-aS'anyone wanted revenge, I did. If anyone wanted revenge, General Larry Nicholson did.'
-p388
-aS'If anyone wanted revenge, the United States Marine Corps did. Within a few days, we'
-p389
-aS'identified some suspicious looking guys who were near the area from above. Two drone'
-p390
-aS'strikes landed a couple hellfire missiles. One of the men was killed right away. The'
-p391
-aS'other one was split in two. And we all watched as he tried to drag himself into the hole'
-p392
-aS"from the first strike. He couldn't hide. He bled out. He died. Was it a good guy?"
-p393
-aS'Absolutely not. But was he found out to be directly tied to the attack? No. That'
-p394
-aS"happens more than we'd like to admit. The next example is based on a New York Times"
-p395
-aS'article that just came out on Sunday. You may have read it, but I wanted to be as topical'
-p396
-aS'and as recent as I could.'
-p397
-aS'Reportedly 14 Afghans were killed. So I asked a friend of mine, who lives in Kunar, what'
-p398
-aS'he was hearing. And he quoted a villager who said this: "May Allah give me power for'
-p399
-aS'one day to use a single drone on the American people so that the American politicians'
-p400
-aS'understand how much it pains when a missile comes from the sky and kills your relatives'
-p401
-aS'in front of your eyes, and you can\'t revenge them any more." I\'ve got another quote,'
-p402
-aS"but I don't have time to get there. In closing, I found a very convincing op-ed by a very"
-p403
-aS'senior former member of our government, highly experienced, wrote it brilliantly,'
-p404
-aS'brilliant perspective. And it was titled, "Drones alone are not the answer. And it was a'
-p405
-aS'New York Times op-ed that came out on August 14th, 2011. He said, "the important'
-p406
-aS'question today is whether continued unilateral drone attacks will substantially reduce'
-p407
-aS"al-Qaeda's capabilities. They will not. And I am pleased that he is on stage with us. It's"
-p408
-aS'Admiral Blair. And I look forward to hearing more comments based on the argument he'
-p409
-aS"made in the New York Times. So I'm out of time, but thank you."
-p410
-asg16
-(dp411
-I8
-S'19:01:06'
-p412
-sI56
-S'19:05:04'
-p413
-sI43
-S'19:04:07'
-p414
-sI20
-S'19:02:08'
-p415
-sI30
-S'19:03:04'
-p416
-ssa(dp417
-g20
-(dp418
-I1
-S'[applause]'
-p419
-sI6
-S'[applause]'
-p420
-ssg8
-S'JOHN DONVAN'
-p421
-sg10
-(dp422
-I6
-S'11'
-p423
-ssg13
-(lp424
-S'Thank you, John Kael Weston.'
-p425
-aS'Our motion is "the U.S. drone program is fatally flawed." And here to speak against the'
-p426
-aS'motion in the opening position, General Norton Schwartz. He retired as chief of staff of'
-p427
-aS'the U.S. Air Force in 2012 after serving 39 years. He is currently president and CEO of'
-p428
-aS'Business Executives for National Security. Ladies and gentlemen, General Norton'
-p429
-aS'Schwartz.'
-p430
-asa(dp431
-g8
-S'GENERAL NORTON SCHWARTZ'
-p432
-sg10
-(dp433
-I28
-S'12'
-p434
-ssg13
-(lp435
-S'Good evening, ladies and gentlemen and our fellow debaters. On behalf of Admiral'
-p436
-aS"Blair, it's a privilege to be here to address with you a very, very important topic. And,"
-p437
-aS"Kael, I would argue that I'm representing the troops in the field tonight. And we can talk"
-p438
-aS"about the relative advantages. But I think it's important also to address the issue Kael"
-p439
-aS'mentioned of the strike on Sunday.'
-p440
-aS"It's important to know that that strike killed the individual who publicly admitted to"
-p441
-aS'kidnapping Sergeant Bowe Bergdahl of the United States Army who was still the only'
-p442
-aS'American service person who is incarcerated in Afghanistan today. Now, it may be that'
-p443
-aS'others were also injured and/or killed in this event. But I would argue that Afghanistan'
-p444
-aS'is a declared combat zone, ladies and gentlemen. And under the rules of armed conflict,'
-p445
-aS'that this individual was a legitimate target and clearly a combatant. And he will kidnap'
-p446
-aS'no more American servicemen.'
-p447
-aS'But let me go back to a bit more balanced discussion. What I want to do tonight -- and I'
-p448
-aS'submit, ladies and gentlemen, that the employment of U.S. strike-capable systems is a'
-p449
-aS'viable and a rational response to a vexing battlefield problem, one that must be'
-p450
-aS'calibrated, used with care, synced withpolicy. But nonetheless, one that allows us to'
-p451
-aS'pursue our objectives in a fashion that minimizes loss of life for friendly forces and'
-p452
-aS'maximizes the opportunity to avoid needless casualties of friendlies; in other words,'
-p453
-aS'collateral damage.'
-p454
-aS'Simply remotely piloted aircraft, or drones, permit more considered and more accurate'
-p455
-aS'and, as a result, more proportionate application of lethal force than any other'
-p456
-aS'comparable weapon system. Because they can spend longer time over the target than'
-p457
-aS'equivalent manned aircraft, they give their operators the time to maximize the certainty'
-p458
-aS'but not necessarily achieve absolute certainty that they are engaging the right enemy'
-p459
-aS'combatants and that they have the time and the means to confirm the presence of'
-p460
-aS'noncombatants in the presence of the intended target. Thoughtful observers like our'
-p461
-aS'partners tonight have mentioned a number of criticisms. Let me talk quickly about a'
-p462
-aS'couple of them.'
-p463
-aS'One is that the absence of physical risk to the operator encourages our political'
-p464
-aS'leadership to use remote systems more often than they would if they had to put'
-p465
-aS"American troops in harm's way. I would counter by asking whether those who use this"
-p466
-aS'argument would prefer for the American military to absorb casualties just for the'
-p467
-aS"purpose of making war less numbing to the political leadership. In addition -- that's a"
-p468
-aS'tactical level -- is the ability of remote systems to maintain surveillance of target areas'
-p469
-aS'with remote operators carefully and deliberately evaluating potential targets against the'
-p470
-aS'criteria that allows them to shoot, that makes this system so discriminating and'
-p471
-aS'effective.'
-p472
-aS'Soldiers and airmen under fire on the ground I think you would agree, Kael, are far more'
-p473
-aS'likely to shoot back at the sources of fire aimed against them, with greater danger to'
-p474
-aS'noncombatants than are remote operators whose safety and lives are not at immediate'
 p475
-aS"risk. There's also a concern that nonstate or state actors will use these technologies"
-p476
-aS'against us in a more crude and indiscriminate fashion than do we. And well, they might.'
+ssg16
+(lp476
+S'Thank you.'
 p477
-aS'But the reality is is that this technology is proliferating, and not because we chose to use'
+aS"And I want to say, it's great to be back in New York City."
 p478
-aS'it. It is a fact of technology advancing. And our lead was and remains significant.'
+aS"I was a resident here for four years, and I think it's one of the two most scrappy and resilient places in America."
 p479
-aS'So, let me go to a quick summary of some data. This goes back to 2011 in Afghanistan'
+aS"I won't say what the other one is, but you can probably guess."
 p480
-aS'during the surge period. There are about 150,000 Air Force flights in Afghanistan in'
+aS'I also have to say that although our topic tonight is drones, I think in the back of our mind, we know that our nation is having a very important debate about Syria.'
 p481
-aS'2011. Sadly, about 3,000 of those flights were medical evacuation sorties of our'
+aS"And I just want to say I'm grateful that we the people are leading our government on that issue, and at least we're pausing for a while, perhaps, before a decision is made."
 p482
-aS'wounded, and our dead. Compare that total to 25,000 close air support sorties and'
+aS'The issue at hand is the motion that Ahmed and I are going to spend seven minutes each -- as well as the rest of the evening, of course -- we believe strongly that the program is fatally flawed.'
 p483
-aS'support of ground forces, your Marines, of which 1,400 had at least one weapon'
+aS"Ahmed will cover some of the issues that I won't."
 p484
-aS'release. So what this means is, is out of 25,000 sorties, 1,400 actually released a'
+aS"We've divided the labor as follows: he's going to look at lot of the legality questions."
 p485
-aS"weapon. There were many sorties that flew with no weapon release at all. That's what"
+aS"He'll look at -- from his perspective in Pakistan and all the great books he's written -- how much recruiting has actually increased."
 p486
-aS'a professional Air Force does. Ready, finger on the trigger, but extremely careful and'
+aS'And contrary to, I think, some of the conventional wisdom, how effective and how targeted some of these drone strikes are.'
 p487
-aS'deliberate about applying lethal force in practice and in principle.'
+aS'My points are going to be based on having lived in interesting places like Fallujah, Khost, Helmand .'
 p488
-aS'333 of those 400 weapon releases were by remote systems. Now, I ask you, were those'
+aS"I view my role tonight as being the ambassador for the people that don't get a voice on this debate, which are really the Afghans and the Pakistanis -- most of the people I sat across a table from and heard the stories after the drones launched the hellfire missiles."
 p489
-aS'releases -- the three quarters of the releases -- from manned aircraft somehow more'
+aS"So, if I do that well enough, hopefully you'll get some of their voices, which is what motivated me mostly in this debate, is to not speak as a former State Department official, but to actually speak for the people."
 p490
-aS'practical, less immoral, less unfair than those 25 percent that were released by'
+aS"So, it's not a headquarters perspective."
 p491
-aS'unmanned aircraft? I think not.'
+aS"It's not a State Department official perspective."
 p492
-asg16
-(dp493
-I5
-S'19:06:04'
+aS"It's their perspective."
+p493
+aS"One thing left out of my bio was that my mother is a fifth-grade schoolteacher, so if you'll bear with me, I'm going to ask you to do a couple things she taught me."
 p494
-sI12
-S'19:07:00'
+aS"I've got about 30 seconds to ask you for this, so, the first is show and tell, and the second is a pop quiz."
 p495
-sI44
-S'19:11:04'
+aS"I'm going to start with the show and tell because -- I think it reinforces, again, what's lost in the drone debate too often."
 p496
-sI19
-S'19:07:59'
+aS"This is a pakol, which is a wool cap that basically, the more rural parts of Afghanistan, you'll see the tribal people wearing."
 p497
-sI53
-S'19:12:11'
+aS"Again, I'm trying to give voice to these guys, some of my friends."
 p498
-sI28
-S'19:09:01'
-p499
-sI37
-S'19:10:05'
+asg18
+(dp499
+S'18:59:00'
 p500
-ssa(dp501
-g20
-(dp502
-I1
-S'[applause]'
-p503
-sI5
-S'[applause]'
+I14
+sS'19:00:03'
+p501
+I27
+ssa(dp502
+g8
+(lp503
+S"Kael, just for the -- our radio audience, can you tell them that you're holding up --"
 p504
-ssg8
+asg11
 S'JOHN DONVAN'
 p505
-sg10
-(dp506
-I1
-S'13'
-p507
-ssg13
-(lp508
-S'Thank you, Norton Schwartz.'
-p509
-aS'Our motion is "The U.S. drone program is fatally flawed," and here to speak in support'
-p510
-aS'of the motion, in other words, he feels the program is fatally flawed, Ahmed Rashid. He'
-p511
-aS'is a Pakistani journalist based in Lahore and the bestselling author of several books,'
-p512
-aS'including "Taliban and Pakistan on the Brink." Ladies and gentlemen, Ahmed Rashid.'
-p513
-asg16
-(dp514
-I5
-S'19:13:04'
-p515
-ssa(dp516
+sg16
+(lp506
+g504
+asa(dp507
 g8
-S'AHMED RASHID'
+(lp508
+S"It's a wool cap that kind of looks like -- I don't know how I'd explain it, but it's a prettycool cap that's round and rolled up at the bottom."
+p509
+aS'The --'
+p510
+asg11
+S'JOHN KAEL WESTON'
+p511
+sg16
+(lp512
+S"It's a wool cap that kind of looks like -- I don't know how I'd explain it, but it's a pretty cool cap that's round and rolled up at the bottom."
+p513
+aS'The --'
+p514
+asa(dp515
+g8
+(lp516
+S'Worn by?'
 p517
-sg10
-(dp518
-I27
-S'14'
-p519
-sI61
-S'15'
+asg11
+S'JOHN DONVAN'
+p518
+sg13
+(dp519
+I1
+S'9'
 p520
-ssg13
+ssg16
 (lp521
-S"The first thing I think to make clear is that unfortunately drones -- which is -- it's a"
-p522
-aS"weapon, it's a tool, it's a tactic -- has almost become a strategy in itself, and this is how"
-p523
-aS'foreign governments and countries where drones are being used see it. All the good of'
+g517
+asa(dp522
+g8
+(lp523
+S'Worn by Afghans in the tribal regions.'
 p524
-aS'U.S. foreign policy, aid, foreign aid, training of security forces, bank loans, et cetera, et'
+aS"This sparkly cap is called a kandahari, which iswhat I consider the next generation of leaders that you'll see wearing a lot."
 p525
-aS'cetera, all are demolished when at the same time the U.S. uses drones. So in fact'
+aS"And again, ifwe're listening to them, what they tell us is basically that the drone program isundercutting them and undercutting their future.And then finally -- and I'll be quick -- I think I'm speaking on behalf of the front-linetroops, because contrary, again, to conventional wisdom, this Kevlar helmet -- which is aMarine helmet -- I think represents those of us who dodge more IEDs and dodge morebombs when these drone strikes actually don't hit their target.Okay."
 p526
-aS'drones are undermining U.S. foreign policy. They become the only symbol of foreign'
+aS'The quiz.'
 p527
-aS'policy which people abroad remember when they are -- when those countries in'
+aS'If you could pull out a piece of paper, my mom will be proud.'
 p528
-aS'particular are targeted. And some of the countries like Yemen, like Pakistan are in fact'
+aS"Or if youcan take some mental notes -- I'm going to ask you two questions, and I think they'reimportant questions, and they're relevant."
 p529
-aS'allies of the United States and drones are being used against allies, naturally that is'
+aS'The first is, after 12 years of constantwarfare, which really started in the scarred city of New York with Lower Manhattan,what words or adjectives do you think Afghans or Iraqis or Yemenis associate with theUnited States of America?'
 p530
-aS'infuriating the population even more.'
+aS'Nouns, adjectives, whatever comes to mind.And then secondly, what words would you associate with our nation, the United Statesof America, after 12 years of basically constant warfare?'
 p531
-aS'Secondly, how badly have drones affected the counterterrorism strategy, the much'
+aS'Second question is, why is May1, 2010, relevant to this debate?'
 p532
-aS'more sophisticated strategy that has emerged from the U.S. in the last few years, where'
+aS"Don't Google it."
 p533
-aS'the whole strategy is made to protect population, to provide economic incentive,'
+aS"Don't use your iPhones."
 p534
-aS'development, et cetera. Again, here we see the counterterrorism strategy being'
+aS"But if youhappen to -- if that rings a bell with you, we'll come back to it."
 p535
-aS'undermined completely by drones because the people are very scared of them, and'
+aS"The two case studies I'mnow going to focus on in about the -- half of the time I've got left are one from Iraq,Fallujah, and a couple basically from Afghanistan.In 2004, drones were not armed."
 p536
-aS'they do take out civilian targets just as much as they take out al-Qaeda. The other'
+aS'They were eyes in the sky.'
 p537
-aS'question which I think has to be agitating the minds of many Americans is how legal is'
+aS"When drones became afatally flawed program is really the X that I'm trying to hit here."
 p538
-aS'this?'
+aS"The Fallujans wouldlook up, they'd hear a flying lawnmower."
 p539
-aS'How legal is it to bomb and kill individuals in another country with which you are not at'
+aS'The women would hang their clothes and getawkward and uncomfortable.'
 p540
-aS"war, with which nothing has been disclosed, there's no transparency involved, nobody is"
+aS"The city leaders would come into our meetings and beirritated, but they weren't yet strategically against us."
 p541
-aS'informed as to why and how these people are being killed, and often this is, again,'
+aS'And, of course, this is the site ofthe largest battle of the Iraq war.'
 p542
-aS'taking place in countries, you know, that are allies of the U.S. The lack of transparency'
+aS'When did they become fatally flawed, and who didthey become fatal to?'
 p543
-aS'is not helped by the fact that the CIA has been mostly involved in using drones,'
+aS'I will argue, and Ahmed will argue as well they became fatal tocivilians, more than a few.'
 p544
-aS"especially in Pakistan. If -- and certainly there's a move now to move some of these"
+aS'And they became fatal, I believe, to all of us.'
 p545
-aS'drone attacks to the defense department, but -- and that could increase transparency,'
+aS'In Afghanistan,in early 2009, marine general Larry Nicholson and I were in a place called Tagaz, which isbasically the southern reaches of our area of operation.We met a bunch of Marines who were alone and unafraid at the edge of the Americanmilitary empire, overstretched.'
 p546
-aS"but at the moment the CIA's running it and nobody knows how these targets are chosen"
+aS'We all know the story.'
 p547
-aS'or whether killing these individuals are justified or not. Now, what all this is leading to is'
+aS'The next day, in the samelocation, a suicide bomber blew himself up, killed two marines and killed a corpsman.'
 p548
-aS'an enormous buildup of hatred for the United States, and that is not just affecting'
+aS'Ifanyone wanted revenge, I did.'
 p549
-aS'people in the target countries but people all over the Muslim world in particular.'
+aS'If anyone wanted revenge, General Larry Nicholson did.If anyone wanted revenge, the United States Marine Corps did.'
 p550
-aS"It's quite shocking to see the figures in Pakistan. One poll puts 74 percent of Pakistanis"
+aS'Within a few days, weidentified some suspicious looking guys who were near the area from above.'
 p551
-aS'now hate the U.S. more than India, and remember, Pakistan has fought three wars'
+aS'Two dronestrikes landed a couple hellfire missiles.'
 p552
-aS'against India, and India is the proverbial enemy. Another poll that I just read recently in'
+aS'One of the men was killed right away.'
 p553
-aS"Chicago, yesterday, put it at 94 percent. And here, as I sit, we're talking about a so-"
+aS'Theother one was split in two.'
 p554
-aS'called ally of the United States.'
+aS'And we all watched as he tried to drag himself into the holefrom the first strike.'
 p555
-aS'Now, what should also be worrying is the precedent that is being set. What happens'
+aS"He couldn't hide."
 p556
-aS'when another country will start using drones? First of all, what happens if a European'
+aS'He bled out.'
 p557
-aS'country, or Russia, or a so-called ally of the United States uses drones? What is the U.S.'
+aS'He died.'
 p558
-aS'strategy going to be? How is that going to affect U.S. foreign policy? Are you going to'
+aS'Was it a good guy?Absolutely not.'
 p559
-aS'slap that country down? Are you going to tell that country to behave itself and say, "No,'
+aS'But was he found out to be directly tied to the attack?'
 p560
-aS'only we have the right to kill people in other countries. You don\'t have that right."'
+aS'No.'
 p561
-aS'Even more dangerous, what happens when an enemy of the United States uses drones?'
+aS"Thathappens more than we'd like to admit."
 p562
-aS'What happens if North Korea, tomorrow, uses drones to kill South Koreans? What'
+aS'The next example is based on a New York Timesarticle that just came out on Sunday.'
 p563
-aS'happens if Al-Qaeda itself develops drones? What happens if any -- if the Syrians or any'
+aS'You may have read it, but I wanted to be as topicaland as recent as I could.Reportedly 14 Afghans were killed.'
 p564
-aS'of the problematic regimes, dictatorships, start using drones? So, what will be the U.S.'
+aS'So I asked a friend of mine, who lives in Kunar, whathe was hearing.'
 p565
-aS'policy then? Are you going to go and bomb those countries? What is the U.S. strategy'
+aS'And he quoted a villager who said this: "May Allah give me power forone day to use a single drone on the American people so that the American politiciansunderstand how much it pains when a missile comes from the sky and kills your relativesin front of your eyes, and you can\'t revenge them any more.'
 p566
-aS"policy going to be? There's a complete vacuum here. There's no thought being given to"
+aS'" I\'ve got another quote,but I don\'t have time to get there.'
 p567
-aS'this. But this could happen tomorrow. Drones now are everywhere. Drones are being'
+aS'In closing, I found a very convincing op-ed by a verysenior former member of our government, highly experienced, wrote it brilliantly,brilliant perspective.'
 p568
-aS'used for all sorts of other, peaceful projects. And any of those drones can be bought on'
+aS'And it was titled, "Drones alone are not the answer.'
 p569
-aS'the market and they could be converted into drones that kill people. And I think that'
+aS'And it was aNew York Times op-ed that came out on August 14th, 2011.'
 p570
-aS'the idea that somehow, the U.S. is going to have a monopoly over this instrument'
+aS'He said, "the importantquestion today is whether continued unilateral drone attacks will substantially reduceal-Qaeda\'s capabilities.'
 p571
-aS'forever is very short-sighted.'
+aS'They will not.'
 p572
-aS'I think the other thing that is -- that I must answer, the issue of civilian casualties. There'
+aS'And I am pleased that he is on stage with us.'
 p573
-aS'is, for example, a drone strategy now, where drones fire what are called signature'
+aS"It'sAdmiral Blair."
 p574
-aS'strikes. That is if a bunch of militants are seen or one or two militants are seen in a'
+aS'And I look forward to hearing more comments based on the argument hemade in the New York Times.'
 p575
-aS'group of civilians, or sitting in a bus or sitting in a truck, or something like that, drones'
+aS"So I'm out of time, but thank you."
 p576
-aS'are used -- can be used to kill that militant. But of course, they kill everyone else in the'
+asg11
+S'JOHN KAEL WESTON'
 p577
-aS'truck, too. Women, children, men, civilians. Now, the last drone strike, actually, on'
-p578
-aS'Sunday, was not the one that the general mentioned, but was one in which 16 civilians'
+sg13
+(dp578
+I30
+S'10'
 p579
-aS'were killed. And President Karzai just complained to the Americans. And they were'
-p580
-aS'killed by a drone, because there were a couple of militant guys in the midst of these'
+ssg16
+(lp580
+S'Worn by Afghans in the tribal regions.'
 p581
-aS'people.'
+aS"This sparkly cap is called a kandahari, which is what I consider the next generation of leaders that you'll see wearing a lot."
 p582
-aS'I think they were in a bus or a truck or something like that. So, the fact is -- I mean, the'
+aS"And again, if we're listening to them, what they tell us is basically that the drone program is undercutting them and undercutting their future."
 p583
-aS'issue of civilian casualties is very controversial. The Americans do not tell us what -- you'
+aS"And then finally -- and I'll be quick -- I think I'm speaking on behalf of the front-line troops, because contrary, again, to conventional wisdom, this Kevlar helmet -- which is a Marine helmet -- I think represents those of us who dodge more IEDs and dodge more bombs when these drone strikes actually don't hit their target."
 p584
-aS'know, how many civilians have been killed. But estimates from other groups put the'
+aS'Okay.'
 p585
-aS"casualties in Pakistan alone somewhere between 500 and 1,000. I mean, that's the level"
+aS'The quiz.'
 p586
-aS"of inaccuracy that we have, because we really don't know. These areas are inaccessible"
+aS'If you could pull out a piece of paper, my mom will be proud.'
 p587
-aS'or -- and the people who would know, certainly, by watching the video screen, the'
+aS"Or if you can take some mental notes -- I'm going to ask you two questions, and I think they're important questions, and they're relevant."
 p588
-aS'drone firer, that kind of information is available. And lastly, I think we have to'
+aS'The first is, after 12 years of constant warfare, which really started in the scarred city of New York with Lower Manhattan, what words or adjectives do you think Afghans or Iraqis or Yemenis associate with the United States of America?'
 p589
-aS'understand how drones have been a recruiting poster for Al-Qaeda and global jihad.'
+aS'Nouns, adjectives, whatever comes to mind.'
 p590
-aS'Even local groups -- local militant groups in countries which have nothing to do with Al-'
+aS'And then secondly, what words would you associate with our nation, the United States of America, after 12 years of basically constant warfare?'
 p591
-aS'Qaeda, nothing to do with global jihad -- if they have been droned, they become global'
+aS'Second question is, why is May 1, 2010, relevant to this debate?'
 p592
-aS'jihadists.'
+aS"Don't Google it."
 p593
-aS'They want to strike back at America. They want to kill Americans. And that is really'
+aS"Don't use your iPhones."
 p594
-aS'what is very dangerous, that more and more groups who are really fighting local wars'
+aS"But if you happen to -- if that rings a bell with you, we'll come back to it."
 p595
-aS'and conflicts are becoming militarized and wanting to strike back at the United States'
+aS"The two case studies I'm now going to focus on in about the -- half of the time I've got left are one from Iraq, Fallujah, and a couple basically from Afghanistan."
 p596
-aS'and those other countries.'
+aS'In 2004, drones were not armed.'
 p597
-asg16
-(dp598
-I40
-S'19:17:00'
+aS'They were eyes in the sky.'
+p598
+aS"When drones became a fatally flawed program is really the X that I'm trying to hit here."
 p599
-sI10
-S'19:14:09'
+aS"The Fallujans would look up, they'd hear a flying lawnmower."
 p600
-sI29
-S'19:16:00'
+aS'The women would hang their clothes and get awkward and uncomfortable.'
 p601
-sI72
-S'19:20:09'
+aS"The city leaders would come into our meetings and be irritated, but they weren't yet strategically against us."
 p602
-sI18
-S'19:14:54'
+aS'And, of course, this is the site of the largest battle of the Iraq war.'
 p603
-sI51
-S'19:18:08'
+aS'When did they become fatally flawed, and who did they become fatal to?'
 p604
-sI61
-S'19:19:05'
+aS'I will argue, and Ahmed will argue as well they became fatal to civilians, more than a few.'
 p605
-ssa(dp606
-g20
-(dp607
-I8
-S'[applause]'
+aS'And they became fatal, I believe, to all of us.'
+p606
+aS'In Afghanistan, in early 2009, marine general Larry Nicholson and I were in a place called Tagaz, which is basically the southern reaches of our area of operation.'
+p607
+aS'We met a bunch of Marines who were alone and unafraid at the edge of the American military empire, overstretched.'
 p608
-sI1
-S'[applause]'
+aS'We all know the story.'
 p609
+aS'The next day, in the same location, a suicide bomber blew himself up, killed two marines and killed a corpsman.'
+p610
+aS'If anyone wanted revenge, I did.'
+p611
+aS'If anyone wanted revenge, General Larry Nicholson did.'
+p612
+aS'If anyone wanted revenge, the United States Marine Corps did.'
+p613
+aS'Within a few days, we identified some suspicious looking guys who were near the area from above.'
+p614
+aS'Two drone strikes landed a couple hellfire missiles.'
+p615
+aS'One of the men was killed right away.'
+p616
+aS'The other one was split in two.'
+p617
+aS'And we all watched as he tried to drag himself into the hole from the first strike.'
+p618
+aS"He couldn't hide."
+p619
+aS'He bled out.'
+p620
+aS'He died.'
+p621
+aS'Was it a good guy?'
+p622
+aS'Absolutely not.'
+p623
+aS'But was he found out to be directly tied to the attack?'
+p624
+aS'No.'
+p625
+aS"That happens more than we'd like to admit."
+p626
+aS'The next example is based on a New York Times article that just came out on Sunday.'
+p627
+aS'You may have read it, but I wanted to be as topical and as recent as I could.'
+p628
+aS'Reportedly 14 Afghans were killed.'
+p629
+aS'So I asked a friend of mine, who lives in Kunar, what he was hearing.'
+p630
+aS'And he quoted a villager who said this: "May Allah give me power for one day to use a single drone on the American people so that the American politicians understand how much it pains when a missile comes from the sky and kills your relatives in front of your eyes, and you can\'t revenge them any more.'
+p631
+aS'" I\'ve got another quote, but I don\'t have time to get there.'
+p632
+aS'In closing, I found a very convincing op-ed by a very senior former member of our government, highly experienced, wrote it brilliantly, brilliant perspective.'
+p633
+aS'And it was titled, "Drones alone are not the answer.'
+p634
+aS'And it was a New York Times op-ed that came out on August 14th, 2011.'
+p635
+aS'He said, "the important question today is whether continued unilateral drone attacks will substantially reduce al-Qaeda\'s capabilities.'
+p636
+aS'They will not.'
+p637
+aS'And I am pleased that he is on stage with us.'
+p638
+aS"It's Admiral Blair."
+p639
+aS'And I look forward to hearing more comments based on the argument he made in the New York Times.'
+p640
+aS"So I'm out of time, but thank you."
+p641
+asg18
+(dp642
+S'19:02:08'
+p643
+I20
+sS'19:03:04'
+p644
+I30
+sS'19:01:06'
+p645
+I8
+sS'19:04:07'
+p646
+I43
+sS'19:05:04'
+p647
+I56
+ssa(dp648
+g22
+(dp649
+I1
+S'[applause]'
+p650
+sI6
+S'[applause]'
+p651
+ssg8
+(lp652
+S'Thank you, John Kael Weston.Our motion is "the U.S. drone program is fatally flawed.'
+p653
+aS'" And here to speak against the [[applause]] motion in the opening position, General Norton Schwartz.'
+p654
+aS'He retired as chief of staff ofthe U.S. Air Force in 2012 after serving 39 years.'
+p655
+aS'He is currently president and CEO ofBusiness Executives for National Security.'
+p656
+aS'Ladies and gentlemen, General NortonSchwartz.'
+p657
+asg11
+S'JOHN DONVAN'
+p658
+sg13
+(dp659
+I6
+S'11'
+p660
+ssg16
+(lp661
+S'Thank you, John Kael Weston.'
+p662
+aS'Our motion is "the U.S. drone program is fatally flawed.'
+p663
+aS'" And here to speak against the motion in the opening position, General Norton Schwartz.'
+p664
+aS'He retired as chief of staff of the U.S. Air Force in 2012 after serving 39 years.'
+p665
+aS'He is currently president and CEO of Business Executives for National Security.'
+p666
+aS'Ladies and gentlemen, General Norton Schwartz.'
+p667
+asa(dp668
+g8
+(lp669
+S'Good evening, ladies and gentlemen and our fellow debaters.'
+p670
+aS"On behalf of AdmiralBlair, it's a privilege to be here to address with you a very, very important topic."
+p671
+aS"And,Kael, I would argue that I'm representing the troops in the field tonight."
+p672
+aS'And we can talkabout the relative advantages.'
+p673
+aS"But I think it's important also to address the issue Kaelmentioned of the strike on Sunday.It's important to know that that strike killed the individual who publicly admitted tokidnapping Sergeant Bowe Bergdahl of the United States Army who was still the onlyAmerican service person who is incarcerated in Afghanistan today."
+p674
+aS'Now, it may be thatothers were also injured and/or killed in this event.'
+p675
+aS'But I would argue that Afghanistanis a declared combat zone, ladies and gentlemen.'
+p676
+aS'And under the rules of armed conflict,that this individual was a legitimate target and clearly a combatant.'
+p677
+aS'And he will kidnapno more American servicemen.But let me go back to a bit more balanced discussion.'
+p678
+aS'What I want to do tonight -- and Isubmit, ladies and gentlemen, that the employment of U.S. strike-capable systems is aviable and a rational response to a vexing battlefield problem, one that must becalibrated, used with care, synced withpolicy.'
+p679
+aS'But nonetheless, one that allows us topursue our objectives in a fashion that minimizes loss of life for friendly forces andmaximizes the opportunity to avoid needless casualties of friendlies; in other words,collateral damage.Simply remotely piloted aircraft, or drones, permit more considered and more accurateand, as a result, more proportionate application of lethal force than any othercomparable weapon system.'
+p680
+aS'Because they can spend longer time over the target thanequivalent manned aircraft, they give their operators the time to maximize the certaintybut not necessarily achieve absolute certainty that they are engaging the right enemycombatants and that they have the time and the means to confirm the presence ofnoncombatants in the presence of the intended target.'
+p681
+aS'Thoughtful observers like ourpartners tonight have mentioned a number of criticisms.'
+p682
+aS"Let me talk quickly about acouple of them.One is that the absence of physical risk to the operator encourages our politicalleadership to use remote systems more often than they would if they had to putAmerican troops in harm's way."
+p683
+aS'I would counter by asking whether those who use thisargument would prefer for the American military to absorb casualties just for thepurpose of making war less numbing to the political leadership.'
+p684
+aS"In addition -- that's atactical level -- is the ability of remote systems to maintain surveillance of target areaswith remote operators carefully and deliberately evaluating potential targets against thecriteria that allows them to shoot, that makes this system so discriminating andeffective.Soldiers and airmen under fire on the ground I think you would agree, Kael, are far morelikely to shoot back at the sources of fire aimed against them, with greater danger tononcombatants than are remote operators whose safety and lives are not at immediaterisk."
+p685
+aS"There's also a concern that nonstate or state actors will use these technologiesagainst us in a more crude and indiscriminate fashion than do we."
+p686
+aS'And well, they might.But the reality is is that this technology is proliferating, and not because we chose to useit.'
+p687
+aS'It is a fact of technology advancing.'
+p688
+aS'And our lead was and remains significant.So, let me go to a quick summary of some data.'
+p689
+aS'This goes back to 2011 in Afghanistanduring the surge period.'
+p690
+aS'There are about 150,000 Air Force flights in Afghanistan in2011.'
+p691
+aS'Sadly, about 3,000 of those flights were medical evacuation sorties of ourwounded, and our dead.'
+p692
+aS'Compare that total to 25,000 close air support sorties andsupport of ground forces, your Marines, of which 1,400 had at least one weaponrelease.'
+p693
+aS'So what this means is, is out of 25,000 sorties, 1,400 actually released aweapon.'
+p694
+aS'There were many sorties that flew with no weapon release at all.'
+p695
+aS"That's whata professional Air Force does."
+p696
+aS'Ready, finger on the trigger, but extremely careful anddeliberate about applying lethal force in practice and in principle.333 of those 400 weapon releases were by remote systems.'
+p697
+aS'Now, I ask you, were thosereleases -- the three quarters of the releases -- from manned aircraft somehow morepractical, less immoral, less unfair than those 25 percent that were released byunmanned aircraft?'
+p698
+aS'I think not.'
+p699
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p700
+sg13
+(dp701
+I28
+S'12'
+p702
+ssg16
+(lp703
+S'Good evening, ladies and gentlemen and our fellow debaters.'
+p704
+aS"On behalf of Admiral Blair, it's a privilege to be here to address with you a very, very important topic."
+p705
+aS"And, Kael, I would argue that I'm representing the troops in the field tonight."
+p706
+aS'And we can talk about the relative advantages.'
+p707
+aS"But I think it's important also to address the issue Kael mentioned of the strike on Sunday."
+p708
+aS"It's important to know that that strike killed the individual who publicly admitted to kidnapping Sergeant Bowe Bergdahl of the United States Army who was still the only American service person who is incarcerated in Afghanistan today."
+p709
+aS'Now, it may be that others were also injured and/or killed in this event.'
+p710
+aS'But I would argue that Afghanistan is a declared combat zone, ladies and gentlemen.'
+p711
+aS'And under the rules of armed conflict, that this individual was a legitimate target and clearly a combatant.'
+p712
+aS'And he will kidnap no more American servicemen.'
+p713
+aS'But let me go back to a bit more balanced discussion.'
+p714
+aS'What I want to do tonight -- and I submit, ladies and gentlemen, that the employment of U.S. strike-capable systems is a viable and a rational response to a vexing battlefield problem, one that must be calibrated, used with care, synced withpolicy.'
+p715
+aS'But nonetheless, one that allows us to pursue our objectives in a fashion that minimizes loss of life for friendly forces and maximizes the opportunity to avoid needless casualties of friendlies; in other words, collateral damage.'
+p716
+aS'Simply remotely piloted aircraft, or drones, permit more considered and more accurate and, as a result, more proportionate application of lethal force than any other comparable weapon system.'
+p717
+aS'Because they can spend longer time over the target than equivalent manned aircraft, they give their operators the time to maximize the certainty but not necessarily achieve absolute certainty that they are engaging the right enemy combatants and that they have the time and the means to confirm the presence of noncombatants in the presence of the intended target.'
+p718
+aS'Thoughtful observers like our partners tonight have mentioned a number of criticisms.'
+p719
+aS'Let me talk quickly about a couple of them.'
+p720
+aS"One is that the absence of physical risk to the operator encourages our political leadership to use remote systems more often than they would if they had to put American troops in harm's way."
+p721
+aS'I would counter by asking whether those who use this argument would prefer for the American military to absorb casualties just for the purpose of making war less numbing to the political leadership.'
+p722
+aS"In addition -- that's a tactical level -- is the ability of remote systems to maintain surveillance of target areas with remote operators carefully and deliberately evaluating potential targets against the criteria that allows them to shoot, that makes this system so discriminating and effective."
+p723
+aS'Soldiers and airmen under fire on the ground I think you would agree, Kael, are far more likely to shoot back at the sources of fire aimed against them, with greater danger to noncombatants than are remote operators whose safety and lives are not at immediate risk.'
+p724
+aS"There's also a concern that nonstate or state actors will use these technologies against us in a more crude and indiscriminate fashion than do we."
+p725
+aS'And well, they might.'
+p726
+aS'But the reality is is that this technology is proliferating, and not because we chose to use it.'
+p727
+aS'It is a fact of technology advancing.'
+p728
+aS'And our lead was and remains significant.'
+p729
+aS'So, let me go to a quick summary of some data.'
+p730
+aS'This goes back to 2011 in Afghanistan during the surge period.'
+p731
+aS'There are about 150,000 Air Force flights in Afghanistan in 2011.'
+p732
+aS'Sadly, about 3,000 of those flights were medical evacuation sorties of our wounded, and our dead.'
+p733
+aS'Compare that total to 25,000 close air support sorties and support of ground forces, your Marines, of which 1,400 had at least one weapon release.'
+p734
+aS'So what this means is, is out of 25,000 sorties, 1,400 actually released a weapon.'
+p735
+aS'There were many sorties that flew with no weapon release at all.'
+p736
+aS"That's what a professional Air Force does."
+p737
+aS'Ready, finger on the trigger, but extremely careful and deliberate about applying lethal force in practice and in principle.'
+p738
+aS'333 of those 400 weapon releases were by remote systems.'
+p739
+aS'Now, I ask you, were those releases -- the three quarters of the releases -- from manned aircraft somehow more practical, less immoral, less unfair than those 25 percent that were released by unmanned aircraft?'
+p740
+aS'I think not.'
+p741
+asg18
+(dp742
+S'19:07:00'
+p743
+I12
+sS'19:11:04'
+p744
+I44
+sS'19:10:05'
+p745
+I37
+sS'19:09:01'
+p746
+I28
+sS'19:06:04'
+p747
+I5
+sS'19:12:11'
+p748
+I53
+sS'19:07:59'
+p749
+I19
+ssa(dp750
+g22
+(dp751
+I1
+S'[applause]'
+p752
 sI5
 S'[applause]'
-p610
-ssg8
+p753
+ssg11
 S'JOHN DONVAN'
-p611
+p754
+sg16
+(lp755
+S'Thank you, Norton Schwartz.'
+p756
+aS'Our motion is "The U.S. drone program is fatally flawed," and here to speak in support of the motion, in other words, he feels the program is fatally flawed, Ahmed Rashid.'
+p757
+aS'He is a Pakistani journalist based in Lahore and the bestselling author of several books, including "Taliban and Pakistan on the Brink.'
+p758
+aS'" Ladies and gentlemen, Ahmed Rashid.'
+p759
+asg18
+(dp760
+S'19:13:04'
+p761
+I5
+ssg8
+(lp762
+S'Thank you, Norton Schwartz.Our motion is "The U.S. drone program is fatally flawed," and here to speak in support [[applause]] of the motion, in other words, he feels the program is fatally flawed, Ahmed Rashid.'
+p763
+aS'Heis a Pakistani journalist based in Lahore and the bestselling author of several books,including "Taliban and Pakistan on the Brink.'
+p764
+aS'" Ladies and gentlemen, Ahmed Rashid.'
+p765
+asg13
+(dp766
+I1
+S'13'
+p767
+ssa(dp768
+g8
+(lp769
+S"The first thing I think to make clear is that unfortunately drones -- which is -- it's aweapon, it's a tool, it's a tactic -- has almost become a strategy in itself, and this is howforeign governments and countries where drones are being used see it."
+p770
+aS'All the good ofU.S.'
+p771
+aS'foreign policy, aid, foreign aid, training of security forces, bank loans, et cetera, etcetera, all are demolished when at the same time the U.S. uses drones.'
+p772
+aS'So in factdrones are undermining U.S. foreign policy.'
+p773
+aS'They become the only symbol of foreignpolicy which people abroad remember when they are -- when those countries inparticular are targeted.'
+p774
+aS'And some of the countries like Yemen, like Pakistan are in factallies of the United States and drones are being used against allies, naturally that isinfuriating the population even more.Secondly, how badly have drones affected the counterterrorism strategy, the muchmore sophisticated strategy that has emerged from the U.S. in the last few years, wherethe whole strategy is made to protect population, to provide economic incentive,development, et cetera.'
+p775
+aS'Again, here we see the counterterrorism strategy beingundermined completely by drones because the people are very scared of them, andthey do take out civilian targets just as much as they take out al-Qaeda.'
+p776
+aS"The otherquestion which I think has to be agitating the minds of many Americans is how legal isthis?How legal is it to bomb and kill individuals in another country with which you are not atwar, with which nothing has been disclosed, there's no transparency involved, nobody isinformed as to why and how these people are being killed, and often this is, again,taking place in countries, you know, that are allies of the U.S."
+p777
+aS'The lack of transparencyis not helped by the fact that the CIA has been mostly involved in using drones,especially in Pakistan.'
+p778
+aS"If -- and certainly there's a move now to move some of thesedrone attacks to the defense department, but -- and that could increase transparency,but at the moment the CIA's running it and nobody knows how these targets are chosenor whether killing these individuals are justified or not."
+p779
+aS"Now, what all this is leading to isan enormous buildup of hatred for the United States, and that is not just affectingpeople in the target countries but people all over the Muslim world in particular.It's quite shocking to see the figures in Pakistan."
+p780
+aS'One poll puts 74 percent of Pakistanisnow hate the U.S. more than India, and remember, Pakistan has fought three warsagainst India, and India is the proverbial enemy.'
+p781
+aS'Another poll that I just read recently inChicago, yesterday, put it at 94 percent.'
+p782
+aS"And here, as I sit, we're talking about a so-called ally of the United States.Now, what should also be worrying is the precedent that is being set."
+p783
+aS'What happenswhen another country will start using drones?'
+p784
+aS'First of all, what happens if a Europeancountry, or Russia, or a so-called ally of the United States uses drones?'
+p785
+aS'What is the U.S.strategy going to be?'
+p786
+aS'How is that going to affect U.S. foreign policy?'
+p787
+aS'Are you going toslap that country down?'
+p788
+aS'Are you going to tell that country to behave itself and say, "No,only we have the right to kill people in other countries.'
+p789
+aS"You don't have that right."
+p790
+aS'"Even more dangerous, what happens when an enemy of the United States uses drones?What happens if North Korea, tomorrow, uses drones to kill South Koreans?'
+p791
+aS'Whathappens if Al-Qaeda itself develops drones?'
+p792
+aS'What happens if any -- if the Syrians or anyof the problematic regimes, dictatorships, start using drones?'
+p793
+aS'So, what will be the U.S.policy then?'
+p794
+aS'Are you going to go and bomb those countries?'
+p795
+aS'What is the U.S. strategypolicy going to be?'
+p796
+aS"There's a complete vacuum here."
+p797
+aS"There's no thought being given tothis."
+p798
+aS'But this could happen tomorrow.'
+p799
+aS'Drones now are everywhere.'
+p800
+aS'Drones are beingused for all sorts of other, peaceful projects.'
+p801
+aS'And any of those drones can be bought onthe market and they could be converted into drones that kill people.'
+p802
+aS'And I think thatthe idea that somehow, the U.S. is going to have a monopoly over this instrumentforever is very short-sighted.I think the other thing that is -- that I must answer, the issue of civilian casualties.'
+p803
+aS'Thereis, for example, a drone strategy now, where drones fire what are called signaturestrikes.'
+p804
+aS'That is if a bunch of militants are seen or one or two militants are seen in agroup of civilians, or sitting in a bus or sitting in a truck, or something like that, dronesare used -- can be used to kill that militant.'
+p805
+aS'But of course, they kill everyone else in thetruck, too.'
+p806
+aS'Women, children, men, civilians.'
+p807
+aS'Now, the last drone strike, actually, onSunday, was not the one that the general mentioned, but was one in which 16 civilianswere killed.'
+p808
+aS'And President Karzai just complained to the Americans.'
+p809
+aS'And they werekilled by a drone, because there were a couple of militant guys in the midst of thesepeople.I think they were in a bus or a truck or something like that.'
+p810
+aS'So, the fact is -- I mean, theissue of civilian casualties is very controversial.'
+p811
+aS'The Americans do not tell us what -- youknow, how many civilians have been killed.'
+p812
+aS'But estimates from other groups put thecasualties in Pakistan alone somewhere between 500 and 1,000.'
+p813
+aS"I mean, that's the levelof inaccuracy that we have, because we really don't know."
+p814
+aS'These areas are inaccessibleor -- and the people who would know, certainly, by watching the video screen, thedrone firer, that kind of information is available.'
+p815
+aS'And lastly, I think we have tounderstand how drones have been a recruiting poster for Al-Qaeda and global jihad.Even local groups -- local militant groups in countries which have nothing to do with Al-Qaeda, nothing to do with global jihad -- if they have been droned, they become globaljihadists.They want to strike back at America.'
+p816
+aS'They want to kill Americans.'
+p817
+aS'And that is reallywhat is very dangerous, that more and more groups who are really fighting local warsand conflicts are becoming militarized and wanting to strike back at the United Statesand those other countries.'
+p818
+asg11
+S'AHMED RASHID'
+p819
 sg13
-(lp612
-S'Ahmed Rashid, your time is up. Thank you very much.'
-p613
-aS"And here's where we are. We are in the opening round of this Intelligence Squared U.S."
-p614
-aS'Debate, where our motion is: The U.S. Drone Program is Fatally Flawed. You have heard'
-p615
-aS"three of the opening statements, and now on to the fourth. Let's welcome to the"
-p616
-aS'lectern Adm. Dennis Blair. Dennis Blair --'
-p617
-aS'-- served as director of National Intelligence and during his 34-year Navy career, served'
-p618
-aS'as commander in chief, U.S. Pacific Command. Ladies and gentlemen, Adm. Dennis'
-p619
-aS'Blair.'
-p620
-asg16
-(dp621
+(dp820
+I27
+S'14'
+p821
+sI61
+S'15'
+p822
+ssg16
+(lp823
+S"The first thing I think to make clear is that unfortunately drones -- which is -- it's a weapon, it's a tool, it's a tactic -- has almost become a strategy in itself, and this is how foreign governments and countries where drones are being used see it."
+p824
+aS'All the good of U.S. foreign policy, aid, foreign aid, training of security forces, bank loans, et cetera, et cetera, all are demolished when at the same time the U.S. uses drones.'
+p825
+aS'So in fact drones are undermining U.S. foreign policy.'
+p826
+aS'They become the only symbol of foreign policy which people abroad remember when they are -- when those countries in particular are targeted.'
+p827
+aS'And some of the countries like Yemen, like Pakistan are in fact allies of the United States and drones are being used against allies, naturally that is infuriating the population even more.'
+p828
+aS'Secondly, how badly have drones affected the counterterrorism strategy, the much more sophisticated strategy that has emerged from the U.S. in the last few years, where the whole strategy is made to protect population, to provide economic incentive, development, et cetera.'
+p829
+aS'Again, here we see the counterterrorism strategy being undermined completely by drones because the people are very scared of them, and they do take out civilian targets just as much as they take out al-Qaeda.'
+p830
+aS'The other question which I think has to be agitating the minds of many Americans is how legal is this?'
+p831
+aS"How legal is it to bomb and kill individuals in another country with which you are not at war, with which nothing has been disclosed, there's no transparency involved, nobody is informed as to why and how these people are being killed, and often this is, again, taking place in countries, you know, that are allies of the U.S."
+p832
+aS'The lack of transparency is not helped by the fact that the CIA has been mostly involved in using drones, especially in Pakistan.'
+p833
+aS"If -- and certainly there's a move now to move some of these drone attacks to the defense department, but -- and that could increase transparency, but at the moment the CIA's running it and nobody knows how these targets are chosen or whether killing these individuals are justified or not."
+p834
+aS'Now, what all this is leading to is an enormous buildup of hatred for the United States, and that is not just affecting people in the target countries but people all over the Muslim world in particular.'
+p835
+aS"It's quite shocking to see the figures in Pakistan."
+p836
+aS'One poll puts 74 percent of Pakistanis now hate the U.S. more than India, and remember, Pakistan has fought three wars against India, and India is the proverbial enemy.'
+p837
+aS'Another poll that I just read recently in Chicago, yesterday, put it at 94 percent.'
+p838
+aS"And here, as I sit, we're talking about a so- called ally of the United States."
+p839
+aS'Now, what should also be worrying is the precedent that is being set.'
+p840
+aS'What happens when another country will start using drones?'
+p841
+aS'First of all, what happens if a European country, or Russia, or a so-called ally of the United States uses drones?'
+p842
+aS'What is the U.S. strategy going to be?'
+p843
+aS'How is that going to affect U.S. foreign policy?'
+p844
+aS'Are you going to slap that country down?'
+p845
+aS'Are you going to tell that country to behave itself and say, "No, only we have the right to kill people in other countries.'
+p846
+aS"You don't have that right."
+p847
+aS'" Even more dangerous, what happens when an enemy of the United States uses drones?'
+p848
+aS'What happens if North Korea, tomorrow, uses drones to kill South Koreans?'
+p849
+aS'What happens if Al-Qaeda itself develops drones?'
+p850
+aS'What happens if any -- if the Syrians or any of the problematic regimes, dictatorships, start using drones?'
+p851
+aS'So, what will be the U.S. policy then?'
+p852
+aS'Are you going to go and bomb those countries?'
+p853
+aS'What is the U.S. strategy policy going to be?'
+p854
+aS"There's a complete vacuum here."
+p855
+aS"There's no thought being given to this."
+p856
+aS'But this could happen tomorrow.'
+p857
+aS'Drones now are everywhere.'
+p858
+aS'Drones are being used for all sorts of other, peaceful projects.'
+p859
+aS'And any of those drones can be bought on the market and they could be converted into drones that kill people.'
+p860
+aS'And I think that the idea that somehow, the U.S. is going to have a monopoly over this instrument forever is very short-sighted.'
+p861
+aS'I think the other thing that is -- that I must answer, the issue of civilian casualties.'
+p862
+aS'There is, for example, a drone strategy now, where drones fire what are called signature strikes.'
+p863
+aS'That is if a bunch of militants are seen or one or two militants are seen in a group of civilians, or sitting in a bus or sitting in a truck, or something like that, drones are used -- can be used to kill that militant.'
+p864
+aS'But of course, they kill everyone else in the truck, too.'
+p865
+aS'Women, children, men, civilians.'
+p866
+aS'Now, the last drone strike, actually, on Sunday, was not the one that the general mentioned, but was one in which 16 civilians were killed.'
+p867
+aS'And President Karzai just complained to the Americans.'
+p868
+aS'And they were killed by a drone, because there were a couple of militant guys in the midst of these people.'
+p869
+aS'I think they were in a bus or a truck or something like that.'
+p870
+aS'So, the fact is -- I mean, the issue of civilian casualties is very controversial.'
+p871
+aS'The Americans do not tell us what -- you know, how many civilians have been killed.'
+p872
+aS'But estimates from other groups put the casualties in Pakistan alone somewhere between 500 and 1,000.'
+p873
+aS"I mean, that's the level of inaccuracy that we have, because we really don't know."
+p874
+aS'These areas are inaccessible or -- and the people who would know, certainly, by watching the video screen, the drone firer, that kind of information is available.'
+p875
+aS'And lastly, I think we have to understand how drones have been a recruiting poster for Al-Qaeda and global jihad.'
+p876
+aS'Even local groups -- local militant groups in countries which have nothing to do with Al- Qaeda, nothing to do with global jihad -- if they have been droned, they become global jihadists.'
+p877
+aS'They want to strike back at America.'
+p878
+aS'They want to kill Americans.'
+p879
+aS'And that is really what is very dangerous, that more and more groups who are really fighting local wars and conflicts are becoming militarized and wanting to strike back at the United States and those other countries.'
+p880
+asg18
+(dp881
+S'19:17:00'
+p882
+I40
+sS'19:20:09'
+p883
+I72
+sS'19:16:00'
+p884
+I29
+sS'19:14:09'
+p885
+I10
+sS'19:18:08'
+p886
+I51
+sS'19:14:54'
+p887
+I18
+sS'19:19:05'
+p888
+I61
+ssa(dp889
+g22
+(dp890
 I8
+S'[applause]'
+p891
+sI1
+S'[applause]'
+p892
+sI5
+S'[applause]'
+p893
+ssg8
+(lp894
+S'Ahmed Rashid, your time is up.'
+p895
+aS"Thank you very much.And here's where we are."
+p896
+aS'We are in the opening round of this Intelligence Squared U.S. [[applause]] Debate, where our motion is: The U.S. Drone Program is Fatally Flawed.'
+p897
+aS'You have heardthree of the opening statements, and now on to the fourth.'
+p898
+aS"Let's welcome to thelectern Adm. Dennis Blair."
+p899
+aS'Dennis Blair ---- served as director of National Intelligence and during his 34-year Navy career, served [[applause]] as commander in chief, U.S. Pacific Command.'
+p900
+aS'Ladies and gentlemen, Adm. DennisBlair.'
+p901
+asg11
+S'JOHN DONVAN'
+p902
+sg16
+(lp903
+S'Ahmed Rashid, your time is up.'
+p904
+aS'Thank you very much.'
+p905
+aS"And here's where we are."
+p906
+aS'We are in the opening round of this Intelligence Squared U.S.'
+p907
+aS'Debate, where our motion is: The U.S. Drone Program is Fatally Flawed.'
+p908
+aS'You have heard three of the opening statements, and now on to the fourth.'
+p909
+aS"Let's welcome to the lectern Adm. Dennis Blair."
+p910
+aS'Dennis Blair -- -- served as director of National Intelligence and during his 34-year Navy career, served as commander in chief, U.S. Pacific Command.'
+p911
+aS'Ladies and gentlemen, Adm. Dennis Blair.'
+p912
+asg18
+(dp913
 S'19:21:03'
-p622
-ssa(dp623
-g20
-(dp624
+p914
+I8
+ssa(dp915
+g22
+(dp916
 I60
 S'[applause]'
-p625
-ssg8
+p917
+ssg11
 S'ADMIRAL DENNIS BLAIR'
-p626
-sg10
-(dp627
+p918
+sg16
+(lp919
+S'Gen. Schwartz addressed the use of drones in a battlefield area with U.S. troops deployed.'
+p920
+aS"I'm going to talk about the more controversial program, in which we use drones in areas in which we do not have our troops in action."
+p921
+aS'And Pakistan, of course, is the primary example that comes to mind.'
+p922
+aS'In fact, probably our motion tonight, "U.S. drone program is fatally flawed," is shorthand for "the American drones in Pakistan have been a failure.'
+p923
+aS'" And you\'ve heard from Mr. Rashid some of the objections to that.'
+p924
+aS'I would tell you that there in fact is no independent drone program.'
+p925
+aS'The drones are part of a wider strategy which is dedicated to ending the threat from al-Qaeda, a threat with which this city is very, very familiar.'
+p926
+aS'The policy of the drones, a tactic to an end, are to take care of the hard core leaders and fighters who are not persuadable, who are not going to change their demonstrated and committed intention to kill as many Americans as they can before they -- before they can accomplish that.'
+p927
+aS'The -- a conflict between a country, the United States, and a non- state group like al-Qaeda, is allowed under international humanitarian law.'
+p928
+aS"And that's what we are involved in."
+p929
+aS'It began here almost 12 years ago, 12 years ago tomorrow.'
+p930
+aS"It has continued with al-Qaeda's affiliates."
+p931
+aS'Al-Qaeda in the Arabian Peninsula sent a bomber to try to kill a bunch of Americans in an airplane over Detroit.'
+p932
+aS'TTP, Tehrik-i- Taliban in Pakistan, sent Faisal Shahzad a few blocks south of here to Times Square to kill a bunch of innocent Americans if he could.'
+p933
+aS'We are at war with this group.'
+p934
+aS'And the leadership of these organizations holed up in places like northwest Pakistan and Yemen, places where the governments of our allies, as Mr. Rashid said, do not control their territory.'
+p935
+aS"It's worse in Pakistan."
+p936
+aS'They not only do not control their territory.'
+p937
+aS'They give permission to the United States to take action where they cannot, and then they blame us for doing it, which accounts for a great deal of the sentiment in Pakistan when a dissembling hypocritical policy of Pakistani politicians allows them to blame us for actions which they themselves permit.'
+p938
+aS'But they could stop us from doing it any time.'
+p939
+aS'And the government in Yemen, by way of contrast, openly cooperates with us and tells its people that it does.'
+p940
+aS'Now, the drones have been successful.'
+p941
+aS'We have killed most of the people who planned, who directed, and then who gloated over the felling of the Twin Towers, the attack on the Pentagon and the aborted attack that ended in Shanksville, Pennsylvania.'
+p942
+aS'And we have done that not only with drones, but by armed raids, as we saw in Pakistan, by a lot of cooperation with other countries and a lot of hard intelligence.'
+p943
+aS'So drones have played a key role in a successful, but I would argue first phase, of our overall campaign against al-Qaeda.'
+p944
+aS'But what about the next phase?'
+p945
+aS'I think the role of drones in the next phase should be much different, not because the program has been a failure, but because the situation has changed, and the drones and other tactics have been successes.'
+p946
+aS'Now the job is to reduce al-Qaeda from a small-scale threat, which is where it now is, to a nuisance.'
+p947
+aS'And to do that, we have to undercut support for al-Qaeda.'
+p948
+aS"We have to make sure that Muslim mothers and fathers don't think it's a good idea to send their sons and daughters to strap on suicide vests and to kill innocent people around the world."
+p949
+aS'Al-Qaeda is doing a wonderful job against itself.'
+p950
+aS'It has killed far more Pakistanis, far more Muslims than it has Americans and Europeans.'
+p951
+aS'But we need to help it further along.'
+p952
+aS'And we must do that by becoming even more selective, even more discriminating, even more careful in our use of weapons like drones in the future.'
+p953
+aS'And the great bulk of our efforts must be dedicated to helping countries like Pakistan, like Yemen, like Mali, like the southern Philippines, like Somalia, like Libya, like Afghanistan, to make their lives better for their people so that they do not support those who attack the United States and their own governments and others.'
+p954
+aS'And this means that we need to continue to work with them.'
+p955
+aS'We need to train their security forces to do their jobs to provide security, to do it humanely, respecting the rights of the people.'
+p956
+aS'More than that, we need to help them provide economic opportunity, security, dignity, in the words of the Arab Spring.'
+p957
+aS'There will be a role for drones in that next phase of this -- of this long-term combat against al-Qaeda.'
+p958
+aS'But it will be a more limited, more discriminating role.'
+p959
+aS'And the policy in the past certainly has not been a failure, and it must adapt to be a success in the future.'
+p960
+aS"And it's only through a campaign like this, ladies and gentlemen, that I believe that we can turn al-Qaeda into just one more in a long line of terrorist groups that flared up, guttered, and then died, which is where it belongs."
+p961
+aS'Thank you.'
+p962
+asg18
+(dp963
+S'19:24:00'
+p964
+I32
+sS'19:23:08'
+p965
+I22
+sS'19:21:57'
+p966
+I9
+sS'19:26:03'
+p967
+I56
+sS'19:25:06'
+p968
+I45
+ssg8
+(lp969
+S'Gen. Schwartz addressed the use of drones in a battlefield area with U.S. troopsdeployed.'
+p970
+aS"I'm going to talk about the more controversial program, in which we usedrones in areas in which we do not have our troops in action."
+p971
+aS'And Pakistan, of course, isthe primary example that comes to mind.'
+p972
+aS'In fact, probably our motion tonight, "U.S.drone program is fatally flawed," is shorthand for "the American drones in Pakistan havebeen a failure.'
+p973
+aS'" And you\'ve heard from Mr. Rashid some of the objections to that.I would tell you that there in fact is no independent drone program.'
+p974
+aS'The drones are partof a wider strategy which is dedicated to ending the threat from al-Qaeda, a threat withwhich this city is very, very familiar.The policy of the drones, a tactic to an end, are to take care of the hard core leaders andfighters who are not persuadable, who are not going to change their demonstrated andcommitted intention to kill as many Americans as they can before they -- before theycan accomplish that.'
+p975
+aS'The -- a conflict between a country, the United States, and a non-state group like al-Qaeda, is allowed under international humanitarian law.'
+p976
+aS"And that'swhat we are involved in."
+p977
+aS'It began here almost 12 years ago, 12 years ago tomorrow.'
+p978
+aS"Ithas continued with al-Qaeda's affiliates."
+p979
+aS'Al-Qaeda in the Arabian Peninsula sent abomber to try to kill a bunch of Americans in an airplane over Detroit.'
+p980
+aS'TTP, Tehrik-i-Taliban in Pakistan, sent Faisal Shahzad a few blocks south of here to Times Square tokill a bunch of innocent Americans if he could.'
+p981
+aS'We are at war with this group.'
+p982
+aS"And theleadership of these organizations holed up in places like northwest Pakistan and Yemen,places where the governments of our allies, as Mr. Rashid said, do not control theirterritory.It's worse in Pakistan."
+p983
+aS'They not only do not control their territory.'
+p984
+aS'They give permissionto the United States to take action where they cannot, and then they blame us for doingit, which accounts for a great deal of the sentiment in Pakistan when a dissemblinghypocritical policy of Pakistani politicians allows them to blame us for actions whichthey themselves permit.'
+p985
+aS'But they could stop us from doing it any time.'
+p986
+aS'And thegovernment in Yemen, by way of contrast, openly cooperates with us and tells itspeople that it does.Now, the drones have been successful.'
+p987
+aS'We have killed most of the people who planned,who directed, and then who gloated over the felling of the Twin Towers, the attack onthe Pentagon and the aborted attack that ended in Shanksville, Pennsylvania.And we have done that not only with drones, but by armed raids, as we saw in Pakistan,by a lot of cooperation with other countries and a lot of hard intelligence.'
+p988
+aS'So droneshave played a key role in a successful, but I would argue first phase, of our overallcampaign against al-Qaeda.'
+p989
+aS'But what about the next phase?'
+p990
+aS'I think the role of dronesin the next phase should be much different, not because the program has been a failure,but because the situation has changed, and the drones and other tactics have beensuccesses.'
+p991
+aS'Now the job is to reduce al-Qaeda from a small-scale threat, which is whereit now is, to a nuisance.'
+p992
+aS'And to do that, we have to undercut support for al-Qaeda.'
+p993
+aS"Wehave to make sure that Muslim mothers and fathers don't think it's a good idea to sendtheir sons and daughters to strap on suicide vests and to kill innocent people around theworld."
+p994
+aS'Al-Qaeda is doing a wonderful job against itself.'
+p995
+aS'It has killed far more Pakistanis,far more Muslims than it has Americans and Europeans.'
+p996
+aS'But we need to help it furtheralong.And we must do that by becoming even more selective, even more discriminating, evenmore careful in our use of weapons like drones in the future.'
+p997
+aS'And the great bulk of ourefforts must be dedicated to helping countries like Pakistan, like Yemen, like Mali, likethe southern Philippines, like Somalia, like Libya, like Afghanistan, to make their livesbetter for their people so that they do not support those who attack the United Statesand their own governments and others.'
+p998
+aS'And this means that we need to continue towork with them.'
+p999
+aS'We need to train their security forces to do their jobs to providesecurity, to do it humanely, respecting the rights of the people.'
+p1000
+aS'More than that, weneed to help them provide economic opportunity, security, dignity, in the words of theArab Spring.'
+p1001
+aS'There will be a role for drones in that next phase of this -- of this long-termcombat against al-Qaeda.'
+p1002
+aS'But it will be a more limited, more discriminating role.And the policy in the past certainly has not been a failure, and it must adapt to be asuccess in the future.'
+p1003
+aS"And it's only through a campaign like this, ladies and gentlemen,that I believe that we can turn al-Qaeda into just one more in a long line of terroristgroups that flared up, guttered, and then died, which is where it belongs."
+p1004
+aS'Thank you.'
+p1005
+asg13
+(dp1006
 I0
 S'16'
-p628
+p1007
 sI32
 S'17'
-p629
-ssg13
-(lp630
-S'Gen. Schwartz addressed the use of drones in a battlefield area with U.S. troops'
-p631
-aS"deployed. I'm going to talk about the more controversial program, in which we use"
-p632
-aS'drones in areas in which we do not have our troops in action. And Pakistan, of course, is'
-p633
-aS'the primary example that comes to mind. In fact, probably our motion tonight, "U.S.'
-p634
-aS'drone program is fatally flawed," is shorthand for "the American drones in Pakistan have'
-p635
-aS'been a failure." And you\'ve heard from Mr. Rashid some of the objections to that.'
-p636
-aS'I would tell you that there in fact is no independent drone program. The drones are part'
-p637
-aS'of a wider strategy which is dedicated to ending the threat from al-Qaeda, a threat with'
-p638
-aS'which this city is very, very familiar.'
-p639
-aS'The policy of the drones, a tactic to an end, are to take care of the hard core leaders and'
-p640
-aS'fighters who are not persuadable, who are not going to change their demonstrated and'
-p641
-aS'committed intention to kill as many Americans as they can before they -- before they'
-p642
-aS'can accomplish that. The -- a conflict between a country, the United States, and a non-'
-p643
-aS"state group like al-Qaeda, is allowed under international humanitarian law. And that's"
-p644
-aS'what we are involved in. It began here almost 12 years ago, 12 years ago tomorrow. It'
-p645
-aS"has continued with al-Qaeda's affiliates. Al-Qaeda in the Arabian Peninsula sent a"
-p646
-aS'bomber to try to kill a bunch of Americans in an airplane over Detroit. TTP, Tehrik-i-'
-p647
-aS'Taliban in Pakistan, sent Faisal Shahzad a few blocks south of here to Times Square to'
-p648
-aS'kill a bunch of innocent Americans if he could. We are at war with this group. And the'
-p649
-aS'leadership of these organizations holed up in places like northwest Pakistan and Yemen,'
-p650
-aS'places where the governments of our allies, as Mr. Rashid said, do not control their'
-p651
-aS'territory.'
-p652
-aS"It's worse in Pakistan. They not only do not control their territory. They give permission"
-p653
-aS'to the United States to take action where they cannot, and then they blame us for doing'
-p654
-aS'it, which accounts for a great deal of the sentiment in Pakistan when a dissembling'
-p655
-aS'hypocritical policy of Pakistani politicians allows them to blame us for actions which'
-p656
-aS'they themselves permit. But they could stop us from doing it any time. And the'
-p657
-aS'government in Yemen, by way of contrast, openly cooperates with us and tells its'
-p658
-aS'people that it does.'
-p659
-aS'Now, the drones have been successful. We have killed most of the people who planned,'
-p660
-aS'who directed, and then who gloated over the felling of the Twin Towers, the attack on'
-p661
-aS'the Pentagon and the aborted attack that ended in Shanksville, Pennsylvania.'
-p662
-aS'And we have done that not only with drones, but by armed raids, as we saw in Pakistan,'
-p663
-aS'by a lot of cooperation with other countries and a lot of hard intelligence. So drones'
-p664
-aS'have played a key role in a successful, but I would argue first phase, of our overall'
-p665
-aS'campaign against al-Qaeda. But what about the next phase? I think the role of drones'
-p666
-aS'in the next phase should be much different, not because the program has been a failure,'
-p667
-aS'but because the situation has changed, and the drones and other tactics have been'
-p668
-aS'successes. Now the job is to reduce al-Qaeda from a small-scale threat, which is where'
-p669
-aS'it now is, to a nuisance. And to do that, we have to undercut support for al-Qaeda. We'
-p670
-aS"have to make sure that Muslim mothers and fathers don't think it's a good idea to send"
-p671
-aS'their sons and daughters to strap on suicide vests and to kill innocent people around the'
-p672
-aS'world. Al-Qaeda is doing a wonderful job against itself. It has killed far more Pakistanis,'
-p673
-aS'far more Muslims than it has Americans and Europeans. But we need to help it further'
-p674
-aS'along.'
-p675
-aS'And we must do that by becoming even more selective, even more discriminating, even'
-p676
-aS'more careful in our use of weapons like drones in the future. And the great bulk of our'
-p677
-aS'efforts must be dedicated to helping countries like Pakistan, like Yemen, like Mali, like'
-p678
-aS'the southern Philippines, like Somalia, like Libya, like Afghanistan, to make their lives'
-p679
-aS'better for their people so that they do not support those who attack the United States'
-p680
-aS'and their own governments and others. And this means that we need to continue to'
-p681
-aS'work with them. We need to train their security forces to do their jobs to provide'
-p682
-aS'security, to do it humanely, respecting the rights of the people. More than that, we'
-p683
-aS'need to help them provide economic opportunity, security, dignity, in the words of the'
-p684
-aS'Arab Spring. There will be a role for drones in that next phase of this -- of this long-term'
-p685
-aS'combat against al-Qaeda. But it will be a more limited, more discriminating role.'
-p686
-aS'And the policy in the past certainly has not been a failure, and it must adapt to be a'
-p687
-aS"success in the future. And it's only through a campaign like this, ladies and gentlemen,"
-p688
-aS'that I believe that we can turn al-Qaeda into just one more in a long line of terrorist'
-p689
-aS'groups that flared up, guttered, and then died, which is where it belongs. Thank you.'
-p690
-asg16
-(dp691
-I32
-S'19:24:00'
-p692
-sI9
-S'19:21:57'
-p693
-sI45
-S'19:25:06'
-p694
-sI22
-S'19:23:08'
-p695
-sI56
-S'19:26:03'
-p696
-ssa(dp697
+p1008
+ssa(dp1009
 g8
+(lp1010
+S'Thank you, Dennis Blair.'
+p1011
+aS'And that concludes Round 1 of this Intelligence Squared U.S.debate, where our motion is "the U.S. drone program is fatally flawed.'
+p1012
+aS'" Now we moveon to Round 2.'
+p1013
+aS'And Round 2 is where the debaters address one another directly andanswer questions from you in the audience and me -- and from me as well.'
+p1014
+aS'We havetwo teams of two arguing against this motion.'
+p1015
+aS'The team arguing for the motion that theprogram is fatally drawed -- Ahmed Rashid and John Kael Weston, the journalist and thediplomat.'
+p1016
+aS"We've heard them argue that drones give a bad name to the United States,that they have become a negative symbol to many people in the world who live underdoctor underneath them.That they are killing civilians as much as they're killing al-Qaeda; that signature strikesare taking out civilians and that they're a factor that is building up hatred against theUnited States and working as a recruiting poster for al-Qaeda."
+p1017
+aS"The team arguing againstthe motion, the admiral and the general, Dennis Blair and Norton Schwartz are arguingthat drones are far more accurate than any comparable weapon systems; that theyminimize loss of life certainly for U.S. troops, but also for civilians on the ground becauseof that accuracy; that they're a tool That lets the U.S. military reach the enemy inextremely difficult-to-reach places; and that they have done their job, that they havedecimated al-Qaeda.I want to go to the team that's arguing against the motion, which means that you do notthink the program is flawed, and quote back to you something that one of youropponents, Ahmed Rashid said, in which he said -- and I'm pretty close to verbatim here.He said that the drones take out civilian targets just as much as they take out al-Qaeda.And I don't know, Ahmed, how literally you meant that."
+p1018
+aS'But I want to put the questionto this side.'
+p1019
+aS'In terms of this proportion of civilian casualties to desired targets, what dowe know about that?'
+p1020
+aS'Norton Schwartz.'
+p1021
+asg11
 S'JOHN DONVAN'
-p698
-sg10
-(dp699
+p1022
+sg13
+(dp1023
 I6
 S'18'
-p700
-ssg13
-(lp701
-S'Thank you, Dennis Blair. And that concludes Round 1 of this Intelligence Squared U.S.'
-p702
-aS'debate, where our motion is "the U.S. drone program is fatally flawed." Now we move'
-p703
-aS'on to Round 2. And Round 2 is where the debaters address one another directly and'
-p704
-aS'answer questions from you in the audience and me -- and from me as well. We have'
-p705
-aS'two teams of two arguing against this motion. The team arguing for the motion that the'
-p706
-aS'program is fatally drawed -- Ahmed Rashid and John Kael Weston, the journalist and the'
-p707
-aS"diplomat. We've heard them argue that drones give a bad name to the United States,"
-p708
-aS'that they have become a negative symbol to many people in the world who live under'
-p709
-aS'doctor underneath them.'
-p710
-aS"That they are killing civilians as much as they're killing al-Qaeda; that signature strikes"
-p711
-aS"are taking out civilians and that they're a factor that is building up hatred against the"
-p712
-aS'United States and working as a recruiting poster for al-Qaeda. The team arguing against'
-p713
-aS'the motion, the admiral and the general, Dennis Blair and Norton Schwartz are arguing'
-p714
-aS'that drones are far more accurate than any comparable weapon systems; that they'
-p715
-aS'minimize loss of life certainly for U.S. troops, but also for civilians on the ground because'
-p716
-aS"of that accuracy; that they're a tool That lets the U.S. military reach the enemy in"
-p717
-aS'extremely difficult-to-reach places; and that they have done their job, that they have'
-p718
-aS'decimated al-Qaeda.'
-p719
-aS"I want to go to the team that's arguing against the motion, which means that you do not"
-p720
-aS'think the program is flawed, and quote back to you something that one of your'
-p721
-aS"opponents, Ahmed Rashid said, in which he said -- and I'm pretty close to verbatim here."
-p722
-aS'He said that the drones take out civilian targets just as much as they take out al-Qaeda.'
-p723
-aS"And I don't know, Ahmed, how literally you meant that. But I want to put the question"
-p724
-aS'to this side. In terms of this proportion of civilian casualties to desired targets, what do'
-p725
-aS'we know about that? Norton Schwartz.'
-p726
-asg16
-(dp727
-I9
-S'19:27:09'
-p728
-sI21
-S'19:28:02'
-p729
-ssa(dp730
-g8
-S'GENERAL NORTON SCHWARTZ'
-p731
-sg13
-(lp732
-S"The best information we have, one of the best sources, is the Long War Journal. And it's"
-p733
-aS'-- it estimates that civilian casualties versus legitimate combatants in the Afghan theater'
-p734
-aS'is about one to seven; in other words, one civilian casualty to seven legitimate'
-p735
-aS'combatant casualties. In Yemen, the numbers are somewhat different, about one'
-p736
-aS"civilian casualty to five. Now, you can question whether Long War Journal's analysis is"
-p737
-aS"accurate. It's consistent with some of the UN reporting as well."
-p738
-aS'I would argue again that any loss of life, any civilian loss of life, is not what uniform'
-p739
-aS'personal strive for. They strive to avoid that outcome.'
-p740
-asg16
-(dp741
-I6
-S'19:29:07'
-p742
-ssa(dp743
-g8
-S'JOHN DONVAN'
-p744
-sg10
-(dp745
-I3
-S'19'
-p746
-ssg13
-(lp747
-S'Let me take it over to Ahmed Rashid. Ahmed, I was quoting you as saying that the'
-p748
-aS"civilian loss is just as much as the -- the death of al-Qaeda targets. I don't know if you"
-p749
-aS"meant it 50/50, if that's what your point was."
-p750
-asa(dp751
-g8
-S'AHMED RASHID'
-p752
-sg13
-(lp753
-S"Well, we really don't know. I mean, but certainly there's enough evidence in countries"
-p754
-aS'like Pakistan and Afghanistan that civilians have died in considerable numbers. Now,'
-p755
-aS"that's probably getting less and less as drones become more and more accurate. But as"
-p756
-aS'long as things like what I described, the signature strikes continue, where it is justified'
-p757
-aS'for a controller to drop a bomb on a group of people in which some of them may be'
-p758
-aS'militants and others not, obviously, you are going to get civilian casualties.'
-p759
-aS"And as the admiral said this is a war zone. And, in a war zone, you're going to get"
-p760
-aS'civilian casualties. The fact of the matter is that this is really undermining and'
-p761
-aS'destroying everything else that the U.S. is trying to do in these countries.'
-p762
-asg16
-(dp763
-I6
-S'19:30:06'
-p764
-ssa(dp765
-g8
-S'JOHN DONVAN'
-p766
-sg13
-(lp767
-S'I want to come a little bit later back to the topic of signature strikes and talk about those'
-p768
-aS'more specifically. But just back to Dennis Blair on this notion of the accuracy of these'
-p769
-aS'weapons. Your team is arguing that, in fact, because they can hover over an area for so'
-p770
-aS"many hours, because -- maybe you're even saying because there's not a pilot with his"
-p771
-aS"heart beating and racing and being shot at, that there's a more rational and sober"
-p772
-aS'process happening at the pilot end of this, and that that makes them safer and more'
-p773
-aS"accurate. Is there something--I'm trying to get at, is there something in the nature of"
-p774
-aS"the weapon itself that -- that resulted in accuracy that's being produced on the"
-p775
-aS"battlefield? Because your opponents are saying that they're sloppy."
-p776
-asg16
-(dp777
-I9
-S'19:31:06'
-p778
-ssa(dp779
-g8
-S'ADMIRAL DENNIS BLAIR'
-p780
-sg13
-(lp781
-S'Well, I think you have to say compared to what? And when one compares the accuracy'
-p782
-aS'and the killing and wounding of bystanders from drones compared to, for example,'
-p783
-aS'artillery which is another means of close air support from a manned aircraft. Then it has'
-p784
-aS"fewer innocent casualties. That doesn't mean it's zero, and everyone as General"
-p785
-aS'Schwartz said is to be greatly regretted, but it is a -- I can tell you, your regrets are fewer'
-p786
-aS"if you're operating drones than if you're shooting artillery or having manned aircraft"
-p787
-aS'being called in.'
-p788
-asa(dp789
-g8
-S'JOHN DONVAN'
-p790
-sg10
-(dp791
-I4
-S'20'
-p792
-ssg13
-(lp793
-S'Okay, let me take that then to the other side -- take it to John Kael Weston. The other'
-p794
-aS'side is making a compelling argument that in fact the number of casualties is going to be'
-p795
-aS'lower than if somebody were dropping a bomb, firing an artillery shell, or even putting'
-p796
-aS'boots on the ground, that the proportion is lower.'
-p797
-asg16
-(dp798
-I4
-S'19:32:04'
-p799
-ssa(dp800
-g8
-S'JOHN KAEL WESTON'
-p801
-sg13
-(lp802
-S'No, I think that the key part of the ratio of one to seven and one to five is the equals'
-p803
-aS'sign behind, and that equals sign is a factor of two, three, four, five. What basically I'
-p804
-aS"think we're losing focus of is what kind of reaction are you getting in village, after"
-p805
-aS'village, after village, and how many more enemies and how many more targets are you'
-p806
-aS'creating even if one Afghan or one Pakistani is killed.'
-p807
-asa(dp808
-g8
-S'JOHN DONVAN'
-p809
-sg13
-(lp810
-S"John, I want to let you have a run at that point, but it doesn't actually answer the"
-p811
-aS'question of --'
-p812
-asa(dp813
-g8
-S'JOHN KAEL WESTON'
-p814
-sg13
-(lp815
-S'I think that the numbers --'
-p816
-asa(dp817
-g8
-S'JOHN DONVAN'
-p818
-sg13
-(lp819
-S'-- in terms of body count.'
-p820
-asa(dp821
-g8
-S'JOHN KAEL WESTON'
-p822
-sg13
-(lp823
-S"-- the body count, yeah, I haven't been close to these drone strikes. You know, we tell"
-p824
-aS'ourselves often what we want to hear, and that gets translated into memos in'
-p825
-aS"Washington, but the Afghan and Pakistani stories that I have heard is that it's -- whether"
-p826
-aS"it's one to seven or one to five, it's a lot more than any of us would like to admit to each"
-p827
-aS"other. So I don't want to argue numbers. I think it's a strategic equals sign at the end of"
-p828
-aS'the ratio that is the real problem.'
-p829
-asa(dp830
-g8
-S'JOHN DONVAN'
-p831
-sg13
-(lp832
-S"Okay, I do want to come back to what you're talking about, the equals sign being the"
-p833
-aS'impact on the image of the United States, but I -- the other side has already heard you'
-p834
-aS'make that argument.'
-p835
-aS"So I want to give them a chance to respond to that, and I'll go to Norton Schwartz. So"
-p836
-aS"your opponents have said -- they've referred to the drones as a recruiting poster for al-"
-p837
-aS"Qaeda because of the bitter resentment that is resulting in areas where they're being"
-p838
-aS'used, and do you see that?'
-p839
-asg16
-(dp840
-I3
-S'19:33:06'
-p841
-ssa(dp842
-g8
-S'GENERAL NORTON SCHWARTZ'
-p843
-sg13
-(lp844
-S'I understand the argument, but I -- but the counter to it is the reality that the U.N.'
-p845
-aS'reports that 80 to 84 percent of the civilian casualties in Iraq and Afghanistan were'
-p846
-aS'caused by the insurgency.'
-p847
-asa(dp848
-g8
-S'JOHN KAEL WESTON'
-p849
-sg10
-(dp850
-I0
-S'21'
-p851
-ssg13
-(lp852
-S'General, I -- absolutely. I think Muslims are killing more Muslims than Muslims were'
-p853
-aS'killing me, or the Marines, or the generals that I worked with. They wanted to kill us.'
-p854
-aS"We're hard to get. I think the issue --"
-p855
-asa(dp856
-g8
-S'GENERAL NORTON SCHWARTZ'
-p857
-sg13
-(lp858
-S'I -- you make my point.'
-p859
-asa(dp860
-g8
-S'JOHN KAEL WESTON'
-p861
-sg13
-(lp862
-S"Well -- but drones, you've made a point earlier on about pilots being somehow more"
-p863
-aS'rational, being removed from the battle, operating out of Nellis Air Force Base in Nevada'
-p864
-aS"or wherever they're operating out of."
-p865
-aS"I would disagree. We don't give medals for restraint, we give medals for combat valor,"
-p866
-aS'but I saw a lot of restraint on the front lines.'
-p867
-asg16
-(dp868
-I3
-S'19:34:07'
-p869
-ssa(dp870
-g8
-S'GENERAL NORTON SCHWARTZ'
-p871
-sg13
-(lp872
-S'Look, your Marines were rigorous about applying the rules of engagement, and so are'
-p873
-aS'our pilots, Kale. The bottom line is this is about discipline, and I agree. Civilian'
-p874
-aS'casualties is the equals sign, and everyone knows that. And are mistakes made from'
-p875
-aS'time to time? Yes, but that is not the policy, nor is it the training, nor is it the'
-p876
-aS'supervision of those assets.'
-p877
-asa(dp878
-g8
-S'JOHN DONVAN'
-p879
-sg13
-(lp880
-S'Ahmed Rashid.'
-p881
-asa(dp882
-g8
-S'AHMED RASHID'
-p883
-sg13
-(lp884
-S'Look, I -- if I can just make one point, neither of you two, with all due respect, have'
-p885
-aS'addressed this whole issue about U.S. foreign policy and the use of drones. The fact is'
-p886
-aS'that today, you know, you are throwing technology at foreign policy conundrums where'
-p887
-aS'you should throw aid, or diplomats, or peacekeepers, or whatever it is.'
-p888
-aS'What we are seeing today in many parts of the world where drones are being used, that'
-p889
-aS"foreign policy is being subsumed by technology. We've never had this before. I mean,"
-p890
-aS'how can you allow technology to determine what your foreign policy --'
-p891
-asg16
-(dp892
-I4
-S'19:35:10'
-p893
-ssa(dp894
-g8
-S'JOHN DONVAN'
-p895
-sg10
-(dp896
-I4
-S'22'
-p897
-ssg13
-(lp898
-S'Are you saying, then, that drones represent a -- that drones in themselves represent a'
-p899
-aS'new dimension in this conflict? In other words, are you -- would you be making the'
-p900
-aS'same argument if planes were dropping bombs in these communities that you are'
-p901
-aS'making because drones are hovering over them?'
-p902
-asa(dp903
-g8
-S'AHMED RASHID'
-p904
-sg13
-(lp905
-S"I'm saying that this is the impact that they are having in the countries that received"
-p906
-aS"these drones. This is what the public thinks. This is why there's so much --"
-p907
-asa(dp908
-g8
-S'JOHN DONVAN'
-p909
-sg13
-(lp910
-S'But is that drone -- is that drone specific or is that ordinance? Is that explosive specific?'
-p911
-asa(dp912
-g8
-S'AHMED RASHID'
-p913
-sg13
-(lp914
-S"No, it's about drones because drones are a very sinister way of of killing people. I mean,"
-p915
-aS"they're not accepted as a normal --"
-p916
-aS' '
-p917
-asg16
-(dp918
-I2
-S'19:36:04'
-p919
-ssa(dp920
-g8
-S'JOHN DONVAN'
-p921
-sg13
-(lp922
-S'All right, let me bring in Dennis Blair. General, let me just bring in Dennis Blair.'
-p923
-ag917
-aS"Kael, one second, and let's let them --"
-p924
-asa(dp925
-g8
-S'JOHN KAEL WESTON'
-p926
-sg13
-(lp927
-S'-- by saying the drones are going to come after you. '
-p928
-asa(dp929
-g8
-S'JOHN DONVAN'
-p930
-sg13
-(lp931
-S"You'll get your turn and --"
-p932
-asa(dp933
-g8
-S'ADMIRAL DENNIS BLAIR'
-p934
-sg13
-(lp935
-S'Let me --'
-p936
-asa(dp937
-g8
-S'JOHN DONVAN'
-p938
-sg13
-(lp939
-S'Dennis Blair.'
-p940
-asa(dp941
-g8
-S'ADMIRAL DENNIS BLAIR'
-p942
-sg10
-(dp943
-I7
-S'23'
-p944
-ssg13
-(lp945
-S'Let me talk about Yemen and just take us a little bit out of Pakistan here for a while. In'
-p946
-aS'the last two years, we have given $200 million in assistance -- $600 million in assistance'
-p947
-aS'to Yemen. Of that, virtually two-thirds has been economic assistance, humanitarian'
-p948
-aS'assistance, and governance assistance. Roughly one-third has gone to security'
-p949
-aS'assistance. That is, to Yemen. And so, we do have a broad-based program in places like'
-p950
-aS'Yemen. We are trying to work on places. The media impression, however, is fascinated'
-p951
-aS"with the drones. They're sexy. They're sinister. They're so on. So, I'm sorry, but the"
-p952
-aS'reality is that it is a broad-based program of which drones are a part and used very'
-p953
-aS'selectively.'
-p954
-aS'And the people who look carefully can understand that. The people who just want to'
-p955
-aS'read the first headline and say, "That\'s all of American policy" are going to stop there.'
-p956
-asg16
-(dp957
-I9
-S'19:37:02'
-p958
-ssa(dp959
-g8
-S'JOHN KAEL WESTON'
-p960
-sg13
-(lp961
-S'You know, there are two narratives --'
-p962
-asa(dp963
-g8
-S'JOHN DONVAN'
-p964
-sg13
-(lp965
-S'Kael Weston.'
-p966
-asa(dp967
-g8
-S'JOHN KAEL WESTON'
-p968
-sg13
-(lp969
-S"-- at work here. There's the American narrative and there's their narrative. We spent a"
-p970
-aS'lot of time talking to each other about our narrative, but if you listen to the future'
-p971
-aS'leaders of Afghanistan, you listen to the next generation -- drones is a big issues,'
-p972
-aS'because it is about the legalities. The law students at Khost University used to ask me,'
-p973
-aS'"What is your case for drones?" Just like Guantanamo, just like the language of these'
-p974
-aS"wars that we're in. They are very, very big on how we're doing our wars. So, if we lose"
-p975
-aS'that narrative to Al-Qaeda, I think that ratio is actually the equals sign. And if I lined up'
-p976
-aS'a bunch of Afghans on this stage, I can tell you, what they tell us is probably what we'
-p977
-aS"don't want to hear but we need to hear, and that's really the goal for me tonight, is to"
-p978
-aS'bring their voice into this debate. Back on the issue, though, of whether -- you know --'
-p979
-asa(dp980
-g8
-S'JOHN DONVAN'
-p981
-sg13
-(lp982
-S'But before you go to the issue -- and tell me what it is -- because I do want to remember'
-p983
-aS'it --'
-p984
-asa(dp985
-g8
-S'JOHN KAEL WESTON'
-p986
-sg13
-(lp987
-S"-- it's back to, you know, dropping bombs from Nevada in Pakistan."
-p988
-asg16
-(dp989
-I1
-S'19:38:05'
-p990
-ssa(dp991
-g8
-S'JOHN DONVAN'
-p992
-sg10
-(dp993
-I6
-S'24'
-p994
-ssg13
-(lp995
-S"All right. I want to come back to it, because the point that you just made -- you're"
-p996
-aS"reporting from the ground. You're basically telling the high-ranking officers that you"
-p997
-aS"were there and that despite their understanding of the situation that because you're on"
-p998
-aS"the ground, you're reporting back what you think the Afghans think, that you're sharing"
-p999
-aS'your perception of their hearts and minds. I just want to take that to this side. Because'
-p1000
-aS"I think it's offered in honesty."
-p1001
-ag917
-aS"Yeah. And so, what they're saying regardless of intentions and even the structure, that"
-p1002
-aS'word is out not just in the American media, but the word is out in the communities that'
-p1003
-aS'the drones are different, drones are more dangerous, drones -- you used the word'
-p1004
-aS'"sinister," that it\'s a different kind of thing. I just want to -- if you were having dinner'
-p1005
-aS'about this conversation, and he shared that -- just fact, what would you say to him?'
-p1006
-asa(dp1007
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1008
-sg13
-(lp1009
-S"I -- it's pretty --"
-p1010
-asa(dp1011
-g8
-S'JOHN DONVAN'
-p1012
-sg13
-(lp1013
-S'Norton Schwartz.'
-p1014
-asa(dp1015
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1016
-sg13
-(lp1017
-S'-- straightforward, actually. And that is that the reality is that we have a scenario where'
-p1018
-aS'the weapon -- the platform is not the issue.'
-p1019
-aS"It's the legitimacy of the target. And the targeting methodology that goes along with it."
-p1020
-asg16
-(dp1021
-I2
-S'19:39:09'
-p1022
-ssa(dp1023
-g8
-S'JOHN KAEL WESTON'
 p1024
-sg13
+ssg16
 (lp1025
-S'Could I put on the table the issue of double and triple tapping? There --'
+S'Thank you, Dennis Blair.'
 p1026
-asa(dp1027
-g8
-S'JOHN DONVAN'
+aS'And that concludes Round 1 of this Intelligence Squared U.S. debate, where our motion is "the U.S. drone program is fatally flawed.'
+p1027
+aS'" Now we move on to Round 2.'
 p1028
-sg13
-(lp1029
-S'Explain it -- explain it to --'
+aS'And Round 2 is where the debaters address one another directly and answer questions from you in the audience and me -- and from me as well.'
+p1029
+aS'We have two teams of two arguing against this motion.'
 p1030
-asa(dp1031
-g8
-S'JOHN KAEL WESTON'
+aS'The team arguing for the motion that the program is fatally drawed -- Ahmed Rashid and John Kael Weston, the journalist and the diplomat.'
+p1031
+aS"We've heard them argue that drones give a bad name to the United States, that they have become a negative symbol to many people in the world who live under doctor underneath them."
 p1032
-sg13
-(lp1033
-S"-- are a number of cases where -- and I've lived this -- where -- especially in Khost"
+aS"That they are killing civilians as much as they're killing al-Qaeda; that signature strikes are taking out civilians and that they're a factor that is building up hatred against the United States and working as a recruiting poster for al-Qaeda."
+p1033
+aS"The team arguing against the motion, the admiral and the general, Dennis Blair and Norton Schwartz are arguing that drones are far more accurate than any comparable weapon systems; that they minimize loss of life certainly for U.S. troops, but also for civilians on the ground because of that accuracy; that they're a tool That lets the U.S. military reach the enemy in extremely difficult-to-reach places; and that they have done their job, that they have decimated al-Qaeda."
 p1034
-aS'Province, where Mohammed Atta was trained. This is territory directly tied to 9/11,'
+aS"I want to go to the team that's arguing against the motion, which means that you do not think the program is flawed, and quote back to you something that one of your opponents, Ahmed Rashid said, in which he said -- and I'm pretty close to verbatim here."
 p1035
-aS"unlike Iraq. When you double and triple tap, you're not even going after the initial"
+aS'He said that the drones take out civilian targets just as much as they take out al-Qaeda.'
 p1036
-aS"target. You're actually dropping bombs on the people that come after Round 2 or"
+aS"And I don't know, Ahmed, how literally you meant that."
 p1037
-aS"Round 3. What's the rationale? What's the intelligence? What's the argument that you"
+aS'But I want to put the question to this side.'
 p1038
-aS'would make to a law student sitting at Khost University.'
+aS'In terms of this proportion of civilian casualties to desired targets, what do we know about that?'
 p1039
-asa(dp1040
-g8
-S'JOHN DONVAN'
-p1041
-sg13
-(lp1042
-S'One second. Did everybody follow what double tap and triple tap means? No? All'
+aS'Norton Schwartz.'
+p1040
+asg18
+(dp1041
+S'19:27:09'
+p1042
+I9
+sS'19:28:02'
 p1043
-aS"right. It's when -- basically, it's a follow-up -- it's a second wave, a third wave --"
-p1044
-asa(dp1045
+I21
+ssa(dp1044
 g8
-S'JOHN KAEL WESTON'
+(lp1045
+S'The best information we have, one of the best sources, is the Long War Journal.'
 p1046
-sg10
-(dp1047
-I1
-S'25'
+aS"And it's-- it estimates that civilian casualties versus legitimate combatants in the Afghan theateris about one to seven; in other words, one civilian casualty to seven legitimatecombatant casualties."
+p1047
+aS'In Yemen, the numbers are somewhat different, about onecivilian casualty to five.'
 p1048
-ssg13
-(lp1049
-S'-- of bombs.'
+aS"Now, you can question whether Long War Journal's analysis isaccurate."
+p1049
+aS"It's consistent with some of the UN reporting as well.I would argue again that any loss of life, any civilian loss of life, is not what uniformpersonal strive for."
 p1050
-asa(dp1051
-g8
-S'JOHN DONVAN'
+aS'They strive to avoid that outcome.'
+p1051
+asg11
+S'GENERAL NORTON SCHWARTZ'
 p1052
-sg13
+sg16
 (lp1053
-S"-- attack. And what Kael is saying, that he believes he's seen it happen, where the"
+S'The best information we have, one of the best sources, is the Long War Journal.'
 p1054
-aS'second wave comes when the firefighters and the hospital people are around. I think'
+aS"And it's -- it estimates that civilian casualties versus legitimate combatants in the Afghan theater is about one to seven; in other words, one civilian casualty to seven legitimate combatant casualties."
 p1055
-aS"that's what you --"
+aS'In Yemen, the numbers are somewhat different, about one civilian casualty to five.'
 p1056
-asg16
-(dp1057
-I3
-S'19:40:07'
+aS"Now, you can question whether Long War Journal's analysis is accurate."
+p1057
+aS"It's consistent with some of the UN reporting as well."
 p1058
-ssa(dp1059
-g8
-S'JOHN KAEL WESTON'
+aS'I would argue again that any loss of life, any civilian loss of life, is not what uniform personal strive for.'
+p1059
+aS'They strive to avoid that outcome.'
 p1060
-sg13
-(lp1061
-S'Family members --'
+asg18
+(dp1061
+S'19:29:07'
 p1062
-asa(dp1063
+I6
+ssa(dp1063
 g8
-S'JOHN DONVAN'
-p1064
-sg13
-(lp1065
-S'Okay.'
+(lp1064
+S'Let me take it over to Ahmed Rashid.'
+p1065
+aS'Ahmed, I was quoting you as saying that thecivilian loss is just as much as the -- the death of al-Qaeda targets.'
 p1066
-asa(dp1067
-g8
-S'JOHN KAEL WESTON'
+aS"I don't know if youmeant it 50/50, if that's what your point was."
+p1067
+asg11
+S'JOHN DONVAN'
 p1068
 sg13
-(lp1069
-S'-- community member, whoever it is. They --'
+(dp1069
+I3
+S'19'
 p1070
-asa(dp1071
-g8
-S'JOHN DONVAN'
+ssg16
+(lp1071
+S'Let me take it over to Ahmed Rashid.'
 p1072
-sg13
-(lp1073
-S'All right. I just wanted to --'
+aS'Ahmed, I was quoting you as saying that the civilian loss is just as much as the -- the death of al-Qaeda targets.'
+p1073
+aS"I don't know if you meant it 50/50, if that's what your point was."
 p1074
 asa(dp1075
 g8
-S'JOHN KAEL WESTON'
-p1076
-sg13
-(lp1077
-S'-- get bombed, too.'
+(lp1076
+S"Well, we really don't know."
+p1077
+aS"I mean, but certainly there's enough evidence in countrieslike Pakistan and Afghanistan that civilians have died in considerable numbers."
 p1078
-asa(dp1079
-g8
-S'JOHN DONVAN'
+aS"Now,that's probably getting less and less as drones become more and more accurate."
+p1079
+aS'But aslong as things like what I described, the signature strikes continue, where it is justifiedfor a controller to drop a bomb on a group of people in which some of them may bemilitants and others not, obviously, you are going to get civilian casualties.And as the admiral said this is a war zone.'
 p1080
-sg13
-(lp1081
-S'-- have clarity for you on that.'
+aS"And, in a war zone, you're going to getcivilian casualties."
+p1081
+aS'The fact of the matter is that this is really undermining anddestroying everything else that the U.S. is trying to do in these countries.'
 p1082
-asa(dp1083
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1084
-sg13
-(lp1085
-S'But just to --'
-p1086
-asa(dp1087
-g8
-S'JOHN DONVAN'
-p1088
-sg13
-(lp1089
-S'Norton Schwartz.'
-p1090
-asa(dp1091
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1092
-sg13
-(lp1093
-S'-- set the stage, when I became the chief in 2008, we had 32 24/7 orbits of remote'
-p1094
-aS"aircraft. When I left, we had 58. Now, we didn't do that because we're sort of"
-p1095
-aS'generous. The reason we did it is because there was a demand signal from the'
-p1096
-aS'supportive forces, the Marines and the Army --'
-p1097
-asa(dp1098
-g8
-S'JOHN KAEL WESTON'
-p1099
-sg13
-(lp1100
-S'Could I --'
-p1101
-asa(dp1102
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1103
-sg10
-(dp1104
-I1
-S'26'
-p1105
-ssg13
-(lp1106
-S'-- to -- No. No.'
-p1107
-asa(dp1108
-g8
-S'JOHN DONVAN'
-p1109
-sg13
-(lp1110
-S'Kael, let him finish.'
-p1111
-asa(dp1112
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1113
-sg13
-(lp1114
-S'Let me finish. To provide the kind of overhead surveillance and strike capability that'
-p1115
-aS'minimized the risk to their forces. And I would argue, Kael, that this was not just some'
-p1116
-aS'perception in Washington, but this was real down on the ground.'
-p1117
-asg16
-(dp1118
-I3
-S'19:41:00'
-p1119
-ssa(dp1120
-g8
-S'JOHN KAEL WESTON'
-p1121
-sg13
-(lp1122
-S'No. I -- General, you know, I have the greatest respect for you. My sand is still deep in'
-p1123
-aS'my shoes, and so I bring baggage with me. However, I found that the commanders on'
-p1124
-aS'the ground are the 12 to 14 Marine generals I worked with -- the closer they were to the'
-p1125
-aS"drones, the more skeptical they were. Doesn't mean that all of your arguments are"
-p1126
-aS"false. It doesn't mean I think every drone needs to be, you know, eliminated from the"
-p1127
-aS'battlefield. But the closer you are to where the strategic effect is with the people, the'
-p1128
-aS"more critical I found the marine commanders to be. I don't want to speak for all of"
-p1129
-aS'them, but it was -- it was a pretty clear pattern'
-p1130
-asa(dp1131
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1132
-sg13
-(lp1133
-S'They should probably speak for themselves.'
-p1134
-asa(dp1135
-g8
-S'JOHN DONVAN'
-p1136
-sg13
-(lp1137
-S'Ahmed Rashid, I want to move this to -- in a different direction. Your opponents have'
-p1138
-aS'made the point, repeatedly, particularly in their opening statements, that the drones'
-p1139
-aS'have killed a lot of guys that they were supposed to kill, that they have decimated al-'
-p1140
-aS'Qaeda; and that al-Qaeda is on the way to becoming a footnote in history because of it,'
-p1141
-aS'which was the whole purpose. These are the guys who blew up buildings in this city. Do'
-p1142
-aS'you dispute their effectiveness in -- on that agenda?'
-p1143
-asg16
-(dp1144
-I6
-S'19:41:58'
-p1145
-ssa(dp1146
-g8
+asg11
 S'AHMED RASHID'
-p1147
-sg10
-(dp1148
-I9
-S'27'
-p1149
-ssg13
-(lp1150
-S"no, I don't dispute their effectiveness. Obviously, this is a military weapon that has been"
-p1151
-aS"developed to do a certain thing. And it is going to be further developed, and it's going"
-p1152
-aS'to be used even more. I think the point is that it is being -- it is being used very'
-p1153
-aS'indiscriminately and without any kind of scrutiny or self-knowledge even amongst'
-p1154
-aS'Americans. The whole issue of legality, the whole issue of the precedent that it sets for'
-p1155
-aS'other countries to follow, there are a whole range of political issues and political'
-p1156
-aS'answers that are needed in order for this weapon to be really legal, be legitimate and be'
-p1157
-aS"justified. And that is the point. I don't dispute at all that certainly many senior"
-p1158
-aS'members of al-Qaeda have been killed. But this is a weapon that has opened up a'
-p1159
-aS"Pandora's box of questions, especially for those countries who are in receipt of this"
-p1160
-aS'weapon, you know, at the receiving end. And I think we need -- we need answers. I'
-p1161
-aS'think this question of precedent is absolutely paramount at the moment with what -- if'
-p1162
-aS'Syria is using --'
-p1163
-asg16
-(dp1164
-I13
-S'19:43:09'
-p1165
-ssa(dp1166
+p1083
+sg16
+(lp1084
+S"Well, we really don't know."
+p1085
+aS"I mean, but certainly there's enough evidence in countries like Pakistan and Afghanistan that civilians have died in considerable numbers."
+p1086
+aS"Now, that's probably getting less and less as drones become more and more accurate."
+p1087
+aS'But as long as things like what I described, the signature strikes continue, where it is justified for a controller to drop a bomb on a group of people in which some of them may be militants and others not, obviously, you are going to get civilian casualties.'
+p1088
+aS'And as the admiral said this is a war zone.'
+p1089
+aS"And, in a war zone, you're going to get civilian casualties."
+p1090
+aS'The fact of the matter is that this is really undermining and destroying everything else that the U.S. is trying to do in these countries.'
+p1091
+asg18
+(dp1092
+S'19:30:06'
+p1093
+I6
+ssa(dp1094
 g8
+(lp1095
+S'I want to come a little bit later back to the topic of signature strikes and talk about thosemore specifically.'
+p1096
+aS'But just back to Dennis Blair on this notion of the accuracy of theseweapons.'
+p1097
+aS"Your team is arguing that, in fact, because they can hover over an area for somany hours, because -- maybe you're even saying because there's not a pilot with hisheart beating and racing and being shot at, that there's a more rational and soberprocess happening at the pilot end of this, and that that makes them safer and moreaccurate."
+p1098
+aS"Is there something--I'm trying to get at, is there something in the nature ofthe weapon itself that -- that resulted in accuracy that's being produced on thebattlefield?"
+p1099
+aS"Because your opponents are saying that they're sloppy."
+p1100
+asg11
 S'JOHN DONVAN'
-p1167
+p1101
+sg16
+(lp1102
+S'I want to come a little bit later back to the topic of signature strikes and talk about those more specifically.'
+p1103
+aS'But just back to Dennis Blair on this notion of the accuracy of these weapons.'
+p1104
+aS"Your team is arguing that, in fact, because they can hover over an area for so many hours, because -- maybe you're even saying because there's not a pilot with his heart beating and racing and being shot at, that there's a more rational and sober process happening at the pilot end of this, and that that makes them safer and more accurate."
+p1105
+aS"Is there something--I'm trying to get at, is there something in the nature of the weapon itself that -- that resulted in accuracy that's being produced on the battlefield?"
+p1106
+aS"Because your opponents are saying that they're sloppy."
+p1107
+asg18
+(dp1108
+S'19:31:06'
+p1109
+I9
+ssa(dp1110
+g8
+(lp1111
+S'Well, I think you have to say compared to what?'
+p1112
+aS'And when one compares the accuracyand the killing and wounding of bystanders from drones compared to, for example,artillery which is another means of close air support from a manned aircraft.'
+p1113
+aS'Then it hasfewer innocent casualties.'
+p1114
+aS"That doesn't mean it's zero, and everyone as GeneralSchwartz said is to be greatly regretted, but it is a -- I can tell you, your regrets are fewerif you're operating drones than if you're shooting artillery or having manned aircraftbeing called in."
+p1115
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p1116
+sg16
+(lp1117
+S'Well, I think you have to say compared to what?'
+p1118
+aS'And when one compares the accuracy and the killing and wounding of bystanders from drones compared to, for example, artillery which is another means of close air support from a manned aircraft.'
+p1119
+aS'Then it has fewer innocent casualties.'
+p1120
+aS"That doesn't mean it's zero, and everyone as General Schwartz said is to be greatly regretted, but it is a -- I can tell you, your regrets are fewer if you're operating drones than if you're shooting artillery or having manned aircraft being called in."
+p1121
+asa(dp1122
+g8
+(lp1123
+S'Okay, let me take that then to the other side -- take it to John Kael Weston.'
+p1124
+aS'The otherside is making a compelling argument that in fact the number of casualties is going to belower than if somebody were dropping a bomb, firing an artillery shell, or even puttingboots on the ground, that the proportion is lower.'
+p1125
+asg11
+S'JOHN DONVAN'
+p1126
 sg13
-(lp1168
-S"Let's take it to Dennis Blair."
+(dp1127
+I4
+S'20'
+p1128
+ssg16
+(lp1129
+S'Okay, let me take that then to the other side -- take it to John Kael Weston.'
+p1130
+aS'The other side is making a compelling argument that in fact the number of casualties is going to be lower than if somebody were dropping a bomb, firing an artillery shell, or even putting boots on the ground, that the proportion is lower.'
+p1131
+asg18
+(dp1132
+S'19:32:04'
+p1133
+I4
+ssa(dp1134
+g8
+(lp1135
+S'No, I think that the key part of the ratio of one to seven and one to five is the equalssign behind, and that equals sign is a factor of two, three, four, five.'
+p1136
+aS"What basically Ithink we're losing focus of is what kind of reaction are you getting in village, aftervillage, after village, and how many more enemies and how many more targets are youcreating even if one Afghan or one Pakistani is killed."
+p1137
+asg11
+S'JOHN KAEL WESTON'
+p1138
+sg16
+(lp1139
+S'No, I think that the key part of the ratio of one to seven and one to five is the equals sign behind, and that equals sign is a factor of two, three, four, five.'
+p1140
+aS"What basically I think we're losing focus of is what kind of reaction are you getting in village, after village, after village, and how many more enemies and how many more targets are you creating even if one Afghan or one Pakistani is killed."
+p1141
+asa(dp1142
+g8
+(lp1143
+S"John, I want to let you have a run at that point, but it doesn't actually answer thequestion of --"
+p1144
+asg11
+S'JOHN DONVAN'
+p1145
+sg16
+(lp1146
+S"John, I want to let you have a run at that point, but it doesn't actually answer the question of --"
+p1147
+asa(dp1148
+g8
+(lp1149
+S'I think that the numbers --'
+p1150
+asg11
+S'JOHN KAEL WESTON'
+p1151
+sg16
+(lp1152
+g1150
+asa(dp1153
+g8
+(lp1154
+S'-- in terms of body count.'
+p1155
+asg11
+S'JOHN DONVAN'
+p1156
+sg16
+(lp1157
+g1155
+asa(dp1158
+g8
+(lp1159
+S"-- the body count, yeah, I haven't been close to these drone strikes."
+p1160
+aS"You know, we tellourselves often what we want to hear, and that gets translated into memos inWashington, but the Afghan and Pakistani stories that I have heard is that it's -- whetherit's one to seven or one to five, it's a lot more than any of us would like to admit to eachother."
+p1161
+aS"So I don't want to argue numbers."
+p1162
+aS"I think it's a strategic equals sign at the end ofthe ratio that is the real problem."
+p1163
+asg11
+S'JOHN KAEL WESTON'
+p1164
+sg16
+(lp1165
+S"-- the body count, yeah, I haven't been close to these drone strikes."
+p1166
+aS"You know, we tell ourselves often what we want to hear, and that gets translated into memos in Washington, but the Afghan and Pakistani stories that I have heard is that it's -- whether it's one to seven or one to five, it's a lot more than any of us would like to admit to each other."
+p1167
+aS"So I don't want to argue numbers."
+p1168
+aS"I think it's a strategic equals sign at the end of the ratio that is the real problem."
 p1169
 asa(dp1170
 g8
-S'ADMIRAL DENNIS BLAIR'
-p1171
-sg13
-(lp1172
-S"Just because you've discovered the drones doesn't mean that this is the first time that"
+(lp1171
+S"Okay, I do want to come back to what you're talking about, the equals sign being theimpact on the image of the United States, but I -- the other side has already heard youmake that argument.So I want to give them a chance to respond to that, and I'll go to Norton Schwartz."
+p1172
+aS"Soyour opponents have said -- they've referred to the drones as a recruiting poster for al-Qaeda because of the bitter resentment that is resulting in areas where they're beingused, and do you see that?"
 p1173
-aS'anybody has ever thought about these questions. This is a weapons system which'
+asg11
+S'JOHN DONVAN'
 p1174
-aS'combines the capabilities of surveillance and attack, and it is operated according to the'
-p1175
-aS'rules of law, the control procedures, the follow up procedures that the U.S. armed'
+sg16
+(lp1175
+S"Okay, I do want to come back to what you're talking about, the equals sign being the impact on the image of the United States, but I -- the other side has already heard you make that argument."
 p1176
-aS'forces use for all of the weapon systems that we have over the years. We know how to'
+aS"So I want to give them a chance to respond to that, and I'll go to Norton Schwartz."
 p1177
-aS"take new weapon systems, use them for mission purposes, control them so that they're"
+aS"So your opponents have said -- they've referred to the drones as a recruiting poster for al- Qaeda because of the bitter resentment that is resulting in areas where they're being used, and do you see that?"
 p1178
-aS'done legally, with lawyers in the command loop to a much greater extent than they are'
-p1179
-aS'for most any other weapons, and you use them for your purpose, and you try to'
+asg18
+(dp1179
+S'19:33:06'
 p1180
-aS'minimize the harmful side effects of which there are many, as there are for any weapon'
-p1181
-aS"systems in order to get the mission done. And that's how we do it."
-p1182
-asa(dp1183
-g8
-S'JOHN DONVAN'
-p1184
-sg13
-(lp1185
-S"I'm going to let this side respond. I just want to let the audience know that after this"
-p1186
-aS'response I want to start going to your questions. And the way this will work, if you raise'
-p1187
-aS'your hand, and I call on you, just stand where you are.'
-p1188
-aS'Somebody will come down the mic -- aisle and hand a microphone to you. Hold it about'
-p1189
-aS'this distance from your mouth so that the radio broadcast can get you. We would really'
-p1190
-aS"like it if you would state your name and then ask a tight, focused question that's on"
-p1191
-aS"point for us. Okay. Let's go to this side for the response."
-p1192
-asg16
-(dp1193
 I3
-S'19:44:05'
-p1194
-ssa(dp1195
+ssa(dp1181
 g8
+(lp1182
+S'I understand the argument, but I -- but the counter to it is the reality that the U.N.reports that 80 to 84 percent of the civilian casualties in Iraq and Afghanistan werecaused by the insurgency.'
+p1183
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p1184
+sg16
+(lp1185
+S'I understand the argument, but I -- but the counter to it is the reality that the U.N. reports that 80 to 84 percent of the civilian casualties in Iraq and Afghanistan were caused by the insurgency.'
+p1186
+asa(dp1187
+g8
+(lp1188
+S'General, I -- absolutely.'
+p1189
+aS'I think Muslims are killing more Muslims than Muslims werekilling me, or the Marines, or the generals that I worked with.'
+p1190
+aS"They wanted to kill us.We're hard to get."
+p1191
+aS'I think the issue --'
+p1192
+asg11
 S'JOHN KAEL WESTON'
-p1196
-sg10
-(dp1197
-I9
-S'28'
+p1193
+sg13
+(dp1194
+I0
+S'21'
+p1195
+ssg16
+(lp1196
+S'General, I -- absolutely.'
+p1197
+aS'I think Muslims are killing more Muslims than Muslims were killing me, or the Marines, or the generals that I worked with.'
 p1198
-ssg13
-(lp1199
-S"Just briefly, I want to actually give voice to a real live Afghan. And I'm going to read a"
+aS'They wanted to kill us.'
+p1199
+aS"We're hard to get."
 p1200
-aS'quote. When that incident happened that the New York Times covered, a friend of mine'
+aS'I think the issue --'
 p1201
-aS'went to a tribal elder, and this is what the tribal elder said. Siraj Haqqani, the senior'
-p1202
-aS'most leader of the Haqqani said that since the USA is using drones against people, the'
-p1203
-aS'people will use Patriot missiles against the U.S.A. Someone in the village asked what he'
+asa(dp1202
+g8
+(lp1203
+S'I -- you make my point.'
 p1204
-aS'meant, where are the Patriot missiles? Siraj replied, Suicide bombers are our Patriot'
+asg11
+S'GENERAL NORTON SCHWARTZ'
 p1205
-aS'missiles." The question I don\'t think we still had answered, for example, on the legality'
-p1206
-aS"question -- and I know we're not in a law seminar, but it's an important one because it's"
-p1207
-aS'what motivates terrorists to hurt us. Because at the end of the day, I think everyone in'
-p1208
-aS'this room needs to ask fundamental question, which is, are you and your family safer'
+sg16
+(lp1206
+g1204
+asa(dp1207
+g8
+(lp1208
+S"Well -- but drones, you've made a point earlier on about pilots being somehow morerational, being removed from the battle, operating out of Nellis Air Force Base in Nevadaor wherever they're operating out of.I would disagree."
 p1209
-aS"because of the drone program as it's currently structured, or not?"
+aS"We don't give medals for restraint, we give medals for combat valor,but I saw a lot of restraint on the front lines."
 p1210
-aS'What is the legality of the third wave of drone strikes in terms of the triple tap? What is'
-p1211
-aS"the legality of that? What are the lawyers in Washington arguing? They're not the"
-p1212
-aS"initial targets. There's not intel tied to them."
-p1213
-asg16
-(dp1214
-I11
-S'19:45:08'
-p1215
-ssa(dp1216
-g8
-S'JOHN DONVAN'
-p1217
-sg13
-(lp1218
-S'Norman Schwartz.'
-p1219
-asa(dp1220
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1221
-sg13
-(lp1222
-S'If you are in a declared combat area, as was the case in Fallujah or in other areas that'
-p1223
-aS"you're familiar with, if you have combatants that depart that initial strike area, this is"
-p1224
-aS'not unlike what happened with Zarqawi. The bottom line was, now, that was a manned'
-p1225
-aS'strike. And hopefully, I make no apologize for that either. But the bottom line is that'
-p1226
-aS'we have a situation where you have people that depart a site that -- that had'
-p1227
-aS'combatants, that was identified as a location.'
-p1228
-aS'And they depart that area, and you reengage. This is what happens when people leave'
-p1229
-aS'a foxhole or when people depart a tank in a tank battle. The bottom line, Kael, I think is'
-p1230
-aS'that you argue for discretion. I believe in that too. But on the battlefield, the principle'
-p1231
-aS'is to engage the enemy. It is that.'
-p1232
-asg16
-(dp1233
-I6
-S'19:46:06'
-p1234
-ssa(dp1235
-g8
+asg11
 S'JOHN KAEL WESTON'
-p1236
-sg13
-(lp1237
-S'Well, we went through a phase in Fallujah where everyone was a military-aged male.'
-p1238
-aS'And I finally told the generals in Baghdad -- at that point, I was young enough that I was'
-p1239
-aS'still a military-aged male according to our definition. We then switched that definition'
-p1240
-aS"because we started to treat every Iraqi as a potential threat. And I'll be honest with you,"
-p1241
-aS"if you're a Taliban member, and you're living in a community around family and friends,"
-p1242
-aS"with all due respect, I don't think that that makes you a legitimate target. And that's in"
-p1243
-aS"effect what's been happening."
-p1244
-asg16
-(dp1245
-I7
-S'19:47:02'
-p1246
-ssa(dp1247
+p1211
+sg16
+(lp1212
+S"Well -- but drones, you've made a point earlier on about pilots being somehow more rational, being removed from the battle, operating out of Nellis Air Force Base in Nevada or wherever they're operating out of."
+p1213
+aS'I would disagree.'
+p1214
+aS"We don't give medals for restraint, we give medals for combat valor, but I saw a lot of restraint on the front lines."
+p1215
+asg18
+(dp1216
+S'19:34:07'
+p1217
+I3
+ssa(dp1218
 g8
+(lp1219
+S'Look, your Marines were rigorous about applying the rules of engagement, and so areour pilots, Kale.'
+p1220
+aS'The bottom line is this is about discipline, and I agree.'
+p1221
+aS'Civiliancasualties is the equals sign, and everyone knows that.'
+p1222
+aS'And are mistakes made fromtime to time?'
+p1223
+aS'Yes, but that is not the policy, nor is it the training, nor is it thesupervision of those assets.'
+p1224
+asg11
 S'GENERAL NORTON SCHWARTZ'
-p1248
-sg13
-(lp1249
-S"I agree with that. I agree. But if you're carrying an arm, if you have a weapon, I would"
-p1250
-aS'argue in a combat zone, that makes you a legitimate target.'
-p1251
-asa(dp1252
+p1225
+sg16
+(lp1226
+S'Look, your Marines were rigorous about applying the rules of engagement, and so are our pilots, Kale.'
+p1227
+aS'The bottom line is this is about discipline, and I agree.'
+p1228
+aS'Civilian casualties is the equals sign, and everyone knows that.'
+p1229
+aS'And are mistakes made from time to time?'
+p1230
+aS'Yes, but that is not the policy, nor is it the training, nor is it the supervision of those assets.'
+p1231
+asa(dp1232
 g8
+(lp1233
+S'Ahmed Rashid.'
+p1234
+asg11
 S'JOHN DONVAN'
-p1253
-sg10
-(dp1254
-I1
-S'29'
-p1255
-ssg13
-(lp1256
-S"Let's go to some questions. Right down in the front here."
-p1257
-asa(dp1258
+p1235
+sg16
+(lp1236
+g1234
+asa(dp1237
 g8
-S'GENERAL NORTON SCHWARTZ'
-p1259
+(lp1238
+S'Look, I -- if I can just make one point, neither of you two, with all due respect, haveaddressed this whole issue about U.S. foreign policy and the use of drones.'
+p1239
+aS'The fact isthat today, you know, you are throwing technology at foreign policy conundrums whereyou should throw aid, or diplomats, or peacekeepers, or whatever it is.What we are seeing today in many parts of the world where drones are being used, thatforeign policy is being subsumed by technology.'
+p1240
+aS"We've never had this before."
+p1241
+aS'I mean,how can you allow technology to determine what your foreign policy --'
+p1242
+asg11
+S'AHMED RASHID'
+p1243
+sg16
+(lp1244
+S'Look, I -- if I can just make one point, neither of you two, with all due respect, have addressed this whole issue about U.S. foreign policy and the use of drones.'
+p1245
+aS'The fact is that today, you know, you are throwing technology at foreign policy conundrums where you should throw aid, or diplomats, or peacekeepers, or whatever it is.'
+p1246
+aS'What we are seeing today in many parts of the world where drones are being used, that foreign policy is being subsumed by technology.'
+p1247
+aS"We've never had this before."
+p1248
+aS'I mean, how can you allow technology to determine what your foreign policy --'
+p1249
+asg18
+(dp1250
+S'19:35:10'
+p1251
+I4
+ssa(dp1252
+g8
+(lp1253
+S'Are you saying, then, that drones represent a -- that drones in themselves represent anew dimension in this conflict?'
+p1254
+aS'In other words, are you -- would you be making thesame argument if planes were dropping bombs in these communities that you aremaking because drones are hovering over them?'
+p1255
+asg11
+S'JOHN DONVAN'
+p1256
 sg13
-(lp1260
-S'And the point is you can see the weapons from these platforms.'
+(dp1257
+I4
+S'22'
+p1258
+ssg16
+(lp1259
+S'Are you saying, then, that drones represent a -- that drones in themselves represent a new dimension in this conflict?'
+p1260
+aS'In other words, are you -- would you be making the same argument if planes were dropping bombs in these communities that you are making because drones are hovering over them?'
 p1261
 asa(dp1262
 g8
-S'JOHN KAEL WESTON'
-p1263
-sg13
-(lp1264
-S'Yes and no.'
+(lp1263
+S"I'm saying that this is the impact that they are having in the countries that receivedthese drones."
+p1264
+aS'This is what the public thinks.'
 p1265
-asa(dp1266
-g8
-S'JORDAN BENNETT'
-p1267
-sg13
-(lp1268
-S'Thank you for taking my question. I just wanted to address this question --'
-p1269
-asa(dp1270
-g8
-S'JOHN DONVAN'
-p1271
-sg13
-(lp1272
-S'Would you mind telling us your name?'
-p1273
-asa(dp1274
-g8
-S'JORDAN BENNETT'
-p1275
-sg13
-(lp1276
-S'Oh, my name is Jordan Bennett .'
-p1277
-asa(dp1278
-g8
-S'JOHN DONVAN'
-p1279
-sg13
-(lp1280
-S'Thanks.'
-p1281
-asa(dp1282
-g8
-S'JORDAN BENNETT'
-p1283
-sg13
-(lp1284
-S'I just wanted to address this question to the gentlemen on the left. You bring up these'
-p1285
-aS"points that the Afghani people, the Pakistani people are upset, and it's increasing"
-p1286
-aS"recruitment for al-Qaeda and other anti-U.S. sentiment in these areas because we're"
-p1287
-aS'using drones. Would the effect not be the same if we were using cluster bombs or'
-p1288
-aS"snipers or land mines or any other way of killing these people? Is it the drone that's the"
-p1289
-aS'issue or is it just killing them?'
-p1290
-asg16
-(dp1291
-I6
-S'19:48:01'
-p1292
-ssa(dp1293
-g8
-S'JOHN DONVAN'
-p1294
-sg13
-(lp1295
-S"That's an excellent question. I had actually put it before, and didn't feel that I got"
-p1296
-aS"answered. So thank you for bringing it up a second time. Yeah. Let's put it to -- let's put"
-p1297
-aS'it to Ahmed Rashid.'
-p1298
-asa(dp1299
-g8
+aS"This is why there's so much --"
+p1266
+asg11
 S'AHMED RASHID'
-p1300
-sg13
+p1267
+sg16
+(lp1268
+S"I'm saying that this is the impact that they are having in the countries that received these drones."
+p1269
+aS'This is what the public thinks.'
+p1270
+aS"This is why there's so much --"
+p1271
+asa(dp1272
+g8
+(lp1273
+S'But is that drone -- is that drone specific or is that ordinance?'
+p1274
+aS'Is that explosive specific?'
+p1275
+asg11
+S'JOHN DONVAN'
+p1276
+sg16
+(lp1277
+S'But is that drone -- is that drone specific or is that ordinance?'
+p1278
+aS'Is that explosive specific?'
+p1279
+asa(dp1280
+g8
+(lp1281
+S"No, it's about drones because drones are a very sinister way of of killing people."
+p1282
+aS"I mean,they're not accepted as a normal -- "
+p1283
+asg11
+S'AHMED RASHID'
+p1284
+sg16
+(lp1285
+S"No, it's about drones because drones are a very sinister way of of killing people."
+p1286
+aS"I mean, they're not accepted as a normal -- "
+p1287
+asg18
+(dp1288
+S'19:36:04'
+p1289
+I2
+ssa(dp1290
+g8
+(lp1291
+S'All right, let me bring in Dennis Blair.'
+p1292
+aS'General, let me just bring in Dennis Blair.'
+p1293
+aS"Kael, one second, and let's let them --"
+p1294
+asg11
+S'JOHN DONVAN'
+p1295
+sg16
+(lp1296
+S'All right, let me bring in Dennis Blair.'
+p1297
+aS'General, let me just bring in Dennis Blair.'
+p1298
+aS"Kael, one second, and let's let them --"
+p1299
+asa(dp1300
+g8
 (lp1301
-S'No, it is a drone. The drones are an issue because as I said, this is the most sinister'
+S'-- by saying the drones are going to come after you. '
 p1302
-aS"weapon that has come into the marketplace, that, you know, there's no individual"
+asg11
+S'JOHN KAEL WESTON'
 p1303
-aS"behind it. There's no judgments being made. And people are very, very scared."
-p1304
+sg16
+(lp1304
+g1302
 asa(dp1305
 g8
+(lp1306
+S"You'll get your turn and --"
+p1307
+asg11
 S'JOHN DONVAN'
-p1306
-sg10
-(dp1307
-I3
-S'30'
 p1308
-ssg13
+sg16
 (lp1309
-S"Ahmed, you -- Ahmed, I just want to ask you, because it's a bold statement. You're"
-p1310
-aS'seriously saying no judgments are being made in these -- after everything'
-p1311
-aS' ?'
+g1307
+asa(dp1310
+g8
+(lp1311
+S'Let me --'
 p1312
-asa(dp1313
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p1313
+sg16
+(lp1314
+g1312
+asa(dp1315
 g8
-S'AHMED RASHID'
-p1314
-sg13
-(lp1315
-S'well, this is what people presume, that somehow, these automatic weapons come up'
-p1316
-aS'into the sky, and they shoot at will, and they shoot down whatever is on the ground. I'
+(lp1316
+S'Dennis Blair.'
 p1317
-aS'mean, there are all sorts of stories and mythologies about drones which, unfortunately'
+asg11
+S'JOHN DONVAN'
 p1318
-aS'have been created. And -- and as I said, this is why this weapon -- the chances of this'
-p1319
-aS'weapon getting out of hand, getting into the wrong hands and being used'
-p1320
-aS'indiscriminately in many other parts of the world is -- you know, we should take the'
-p1321
-aS'example of what the reaction already we are seeing in Pakistan, Yemen and other'
+sg16
+(lp1319
+g1317
+asa(dp1320
+g8
+(lp1321
+S'Let me talk about Yemen and just take us a little bit out of Pakistan here for a while.'
 p1322
-aS'places.'
+aS'Inthe last two years, we have given $200 million in assistance -- $600 million in assistanceto Yemen.'
 p1323
-asg16
-(dp1324
-I8
-S'19:49:10'
+aS'Of that, virtually two-thirds has been economic assistance, humanitarianassistance, and governance assistance.'
+p1324
+aS'Roughly one-third has gone to securityassistance.'
 p1325
-ssa(dp1326
-g8
-S'JOHN KAEL WESTON'
+aS'That is, to Yemen.'
+p1326
+aS'And so, we do have a broad-based program in places likeYemen.'
 p1327
-sg13
-(lp1328
-S"I'll briefly -- rules of engagement are pretty tight in marine combat units. And so, yes,"
+aS'We are trying to work on places.'
+p1328
+aS'The media impression, however, is fascinatedwith the drones.'
 p1329
-aS"there's going to be blowback. It's a good question. It's a very legitimate question. The"
+aS"They're sexy."
 p1330
-aS'drones are being used in Pakistan, northwest province basically, outside ,'
+aS"They're sinister."
 p1331
-aS'which is a very different arena than in the conventional side, on the Afghan side of the'
+aS"They're so on."
 p1332
-aS"border. Bottom line is, though is it's what the rules -- the lack of the rules actually, I"
+aS"So, I'm sorry, but thereality is that it is a broad-based program of which drones are a part and used veryselectively.And the people who look carefully can understand that."
 p1333
-aS'believe, in our drone program that is the biggest problem. There is not, for example, a'
+aS'The people who just want toread the first headline and say, "That\'s all of American policy" are going to stop there.'
 p1334
-aS'marine general necessarily that technically can command where those drones go'
+asg11
+S'ADMIRAL DENNIS BLAIR'
 p1335
-aS"because they're operated in a different chain of command. And we don't need to get"
-p1336
-aS'too technical, and that may be changing. But, yes, Afghans are going to respond to a'
+sg13
+(dp1336
+I7
+S'23'
 p1337
-aS'cluster bomb going off or an RPG being launched in the wrong direction. But I have faith'
-p1338
-aS"that our forces, if one thing over 12 years have learned, is they've learned quite a bit of"
+ssg16
+(lp1338
+S'Let me talk about Yemen and just take us a little bit out of Pakistan here for a while.'
 p1339
-aS'restraint. And then the rules of engagement have gotten a lot tighter.'
+aS'In the last two years, we have given $200 million in assistance -- $600 million in assistance to Yemen.'
 p1340
-asg16
-(dp1341
-I12
-S'19:50:03'
+aS'Of that, virtually two-thirds has been economic assistance, humanitarian assistance, and governance assistance.'
+p1341
+aS'Roughly one-third has gone to security assistance.'
 p1342
-ssa(dp1343
-g8
-S'JOHN DONVAN'
+aS'That is, to Yemen.'
+p1343
+aS'And so, we do have a broad-based program in places like Yemen.'
 p1344
-sg13
-(lp1345
-S"Here's my bias tonight. We have five guys on the stage, and all I see are guys raising"
+aS'We are trying to work on places.'
+p1345
+aS'The media impression, however, is fascinated with the drones.'
 p1346
-aS'their hands. Are there any women who would like to get their voices into this'
+aS"They're sexy."
 p1347
-aS'conversation? Right there. Thank you. Be good, okay. If I could just -- stand up.'
+aS"They're sinister."
 p1348
-asa(dp1349
-g8
-S'FEMALE SPEAKER'
+aS"They're so on."
+p1349
+aS"So, I'm sorry, but the reality is that it is a broad-based program of which drones are a part and used very selectively."
 p1350
-sg13
-(lp1351
-S"Well, I'll try. Hi. My name is Elisa. And this is directed towards and Admiral Blair and"
+aS'And the people who look carefully can understand that.'
+p1351
+aS'The people who just want to read the first headline and say, "That\'s all of American policy" are going to stop there.'
 p1352
-aS'General Schwartz. And we talked a lot about how the drones may be causing a lot of'
-p1353
-aS'innocent civilians to really have hate towards the American people. So do you think that'
+asg18
+(dp1353
+S'19:37:02'
 p1354
-aS'the number of terrorists who have successfully killed using drones is greater than the'
-p1355
-aS'number of young people who will be conditioned to hate America from the drone'
-p1356
-aS'strikes and therefore become terrorists themselves?'
-p1357
-asa(dp1358
+I9
+ssa(dp1355
 g8
+(lp1356
+S'You know, there are two narratives --'
+p1357
+asg11
+S'JOHN KAEL WESTON'
+p1358
+sg16
+(lp1359
+g1357
+asa(dp1360
+g8
+(lp1361
+S'Kael Weston.'
+p1362
+asg11
 S'JOHN DONVAN'
-p1359
-sg10
-(dp1360
-I0
-S'31'
-p1361
-ssg13
-(lp1362
-S"But do you seriously -- I mean, I see where you're getting with the question. They just"
 p1363
-aS"can't count on that. They can't count --"
-p1364
+sg16
+(lp1364
+g1362
 asa(dp1365
 g8
-S'FEMALE SPEAKER'
-p1366
-sg13
-(lp1367
-S'Oh, of course not.'
+(lp1366
+S'-- at work here.'
+p1367
+aS"There's the American narrative and there's their narrative."
 p1368
-asa(dp1369
-g8
-S'JOHN DONVAN'
+aS'We spent alot of time talking to each other about our narrative, but if you listen to the futureleaders of Afghanistan, you listen to the next generation -- drones is a big issues,because it is about the legalities.'
+p1369
+aS'The law students at Khost University used to ask me,"What is your case for drones?'
 p1370
-sg13
-(lp1371
-S" -- they wouldn't have a count. But your larger point is -- I mean, I'm just kind of"
+aS'" Just like Guantanamo, just like the language of thesewars that we\'re in.'
+p1371
+aS"They are very, very big on how we're doing our wars."
 p1372
-aS"rephrasing, but your larger point is, are they creating more enemies than they're killing?"
+aS'So, if we losethat narrative to Al-Qaeda, I think that ratio is actually the equals sign.'
 p1373
-aS"Is that basically what you're --"
+aS"And if I lined upa bunch of Afghans on this stage, I can tell you, what they tell us is probably what wedon't want to hear but we need to hear, and that's really the goal for me tonight, is tobring their voice into this debate."
 p1374
-asg16
-(dp1375
-I3
-S'19:51:09'
+aS'Back on the issue, though, of whether -- you know --'
+p1375
+asg11
+S'JOHN KAEL WESTON'
 p1376
-ssa(dp1377
-g8
-S'FEMALE SPEAKER'
+sg16
+(lp1377
+S'-- at work here.'
 p1378
-sg13
-(lp1379
-S'Yes. That is, yeah, the basis of my question.'
+aS"There's the American narrative and there's their narrative."
+p1379
+aS'We spent a lot of time talking to each other about our narrative, but if you listen to the future leaders of Afghanistan, you listen to the next generation -- drones is a big issues, because it is about the legalities.'
 p1380
-asa(dp1381
-g8
-S'JOHN DONVAN'
+aS'The law students at Khost University used to ask me, "What is your case for drones?'
+p1381
+aS'" Just like Guantanamo, just like the language of these wars that we\'re in.'
 p1382
-sg13
-(lp1383
-S"Okay. So you don't mind if they answer that with the question phrased that way?"
+aS"They are very, very big on how we're doing our wars."
+p1383
+aS'So, if we lose that narrative to Al-Qaeda, I think that ratio is actually the equals sign.'
 p1384
-asa(dp1385
-g8
-S'FEMALE SPEAKER'
+aS"And if I lined up a bunch of Afghans on this stage, I can tell you, what they tell us is probably what we don't want to hear but we need to hear, and that's really the goal for me tonight, is to bring their voice into this debate."
+p1385
+aS'Back on the issue, though, of whether -- you know --'
 p1386
-sg13
-(lp1387
-S'Yes, no, of course.'
-p1388
-asa(dp1389
+asa(dp1387
 g8
+(lp1388
+S'But before you go to the issue -- and tell me what it is -- because I do want to rememberit --'
+p1389
+asg11
 S'JOHN DONVAN'
 p1390
-sg13
+sg16
 (lp1391
-S'I want you to have ownership. Okay.'
+S'But before you go to the issue -- and tell me what it is -- because I do want to remember it --'
 p1392
 asa(dp1393
 g8
-S'FEMALE SPEAKER'
-p1394
-sg13
-(lp1395
-S"That's good."
+(lp1394
+S"-- it's back to, you know, dropping bombs from Nevada in Pakistan."
+p1395
+asg11
+S'JOHN KAEL WESTON'
 p1396
-asa(dp1397
-g20
+sg16
+(lp1397
+g1395
+asg18
 (dp1398
-I1
-S'[laughter]'
+S'19:38:05'
 p1399
-ssg8
-S'JOHN DONVAN'
-p1400
-sg13
+I1
+ssa(dp1400
+g8
 (lp1401
-S'Okay, so go ahead.'
+S'All right.'
 p1402
-aS'I think it\'s a great question, I just didn\'t want to -- I didn\'t want their dodge to be, "Well,'
+aS"I want to come back to it, because the point that you just made -- you'rereporting from the ground."
 p1403
-aS'I don\'t have account of that." I wanted -- okay, go ahead.'
+aS"You're basically telling the high-ranking officers that youwere there and that despite their understanding of the situation that because you're onthe ground, you're reporting back what you think the Afghans think, that you're sharingyour perception of their hearts and minds."
 p1404
-asa(dp1405
-g20
-(dp1406
-I1
-S'[laughter]'
+aS'I just want to take that to this side.'
+p1405
+aS"BecauseI think it's offered in honesty."
+p1406
+aS'Yeah.'
 p1407
-ssg8
-S'ADMIRAL DENNIS BLAIR'
+aS'And so, what they\'re saying regardless of intentions and even the structure, thatword is out not just in the American media, but the word is out in the communities thatthe drones are different, drones are more dangerous, drones -- you used the word"sinister," that it\'s a different kind of thing.'
 p1408
-sg13
-(lp1409
-S"That wasn't going to be my dodge."
+aS'I just want to -- if you were having dinnerabout this conversation, and he shared that -- just fact, what would you say to him?'
+p1409
+asg11
+S'JOHN DONVAN'
 p1410
-asa(dp1411
-g8
-S'JOHN DONVAN'
-p1412
-sg10
-(dp1413
-I1
-S'32'
-p1414
-ssg13
-(lp1415
-S'Dennis Blair.'
-p1416
-asa(dp1417
-g8
-S'ADMIRAL DENNIS BLAIR'
-p1418
 sg13
-(lp1419
-S"It's a judgment. It's a judgment. If there were a wonder weapon that would only kill al-"
-p1420
-aS'Qaeda, dedicated card carrying members, would touch no one else, could be deployed'
-p1421
-aS"from this room by pressing this button, I'd be all for it. We'd use it. We'd invent it first,"
-p1422
-aS"and then we'd use it. It doesn't. We have a set of imperfect tools that we use to try to"
-p1423
-aS'deal with this group of people who has declared war on us and who is far less'
-p1424
-aS'discriminate, more ruthless, more killing in their approach than we are.'
-p1425
-aS'And you have to make a call as to just how hard you use that weapon because it kills'
-p1426
-aS'other people and it causes other effects which our opponents have ably said. I think'
-p1427
-aS"that judgment has to be made to continually reevaluate it as you go, and I'm sure that"
-p1428
-aS'there have been times in the past in which we have erred on the side of using it too'
-p1429
-aS'much. I think we learned from those, and as the president has said in his opening'
-p1430
-aS"statements, or his statements, in recent weeks, we've decided to cut it down so I think"
-p1431
-aS"it's a judgment, and I think we're making it in the right direction."
-p1432
-asg16
-(dp1433
+(dp1411
 I6
-S'19:52:12'
-p1434
-ssa(dp1435
+S'24'
+p1412
+ssg16
+(lp1413
+S'All right.'
+p1414
+aS"I want to come back to it, because the point that you just made -- you're reporting from the ground."
+p1415
+aS"You're basically telling the high-ranking officers that you were there and that despite their understanding of the situation that because you're on the ground, you're reporting back what you think the Afghans think, that you're sharing your perception of their hearts and minds."
+p1416
+aS'I just want to take that to this side.'
+p1417
+aS"Because I think it's offered in honesty."
+p1418
+aS'Yeah.'
+p1419
+aS'And so, what they\'re saying regardless of intentions and even the structure, that word is out not just in the American media, but the word is out in the communities that the drones are different, drones are more dangerous, drones -- you used the word "sinister," that it\'s a different kind of thing.'
+p1420
+aS'I just want to -- if you were having dinner about this conversation, and he shared that -- just fact, what would you say to him?'
+p1421
+asa(dp1422
 g8
+(lp1423
+S"I -- it's pretty --"
+p1424
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p1425
+sg16
+(lp1426
+g1424
+asa(dp1427
+g8
+(lp1428
+S'Norton Schwartz.'
+p1429
+asg11
 S'JOHN DONVAN'
-p1436
-sg13
-(lp1437
-S"I'm not sure, though, that you answered the question of whether --"
-p1438
-asa(dp1439
+p1430
+sg16
+(lp1431
+g1429
+asa(dp1432
 g8
-S'ADMIRAL DENNIS BLAIR'
+(lp1433
+S'-- straightforward, actually.'
+p1434
+aS"And that is that the reality is that we have a scenario wherethe weapon -- the platform is not the issue.It's the legitimacy of the target."
+p1435
+aS'And the targeting methodology that goes along with it.'
+p1436
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p1437
+sg16
+(lp1438
+S'-- straightforward, actually.'
+p1439
+aS'And that is that the reality is that we have a scenario where the weapon -- the platform is not the issue.'
 p1440
-sg13
-(lp1441
-S'I think a different --'
+aS"It's the legitimacy of the target."
+p1441
+aS'And the targeting methodology that goes along with it.'
 p1442
-asg16
+asg18
 (dp1443
-I1
-S'19:53:00'
+S'19:39:09'
 p1444
+I2
 ssa(dp1445
 g8
-S'JOHN DONVAN'
-p1446
-sg13
-(lp1447
-S"-- you think it's really -- whether you think the blow back is so serious -- in other words,"
+(lp1446
+S'Could I put on the table the issue of double and triple tapping?'
+p1447
+aS'There --'
 p1448
-aS"are you saying that -- and she's to some degree channeling this side's argument, that it -"
+asg11
+S'JOHN KAEL WESTON'
 p1449
-aS"- the use of the weapon, the way it's being used, it creating such ill will that it's creating"
-p1450
-aS"enemies, and I'm not sure that you addressed whether you think that it is or not or"
+sg16
+(lp1450
+S'Could I put on the table the issue of double and triple tapping?'
 p1451
-aS'whether you think it is, but not enough to make it a disqualifier for the weapon.'
+aS'There --'
 p1452
 asa(dp1453
 g8
-S'ADMIRAL DENNIS BLAIR'
-p1454
-sg13
-(lp1455
-S'I think the only overall judgment we can make is that al-Qaeda is far less capable of the'
-p1456
-aS'sort of attacks that it was in the past than it is now. Drones have been a part of'
-p1457
-aS'reducing it in that capability and, therefore, overall the balance is in favor of the sort of'
-p1458
-aS'campaign the United States has conducted.'
-p1459
-asa(dp1460
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1461
-sg13
-(lp1462
-S'And I would only amplify by --'
-p1463
-asa(dp1464
-g8
+(lp1454
+S'Explain it -- explain it to --'
+p1455
+asg11
 S'JOHN DONVAN'
+p1456
+sg16
+(lp1457
+g1455
+asa(dp1458
+g8
+(lp1459
+S"-- are a number of cases where -- and I've lived this -- where -- especially in KhostProvince, where Mohammed Atta was trained."
+p1460
+aS'This is territory directly tied to 9/11,unlike Iraq.'
+p1461
+aS"When you double and triple tap, you're not even going after the initialtarget."
+p1462
+aS"You're actually dropping bombs on the people that come after Round 2 orRound 3."
+p1463
+aS"What's the rationale?"
+p1464
+aS"What's the intelligence?"
 p1465
-sg10
-(dp1466
-I0
-S'33'
+aS"What's the argument that youwould make to a law student sitting at Khost University."
+p1466
+asg11
+S'JOHN KAEL WESTON'
 p1467
-ssg13
+sg16
 (lp1468
-S'Norton Schwartz.'
+S"-- are a number of cases where -- and I've lived this -- where -- especially in Khost Province, where Mohammed Atta was trained."
 p1469
-asa(dp1470
-g8
-S'GENERAL NORTON SCHWARTZ'
+aS'This is territory directly tied to 9/11, unlike Iraq.'
+p1470
+aS"When you double and triple tap, you're not even going after the initial target."
 p1471
-sg13
-(lp1472
-S'-- if I may, by suggesting that you have a situation where you want desperately to avoid'
+aS"You're actually dropping bombs on the people that come after Round 2 or Round 3."
+p1472
+aS"What's the rationale?"
 p1473
-aS'having a larger military presence, which I -- , clearly would have its own negative effect'
+aS"What's the intelligence?"
 p1474
-aS'on local population perceptions.'
+aS"What's the argument that you would make to a law student sitting at Khost University."
 p1475
-aS'So my counter question would be, "What\'s the alternative? What is the least intrusive,'
-p1476
-aS'invasive alternative? That, we have been seeking for some time. And all I can tell you is'
-p1477
-aS'that every flag -- senior flag officer on the military side that has looked at this problem,'
-p1478
-aS'has sought that solution.'
-p1479
-asg16
-(dp1480
-I3
-S'19:54:08'
-p1481
-ssa(dp1482
+asa(dp1476
 g8
+(lp1477
+S'One second.'
+p1478
+aS'Did everybody follow what double tap and triple tap means?'
+p1479
+aS'No?'
+p1480
+aS'Allright.'
+p1481
+aS"It's when -- basically, it's a follow-up -- it's a second wave, a third wave --"
+p1482
+asg11
 S'JOHN DONVAN'
 p1483
-sg13
+sg16
 (lp1484
-S"That's the question I'd like to put to the other side since you've actually phrased it as a"
+S'One second.'
 p1485
-aS'question. If you want to kill al-Qaeda in these hard to reach places today, what is the'
+aS'Did everybody follow what double tap and triple tap means?'
 p1486
-aS'alternative to the drones? Kael Weston.'
+aS'No?'
 p1487
-asa(dp1488
-g8
-S'JOHN KAEL WESTON'
+aS'All right.'
+p1488
+aS"It's when -- basically, it's a follow-up -- it's a second wave, a third wave --"
 p1489
-sg13
-(lp1490
-S'My view has always been the most important battle going on does not include U.S.'
-p1491
-aS"Marines versus Taliban. It's inside the mosques, inside the madrasas, it's inside the"
+asa(dp1490
+g8
+(lp1491
+S'-- of bombs.'
 p1492
-aS'communities. And actually our best allies are the ones that are most critical of this'
+asg11
+S'JOHN KAEL WESTON'
 p1493
-aS"program. So if we're undercutting --"
-p1494
-asa(dp1495
-g8
-S'JOHN DONVAN'
-p1496
 sg13
-(lp1497
-S'Bottom line you are saying not to try to kill them.'
-p1498
-asg16
-(dp1499
+(dp1494
 I1
-S'19:55:01'
+S'25'
+p1495
+ssg16
+(lp1496
+g1492
+asa(dp1497
+g8
+(lp1498
+S'-- attack.'
+p1499
+aS"And what Kael is saying, that he believes he's seen it happen, where thesecond wave comes when the firefighters and the hospital people are around."
 p1500
-ssa(dp1501
-g8
-S'JOHN KAEL WESTON'
+aS"I thinkthat's what you --"
+p1501
+asg11
+S'JOHN DONVAN'
 p1502
-sg13
+sg16
 (lp1503
-S'Well, no, no. I -- yeah, I\'m not a person that says, "All drones need to be taken off -- out'
+S'-- attack.'
 p1504
-aS'of the sky." But what I am saying is that we\'ve lost the strategic narratives so that'
+aS"And what Kael is saying, that he believes he's seen it happen, where the second wave comes when the firefighters and the hospital people are around."
 p1505
-aS"General, I'm all in favor of not sending in the first Marine division anywhere again for"
+aS"I think that's what you --"
 p1506
-aS"the most part. However, I think that we've lost sight of who the best fighters are in"
-p1507
-aS"these battles. And it's actually not an American anywhere. It's an Afghan. It's a Yemeni."
+asg18
+(dp1507
+S'19:40:07'
 p1508
-aS"It's a Pakistani. So when you listen to our allies who want us to succeed, who want us to"
-p1509
-aS'be safe, they are pretty uniform in their indictment of drones, and --'
-p1510
-ag917
-asa(dp1511
+I3
+ssa(dp1509
 g8
-S'GENERAL NORTON SCHWARTZ'
+(lp1510
+S'Family members --'
+p1511
+asg11
+S'JOHN KAEL WESTON'
 p1512
-sg10
-(dp1513
-I1
-S'34'
-p1514
-ssg13
+sg16
+(lp1513
+g1511
+asa(dp1514
+g8
 (lp1515
-S" if they don't control their own territory."
-p1516
-asa(dp1517
-g8
-S'JOHN KAEL WESTON'
-p1518
-sg13
-(lp1519
-S"Well, that's a government to government discussion. I agree with that. As far as the"
-p1520
-aS"tactic, it's what Ahmed my well spoken and famous colleague here at the table have"
-p1521
-aS"said, which is that the tactic can't be the strategy. We've enabled the tactic to become a"
-p1522
-aS'failed strategy and a failed narrative.'
-p1523
-asa(dp1524
-g8
-S'JOHN DONVAN'
-p1525
-sg13
-(lp1526
-S"But, Ahmed, it's the -- coming back to the question that your opponents put a minute"
-p1527
-aS'ago, if the goal of the strategy is to destroy al-Qaeda physically, what alternative is there'
-p1528
-aS"to drones to reach them in these places where it's very hard to get to?"
-p1529
-asg16
-(dp1530
-I3
-S'19:56:09'
-p1531
-ssa(dp1532
-g8
-S'AHMED RASHID'
-p1533
-sg13
-(lp1534
-S"Well, I think there's no doubt that there are obviously ungoverned areas and the"
-p1535
-aS'Pakistanis have not been active enough in undermining and destroying Al-Qaeda. But I'
-p1536
-aS"also think that U.S. policy has -- there's been enormous tension between the U.S. and"
-p1537
-aS"Pakistan over the years, as there has been between Yemen and the U.S. Now, it's not all"
-p1538
-aS"centered around drones, but it's centered around, frankly, a lack of long-term strategy"
-p1539
-aS'and vision by both countries. And both are to blame. Now, I think what we need is'
-p1540
-aS'much greater diplomacy and, you know, diplomatic efforts to strike better relationships.'
-p1541
-aS'We had a situation where -- as you know --'
-p1542
-asa(dp1543
-g8
-S'JOHN DONVAN'
-p1544
-sg13
-(lp1545
-S"But just so, just to get to my point -- and I'll -- then I'll let you continue -- are you saying,"
-p1546
-aS'therefore, that a campaign at this point, to continue to try to kill Al-Qaeda operatives,'
-p1547
-aS'planners, et cetera, strategists, by the United States, is ill-founded? They should stop'
-p1548
-aS'trying to kill them by drones or any other means?'
-p1549
-asg16
-(dp1550
-I4
-S'19:57:06'
-p1551
-ssa(dp1552
-g8
-S'AHMED RASHID'
-p1553
-sg13
-(lp1554
-S'No. I think they should continue trying to kill them. They should be urging the'
-p1555
-aS'Pakistanis to do much more to do this. This is the problem, you know?'
-p1556
-asa(dp1557
-g8
-S'JOHN DONVAN'
-p1558
-sg13
-(lp1559
 S'Okay.'
-p1560
-asa(dp1561
+p1516
+asg11
+S'JOHN DONVAN'
+p1517
+sg16
+(lp1518
+g1516
+asa(dp1519
 g8
+(lp1520
+S'-- community member, whoever it is.'
+p1521
+aS'They --'
+p1522
+asg11
 S'JOHN KAEL WESTON'
-p1562
-sg10
-(dp1563
-I3
-S'35'
-p1564
-ssg13
-(lp1565
-S"Well, yeah, there's a lot of mythology about what seals and drones can do together."
-p1566
-aS'And I think what -- the American people look at joystick warfare and think, "Well, why'
-p1567
-aS'not have seals and drones fix everything?" But that\'s also not a strategy.'
-p1568
-asa(dp1569
+p1523
+sg16
+(lp1524
+S'-- community member, whoever it is.'
+p1525
+aS'They --'
+p1526
+asa(dp1527
 g8
+(lp1528
+S'All right.'
+p1529
+aS'I just wanted to --'
+p1530
+asg11
 S'JOHN DONVAN'
-p1570
-sg13
-(lp1571
-S"Ma'am? A mike is coming down from the aisle for you."
-p1572
-asa(dp1573
+p1531
+sg16
+(lp1532
+S'All right.'
+p1533
+aS'I just wanted to --'
+p1534
+asa(dp1535
 g8
-S'COLLEEN QUINN'
-p1574
-sg13
-(lp1575
-S'Hi. My name is Colleen Quinn. This question is for Admiral Blair. Admiral, I was very'
-p1576
-aS'pleased to see that you are also a member of the Security Leadership Council, securing'
-p1577
-aS"America's future energy. So, you all here today are talking about, you know, overall"
-p1578
-aS'strategies for the U.S. And one of the things that particular council talks about is how we'
-p1579
-aS'can frankly, you know, develop alternative energies to -- so that we can --'
-p1580
-asa(dp1581
-g8
-S'JOHN DONVAN'
-p1582
-sg13
-(lp1583
-S"Ma'am, I apologize."
-p1584
-asg16
-(dp1585
-I1
-S'19:58:03'
-p1586
-ssa(dp1587
-g8
-S'COLLEEN QUINN'
-p1588
-sg13
-(lp1589
-S'Not -- oh, sorry.'
-p1590
-asa(dp1591
-g8
-S'JOHN DONVAN'
-p1592
-sg13
-(lp1593
-S'I need the topic to be on the motion.'
-p1594
-asa(dp1595
-g8
-S'COLLEEN QUINN'
-p1596
-sg13
-(lp1597
-S'Oh, okay. Sorry.'
-p1598
-asa(dp1599
-g8
-S'JOHN DONVAN'
-p1600
-sg13
-(lp1601
-S'But thanks anyway. You missed my briefing. Right down in front, right by -- but you can'
-p1602
-aS'chat afterward.'
-p1603
-asa(dp1604
-g20
-(dp1605
-I1
-S'[laughter]'
-p1606
-ssg8
-S'ADMIRAL DENNIS BLAIR'
-p1607
-sg13
-(lp1608
-S"I think it's a great cause. Thank you."
-p1609
-asa(dp1610
-g8
+(lp1536
+S'-- get bombed, too.'
+p1537
+asg11
 S'JOHN KAEL WESTON'
-p1611
-sg13
-(lp1612
-S"That's an easier debate for you to have, that's for sure."
-p1613
-asa(dp1614
+p1538
+sg16
+(lp1539
+g1537
+asa(dp1540
 g8
+(lp1541
+S'-- have clarity for you on that.'
+p1542
+asg11
 S'JOHN DONVAN'
-p1615
-sg13
-(lp1616
-S'Could you stand, please? Thanks.'
-p1617
-asa(dp1618
+p1543
+sg16
+(lp1544
+g1542
+asa(dp1545
 g8
-S'ELLIE ROTH'
-p1619
-sg10
-(dp1620
-I2
-S'36'
-p1621
-ssg13
-(lp1622
-S'Yes. Ellie Roth . I just want to know, who decides what drones are'
-p1623
-aS"to be sent out? Is it the CIA that tells the military? That's the mystery. When we hear"
-p1624
-aS"about drone strikes, we don't understand who's responsible, who's made the decision."
-p1625
-aS"Is it policy, is it someone who's mad at someone?"
-p1626
-asa(dp1627
-g8
-S'JOHN DONVAN'
-p1628
-sg13
-(lp1629
-S"Okay. I'll let these guys answer your question. Let's go to Admiral Blair -- Dennis Blair."
-p1630
-asa(dp1631
-g8
-S'ADMIRAL DENNIS BLAIR'
-p1632
-sg13
-(lp1633
-S'Right. The decision on what is a target can be struck either by a military or by an'
-p1634
-aS'intelligence CIA drone is made under criteria that are approved by the White House,'
-p1635
-aS'that are then promulgated.'
-p1636
-aS'And a series of officials, including lawyers, officials in each of those agencies and the'
-p1637
-aS'chains of command, then apply them to actual names of Al-Qaeda and other'
-p1638
-aS'combatants. Once they satisfy that criteria, then they are a legitimate target at that'
-p1639
-aS'point. The question is, can you truly tell -- is that a person that you found and can strike,'
-p1640
-aS'and is there a relatively small level of collateral damage? That is, innocent people'
-p1641
-aS"around that person before you make the strike. That's how it's done."
-p1642
-asg16
-(dp1643
-I3
-S'19:59:05'
-p1644
-ssa(dp1645
-g8
-S'JOHN DONVAN'
-p1646
-sg13
-(lp1647
-S'So, Dennis Blair, your opponent Ahmed Rashid has mentioned -- and I said that I would'
-p1648
-aS'get back to this whole notion of signature strikes, in which the target is chosen by a'
-p1649
-aS'pattern of suspicious-looking behavior, maybe going frequently to a house where there'
-p1650
-aS"are known to be bad guys. And then he's tracked back to his house. You don't know his"
-p1651
-aS"name. You don't know who he is, but he's targeted because it's an association or some"
-p1652
-aS"other pattern that I'm unfamiliar with."
-p1653
-aS'And I want to know, do you put that in a different category? Is that morally more'
-p1654
-aS"challenging an issue, when you don't actually have a name, but you just have a kind of"
-p1655
-aS'profile?'
-p1656
-asg16
-(dp1657
-I6
-S'20:00:01'
-p1658
-ssa(dp1659
-g8
+(lp1546
+S'But just to --'
+p1547
+asg11
 S'GENERAL NORTON SCHWARTZ'
-p1660
-sg13
-(lp1661
-S'It is.'
-p1662
-asa(dp1663
+p1548
+sg16
+(lp1549
+g1547
+asa(dp1550
 g8
-S'JOHN DONVAN'
-p1664
-sg13
-(lp1665
+(lp1551
 S'Norton Schwartz.'
-p1666
-asa(dp1667
+p1552
+asg11
+S'JOHN DONVAN'
+p1553
+sg16
+(lp1554
+g1552
+asa(dp1555
 g8
+(lp1556
+S'-- set the stage, when I became the chief in 2008, we had 32 24/7 orbits of remoteaircraft.'
+p1557
+aS'When I left, we had 58.'
+p1558
+aS"Now, we didn't do that because we're sort ofgenerous."
+p1559
+aS'The reason we did it is because there was a demand signal from thesupportive forces, the Marines and the Army --'
+p1560
+asg11
 S'GENERAL NORTON SCHWARTZ'
-p1668
-sg10
-(dp1669
-I3
-S'37'
-p1670
-ssg13
-(lp1671
-S'It certainly is. Now, signature strikes in a declared combat area are different than those'
-p1672
-aS'that occur outside declared combat areas. And I -- and the criteria are different. But'
-p1673
-aS'the bottom line is, if in a combat area, if the individual or individuals appear to be'
-p1674
-aS'hostile, you can engage them in the context of that signature of hostility. On the other'
-p1675
-aS'hand, activities in non-combat areas -- and this does apply to Pakistan, I would argue --'
-p1676
-aS"it is much more problematic to conduct signature strikes there or elsewhere, where it's"
-p1677
-aS'not a declared combat zone.'
-p1678
-asa(dp1679
+p1561
+sg16
+(lp1562
+S'-- set the stage, when I became the chief in 2008, we had 32 24/7 orbits of remote aircraft.'
+p1563
+aS'When I left, we had 58.'
+p1564
+aS"Now, we didn't do that because we're sort of generous."
+p1565
+aS'The reason we did it is because there was a demand signal from the supportive forces, the Marines and the Army --'
+p1566
+asa(dp1567
 g8
-S'ADMIRAL DENNIS BLAIR'
-p1680
+(lp1568
+S'Could I --'
+p1569
+asg11
+S'JOHN KAEL WESTON'
+p1570
+sg16
+(lp1571
+g1569
+asa(dp1572
+g8
+(lp1573
+S'-- to -- No.'
+p1574
+aS'No.'
+p1575
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p1576
 sg13
-(lp1681
-S'Yeah. I can talk about those, because I received the phone calls every --'
-p1682
-asg16
-(dp1683
+(dp1577
 I1
-S'20:01:02'
-p1684
-ssa(dp1685
+S'26'
+p1578
+ssg16
+(lp1579
+S'-- to -- No.'
+p1580
+aS'No.'
+p1581
+asa(dp1582
 g8
+(lp1583
+S'Kael, let him finish.'
+p1584
+asg11
 S'JOHN DONVAN'
-p1686
-sg13
-(lp1687
-S'Dennis --'
-p1688
-asa(dp1689
+p1585
+sg16
+(lp1586
+g1584
+asa(dp1587
 g8
-S'ADMIRAL DENNIS BLAIR'
-p1690
-sg13
-(lp1691
-S'-- time we conducted a strike. This is up to the middle of 2010. And I think that the'
-p1692
-aS'administration has been really derelict in not talking about these, because they are'
-p1693
-aS'based on the self-defense of American and Afghan forces. The signature strikes that'
-p1694
-aS'were conducted in Pakistan, all of them during my time, and the great majority over all,'
-p1695
-aS'had to do with armed groups of men who were coming out of known Taliban, TTP areas'
-p1696
-aS'on road headed towards Afghanistan. And we knew that they were not friendly. They'
-p1697
-aS'were armed. We know what their arms were. And we knew that they were coming to'
-p1698
-aS'attack Afghans and Americans and others. And we killed them before they could do'
-p1699
-aS'that'
-p1700
-asa(dp1701
+(lp1588
+S'Let me finish.'
+p1589
+aS'To provide the kind of overhead surveillance and strike capability thatminimized the risk to their forces.'
+p1590
+aS'And I would argue, Kael, that this was not just someperception in Washington, but this was real down on the ground.'
+p1591
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p1592
+sg16
+(lp1593
+S'Let me finish.'
+p1594
+aS'To provide the kind of overhead surveillance and strike capability that minimized the risk to their forces.'
+p1595
+aS'And I would argue, Kael, that this was not just some perception in Washington, but this was real down on the ground.'
+p1596
+asg18
+(dp1597
+S'19:41:00'
+p1598
+I3
+ssa(dp1599
 g8
+(lp1600
+S'No.'
+p1601
+aS'I -- General, you know, I have the greatest respect for you.'
+p1602
+aS'My sand is still deep inmy shoes, and so I bring baggage with me.'
+p1603
+aS'However, I found that the commanders onthe ground are the 12 to 14 Marine generals I worked with -- the closer they were to thedrones, the more skeptical they were.'
+p1604
+aS"Doesn't mean that all of your arguments arefalse."
+p1605
+aS"It doesn't mean I think every drone needs to be, you know, eliminated from thebattlefield."
+p1606
+aS'But the closer you are to where the strategic effect is with the people, themore critical I found the marine commanders to be.'
+p1607
+aS"I don't want to speak for all ofthem, but it was -- it was a pretty clear pattern"
+p1608
+asg11
+S'JOHN KAEL WESTON'
+p1609
+sg16
+(lp1610
+S'No.'
+p1611
+aS'I -- General, you know, I have the greatest respect for you.'
+p1612
+aS'My sand is still deep in my shoes, and so I bring baggage with me.'
+p1613
+aS'However, I found that the commanders on the ground are the 12 to 14 Marine generals I worked with -- the closer they were to the drones, the more skeptical they were.'
+p1614
+aS"Doesn't mean that all of your arguments are false."
+p1615
+aS"It doesn't mean I think every drone needs to be, you know, eliminated from the battlefield."
+p1616
+aS'But the closer you are to where the strategic effect is with the people, the more critical I found the marine commanders to be.'
+p1617
+aS"I don't want to speak for all of them, but it was -- it was a pretty clear pattern"
+p1618
+asa(dp1619
+g8
+(lp1620
+S'They should probably speak for themselves.'
+p1621
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p1622
+sg16
+(lp1623
+g1621
+asa(dp1624
+g8
+(lp1625
+S'Ahmed Rashid, I want to move this to -- in a different direction.'
+p1626
+aS'Your opponents havemade the point, repeatedly, particularly in their opening statements, that the droneshave killed a lot of guys that they were supposed to kill, that they have decimated al-Qaeda; and that al-Qaeda is on the way to becoming a footnote in history because of it,which was the whole purpose.'
+p1627
+aS'These are the guys who blew up buildings in this city.'
+p1628
+aS'Doyou dispute their effectiveness in -- on that agenda?'
+p1629
+asg11
 S'JOHN DONVAN'
-p1702
-sg13
-(lp1703
-S'I want to let Ahmed Rashid respond to that. But first, I want to remind you that we are'
-p1704
-aS"in the question and answer section of this Intelligence Squared U.S. debate. I'm John"
-p1705
-aS'Donvan, your moderator. We have four debaters, two teams of two, debating this'
-p1706
-aS'motion: The U.S. drone program is fatally flawed. Ahmed Rashid, signature strikes?'
-p1707
-asg16
-(dp1708
-I4
-S'20:02:07'
-p1709
-ssa(dp1710
+p1630
+sg16
+(lp1631
+S'Ahmed Rashid, I want to move this to -- in a different direction.'
+p1632
+aS'Your opponents have made the point, repeatedly, particularly in their opening statements, that the drones have killed a lot of guys that they were supposed to kill, that they have decimated al- Qaeda; and that al-Qaeda is on the way to becoming a footnote in history because of it, which was the whole purpose.'
+p1633
+aS'These are the guys who blew up buildings in this city.'
+p1634
+aS'Do you dispute their effectiveness in -- on that agenda?'
+p1635
+asg18
+(dp1636
+S'19:41:58'
+p1637
+I6
+ssa(dp1638
 g8
+(lp1639
+S"no, I don't dispute their effectiveness."
+p1640
+aS'Obviously, this is a military weapon that has beendeveloped to do a certain thing.'
+p1641
+aS"And it is going to be further developed, and it's goingto be used even more."
+p1642
+aS'I think the point is that it is being -- it is being used veryindiscriminately and without any kind of scrutiny or self-knowledge even amongstAmericans.'
+p1643
+aS'The whole issue of legality, the whole issue of the precedent that it sets forother countries to follow, there are a whole range of political issues and politicalanswers that are needed in order for this weapon to be really legal, be legitimate and bejustified.'
+p1644
+aS'And that is the point.'
+p1645
+aS"I don't dispute at all that certainly many seniormembers of al-Qaeda have been killed."
+p1646
+aS"But this is a weapon that has opened up aPandora's box of questions, especially for those countries who are in receipt of thisweapon, you know, at the receiving end."
+p1647
+aS'And I think we need -- we need answers.'
+p1648
+aS'Ithink this question of precedent is absolutely paramount at the moment with what -- ifSyria is using --'
+p1649
+asg11
 S'AHMED RASHID'
-p1711
-sg10
-(dp1712
-I11
-S'38'
-p1713
-ssg13
-(lp1714
-S'I just want to answer the question which the lady posed, which I think we should go'
-p1715
-aS"back to. And I think you're absolutely right. For the admiral to describe the individuals"
-p1716
-aS"who are involved in this decision making doesn't give us the criteria. I mean, what is the"
-p1717
-aS"criteria for choosing who's going to live and who's going to die? The fact is the U.S."
-p1718
-aS'media itself has portrayed that, the president is sitting there ticking off on a list as to'
-p1719
-aS'who is going to live and who is going to die, or today, who is going to be drone or not.'
-p1720
-aS'Now, I mean, we have no idea what the criteria is, how these people are chosen, what is'
-p1721
-aS"the level of evidence about them being al-Qaeda? Now, I'm not asking for all this to be"
-p1722
-aS'made public. But I think there must be much -- a much greater degree of satisfaction'
-p1723
-aS'that people understand, why these targets are being chosen. And that is just not there'
-p1724
-aS'at all.'
-p1725
-asa(dp1726
-g8
-S'MALE SPEAKER'
-p1727
+p1650
 sg13
-(lp1728
-S'I agree. I agree.'
-p1729
-asg16
-(dp1730
-I1
-S'20:03:04'
-p1731
-ssa(dp1732
+(dp1651
+I9
+S'27'
+p1652
+ssg16
+(lp1653
+S"no, I don't dispute their effectiveness."
+p1654
+aS'Obviously, this is a military weapon that has been developed to do a certain thing.'
+p1655
+aS"And it is going to be further developed, and it's going to be used even more."
+p1656
+aS'I think the point is that it is being -- it is being used very indiscriminately and without any kind of scrutiny or self-knowledge even amongst Americans.'
+p1657
+aS'The whole issue of legality, the whole issue of the precedent that it sets for other countries to follow, there are a whole range of political issues and political answers that are needed in order for this weapon to be really legal, be legitimate and be justified.'
+p1658
+aS'And that is the point.'
+p1659
+aS"I don't dispute at all that certainly many senior members of al-Qaeda have been killed."
+p1660
+aS"But this is a weapon that has opened up a Pandora's box of questions, especially for those countries who are in receipt of this weapon, you know, at the receiving end."
+p1661
+aS'And I think we need -- we need answers.'
+p1662
+aS'I think this question of precedent is absolutely paramount at the moment with what -- if Syria is using --'
+p1663
+asg18
+(dp1664
+S'19:43:09'
+p1665
+I13
+ssa(dp1666
 g8
-S'JOHN KAEL WESTON'
-p1733
-sg13
-(lp1734
-S'Well, could I add, I mean, it became a live issue in the United States only when an'
-p1735
-aS'American citizen was killed. So all my Afghan and Pakistani friends are like, well, you'
-p1736
-aS"guys care when it's an American kid named Awlaki that's killed, but not when our"
-p1737
-aS'cousins and brothers are killed.'
-p1738
-asa(dp1739
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1740
-sg13
-(lp1741
-S'Awlaki was a self-declared combatant.'
-p1742
-asa(dp1743
-g8
-S'JOHN KAEL WESTON'
-p1744
-sg13
-(lp1745
-S"The son of -- I mean the 16-year-old. And again, that still hasn't come out. But all I'm"
-p1746
-aS"saying is that, again, the battle is a battle that involves them more than us. And it's a"
-p1747
-aS'narrative that I think is really the challenge here. And I think in some ways we agree'
-p1748
-aS"more than we disagree on who's winning and who's losing that narrative."
-p1749
-asa(dp1750
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1751
-sg13
-(lp1752
-S'So the adverb here is important, fatally.'
-p1753
-asa(dp1754
-g8
+(lp1667
+S"Let's take it to Dennis Blair."
+p1668
+asg11
 S'JOHN DONVAN'
-p1755
-sg13
-(lp1756
-S"I'm going to take another question, right down in front here. Folks, if you're upstairs"
-p1757
-aS"and raising your hands, I apologize. I -- number one, I can't see you. And we don't have"
-p1758
-aS'mics up there. But if you are really enthusiastic and come down through the back doors,'
-p1759
-aS"I'll find you. But if you do that, really make it a good question."
-p1760
-asg16
-(dp1761
-I4
-S'20:04:02'
-p1762
-ssa(dp1763
+p1669
+sg16
+(lp1670
+g1668
+asa(dp1671
 g8
-S'JOHN DAGASTINO'
-p1764
-sg13
-(lp1765
-S'Hi. My name is John Dagastino. This question is for the "for" side, particularly John.'
-p1766
-aS'You\'ve made the point several times talking about our allies, quote, "Indictment" of this'
-p1767
-aS'policy. I presume by that you mean Pakistan. How do you reconcile that indictment'
-p1768
-aS'with their cooperation? And consequently, how much of that indictment is actually'
-p1769
-aS'hypocrisy?'
-p1770
-asa(dp1771
+(lp1672
+S"Just because you've discovered the drones doesn't mean that this is the first time thatanybody has ever thought about these questions."
+p1673
+aS'This is a weapons system whichcombines the capabilities of surveillance and attack, and it is operated according to therules of law, the control procedures, the follow up procedures that the U.S. armedforces use for all of the weapon systems that we have over the years.'
+p1674
+aS"We know how totake new weapon systems, use them for mission purposes, control them so that they'redone legally, with lawyers in the command loop to a much greater extent than they arefor most any other weapons, and you use them for your purpose, and you try tominimize the harmful side effects of which there are many, as there are for any weaponsystems in order to get the mission done."
+p1675
+aS"And that's how we do it."
+p1676
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p1677
+sg16
+(lp1678
+S"Just because you've discovered the drones doesn't mean that this is the first time that anybody has ever thought about these questions."
+p1679
+aS'This is a weapons system which combines the capabilities of surveillance and attack, and it is operated according to the rules of law, the control procedures, the follow up procedures that the U.S. armed forces use for all of the weapon systems that we have over the years.'
+p1680
+aS"We know how to take new weapon systems, use them for mission purposes, control them so that they're done legally, with lawyers in the command loop to a much greater extent than they are for most any other weapons, and you use them for your purpose, and you try to minimize the harmful side effects of which there are many, as there are for any weapon systems in order to get the mission done."
+p1681
+aS"And that's how we do it."
+p1682
+asa(dp1683
 g8
-S'JOHN KAEL WESTON'
-p1772
-sg10
-(dp1773
+(lp1684
+S"I'm going to let this side respond."
+p1685
+aS'I just want to let the audience know that after thisresponse I want to start going to your questions.'
+p1686
+aS'And the way this will work, if you raiseyour hand, and I call on you, just stand where you are.Somebody will come down the mic -- aisle and hand a microphone to you.'
+p1687
+aS'Hold it aboutthis distance from your mouth so that the radio broadcast can get you.'
+p1688
+aS"We would reallylike it if you would state your name and then ask a tight, focused question that's onpoint for us."
+p1689
+aS'Okay.'
+p1690
+aS"Let's go to this side for the response."
+p1691
+asg11
+S'JOHN DONVAN'
+p1692
+sg16
+(lp1693
+S"I'm going to let this side respond."
+p1694
+aS'I just want to let the audience know that after this response I want to start going to your questions.'
+p1695
+aS'And the way this will work, if you raise your hand, and I call on you, just stand where you are.'
+p1696
+aS'Somebody will come down the mic -- aisle and hand a microphone to you.'
+p1697
+aS'Hold it about this distance from your mouth so that the radio broadcast can get you.'
+p1698
+aS"We would really like it if you would state your name and then ask a tight, focused question that's on point for us."
+p1699
+aS'Okay.'
+p1700
+aS"Let's go to this side for the response."
+p1701
+asg18
+(dp1702
+S'19:44:05'
+p1703
 I3
-S'39'
-p1774
-ssg13
-(lp1775
-S"Well, yeah, I should have defined ally. I'm talking about the people that I dealt with on"
-p1776
-aS'the ground. So whether they were in Khost or in Helmund or even in Fallujah, although'
-p1777
-aS"the drones weren't armed then, I'll let Ahmed take the bigger issue of the Pakistani"
-p1778
-aS"maybe duplicity. And I'm sure there's a lot of double winks that go on every day of the"
-p1779
-aS'week over there.'
-p1780
-aS'But my concern is the allies that actually are the future leaders of Afghanistan, the'
-p1781
-aS'university students, the Madrasa students, the tribal elders, the Mullahs, the whole host'
-p1782
-aS"of people that get killed in these drone strikes when they go wrong. Because I don't"
-p1783
-aS'think the Taliban hold up a red flag. I know they don\'t, and say, "I\'m Taliban. What'
-p1784
-aS"happens is there's a bad guy in the family or a bad guy in the village, and we identify"
-p1785
-aS"maybe he's a bad guy, and we drop a hellfire, and then you turn three villages against"
-p1786
-aS'us.'
-p1787
-aS"It goes to the ratio and the equal sign. I'll come back to it. Yes to the woman I thought"
-p1788
-aS'who asked a very good question, elaborated on by you, our moderator, is the number of'
-p1789
-aS"enemies we're making and the number of targets we're making. And I'll defer to you,"
-p1790
-aS'Ahmed, on the question about his point on as far as the Pakistan government or the'
-p1791
-aS'Pakistan --'
-p1792
-asg16
-(dp1793
-I12
-S'20:05:06'
-p1794
-ssa(dp1795
+ssa(dp1704
 g8
+(lp1705
+S'Just briefly, I want to actually give voice to a real live Afghan.'
+p1706
+aS"And I'm going to read aquote."
+p1707
+aS'When that incident happened that the New York Times covered, a friend of minewent to a tribal elder, and this is what the tribal elder said.'
+p1708
+aS'Siraj Haqqani, the seniormost leader of the Haqqani said that since the USA is using drones against people, thepeople will use Patriot missiles against the U.S.A.'
+p1709
+aS'Someone in the village asked what hemeant, where are the Patriot missiles?'
+p1710
+aS'Siraj replied, Suicide bombers are our Patriotmissiles.'
+p1711
+aS'" The question I don\'t think we still had answered, for example, on the legalityquestion -- and I know we\'re not in a law seminar, but it\'s an important one because it\'swhat motivates terrorists to hurt us.'
+p1712
+aS"Because at the end of the day, I think everyone inthis room needs to ask fundamental question, which is, are you and your family saferbecause of the drone program as it's currently structured, or not?What is the legality of the third wave of drone strikes in terms of the triple tap?"
+p1713
+aS'What isthe legality of that?'
+p1714
+aS'What are the lawyers in Washington arguing?'
+p1715
+aS"They're not theinitial targets."
+p1716
+aS"There's not intel tied to them."
+p1717
+asg11
+S'JOHN KAEL WESTON'
+p1718
+sg13
+(dp1719
+I9
+S'28'
+p1720
+ssg16
+(lp1721
+S'Just briefly, I want to actually give voice to a real live Afghan.'
+p1722
+aS"And I'm going to read a quote."
+p1723
+aS'When that incident happened that the New York Times covered, a friend of mine went to a tribal elder, and this is what the tribal elder said.'
+p1724
+aS'Siraj Haqqani, the senior most leader of the Haqqani said that since the USA is using drones against people, the people will use Patriot missiles against the U.S.A.'
+p1725
+aS'Someone in the village asked what he meant, where are the Patriot missiles?'
+p1726
+aS'Siraj replied, Suicide bombers are our Patriot missiles.'
+p1727
+aS'" The question I don\'t think we still had answered, for example, on the legality question -- and I know we\'re not in a law seminar, but it\'s an important one because it\'s what motivates terrorists to hurt us.'
+p1728
+aS"Because at the end of the day, I think everyone in this room needs to ask fundamental question, which is, are you and your family safer because of the drone program as it's currently structured, or not?"
+p1729
+aS'What is the legality of the third wave of drone strikes in terms of the triple tap?'
+p1730
+aS'What is the legality of that?'
+p1731
+aS'What are the lawyers in Washington arguing?'
+p1732
+aS"They're not the initial targets."
+p1733
+aS"There's not intel tied to them."
+p1734
+asg18
+(dp1735
+S'19:45:08'
+p1736
+I11
+ssa(dp1737
+g8
+(lp1738
+S'Norman Schwartz.'
+p1739
+asg11
+S'JOHN DONVAN'
+p1740
+sg16
+(lp1741
+g1739
+asa(dp1742
+g8
+(lp1743
+S"If you are in a declared combat area, as was the case in Fallujah or in other areas thatyou're familiar with, if you have combatants that depart that initial strike area, this isnot unlike what happened with Zarqawi."
+p1744
+aS'The bottom line was, now, that was a mannedstrike.'
+p1745
+aS'And hopefully, I make no apologize for that either.'
+p1746
+aS'But the bottom line is thatwe have a situation where you have people that depart a site that -- that hadcombatants, that was identified as a location.And they depart that area, and you reengage.'
+p1747
+aS'This is what happens when people leavea foxhole or when people depart a tank in a tank battle.'
+p1748
+aS'The bottom line, Kael, I think isthat you argue for discretion.'
+p1749
+aS'I believe in that too.'
+p1750
+aS'But on the battlefield, the principleis to engage the enemy.'
+p1751
+aS'It is that.'
+p1752
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p1753
+sg16
+(lp1754
+S"If you are in a declared combat area, as was the case in Fallujah or in other areas that you're familiar with, if you have combatants that depart that initial strike area, this is not unlike what happened with Zarqawi."
+p1755
+aS'The bottom line was, now, that was a manned strike.'
+p1756
+aS'And hopefully, I make no apologize for that either.'
+p1757
+aS'But the bottom line is that we have a situation where you have people that depart a site that -- that had combatants, that was identified as a location.'
+p1758
+aS'And they depart that area, and you reengage.'
+p1759
+aS'This is what happens when people leave a foxhole or when people depart a tank in a tank battle.'
+p1760
+aS'The bottom line, Kael, I think is that you argue for discretion.'
+p1761
+aS'I believe in that too.'
+p1762
+aS'But on the battlefield, the principle is to engage the enemy.'
+p1763
+aS'It is that.'
+p1764
+asg18
+(dp1765
+S'19:46:06'
+p1766
+I6
+ssa(dp1767
+g8
+(lp1768
+S'Well, we went through a phase in Fallujah where everyone was a military-aged male.And I finally told the generals in Baghdad -- at that point, I was young enough that I wasstill a military-aged male according to our definition.'
+p1769
+aS'We then switched that definitionbecause we started to treat every Iraqi as a potential threat.'
+p1770
+aS"And I'll be honest with you,if you're a Taliban member, and you're living in a community around family and friends,with all due respect, I don't think that that makes you a legitimate target."
+p1771
+aS"And that's ineffect what's been happening."
+p1772
+asg11
+S'JOHN KAEL WESTON'
+p1773
+sg16
+(lp1774
+S'Well, we went through a phase in Fallujah where everyone was a military-aged male.'
+p1775
+aS'And I finally told the generals in Baghdad -- at that point, I was young enough that I was still a military-aged male according to our definition.'
+p1776
+aS'We then switched that definition because we started to treat every Iraqi as a potential threat.'
+p1777
+aS"And I'll be honest with you, if you're a Taliban member, and you're living in a community around family and friends, with all due respect, I don't think that that makes you a legitimate target."
+p1778
+aS"And that's in effect what's been happening."
+p1779
+asg18
+(dp1780
+S'19:47:02'
+p1781
+I7
+ssa(dp1782
+g8
+(lp1783
+S'I agree with that.'
+p1784
+aS'I agree.'
+p1785
+aS"But if you're carrying an arm, if you have a weapon, I wouldargue in a combat zone, that makes you a legitimate target."
+p1786
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p1787
+sg16
+(lp1788
+S'I agree with that.'
+p1789
+aS'I agree.'
+p1790
+aS"But if you're carrying an arm, if you have a weapon, I would argue in a combat zone, that makes you a legitimate target."
+p1791
+asa(dp1792
+g8
+(lp1793
+S"Let's go to some questions."
+p1794
+aS'Right down in the front here.'
+p1795
+asg11
 S'JOHN DONVAN'
 p1796
 sg13
-(lp1797
-S"Yeah, why don't you let Ahmed get to that. Yeah."
+(dp1797
+I1
+S'29'
 p1798
-asa(dp1799
-g8
-S'AHMED RASHID'
+ssg16
+(lp1799
+S"Let's go to some questions."
 p1800
-sg13
-(lp1801
-S'Can I just say one thing first? And that is that most allies of the U.S. in Europe, are'
-p1802
-aS'against drones. As far as I know, only the British have openly -- support the U.S. policy'
-p1803
-aS'of drones. Most of the Europeans, European governments and European parliaments,'
+aS'Right down in the front here.'
+p1801
+asa(dp1802
+g8
+(lp1803
+S'And the point is you can see the weapons from these platforms.'
 p1804
-aS"are against it. And they've been --"
+asg11
+S'GENERAL NORTON SCHWARTZ'
 p1805
-asa(dp1806
+sg16
+(lp1806
+g1804
+asa(dp1807
 g8
-S'JOHN DONVAN'
-p1807
-sg13
 (lp1808
-S'What does it mean, "Against it," that they want it to stop completely?'
+S'Yes and no.'
 p1809
-asa(dp1810
+asg11
+S'JOHN KAEL WESTON'
+p1810
+sg16
+(lp1811
+g1809
+asa(dp1812
 g8
-S'AHMED RASHID'
-p1811
-sg13
-(lp1812
-S'Sorry?'
-p1813
-asa(dp1814
-g8
-S'JOHN DONVAN'
+(lp1813
+S'Thank you for taking my question.'
+p1814
+aS'I just wanted to address this question --'
 p1815
-sg13
-(lp1816
-S'They want a total cessation of the use of use of drones in that area?'
-p1817
-asa(dp1818
-g8
-S'AHMED RASHID'
+asg11
+S'JORDAN BENNETT'
+p1816
+sg16
+(lp1817
+S'Thank you for taking my question.'
+p1818
+aS'I just wanted to address this question --'
 p1819
-sg13
-(lp1820
-S'Yes. I mean --'
-p1821
-asa(dp1822
+asa(dp1820
 g8
+(lp1821
+S'Would you mind telling us your name?'
+p1822
+asg11
 S'JOHN DONVAN'
 p1823
-sg10
-(dp1824
-I1
-S'40'
-p1825
-ssg13
+sg16
+(lp1824
+g1822
+asa(dp1825
+g8
 (lp1826
-S'Okay. Just wanted to clarify.'
+S'Oh, my name is Jordan Bennett .'
 p1827
-asg16
-(dp1828
-I1
-S'20:06:00'
-p1829
-ssa(dp1830
+asg11
+S'JORDAN BENNETT'
+p1828
+sg16
+(lp1829
+g1827
+asa(dp1830
 g8
-S'AHMED RASHID'
-p1831
-sg13
-(lp1832
-S'They do. Or they want greater transparency, or they want greater information as to, --'
+(lp1831
+S'Thanks.'
+p1832
+asg11
+S'JOHN DONVAN'
 p1833
-aS'but in other words, nobody in the world basically is backing the U.S. use of drones. And'
-p1834
-aS"I think that's very -- that's a point that is often completely forgotten in -- the American"
-p1835
-aS'media and --'
-p1836
-asa(dp1837
+sg16
+(lp1834
+g1832
+asa(dp1835
 g8
-S'JOHN DONVAN'
+(lp1836
+S'I just wanted to address this question to the gentlemen on the left.'
+p1837
+aS"You bring up thesepoints that the Afghani people, the Pakistani people are upset, and it's increasingrecruitment for al-Qaeda and other anti-U.S. sentiment in these areas because we'reusing drones."
 p1838
-sg13
-(lp1839
-S"Let me ask your opponents, is that -- is that relevant? Dennis Blair? And I'll back to you,"
+aS'Would the effect not be the same if we were using cluster bombs orsnipers or land mines or any other way of killing these people?'
+p1839
+aS"Is it the drone that's theissue or is it just killing them?"
 p1840
-aS'Ahmed.'
+asg11
+S'JORDAN BENNETT'
 p1841
-asa(dp1842
-g8
-S'ADMIRAL DENNIS BLAIR'
+sg16
+(lp1842
+S'I just wanted to address this question to the gentlemen on the left.'
 p1843
-sg13
-(lp1844
-S"Well, I mean, what's your evidence, Mr. Rashid? No one in the world --"
+aS"You bring up these points that the Afghani people, the Pakistani people are upset, and it's increasing recruitment for al-Qaeda and other anti-U.S. sentiment in these areas because we're using drones."
+p1844
+aS'Would the effect not be the same if we were using cluster bombs or snipers or land mines or any other way of killing these people?'
 p1845
-asa(dp1846
-g8
-S'JOHN DONVAN'
-p1847
-sg13
-(lp1848
-S"Well, now we're counting everybody in the world."
-p1849
-asa(dp1850
-g20
-(dp1851
-I1
-S'[laughter]'
-p1852
-ssg8
-S'ADMIRAL DENNIS BLAIR'
-p1853
-sg13
-(lp1854
-S' -- use of drones. I mean can you be a little more specific?'
-p1855
-asa(dp1856
-g8
-S'AHMED RASHID'
-p1857
-sg13
-(lp1858
-S'Well, you look at the --'
-p1859
-asa(dp1860
-g8
-S'ADMIRAL DENNIS BLAIR'
-p1861
-sg13
-(lp1862
-S'Can you give me resolutions by legislatures in other countries? Can you give me --'
-p1863
-asa(dp1864
-g8
-S'JOHN KAEL WESTON'
-p1865
-sg13
-(lp1866
-S'Well, with all due respect, I haven\'t heard a lot of, "rah, rah, drones." And I\'ve been in'
-p1867
-aS"the State Department for 12 years. So I'll help my friend out here; that whether NATO"
-p1868
-aS'raises their arm and says, we approve the drone program, I know General Dunford and'
-p1869
-aS'his political adviser, Carter Malkasian have their hands full all the time on these issues.'
-p1870
-aS"But is it a popular thing? I highly doubt that. I don't know any --"
-p1871
-asg16
-(dp1872
-I5
-S'20:07:10'
-p1873
-ssa(dp1874
-g8
-S'ADMIRAL DENNIS BLAIR'
-p1875
-sg13
-(lp1876
-S"And it's not a popular thing in the United States. We don't like killing people, but we"
-p1877
-aS'only do it when we have to.'
-p1878
-asa(dp1879
-g8
-S'JOHN KAEL WESTON'
-p1880
-sg10
-(dp1881
-I0
-S'41'
-p1882
-ssg13
-(lp1883
-S"Well, I'm not sure we only go when we have to. I think it's actually, I think, easier for the"
-p1884
-aS"American people to think it's joystick warfare and send in seal team 6. And that's also"
-p1885
-aS'another issue that we could get into.'
-p1886
-asa(dp1887
-g8
-S'ADMIRAL DENNIS BLAIR'
-p1888
-sg13
-(lp1889
-S'Well, I would simply -- I would simply say that the drones are handled with the same'
-p1890
-aS'care, concern, discrimination that the armed forces, the United States and other'
-p1891
-aS'American agencies handle all other weapons, which they know can kill the innocent as'
-p1892
-aS'well as the enemy. And drones are used with the same set of procedures. And I think'
-p1893
-aS'their inherent characteristics allow them to be more on the side of killing those who'
-p1894
-aS'they intend to kill with fewer others.'
-p1895
-asg16
-(dp1896
+aS"Is it the drone that's the issue or is it just killing them?"
+p1846
+asg18
+(dp1847
+S'19:48:01'
+p1848
 I6
-S'20:08:01'
-p1897
-ssa(dp1898
+ssa(dp1849
 g8
+(lp1850
+S"That's an excellent question."
+p1851
+aS"I had actually put it before, and didn't feel that I gotanswered."
+p1852
+aS'So thank you for bringing it up a second time.'
+p1853
+aS'Yeah.'
+p1854
+aS"Let's put it to -- let's putit to Ahmed Rashid."
+p1855
+asg11
 S'JOHN DONVAN'
+p1856
+sg16
+(lp1857
+S"That's an excellent question."
+p1858
+aS"I had actually put it before, and didn't feel that I got answered."
+p1859
+aS'So thank you for bringing it up a second time.'
+p1860
+aS'Yeah.'
+p1861
+aS"Let's put it to -- let's put it to Ahmed Rashid."
+p1862
+asa(dp1863
+g8
+(lp1864
+S'No, it is a drone.'
+p1865
+aS"The drones are an issue because as I said, this is the most sinisterweapon that has come into the marketplace, that, you know, there's no individualbehind it."
+p1866
+aS"There's no judgments being made."
+p1867
+aS'And people are very, very scared.'
+p1868
+asg11
+S'AHMED RASHID'
+p1869
+sg16
+(lp1870
+S'No, it is a drone.'
+p1871
+aS"The drones are an issue because as I said, this is the most sinister weapon that has come into the marketplace, that, you know, there's no individual behind it."
+p1872
+aS"There's no judgments being made."
+p1873
+aS'And people are very, very scared.'
+p1874
+asa(dp1875
+g8
+(lp1876
+S"Ahmed, you -- Ahmed, I just want to ask you, because it's a bold statement."
+p1877
+aS"You'reseriously saying no judgments are being made in these -- after everything ?"
+p1878
+asg11
+S'JOHN DONVAN'
+p1879
+sg13
+(dp1880
+I3
+S'30'
+p1881
+ssg16
+(lp1882
+S"Ahmed, you -- Ahmed, I just want to ask you, because it's a bold statement."
+p1883
+aS"You're seriously saying no judgments are being made in these -- after everything ?"
+p1884
+asa(dp1885
+g8
+(lp1886
+S'well, this is what people presume, that somehow, these automatic weapons come upinto the sky, and they shoot at will, and they shoot down whatever is on the ground.'
+p1887
+aS'Imean, there are all sorts of stories and mythologies about drones which, unfortunatelyhave been created.'
+p1888
+aS'And -- and as I said, this is why this weapon -- the chances of thisweapon getting out of hand, getting into the wrong hands and being usedindiscriminately in many other parts of the world is -- you know, we should take theexample of what the reaction already we are seeing in Pakistan, Yemen and otherplaces.'
+p1889
+asg11
+S'AHMED RASHID'
+p1890
+sg16
+(lp1891
+S'well, this is what people presume, that somehow, these automatic weapons come up into the sky, and they shoot at will, and they shoot down whatever is on the ground.'
+p1892
+aS'I mean, there are all sorts of stories and mythologies about drones which, unfortunately have been created.'
+p1893
+aS'And -- and as I said, this is why this weapon -- the chances of this weapon getting out of hand, getting into the wrong hands and being used indiscriminately in many other parts of the world is -- you know, we should take the example of what the reaction already we are seeing in Pakistan, Yemen and other places.'
+p1894
+asg18
+(dp1895
+S'19:49:10'
+p1896
+I8
+ssa(dp1897
+g8
+(lp1898
+S"I'll briefly -- rules of engagement are pretty tight in marine combat units."
 p1899
-sg13
-(lp1900
-S'Dennis, but let me follow up on that and ask you this question. It came up a little bit'
+aS"And so, yes,there's going to be blowback."
+p1900
+aS"It's a good question."
 p1901
-aS'before. Sometimes in certain circumstances, some weapons seem to raise different'
+aS"It's a very legitimate question."
 p1902
-aS'moral or ethical challenges to their use. Nuclear weapons, classic example. Your'
+aS'Thedrones are being used in Pakistan, northwest province basically, outside ,which is a very different arena than in the conventional side, on the Afghan side of theborder.'
 p1903
-aS'opponents have used the word "sinister" about drones, that they\'re different somehow.'
+aS"Bottom line is, though is it's what the rules -- the lack of the rules actually, Ibelieve, in our drone program that is the biggest problem."
 p1904
-aS'You, I think, alluded to the fact that maybe presidents will be tempted to use drones a'
+aS"There is not, for example, amarine general necessarily that technically can command where those drones gobecause they're operated in a different chain of command."
 p1905
-aS"great deal more because U.S. casualties are lower, that there's always going to be a"
+aS"And we don't need to gettoo technical, and that may be changing."
 p1906
-aS"temptation for a president. What about this notion that there's a different, perhaps"
+aS'But, yes, Afghans are going to respond to acluster bomb going off or an RPG being launched in the wrong direction.'
 p1907
-aS"sinister quality to the weapon itself, because it's in a different category?"
+aS"But I have faiththat our forces, if one thing over 12 years have learned, is they've learned quite a bit ofrestraint."
 p1908
-asa(dp1909
-g8
-S'ADMIRAL DENNIS BLAIR'
+aS'And then the rules of engagement have gotten a lot tighter.'
+p1909
+asg11
+S'JOHN KAEL WESTON'
 p1910
-sg13
+sg16
 (lp1911
-S"I'll -- I mean, General Schwartz was involved in it much more closely than I was. But I"
+S"I'll briefly -- rules of engagement are pretty tight in marine combat units."
 p1912
-aS"was pretty close to it. There is a novelty factor. Anything that's new and long range and"
+aS"And so, yes, there's going to be blowback."
 p1913
-aS"all is -- seems inherently more fascinating, sinister and interesting. We've seen that with"
+aS"It's a good question."
 p1914
-aS'new weapons over the generations as they come along.'
+aS"It's a very legitimate question."
 p1915
-aS"Certainly, the sort of media discussion centers on drones. I mean, we're not having an"
+aS'The drones are being used in Pakistan, northwest province basically, outside , which is a very different arena than in the conventional side, on the Afghan side of the border.'
 p1916
-aS"Intelligence Squared debate about overall U.S. policy against Al-Qaeda. We're talking"
+aS"Bottom line is, though is it's what the rules -- the lack of the rules actually, I believe, in our drone program that is the biggest problem."
 p1917
-aS"about drones. Why? Because it's sexy, and it's new, and it has a lot of ."
+aS"There is not, for example, a marine general necessarily that technically can command where those drones go because they're operated in a different chain of command."
 p1918
-asg16
-(dp1919
-I4
-S'20:09:02'
+aS"And we don't need to get too technical, and that may be changing."
+p1919
+aS'But, yes, Afghans are going to respond to a cluster bomb going off or an RPG being launched in the wrong direction.'
 p1920
-ssa(dp1921
-g8
-S'JOHN DONVAN'
+aS"But I have faith that our forces, if one thing over 12 years have learned, is they've learned quite a bit of restraint."
+p1921
+aS'And then the rules of engagement have gotten a lot tighter.'
 p1922
-sg13
-(lp1923
-S"Yeah, but we would if there were chemical weapons. I mean, I'm not comparing them,"
+asg18
+(dp1923
+S'19:50:03'
 p1924
-aS'but --'
-p1925
-asa(dp1926
-g8
-S'ADMIRAL DENNIS BLAIR'
-p1927
-sg13
-(lp1928
-S'But, no, I think the media effect is important in this, John.'
-p1929
-asa(dp1930
-g8
-S'JOHN DONVAN'
-p1931
-sg10
-(dp1932
-I0
-S'42'
-p1933
-ssg13
-(lp1934
-S'Yep, okay.'
-p1935
-asa(dp1936
-g8
-S'ADMIRAL DENNIS BLAIR'
-p1937
-sg13
-(lp1938
-S'I think novelty, media, it tends to give it that overwhelming force that Mr. Rashid has'
-p1939
-aS'talked about. I think we have to get beyond that to what are the actual facts about'
-p1940
-aS"what's going on on the battlefield. Are we achieving our objectives? Are we -- are we"
-p1941
-aS"not? Narrative, shhmarative. You know, it's are you getting to your objectives, which"
-p1942
-aS'are to be able to defeat the Taliban --'
-p1943
-asa(dp1944
-g8
-S'GENERAL NORTON SCHWARTZ'
-p1945
-sg13
-(lp1946
-S'And protect Americans.'
-p1947
-asa(dp1948
-g8
-S'ADMIRAL DENNIS BLAIR'
-p1949
-sg13
-(lp1950
-S'And protect Americans, yeah.'
-p1951
-asa(dp1952
-g8
-S'JOHN DONVAN'
-p1953
-sg13
-(lp1954
-S'Sir, right down here. Yes. Mic -- mic will come for you.'
-p1955
-asa(dp1956
-g8
-S'ROBERT KLEIN'
-p1957
-sg13
-(lp1958
-S"My name is Robert Klein. We have to vote. And what I've heard from this side is that"
-p1959
-aS'the use of drones is indiscriminate without a lot of substantiation in my view.'
-p1960
-aS"And from this side I've heard incredible amounts of care and preparation and diligence"
-p1961
-aS'before drones are launched. Which is the more accurate of the two? Because on the'
-p1962
-aS'face of it, that would be the basis of our vote.'
-p1963
-asg16
-(dp1964
-I2
-S'20:10:07'
-p1965
-ssa(dp1966
-g20
-(dp1967
-I1
-S'[laughter]'
-p1968
-ssg8
-S'JOHN DONVAN'
-p1969
-sg13
-(lp1970
-S"Mr. Klein, there's always the undecided category."
-p1971
-aS'But it is their task to persuade you.'
-p1972
-asa(dp1973
-g20
-(dp1974
-I1
-S'[laughter]'
-p1975
-ssg8
-S'GENERAL NORTON SCHWARTZ'
-p1976
-sg10
-(dp1977
-I4
-S'43'
-p1978
-ssg13
-(lp1979
-S"It's a question of who's more credible."
-p1980
-aS'Seriously, though, I take your point. Based on the available numbers, again, I would go'
-p1981
-aS'back to that, you can question Long War Journal, you can question the UN studies and --'
-p1982
-aS'and so on, the New America Foundation is another organization that monitors this.'
-p1983
-aS'But the number -- from 2006 to the present time in Afghanistan, the estimate is that'
-p1984
-aS'drones have engaged and killed some 2600 al-Qaeda and Taliban combatants. Out --'
-p1985
-aS"the same organization estimates 330 civilian casualties. Now, once again, please don't"
-p1986
-aS"take the -- that my view is that it doesn't matter. It matters a hell of a lot, and I think"
-p1987
-aS'Kael is -- and Mr. Rashid have made this point. It matters a lot, but you have to keep'
-p1988
-aS'this in perspective, and the numbers are pretty clear, one to seven, one to five, you'
-p1989
-aS"know, you can say that that's anecdotal, but it's the best we have. And my point is, is"
-p1990
-aS'that I know what the kids do.'
-p1991
-aS'And I would ask all the parents in here if your youngster as we were talking out in the'
-p1992
-aS'reception earlier was on the ground, what would you prefer to have in the air,'
-p1993
-aS'something that passes over in 30 seconds and goes away or something that is overhead'
-p1994
-aS'constantly and provides surveillance and an ability to engage the enemy that might well'
-p1995
-aS'keep that soldier, sailor, airman, Marine safe? I know what my answer as a commander'
-p1996
-aS'is.'
-p1997
-asg16
-(dp1998
 I12
-S'20:12:01'
-p1999
-sI4
-S'20:10:55'
-p2000
-ssa(dp2001
+ssa(dp1925
 g8
-S'JOHN KAEL WESTON'
-p2002
-sg13
-(lp2003
-S'Well, again --'
-p2004
-asa(dp2005
-g8
+(lp1926
+S"Here's my bias tonight."
+p1927
+aS'We have five guys on the stage, and all I see are guys raisingtheir hands.'
+p1928
+aS'Are there any women who would like to get their voices into thisconversation?'
+p1929
+aS'Right there.'
+p1930
+aS'Thank you.'
+p1931
+aS'Be good, okay.'
+p1932
+aS'If I could just -- stand up.'
+p1933
+asg11
 S'JOHN DONVAN'
-p2006
-sg13
-(lp2007
-S'Kael Weston.'
-p2008
-asa(dp2009
+p1934
+sg16
+(lp1935
+S"Here's my bias tonight."
+p1936
+aS'We have five guys on the stage, and all I see are guys raising their hands.'
+p1937
+aS'Are there any women who would like to get their voices into this conversation?'
+p1938
+aS'Right there.'
+p1939
+aS'Thank you.'
+p1940
+aS'Be good, okay.'
+p1941
+aS'If I could just -- stand up.'
+p1942
+asa(dp1943
 g8
-S'JOHN KAEL WESTON'
-p2010
-sg13
-(lp2011
-S'-- General, I get that point to an extent. I had lived five out of my seven years in these'
-p2012
-aS'wars with Marine grunts. Surveillance overhead is a part of war. The issue is when the'
-p2013
-aS'drones strike, what the net effect is. In Province on the border with'
-p2014
-aS'Pakistan I can tell you when those one to five, one to seven -- I think numbers to me is'
-p2015
-aS"not an issue I like to get into because it's that equals sign."
-p2016
-aS'Which is how many family members, tribal members, community members are affected'
-p2017
-aS'by one loss of life? The IED strikes are where most of our guys are losing their legs. So'
-p2018
-aS"do the IEDs go up when an operation like that goes wrong, and you've got a cousin in"
-p2019
-aS"Miranshah, you've got brothers in Miranshah, and you live in Khost? I would argue with"
-p2020
-aS"all due respect that the odds of getting a Marine or a soldier's legs blown off go up"
-p2021
-aS'because of this program, not go down.'
-p2022
-asg16
-(dp2023
-I5
-S'20:13:02'
-p2024
-ssa(dp2025
+(lp1944
+S"Well, I'll try."
+p1945
+aS'Hi.'
+p1946
+aS'My name is Elisa.'
+p1947
+aS'And this is directed towards and Admiral Blair andGeneral Schwartz.'
+p1948
+aS'And we talked a lot about how the drones may be causing a lot ofinnocent civilians to really have hate towards the American people.'
+p1949
+aS'So do you think thatthe number of terrorists who have successfully killed using drones is greater than thenumber of young people who will be conditioned to hate America from the dronestrikes and therefore become terrorists themselves?'
+p1950
+asg11
+S'FEMALE SPEAKER'
+p1951
+sg16
+(lp1952
+S"Well, I'll try."
+p1953
+aS'Hi.'
+p1954
+aS'My name is Elisa.'
+p1955
+aS'And this is directed towards and Admiral Blair and General Schwartz.'
+p1956
+aS'And we talked a lot about how the drones may be causing a lot of innocent civilians to really have hate towards the American people.'
+p1957
+aS'So do you think that the number of terrorists who have successfully killed using drones is greater than the number of young people who will be conditioned to hate America from the drone strikes and therefore become terrorists themselves?'
+p1958
+asa(dp1959
 g8
-S'GENERAL NORTON SCHWARTZ'
-p2026
-sg10
-(dp2027
+(lp1960
+S"But do you seriously -- I mean, I see where you're getting with the question."
+p1961
+aS"They justcan't count on that."
+p1962
+aS"They can't count --"
+p1963
+asg11
+S'JOHN DONVAN'
+p1964
+sg13
+(dp1965
 I0
-S'44'
-p2028
-ssg13
-(lp2029
-S"Okay, that's your view. My view --"
-p2030
-asa(dp2031
+S'31'
+p1966
+ssg16
+(lp1967
+S"But do you seriously -- I mean, I see where you're getting with the question."
+p1968
+aS"They just can't count on that."
+p1969
+aS"They can't count --"
+p1970
+asa(dp1971
 g8
-S'JOHN KAEL WESTON'
-p2032
-sg13
-(lp2033
+(lp1972
+S'Oh, of course not.'
+p1973
+asg11
+S'FEMALE SPEAKER'
+p1974
+sg16
+(lp1975
+g1973
+asa(dp1976
+g8
+(lp1977
+S" -- they wouldn't have a count."
+p1978
+aS"But your larger point is -- I mean, I'm just kind ofrephrasing, but your larger point is, are they creating more enemies than they're killing?Is that basically what you're --"
+p1979
+asg11
+S'JOHN DONVAN'
+p1980
+sg16
+(lp1981
+S" -- they wouldn't have a count."
+p1982
+aS"But your larger point is -- I mean, I'm just kind of rephrasing, but your larger point is, are they creating more enemies than they're killing?"
+p1983
+aS"Is that basically what you're --"
+p1984
+asg18
+(dp1985
+S'19:51:09'
+p1986
+I3
+ssa(dp1987
+g8
+(lp1988
 S'Yes.'
-p2034
-asa(dp2035
+p1989
+aS'That is, yeah, the basis of my question.'
+p1990
+asg11
+S'FEMALE SPEAKER'
+p1991
+sg16
+(lp1992
+S'Yes.'
+p1993
+aS'That is, yeah, the basis of my question.'
+p1994
+asa(dp1995
 g8
-S'GENERAL NORTON SCHWARTZ'
+(lp1996
+S'Okay.'
+p1997
+aS"So you don't mind if they answer that with the question phrased that way?"
+p1998
+asg11
+S'JOHN DONVAN'
+p1999
+sg16
+(lp2000
+S'Okay.'
+p2001
+aS"So you don't mind if they answer that with the question phrased that way?"
+p2002
+asa(dp2003
+g8
+(lp2004
+S'Yes, no, of course.'
+p2005
+asg11
+S'FEMALE SPEAKER'
+p2006
+sg16
+(lp2007
+g2005
+asa(dp2008
+g8
+(lp2009
+S'I want you to have ownership.'
+p2010
+aS'Okay.'
+p2011
+asg11
+S'JOHN DONVAN'
+p2012
+sg16
+(lp2013
+S'I want you to have ownership.'
+p2014
+aS'Okay.'
+p2015
+asa(dp2016
+g8
+(lp2017
+S"That's good."
+p2018
+asg11
+S'FEMALE SPEAKER'
+p2019
+sg16
+(lp2020
+g2018
+asa(dp2021
+g22
+(dp2022
+I1
+S'[laughter]'
+p2023
+ssg8
+(lp2024
+S'Okay, so go ahead.I think it\'s a great question, I just didn\'t want to -- I didn\'t want their dodge to be, "Well, [[laughter]] I don\'t have account of that.'
+p2025
+aS'" I wanted -- okay, go ahead.'
+p2026
+asg11
+S'JOHN DONVAN'
+p2027
+sg16
+(lp2028
+S'Okay, so go ahead.'
+p2029
+aS'I think it\'s a great question, I just didn\'t want to -- I didn\'t want their dodge to be, "Well, I don\'t have account of that.'
+p2030
+aS'" I wanted -- okay, go ahead.'
+p2031
+asa(dp2032
+g22
+(dp2033
+I1
+S'[laughter]'
+p2034
+ssg8
+(lp2035
+S"That wasn't going to be my dodge."
 p2036
-sg13
-(lp2037
-S'-- is killing bomb makers makes the numbers go down.'
-p2038
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2037
+sg16
+(lp2038
+g2036
 asa(dp2039
 g8
-S'JOHN KAEL WESTON'
-p2040
-sg13
-(lp2041
-S"Fair enough, it's two sides of a --"
+(lp2040
+S'Dennis Blair.'
+p2041
+asg11
+S'JOHN DONVAN'
 p2042
-asa(dp2043
-g8
-S'JOHN DONVAN'
-p2044
 sg13
-(lp2045
-S"In the center, there. And the mike will come down -- up the aisle. It's coming from your"
-p2046
-aS'left hand side now. If you can state your name, please.'
-p2047
-asa(dp2048
-g8
-S'PETER BURGESS'
-p2049
-sg13
-(lp2050
-S'My name is Peter Burgess . I was in Afghanistan just after the'
-p2051
-aS'Soviets withdrew so, you know, I have a bit of a feeling for the neighborhood. The'
-p2052
-aS'question is, is the drone program fatally flawed or some words to that effect, and --'
-p2053
-asg16
-(dp2054
-I3
-S'20:14:08'
-p2055
-ssa(dp2056
-g20
-(dp2057
+(dp2043
 I1
-S'[laughter]'
-p2058
-ssg8
-S'JOHN DONVAN'
-p2059
-sg13
-(lp2060
-S"That's exactly it."
-p2061
-aS'Peter Burgess'
-p2062
-aS'-- we used to talk about nation building. We used to talk about not having failed states.'
-p2063
-aS'Can somebody please explain to me how a drone addresses the issue of nation building'
-p2064
-aS'and stopping failed states?'
-p2065
-aS"I think it's not intended to though, is it or --"
-p2066
-asa(dp2067
-g20
-(dp2068
-I2
-S'[applause]'
-p2069
-ssg8
+S'32'
+p2044
+ssg16
+(lp2045
+g2041
+asa(dp2046
+g8
+(lp2047
+S"It's a judgment."
+p2048
+aS"It's a judgment."
+p2049
+aS"If there were a wonder weapon that would only kill al-Qaeda, dedicated card carrying members, would touch no one else, could be deployedfrom this room by pressing this button, I'd be all for it."
+p2050
+aS"We'd use it."
+p2051
+aS"We'd invent it first,and then we'd use it."
+p2052
+aS"It doesn't."
+p2053
+aS'We have a set of imperfect tools that we use to try todeal with this group of people who has declared war on us and who is far lessdiscriminate, more ruthless, more killing in their approach than we are.And you have to make a call as to just how hard you use that weapon because it killsother people and it causes other effects which our opponents have ably said.'
+p2054
+aS"I thinkthat judgment has to be made to continually reevaluate it as you go, and I'm sure thatthere have been times in the past in which we have erred on the side of using it toomuch."
+p2055
+aS"I think we learned from those, and as the president has said in his openingstatements, or his statements, in recent weeks, we've decided to cut it down so I thinkit's a judgment, and I think we're making it in the right direction."
+p2056
+asg11
 S'ADMIRAL DENNIS BLAIR'
+p2057
+sg16
+(lp2058
+S"It's a judgment."
+p2059
+aS"It's a judgment."
+p2060
+aS"If there were a wonder weapon that would only kill al- Qaeda, dedicated card carrying members, would touch no one else, could be deployed from this room by pressing this button, I'd be all for it."
+p2061
+aS"We'd use it."
+p2062
+aS"We'd invent it first, and then we'd use it."
+p2063
+aS"It doesn't."
+p2064
+aS'We have a set of imperfect tools that we use to try to deal with this group of people who has declared war on us and who is far less discriminate, more ruthless, more killing in their approach than we are.'
+p2065
+aS'And you have to make a call as to just how hard you use that weapon because it kills other people and it causes other effects which our opponents have ably said.'
+p2066
+aS"I think that judgment has to be made to continually reevaluate it as you go, and I'm sure that there have been times in the past in which we have erred on the side of using it too much."
+p2067
+aS"I think we learned from those, and as the president has said in his opening statements, or his statements, in recent weeks, we've decided to cut it down so I think it's a judgment, and I think we're making it in the right direction."
+p2068
+asg18
+(dp2069
+S'19:52:12'
 p2070
-sg13
-(lp2071
-S"Its intended to kill Taliban so that they don't keep the nation builders from going and"
-p2072
-aS'doing their job.'
+I6
+ssa(dp2071
+g8
+(lp2072
+S"I'm not sure, though, that you answered the question of whether --"
 p2073
-asa(dp2074
-g20
-(dp2075
-I2
-S'[laughter]'
-p2076
-ssg8
+asg11
 S'JOHN DONVAN'
-p2077
-sg10
-(dp2078
-I2
-S'45'
+p2074
+sg16
+(lp2075
+g2073
+asa(dp2076
+g8
+(lp2077
+S'I think a different --'
+p2078
+asg11
+S'ADMIRAL DENNIS BLAIR'
 p2079
-ssg13
+sg16
 (lp2080
-S"I think you're going to be our last question, and I've been saving you because you have"
-p2081
-aS'had the most vigorous arm waving of anyone tonight.'
+g2078
+asg18
+(dp2081
+S'19:53:00'
 p2082
-asa(dp2083
+I1
+ssa(dp2083
 g8
-S'MALE SPEAKER'
-p2084
-sg13
-(lp2085
-S'It worked. My question is for the side arguing against the motion, does the fact that the'
-p2086
-aS'drone program cuts down on American armed forces casualties, does that enable the'
-p2087
-aS'U.S. to engage in more reckless conflicts around the world?'
-p2088
-asg16
-(dp2089
-I3
-S'20:15:12'
-p2090
-ssa(dp2091
-g8
-S'GENERAL NORTON SCHWARTZ'
-p2092
-sg13
-(lp2093
-S'It -- look, I mean, this is --'
-p2094
-asa(dp2095
-g8
+(lp2084
+S"-- you think it's really -- whether you think the blow back is so serious -- in other words,are you saying that -- and she's to some degree channeling this side's argument, that it -- the use of the weapon, the way it's being used, it creating such ill will that it's creatingenemies, and I'm not sure that you addressed whether you think that it is or not orwhether you think it is, but not enough to make it a disqualifier for the weapon."
+p2085
+asg11
 S'JOHN DONVAN'
-p2096
-sg13
-(lp2097
-S'Norton Schwartz.'
-p2098
-asa(dp2099
+p2086
+sg16
+(lp2087
+S"-- you think it's really -- whether you think the blow back is so serious -- in other words, are you saying that -- and she's to some degree channeling this side's argument, that it - - the use of the weapon, the way it's being used, it creating such ill will that it's creating enemies, and I'm not sure that you addressed whether you think that it is or not or whether you think it is, but not enough to make it a disqualifier for the weapon."
+p2088
+asa(dp2089
 g8
+(lp2090
+S'I think the only overall judgment we can make is that al-Qaeda is far less capable of thesort of attacks that it was in the past than it is now.'
+p2091
+aS'Drones have been a part ofreducing it in that capability and, therefore, overall the balance is in favor of the sort ofcampaign the United States has conducted.'
+p2092
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2093
+sg16
+(lp2094
+S'I think the only overall judgment we can make is that al-Qaeda is far less capable of the sort of attacks that it was in the past than it is now.'
+p2095
+aS'Drones have been a part of reducing it in that capability and, therefore, overall the balance is in favor of the sort of campaign the United States has conducted.'
+p2096
+asa(dp2097
+g8
+(lp2098
+S'And I would only amplify by --'
+p2099
+asg11
 S'GENERAL NORTON SCHWARTZ'
 p2100
-sg13
+sg16
 (lp2101
-S'-- this is the fundamental question. Remember, that is not a military call. That is a call'
-p2102
-aS'for civilian leadership, where we go and what we do. And there is an argument that'
-p2103
-aS'fewer American casualties might encourage political leadership to be more aggressive or'
+g2099
+asa(dp2102
+g8
+(lp2103
+S'Norton Schwartz.'
 p2104
-aS"more reckless. There is that potential, but that's what best military advice is all about."
+asg11
+S'JOHN DONVAN'
 p2105
-aS"Remember, we have a chairman of the Joint Chiefs of Staff who is the president's"
-p2106
-aS"principal military advisor. And if you've watched Mike Mullen, or Marty Dempsey, or in"
+sg13
+(dp2106
+I0
+S'33'
 p2107
-aS"his day Denny Blair, offer military advice, it's not to encourage political leadership to be"
-p2108
-aS'reckless.'
-p2109
-aS'Ultimately, we salute, but the key thing here is that, that is a legitimate concern, but it is'
-p2110
-aS'one that the military, the uniforms feel personally.'
+ssg16
+(lp2108
+g2104
+asa(dp2109
+g8
+(lp2110
+S'-- if I may, by suggesting that you have a situation where you want desperately to avoidhaving a larger military presence, which I -- , clearly would have its own negative effecton local population perceptions.So my counter question would be, "What\'s the alternative?'
 p2111
-asg16
-(dp2112
-I8
-S'20:16:04'
+aS'What is the least intrusive,invasive alternative?'
+p2112
+aS'That, we have been seeking for some time.'
 p2113
-ssa(dp2114
-g8
-S'ADMIRAL DENNIS BLAIR'
-p2115
-sg13
-(lp2116
-S"And I'd say, if you see a political candidate who thinks a few American casualties are"
-p2117
-aS"okay, but a lot or not, I wouldn't vote for him."
-p2118
-asa(dp2119
-g8
-S'JOHN DONVAN'
-p2120
-sg13
-(lp2121
-S"Ahmed Rashid, when you say that it's already becoming a strategy as opposed to a"
-p2122
-aS'tactic, do you think that dynamic is already in play, that presidents are authorizing these'
-p2123
-aS'strikes, in part, because they can, without a cost back home?'
-p2124
-asa(dp2125
-g8
-S'AHMED RASHID'
-p2126
-sg10
-(dp2127
-I3
-S'46'
-p2128
-ssg13
-(lp2129
-S"Yes. I think so -- I think that's very true. And I fear very much that given the turmoil"
-p2130
-aS'going on now in the Middle East and other parts of the world, the reluctance of the'
-p2131
-aS'Americans and the Europeans to want to get involved in by putting troops, or'
-p2132
-aS"peacekeepers, or anything on the ground -- we're going to get more and more of this,"
-p2133
-aS'that we throw technology at the problem.'
-p2134
-aS'We throw drones at the problem. And that, I think, is going to be a very, very dangerous'
-p2135
-aS'world to live in, frankly.'
-p2136
-asg16
-(dp2137
-I5
-S'20:17:06'
-p2138
-ssa(dp2139
-g20
-(dp2140
-I9
-S'[applause]'
-p2141
-sI2
-S'[applause]'
-p2142
-ssg8
-S'JOHN DONVAN'
-p2143
-sg13
-(lp2144
-S'And that concludes Round 2 of this Intelligence Squared U.S. Debate, where our motion'
-p2145
-aS'is: The U.S. Drone Program is Fatally Flawed.'
-p2146
-aS'And remember, you voted just before the debate. And right after this very brief section'
-p2147
-aS"-- two-minute closing statements by each debater in turn -- you'll get to vote again. So,"
-p2148
-aS"onto Round 3. Round 3, closing statements by each debater in turn. We'll do these"
-p2149
-aS'from our seats, General. Round 3 are closing statements by each debater in turn. They'
-p2150
-aS'will be two minutes each. And here to summarize his position against the motion,'
-p2151
-aS"Norton Schwartz. He's former chief of staff of the U.S. Air Force. Ladies and gentlemen,"
-p2152
-aS'Admiral Norton Schwartz.'
-p2153
-aS'General Norton Schwartz.'
-p2154
-asa(dp2155
-g20
-(dp2156
-I1
-S'[laughter]'
-p2157
-sI2
-S'[laughter]'
-p2158
-ssg8
+aS'And all I can tell you isthat every flag -- senior flag officer on the military side that has looked at this problem,has sought that solution.'
+p2114
+asg11
 S'GENERAL NORTON SCHWARTZ'
-p2159
-sg10
-(dp2160
-I9
-S'47'
-p2161
-ssg13
-(lp2162
-S'Hi. Denny wishes I was an admiral.'
-p2163
-aS"Maybe some people in the Air Force wouldve, too. I don't know."
-p2164
-aS'Let me just say that I think that our partners here in the debate tonight have expressed'
-p2165
-aS"absolutely legitimate concerns. And while we've jousted a bit, it's been done with"
-p2166
-aS"respect and an appreciation for their passion and their conviction on this issue. I'd just"
-p2167
-aS'like to relate a quick vignette. In earlier days, when I was flying airplanes, I flew a'
-p2168
-aS"gunship -- a C1 -- it's a C-130 with guns on it. And there was one occasion when I"
-p2169
-aS'remember the following call came from the ground. And it was this -- troops in contact'
-p2170
-aS'need help now.'
-p2171
-aS'When an airman hears -- no matter what service -- Navy, Army, Marine Corps, Air Force'
-p2172
-aS'-- hears "Troops in contact need help now," there is an immediate response. And it is'
-p2173
-aS'visceral, but not necessarily as accurate or as coherent as you might like it to be if you'
-p2174
-aS'were -- if you could have been there for hours prior, and will remain there for hours'
-p2175
-aS'after, which is the case with the remote aircraft or the drone technology today. I would'
-p2176
-aS'just conclude by saying that use of drones is neither sport nor a failed tactic. And you'
-p2177
-aS'must vote against the proposition and the adverb "fatally." Thank you.'
-p2178
-asg16
-(dp2179
-I16
-S'20:20:01'
-p2180
-sI1
-S'20:18:06'
-p2181
-sI9
-S'20:19:04'
-p2182
-ssa(dp2183
-g20
-(dp2184
-I1
-S'[applause]'
-p2185
-sI5
-S'[applause]'
-p2186
-ssg8
+p2115
+sg16
+(lp2116
+S'-- if I may, by suggesting that you have a situation where you want desperately to avoid having a larger military presence, which I -- , clearly would have its own negative effect on local population perceptions.'
+p2117
+aS'So my counter question would be, "What\'s the alternative?'
+p2118
+aS'What is the least intrusive, invasive alternative?'
+p2119
+aS'That, we have been seeking for some time.'
+p2120
+aS'And all I can tell you is that every flag -- senior flag officer on the military side that has looked at this problem, has sought that solution.'
+p2121
+asg18
+(dp2122
+S'19:54:08'
+p2123
+I3
+ssa(dp2124
+g8
+(lp2125
+S"That's the question I'd like to put to the other side since you've actually phrased it as aquestion."
+p2126
+aS'If you want to kill al-Qaeda in these hard to reach places today, what is thealternative to the drones?'
+p2127
+aS'Kael Weston.'
+p2128
+asg11
 S'JOHN DONVAN'
-p2187
-sg13
-(lp2188
-S'Thank you, Norton Schwartz.'
-p2189
-aS'Our motion is The U.S. Drone Program is Fatally Flawed. And here to argue -- here to'
-p2190
-aS'share his closing statement in support of the motion, John Kael Weston. He is former'
-p2191
-aS'State Department Advisor to Marine units in Iraq and Afghanistan. Ladies and'
-p2192
-aS'gentlemen, John Kael Weston.'
-p2193
-asa(dp2194
-g20
-(dp2195
-I21
-S'[laughter]'
-p2196
-ssg8
+p2129
+sg16
+(lp2130
+S"That's the question I'd like to put to the other side since you've actually phrased it as a question."
+p2131
+aS'If you want to kill al-Qaeda in these hard to reach places today, what is the alternative to the drones?'
+p2132
+aS'Kael Weston.'
+p2133
+asa(dp2134
+g8
+(lp2135
+S'My view has always been the most important battle going on does not include U.S.Marines versus Taliban.'
+p2136
+aS"It's inside the mosques, inside the madrasas, it's inside thecommunities."
+p2137
+aS'And actually our best allies are the ones that are most critical of thisprogram.'
+p2138
+aS"So if we're undercutting --"
+p2139
+asg11
 S'JOHN KAEL WESTON'
-p2197
-sg10
-(dp2198
-I14
-S'48'
-p2199
-ssg13
-(lp2200
-S'Thank you. And I would echo what the general just said. I -- this is raising the level of'
-p2201
-aS"debate and we should all be grateful for that. I've got two minutes and I'm going to run"
-p2202
-aS'through these pretty quickly. I opened with a quiz about what words or nouns,'
+p2140
+sg16
+(lp2141
+S'My view has always been the most important battle going on does not include U.S. Marines versus Taliban.'
+p2142
+aS"It's inside the mosques, inside the madrasas, it's inside the communities."
+p2143
+aS'And actually our best allies are the ones that are most critical of this program.'
+p2144
+aS"So if we're undercutting --"
+p2145
+asa(dp2146
+g8
+(lp2147
+S'Bottom line you are saying not to try to kill them.'
+p2148
+asg11
+S'JOHN DONVAN'
+p2149
+sg16
+(lp2150
+g2148
+asg18
+(dp2151
+S'19:55:01'
+p2152
+I1
+ssa(dp2153
+g8
+(lp2154
+S'Well, no, no.'
+p2155
+aS'I -- yeah, I\'m not a person that says, "All drones need to be taken off -- outof the sky.'
+p2156
+aS'" But what I am saying is that we\'ve lost the strategic narratives so thatGeneral, I\'m all in favor of not sending in the first Marine division anywhere again forthe most part.'
+p2157
+aS"However, I think that we've lost sight of who the best fighters are inthese battles."
+p2158
+aS"And it's actually not an American anywhere."
+p2159
+aS"It's an Afghan."
+p2160
+aS"It's a Yemeni.It's a Pakistani."
+p2161
+aS'So when you listen to our allies who want us to succeed, who want us tobe safe, they are pretty uniform in their indictment of drones, and -- '
+p2162
+asg11
+S'JOHN KAEL WESTON'
+p2163
+sg16
+(lp2164
+S'Well, no, no.'
+p2165
+aS'I -- yeah, I\'m not a person that says, "All drones need to be taken off -- out of the sky.'
+p2166
+aS'" But what I am saying is that we\'ve lost the strategic narratives so that General, I\'m all in favor of not sending in the first Marine division anywhere again for the most part.'
+p2167
+aS"However, I think that we've lost sight of who the best fighters are in these battles."
+p2168
+aS"And it's actually not an American anywhere."
+p2169
+aS"It's an Afghan."
+p2170
+aS"It's a Yemeni."
+p2171
+aS"It's a Pakistani."
+p2172
+aS'So when you listen to our allies who want us to succeed, who want us to be safe, they are pretty uniform in their indictment of drones, and -- '
+p2173
+asa(dp2174
+g8
+(lp2175
+S" if they don't control their own territory."
+p2176
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p2177
+sg13
+(dp2178
+I1
+S'34'
+p2179
+ssg16
+(lp2180
+g2176
+asa(dp2181
+g8
+(lp2182
+S"Well, that's a government to government discussion."
+p2183
+aS'I agree with that.'
+p2184
+aS"As far as thetactic, it's what Ahmed my well spoken and famous colleague here at the table havesaid, which is that the tactic can't be the strategy."
+p2185
+aS"We've enabled the tactic to become afailed strategy and a failed narrative."
+p2186
+asg11
+S'JOHN KAEL WESTON'
+p2187
+sg16
+(lp2188
+S"Well, that's a government to government discussion."
+p2189
+aS'I agree with that.'
+p2190
+aS"As far as the tactic, it's what Ahmed my well spoken and famous colleague here at the table have said, which is that the tactic can't be the strategy."
+p2191
+aS"We've enabled the tactic to become a failed strategy and a failed narrative."
+p2192
+asa(dp2193
+g8
+(lp2194
+S"But, Ahmed, it's the -- coming back to the question that your opponents put a minuteago, if the goal of the strategy is to destroy al-Qaeda physically, what alternative is thereto drones to reach them in these places where it's very hard to get to?"
+p2195
+asg11
+S'JOHN DONVAN'
+p2196
+sg16
+(lp2197
+S"But, Ahmed, it's the -- coming back to the question that your opponents put a minute ago, if the goal of the strategy is to destroy al-Qaeda physically, what alternative is there to drones to reach them in these places where it's very hard to get to?"
+p2198
+asg18
+(dp2199
+S'19:56:09'
+p2200
+I3
+ssa(dp2201
+g8
+(lp2202
+S"Well, I think there's no doubt that there are obviously ungoverned areas and thePakistanis have not been active enough in undermining and destroying Al-Qaeda."
 p2203
-aS'adjectives you think they associate with the United States of America after 12 years of'
+aS"But Ialso think that U.S. policy has -- there's been enormous tension between the U.S. andPakistan over the years, as there has been between Yemen and the U.S. Now, it's not allcentered around drones, but it's centered around, frankly, a lack of long-term strategyand vision by both countries."
 p2204
-aS"constant warfare. I don't have time to ask you what those words are, but occasionally I"
+aS'And both are to blame.'
 p2205
-aS'would hear words like Apple -- they had the Apple phone -- Obama, money. But'
+aS'Now, I think what we need ismuch greater diplomacy and, you know, diplomatic efforts to strike better relationships.We had a situation where -- as you know --'
 p2206
-aS"unfortunately, toward the top of that list was D for drones. It wasn't D for democracy."
-p2207
-aS"It actually, to be frank, wasn't the nation-building. It was the CT. It was the counter-"
-p2208
-aS'terrorist platform. And I think we should think about that.'
-p2209
-aS'Do we want that to be kind of at the top of the list of what they think about us after 12'
-p2210
-aS'years, billions of dollars, thousands of Americans killed, over 100,000 Iraqis, et cetera, et'
-p2211
-aS'cetera?'
-p2212
-aS"The second point I'm going to now just cite to the question of what happened on May"
-p2213
-aS"1st, 2010? I think it was Admiral Blair who referenced this. And I'll add a little detail. It"
-p2214
-aS'was Faisal Shahzad, who just a few blocks from here tried to blow up the blue 1993'
-p2215
-aS'Nissan Pathfinder. In that Pathfinder was three 20-gallon propane tanks, a big green'
-p2216
-aS'metal gun locker that contained a metal pressure cooker pot, 250 pounds of urea based'
-p2217
-aS'fertilizer, and eight plastic bags with 120 M88s. The New York City police commissioner,'
-p2218
-aS'Ray Kelly, said the bomb would have killed many. The police later on said it would have'
-p2219
-aS'had shrapnel and probably killed mostly tourists but a number of people. What did'
-p2220
-aS'Faisal Shahzad say? New Yorkers get that.'
-p2221
-aS"What did -- I used to ride my mountain bike through there, but I didn't go very often --"
-p2222
-aS'Faisal Shahad was asked by a judge what motivated him to try and blow up that Nissan.'
-p2223
-aS'Here\'s what he said, "Well, the drone hits in Afghanistan and Iraq," he said finally, "They'
-p2224
-aS"don't see children. They don't see anybody. They kill women, children. They kill"
-p2225
-aS'everybody. It\'s a war. And in war they kill people." One final point, Boston Marathon'
-p2226
-aS"bombing, April 15, 2013, I don't have time to read what Dzhokahar Tsarnaev said, but"
-p2227
-aS'basically he said the same thing, "We Muslims are one body. You hurt one, you hurt us'
-p2228
-aS'all. The U.S. government is killing our innocents."'
-p2229
-asg16
-(dp2230
-I9
-S'20:21:01'
-p2231
-sI22
-S'20:22:04'
-p2232
-ssa(dp2233
-g20
-(dp2234
-I1
-S'[applause]'
-p2235
-sI4
-S'[applause]'
-p2236
-ssg8
-S'JOHN DONVAN'
-p2237
-sg13
-(lp2238
-S"John Kael Weston, you're out of time. Thank you very much."
-p2239
-aS'Our motion is "The U.S. drone program is fatally flawed." And here to summarize his'
-p2240
-aS'position against the motion, Dennis Blair, former director of national intelligence.'
-p2241
-aS'Ladies and gentlemen, Dennis Blair.'
-p2242
-asa(dp2243
-g8
-S'ADMIRAL DENNIS BLAIR'
-p2244
-sg10
-(dp2245
-I8
-S'49'
-p2246
-ssg13
-(lp2247
-S"I've listened closely to our debaters on the other side. And there are an awful lot of"
-p2248
-aS'anecdote and generalization there.'
-p2249
-aS'Let me tell a quick story from November 2011, a U.S. patrol that was on the eastern'
-p2250
-aS'border of Afghanistan, on Pakistan, thought it was being fired on in the night, called for'
-p2251
-aS'close support fire. A U.S. manned armed helicopter came up, under direction of these'
-p2252
-aS'ground units fired at the units they thought were threatening them, and ended up killing'
-p2253
-aS'24 Pakistani soldiers. Things happen that are bad in war whether you have manned'
-p2254
-aS'systems or unmanned systems. Things happen that affect U.S.-Pakistani relations'
-p2255
-aS'whether you have manned systems or unmanned systems. This is the nature of combat'
-p2256
-aS'and you have to make a balanced judgment about it. I do find it ironic to be on this side'
-p2257
-aS'of the motion because as Mr. Weston said I was one of the first people who came out in'
-p2258
-aS'public against some ways in which the drones were being used in Pakistan well over two'
-p2259
-aS'years ago.'
-p2260
-aS'However, I was not against the technology itself. I was against the way it was being'
-p2261
-aS"used at that time. I think we've adjusted since that time. I think that's the nature of this"
-p2262
-aS"dynamic campaign against a group that's shown it's wanted to kill us, and has killed us in"
-p2263
-aS'the past, and wants to kill us in the future. So I believe you have to vote against this'
-p2264
-aS"motion. That doesn't mean that you like all of the drone program, doesn't mean you"
-p2265
-aS'think it needs to be adjusted, changed, and the narrative needs to be improved, but I'
-p2266
-aS"don't think we should take it out of the hands of those who are trying to defend the"
-p2267
-aS'United States. Thank you.'
-p2268
-asg16
-(dp2269
-I2
-S'20:23:03'
-p2270
-sI13
-S'20:24:09'
-p2271
-ssa(dp2272
-g20
-(dp2273
-I1
-S'[applause]'
-p2274
-sI4
-S'[applause]'
-p2275
-ssg8
-S'JOHN DONVAN'
-p2276
-sg13
-(lp2277
-S'Thank you, Dennis Blair.'
-p2278
-aS'Our motion is "The U.S. drone program is fatally flawed," and here to summarize his'
-p2279
-aS'position in support of this motion, our final speaker of the evening, Ahmed Rashid, a'
-p2280
-aS'journalist and author of "Pakistan on the Brink." Ladies and gentlemen, Ahmed Rashid.'
-p2281
-asg16
-(dp2282
-I4
-S'20:25:05'
-p2283
-ssa(dp2284
-g8
+asg11
 S'AHMED RASHID'
-p2285
-sg10
-(dp2286
-I11
-S'50'
-p2287
-ssg13
-(lp2288
-S'I would just hope that you would consider the long term implications of what drones'
-p2289
-aS'mean -- will mean in the future for the United States, the day that your enemies get'
-p2290
-aS'hold of drones and use drones against Americans. The day that even your allies, that'
-p2291
-aS'drones become a kind of free for all in this world. After all, the whole crisis that we are'
-p2292
-aS'facing today over Syria is that the danger of chemical weapons becoming a free for all.'
-p2293
-aS'Because so many rogue states hold chemical weapons, and if you allow this one to get'
-p2294
-aS'away then others can follow suit quite easily.'
-p2295
-aS"And the other thing I'd really like to mention here is that the use of drones has"
-p2296
-aS"immensely complicated America's relations with its allies. You look at the situation in"
-p2297
-aS'three countries where drone bases have been set up secretly, Pakistan, Saudi Arabia,'
-p2298
-aS'and Yemen.'
-p2299
-aS'The U.S. set up drone bases with the help of the local regime, which were invariably'
-p2300
-aS'dictatorships of one kind or another. They lied to their own people, these governments.'
-p2301
-aS'They lied and said, "No, no, there\'s no such thing as U.S. bases here. There\'re no drone'
-p2302
-aS'bases here at all. These are -- people are being killed by artillery shells, or by bombing,'
-p2303
-aS'or something else. And what happened was that the public became more and more'
-p2304
-aS'anti-regime and anti-American, which led to political crises in certainly two of these'
-p2305
-aS'three countries. And it could well still lead to a political crisis in Saudi Arabia. So, you'
-p2306
-aS'have now such a complicated scenario operating, where drones are creating -- I mean,'
-p2307
-aS'one weapon, one weapon, and the use of this weapon is delegitimizing regimes in the'
-p2308
-aS'region and also creating immense hatred for the United States.'
-p2309
-aS'Now, this is just one aspect of what I see as a future fraught with immense problems'
-p2310
-aS'related to drones, which we are not even beginning to think about and I --'
-p2311
-asg16
-(dp2312
-I11
-S'20:26:02'
-p2313
-sI21
-S'20:27:02'
-p2314
-ssa(dp2315
+p2207
+sg16
+(lp2208
+S"Well, I think there's no doubt that there are obviously ungoverned areas and the Pakistanis have not been active enough in undermining and destroying Al-Qaeda."
+p2209
+aS"But I also think that U.S. policy has -- there's been enormous tension between the U.S. and Pakistan over the years, as there has been between Yemen and the U.S. Now, it's not all centered around drones, but it's centered around, frankly, a lack of long-term strategy and vision by both countries."
+p2210
+aS'And both are to blame.'
+p2211
+aS'Now, I think what we need is much greater diplomacy and, you know, diplomatic efforts to strike better relationships.'
+p2212
+aS'We had a situation where -- as you know --'
+p2213
+asa(dp2214
 g8
+(lp2215
+S"But just so, just to get to my point -- and I'll -- then I'll let you continue -- are you saying,therefore, that a campaign at this point, to continue to try to kill Al-Qaeda operatives,planners, et cetera, strategists, by the United States, is ill-founded?"
+p2216
+aS'They should stoptrying to kill them by drones or any other means?'
+p2217
+asg11
 S'JOHN DONVAN'
-p2316
+p2218
+sg16
+(lp2219
+S"But just so, just to get to my point -- and I'll -- then I'll let you continue -- are you saying, therefore, that a campaign at this point, to continue to try to kill Al-Qaeda operatives, planners, et cetera, strategists, by the United States, is ill-founded?"
+p2220
+aS'They should stop trying to kill them by drones or any other means?'
+p2221
+asg18
+(dp2222
+S'19:57:06'
+p2223
+I4
+ssa(dp2224
+g8
+(lp2225
+S'No.'
+p2226
+aS'I think they should continue trying to kill them.'
+p2227
+aS'They should be urging thePakistanis to do much more to do this.'
+p2228
+aS'This is the problem, you know?'
+p2229
+asg11
+S'AHMED RASHID'
+p2230
+sg16
+(lp2231
+S'No.'
+p2232
+aS'I think they should continue trying to kill them.'
+p2233
+aS'They should be urging the Pakistanis to do much more to do this.'
+p2234
+aS'This is the problem, you know?'
+p2235
+asa(dp2236
+g8
+(lp2237
+S'Okay.'
+p2238
+asg11
+S'JOHN DONVAN'
+p2239
+sg16
+(lp2240
+g2238
+asa(dp2241
+g8
+(lp2242
+S'Well, yeah, there\'s a lot of mythology about what seals and drones can do together.And I think what -- the American people look at joystick warfare and think, "Well, whynot have seals and drones fix everything?'
+p2243
+aS'" But that\'s also not a strategy.'
+p2244
+asg11
+S'JOHN KAEL WESTON'
+p2245
 sg13
-(lp2317
-S"Ahmed Rashid, I'm sorry. That -- at that point, particularly, your time is up."
+(dp2246
+I3
+S'35'
+p2247
+ssg16
+(lp2248
+S"Well, yeah, there's a lot of mythology about what seals and drones can do together."
+p2249
+aS'And I think what -- the American people look at joystick warfare and think, "Well, why not have seals and drones fix everything?'
+p2250
+aS'" But that\'s also not a strategy.'
+p2251
+asa(dp2252
+g8
+(lp2253
+S"Ma'am?"
+p2254
+aS'A mike is coming down from the aisle for you.'
+p2255
+asg11
+S'JOHN DONVAN'
+p2256
+sg16
+(lp2257
+S"Ma'am?"
+p2258
+aS'A mike is coming down from the aisle for you.'
+p2259
+asa(dp2260
+g8
+(lp2261
+S'Hi.'
+p2262
+aS'My name is Colleen Quinn.'
+p2263
+aS'This question is for Admiral Blair.'
+p2264
+aS"Admiral, I was verypleased to see that you are also a member of the Security Leadership Council, securingAmerica's future energy."
+p2265
+aS'So, you all here today are talking about, you know, overallstrategies for the U.S. And one of the things that particular council talks about is how wecan frankly, you know, develop alternative energies to -- so that we can --'
+p2266
+asg11
+S'COLLEEN QUINN'
+p2267
+sg16
+(lp2268
+S'Hi.'
+p2269
+aS'My name is Colleen Quinn.'
+p2270
+aS'This question is for Admiral Blair.'
+p2271
+aS"Admiral, I was very pleased to see that you are also a member of the Security Leadership Council, securing America's future energy."
+p2272
+aS'So, you all here today are talking about, you know, overall strategies for the U.S. And one of the things that particular council talks about is how we can frankly, you know, develop alternative energies to -- so that we can --'
+p2273
+asa(dp2274
+g8
+(lp2275
+S"Ma'am, I apologize."
+p2276
+asg11
+S'JOHN DONVAN'
+p2277
+sg16
+(lp2278
+g2276
+asg18
+(dp2279
+S'19:58:03'
+p2280
+I1
+ssa(dp2281
+g8
+(lp2282
+S'Not -- oh, sorry.'
+p2283
+asg11
+S'COLLEEN QUINN'
+p2284
+sg16
+(lp2285
+g2283
+asa(dp2286
+g8
+(lp2287
+S'I need the topic to be on the motion.'
+p2288
+asg11
+S'JOHN DONVAN'
+p2289
+sg16
+(lp2290
+g2288
+asa(dp2291
+g8
+(lp2292
+S'Oh, okay.'
+p2293
+aS'Sorry.'
+p2294
+asg11
+S'COLLEEN QUINN'
+p2295
+sg16
+(lp2296
+S'Oh, okay.'
+p2297
+aS'Sorry.'
+p2298
+asa(dp2299
+g8
+(lp2300
+S'But thanks anyway.'
+p2301
+aS'You missed my briefing.'
+p2302
+aS'Right down in front, right by -- but you canchat afterward.'
+p2303
+asg11
+S'JOHN DONVAN'
+p2304
+sg16
+(lp2305
+S'But thanks anyway.'
+p2306
+aS'You missed my briefing.'
+p2307
+aS'Right down in front, right by -- but you can chat afterward.'
+p2308
+asa(dp2309
+g22
+(dp2310
+I1
+S'[laughter]'
+p2311
+ssg8
+(lp2312
+S"I think it's a great cause."
+p2313
+aS'Thank you.'
+p2314
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2315
+sg16
+(lp2316
+S"I think it's a great cause."
+p2317
+aS'Thank you.'
 p2318
 asa(dp2319
-g20
-(dp2320
+g8
+(lp2320
+S"That's an easier debate for you to have, that's for sure."
+p2321
+asg11
+S'JOHN KAEL WESTON'
+p2322
+sg16
+(lp2323
+g2321
+asa(dp2324
+g8
+(lp2325
+S'Could you stand, please?'
+p2326
+aS'Thanks.'
+p2327
+asg11
+S'JOHN DONVAN'
+p2328
+sg16
+(lp2329
+S'Could you stand, please?'
+p2330
+aS'Thanks.'
+p2331
+asa(dp2332
+g8
+(lp2333
+S'Yes.'
+p2334
+aS'Ellie Roth .'
+p2335
+aS'I just want to know, who decides what drones areto be sent out?'
+p2336
+aS'Is it the CIA that tells the military?'
+p2337
+aS"That's the mystery."
+p2338
+aS"When we hearabout drone strikes, we don't understand who's responsible, who's made the decision.Is it policy, is it someone who's mad at someone?"
+p2339
+asg11
+S'ELLIE ROTH'
+p2340
+sg13
+(dp2341
+I2
+S'36'
+p2342
+ssg16
+(lp2343
+S'Yes.'
+p2344
+aS'Ellie Roth .'
+p2345
+aS'I just want to know, who decides what drones are to be sent out?'
+p2346
+aS'Is it the CIA that tells the military?'
+p2347
+aS"That's the mystery."
+p2348
+aS"When we hear about drone strikes, we don't understand who's responsible, who's made the decision."
+p2349
+aS"Is it policy, is it someone who's mad at someone?"
+p2350
+asa(dp2351
+g8
+(lp2352
+S'Okay.'
+p2353
+aS"I'll let these guys answer your question."
+p2354
+aS"Let's go to Admiral Blair -- Dennis Blair."
+p2355
+asg11
+S'JOHN DONVAN'
+p2356
+sg16
+(lp2357
+S'Okay.'
+p2358
+aS"I'll let these guys answer your question."
+p2359
+aS"Let's go to Admiral Blair -- Dennis Blair."
+p2360
+asa(dp2361
+g8
+(lp2362
+S'Right.'
+p2363
+aS'The decision on what is a target can be struck either by a military or by anintelligence CIA drone is made under criteria that are approved by the White House,that are then promulgated.And a series of officials, including lawyers, officials in each of those agencies and thechains of command, then apply them to actual names of Al-Qaeda and othercombatants.'
+p2364
+aS'Once they satisfy that criteria, then they are a legitimate target at thatpoint.'
+p2365
+aS'The question is, can you truly tell -- is that a person that you found and can strike,and is there a relatively small level of collateral damage?'
+p2366
+aS'That is, innocent peoplearound that person before you make the strike.'
+p2367
+aS"That's how it's done."
+p2368
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2369
+sg16
+(lp2370
+S'Right.'
+p2371
+aS'The decision on what is a target can be struck either by a military or by an intelligence CIA drone is made under criteria that are approved by the White House, that are then promulgated.'
+p2372
+aS'And a series of officials, including lawyers, officials in each of those agencies and the chains of command, then apply them to actual names of Al-Qaeda and other combatants.'
+p2373
+aS'Once they satisfy that criteria, then they are a legitimate target at that point.'
+p2374
+aS'The question is, can you truly tell -- is that a person that you found and can strike, and is there a relatively small level of collateral damage?'
+p2375
+aS'That is, innocent people around that person before you make the strike.'
+p2376
+aS"That's how it's done."
+p2377
+asg18
+(dp2378
+S'19:59:05'
+p2379
+I3
+ssa(dp2380
+g8
+(lp2381
+S'So, Dennis Blair, your opponent Ahmed Rashid has mentioned -- and I said that I wouldget back to this whole notion of signature strikes, in which the target is chosen by apattern of suspicious-looking behavior, maybe going frequently to a house where thereare known to be bad guys.'
+p2382
+aS"And then he's tracked back to his house."
+p2383
+aS"You don't know hisname."
+p2384
+aS"You don't know who he is, but he's targeted because it's an association or someother pattern that I'm unfamiliar with.And I want to know, do you put that in a different category?"
+p2385
+aS"Is that morally morechallenging an issue, when you don't actually have a name, but you just have a kind ofprofile?"
+p2386
+asg11
+S'JOHN DONVAN'
+p2387
+sg16
+(lp2388
+S'So, Dennis Blair, your opponent Ahmed Rashid has mentioned -- and I said that I would get back to this whole notion of signature strikes, in which the target is chosen by a pattern of suspicious-looking behavior, maybe going frequently to a house where there are known to be bad guys.'
+p2389
+aS"And then he's tracked back to his house."
+p2390
+aS"You don't know his name."
+p2391
+aS"You don't know who he is, but he's targeted because it's an association or some other pattern that I'm unfamiliar with."
+p2392
+aS'And I want to know, do you put that in a different category?'
+p2393
+aS"Is that morally more challenging an issue, when you don't actually have a name, but you just have a kind of profile?"
+p2394
+asg18
+(dp2395
+S'20:00:01'
+p2396
+I6
+ssa(dp2397
+g8
+(lp2398
+S'It is.'
+p2399
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p2400
+sg16
+(lp2401
+g2399
+asa(dp2402
+g8
+(lp2403
+S'Norton Schwartz.'
+p2404
+asg11
+S'JOHN DONVAN'
+p2405
+sg16
+(lp2406
+g2404
+asa(dp2407
+g8
+(lp2408
+S'It certainly is.'
+p2409
+aS'Now, signature strikes in a declared combat area are different than thosethat occur outside declared combat areas.'
+p2410
+aS'And I -- and the criteria are different.'
+p2411
+aS'Butthe bottom line is, if in a combat area, if the individual or individuals appear to behostile, you can engage them in the context of that signature of hostility.'
+p2412
+aS"On the otherhand, activities in non-combat areas -- and this does apply to Pakistan, I would argue --it is much more problematic to conduct signature strikes there or elsewhere, where it'snot a declared combat zone."
+p2413
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p2414
+sg13
+(dp2415
+I3
+S'37'
+p2416
+ssg16
+(lp2417
+S'It certainly is.'
+p2418
+aS'Now, signature strikes in a declared combat area are different than those that occur outside declared combat areas.'
+p2419
+aS'And I -- and the criteria are different.'
+p2420
+aS'But the bottom line is, if in a combat area, if the individual or individuals appear to be hostile, you can engage them in the context of that signature of hostility.'
+p2421
+aS"On the other hand, activities in non-combat areas -- and this does apply to Pakistan, I would argue -- it is much more problematic to conduct signature strikes there or elsewhere, where it's not a declared combat zone."
+p2422
+asa(dp2423
+g8
+(lp2424
+S'Yeah.'
+p2425
+aS'I can talk about those, because I received the phone calls every --'
+p2426
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2427
+sg16
+(lp2428
+S'Yeah.'
+p2429
+aS'I can talk about those, because I received the phone calls every --'
+p2430
+asg18
+(dp2431
+S'20:01:02'
+p2432
+I1
+ssa(dp2433
+g8
+(lp2434
+S'Dennis --'
+p2435
+asg11
+S'JOHN DONVAN'
+p2436
+sg16
+(lp2437
+g2435
+asa(dp2438
+g8
+(lp2439
+S'-- time we conducted a strike.'
+p2440
+aS'This is up to the middle of 2010.'
+p2441
+aS'And I think that theadministration has been really derelict in not talking about these, because they arebased on the self-defense of American and Afghan forces.'
+p2442
+aS'The signature strikes thatwere conducted in Pakistan, all of them during my time, and the great majority over all,had to do with armed groups of men who were coming out of known Taliban, TTP areason road headed towards Afghanistan.'
+p2443
+aS'And we knew that they were not friendly.'
+p2444
+aS'Theywere armed.'
+p2445
+aS'We know what their arms were.'
+p2446
+aS'And we knew that they were coming toattack Afghans and Americans and others.'
+p2447
+aS'And we killed them before they could dothat'
+p2448
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2449
+sg16
+(lp2450
+S'-- time we conducted a strike.'
+p2451
+aS'This is up to the middle of 2010.'
+p2452
+aS'And I think that the administration has been really derelict in not talking about these, because they are based on the self-defense of American and Afghan forces.'
+p2453
+aS'The signature strikes that were conducted in Pakistan, all of them during my time, and the great majority over all, had to do with armed groups of men who were coming out of known Taliban, TTP areas on road headed towards Afghanistan.'
+p2454
+aS'And we knew that they were not friendly.'
+p2455
+aS'They were armed.'
+p2456
+aS'We know what their arms were.'
+p2457
+aS'And we knew that they were coming to attack Afghans and Americans and others.'
+p2458
+aS'And we killed them before they could do that'
+p2459
+asa(dp2460
+g8
+(lp2461
+S'I want to let Ahmed Rashid respond to that.'
+p2462
+aS'But first, I want to remind you that we arein the question and answer section of this Intelligence Squared U.S. debate.'
+p2463
+aS"I'm JohnDonvan, your moderator."
+p2464
+aS'We have four debaters, two teams of two, debating thismotion: The U.S. drone program is fatally flawed.'
+p2465
+aS'Ahmed Rashid, signature strikes?'
+p2466
+asg11
+S'JOHN DONVAN'
+p2467
+sg16
+(lp2468
+S'I want to let Ahmed Rashid respond to that.'
+p2469
+aS'But first, I want to remind you that we are in the question and answer section of this Intelligence Squared U.S. debate.'
+p2470
+aS"I'm John Donvan, your moderator."
+p2471
+aS'We have four debaters, two teams of two, debating this motion: The U.S. drone program is fatally flawed.'
+p2472
+aS'Ahmed Rashid, signature strikes?'
+p2473
+asg18
+(dp2474
+S'20:02:07'
+p2475
+I4
+ssa(dp2476
+g8
+(lp2477
+S'I just want to answer the question which the lady posed, which I think we should goback to.'
+p2478
+aS"And I think you're absolutely right."
+p2479
+aS"For the admiral to describe the individualswho are involved in this decision making doesn't give us the criteria."
+p2480
+aS"I mean, what is thecriteria for choosing who's going to live and who's going to die?"
+p2481
+aS'The fact is the U.S.media itself has portrayed that, the president is sitting there ticking off on a list as towho is going to live and who is going to die, or today, who is going to be drone or not.Now, I mean, we have no idea what the criteria is, how these people are chosen, what isthe level of evidence about them being al-Qaeda?'
+p2482
+aS"Now, I'm not asking for all this to bemade public."
+p2483
+aS'But I think there must be much -- a much greater degree of satisfactionthat people understand, why these targets are being chosen.'
+p2484
+aS'And that is just not thereat all.'
+p2485
+asg11
+S'AHMED RASHID'
+p2486
+sg13
+(dp2487
+I11
+S'38'
+p2488
+ssg16
+(lp2489
+S'I just want to answer the question which the lady posed, which I think we should go back to.'
+p2490
+aS"And I think you're absolutely right."
+p2491
+aS"For the admiral to describe the individuals who are involved in this decision making doesn't give us the criteria."
+p2492
+aS"I mean, what is the criteria for choosing who's going to live and who's going to die?"
+p2493
+aS'The fact is the U.S. media itself has portrayed that, the president is sitting there ticking off on a list as to who is going to live and who is going to die, or today, who is going to be drone or not.'
+p2494
+aS'Now, I mean, we have no idea what the criteria is, how these people are chosen, what is the level of evidence about them being al-Qaeda?'
+p2495
+aS"Now, I'm not asking for all this to be made public."
+p2496
+aS'But I think there must be much -- a much greater degree of satisfaction that people understand, why these targets are being chosen.'
+p2497
+aS'And that is just not there at all.'
+p2498
+asa(dp2499
+g8
+(lp2500
+S'I agree.'
+p2501
+aS'I agree.'
+p2502
+asg11
+S'MALE SPEAKER'
+p2503
+sg16
+(lp2504
+S'I agree.'
+p2505
+aS'I agree.'
+p2506
+asg18
+(dp2507
+S'20:03:04'
+p2508
+I1
+ssa(dp2509
+g8
+(lp2510
+S'Well, could I add, I mean, it became a live issue in the United States only when anAmerican citizen was killed.'
+p2511
+aS"So all my Afghan and Pakistani friends are like, well, youguys care when it's an American kid named Awlaki that's killed, but not when ourcousins and brothers are killed."
+p2512
+asg11
+S'JOHN KAEL WESTON'
+p2513
+sg16
+(lp2514
+S'Well, could I add, I mean, it became a live issue in the United States only when an American citizen was killed.'
+p2515
+aS"So all my Afghan and Pakistani friends are like, well, you guys care when it's an American kid named Awlaki that's killed, but not when our cousins and brothers are killed."
+p2516
+asa(dp2517
+g8
+(lp2518
+S'Awlaki was a self-declared combatant.'
+p2519
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p2520
+sg16
+(lp2521
+g2519
+asa(dp2522
+g8
+(lp2523
+S'The son of -- I mean the 16-year-old.'
+p2524
+aS"And again, that still hasn't come out."
+p2525
+aS"But all I'msaying is that, again, the battle is a battle that involves them more than us."
+p2526
+aS"And it's anarrative that I think is really the challenge here."
+p2527
+aS"And I think in some ways we agreemore than we disagree on who's winning and who's losing that narrative."
+p2528
+asg11
+S'JOHN KAEL WESTON'
+p2529
+sg16
+(lp2530
+S'The son of -- I mean the 16-year-old.'
+p2531
+aS"And again, that still hasn't come out."
+p2532
+aS"But all I'm saying is that, again, the battle is a battle that involves them more than us."
+p2533
+aS"And it's a narrative that I think is really the challenge here."
+p2534
+aS"And I think in some ways we agree more than we disagree on who's winning and who's losing that narrative."
+p2535
+asa(dp2536
+g8
+(lp2537
+S'So the adverb here is important, fatally.'
+p2538
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p2539
+sg16
+(lp2540
+g2538
+asa(dp2541
+g8
+(lp2542
+S"I'm going to take another question, right down in front here."
+p2543
+aS"Folks, if you're upstairsand raising your hands, I apologize."
+p2544
+aS"I -- number one, I can't see you."
+p2545
+aS"And we don't havemics up there."
+p2546
+aS"But if you are really enthusiastic and come down through the back doors,I'll find you."
+p2547
+aS'But if you do that, really make it a good question.'
+p2548
+asg11
+S'JOHN DONVAN'
+p2549
+sg16
+(lp2550
+S"I'm going to take another question, right down in front here."
+p2551
+aS"Folks, if you're upstairs and raising your hands, I apologize."
+p2552
+aS"I -- number one, I can't see you."
+p2553
+aS"And we don't have mics up there."
+p2554
+aS"But if you are really enthusiastic and come down through the back doors, I'll find you."
+p2555
+aS'But if you do that, really make it a good question.'
+p2556
+asg18
+(dp2557
+S'20:04:02'
+p2558
+I4
+ssa(dp2559
+g8
+(lp2560
+S'Hi.'
+p2561
+aS'My name is John Dagastino.'
+p2562
+aS'This question is for the "for" side, particularly John.You\'ve made the point several times talking about our allies, quote, "Indictment" of thispolicy.'
+p2563
+aS'I presume by that you mean Pakistan.'
+p2564
+aS'How do you reconcile that indictmentwith their cooperation?'
+p2565
+aS'And consequently, how much of that indictment is actuallyhypocrisy?'
+p2566
+asg11
+S'JOHN DAGASTINO'
+p2567
+sg16
+(lp2568
+S'Hi.'
+p2569
+aS'My name is John Dagastino.'
+p2570
+aS'This question is for the "for" side, particularly John.'
+p2571
+aS'You\'ve made the point several times talking about our allies, quote, "Indictment" of this policy.'
+p2572
+aS'I presume by that you mean Pakistan.'
+p2573
+aS'How do you reconcile that indictment with their cooperation?'
+p2574
+aS'And consequently, how much of that indictment is actually hypocrisy?'
+p2575
+asa(dp2576
+g8
+(lp2577
+S'Well, yeah, I should have defined ally.'
+p2578
+aS"I'm talking about the people that I dealt with onthe ground."
+p2579
+aS"So whether they were in Khost or in Helmund or even in Fallujah, althoughthe drones weren't armed then, I'll let Ahmed take the bigger issue of the Pakistanimaybe duplicity."
+p2580
+aS"And I'm sure there's a lot of double winks that go on every day of theweek over there.But my concern is the allies that actually are the future leaders of Afghanistan, theuniversity students, the Madrasa students, the tribal elders, the Mullahs, the whole hostof people that get killed in these drone strikes when they go wrong."
+p2581
+aS"Because I don'tthink the Taliban hold up a red flag."
+p2582
+aS'I know they don\'t, and say, "I\'m Taliban.'
+p2583
+aS"Whathappens is there's a bad guy in the family or a bad guy in the village, and we identifymaybe he's a bad guy, and we drop a hellfire, and then you turn three villages againstus.It goes to the ratio and the equal sign."
+p2584
+aS"I'll come back to it."
+p2585
+aS"Yes to the woman I thoughtwho asked a very good question, elaborated on by you, our moderator, is the number ofenemies we're making and the number of targets we're making."
+p2586
+aS"And I'll defer to you,Ahmed, on the question about his point on as far as the Pakistan government or thePakistan --"
+p2587
+asg11
+S'JOHN KAEL WESTON'
+p2588
+sg13
+(dp2589
+I3
+S'39'
+p2590
+ssg16
+(lp2591
+S'Well, yeah, I should have defined ally.'
+p2592
+aS"I'm talking about the people that I dealt with on the ground."
+p2593
+aS"So whether they were in Khost or in Helmund or even in Fallujah, although the drones weren't armed then, I'll let Ahmed take the bigger issue of the Pakistani maybe duplicity."
+p2594
+aS"And I'm sure there's a lot of double winks that go on every day of the week over there."
+p2595
+aS'But my concern is the allies that actually are the future leaders of Afghanistan, the university students, the Madrasa students, the tribal elders, the Mullahs, the whole host of people that get killed in these drone strikes when they go wrong.'
+p2596
+aS"Because I don't think the Taliban hold up a red flag."
+p2597
+aS'I know they don\'t, and say, "I\'m Taliban.'
+p2598
+aS"What happens is there's a bad guy in the family or a bad guy in the village, and we identify maybe he's a bad guy, and we drop a hellfire, and then you turn three villages against us."
+p2599
+aS'It goes to the ratio and the equal sign.'
+p2600
+aS"I'll come back to it."
+p2601
+aS"Yes to the woman I thought who asked a very good question, elaborated on by you, our moderator, is the number of enemies we're making and the number of targets we're making."
+p2602
+aS"And I'll defer to you, Ahmed, on the question about his point on as far as the Pakistan government or the Pakistan --"
+p2603
+asg18
+(dp2604
+S'20:05:06'
+p2605
+I12
+ssa(dp2606
+g8
+(lp2607
+S"Yeah, why don't you let Ahmed get to that."
+p2608
+aS'Yeah.'
+p2609
+asg11
+S'JOHN DONVAN'
+p2610
+sg16
+(lp2611
+S"Yeah, why don't you let Ahmed get to that."
+p2612
+aS'Yeah.'
+p2613
+asa(dp2614
+g8
+(lp2615
+S'Can I just say one thing first?'
+p2616
+aS'And that is that most allies of the U.S. in Europe, areagainst drones.'
+p2617
+aS'As far as I know, only the British have openly -- support the U.S. policyof drones.'
+p2618
+aS'Most of the Europeans, European governments and European parliaments,are against it.'
+p2619
+aS"And they've been --"
+p2620
+asg11
+S'AHMED RASHID'
+p2621
+sg16
+(lp2622
+S'Can I just say one thing first?'
+p2623
+aS'And that is that most allies of the U.S. in Europe, are against drones.'
+p2624
+aS'As far as I know, only the British have openly -- support the U.S. policy of drones.'
+p2625
+aS'Most of the Europeans, European governments and European parliaments, are against it.'
+p2626
+aS"And they've been --"
+p2627
+asa(dp2628
+g8
+(lp2629
+S'What does it mean, "Against it," that they want it to stop completely?'
+p2630
+asg11
+S'JOHN DONVAN'
+p2631
+sg16
+(lp2632
+g2630
+asa(dp2633
+g8
+(lp2634
+S'Sorry?'
+p2635
+asg11
+S'AHMED RASHID'
+p2636
+sg16
+(lp2637
+g2635
+asa(dp2638
+g8
+(lp2639
+S'They want a total cessation of the use of use of drones in that area?'
+p2640
+asg11
+S'JOHN DONVAN'
+p2641
+sg16
+(lp2642
+g2640
+asa(dp2643
+g8
+(lp2644
+S'Yes.'
+p2645
+aS'I mean --'
+p2646
+asg11
+S'AHMED RASHID'
+p2647
+sg16
+(lp2648
+S'Yes.'
+p2649
+aS'I mean --'
+p2650
+asa(dp2651
+g8
+(lp2652
+S'Okay.'
+p2653
+aS'Just wanted to clarify.'
+p2654
+asg11
+S'JOHN DONVAN'
+p2655
+sg13
+(dp2656
+I1
+S'40'
+p2657
+ssg16
+(lp2658
+S'Okay.'
+p2659
+aS'Just wanted to clarify.'
+p2660
+asg18
+(dp2661
+S'20:06:00'
+p2662
+I1
+ssa(dp2663
+g8
+(lp2664
+S'They do.'
+p2665
+aS'Or they want greater transparency, or they want greater information as to, --but in other words, nobody in the world basically is backing the U.S. use of drones.'
+p2666
+aS"AndI think that's very -- that's a point that is often completely forgotten in -- the Americanmedia and --"
+p2667
+asg11
+S'AHMED RASHID'
+p2668
+sg16
+(lp2669
+S'They do.'
+p2670
+aS'Or they want greater transparency, or they want greater information as to, -- but in other words, nobody in the world basically is backing the U.S. use of drones.'
+p2671
+aS"And I think that's very -- that's a point that is often completely forgotten in -- the American media and --"
+p2672
+asa(dp2673
+g8
+(lp2674
+S'Let me ask your opponents, is that -- is that relevant?'
+p2675
+aS'Dennis Blair?'
+p2676
+aS"And I'll back to you,Ahmed."
+p2677
+asg11
+S'JOHN DONVAN'
+p2678
+sg16
+(lp2679
+S'Let me ask your opponents, is that -- is that relevant?'
+p2680
+aS'Dennis Blair?'
+p2681
+aS"And I'll back to you, Ahmed."
+p2682
+asa(dp2683
+g8
+(lp2684
+S"Well, I mean, what's your evidence, Mr. Rashid?"
+p2685
+aS'No one in the world --'
+p2686
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2687
+sg16
+(lp2688
+S"Well, I mean, what's your evidence, Mr. Rashid?"
+p2689
+aS'No one in the world --'
+p2690
+asa(dp2691
+g8
+(lp2692
+S"Well, now we're counting everybody in the world."
+p2693
+asg11
+S'JOHN DONVAN'
+p2694
+sg16
+(lp2695
+g2693
+asa(dp2696
+g22
+(dp2697
+I1
+S'[laughter]'
+p2698
+ssg8
+(lp2699
+S' -- use of drones.'
+p2700
+aS'I mean can you be a little more specific?'
+p2701
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2702
+sg16
+(lp2703
+S' -- use of drones.'
+p2704
+aS'I mean can you be a little more specific?'
+p2705
+asa(dp2706
+g8
+(lp2707
+S'Well, you look at the --'
+p2708
+asg11
+S'AHMED RASHID'
+p2709
+sg16
+(lp2710
+g2708
+asa(dp2711
+g8
+(lp2712
+S'Can you give me resolutions by legislatures in other countries?'
+p2713
+aS'Can you give me --'
+p2714
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2715
+sg16
+(lp2716
+S'Can you give me resolutions by legislatures in other countries?'
+p2717
+aS'Can you give me --'
+p2718
+asa(dp2719
+g8
+(lp2720
+S'Well, with all due respect, I haven\'t heard a lot of, "rah, rah, drones.'
+p2721
+aS'" And I\'ve been inthe State Department for 12 years.'
+p2722
+aS"So I'll help my friend out here; that whether NATOraises their arm and says, we approve the drone program, I know General Dunford andhis political adviser, Carter Malkasian have their hands full all the time on these issues.But is it a popular thing?"
+p2723
+aS'I highly doubt that.'
+p2724
+aS"I don't know any --"
+p2725
+asg11
+S'JOHN KAEL WESTON'
+p2726
+sg16
+(lp2727
+S'Well, with all due respect, I haven\'t heard a lot of, "rah, rah, drones.'
+p2728
+aS'" And I\'ve been in the State Department for 12 years.'
+p2729
+aS"So I'll help my friend out here; that whether NATO raises their arm and says, we approve the drone program, I know General Dunford and his political adviser, Carter Malkasian have their hands full all the time on these issues."
+p2730
+aS'But is it a popular thing?'
+p2731
+aS'I highly doubt that.'
+p2732
+aS"I don't know any --"
+p2733
+asg18
+(dp2734
+S'20:07:10'
+p2735
+I5
+ssa(dp2736
+g8
+(lp2737
+S"And it's not a popular thing in the United States."
+p2738
+aS"We don't like killing people, but weonly do it when we have to."
+p2739
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2740
+sg16
+(lp2741
+S"And it's not a popular thing in the United States."
+p2742
+aS"We don't like killing people, but we only do it when we have to."
+p2743
+asa(dp2744
+g8
+(lp2745
+S"Well, I'm not sure we only go when we have to."
+p2746
+aS"I think it's actually, I think, easier for theAmerican people to think it's joystick warfare and send in seal team 6."
+p2747
+aS"And that's alsoanother issue that we could get into."
+p2748
+asg11
+S'JOHN KAEL WESTON'
+p2749
+sg13
+(dp2750
+I0
+S'41'
+p2751
+ssg16
+(lp2752
+S"Well, I'm not sure we only go when we have to."
+p2753
+aS"I think it's actually, I think, easier for the American people to think it's joystick warfare and send in seal team 6."
+p2754
+aS"And that's also another issue that we could get into."
+p2755
+asa(dp2756
+g8
+(lp2757
+S'Well, I would simply -- I would simply say that the drones are handled with the samecare, concern, discrimination that the armed forces, the United States and otherAmerican agencies handle all other weapons, which they know can kill the innocent aswell as the enemy.'
+p2758
+aS'And drones are used with the same set of procedures.'
+p2759
+aS'And I thinktheir inherent characteristics allow them to be more on the side of killing those whothey intend to kill with fewer others.'
+p2760
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2761
+sg16
+(lp2762
+S'Well, I would simply -- I would simply say that the drones are handled with the same care, concern, discrimination that the armed forces, the United States and other American agencies handle all other weapons, which they know can kill the innocent as well as the enemy.'
+p2763
+aS'And drones are used with the same set of procedures.'
+p2764
+aS'And I think their inherent characteristics allow them to be more on the side of killing those who they intend to kill with fewer others.'
+p2765
+asg18
+(dp2766
+S'20:08:01'
+p2767
+I6
+ssa(dp2768
+g8
+(lp2769
+S'Dennis, but let me follow up on that and ask you this question.'
+p2770
+aS'It came up a little bitbefore.'
+p2771
+aS'Sometimes in certain circumstances, some weapons seem to raise differentmoral or ethical challenges to their use.'
+p2772
+aS'Nuclear weapons, classic example.'
+p2773
+aS'Youropponents have used the word "sinister" about drones, that they\'re different somehow.You, I think, alluded to the fact that maybe presidents will be tempted to use drones agreat deal more because U.S. casualties are lower, that there\'s always going to be atemptation for a president.'
+p2774
+aS"What about this notion that there's a different, perhapssinister quality to the weapon itself, because it's in a different category?"
+p2775
+asg11
+S'JOHN DONVAN'
+p2776
+sg16
+(lp2777
+S'Dennis, but let me follow up on that and ask you this question.'
+p2778
+aS'It came up a little bit before.'
+p2779
+aS'Sometimes in certain circumstances, some weapons seem to raise different moral or ethical challenges to their use.'
+p2780
+aS'Nuclear weapons, classic example.'
+p2781
+aS'Your opponents have used the word "sinister" about drones, that they\'re different somehow.'
+p2782
+aS"You, I think, alluded to the fact that maybe presidents will be tempted to use drones a great deal more because U.S. casualties are lower, that there's always going to be a temptation for a president."
+p2783
+aS"What about this notion that there's a different, perhaps sinister quality to the weapon itself, because it's in a different category?"
+p2784
+asa(dp2785
+g8
+(lp2786
+S"I'll -- I mean, General Schwartz was involved in it much more closely than I was."
+p2787
+aS'But Iwas pretty close to it.'
+p2788
+aS'There is a novelty factor.'
+p2789
+aS"Anything that's new and long range andall is -- seems inherently more fascinating, sinister and interesting."
+p2790
+aS"We've seen that withnew weapons over the generations as they come along.Certainly, the sort of media discussion centers on drones."
+p2791
+aS"I mean, we're not having anIntelligence Squared debate about overall U.S. policy against Al-Qaeda."
+p2792
+aS"We're talkingabout drones."
+p2793
+aS'Why?'
+p2794
+aS"Because it's sexy, and it's new, and it has a lot of ."
+p2795
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2796
+sg16
+(lp2797
+S"I'll -- I mean, General Schwartz was involved in it much more closely than I was."
+p2798
+aS'But I was pretty close to it.'
+p2799
+aS'There is a novelty factor.'
+p2800
+aS"Anything that's new and long range and all is -- seems inherently more fascinating, sinister and interesting."
+p2801
+aS"We've seen that with new weapons over the generations as they come along."
+p2802
+aS'Certainly, the sort of media discussion centers on drones.'
+p2803
+aS"I mean, we're not having an Intelligence Squared debate about overall U.S. policy against Al-Qaeda."
+p2804
+aS"We're talking about drones."
+p2805
+aS'Why?'
+p2806
+aS"Because it's sexy, and it's new, and it has a lot of ."
+p2807
+asg18
+(dp2808
+S'20:09:02'
+p2809
+I4
+ssa(dp2810
+g8
+(lp2811
+S'Yeah, but we would if there were chemical weapons.'
+p2812
+aS"I mean, I'm not comparing them,but --"
+p2813
+asg11
+S'JOHN DONVAN'
+p2814
+sg16
+(lp2815
+S'Yeah, but we would if there were chemical weapons.'
+p2816
+aS"I mean, I'm not comparing them, but --"
+p2817
+asa(dp2818
+g8
+(lp2819
+S'But, no, I think the media effect is important in this, John.'
+p2820
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2821
+sg16
+(lp2822
+g2820
+asa(dp2823
+g8
+(lp2824
+S'Yep, okay.'
+p2825
+asg11
+S'JOHN DONVAN'
+p2826
+sg13
+(dp2827
+I0
+S'42'
+p2828
+ssg16
+(lp2829
+g2825
+asa(dp2830
+g8
+(lp2831
+S'I think novelty, media, it tends to give it that overwhelming force that Mr. Rashid hastalked about.'
+p2832
+aS"I think we have to get beyond that to what are the actual facts aboutwhat's going on on the battlefield."
+p2833
+aS'Are we achieving our objectives?'
+p2834
+aS'Are we -- are wenot?'
+p2835
+aS'Narrative, shhmarative.'
+p2836
+aS"You know, it's are you getting to your objectives, whichare to be able to defeat the Taliban --"
+p2837
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2838
+sg16
+(lp2839
+S'I think novelty, media, it tends to give it that overwhelming force that Mr. Rashid has talked about.'
+p2840
+aS"I think we have to get beyond that to what are the actual facts about what's going on on the battlefield."
+p2841
+aS'Are we achieving our objectives?'
+p2842
+aS'Are we -- are we not?'
+p2843
+aS'Narrative, shhmarative.'
+p2844
+aS"You know, it's are you getting to your objectives, which are to be able to defeat the Taliban --"
+p2845
+asa(dp2846
+g8
+(lp2847
+S'And protect Americans.'
+p2848
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p2849
+sg16
+(lp2850
+g2848
+asa(dp2851
+g8
+(lp2852
+S'And protect Americans, yeah.'
+p2853
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p2854
+sg16
+(lp2855
+g2853
+asa(dp2856
+g8
+(lp2857
+S'Sir, right down here.'
+p2858
+aS'Yes.'
+p2859
+aS'Mic -- mic will come for you.'
+p2860
+asg11
+S'JOHN DONVAN'
+p2861
+sg16
+(lp2862
+S'Sir, right down here.'
+p2863
+aS'Yes.'
+p2864
+aS'Mic -- mic will come for you.'
+p2865
+asa(dp2866
+g8
+(lp2867
+S'My name is Robert Klein.'
+p2868
+aS'We have to vote.'
+p2869
+aS"And what I've heard from this side is thatthe use of drones is indiscriminate without a lot of substantiation in my view.And from this side I've heard incredible amounts of care and preparation and diligencebefore drones are launched."
+p2870
+aS'Which is the more accurate of the two?'
+p2871
+aS'Because on theface of it, that would be the basis of our vote.'
+p2872
+asg11
+S'ROBERT KLEIN'
+p2873
+sg16
+(lp2874
+S'My name is Robert Klein.'
+p2875
+aS'We have to vote.'
+p2876
+aS"And what I've heard from this side is that the use of drones is indiscriminate without a lot of substantiation in my view."
+p2877
+aS"And from this side I've heard incredible amounts of care and preparation and diligence before drones are launched."
+p2878
+aS'Which is the more accurate of the two?'
+p2879
+aS'Because on the face of it, that would be the basis of our vote.'
+p2880
+asg18
+(dp2881
+S'20:10:07'
+p2882
+I2
+ssa(dp2883
+g22
+(dp2884
+I1
+S'[laughter]'
+p2885
+ssg8
+(lp2886
+S"Mr. Klein, there's always the undecided category.But it is their task to persuade you."
+p2887
+aS'[[laughter]] '
+p2888
+asg11
+S'JOHN DONVAN'
+p2889
+sg16
+(lp2890
+S"Mr. Klein, there's always the undecided category."
+p2891
+aS'But it is their task to persuade you.'
+p2892
+asa(dp2893
+g22
+(dp2894
+I1
+S'[laughter]'
+p2895
+ssg11
+S'GENERAL NORTON SCHWARTZ'
+p2896
+sg16
+(lp2897
+S"It's a question of who's more credible."
+p2898
+aS'Seriously, though, I take your point.'
+p2899
+aS'Based on the available numbers, again, I would go back to that, you can question Long War Journal, you can question the UN studies and -- and so on, the New America Foundation is another organization that monitors this.'
+p2900
+aS'But the number -- from 2006 to the present time in Afghanistan, the estimate is that drones have engaged and killed some 2600 al-Qaeda and Taliban combatants.'
+p2901
+aS'Out -- the same organization estimates 330 civilian casualties.'
+p2902
+aS"Now, once again, please don't take the -- that my view is that it doesn't matter."
+p2903
+aS'It matters a hell of a lot, and I think Kael is -- and Mr. Rashid have made this point.'
+p2904
+aS"It matters a lot, but you have to keep this in perspective, and the numbers are pretty clear, one to seven, one to five, you know, you can say that that's anecdotal, but it's the best we have."
+p2905
+aS'And my point is, is that I know what the kids do.'
+p2906
+aS'And I would ask all the parents in here if your youngster as we were talking out in the reception earlier was on the ground, what would you prefer to have in the air, something that passes over in 30 seconds and goes away or something that is overhead constantly and provides surveillance and an ability to engage the enemy that might well keep that soldier, sailor, airman, Marine safe?'
+p2907
+aS'I know what my answer as a commander is.'
+p2908
+asg18
+(dp2909
+S'20:12:01'
+p2910
+I12
+sS'20:10:55'
+p2911
+I4
+ssg8
+(lp2912
+S"It's a question of who's more credible.Seriously, though, I take your point."
+p2913
+aS'Based on the available numbers, again, I would go [[laughter]] back to that, you can question Long War Journal, you can question the UN studies and --and so on, the New America Foundation is another organization that monitors this.But the number -- from 2006 to the present time in Afghanistan, the estimate is thatdrones have engaged and killed some 2600 al-Qaeda and Taliban combatants.'
+p2914
+aS'Out --the same organization estimates 330 civilian casualties.'
+p2915
+aS"Now, once again, please don'ttake the -- that my view is that it doesn't matter."
+p2916
+aS'It matters a hell of a lot, and I thinkKael is -- and Mr. Rashid have made this point.'
+p2917
+aS"It matters a lot, but you have to keepthis in perspective, and the numbers are pretty clear, one to seven, one to five, youknow, you can say that that's anecdotal, but it's the best we have."
+p2918
+aS'And my point is, isthat I know what the kids do.And I would ask all the parents in here if your youngster as we were talking out in thereception earlier was on the ground, what would you prefer to have in the air,something that passes over in 30 seconds and goes away or something that is overheadconstantly and provides surveillance and an ability to engage the enemy that might wellkeep that soldier, sailor, airman, Marine safe?'
+p2919
+aS'I know what my answer as a commanderis.'
+p2920
+asg13
+(dp2921
+I4
+S'43'
+p2922
+ssa(dp2923
+g8
+(lp2924
+S'Well, again --'
+p2925
+asg11
+S'JOHN KAEL WESTON'
+p2926
+sg16
+(lp2927
+g2925
+asa(dp2928
+g8
+(lp2929
+S'Kael Weston.'
+p2930
+asg11
+S'JOHN DONVAN'
+p2931
+sg16
+(lp2932
+g2930
+asa(dp2933
+g8
+(lp2934
+S'-- General, I get that point to an extent.'
+p2935
+aS'I had lived five out of my seven years in thesewars with Marine grunts.'
+p2936
+aS'Surveillance overhead is a part of war.'
+p2937
+aS'The issue is when thedrones strike, what the net effect is.'
+p2938
+aS"In Province on the border withPakistan I can tell you when those one to five, one to seven -- I think numbers to me isnot an issue I like to get into because it's that equals sign.Which is how many family members, tribal members, community members are affectedby one loss of life?"
+p2939
+aS'The IED strikes are where most of our guys are losing their legs.'
+p2940
+aS"Sodo the IEDs go up when an operation like that goes wrong, and you've got a cousin inMiranshah, you've got brothers in Miranshah, and you live in Khost?"
+p2941
+aS"I would argue withall due respect that the odds of getting a Marine or a soldier's legs blown off go upbecause of this program, not go down."
+p2942
+asg11
+S'JOHN KAEL WESTON'
+p2943
+sg16
+(lp2944
+S'-- General, I get that point to an extent.'
+p2945
+aS'I had lived five out of my seven years in these wars with Marine grunts.'
+p2946
+aS'Surveillance overhead is a part of war.'
+p2947
+aS'The issue is when the drones strike, what the net effect is.'
+p2948
+aS"In Province on the border with Pakistan I can tell you when those one to five, one to seven -- I think numbers to me is not an issue I like to get into because it's that equals sign."
+p2949
+aS'Which is how many family members, tribal members, community members are affected by one loss of life?'
+p2950
+aS'The IED strikes are where most of our guys are losing their legs.'
+p2951
+aS"So do the IEDs go up when an operation like that goes wrong, and you've got a cousin in Miranshah, you've got brothers in Miranshah, and you live in Khost?"
+p2952
+aS"I would argue with all due respect that the odds of getting a Marine or a soldier's legs blown off go up because of this program, not go down."
+p2953
+asg18
+(dp2954
+S'20:13:02'
+p2955
+I5
+ssa(dp2956
+g8
+(lp2957
+S"Okay, that's your view."
+p2958
+aS'My view --'
+p2959
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p2960
+sg13
+(dp2961
+I0
+S'44'
+p2962
+ssg16
+(lp2963
+S"Okay, that's your view."
+p2964
+aS'My view --'
+p2965
+asa(dp2966
+g8
+(lp2967
+S'Yes.'
+p2968
+asg11
+S'JOHN KAEL WESTON'
+p2969
+sg16
+(lp2970
+g2968
+asa(dp2971
+g8
+(lp2972
+S'-- is killing bomb makers makes the numbers go down.'
+p2973
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p2974
+sg16
+(lp2975
+g2973
+asa(dp2976
+g8
+(lp2977
+S"Fair enough, it's two sides of a --"
+p2978
+asg11
+S'JOHN KAEL WESTON'
+p2979
+sg16
+(lp2980
+g2978
+asa(dp2981
+g8
+(lp2982
+S'In the center, there.'
+p2983
+aS'And the mike will come down -- up the aisle.'
+p2984
+aS"It's coming from yourleft hand side now."
+p2985
+aS'If you can state your name, please.'
+p2986
+asg11
+S'JOHN DONVAN'
+p2987
+sg16
+(lp2988
+S'In the center, there.'
+p2989
+aS'And the mike will come down -- up the aisle.'
+p2990
+aS"It's coming from your left hand side now."
+p2991
+aS'If you can state your name, please.'
+p2992
+asa(dp2993
+g8
+(lp2994
+S'My name is Peter Burgess .'
+p2995
+aS'I was in Afghanistan just after theSoviets withdrew so, you know, I have a bit of a feeling for the neighborhood.'
+p2996
+aS'Thequestion is, is the drone program fatally flawed or some words to that effect, and --'
+p2997
+asg11
+S'PETER BURGESS'
+p2998
+sg16
+(lp2999
+S'My name is Peter Burgess .'
+p3000
+aS'I was in Afghanistan just after the Soviets withdrew so, you know, I have a bit of a feeling for the neighborhood.'
+p3001
+aS'The question is, is the drone program fatally flawed or some words to that effect, and --'
+p3002
+asg18
+(dp3003
+S'20:14:08'
+p3004
+I3
+ssa(dp3005
+g22
+(dp3006
+I1
+S'[laughter]'
+p3007
+ssg8
+(lp3008
+S"That's exactly it.Peter Burgess [[laughter]] -- we used to talk about nation building."
+p3009
+aS"We used to talk about not having failed states.Can somebody please explain to me how a drone addresses the issue of nation buildingand stopping failed states?I think it's not intended to though, is it or --"
+p3010
+asg11
+S'JOHN DONVAN'
+p3011
+sg16
+(lp3012
+S"That's exactly it."
+p3013
+aS'Peter Burgess -- we used to talk about nation building.'
+p3014
+aS'We used to talk about not having failed states.'
+p3015
+aS'Can somebody please explain to me how a drone addresses the issue of nation building and stopping failed states?'
+p3016
+aS"I think it's not intended to though, is it or --"
+p3017
+asa(dp3018
+g22
+(dp3019
+I2
+S'[applause]'
+p3020
+ssg8
+(lp3021
+S"Its intended to kill Taliban so that they don't keep the nation builders from going anddoing their job."
+p3022
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p3023
+sg16
+(lp3024
+S"Its intended to kill Taliban so that they don't keep the nation builders from going and doing their job."
+p3025
+asa(dp3026
+g22
+(dp3027
+I2
+S'[laughter]'
+p3028
+ssg8
+(lp3029
+S"I think you're going to be our last question, and I've been saving you because you havehad the most vigorous arm waving of anyone tonight."
+p3030
+asg11
+S'JOHN DONVAN'
+p3031
+sg13
+(dp3032
+I2
+S'45'
+p3033
+ssg16
+(lp3034
+S"I think you're going to be our last question, and I've been saving you because you have had the most vigorous arm waving of anyone tonight."
+p3035
+asa(dp3036
+g8
+(lp3037
+S'It worked.'
+p3038
+aS'My question is for the side arguing against the motion, does the fact that thedrone program cuts down on American armed forces casualties, does that enable theU.S.'
+p3039
+aS'to engage in more reckless conflicts around the world?'
+p3040
+asg11
+S'MALE SPEAKER'
+p3041
+sg16
+(lp3042
+S'It worked.'
+p3043
+aS'My question is for the side arguing against the motion, does the fact that the drone program cuts down on American armed forces casualties, does that enable the U.S. to engage in more reckless conflicts around the world?'
+p3044
+asg18
+(dp3045
+S'20:15:12'
+p3046
+I3
+ssa(dp3047
+g8
+(lp3048
+S'It -- look, I mean, this is --'
+p3049
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p3050
+sg16
+(lp3051
+g3049
+asa(dp3052
+g8
+(lp3053
+S'Norton Schwartz.'
+p3054
+asg11
+S'JOHN DONVAN'
+p3055
+sg16
+(lp3056
+g3054
+asa(dp3057
+g8
+(lp3058
+S'-- this is the fundamental question.'
+p3059
+aS'Remember, that is not a military call.'
+p3060
+aS'That is a callfor civilian leadership, where we go and what we do.'
+p3061
+aS'And there is an argument thatfewer American casualties might encourage political leadership to be more aggressive ormore reckless.'
+p3062
+aS"There is that potential, but that's what best military advice is all about.Remember, we have a chairman of the Joint Chiefs of Staff who is the president'sprincipal military advisor."
+p3063
+aS"And if you've watched Mike Mullen, or Marty Dempsey, or inhis day Denny Blair, offer military advice, it's not to encourage political leadership to bereckless.Ultimately, we salute, but the key thing here is that, that is a legitimate concern, but it isone that the military, the uniforms feel personally."
+p3064
+asg11
+S'GENERAL NORTON SCHWARTZ'
+p3065
+sg16
+(lp3066
+S'-- this is the fundamental question.'
+p3067
+aS'Remember, that is not a military call.'
+p3068
+aS'That is a call for civilian leadership, where we go and what we do.'
+p3069
+aS'And there is an argument that fewer American casualties might encourage political leadership to be more aggressive or more reckless.'
+p3070
+aS"There is that potential, but that's what best military advice is all about."
+p3071
+aS"Remember, we have a chairman of the Joint Chiefs of Staff who is the president's principal military advisor."
+p3072
+aS"And if you've watched Mike Mullen, or Marty Dempsey, or in his day Denny Blair, offer military advice, it's not to encourage political leadership to be reckless."
+p3073
+aS'Ultimately, we salute, but the key thing here is that, that is a legitimate concern, but it is one that the military, the uniforms feel personally.'
+p3074
+asg18
+(dp3075
+S'20:16:04'
+p3076
+I8
+ssa(dp3077
+g8
+(lp3078
+S"And I'd say, if you see a political candidate who thinks a few American casualties areokay, but a lot or not, I wouldn't vote for him."
+p3079
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p3080
+sg16
+(lp3081
+S"And I'd say, if you see a political candidate who thinks a few American casualties are okay, but a lot or not, I wouldn't vote for him."
+p3082
+asa(dp3083
+g8
+(lp3084
+S"Ahmed Rashid, when you say that it's already becoming a strategy as opposed to atactic, do you think that dynamic is already in play, that presidents are authorizing thesestrikes, in part, because they can, without a cost back home?"
+p3085
+asg11
+S'JOHN DONVAN'
+p3086
+sg16
+(lp3087
+S"Ahmed Rashid, when you say that it's already becoming a strategy as opposed to a tactic, do you think that dynamic is already in play, that presidents are authorizing these strikes, in part, because they can, without a cost back home?"
+p3088
+asa(dp3089
+g8
+(lp3090
+S'Yes.'
+p3091
+aS"I think so -- I think that's very true."
+p3092
+aS"And I fear very much that given the turmoilgoing on now in the Middle East and other parts of the world, the reluctance of theAmericans and the Europeans to want to get involved in by putting troops, orpeacekeepers, or anything on the ground -- we're going to get more and more of this,that we throw technology at the problem.We throw drones at the problem."
+p3093
+aS'And that, I think, is going to be a very, very dangerousworld to live in, frankly.'
+p3094
+asg11
+S'AHMED RASHID'
+p3095
+sg13
+(dp3096
+I3
+S'46'
+p3097
+ssg16
+(lp3098
+S'Yes.'
+p3099
+aS"I think so -- I think that's very true."
+p3100
+aS"And I fear very much that given the turmoil going on now in the Middle East and other parts of the world, the reluctance of the Americans and the Europeans to want to get involved in by putting troops, or peacekeepers, or anything on the ground -- we're going to get more and more of this, that we throw technology at the problem."
+p3101
+aS'We throw drones at the problem.'
+p3102
+aS'And that, I think, is going to be a very, very dangerous world to live in, frankly.'
+p3103
+asg18
+(dp3104
+S'20:17:06'
+p3105
+I5
+ssa(dp3106
+g22
+(dp3107
+I9
+S'[applause]'
+p3108
+sI2
+S'[applause]'
+p3109
+ssg8
+(lp3110
+S'And that concludes Round 2 of this Intelligence Squared U.S.'
+p3111
+aS'Debate, where our motionis: The U.S. Drone Program is Fatally Flawed.And remember, you voted just before the debate.'
+p3112
+aS"And right after this very brief section [[applause]] -- two-minute closing statements by each debater in turn -- you'll get to vote again."
+p3113
+aS'So,onto Round 3.'
+p3114
+aS'Round 3, closing statements by each debater in turn.'
+p3115
+aS"We'll do thesefrom our seats, General."
+p3116
+aS'Round 3 are closing statements by each debater in turn.'
+p3117
+aS'Theywill be two minutes each.'
+p3118
+aS'And here to summarize his position against the motion,Norton Schwartz.'
+p3119
+aS"He's former chief of staff of the U.S. Air Force."
+p3120
+aS'Ladies and gentlemen,Admiral Norton Schwartz.General Norton Schwartz.'
+p3121
+aS'[[applause]] '
+p3122
+asg11
+S'JOHN DONVAN'
+p3123
+sg16
+(lp3124
+S'And that concludes Round 2 of this Intelligence Squared U.S.'
+p3125
+aS'Debate, where our motion is: The U.S. Drone Program is Fatally Flawed.'
+p3126
+aS'And remember, you voted just before the debate.'
+p3127
+aS"And right after this very brief section -- two-minute closing statements by each debater in turn -- you'll get to vote again."
+p3128
+aS'So, onto Round 3.'
+p3129
+aS'Round 3, closing statements by each debater in turn.'
+p3130
+aS"We'll do these from our seats, General."
+p3131
+aS'Round 3 are closing statements by each debater in turn.'
+p3132
+aS'They will be two minutes each.'
+p3133
+aS'And here to summarize his position against the motion, Norton Schwartz.'
+p3134
+aS"He's former chief of staff of the U.S. Air Force."
+p3135
+aS'Ladies and gentlemen, Admiral Norton Schwartz.'
+p3136
+aS'General Norton Schwartz.'
+p3137
+asa(dp3138
+g22
+(dp3139
+I1
+S'[laughter]'
+p3140
+sI2
+S'[laughter]'
+p3141
+ssg11
+S'GENERAL NORTON SCHWARTZ'
+p3142
+sg16
+(lp3143
+S'Hi.'
+p3144
+aS'Denny wishes I was an admiral.'
+p3145
+aS'Maybe some people in the Air Force wouldve, too.'
+p3146
+aS"I don't know."
+p3147
+aS'Let me just say that I think that our partners here in the debate tonight have expressed absolutely legitimate concerns.'
+p3148
+aS"And while we've jousted a bit, it's been done with respect and an appreciation for their passion and their conviction on this issue."
+p3149
+aS"I'd just like to relate a quick vignette."
+p3150
+aS"In earlier days, when I was flying airplanes, I flew a gunship -- a C1 -- it's a C-130 with guns on it."
+p3151
+aS'And there was one occasion when I remember the following call came from the ground.'
+p3152
+aS'And it was this -- troops in contact need help now.'
+p3153
+aS'When an airman hears -- no matter what service -- Navy, Army, Marine Corps, Air Force -- hears "Troops in contact need help now," there is an immediate response.'
+p3154
+aS'And it is visceral, but not necessarily as accurate or as coherent as you might like it to be if you were -- if you could have been there for hours prior, and will remain there for hours after, which is the case with the remote aircraft or the drone technology today.'
+p3155
+aS'I would just conclude by saying that use of drones is neither sport nor a failed tactic.'
+p3156
+aS'And you must vote against the proposition and the adverb "fatally.'
+p3157
+aS'" Thank you.'
+p3158
+asg18
+(dp3159
+S'20:19:04'
+p3160
+I9
+sS'20:20:01'
+p3161
+I16
+sS'20:18:06'
+p3162
+I1
+ssg8
+(lp3163
+S'Hi.'
+p3164
+aS'Denny wishes I was an admiral.Maybe some people in the Air Force wouldve, too.'
+p3165
+aS"I don't know."
+p3166
+aS'[[laughter]] Let me just say that I think that our partners here in the debate tonight have expressed [[laughter]] absolutely legitimate concerns.'
+p3167
+aS"And while we've jousted a bit, it's been done withrespect and an appreciation for their passion and their conviction on this issue."
+p3168
+aS"I'd justlike to relate a quick vignette."
+p3169
+aS"In earlier days, when I was flying airplanes, I flew agunship -- a C1 -- it's a C-130 with guns on it."
+p3170
+aS'And there was one occasion when Iremember the following call came from the ground.'
+p3171
+aS'And it was this -- troops in contactneed help now.When an airman hears -- no matter what service -- Navy, Army, Marine Corps, Air Force-- hears "Troops in contact need help now," there is an immediate response.'
+p3172
+aS'And it isvisceral, but not necessarily as accurate or as coherent as you might like it to be if youwere -- if you could have been there for hours prior, and will remain there for hoursafter, which is the case with the remote aircraft or the drone technology today.'
+p3173
+aS'I wouldjust conclude by saying that use of drones is neither sport nor a failed tactic.'
+p3174
+aS'And youmust vote against the proposition and the adverb "fatally.'
+p3175
+aS'" Thank you.'
+p3176
+asg13
+(dp3177
+I9
+S'47'
+p3178
+ssa(dp3179
+g22
+(dp3180
 I1
 S'[applause]'
-p2321
+p3181
+sI5
+S'[applause]'
+p3182
 ssg8
-S'AHMED RASHID'
-p2322
-sg13
-(lp2323
-S'Thank you very much.'
-p2324
-asasS'after'
-p2325
-(lp2326
-S'23%-FOR'
-p2327
-aS'64%-AGAINST'
-p2328
-aS'13%-UNDECIDED'
-p2329
-asS'against'
-p2330
-(lp2331
-S'DENNIS BLAIR'
-p2332
-aS'NORTON SCHWARTZ'
-p2333
-asS'moderator'
-p2334
-(lp2335
+(lp3183
+S'Thank you, Norton Schwartz.Our motion is The U.S. Drone Program is Fatally Flawed.'
+p3184
+aS'And here to argue -- here to [[applause]] share his closing statement in support of the motion, John Kael Weston.'
+p3185
+aS'He is formerState Department Advisor to Marine units in Iraq and Afghanistan.'
+p3186
+aS'Ladies andgentlemen, John Kael Weston.'
+p3187
+asg11
 S'JOHN DONVAN'
-p2336
-asS'date'
-p2337
-(dp2338
-S'year'
-p2339
-S'2013'
-p2340
-sS'day'
-p2341
-S'10'
-p2342
-sS'month'
-p2343
-S'September'
-p2344
-ssS'before'
-p2345
-(lp2346
+p3188
+sg16
+(lp3189
+S'Thank you, Norton Schwartz.'
+p3190
+aS'Our motion is The U.S. Drone Program is Fatally Flawed.'
+p3191
+aS'And here to argue -- here to share his closing statement in support of the motion, John Kael Weston.'
+p3192
+aS'He is former State Department Advisor to Marine units in Iraq and Afghanistan.'
+p3193
+aS'Ladies and gentlemen, John Kael Weston.'
+p3194
+asa(dp3195
+g22
+(dp3196
+I21
+S'[laughter]'
+p3197
+ssg11
+S'JOHN KAEL WESTON'
+p3198
+sg16
+(lp3199
+S'Thank you.'
+p3200
+aS'And I would echo what the general just said.'
+p3201
+aS'I -- this is raising the level of debate and we should all be grateful for that.'
+p3202
+aS"I've got two minutes and I'm going to run through these pretty quickly."
+p3203
+aS'I opened with a quiz about what words or nouns, adjectives you think they associate with the United States of America after 12 years of constant warfare.'
+p3204
+aS"I don't have time to ask you what those words are, but occasionally I would hear words like Apple -- they had the Apple phone -- Obama, money."
+p3205
+aS'But unfortunately, toward the top of that list was D for drones.'
+p3206
+aS"It wasn't D for democracy."
+p3207
+aS"It actually, to be frank, wasn't the nation-building."
+p3208
+aS'It was the CT.'
+p3209
+aS'It was the counter- terrorist platform.'
+p3210
+aS'And I think we should think about that.'
+p3211
+aS'Do we want that to be kind of at the top of the list of what they think about us after 12 years, billions of dollars, thousands of Americans killed, over 100,000 Iraqis, et cetera, et cetera?'
+p3212
+aS"The second point I'm going to now just cite to the question of what happened on May 1st, 2010?"
+p3213
+aS'I think it was Admiral Blair who referenced this.'
+p3214
+aS"And I'll add a little detail."
+p3215
+aS'It was Faisal Shahzad, who just a few blocks from here tried to blow up the blue 1993 Nissan Pathfinder.'
+p3216
+aS'In that Pathfinder was three 20-gallon propane tanks, a big green metal gun locker that contained a metal pressure cooker pot, 250 pounds of urea based fertilizer, and eight plastic bags with 120 M88s.'
+p3217
+aS'The New York City police commissioner, Ray Kelly, said the bomb would have killed many.'
+p3218
+aS'The police later on said it would have had shrapnel and probably killed mostly tourists but a number of people.'
+p3219
+aS'What did Faisal Shahzad say?'
+p3220
+aS'New Yorkers get that.'
+p3221
+aS"What did -- I used to ride my mountain bike through there, but I didn't go very often -- Faisal Shahad was asked by a judge what motivated him to try and blow up that Nissan."
+p3222
+aS'Here\'s what he said, "Well, the drone hits in Afghanistan and Iraq," he said finally, "They don\'t see children.'
+p3223
+aS"They don't see anybody."
+p3224
+aS'They kill women, children.'
+p3225
+aS'They kill everybody.'
+p3226
+aS"It's a war."
+p3227
+aS'And in war they kill people.'
+p3228
+aS'" One final point, Boston Marathon bombing, April 15, 2013, I don\'t have time to read what Dzhokahar Tsarnaev said, but basically he said the same thing, "We Muslims are one body.'
+p3229
+aS'You hurt one, you hurt us all.'
+p3230
+aS'The U.S. government is killing our innocents.'
+p3231
+aS'"'
+p3232
+asg18
+(dp3233
+S'20:22:04'
+p3234
+I22
+sS'20:21:01'
+p3235
+I9
+ssg8
+(lp3236
+S'Thank you.'
+p3237
+aS'And I would echo what the general just said.'
+p3238
+aS'I -- this is raising the level ofdebate and we should all be grateful for that.'
+p3239
+aS"I've got two minutes and I'm going to runthrough these pretty quickly."
+p3240
+aS'I opened with a quiz about what words or nouns,adjectives you think they associate with the United States of America after 12 years ofconstant warfare.'
+p3241
+aS"I don't have time to ask you what those words are, but occasionally Iwould hear words like Apple -- they had the Apple phone -- Obama, money."
+p3242
+aS'Butunfortunately, toward the top of that list was D for drones.'
+p3243
+aS"It wasn't D for democracy.It actually, to be frank, wasn't the nation-building."
+p3244
+aS'It was the CT.'
+p3245
+aS'It was the counter-terrorist platform.'
+p3246
+aS"And I think we should think about that.Do we want that to be kind of at the top of the list of what they think about us after 12years, billions of dollars, thousands of Americans killed, over 100,000 Iraqis, et cetera, etcetera?The second point I'm going to now just cite to the question of what happened on May1st, 2010?"
+p3247
+aS'I think it was Admiral Blair who referenced this.'
+p3248
+aS"And I'll add a little detail."
+p3249
+aS'Itwas Faisal Shahzad, who just a few blocks from here tried to blow up the blue 1993Nissan Pathfinder.'
+p3250
+aS'In that Pathfinder was three 20-gallon propane tanks, a big greenmetal gun locker that contained a metal pressure cooker pot, 250 pounds of urea basedfertilizer, and eight plastic bags with 120 M88s.'
+p3251
+aS'The New York City police commissioner,Ray Kelly, said the bomb would have killed many.'
+p3252
+aS'The police later on said it would havehad shrapnel and probably killed mostly tourists but a number of people.'
+p3253
+aS'What didFaisal Shahzad say?'
+p3254
+aS'New Yorkers get that.What did -- I used to ride my mountain bike through there, but I didn\'t go very often -- [[laughter]] Faisal Shahad was asked by a judge what motivated him to try and blow up that Nissan.Here\'s what he said, "Well, the drone hits in Afghanistan and Iraq," he said finally, "Theydon\'t see children.'
+p3255
+aS"They don't see anybody."
+p3256
+aS'They kill women, children.'
+p3257
+aS'They killeverybody.'
+p3258
+aS"It's a war."
+p3259
+aS'And in war they kill people.'
+p3260
+aS'" One final point, Boston Marathonbombing, April 15, 2013, I don\'t have time to read what Dzhokahar Tsarnaev said, butbasically he said the same thing, "We Muslims are one body.'
+p3261
+aS'You hurt one, you hurt usall.'
+p3262
+aS'The U.S. government is killing our innocents.'
+p3263
+ag3232
+asg13
+(dp3264
+I14
+S'48'
+p3265
+ssa(dp3266
+g22
+(dp3267
+I1
+S'[applause]'
+p3268
+sI4
+S'[applause]'
+p3269
+ssg8
+(lp3270
+S"John Kael Weston, you're out of time."
+p3271
+aS'Thank you very much.Our motion is "The U.S. drone program is fatally flawed.'
+p3272
+aS'" And here to summarize his [[applause]] position against the motion, Dennis Blair, former director of national intelligence.Ladies and gentlemen, Dennis Blair.'
+p3273
+asg11
+S'JOHN DONVAN'
+p3274
+sg16
+(lp3275
+S"John Kael Weston, you're out of time."
+p3276
+aS'Thank you very much.'
+p3277
+aS'Our motion is "The U.S. drone program is fatally flawed.'
+p3278
+aS'" And here to summarize his position against the motion, Dennis Blair, former director of national intelligence.'
+p3279
+aS'Ladies and gentlemen, Dennis Blair.'
+p3280
+asa(dp3281
+g8
+(lp3282
+S"I've listened closely to our debaters on the other side."
+p3283
+aS'And there are an awful lot ofanecdote and generalization there.Let me tell a quick story from November 2011, a U.S. patrol that was on the easternborder of Afghanistan, on Pakistan, thought it was being fired on in the night, called forclose support fire.'
+p3284
+aS'A U.S. manned armed helicopter came up, under direction of theseground units fired at the units they thought were threatening them, and ended up killing24 Pakistani soldiers.'
+p3285
+aS'Things happen that are bad in war whether you have mannedsystems or unmanned systems.'
+p3286
+aS'Things happen that affect U.S.-Pakistani relationswhether you have manned systems or unmanned systems.'
+p3287
+aS'This is the nature of combatand you have to make a balanced judgment about it.'
+p3288
+aS'I do find it ironic to be on this sideof the motion because as Mr. Weston said I was one of the first people who came out inpublic against some ways in which the drones were being used in Pakistan well over twoyears ago.However, I was not against the technology itself.'
+p3289
+aS'I was against the way it was beingused at that time.'
+p3290
+aS"I think we've adjusted since that time."
+p3291
+aS"I think that's the nature of thisdynamic campaign against a group that's shown it's wanted to kill us, and has killed us inthe past, and wants to kill us in the future."
+p3292
+aS'So I believe you have to vote against thismotion.'
+p3293
+aS"That doesn't mean that you like all of the drone program, doesn't mean youthink it needs to be adjusted, changed, and the narrative needs to be improved, but Idon't think we should take it out of the hands of those who are trying to defend theUnited States."
+p3294
+aS'Thank you.'
+p3295
+asg11
+S'ADMIRAL DENNIS BLAIR'
+p3296
+sg13
+(dp3297
+I8
+S'49'
+p3298
+ssg16
+(lp3299
+S"I've listened closely to our debaters on the other side."
+p3300
+aS'And there are an awful lot of anecdote and generalization there.'
+p3301
+aS'Let me tell a quick story from November 2011, a U.S. patrol that was on the eastern border of Afghanistan, on Pakistan, thought it was being fired on in the night, called for close support fire.'
+p3302
+aS'A U.S. manned armed helicopter came up, under direction of these ground units fired at the units they thought were threatening them, and ended up killing 24 Pakistani soldiers.'
+p3303
+aS'Things happen that are bad in war whether you have manned systems or unmanned systems.'
+p3304
+aS'Things happen that affect U.S.-Pakistani relations whether you have manned systems or unmanned systems.'
+p3305
+aS'This is the nature of combat and you have to make a balanced judgment about it.'
+p3306
+aS'I do find it ironic to be on this side of the motion because as Mr. Weston said I was one of the first people who came out in public against some ways in which the drones were being used in Pakistan well over two years ago.'
+p3307
+aS'However, I was not against the technology itself.'
+p3308
+aS'I was against the way it was being used at that time.'
+p3309
+aS"I think we've adjusted since that time."
+p3310
+aS"I think that's the nature of this dynamic campaign against a group that's shown it's wanted to kill us, and has killed us in the past, and wants to kill us in the future."
+p3311
+aS'So I believe you have to vote against this motion.'
+p3312
+aS"That doesn't mean that you like all of the drone program, doesn't mean you think it needs to be adjusted, changed, and the narrative needs to be improved, but I don't think we should take it out of the hands of those who are trying to defend the United States."
+p3313
+aS'Thank you.'
+p3314
+asg18
+(dp3315
+S'20:24:09'
+p3316
+I13
+sS'20:23:03'
+p3317
+I2
+ssa(dp3318
+g22
+(dp3319
+I1
+S'[applause]'
+p3320
+sI4
+S'[applause]'
+p3321
+ssg8
+(lp3322
+S'Thank you, Dennis Blair.Our motion is "The U.S. drone program is fatally flawed," and here to summarize his [[applause]] position in support of this motion, our final speaker of the evening, Ahmed Rashid, ajournalist and author of "Pakistan on the Brink.'
+p3323
+aS'" Ladies and gentlemen, Ahmed Rashid.'
+p3324
+asg11
+S'JOHN DONVAN'
+p3325
+sg16
+(lp3326
+S'Thank you, Dennis Blair.'
+p3327
+aS'Our motion is "The U.S. drone program is fatally flawed," and here to summarize his position in support of this motion, our final speaker of the evening, Ahmed Rashid, a journalist and author of "Pakistan on the Brink.'
+p3328
+aS'" Ladies and gentlemen, Ahmed Rashid.'
+p3329
+asg18
+(dp3330
+S'20:25:05'
+p3331
+I4
+ssa(dp3332
+g8
+(lp3333
+S'I would just hope that you would consider the long term implications of what dronesmean -- will mean in the future for the United States, the day that your enemies gethold of drones and use drones against Americans.'
+p3334
+aS'The day that even your allies, thatdrones become a kind of free for all in this world.'
+p3335
+aS"After all, the whole crisis that we arefacing today over Syria is that the danger of chemical weapons becoming a free for all.Because so many rogue states hold chemical weapons, and if you allow this one to getaway then others can follow suit quite easily.And the other thing I'd really like to mention here is that the use of drones hasimmensely complicated America's relations with its allies."
+p3336
+aS'You look at the situation inthree countries where drone bases have been set up secretly, Pakistan, Saudi Arabia,and Yemen.The U.S. set up drone bases with the help of the local regime, which were invariablydictatorships of one kind or another.'
+p3337
+aS'They lied to their own people, these governments.They lied and said, "No, no, there\'s no such thing as U.S. bases here.'
+p3338
+aS"There're no dronebases here at all."
+p3339
+aS'These are -- people are being killed by artillery shells, or by bombing,or something else.'
+p3340
+aS'And what happened was that the public became more and moreanti-regime and anti-American, which led to political crises in certainly two of thesethree countries.'
+p3341
+aS'And it could well still lead to a political crisis in Saudi Arabia.'
+p3342
+aS'So, youhave now such a complicated scenario operating, where drones are creating -- I mean,one weapon, one weapon, and the use of this weapon is delegitimizing regimes in theregion and also creating immense hatred for the United States.Now, this is just one aspect of what I see as a future fraught with immense problemsrelated to drones, which we are not even beginning to think about and I --'
+p3343
+asg11
+S'AHMED RASHID'
+p3344
+sg13
+(dp3345
+I11
+S'50'
+p3346
+ssg16
+(lp3347
+S'I would just hope that you would consider the long term implications of what drones mean -- will mean in the future for the United States, the day that your enemies get hold of drones and use drones against Americans.'
+p3348
+aS'The day that even your allies, that drones become a kind of free for all in this world.'
+p3349
+aS'After all, the whole crisis that we are facing today over Syria is that the danger of chemical weapons becoming a free for all.'
+p3350
+aS'Because so many rogue states hold chemical weapons, and if you allow this one to get away then others can follow suit quite easily.'
+p3351
+aS"And the other thing I'd really like to mention here is that the use of drones has immensely complicated America's relations with its allies."
+p3352
+aS'You look at the situation in three countries where drone bases have been set up secretly, Pakistan, Saudi Arabia, and Yemen.'
+p3353
+aS'The U.S. set up drone bases with the help of the local regime, which were invariably dictatorships of one kind or another.'
+p3354
+aS'They lied to their own people, these governments.'
+p3355
+aS'They lied and said, "No, no, there\'s no such thing as U.S. bases here.'
+p3356
+aS"There're no drone bases here at all."
+p3357
+aS'These are -- people are being killed by artillery shells, or by bombing, or something else.'
+p3358
+aS'And what happened was that the public became more and more anti-regime and anti-American, which led to political crises in certainly two of these three countries.'
+p3359
+aS'And it could well still lead to a political crisis in Saudi Arabia.'
+p3360
+aS'So, you have now such a complicated scenario operating, where drones are creating -- I mean, one weapon, one weapon, and the use of this weapon is delegitimizing regimes in the region and also creating immense hatred for the United States.'
+p3361
+aS'Now, this is just one aspect of what I see as a future fraught with immense problems related to drones, which we are not even beginning to think about and I --'
+p3362
+asg18
+(dp3363
+S'20:26:02'
+p3364
+I11
+sS'20:27:02'
+p3365
+I21
+ssa(dp3366
+g8
+(lp3367
+S"Ahmed Rashid, I'm sorry."
+p3368
+aS'That -- at that point, particularly, your time is up.'
+p3369
+asg11
+S'JOHN DONVAN'
+p3370
+sg16
+(lp3371
+S"Ahmed Rashid, I'm sorry."
+p3372
+aS'That -- at that point, particularly, your time is up.'
+p3373
+asa(dp3374
+g22
+(dp3375
+I1
+S'[applause]'
+p3376
+ssg8
+(lp3377
+S'Thank you very much.'
+p3378
+asg11
+S'AHMED RASHID'
+p3379
+sg16
+(lp3380
+g3378
+asasS'after'
+p3381
+(lp3382
 S'23%-FOR'
-p2347
+p3383
+aS'64%-AGAINST'
+p3384
+aS'13%-UNDECIDED'
+p3385
+asS'against'
+p3386
+(lp3387
+S'DENNIS BLAIR'
+p3388
+aS'NORTON SCHWARTZ'
+p3389
+asS'moderator'
+p3390
+(lp3391
+S'JOHN DONVAN'
+p3392
+asS'date'
+p3393
+(dp3394
+S'year'
+p3395
+S'2013'
+p3396
+sS'day'
+p3397
+S'10'
+p3398
+sS'month'
+p3399
+S'September'
+p3400
+ssS'before'
+p3401
+(lp3402
+S'23%-FOR'
+p3403
 aS'34%-AGAINST'
-p2348
+p3404
 aS'43%-UNDECIDED'
-p2349
+p3405
 as.

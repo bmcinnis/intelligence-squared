@@ -10,5332 +10,7513 @@ asS'text'
 p5
 (lp6
 (dp7
-S'SPEAKER'
+S'FULL-TEXT'
 p8
-S'PREAMBLE'
-p9
-sS'PAGE'
+(lp9
+S'When it comes to politics, the Internet is closing our minds'
 p10
-(dp11
+asS'SPEAKER'
+p11
+S'PREAMBLE'
+p12
+sS'PAGE'
+p13
+(dp14
 I0
 S'1'
-p12
-ssS'STATEMENT'
-p13
-(lp14
-S'When it comes to politics, the Internet is closing our minds'
 p15
-asS'TIME'
+ssS'STATEMENT'
 p16
-(dp17
-I1
-S'18:45:42'
+(lp17
+g10
+asS'TIME'
 p18
-ssa(dp19
-S'BREAK'
+(dp19
+S'18:45:42'
 p20
-(dp21
+I1
+ssa(dp21
+S'BREAK'
+p22
+(dp23
 I2
 S'[applause]'
-p22
+p24
 ssg8
-S'JOHN DONVAN'
-p23
-sg13
-(lp24
-S"And now I'd like to introduce the chairman of Intelligence Squared, Mr. Robert"
-p25
-aS'Rosenkranz.'
+(lp25
+S"And now I'd like to introduce the chairman of Intelligence Squared, Mr. RobertRosenkranz."
 p26
-asa(dp27
-g20
-(dp28
+asg11
+S'JOHN DONVAN'
+p27
+sg16
+(lp28
+S"And now I'd like to introduce the chairman of Intelligence Squared, Mr. Robert Rosenkranz."
+p29
+asa(dp30
+g22
+(dp31
 I3
 S'[laughter]'
-p29
+p32
 sI5
 S'[laughter]'
-p30
-ssg8
+p33
+ssg11
 S'ROBERT ROSENKRANZ'
-p31
-sg10
-(dp32
+p34
+sg16
+(lp35
+S'Thank you and welcome.'
+p36
+aS"Well, I don't mean to be a name dropper, but last week I posed our resolution to two of my dinner partners, Rupert Murdoch and George W. Bush."
+p37
+aS'They both had strong views, and both were against the motion.'
+p38
+aS'Murdoch was vehement that FOX News is not polarizing, but presents -- -- but presents a more balanced view than the other networks and attracts an audience that is 40 percent Democrat, which I thought was an interesting statistic.'
+p39
+aS'And President Bush argued that in most of the world, the internet has opened minds to the way of life in the liberal democracies and has been a hugely constructive force for change.'
+p40
+aS'He acknowledged the extreme polarization of American politics, but blamed it on the class warfare rhetoric of his successor.'
+p41
+aS'Whenever one thinks of their points, they do illuminate some of the subtleties in the language of our resolution.'
+p42
+aS'Murdoch correctly grasped that it does not posit that the internet is the sole or even the primary driver of the narrow ideologies that seem to dominate politics.'
+p43
+aS'Rather, he understood the internet as part of a broader trend toward a highly fragmented media.'
+p44
+aS'And President Bush, by taking the resolution in a global context, prompts me to clarify that what we expect to talk about tonight is American politics.'
+p45
+aS'Why might be the internet be closing our minds?'
+p46
+aS'The first reason is that the internet makes it very easy to tailor the information we get to conform to a preconceived world view.'
+p47
+aS'We can choose news aggregators on the left or on the right, not to mention highly ideological bloggers and live our lives without encountering any contrary opinion.'
+p48
+aS'In a great little essay called, "Why Groups Go to Extremes," Cass Sunstein, the Obama administration\'s regulatory czar, demonstrated empirically that discussing issues with like-minded folks tends to make positions more extreme.'
+p49
+aS'In addition to self selection, the internet makes it easy for websites to, "personalize our offerings.'
+p50
+aS'" It seems innocuous, even helpful when Netflix tells us that the viewers who enjoyed movie A also enjoyed movie B.'
+p51
+aS'But if you Google federal deficit or Medicare reform, is it healthy for your search to come up differently than mine based on what Google has been able to infer about our political leanings?'
+p52
+aS'Those against the motion will argue that the internet is a vast information utility which facilitates search, learning and communications.'
+p53
+aS'Personalization may be a blessing, simply helping us make the choices we want to make.'
+p54
+aS"We can turn personal filters on or off, so there's no real danger here."
+p55
+aS'And little hard evidence that Google has helped us erect mental fortresses through which contrary ideas are not allowed to penetrate.'
+p56
+aS'Indeed, the filters from the pre-internet era, three like-minded networks and a handful of local newspapers, were arguably less hospitable to views outside American census than the open marketplace and information and ideas we have today.'
+p57
+aS"To illuminate the complexities here, we have four distinguished experts, and it's now my privilege to turn the evening over to them and to our moderator, John Donvan."
+p58
+asg18
+(dp59
+S'18:46:45'
+p60
+I9
+sS'18:47:46'
+p61
+I19
+sS'18:48:43'
+p62
+I29
+sS'18:49:43'
+p63
+I39
+ssg8
+(lp64
+S'Thank you and welcome.'
+p65
+aS"Well, I don't mean to be a name dropper, but last week Iposed our resolution to two of my dinner partners, Rupert Murdoch and George W.Bush.They both had strong views, and both were against the motion."
+p66
+aS'Murdoch was [[laughter]] vehement that FOX News is not polarizing, but presents ---- but presents a more balanced view than the other networks and attracts an audience [[laughter]] that is 40 percent Democrat, which I thought was an interesting statistic.'
+p67
+aS'And PresidentBush argued that in most of the world, the internet has opened minds to the way of lifein the liberal democracies and has been a hugely constructive force for change.He acknowledged the extreme polarization of American politics, but blamed it on theclass warfare rhetoric of his successor.'
+p68
+aS'Whenever one thinks of their points, they doilluminate some of the subtleties in the language of our resolution.'
+p69
+aS'Murdoch correctlygrasped that it does not posit that the internet is the sole or even the primary driver ofthe narrow ideologies that seem to dominate politics.'
+p70
+aS'Rather, he understood theinternet as part of a broader trend toward a highly fragmented media.'
+p71
+aS'And PresidentBush, by taking the resolution in a global context, prompts me to clarify that what weexpect to talk about tonight is American politics.'
+p72
+aS'Why might be the internet be closingour minds?'
+p73
+aS'The first reason is that the internet makes it very easy to tailor theinformation we get to conform to a preconceived world view.We can choose news aggregators on the left or on the right, not to mention highlyideological bloggers and live our lives without encountering any contrary opinion.'
+p74
+aS'In agreat little essay called, "Why Groups Go to Extremes," Cass Sunstein, the Obamaadministration\'s regulatory czar, demonstrated empirically that discussing issues withlike-minded folks tends to make positions more extreme.'
+p75
+aS'In addition to self selection,the internet makes it easy for websites to, "personalize our offerings.'
+p76
+aS'" It seemsinnocuous, even helpful when Netflix tells us that the viewers who enjoyed movie A alsoenjoyed movie B.'
+p77
+aS'But if you Google federal deficit or Medicare reform, is it healthy foryour search to come up differently than mine based on what Google has been able toinfer about our political leanings?Those against the motion will argue that the internet is a vast information utility whichfacilitates search, learning and communications.'
+p78
+aS'Personalization may be a blessing,simply helping us make the choices we want to make.'
+p79
+aS"We can turn personal filters on oroff, so there's no real danger here."
+p80
+aS'And little hard evidence that Google has helped userect mental fortresses through which contrary ideas are not allowed to penetrate.Indeed, the filters from the pre-internet era, three like-minded networks and a handfulof local newspapers, were arguably less hospitable to views outside American censusthan the open marketplace and information and ideas we have today.'
+p81
+aS"To illuminate thecomplexities here, we have four distinguished experts, and it's now my privilege to turnthe evening over to them and to our moderator, John Donvan."
+p82
+asg13
+(dp83
 I39
 S'3'
-p33
+p84
 sI7
 S'2'
-p34
-ssg13
-(lp35
-S"Thank you and welcome. Well, I don't mean to be a name dropper, but last week I"
-p36
-aS'posed our resolution to two of my dinner partners, Rupert Murdoch and George W.'
-p37
-aS'Bush.'
-p38
-aS'They both had strong views, and both were against the motion. Murdoch was'
-p39
-aS'vehement that FOX News is not polarizing, but presents --'
-p40
-aS'-- but presents a more balanced view than the other networks and attracts an audience'
-p41
-aS'that is 40 percent Democrat, which I thought was an interesting statistic. And President'
-p42
-aS'Bush argued that in most of the world, the internet has opened minds to the way of life'
-p43
-aS'in the liberal democracies and has been a hugely constructive force for change.'
-p44
-aS'He acknowledged the extreme polarization of American politics, but blamed it on the'
-p45
-aS'class warfare rhetoric of his successor. Whenever one thinks of their points, they do'
-p46
-aS'illuminate some of the subtleties in the language of our resolution. Murdoch correctly'
-p47
-aS'grasped that it does not posit that the internet is the sole or even the primary driver of'
-p48
-aS'the narrow ideologies that seem to dominate politics. Rather, he understood the'
-p49
-aS'internet as part of a broader trend toward a highly fragmented media. And President'
-p50
-aS'Bush, by taking the resolution in a global context, prompts me to clarify that what we'
-p51
-aS'expect to talk about tonight is American politics. Why might be the internet be closing'
-p52
-aS'our minds? The first reason is that the internet makes it very easy to tailor the'
-p53
-aS'information we get to conform to a preconceived world view.'
-p54
-aS'We can choose news aggregators on the left or on the right, not to mention highly'
-p55
-aS'ideological bloggers and live our lives without encountering any contrary opinion. In a'
-p56
-aS'great little essay called, "Why Groups Go to Extremes," Cass Sunstein, the Obama'
-p57
-aS"administration's regulatory czar, demonstrated empirically that discussing issues with"
-p58
-aS'like-minded folks tends to make positions more extreme. In addition to self selection,'
-p59
-aS'the internet makes it easy for websites to, "personalize our offerings." It seems'
-p60
-aS'innocuous, even helpful when Netflix tells us that the viewers who enjoyed movie A also'
-p61
-aS'enjoyed movie B. But if you Google federal deficit or Medicare reform, is it healthy for'
-p62
-aS'your search to come up differently than mine based on what Google has been able to'
-p63
-aS'infer about our political leanings?'
-p64
-aS'Those against the motion will argue that the internet is a vast information utility which'
-p65
-aS'facilitates search, learning and communications. Personalization may be a blessing,'
-p66
-aS'simply helping us make the choices we want to make. We can turn personal filters on or'
-p67
-aS"off, so there's no real danger here. And little hard evidence that Google has helped us"
-p68
-aS'erect mental fortresses through which contrary ideas are not allowed to penetrate.'
-p69
-aS'Indeed, the filters from the pre-internet era, three like-minded networks and a handful'
-p70
-aS'of local newspapers, were arguably less hospitable to views outside American census'
-p71
-aS'than the open marketplace and information and ideas we have today. To illuminate the'
-p72
-aS"complexities here, we have four distinguished experts, and it's now my privilege to turn"
-p73
-aS'the evening over to them and to our moderator, John Donvan.'
-p74
-asg16
-(dp75
-I9
-S'18:46:45'
-p76
-sI19
-S'18:47:46'
-p77
-sI29
-S'18:48:43'
-p78
-sI39
-S'18:49:43'
-p79
-ssa(dp80
-g20
-(dp81
+p85
+ssa(dp86
+g22
+(dp87
 I32
 S'[applause]'
-p82
+p88
 sI1
 S'[applause]'
-p83
+p89
 sI3
 S'[applause]'
-p84
+p90
 sI18
 S'[laughter]'
-p85
+p91
 sI24
 S'[applause]'
-p86
+p92
 sI26
 S'[applause]'
-p87
+p93
 sI29
 S'[applause]'
-p88
+p94
 sI30
 S'[applause]'
-p89
-ssg8
+p95
+ssg11
 S'JOHN DONVAN'
-p90
-sg10
-(dp91
+p96
+sg16
+(lp97
+S'Thank you, Robert.'
+p98
+aS'Thank you.'
+p99
+aS'And I would just like to invite one more round of applause for the benefactor of this series, Robert Rosenkranz.'
+p100
+aS'Yes or no to this statement: "When it comes to politics, the internet is closing our minds.'
+p101
+aS'" The state of the online debate, that is what we\'re debating here tonight.'
+p102
+aS'Welcome from Intelligence Squared U.S.'
+p103
+aS"I'm John Donvan."
+p104
+aS'We have four superbly qualified debaters, two against two.'
+p105
+aS"And what we're touching on here -- well, it starts with this, a sampling of this, and see if it's familiar."
+p106
+aS'This is a recent exchange among Wall Street Journal readers who were posting to each other about health care or actually posting at each other.'
+p107
+aS'Glen, the liberal, just had his argument attacked by David, the conservative.'
+p108
+aS'Glen gets mad.'
+p109
+aS'One wonders how you can even press the keys on the keyboard.'
+p110
+aS'Please just go away.'
+p111
+aS'" David responds, "Now I know you\'re a liberal because liberals are rude and will not listen to any reason.'
+p112
+aS'" A guy named Kevin joins in the attack, and he tells Glen to read up on economics and civics.'
+p113
+aS'Glen tells Kevin, "Put this in your pipe and smoke it, you pseudo intellectual rube.'
+p114
+aS'" From nowhere, a guy named Mark weighs in.'
+p115
+aS'He tells Glen that he is "intellectually challenged and advises him that he needs to get some lithium.'
+p116
+aS'" When it comes to politics, the internet is closing our minds.'
+p117
+aS'Is that what we just heard, our minds closing out there, or is it a great thing that these guys are actually out there engaging with each other at all?'
+p118
+aS'Our debate goes in three rounds, then the audience votes to choose the winner.'
+p119
+aS'Only one side wins.'
+p120
+aS'On the side for our motion, when it comes to politics, the internet is changing our minds, Eli Pariser, a board member and former executive director of MoveOn.org.'
+p121
+aS'His partner is Siva Vaidhyanathan, professor and chair of the Department of Media Studies at the University of Virginia.'
+p122
+aS'Arguing against the motion that when it comes to politics, the internet is changing our minds, Evgeny Morozov, a Schwartz fellow at the New America Foundation and author of "The Net Delusion.'
+p123
+aS'" And his partner, Jacob Weisberg, chairman and editor in chief of the Slate Group.'
+p124
+aS'Our motion is, "When it comes to politics, the Internet is closing our minds.'
+p125
+aS'" Let\'s meet our debaters now and welcome first Eli Pariser.'
+p126
+aS'And Eli, at the age of 20, you joined MoveOn.org to direct its foreign policy campaigns.'
+p127
+aS'And then a couple of years later, you became its executive director.'
+p128
+aS'You have been an online organizer all of your adult life.'
+p129
+aS'But now you are warning about the dangers of the internet.'
+p130
+aS'So what changed, you or the internet?'
+p131
+asg18
+(dp132
+S'18:51:44'
+p133
+I26
+sS'18:50:44'
+p134
+I12
+ssg8
+(lp135
+S'Thank you, Robert.Thank you.'
+p136
+aS'And I would just like to invite one more round of applause for the [[applause]] benefactor of this series, Robert Rosenkranz.Yes or no to this statement: "When it comes to politics, the internet is closing our [[applause]] minds.'
+p137
+aS'" The state of the online debate, that is what we\'re debating here tonight.Welcome from Intelligence Squared U.S.'
+p138
+aS"I'm John Donvan."
+p139
+aS'We have four superblyqualified debaters, two against two.'
+p140
+aS"And what we're touching on here -- well, it startswith this, a sampling of this, and see if it's familiar."
+p141
+aS'This is a recent exchange amongWall Street Journal readers who were posting to each other about health care oractually posting at each other.'
+p142
+aS'Glen, the liberal, just had his argument attacked byDavid, the conservative.'
+p143
+aS'Glen gets mad.'
+p144
+aS'One wonders how you can even press thekeys on the keyboard.'
+p145
+aS'Please just go away.'
+p146
+aS'"David responds, "Now I know you\'re a liberal because liberals are rude and will notlisten to any reason.'
+p147
+aS'" A guy named Kevin joins in the attack, and he tells Glen to read upon economics and civics.'
+p148
+aS'Glen tells Kevin, "Put this in your pipe and smoke it, youpseudo intellectual rube.'
+p149
+aS'" From nowhere, a guy named Mark weighs in.'
+p150
+aS'He tells Glenthat he is "intellectually challenged and advises him that he needs to get somelithium.'
+p151
+aS'"When it comes to politics, the internet is closing our minds.'
+p152
+aS'Is that what we just heard, [[laughter]] our minds closing out there, or is it a great thing that these guys are actually out thereengaging with each other at all?'
+p153
+aS'Our debate goes in three rounds, then the audiencevotes to choose the winner.'
+p154
+aS'Only one side wins.'
+p155
+aS'On the side for our motion, when itcomes to politics, the internet is changing our minds, Eli Pariser, a board member andformer executive director of MoveOn.org.His partner is Siva Vaidhyanathan, professor and chair of the Department of Media [[applause]] Studies at the University of Virginia.Arguing against the motion that when it comes to politics, the internet is changing our [[applause]] minds, Evgeny Morozov, a Schwartz fellow at the New America Foundation and authorof "The Net Delusion.'
+p156
+aS'"And his partner, Jacob Weisberg, chairman and editor in chief of the Slate Group.'
+p157
+aS'[[applause]] Our motion is, "When it comes to politics, the Internet is closing our minds.'
+p158
+aS'" Let\'s meet [[applause]] our debaters now and welcome first Eli Pariser.And Eli, at the age of 20, you joined MoveOn.org to direct its foreign policy campaigns.'
+p159
+aS'[[applause]] And then a couple of years later, you became its executive director.'
+p160
+aS'You have been anonline organizer all of your adult life.'
+p161
+aS'But now you are warning about the dangers of theinternet.'
+p162
+aS'So what changed, you or the internet?'
+p163
+asg13
+(dp164
 I26
 S'4'
-p92
-ssg13
-(lp93
-S'Thank you, Robert.'
-p94
-aS'Thank you. And I would just like to invite one more round of applause for the'
-p95
-aS'benefactor of this series, Robert Rosenkranz.'
-p96
-aS'Yes or no to this statement: "When it comes to politics, the internet is closing our'
-p97
-aS'minds." The state of the online debate, that is what we\'re debating here tonight.'
-p98
-aS"Welcome from Intelligence Squared U.S. I'm John Donvan. We have four superbly"
-p99
-aS"qualified debaters, two against two. And what we're touching on here -- well, it starts"
-p100
-aS"with this, a sampling of this, and see if it's familiar. This is a recent exchange among"
-p101
-aS'Wall Street Journal readers who were posting to each other about health care or'
-p102
-aS'actually posting at each other. Glen, the liberal, just had his argument attacked by'
-p103
-aS'David, the conservative. Glen gets mad. One wonders how you can even press the'
-p104
-aS'keys on the keyboard. Please just go away."'
-p105
-aS'David responds, "Now I know you\'re a liberal because liberals are rude and will not'
-p106
-aS'listen to any reason." A guy named Kevin joins in the attack, and he tells Glen to read up'
-p107
-aS'on economics and civics. Glen tells Kevin, "Put this in your pipe and smoke it, you'
-p108
-aS'pseudo intellectual rube." From nowhere, a guy named Mark weighs in. He tells Glen'
-p109
-aS'that he is "intellectually challenged and advises him that he needs to get some'
-p110
-aS'lithium."'
-p111
-aS'When it comes to politics, the internet is closing our minds. Is that what we just heard,'
-p112
-aS'our minds closing out there, or is it a great thing that these guys are actually out there'
-p113
-aS'engaging with each other at all? Our debate goes in three rounds, then the audience'
-p114
-aS'votes to choose the winner. Only one side wins. On the side for our motion, when it'
-p115
-aS'comes to politics, the internet is changing our minds, Eli Pariser, a board member and'
-p116
-aS'former executive director of MoveOn.org.'
-p117
-aS'His partner is Siva Vaidhyanathan, professor and chair of the Department of Media'
-p118
-aS'Studies at the University of Virginia.'
-p119
-aS'Arguing against the motion that when it comes to politics, the internet is changing our'
-p120
-aS'minds, Evgeny Morozov, a Schwartz fellow at the New America Foundation and author'
-p121
-aS'of "The Net Delusion."'
-p122
-aS'And his partner, Jacob Weisberg, chairman and editor in chief of the Slate Group.'
-p123
-aS'Our motion is, "When it comes to politics, the Internet is closing our minds." Let\'s meet'
-p124
-aS'our debaters now and welcome first Eli Pariser.'
-p125
-aS'And Eli, at the age of 20, you joined MoveOn.org to direct its foreign policy campaigns.'
-p126
-aS'And then a couple of years later, you became its executive director. You have been an'
-p127
-aS'online organizer all of your adult life. But now you are warning about the dangers of the'
-p128
-aS'internet. So what changed, you or the internet?'
-p129
-asg16
-(dp130
-I26
-S'18:51:44'
-p131
-sI12
-S'18:50:44'
-p132
-ssa(dp133
+p165
+ssa(dp166
 g8
-S'ELI PARISER'
-p134
-sg13
-(lp135
+(lp167
 S'The internet changed more than I did.'
-p136
-asa(dp137
-g20
-(dp138
+p168
+asg11
+S'ELI PARISER'
+p169
+sg16
+(lp170
+g168
+asa(dp171
+g22
+(dp172
 I2
 S'[applause]'
-p139
+p173
 ssg8
+(lp174
+S'All right.'
+p175
+aS"We'll see when you -- when you get up there, we're going to see what youmean by that."
+p176
+aS"Your debating partner, let's welcome Siva Vaidhyanathan.Siva, you are a professor and Department of Media Studies chair at the University of [[applause]] Virginia."
+p177
+aS'You\'re also author of this book, "The Googlization of Everything and Why WeShould Worry.'
+p178
+aS'" This is actually your second debate with us.'
+p179
+aS'And the first time you weredebating for the motion, "Google violates its don\'t be evil motto," and you won.'
+p180
+aS'Do youstill think -- do you still think Google is evil?'
+p181
+asg11
 S'JOHN DONVAN'
-p140
-sg13
-(lp141
-S"All right. We'll see when you -- when you get up there, we're going to see what you"
-p142
-aS"mean by that. Your debating partner, let's welcome Siva Vaidhyanathan."
-p143
-aS'Siva, you are a professor and Department of Media Studies chair at the University of'
-p144
-aS'Virginia. You\'re also author of this book, "The Googlization of Everything and Why We'
-p145
-aS'Should Worry." This is actually your second debate with us. And the first time you were'
-p146
-aS'debating for the motion, "Google violates its don\'t be evil motto," and you won. Do you'
-p147
-aS'still think -- do you still think Google is evil?'
-p148
-asg16
-(dp149
-I2
+p182
+sg16
+(lp183
+S'All right.'
+p184
+aS"We'll see when you -- when you get up there, we're going to see what you mean by that."
+p185
+aS"Your debating partner, let's welcome Siva Vaidhyanathan."
+p186
+aS'Siva, you are a professor and Department of Media Studies chair at the University of Virginia.'
+p187
+aS'You\'re also author of this book, "The Googlization of Everything and Why We Should Worry.'
+p188
+aS'" This is actually your second debate with us.'
+p189
+aS'And the first time you were debating for the motion, "Google violates its don\'t be evil motto," and you won.'
+p190
+aS'Do you still think -- do you still think Google is evil?'
+p191
+asg18
+(dp192
 S'18:52:46'
-p150
-ssa(dp151
-g20
-(dp152
+p193
+I2
+ssa(dp194
+g22
+(dp195
 I3
 S'[laughter]'
-p153
+p196
 ssg8
+(lp197
+S'Well, I never thought Google was evil, but I did think that was an impossible standardfor any company to hold, so it was actually not that hard to win.'
+p198
+aS"I think the reallyinteresting question is, does Google think I'm evil."
+p199
+asg11
 S'SIVA VAIDHYANATHAN'
-p154
-sg10
-(dp155
+p200
+sg13
+(dp201
 I3
 S'5'
-p156
-ssg13
-(lp157
-S'Well, I never thought Google was evil, but I did think that was an impossible standard'
-p158
-aS'for any company to hold, so it was actually not that hard to win. I think the really'
-p159
-aS"interesting question is, does Google think I'm evil."
-p160
-asa(dp161
-g20
-(dp162
-I8
-S'[laughter]'
-p163
-sI2
-S'[applause]'
-p164
-ssg8
-S'JOHN DONVAN'
-p165
-sg13
-(lp166
-S'Thank you. Our motion is, "When it comes to politics, the Internet is closing our minds."'
-p167
-aS"Let's meet the team arguing against. First, Evgeny Morozov."
-p168
-aS"You're a visiting fellow at Stanford University, a Schwartz fellow at the New America"
-p169
-aS'Foundation. You wrote a book also, "The Net Delusion: The Dark Side of Internet'
-p170
-aS'Freedom." You have said -- this was in a TED talk, that when the internet reaches a'
-p171
-aS'remote Russian village, people are not going to be sitting there watching reports from'
-p172
-aS"Human Rights Watch; they're going to be watching pornography, Sex and the City or"
-p173
-aS'maybe funny videos of cats.'
-p174
-aS'So how worried are you about these cat videos?'
-p175
-asg16
-(dp176
-I8
-S'18:53:51'
-p177
-ssa(dp178
-g20
-(dp179
-I2
-S'[laughter]'
-p180
-ssg8
-S'EVGENY MOROZOV'
-p181
-sg13
-(lp182
-S'Well, cats, I think are the new opium of the masses. And the the have'
-p183
-aS'figured it out, and they exploit perfectly a little thought control.'
-p184
-asa(dp185
-g20
-(dp186
-I1
-S'[applause]'
-p187
-ssg8
-S'JOHN DONVAN'
-p188
-sg13
-(lp189
-S"Thank you. And let's meet your debating partner, Jacob Weisberg."
-p190
-aS'Jacob, you are chairman and editor in chief of the Slate Group. Now, you wrote for'
-p191
-aS'print, for everybody in the old days, the New Republic, New York Magazine, Financial'
-p192
-aS'Times among other places. But in 1996, you joined a new online magazine called Slate'
-p193
-aS'as its chief political correspondent. That was very early in the game. So what did you'
-p194
-aS'know back then?'
-p195
-asa(dp196
-g8
-S'JACOB WEISBERG'
-p197
-sg10
-(dp198
-I3
-S'6'
-p199
-ssg13
-(lp200
-S'Well, John, I was an early visionary. No, actually, I got very lucky when my friend,'
-p201
-aS'Michael Kinsley decided to found Slate, and it seemed like a fun thing to do. And it turns'
 p202
-aS"out it's impossible to go back."
-p203
-aS'The internet spoils you as a writer because of the freedom you have and the speed.'
+ssg16
+(lp203
+S'Well, I never thought Google was evil, but I did think that was an impossible standard for any company to hold, so it was actually not that hard to win.'
 p204
-asg16
-(dp205
-I3
-S'18:54:44'
-p206
-ssa(dp207
-g20
-(dp208
-I1
+aS"I think the really interesting question is, does Google think I'm evil."
+p205
+asa(dp206
+g22
+(dp207
+I8
+S'[laughter]'
+p208
+sI2
 S'[applause]'
 p209
+ssg8
+(lp210
+S'Thank you.'
+p211
+aS'Our motion is, "When it comes to politics, the Internet is closing our minds.'
+p212
+aS'"Let\'s meet the team arguing against.'
+p213
+aS"First, Evgeny Morozov.You're a visiting fellow at Stanford University, a Schwartz fellow at the New America [[applause]] Foundation."
+p214
+aS'You wrote a book also, "The Net Delusion: The Dark Side of InternetFreedom.'
+p215
+aS'" You have said -- this was in a TED talk, that when the internet reaches aremote Russian village, people are not going to be sitting there watching reports fromHuman Rights Watch; they\'re going to be watching pornography, Sex and the City ormaybe funny videos of cats.So how worried are you about these cat videos?'
+p216
+aS'[[laughter]] '
+p217
+asg11
+S'JOHN DONVAN'
+p218
+sg16
+(lp219
+S'Thank you.'
+p220
+aS'Our motion is, "When it comes to politics, the Internet is closing our minds.'
+p221
+aS'" Let\'s meet the team arguing against.'
+p222
+aS'First, Evgeny Morozov.'
+p223
+aS"You're a visiting fellow at Stanford University, a Schwartz fellow at the New America Foundation."
+p224
+aS'You wrote a book also, "The Net Delusion: The Dark Side of Internet Freedom.'
+p225
+aS'" You have said -- this was in a TED talk, that when the internet reaches a remote Russian village, people are not going to be sitting there watching reports from Human Rights Watch; they\'re going to be watching pornography, Sex and the City or maybe funny videos of cats.'
+p226
+aS'So how worried are you about these cat videos?'
+p227
+asg18
+(dp228
+S'18:53:51'
+p229
+I8
+ssa(dp230
+g22
+(dp231
+I2
+S'[laughter]'
+p232
+ssg8
+(lp233
+S'Well, cats, I think are the new opium of the masses.'
+p234
+aS'And the the havefigured it out, and they exploit perfectly a little thought control.'
+p235
+asg11
+S'EVGENY MOROZOV'
+p236
+sg16
+(lp237
+S'Well, cats, I think are the new opium of the masses.'
+p238
+aS'And the the have figured it out, and they exploit perfectly a little thought control.'
+p239
+asa(dp240
+g22
+(dp241
+I1
+S'[applause]'
+p242
+ssg8
+(lp243
+S'Thank you.'
+p244
+aS"And let's meet your debating partner, Jacob Weisberg.Jacob, you are chairman and editor in chief of the Slate Group."
+p245
+aS'Now, you wrote for [[applause]] print, for everybody in the old days, the New Republic, New York Magazine, FinancialTimes among other places.'
+p246
+aS'But in 1996, you joined a new online magazine called Slateas its chief political correspondent.'
+p247
+aS'That was very early in the game.'
+p248
+aS'So what did youknow back then?'
+p249
+asg11
+S'JOHN DONVAN'
+p250
+sg16
+(lp251
+S'Thank you.'
+p252
+aS"And let's meet your debating partner, Jacob Weisberg."
+p253
+aS'Jacob, you are chairman and editor in chief of the Slate Group.'
+p254
+aS'Now, you wrote for print, for everybody in the old days, the New Republic, New York Magazine, Financial Times among other places.'
+p255
+aS'But in 1996, you joined a new online magazine called Slate as its chief political correspondent.'
+p256
+aS'That was very early in the game.'
+p257
+aS'So what did you know back then?'
+p258
+asa(dp259
+g8
+(lp260
+S'Well, John, I was an early visionary.'
+p261
+aS'No, actually, I got very lucky when my friend,Michael Kinsley decided to found Slate, and it seemed like a fun thing to do.'
+p262
+aS"And it turnsout it's impossible to go back.The internet spoils you as a writer because of the freedom you have and the speed."
+p263
+asg11
+S'JACOB WEISBERG'
+p264
+sg13
+(dp265
+I3
+S'6'
+p266
+ssg16
+(lp267
+S'Well, John, I was an early visionary.'
+p268
+aS'No, actually, I got very lucky when my friend, Michael Kinsley decided to found Slate, and it seemed like a fun thing to do.'
+p269
+aS"And it turns out it's impossible to go back."
+p270
+aS'The internet spoils you as a writer because of the freedom you have and the speed.'
+p271
+asg18
+(dp272
+S'18:54:44'
+p273
+I3
+ssa(dp274
+g22
+(dp275
+I1
+S'[applause]'
+p276
 sI21
 S'[applause]'
-p210
+p277
 ssg8
+(lp278
+S'All right.'
+p279
+aS'Thank you, Jacob Weisberg.'
+p280
+aS'Our four debaters, ladies and gentlemen.Now, in this debate, you, our audience, are our judges.'
+p281
+aS"By the time the debate has [[applause]] ended, we're going to have asked you to vote two times, once before the debate andonce again after the debate on the language motion and on your position on it bothbefore and after."
+p282
+aS'And what we want to ask you to do now is go to the key pads at yourseat.'
+p283
+aS"On the right hand side, you'll see a keypad."
+p284
+aS"And we'll ask you to vote yoursentiment on this motion as you're coming off the street."
+p285
+aS'Our motion is, "When itcomes to politics, the Internet is closing our minds.'
+p286
+aS'" If you agree with it, push numberone.'
+p287
+aS'If you disagree, push number two.'
+p288
+aS"If you're undecided, push number three."
+p289
+aS'Andyou can ignore the other keys.'
+p290
+aS'And if you want to correct your entry, just correct it, andthe system will register your last vote.'
+p291
+aS"So that's locked out now.Again, at the end of the debate, we're going to ask you to vote on the quality of thearguments that were presented here tonight, and the team that has the greatestdifferential between this opening vote and the closing vote will be declared by you, ouraudience, their winners."
+p292
+aS'So we go in three rounds.'
+p293
+aS'The first round is seven minutes,each, uninterrupted by each speaker in turn.'
+p294
+aS'So on to round one, opening statementsfrom each of our debaters, and going up first for our motion, which is, "When it comesto politics, the Internet is closing our minds," Eli Pariser.'
+p295
+aS'He\'s a MoveOn.org boardmember, CEO of Upworthy.com, and author of, "The Filter Bubble, What the Internet isHiding from You.'
+p296
+aS'" That book was the inspiration for our having this debate tonight.Ladies and gentlemen, Eli Pariser.'
+p297
+asg11
 S'JOHN DONVAN'
-p211
-sg13
-(lp212
-S'All right. Thank you, Jacob Weisberg. Our four debaters, ladies and gentlemen.'
-p213
-aS'Now, in this debate, you, our audience, are our judges. By the time the debate has'
-p214
-aS"ended, we're going to have asked you to vote two times, once before the debate and"
-p215
-aS'once again after the debate on the language motion and on your position on it both'
-p216
-aS'before and after. And what we want to ask you to do now is go to the key pads at your'
-p217
-aS"seat. On the right hand side, you'll see a keypad. And we'll ask you to vote your"
-p218
-aS'sentiment on this motion as you\'re coming off the street. Our motion is, "When it'
-p219
-aS'comes to politics, the Internet is closing our minds." If you agree with it, push number'
-p220
-aS"one. If you disagree, push number two. If you're undecided, push number three. And"
-p221
-aS'you can ignore the other keys. And if you want to correct your entry, just correct it, and'
-p222
-aS"the system will register your last vote. So that's locked out now."
-p223
-aS"Again, at the end of the debate, we're going to ask you to vote on the quality of the"
-p224
-aS'arguments that were presented here tonight, and the team that has the greatest'
-p225
-aS'differential between this opening vote and the closing vote will be declared by you, our'
-p226
-aS'audience, their winners. So we go in three rounds. The first round is seven minutes,'
-p227
-aS'each, uninterrupted by each speaker in turn. So on to round one, opening statements'
-p228
-aS'from each of our debaters, and going up first for our motion, which is, "When it comes'
-p229
-aS'to politics, the Internet is closing our minds," Eli Pariser. He\'s a MoveOn.org board'
-p230
-aS'member, CEO of Upworthy.com, and author of, "The Filter Bubble, What the Internet is'
-p231
-aS'Hiding from You." That book was the inspiration for our having this debate tonight.'
-p232
+p298
+sg16
+(lp299
+S'All right.'
+p300
+aS'Thank you, Jacob Weisberg.'
+p301
+aS'Our four debaters, ladies and gentlemen.'
+p302
+aS'Now, in this debate, you, our audience, are our judges.'
+p303
+aS"By the time the debate has ended, we're going to have asked you to vote two times, once before the debate and once again after the debate on the language motion and on your position on it both before and after."
+p304
+aS'And what we want to ask you to do now is go to the key pads at your seat.'
+p305
+aS"On the right hand side, you'll see a keypad."
+p306
+aS"And we'll ask you to vote your sentiment on this motion as you're coming off the street."
+p307
+aS'Our motion is, "When it comes to politics, the Internet is closing our minds.'
+p308
+aS'" If you agree with it, push number one.'
+p309
+aS'If you disagree, push number two.'
+p310
+aS"If you're undecided, push number three."
+p311
+aS'And you can ignore the other keys.'
+p312
+aS'And if you want to correct your entry, just correct it, and the system will register your last vote.'
+p313
+aS"So that's locked out now."
+p314
+aS"Again, at the end of the debate, we're going to ask you to vote on the quality of the arguments that were presented here tonight, and the team that has the greatest differential between this opening vote and the closing vote will be declared by you, our audience, their winners."
+p315
+aS'So we go in three rounds.'
+p316
+aS'The first round is seven minutes, each, uninterrupted by each speaker in turn.'
+p317
+aS'So on to round one, opening statements from each of our debaters, and going up first for our motion, which is, "When it comes to politics, the Internet is closing our minds," Eli Pariser.'
+p318
+aS'He\'s a MoveOn.org board member, CEO of Upworthy.com, and author of, "The Filter Bubble, What the Internet is Hiding from You.'
+p319
+aS'" That book was the inspiration for our having this debate tonight.'
+p320
 aS'Ladies and gentlemen, Eli Pariser.'
-p233
-asg16
-(dp234
-I11
+p321
+asg18
+(dp322
 S'18:55:41'
-p235
-ssa(dp236
-g20
-(dp237
+p323
+I11
+ssa(dp324
+g22
+(dp325
 I89
 S'[applause]'
-p238
-ssg8
+p326
+ssg11
 S'ELI PARISER'
-p239
-sg10
-(dp240
+p327
+sg16
+(lp328
+S'Good evening, everyone.'
+p329
+aS'I find myself arguing that the Internet is closing our minds with a bit of regret.'
+p330
+aS"This isn't the place that I would want to be, and actually as of a few years ago I would have been arguing the other side, but I've come to believe that the -- well, the Internet is incredibly good at getting groups of likeminded people to get together, think together, work together."
+p331
+aS"But it's actually quite bad at bridging between groups of different people, and that the view that the Internet is exposing us to all sorts of new ways of thinking and new ideas is kind of a dated view, that the Internet's changing, and that there are a few big companies that would like us to hold onto that idea that the Internet is still this kind of open place."
+p332
+aS'So the core of my argument is this, attention is the most valuable commodity out there right now.'
+p333
+aS"If you command attention, then you can direct it towards products or services and you can make a lot of money, and that's why all of the big companies on the Internet are trying to figure out what the best strategy is for gathering as much of it as possible."
+p334
+aS"And most of them are focused on the same strategy which is gathering as much data about us as they can and then using that data to give us what they think, what they predict, based on their -- this data and their algorithms, we're going to be interested in."
+p335
+aS'Relevance is the big watchword here.'
+p336
+aS"So, you know, if you talk to these companies, if you look at what they're saying, it's very clear that this is a big part of the business plan."
+p337
+aS'Eric Schmidt says, "Very soon it will be nearly impossible to see something that has not in some way been tailored to you.'
+p338
+aS'" Sheryl Sandberg of Facebook, says, "Within the next few years, it\'ll be anachronistic to visit a website that hasn\'t been customized to your personal interests in some way.'
+p339
+aS'" And Facebook is becoming this growing source of how people get their news and how people get their information.'
+p340
+aS'So why are they doing this?'
+p341
+aS'Well, I think Evgeny actually put it really well.'
+p342
+aS'Why does Facebook employ filters?'
+p343
+aS'The more they know about us, the more they can make in advertising revenues.'
+p344
+aS"And the thing is that these companies aren't blind to the psychology of all this."
+p345
+aS"They've read all of the studies that show that when you present people with information that confirms what they already believed was true, you can actually see these little bursts of pleasure happening in people's brains."
+p346
+aS'And conversely, when people are presented with information that challenges what they believed, they get cranky.'
+p347
+aS"That's just the way we're wired."
+p348
+aS"And so if you're a company that's trying to meet stockholder demands and you have this power to present people with information that tends to validate them, why wouldn't you?"
+p349
+aS"As a result of this kind of personalization and self selection, we're more likely to see things we agree with and less likely to see things we disagree with."
+p350
+aS"Now, to be clear, I'm not arguing that all personalization is bad."
+p351
+aS'Personalization certainly can have benefits.'
+p352
+aS"I'm a Netflix user."
+p353
+aS'But the question is, what are the driving motives behind the kind of personalization that most people use, and what are the effects of that personalization?'
+p354
+aS"And I'll argue that because of the motives of these companies, those filters that they're building are going to tend to surround us with information that's agreeable to us and not with information that's uncomfortable."
+p355
+aS'So a few examples of what this looks like in practice, it looks like one person googling Egypt and seeing lots of information about the Arab Spring and another person googling Egypt at the same time and seeing nothing about the Arab Spring.'
+p356
+aS"This actually happened, I've got the screenshots on my website."
+p357
+aS"And, you know, I could run through a number of other anecdotes, but actually there's been a study -- the only peer reviewed study I'm aware of on the Google search results and the effects of personalization there -- that shows that 60 percent of the search results on a given front page are usually personalized."
+p358
+aS"Either they're in a different order or they're actually, you know, totally different results based on who Google thinks you are and what it thinks you'll be interested in."
+p359
+aS'So what I think we have to begin to do is to tease apart what the Internet actually does from what we wish it would do or what it possibly could do.'
+p360
+aS"And in particular we have to tease apart what's possible to access versus what people do access."
+p361
+aS"For example, now that the -- it's easy now to access the front page of Le Monde or Die Zeit, as it is, in fact to access the New York Times."
+p362
+aS'So you would think, given this vast increase in accessibility of foreign policy, information, of whats going on in other countries, that people would know more about whats going on there.'
+p363
+aS'In fact thats not true.'
+p364
+aS'According to a Pew study from 2007, people actually were more informed on foreign policy matters before the internet than in 2007.'
+p365
+aS'So when Jacob says you can find more sources than ever, its kind of beside the point.'
+p366
+aS'Whats relevant is that people come into daily contact more frequently, is whether people come into daily contact with more different sources and more particular, different ideological ones.'
+p367
+aS'I agree here again with Evgeny who says the regular folk dont read sites like Global Voices, an aggregator of the most interesting blog posts from all over the world.'
+p368
+aS'Instead they are more likely to use the internet to rediscover their own culture and dare we say it, their own national bigotry.'
+p369
+aS'So to summarize, big companies are rapidly working to personalize your version of the web.'
+p370
+aS'They want to show you what they think youre going to be interested in.'
+p371
+aS"And this isn't passive."
+p372
+aS'This isnt me turning on Fox News or me turning on -- or picking up a copy of the Nation.'
+p373
+aS'This is embedded in an increasing number of websites.'
+p374
+aS'Yahoo News in 2007, was a gateway for 80 million people that looked the same.'
+p375
+aS'But now, Yahoo runs 13 million different variations of Yahoo News front page every day.'
+p376
+aS'And theyre different for each person.'
+p377
+aS'Its hard to even see.'
+p378
+aS'We dont know how tailored our view of the web is because you have to sit down next to someone else and look at the differences.'
+p379
+aS'So the object of this personalization is to get us to click more.'
+p380
+aS'Its to get us to like more.'
+p381
+aS'And importantly, its to get us to click on ads.'
+p382
+aS'And theres little benefit in that world to presenting us with information that makes us uncomfortable, that challenges our views, or that makes us think differently.'
+p383
+aS'I dont think that this has caused the extreme political polarization that were seeing right now.'
+p384
+aS'But I think it cant help but exacerbate it.'
+p385
+aS'Google says that its trying to provide relevance.'
+p386
+aS'But what is the most relevant search result when youre a 9/11 conspiracy theorist googling 9/11?'
+p387
+aS'Is it the conspiracy links that Googles algorithm would tend to promote or is it the Popular Mechanics article that would debunk that stuff?'
+p388
+aS'I asked Google this question and they didnt really have a clear answer.'
+p389
+aS'So its with regret that I think the Internet is not living up to its potential.'
+p390
+aS'The way that most people actually use the thing isnt to broaden their political perspectives.'
+p391
+aS'In fact the path that we generally travel on online will tend to mirror our political views.'
+p392
+aS'Thank you.'
+p393
+asg18
+(dp394
+S'18:57:45'
+p395
+I17
+sS'18:56:50'
+p396
+I5
+sS'18:59:38'
+p397
+I42
+sS'18:58:44'
+p398
+I30
+sS'19:01:44'
+p399
+I68
+sS'19:00:47'
+p400
+I56
+sS'19:02:42'
+p401
+I81
+ssg8
+(lp402
+S'Good evening, everyone.'
+p403
+aS'I find myself arguing that the Internet is closing our mindswith a bit of regret.'
+p404
+aS"This isn't the place that I would want to be, and actually as of a fewyears ago I would have been arguing the other side, but I've come to believe that the --well, the Internet is incredibly good at getting groups of likeminded people to gettogether, think together, work together.But it's actually quite bad at bridging between groups of different people, and that theview that the Internet is exposing us to all sorts of new ways of thinking and new ideas iskind of a dated view, that the Internet's changing, and that there are a few bigcompanies that would like us to hold onto that idea that the Internet is still this kind ofopen place."
+p405
+aS'So the core of my argument is this, attention is the most valuablecommodity out there right now.'
+p406
+aS"If you command attention, then you can direct ittowards products or services and you can make a lot of money, and that's why all of thebig companies on the Internet are trying to figure out what the best strategy is forgathering as much of it as possible."
+p407
+aS"And most of them are focused on the same strategywhich is gathering as much data about us as they can and then using that data to give uswhat they think, what they predict, based on their -- this data and their algorithms,we're going to be interested in.Relevance is the big watchword here."
+p408
+aS'So, you know, if you talk to these companies, ifyou look at what they\'re saying, it\'s very clear that this is a big part of the business plan.Eric Schmidt says, "Very soon it will be nearly impossible to see something that has notin some way been tailored to you.'
+p409
+aS'" Sheryl Sandberg of Facebook, says, "Within the nextfew years, it\'ll be anachronistic to visit a website that hasn\'t been customized to yourpersonal interests in some way.'
+p410
+aS'" And Facebook is becoming this growing source of howpeople get their news and how people get their information.'
+p411
+aS'So why are they doingthis?'
+p412
+aS'Well, I think Evgeny actually put it really well.'
+p413
+aS'Why does Facebook employ filters?The more they know about us, the more they can make in advertising revenues.'
+p414
+aS"Andthe thing is that these companies aren't blind to the psychology of all this."
+p415
+aS"They've readall of the studies that show that when you present people with information thatconfirms what they already believed was true, you can actually see these little bursts ofpleasure happening in people's brains.And conversely, when people are presented with information that challenges what theybelieved, they get cranky."
+p416
+aS"That's just the way we're wired."
+p417
+aS"And so if you're a companythat's trying to meet stockholder demands and you have this power to present peoplewith information that tends to validate them, why wouldn't you?"
+p418
+aS"As a result of this kindof personalization and self selection, we're more likely to see things we agree with andless likely to see things we disagree with."
+p419
+aS"Now, to be clear, I'm not arguing that allpersonalization is bad."
+p420
+aS'Personalization certainly can have benefits.'
+p421
+aS"I'm a Netflix user.But the question is, what are the driving motives behind the kind of personalization thatmost people use, and what are the effects of that personalization?"
+p422
+aS"And I'll argue thatbecause of the motives of these companies, those filters that they're building are goingto tend to surround us with information that's agreeable to us and not with informationthat's uncomfortable.So a few examples of what this looks like in practice, it looks like one person googlingEgypt and seeing lots of information about the Arab Spring and another person googlingEgypt at the same time and seeing nothing about the Arab Spring."
+p423
+aS"This actuallyhappened, I've got the screenshots on my website."
+p424
+aS"And, you know, I could run througha number of other anecdotes, but actually there's been a study -- the only peerreviewed study I'm aware of on the Google search results and the effects ofpersonalization there -- that shows that 60 percent of the search results on a given frontpage are usually personalized."
+p425
+aS"Either they're in a different order or they're actually, youknow, totally different results based on who Google thinks you are and what it thinksyou'll be interested in."
+p426
+aS'So what I think we have to begin to do is to tease apart what theInternet actually does from what we wish it would do or what it possibly could do.'
+p427
+aS"Andin particular we have to tease apart what's possible to access versus what people doaccess."
+p428
+aS"For example, now that the -- it's easy now to access the front page of Le Mondeor Die Zeit, as it is, in fact to access the New York Times.So you would think, given this vast increase in accessibility of foreign policy,information, of whats going on in other countries, that people would know more aboutwhats going on there."
+p429
+aS'In fact thats not true.'
+p430
+aS'According to a Pew study from 2007,people actually were more informed on foreign policy matters before the internet thanin 2007.'
+p431
+aS'So when Jacob says you can find more sources than ever, its kind of beside thepoint.'
+p432
+aS'Whats relevant is that people come into daily contact more frequently, iswhether people come into daily contact with more different sources and moreparticular, different ideological ones.'
+p433
+aS'I agree here again with Evgeny who says theregular folk dont read sites like Global Voices, an aggregator of the most interestingblog posts from all over the world.'
+p434
+aS'Instead they are more likely to use the internet torediscover their own culture and dare we say it, their own national bigotry.'
+p435
+aS'So tosummarize, big companies are rapidly working to personalize your version of the web.They want to show you what they think youre going to be interested in.'
+p436
+aS"And this isn'tpassive."
+p437
+aS'This isnt me turning on Fox News or me turning on -- or picking up a copy ofthe Nation.'
+p438
+aS'This is embedded in an increasing number of websites.'
+p439
+aS'Yahoo News in 2007,was a gateway for 80 million people that looked the same.'
+p440
+aS'But now, Yahoo runs 13million different variations of Yahoo News front page every day.'
+p441
+aS'And theyre differentfor each person.'
+p442
+aS'Its hard to even see.'
+p443
+aS'We dont know how tailored our view of the webis because you have to sit down next to someone else and look at the differences.'
+p444
+aS'Sothe object of this personalization is to get us to click more.'
+p445
+aS'Its to get us to like more.And importantly, its to get us to click on ads.'
+p446
+aS'And theres little benefit in that world topresenting us with information that makes us uncomfortable, that challenges our views,or that makes us think differently.'
+p447
+aS'I dont think that this has caused the extremepolitical polarization that were seeing right now.'
+p448
+aS'But I think it cant help but exacerbateit.Google says that its trying to provide relevance.'
+p449
+aS'But what is the most relevant searchresult when youre a 9/11 conspiracy theorist googling 9/11?'
+p450
+aS'Is it the conspiracy linksthat Googles algorithm would tend to promote or is it the Popular Mechanics articlethat would debunk that stuff?'
+p451
+aS'I asked Google this question and they didnt really have aclear answer.'
+p452
+aS'So its with regret that I think the Internet is not living up to its potential.The way that most people actually use the thing isnt to broaden their politicalperspectives.'
+p453
+aS'In fact the path that we generally travel on online will tend to mirror ourpolitical views.'
+p454
+aS'Thank you.'
+p455
+asg13
+(dp456
 I42
 S'8'
-p241
+p457
 sI5
 S'7'
-p242
+p458
 sI78
 S'9'
-p243
-ssg13
-(lp244
-S'Good evening, everyone. I find myself arguing that the Internet is closing our minds'
-p245
-aS"with a bit of regret. This isn't the place that I would want to be, and actually as of a few"
-p246
-aS"years ago I would have been arguing the other side, but I've come to believe that the --"
-p247
-aS'well, the Internet is incredibly good at getting groups of likeminded people to get'
-p248
-aS'together, think together, work together.'
-p249
-aS"But it's actually quite bad at bridging between groups of different people, and that the"
-p250
-aS'view that the Internet is exposing us to all sorts of new ways of thinking and new ideas is'
-p251
-aS"kind of a dated view, that the Internet's changing, and that there are a few big"
-p252
-aS'companies that would like us to hold onto that idea that the Internet is still this kind of'
-p253
-aS'open place. So the core of my argument is this, attention is the most valuable'
-p254
-aS'commodity out there right now. If you command attention, then you can direct it'
-p255
-aS"towards products or services and you can make a lot of money, and that's why all of the"
-p256
-aS'big companies on the Internet are trying to figure out what the best strategy is for'
-p257
-aS'gathering as much of it as possible. And most of them are focused on the same strategy'
-p258
-aS'which is gathering as much data about us as they can and then using that data to give us'
-p259
-aS'what they think, what they predict, based on their -- this data and their algorithms,'
-p260
-aS"we're going to be interested in."
-p261
-aS'Relevance is the big watchword here. So, you know, if you talk to these companies, if'
-p262
-aS"you look at what they're saying, it's very clear that this is a big part of the business plan."
-p263
-aS'Eric Schmidt says, "Very soon it will be nearly impossible to see something that has not'
-p264
-aS'in some way been tailored to you." Sheryl Sandberg of Facebook, says, "Within the next'
-p265
-aS"few years, it'll be anachronistic to visit a website that hasn't been customized to your"
-p266
-aS'personal interests in some way." And Facebook is becoming this growing source of how'
-p267
-aS'people get their news and how people get their information. So why are they doing'
-p268
-aS'this? Well, I think Evgeny actually put it really well. Why does Facebook employ filters?'
-p269
-aS'The more they know about us, the more they can make in advertising revenues. And'
-p270
-aS"the thing is that these companies aren't blind to the psychology of all this. They've read"
-p271
-aS'all of the studies that show that when you present people with information that'
-p272
-aS'confirms what they already believed was true, you can actually see these little bursts of'
-p273
-aS"pleasure happening in people's brains."
-p274
-aS'And conversely, when people are presented with information that challenges what they'
-p275
-aS"believed, they get cranky. That's just the way we're wired. And so if you're a company"
-p276
-aS"that's trying to meet stockholder demands and you have this power to present people"
-p277
-aS"with information that tends to validate them, why wouldn't you? As a result of this kind"
-p278
-aS"of personalization and self selection, we're more likely to see things we agree with and"
-p279
-aS"less likely to see things we disagree with. Now, to be clear, I'm not arguing that all"
-p280
-aS"personalization is bad. Personalization certainly can have benefits. I'm a Netflix user."
-p281
-aS'But the question is, what are the driving motives behind the kind of personalization that'
-p282
-aS"most people use, and what are the effects of that personalization? And I'll argue that"
-p283
-aS"because of the motives of these companies, those filters that they're building are going"
-p284
-aS"to tend to surround us with information that's agreeable to us and not with information"
-p285
-aS"that's uncomfortable."
-p286
-aS'So a few examples of what this looks like in practice, it looks like one person googling'
-p287
-aS'Egypt and seeing lots of information about the Arab Spring and another person googling'
-p288
-aS'Egypt at the same time and seeing nothing about the Arab Spring. This actually'
-p289
-aS"happened, I've got the screenshots on my website. And, you know, I could run through"
-p290
-aS"a number of other anecdotes, but actually there's been a study -- the only peer"
-p291
-aS"reviewed study I'm aware of on the Google search results and the effects of"
-p292
-aS'personalization there -- that shows that 60 percent of the search results on a given front'
-p293
-aS"page are usually personalized. Either they're in a different order or they're actually, you"
-p294
-aS'know, totally different results based on who Google thinks you are and what it thinks'
-p295
-aS"you'll be interested in. So what I think we have to begin to do is to tease apart what the"
-p296
-aS'Internet actually does from what we wish it would do or what it possibly could do. And'
-p297
-aS"in particular we have to tease apart what's possible to access versus what people do"
-p298
-aS"access. For example, now that the -- it's easy now to access the front page of Le Monde"
-p299
-aS'or Die Zeit, as it is, in fact to access the New York Times.'
-p300
-aS'So you would think, given this vast increase in accessibility of foreign policy,'
-p301
-aS'information, of whats going on in other countries, that people would know more about'
-p302
-aS'whats going on there. In fact thats not true. According to a Pew study from 2007,'
-p303
-aS'people actually were more informed on foreign policy matters before the internet than'
-p304
-aS'in 2007. So when Jacob says you can find more sources than ever, its kind of beside the'
-p305
-aS'point. Whats relevant is that people come into daily contact more frequently, is'
-p306
-aS'whether people come into daily contact with more different sources and more'
-p307
-aS'particular, different ideological ones. I agree here again with Evgeny who says the'
-p308
-aS'regular folk dont read sites like Global Voices, an aggregator of the most interesting'
-p309
-aS'blog posts from all over the world. Instead they are more likely to use the internet to'
-p310
-aS'rediscover their own culture and dare we say it, their own national bigotry. So to'
-p311
-aS'summarize, big companies are rapidly working to personalize your version of the web.'
-p312
-aS"They want to show you what they think youre going to be interested in. And this isn't"
-p313
-aS'passive. This isnt me turning on Fox News or me turning on -- or picking up a copy of'
-p314
-aS'the Nation. This is embedded in an increasing number of websites. Yahoo News in 2007,'
-p315
-aS'was a gateway for 80 million people that looked the same. But now, Yahoo runs 13'
-p316
-aS'million different variations of Yahoo News front page every day. And theyre different'
-p317
-aS'for each person. Its hard to even see. We dont know how tailored our view of the web'
-p318
-aS'is because you have to sit down next to someone else and look at the differences. So'
-p319
-aS'the object of this personalization is to get us to click more. Its to get us to like more.'
-p320
-aS'And importantly, its to get us to click on ads. And theres little benefit in that world to'
-p321
-aS'presenting us with information that makes us uncomfortable, that challenges our views,'
-p322
-aS'or that makes us think differently. I dont think that this has caused the extreme'
-p323
-aS'political polarization that were seeing right now. But I think it cant help but exacerbate'
-p324
-aS'it.'
-p325
-aS'Google says that its trying to provide relevance. But what is the most relevant search'
-p326
-aS'result when youre a 9/11 conspiracy theorist googling 9/11? Is it the conspiracy links'
-p327
-aS'that Googles algorithm would tend to promote or is it the Popular Mechanics article'
-p328
-aS'that would debunk that stuff? I asked Google this question and they didnt really have a'
-p329
-aS'clear answer. So its with regret that I think the Internet is not living up to its potential.'
-p330
-aS'The way that most people actually use the thing isnt to broaden their political'
-p331
-aS'perspectives. In fact the path that we generally travel on online will tend to mirror our'
-p332
-aS'political views. Thank you.'
-p333
-asg16
-(dp334
-I68
-S'19:01:44'
-p335
-sI5
-S'18:56:50'
-p336
-sI81
-S'19:02:42'
-p337
-sI42
-S'18:59:38'
-p338
-sI17
-S'18:57:45'
-p339
-sI56
-S'19:00:47'
-p340
-sI30
-S'18:58:44'
-p341
-ssa(dp342
+p459
+ssa(dp460
 g8
+(lp461
+S'Thank you Eli Pariser.'
+p462
+aS'Our motion is "When it comes to politics, the internet is closingour minds.'
+p463
+aS'" And here to speak against the motion, Jacob Weisberg.'
+p464
+aS'He is a pioneer inonline journalism.'
+p465
+aS'Jacob is editor in chief of the Slate Group, the internet based arm ofthe Washington Post Company.'
+p466
+asg11
 S'JOHN DONVAN'
-p343
-sg13
-(lp344
-S'Thank you Eli Pariser. Our motion is "When it comes to politics, the internet is closing'
-p345
-aS'our minds." And here to speak against the motion, Jacob Weisberg. He is a pioneer in'
-p346
-aS'online journalism. Jacob is editor in chief of the Slate Group, the internet based arm of'
-p347
-aS'the Washington Post Company.'
-p348
-asg16
-(dp349
-I4
+p467
+sg16
+(lp468
+S'Thank you Eli Pariser.'
+p469
+aS'Our motion is "When it comes to politics, the internet is closing our minds.'
+p470
+aS'" And here to speak against the motion, Jacob Weisberg.'
+p471
+aS'He is a pioneer in online journalism.'
+p472
+aS'Jacob is editor in chief of the Slate Group, the internet based arm of the Washington Post Company.'
+p473
+asg18
+(dp474
 S'19:03:42'
-p350
-ssa(dp351
-g20
-(dp352
+p475
+I4
+ssa(dp476
+g22
+(dp477
 I84
 S'[applause]'
-p353
-ssg8
+p478
+ssg11
 S'JACOB WEISBERG'
-p354
-sg10
-(dp355
+p479
+sg16
+(lp480
+S'Thank you John.'
+p481
+aS'Eli, you cant have Evgeny.'
+p482
+aS'Hes committed to me till at least 8:15.'
+p483
+aS'Look, Ill concede that the internet narrowing our political perspectives is an interesting theoretical problem.'
+p484
+aS'People do have a tendency to prefer listening to what they already agree with.'
+p485
+aS'And the internet makes it easier in theory for people to live in a solid cystic bubble, where they mostly interact with people who have similar views.'
+p486
+aS'But is that a phenomenon thats getting worse?'
+p487
+aS'And if it is getting worse, is it getting worse because of the internet?'
+p488
+aS'Eli, and I think Siva, is going to argue that because, they think that because Google and Facebook are bad for us, it must be.'
+p489
+aS'But their skepticism about these tools we use every day is kind of the mirror opposite of the cyber utopians who think that new technology only brings us good things.'
+p490
+aS'There are a lot of interesting theoretical problems from the Malthusian food scarcity to the Y2K bug, that are just never born out in practice.'
+p491
+aS'The Atlantic Magazine gets a cover out of this every month right?'
+p492
+aS'Is Google making you stupid?'
+p493
+aS'Is Facebook making you lonely?'
+p494
+aS'Thats actually the cover this month.'
+p495
+aS'Is Twitter destroying your attention span?'
+p496
+aS'But cyber realists like Evgeny and me try to look at questions like this in a more empirical way.'
+p497
+aS'So whats the evidence for tonights proposition, the internet is narrowing our views.'
+p498
+aS'I wont say theres none, but I will say its laughably weak.'
+p499
+aS'And theres some really good evidence that the webs doing the opposite of what our opponents claim, that its exposing us to a broader range of perspectives and making us less parochial in our outlook.'
+p500
+aS'And its on that empirical basis and on the basis of your own experience of not becoming more narrow, that you should vote against tonights motion.'
+p501
+aS'Theres of course some studies about this.'
+p502
+aS'There was one a few years ago that showed left and right wing bloggers dont just talk to their own side.'
+p503
+aS'They respond to each other and link to each other a lot, and its not all the kind of exchange John cited at the beginning.'
+p504
+aS'There\'s a Pew study from last year that show -- this is a quote, "No evidence that social network users, including those who use Facebook, were any more likely to cocoon themselves in social networks of like minded and similar people as some have feared.'
+p505
+aS'" There\'s another new Pew study that says that people\'s social network friendships tend to cross political boundaries.'
+p506
+aS"The biggest study which involved 250 million Facebook users, yes, it was sponsored by Facebook, but it was a good study, showed convincingly that most people share links from people they aren't close to."
+p507
+aS'That is, we do reach outside of our personal circles for news.'
+p508
+aS'So Eli said at the beginning of his very interesting book that he published last year, that "Google was tailoring search results to our politics.'
+p509
+aS'" He said that on the basis of one anecdote from a friend I don\'t think he named.'
+p510
+aS'He had a similar anecdote tonight about Egypt.'
+p511
+aS'Allow me to be skeptical.'
+p512
+aS'You can get -- you can do a funky search that gives you weird results at any time of the day for a variety of reasons.'
+p513
+aS'But I did a test on this where I asked friends of mine, different parts of the country, different political views, different worlds, to search some parallel, very political loaded terms like "climate change.'
+p514
+aS'" And basically, they got exactly the same thing.'
+p515
+aS"And I don't think that there is more than anecdotes to support what Eli is talking about."
+p516
+aS"I've looked at the studies."
+p517
+aS'Now, since Eli wrote his book, Google has changed, and it now includes results from your social network and search returns.'
+p518
+aS"So if you're spending all your time on Google Plus, and you're the only people in your circle or Bill O'Reilly and Rush Limbaugh, you may in fact see some ideological bias in the returns."
+p519
+aS"But Google added social searching in a way that actually specifically addresses Eli's problem."
+p520
+aS'He had a lot of influence on this.'
+p521
+aS'You can turn customization off by pressing the prominent button that says, "Hide personal results.'
+p522
+aS'" And you can toggle back and forth if you\'re curious about the difference.'
+p523
+aS"On Facebook, it's just as easy to turn off customization."
+p524
+aS'You change the sort option on your top stories to most recent.'
+p525
+aS'In other words, the filtering they do, these giant sites, is completely transparent and optional.'
+p526
+aS"I leave customization on most of the time because a social filter doesn't actually trap you in your own bubble."
+p527
+aS'And take music just as an example I think we can all relate to.'
+p528
+aS"The reason I use Spotify, which is a social music service, is that I'm a little bored with the music I already know, and I want to be exposed to stuff I don't know, which I get through my Facebook friends."
+p529
+aS'So back at the level of theory, could an algorithm personalize the news to figure your -- your political perspective?'
+p530
+aS"I think it's much harder to do that than it seems."
+p531
+aS'News organizations are really trying to do that.'
+p532
+aS"They actually haven't been very successful, which is why, when you go to newyorktimes.com, and I go, we get the same home page."
+p533
+aS"Of course, you can get narrow minded, politically filtered news, but you don't need the internet to do that."
+p534
+aS'You can go to Rush Limbaugh and the radio or FOX or MSNBC on TV.'
+p535
+aS"Now, it is worth noting that we did used to have the kind of constricting filter bubble Eli's worried about."
+p536
+aS'And that was the mainstream media before the internet.'
+p537
+aS"When I was a kid in the '70s, you found out about the world through TV networks, a couple of news magazines, local newspapers."
+p538
+aS"There weren't any national ones."
+p539
+aS'And it was a very limited range of viewpoints and voices.'
+p540
+aS'And if you want to create that kind of filter bubble, all you have to do is remove technologies before television, before radio, before newspapers.'
+p541
+aS'So personally, I get a lot of my news these days through a tool called Twitter.'
+p542
+aS'I use it as a filter for stories that are relevant to me.'
+p543
+aS'And what it does is the opposite of narrowing my perspective.'
+p544
+aS"Thanks to Twitter, I'm regularly getting news from global sources as well as American ones."
+p545
+aS'I tune into a lot of really interesting Arab voices during the Arab Spring.'
+p546
+aS"I followed China in part through an English translation of Tweets from Ai Weiwei the Chinese artist who's become one of the most important dissidents in the world today."
+p547
+aS'And those filters broaden my perspective.'
+p548
+aS'Twitter is a serendipity engine.'
+p549
+aS"Finally, I don't think you need to look at all these studies or understand algorithms to make up your mind about tonight's motion."
+p550
+aS'All you have to do is ask yourself a pretty simple question: Has the web narrowed my mind?'
+p551
+aS'Has it made me less tolerant of people I disagree with and less interested in what they have today to say?'
+p552
+aS'Or has it exposed me to a broader range of voices, sources and ideas than we all used to get when we relied on a consensus oriented mainstream media for all our information?'
+p553
+aS"Unless you're convinced that the web makes you narrower, you should vote against tonight's motion."
+p554
+asg18
+(dp555
+S'19:05:40'
+p556
+I24
+sS'19:04:46'
+p557
+I12
+sS'19:08:46'
+p558
+I62
+sS'19:09:49'
+p559
+I76
+sS'19:06:42'
+p560
+I37
+sS'19:07:45'
+p561
+I50
+ssg8
+(lp562
+S'Thank you John.'
+p563
+aS'Eli, you cant have Evgeny.'
+p564
+aS'Hes committed to me till at least 8:15.Look, Ill concede that the internet narrowing our political perspectives is an interestingtheoretical problem.'
+p565
+aS'People do have a tendency to prefer listening to what they alreadyagree with.'
+p566
+aS'And the internet makes it easier in theory for people to live in a solid cysticbubble, where they mostly interact with people who have similar views.'
+p567
+aS'But is that aphenomenon thats getting worse?'
+p568
+aS'And if it is getting worse, is it getting worse becauseof the internet?'
+p569
+aS'Eli, and I think Siva, is going to argue that because, they think thatbecause Google and Facebook are bad for us, it must be.'
+p570
+aS'But their skepticism aboutthese tools we use every day is kind of the mirror opposite of the cyber utopians whothink that new technology only brings us good things.'
+p571
+aS'There are a lot of interestingtheoretical problems from the Malthusian food scarcity to the Y2K bug, that are justnever born out in practice.The Atlantic Magazine gets a cover out of this every month right?'
+p572
+aS'Is Google making youstupid?'
+p573
+aS'Is Facebook making you lonely?'
+p574
+aS'Thats actually the cover this month.'
+p575
+aS'Is Twitterdestroying your attention span?'
+p576
+aS'But cyber realists like Evgeny and me try to look atquestions like this in a more empirical way.'
+p577
+aS'So whats the evidence for tonightsproposition, the internet is narrowing our views.'
+p578
+aS'I wont say theres none, but I will sayits laughably weak.'
+p579
+aS'And theres some really good evidence that the webs doing theopposite of what our opponents claim, that its exposing us to a broader range ofperspectives and making us less parochial in our outlook.'
+p580
+aS'And its on that empiricalbasis and on the basis of your own experience of not becoming more narrow, that youshould vote against tonights motion.'
+p581
+aS'Theres of course some studies about this.'
+p582
+aS'Therewas one a few years ago that showed left and right wing bloggers dont just talk to theirown side.They respond to each other and link to each other a lot, and its not all the kind ofexchange John cited at the beginning.'
+p583
+aS'There\'s a Pew study from last year that show --this is a quote, "No evidence that social network users, including those who useFacebook, were any more likely to cocoon themselves in social networks of like mindedand similar people as some have feared.'
+p584
+aS'" There\'s another new Pew study that says thatpeople\'s social network friendships tend to cross political boundaries.'
+p585
+aS"The biggest studywhich involved 250 million Facebook users, yes, it was sponsored by Facebook, but itwas a good study, showed convincingly that most people share links from people theyaren't close to."
+p586
+aS'That is, we do reach outside of our personal circles for news.'
+p587
+aS'So Eli saidat the beginning of his very interesting book that he published last year, that "Googlewas tailoring search results to our politics.'
+p588
+aS'" He said that on the basis of one anecdotefrom a friend I don\'t think he named.'
+p589
+aS'He had a similar anecdote tonight about Egypt.Allow me to be skeptical.You can get -- you can do a funky search that gives you weird results at any time of theday for a variety of reasons.'
+p590
+aS'But I did a test on this where I asked friends of mine,different parts of the country, different political views, different worlds, to search someparallel, very political loaded terms like "climate change.'
+p591
+aS'" And basically, they gotexactly the same thing.'
+p592
+aS"And I don't think that there is more than anecdotes to supportwhat Eli is talking about."
+p593
+aS"I've looked at the studies."
+p594
+aS'Now, since Eli wrote his book,Google has changed, and it now includes results from your social network and searchreturns.'
+p595
+aS"So if you're spending all your time on Google Plus, and you're the only peoplein your circle or Bill O'Reilly and Rush Limbaugh, you may in fact see some ideologicalbias in the returns."
+p596
+aS"But Google added social searching in a way that actually specificallyaddresses Eli's problem."
+p597
+aS'He had a lot of influence on this.'
+p598
+aS'You can turn customizationoff by pressing the prominent button that says, "Hide personal results.'
+p599
+aS'" And you cantoggle back and forth if you\'re curious about the difference.On Facebook, it\'s just as easy to turn off customization.'
+p600
+aS'You change the sort option onyour top stories to most recent.'
+p601
+aS'In other words, the filtering they do, these giant sites,is completely transparent and optional.'
+p602
+aS"I leave customization on most of the timebecause a social filter doesn't actually trap you in your own bubble."
+p603
+aS'And take music justas an example I think we can all relate to.'
+p604
+aS"The reason I use Spotify, which is a socialmusic service, is that I'm a little bored with the music I already know, and I want to beexposed to stuff I don't know, which I get through my Facebook friends."
+p605
+aS'So back at thelevel of theory, could an algorithm personalize the news to figure your -- your politicalperspective?'
+p606
+aS"I think it's much harder to do that than it seems."
+p607
+aS'News organizations arereally trying to do that.'
+p608
+aS"They actually haven't been very successful, which is why, whenyou go to newyorktimes.com, and I go, we get the same home page."
+p609
+aS"Of course, you canget narrow minded, politically filtered news, but you don't need the internet to do that.You can go to Rush Limbaugh and the radio or FOX or MSNBC on TV."
+p610
+aS"Now, it is worthnoting that we did used to have the kind of constricting filter bubble Eli's worried about.And that was the mainstream media before the internet."
+p611
+aS"When I was a kid in the '70s,you found out about the world through TV networks, a couple of news magazines, localnewspapers."
+p612
+aS"There weren't any national ones."
+p613
+aS'And it was a very limited range ofviewpoints and voices.'
+p614
+aS'And if you want to create that kind of filter bubble, all you haveto do is remove technologies before television, before radio, before newspapers.'
+p615
+aS'Sopersonally, I get a lot of my news these days through a tool called Twitter.'
+p616
+aS'I use it as afilter for stories that are relevant to me.'
+p617
+aS'And what it does is the opposite of narrowingmy perspective.'
+p618
+aS"Thanks to Twitter, I'm regularly getting news from global sources aswell as American ones."
+p619
+aS'I tune into a lot of really interesting Arab voices during the ArabSpring.'
+p620
+aS"I followed China in part through an English translation of Tweets from Ai Weiweithe Chinese artist who's become one of the most important dissidents in the worldtoday.And those filters broaden my perspective."
+p621
+aS'Twitter is a serendipity engine.'
+p622
+aS"Finally, Idon't think you need to look at all these studies or understand algorithms to make upyour mind about tonight's motion."
+p623
+aS'All you have to do is ask yourself a pretty simplequestion: Has the web narrowed my mind?'
+p624
+aS'Has it made me less tolerant of people Idisagree with and less interested in what they have today to say?'
+p625
+aS'Or has it exposed meto a broader range of voices, sources and ideas than we all used to get when we reliedon a consensus oriented mainstream media for all our information?'
+p626
+aS"Unless you'reconvinced that the web makes you narrower, you should vote against tonight's motion."
+p627
+asg13
+(dp628
 I50
 S'11'
-p356
+p629
 sI15
 S'10'
-p357
-ssg13
-(lp358
-S'Thank you John. Eli, you cant have Evgeny. Hes committed to me till at least 8:15.'
-p359
-aS'Look, Ill concede that the internet narrowing our political perspectives is an interesting'
-p360
-aS'theoretical problem. People do have a tendency to prefer listening to what they already'
-p361
-aS'agree with. And the internet makes it easier in theory for people to live in a solid cystic'
-p362
-aS'bubble, where they mostly interact with people who have similar views. But is that a'
-p363
-aS'phenomenon thats getting worse? And if it is getting worse, is it getting worse because'
-p364
-aS'of the internet? Eli, and I think Siva, is going to argue that because, they think that'
-p365
-aS'because Google and Facebook are bad for us, it must be. But their skepticism about'
-p366
-aS'these tools we use every day is kind of the mirror opposite of the cyber utopians who'
-p367
-aS'think that new technology only brings us good things. There are a lot of interesting'
-p368
-aS'theoretical problems from the Malthusian food scarcity to the Y2K bug, that are just'
-p369
-aS'never born out in practice.'
-p370
-aS'The Atlantic Magazine gets a cover out of this every month right? Is Google making you'
-p371
-aS'stupid? Is Facebook making you lonely? Thats actually the cover this month. Is Twitter'
-p372
-aS'destroying your attention span? But cyber realists like Evgeny and me try to look at'
-p373
-aS'questions like this in a more empirical way. So whats the evidence for tonights'
-p374
-aS'proposition, the internet is narrowing our views. I wont say theres none, but I will say'
-p375
-aS'its laughably weak. And theres some really good evidence that the webs doing the'
-p376
-aS'opposite of what our opponents claim, that its exposing us to a broader range of'
-p377
-aS'perspectives and making us less parochial in our outlook. And its on that empirical'
-p378
-aS'basis and on the basis of your own experience of not becoming more narrow, that you'
-p379
-aS'should vote against tonights motion. Theres of course some studies about this. There'
-p380
-aS'was one a few years ago that showed left and right wing bloggers dont just talk to their'
-p381
-aS'own side.'
-p382
-aS'They respond to each other and link to each other a lot, and its not all the kind of'
-p383
-aS"exchange John cited at the beginning. There's a Pew study from last year that show --"
-p384
-aS'this is a quote, "No evidence that social network users, including those who use'
-p385
-aS'Facebook, were any more likely to cocoon themselves in social networks of like minded'
-p386
-aS'and similar people as some have feared." There\'s another new Pew study that says that'
-p387
-aS"people's social network friendships tend to cross political boundaries. The biggest study"
-p388
-aS'which involved 250 million Facebook users, yes, it was sponsored by Facebook, but it'
-p389
-aS'was a good study, showed convincingly that most people share links from people they'
-p390
-aS"aren't close to. That is, we do reach outside of our personal circles for news. So Eli said"
-p391
-aS'at the beginning of his very interesting book that he published last year, that "Google'
-p392
-aS'was tailoring search results to our politics." He said that on the basis of one anecdote'
-p393
-aS"from a friend I don't think he named. He had a similar anecdote tonight about Egypt."
-p394
-aS'Allow me to be skeptical.'
-p395
-aS'You can get -- you can do a funky search that gives you weird results at any time of the'
-p396
-aS'day for a variety of reasons. But I did a test on this where I asked friends of mine,'
-p397
-aS'different parts of the country, different political views, different worlds, to search some'
-p398
-aS'parallel, very political loaded terms like "climate change." And basically, they got'
-p399
-aS"exactly the same thing. And I don't think that there is more than anecdotes to support"
-p400
-aS"what Eli is talking about. I've looked at the studies. Now, since Eli wrote his book,"
-p401
-aS'Google has changed, and it now includes results from your social network and search'
-p402
-aS"returns. So if you're spending all your time on Google Plus, and you're the only people"
-p403
-aS"in your circle or Bill O'Reilly and Rush Limbaugh, you may in fact see some ideological"
-p404
-aS'bias in the returns. But Google added social searching in a way that actually specifically'
-p405
-aS"addresses Eli's problem. He had a lot of influence on this. You can turn customization"
-p406
-aS'off by pressing the prominent button that says, "Hide personal results." And you can'
-p407
-aS"toggle back and forth if you're curious about the difference."
-p408
-aS"On Facebook, it's just as easy to turn off customization. You change the sort option on"
-p409
-aS'your top stories to most recent. In other words, the filtering they do, these giant sites,'
-p410
-aS'is completely transparent and optional. I leave customization on most of the time'
-p411
-aS"because a social filter doesn't actually trap you in your own bubble. And take music just"
-p412
-aS'as an example I think we can all relate to. The reason I use Spotify, which is a social'
-p413
-aS"music service, is that I'm a little bored with the music I already know, and I want to be"
-p414
-aS"exposed to stuff I don't know, which I get through my Facebook friends. So back at the"
-p415
-aS'level of theory, could an algorithm personalize the news to figure your -- your political'
-p416
-aS"perspective? I think it's much harder to do that than it seems. News organizations are"
-p417
-aS"really trying to do that. They actually haven't been very successful, which is why, when"
-p418
-aS'you go to newyorktimes.com, and I go, we get the same home page. Of course, you can'
-p419
-aS"get narrow minded, politically filtered news, but you don't need the internet to do that."
-p420
-aS'You can go to Rush Limbaugh and the radio or FOX or MSNBC on TV. Now, it is worth'
-p421
-aS"noting that we did used to have the kind of constricting filter bubble Eli's worried about."
-p422
-aS"And that was the mainstream media before the internet. When I was a kid in the '70s,"
-p423
-aS'you found out about the world through TV networks, a couple of news magazines, local'
-p424
-aS"newspapers. There weren't any national ones. And it was a very limited range of"
-p425
-aS'viewpoints and voices. And if you want to create that kind of filter bubble, all you have'
-p426
-aS'to do is remove technologies before television, before radio, before newspapers. So'
-p427
-aS'personally, I get a lot of my news these days through a tool called Twitter. I use it as a'
-p428
-aS'filter for stories that are relevant to me. And what it does is the opposite of narrowing'
-p429
-aS"my perspective. Thanks to Twitter, I'm regularly getting news from global sources as"
-p430
-aS'well as American ones. I tune into a lot of really interesting Arab voices during the Arab'
-p431
-aS'Spring. I followed China in part through an English translation of Tweets from Ai Weiwei'
-p432
-aS"the Chinese artist who's become one of the most important dissidents in the world"
-p433
-aS'today.'
-p434
-aS'And those filters broaden my perspective. Twitter is a serendipity engine. Finally, I'
-p435
-aS"don't think you need to look at all these studies or understand algorithms to make up"
-p436
-aS"your mind about tonight's motion. All you have to do is ask yourself a pretty simple"
-p437
-aS'question: Has the web narrowed my mind? Has it made me less tolerant of people I'
-p438
-aS'disagree with and less interested in what they have today to say? Or has it exposed me'
-p439
-aS'to a broader range of voices, sources and ideas than we all used to get when we relied'
-p440
-aS"on a consensus oriented mainstream media for all our information? Unless you're"
-p441
-aS"convinced that the web makes you narrower, you should vote against tonight's motion."
-p442
-asg16
-(dp443
-I37
-S'19:06:42'
-p444
-sI12
-S'19:04:46'
-p445
-sI76
-S'19:09:49'
-p446
-sI50
-S'19:07:45'
-p447
-sI24
-S'19:05:40'
-p448
-sI62
-S'19:08:46'
-p449
-ssa(dp450
+p630
+ssa(dp631
 g8
+(lp632
+S'Thank you, Jacob Weisberg.'
+p633
+aS"A reminder of what's going on."
+p634
+aS'We are halfway throughthe opening round of this Intelligence Squared U.S. debate.'
+p635
+aS"I'm John Donvan."
+p636
+aS'We havefour debaters, two teams of two fighting it out over this motion, "When it comes topolitics, the internet is closing our minds.'
+p637
+aS'"We have heard the first opening statements, and now onto the third.'
+p638
+aS'Debating for themotion, the author of "The Googlization of Everything and Why We Should Worry,"chair of the University of Virginia\'s Department of Media Studies.'
+p639
+aS'He\'s been called"Google\'s gadfly," Siva Vaidhyanathan.'
+p640
+asg11
 S'JOHN DONVAN'
-p451
-sg10
-(dp452
+p641
+sg13
+(dp642
 I0
 S'12'
-p453
-ssg13
-(lp454
-S"Thank you, Jacob Weisberg. A reminder of what's going on. We are halfway through"
-p455
-aS"the opening round of this Intelligence Squared U.S. debate. I'm John Donvan. We have"
-p456
-aS'four debaters, two teams of two fighting it out over this motion, "When it comes to'
-p457
-aS'politics, the internet is closing our minds."'
-p458
-aS'We have heard the first opening statements, and now onto the third. Debating for the'
-p459
-aS'motion, the author of "The Googlization of Everything and Why We Should Worry,"'
-p460
-aS"chair of the University of Virginia's Department of Media Studies. He's been called"
-p461
-aS'"Google\'s gadfly," Siva Vaidhyanathan.'
-p462
-asg16
-(dp463
-I4
+p643
+ssg16
+(lp644
+S'Thank you, Jacob Weisberg.'
+p645
+aS"A reminder of what's going on."
+p646
+aS'We are halfway through the opening round of this Intelligence Squared U.S. debate.'
+p647
+aS"I'm John Donvan."
+p648
+aS'We have four debaters, two teams of two fighting it out over this motion, "When it comes to politics, the internet is closing our minds.'
+p649
+aS'" We have heard the first opening statements, and now onto the third.'
+p650
+aS'Debating for the motion, the author of "The Googlization of Everything and Why We Should Worry," chair of the University of Virginia\'s Department of Media Studies.'
+p651
+aS'He\'s been called "Google\'s gadfly," Siva Vaidhyanathan.'
+p652
+asg18
+(dp653
 S'19:10:44'
-p464
-ssa(dp465
-g20
-(dp466
+p654
+I4
+ssa(dp655
+g22
+(dp656
 I1
 S'[applause]'
-p467
+p657
 sI2
 S'[laughter]'
-p468
+p658
 sI12
 S'[laughter]'
-p469
-ssg8
+p659
+ssg11
 S'SIVA VAIDHYANATHAN'
-p470
-sg10
-(dp471
+p660
+sg16
+(lp661
+S'Thank you.'
+p662
+aS"So the internet has so narrowed my mind that I didn't hear a word Jacob said."
+p663
+aS'So in these brief comments, I will explain what Eli and I mean by the internet as invoked in the resolution and what we mean by politics.'
+p664
+aS"And I'm going to convince you to support the resolution."
+p665
+aS'First, try to remember 1999, the days of AOL, the days of Prodigy, the apex of our long national nightmare of peace and prosperity.'
+p666
+aS'In 1999, Thomas Friedman wrote these words: "the internet is going to be like a huge vise.'
+p667
+aS'It\'s going to keep tightening and tightening that system --meaning the system of globalization -- "around everyone in ways that will only make the world smaller, smaller and faster and faster.'
+p668
+aS'" Well, Thomas Friedman could not have been more wrong.'
+p669
+aS"He's been exactly that wrong many times, but never more wrong."
+p670
+aS'Now, in 2012, it\'s clear that there is no such thing as "The Internet, capital T, capital I as Friedman and others so often described in the 1990s.'
+p671
+aS'There is no equalizing force, great democratizing force, there is no global network of networks that unites us all and gives us all equal voice to interact with each other across borders and across classes, for that matter.'
+p672
+aS'In fact, the alleged network of networks is, in 2012, balkanized, nationalized, compromised, anesthetized, supervised, circumcised and hypnotized.'
+p673
+aS"It's far from global, and it's getting less so every day."
+p674
+aS'The online experience of a person sitting in Turkey is so different from the online experience of someone sitting in India and so different from the online experience of someone sitting in Iran or someone sitting in China.'
+p675
+aS'And all of those are even more different from the experiences of people in Brazil, in Russia or the United States.'
+p676
+aS"And we're talking about more than censorship, although, in many of those countries, online censorship is a serious and crippling issue."
+p677
+aS"We're also talking about platforms, the platforms that people use, the platforms that governments will let people use."
+p678
+aS'The rise of kill switches is something we have to take into account as well.'
+p679
+aS"Kill switches that we saw a year ago in Egypt to wipe out internet communication in an instant, we've seen experiments in kill switches in China in early 2012, and we've seen people like Senator Lieberman even propose them in the United States."
+p680
+aS'Internet technologies amplify so much of what we already are and what we already want.'
+p681
+aS"And the fact is, we're pretty provincial animals."
+p682
+aS'So add the internet to it, we just double down.'
+p683
+aS'We get more provincial.'
+p684
+aS'Platforms matter, defaults matter, and policies matter.'
+p685
+aS'So here in 2012, or now in 2012, we are not all holding virtual hands with our Facebook friends across the globe singing, "We are the world.'
+p686
+aS'" There is no coordinated global movement for justice.'
+p687
+aS"There's no sophisticated online debate about our collective human state or even our basic human needs."
+p688
+aS'The dominant powers governing our digital experiences, the state, for instance, in China, or corporations in Brazil or the United States are not interested in such matters.'
+p689
+aS'They are not interested in us being political.'
+p690
+aS'Sometimes these powers actively restrict us, like in China.'
+p691
+aS'More often than not, these powers seduce us into shallow consumption, consumptive behaviors like shopping or giggling at cats or clicking on cows.'
+p692
+aS"Not that there's anything wrong with clicking on virtual cows, but it ain't political."
+p693
+aS'Our minds are closing because our attentions are distracted, fractured and segregated into niches and nations.'
+p694
+aS'But all hope is not lost.'
+p695
+aS'There is nothing about the nature of the internet that prevents us from being political, richly political.'
+p696
+aS'Many of us actually are, I would suspect that most of us in the audience have done a pretty good job of avoiding these traps.'
+p697
+aS"We're pretty elite."
+p698
+aS"We're pretty aware."
+p699
+aS"And we're pretty connected."
+p700
+aS'And we route around a lot of these problems.'
+p701
+aS"We're also hungry for information."
+p702
+aS"If you weren't hungry, you wouldn't be here."
+p703
+aS'So many of us, despite what Facebook does with thoughts, despite what the Iranian government does in Iran, have managed to be richly political.'
+p704
+aS'But we do know that the internet by itself does not topple dictators, does not undermine newspapers.'
+p705
+aS"It's just not that simple."
+p706
+aS'If we recognized the biases inherent in many of the platforms of our media systems, we can correct, we can adjust, we can invest, we can invent, we can resist, persist, and thrive.'
+p707
+aS'We could build platforms that enhance Republican deliberation and extend cosmopolitan perspectives.'
+p708
+aS"We just haven't done that yet."
+p709
+aS"We've been really busy clicking on cows."
+p710
+aS'But all that takes work.'
+p711
+aS'It takes real human work in addition to invention and imagination, real human effort.'
+p712
+aS"But the first step to recognizing that -- I'm sorry -- the first step to realizing that is to recognize what's happening."
+p713
+aS'When it comes to politics, the Internet, most importantly how we experience the Internet is closing our minds one cow click at a time.'
+p714
+aS'Please vote for the motion.'
+p715
+aS'Thanks.'
+p716
+asg18
+(dp717
+S'19:12:48'
+p718
+I22
+sS'19:14:44'
+p719
+I44
+sS'19:15:50'
+p720
+I56
+sS'19:11:49'
+p721
+I10
+sS'19:13:44'
+p722
+I33
+ssg8
+(lp723
+S"Thank you.So the internet has so narrowed my mind that I didn't hear a word Jacob said."
+p724
+aS'[[applause]] So in these brief comments, I will explain what Eli and I mean by the internet as invoked [[laughter]] in the resolution and what we mean by politics.'
+p725
+aS"And I'm going to convince you tosupport the resolution."
+p726
+aS'First, try to remember 1999, the days of AOL, the days ofProdigy, the apex of our long national nightmare of peace and prosperity.'
+p727
+aS'In 1999,Thomas Friedman wrote these words: "the internet is going to be like a huge vise.'
+p728
+aS'It\'sgoing to keep tightening and tightening that system --meaning the system ofglobalization -- "around everyone in ways that will only make the world smaller, smallerand faster and faster.'
+p729
+aS'"Well, Thomas Friedman could not have been more wrong.'
+p730
+aS'He\'s been exactly that wrongmany times, but never more wrong.Now, in 2012, it\'s clear that there is no such thing as "The Internet, capital T, capital I as [[laughter]] Friedman and others so often described in the 1990s.'
+p731
+aS'There is no equalizing force, greatdemocratizing force, there is no global network of networks that unites us all and givesus all equal voice to interact with each other across borders and across classes, for thatmatter.'
+p732
+aS'In fact, the alleged network of networks is, in 2012, balkanized, nationalized,compromised, anesthetized, supervised, circumcised and hypnotized.'
+p733
+aS"It's far fromglobal, and it's getting less so every day."
+p734
+aS'The online experience of a person sitting inTurkey is so different from the online experience of someone sitting in India and sodifferent from the online experience of someone sitting in Iran or someone sitting inChina.And all of those are even more different from the experiences of people in Brazil, inRussia or the United States.'
+p735
+aS"And we're talking about more than censorship, although, inmany of those countries, online censorship is a serious and crippling issue."
+p736
+aS"We're alsotalking about platforms, the platforms that people use, the platforms that governmentswill let people use."
+p737
+aS'The rise of kill switches is something we have to take into account aswell.'
+p738
+aS"Kill switches that we saw a year ago in Egypt to wipe out internet communicationin an instant, we've seen experiments in kill switches in China in early 2012, and we'veseen people like Senator Lieberman even propose them in the United States."
+p739
+aS'Internettechnologies amplify so much of what we already are and what we already want.'
+p740
+aS"Andthe fact is, we're pretty provincial animals."
+p741
+aS'So add the internet to it, we just doubledown.We get more provincial.'
+p742
+aS'Platforms matter, defaults matter, and policies matter.'
+p743
+aS'Sohere in 2012, or now in 2012, we are not all holding virtual hands with our Facebookfriends across the globe singing, "We are the world.'
+p744
+aS'" There is no coordinated globalmovement for justice.'
+p745
+aS"There's no sophisticated online debate about our collectivehuman state or even our basic human needs."
+p746
+aS'The dominant powers governing ourdigital experiences, the state, for instance, in China, or corporations in Brazil or theUnited States are not interested in such matters.'
+p747
+aS'They are not interested in us beingpolitical.'
+p748
+aS'Sometimes these powers actively restrict us, like in China.'
+p749
+aS'More often thannot, these powers seduce us into shallow consumption, consumptive behaviors likeshopping or giggling at cats or clicking on cows.'
+p750
+aS"Not that there's anything wrong withclicking on virtual cows, but it ain't political.Our minds are closing because our attentions are distracted, fractured and segregatedinto niches and nations."
+p751
+aS'But all hope is not lost.'
+p752
+aS'There is nothing about the nature ofthe internet that prevents us from being political, richly political.'
+p753
+aS'Many of us actuallyare, I would suspect that most of us in the audience have done a pretty good job ofavoiding these traps.'
+p754
+aS"We're pretty elite."
+p755
+aS"We're pretty aware."
+p756
+aS"And we're prettyconnected."
+p757
+aS'And we route around a lot of these problems.'
+p758
+aS"We're also hungry forinformation."
+p759
+aS"If you weren't hungry, you wouldn't be here."
+p760
+aS'So many of us, despite whatFacebook does with thoughts, despite what the Iranian government does in Iran, havemanaged to be richly political.'
+p761
+aS'But we do know that the internet by itself does nottopple dictators, does not undermine newspapers.'
+p762
+aS"It's just not that simple."
+p763
+aS'If werecognized the biases inherent in many of the platforms of our media systems, we cancorrect, we can adjust, we can invest, we can invent, we can resist, persist, and thrive.We could build platforms that enhance Republican deliberation and extendcosmopolitan perspectives.'
+p764
+aS"We just haven't done that yet."
+p765
+aS"We've been really busyclicking on cows."
+p766
+aS'But all that takes work.'
+p767
+aS'It takes real human work in addition toinvention and imagination, real human effort.'
+p768
+aS"But the first step to recognizing that --I'm sorry -- the first step to realizing that is to recognize what's happening."
+p769
+aS'When itcomes to politics, the Internet, most importantly how we experience the Internet isclosing our minds one cow click at a time.'
+p770
+aS'Please vote for the motion.'
+p771
+aS'Thanks.'
+p772
+asg13
+(dp773
 I19
 S'13'
-p472
+p774
 sI54
 S'14'
-p473
-ssg13
-(lp474
-S'Thank you.'
-p475
-aS"So the internet has so narrowed my mind that I didn't hear a word Jacob said."
-p476
-aS'So in these brief comments, I will explain what Eli and I mean by the internet as invoked'
-p477
-aS"in the resolution and what we mean by politics. And I'm going to convince you to"
-p478
-aS'support the resolution. First, try to remember 1999, the days of AOL, the days of'
-p479
-aS'Prodigy, the apex of our long national nightmare of peace and prosperity. In 1999,'
-p480
-aS'Thomas Friedman wrote these words: "the internet is going to be like a huge vise. It\'s'
-p481
-aS'going to keep tightening and tightening that system --meaning the system of'
-p482
-aS'globalization -- "around everyone in ways that will only make the world smaller, smaller'
-p483
-aS'and faster and faster."'
-p484
-aS"Well, Thomas Friedman could not have been more wrong. He's been exactly that wrong"
-p485
-aS'many times, but never more wrong.'
-p486
-aS'Now, in 2012, it\'s clear that there is no such thing as "The Internet, capital T, capital I as'
-p487
-aS'Friedman and others so often described in the 1990s. There is no equalizing force, great'
-p488
-aS'democratizing force, there is no global network of networks that unites us all and gives'
-p489
-aS'us all equal voice to interact with each other across borders and across classes, for that'
-p490
-aS'matter. In fact, the alleged network of networks is, in 2012, balkanized, nationalized,'
-p491
-aS"compromised, anesthetized, supervised, circumcised and hypnotized. It's far from"
-p492
-aS"global, and it's getting less so every day. The online experience of a person sitting in"
-p493
-aS'Turkey is so different from the online experience of someone sitting in India and so'
-p494
-aS'different from the online experience of someone sitting in Iran or someone sitting in'
-p495
-aS'China.'
-p496
-aS'And all of those are even more different from the experiences of people in Brazil, in'
-p497
-aS"Russia or the United States. And we're talking about more than censorship, although, in"
-p498
-aS"many of those countries, online censorship is a serious and crippling issue. We're also"
-p499
-aS'talking about platforms, the platforms that people use, the platforms that governments'
-p500
-aS'will let people use. The rise of kill switches is something we have to take into account as'
-p501
-aS'well. Kill switches that we saw a year ago in Egypt to wipe out internet communication'
-p502
-aS"in an instant, we've seen experiments in kill switches in China in early 2012, and we've"
-p503
-aS'seen people like Senator Lieberman even propose them in the United States. Internet'
-p504
-aS'technologies amplify so much of what we already are and what we already want. And'
-p505
-aS"the fact is, we're pretty provincial animals. So add the internet to it, we just double"
-p506
-aS'down.'
-p507
-aS'We get more provincial. Platforms matter, defaults matter, and policies matter. So'
-p508
-aS'here in 2012, or now in 2012, we are not all holding virtual hands with our Facebook'
-p509
-aS'friends across the globe singing, "We are the world." There is no coordinated global'
-p510
-aS"movement for justice. There's no sophisticated online debate about our collective"
-p511
-aS'human state or even our basic human needs. The dominant powers governing our'
-p512
-aS'digital experiences, the state, for instance, in China, or corporations in Brazil or the'
-p513
-aS'United States are not interested in such matters. They are not interested in us being'
-p514
-aS'political. Sometimes these powers actively restrict us, like in China. More often than'
-p515
-aS'not, these powers seduce us into shallow consumption, consumptive behaviors like'
-p516
-aS"shopping or giggling at cats or clicking on cows. Not that there's anything wrong with"
-p517
-aS"clicking on virtual cows, but it ain't political."
-p518
-aS'Our minds are closing because our attentions are distracted, fractured and segregated'
-p519
-aS'into niches and nations. But all hope is not lost. There is nothing about the nature of'
-p520
-aS'the internet that prevents us from being political, richly political. Many of us actually'
-p521
-aS'are, I would suspect that most of us in the audience have done a pretty good job of'
-p522
-aS"avoiding these traps. We're pretty elite. We're pretty aware. And we're pretty"
-p523
-aS"connected. And we route around a lot of these problems. We're also hungry for"
-p524
-aS"information. If you weren't hungry, you wouldn't be here. So many of us, despite what"
-p525
-aS'Facebook does with thoughts, despite what the Iranian government does in Iran, have'
-p526
-aS'managed to be richly political. But we do know that the internet by itself does not'
-p527
-aS"topple dictators, does not undermine newspapers. It's just not that simple. If we"
-p528
-aS'recognized the biases inherent in many of the platforms of our media systems, we can'
-p529
-aS'correct, we can adjust, we can invest, we can invent, we can resist, persist, and thrive.'
-p530
-aS'We could build platforms that enhance Republican deliberation and extend'
-p531
-aS"cosmopolitan perspectives. We just haven't done that yet. We've been really busy"
-p532
-aS'clicking on cows. But all that takes work. It takes real human work in addition to'
-p533
-aS'invention and imagination, real human effort. But the first step to recognizing that --'
-p534
-aS"I'm sorry -- the first step to realizing that is to recognize what's happening. When it"
-p535
-aS'comes to politics, the Internet, most importantly how we experience the Internet is'
-p536
-aS'closing our minds one cow click at a time. Please vote for the motion. Thanks.'
-p537
-asg16
-(dp538
-I56
-S'19:15:50'
-p539
-sI33
-S'19:13:44'
-p540
-sI10
-S'19:11:49'
-p541
-sI44
-S'19:14:44'
-p542
-sI22
-S'19:12:48'
-p543
-ssa(dp544
-g20
-(dp545
+p775
+ssa(dp776
+g22
+(dp777
 I1
 S'[applause]'
-p546
+p778
 ssg8
+(lp779
+S'Thank you.Our motion is, "When it comes to politics, the Internet is closing our minds.'
+p780
+aS'" And our [[applause]] final debater against the motion, he comes from the former Soviet Republic of Belarus,something that has shaped his interest in the Internet\'s role in politics, he is a SchwartzFellow at the New American Foundation, and author of the book, "The Net Delusion,"Evgeny Morozov.'
+p781
+asg11
 S'JOHN DONVAN'
-p547
-sg13
-(lp548
+p782
+sg16
+(lp783
 S'Thank you.'
-p549
-aS'Our motion is, "When it comes to politics, the Internet is closing our minds." And our'
-p550
-aS'final debater against the motion, he comes from the former Soviet Republic of Belarus,'
-p551
-aS"something that has shaped his interest in the Internet's role in politics, he is a Schwartz"
-p552
-aS'Fellow at the New American Foundation, and author of the book, "The Net Delusion,"'
-p553
-aS'Evgeny Morozov.'
-p554
-asg16
-(dp555
-I6
+p784
+aS'Our motion is, "When it comes to politics, the Internet is closing our minds.'
+p785
+aS'" And our final debater against the motion, he comes from the former Soviet Republic of Belarus, something that has shaped his interest in the Internet\'s role in politics, he is a Schwartz Fellow at the New American Foundation, and author of the book, "The Net Delusion," Evgeny Morozov.'
+p786
+asg18
+(dp787
 S'19:16:54'
-p556
-ssa(dp557
-g20
-(dp558
+p788
+I6
+ssa(dp789
+g22
+(dp790
 I1
 S'[applause]'
-p559
+p791
 sI10
 S'[laughter]'
-p560
-ssg8
+p792
+ssg11
 S'EVGENY MOROZOV'
-p561
-sg10
-(dp562
+p793
+sg16
+(lp794
+S'Thank you.'
+p795
+aS"Well, I'm glad that Siva has chosen to debate with Thomas Friedman rather than with us, but I'd like to begin with a few lessons from history."
+p796
+aS'First, technology always plays the scapegoat whenever it comes to debates about the closing of the American mind.'
+p797
+aS'Remember Allan Bloom and his bestselling book, "The Closing of the American Mind," in the \'80s?'
+p798
+aS'Well, let me remind you, Bloom has actually argued that the closing of the American mind occurs because of CD players and headphones.'
+p799
+aS'And he actually argued that those might incite teenagers to kill their parents.'
+p800
+aS'We know what the late Allan Bloom would have made of the iPad, why his reactionary torch is now being carried by the liberal crowd from MoveOn is beyond me.'
+p801
+aS'The second lesson from history is that concerns about online polarization are as old as the .'
+p802
+aS'As early as 1995, the Nation Magazine carried an article by Andrew Shapiro, which argued, and I quote, "Cyberspace is shaping out to be more like suburbia than cy-Berkeley, where you interact only with people of your choosing and with information tailored to your desires.'
+p803
+aS'" That was 1995.'
+p804
+aS'Six years later, Cass Sunstein argued that, "The Internet is serving as a breeding ground for extremism because likeminded people are deliberating with one another without hearing contrary views," end of quote.'
+p805
+aS'So enter Eli Pariser.'
+p806
+aS'In one respect, he follows in the tradition of Shapiro and Sunstein.'
+p807
+aS'All of them present virtually no evidence that such online segregation is taking place.'
+p808
+aS"But they're also different."
+p809
+aS'Where Shapiro and Sunstein worried that we, the users, might choose the easy way out and simply award our comfortable viewpoints, but Pariser argues that filters and algorithms are doing this for us.'
+p810
+aS"It's a very important difference."
+p811
+aS'Shapiro and Sunstein blame the filter bubble on us, the users.'
+p812
+aS'But Pariser blames it on the companies.'
+p813
+aS"Now, who doesn't like such an exciting conspiracy theory?"
+p814
+aS"After all, it's always good to find someone else to blame but us."
+p815
+aS'I think this is a fairytale for many of the reasons that Jacob has outlined, but let me also provoke and give you three examples of how filters naturally enhance our political culture.'
+p816
+aS"So let's take Twitter."
+p817
+aS'Many people think that Twitter, unlike Google and Facebook, does not engage in customizing and filtering.'
+p818
+aS'That is actually not true.'
+p819
+aS'Twitter does hide certain types of messages.'
+p820
+aS"Thus, if you follow me but you don't follow Siva, and I send Siva a public tweet, you will not see that tweet."
+p821
+aS"Just think about it, you choose to follow me and you probably expect to get all of my messages, but you're actually not seeing my tweet to Siva."
+p822
+aS'And, mind you, Twitter made that filtering decision on your behalf.'
+p823
+aS'Is it paternalistic?'
+p824
+aS'Sure.'
+p825
+aS'Are these types of paternalism justified?'
+p826
+aS'Well, take my case.'
+p827
+aS"I follow more than 2,000 people on Twitter, and I'm very happy with the breadth of news I get."
+p828
+aS"But if I have to read every single conversation that these 2,000 people have with thousands of people that they know but I don't know, I will have never managed to follow 2,000 people."
+p829
+aS'At best, I would follow 100.'
+p830
+aS"This is the beauty of it, Twitter's filter allows me to access more, not less useful information."
+p831
+aS"Now, let's take Facebook."
+p832
+aS'It has 800 million users.'
+p833
+aS'Some of them are heavy users, they have 5,000 friends and spend hours on it every day.'
+p834
+aS'Others open it every few weeks and only have a few dozen friends.'
+p835
+aS'So Facebook has built this very collaborative differentiation.'
+p836
+aS'If you are a heavy user, it presents you all updates from your friends in the chronological order.'
+p837
+aS'Thats the most recent updates from all your friends come first.'
+p838
+aS'However, if you only use it occasionally, they will show you only the most interesting updates.'
+p839
+aS'The assumption there is that if you have been away for three weeks and you only have 30 minutes to catch up, why go through thousands of messages in chronological order?'
+p840
+aS'To Facebook and to me, this seems like a reasonable assumption.'
+p841
+aS'Thats why relevance rather than recency is the default filter for the occasional users.'
+p842
+aS'If you want to see all the recent messages, all you have to do, as Jacob said, is just click a button called most recent.'
+p843
+aS'Sure we can have a broad philosophical debate on whether social networking is good or evil, but as long as we accept that social networking is a legitimate activity, we should also accept that filters make it better.'
+p844
+aS'Now lets tackle the elephant in the room, which is Google.'
+p845
+aS'Suppose Im so keen on conspiracy theories that my blackboard is larger than Glenn Becks.'
+p846
+aS'So I believe that 9/11 was an inside job.'
+p847
+aS'I believe that Obama is a Kenya-born Muslim, that climate change is a non-issue manufactured by the lamestream media, that the government is hiding the truth about the UFOs and so on.'
+p848
+aS'In other words, Im exactly the kind of guy that Eli is worried about.'
+p849
+aS'Furthermore, suppose that I became all of that before the filter bubble set in.'
+p850
+aS'In the great age of unfiltered viewpoints that we used to call the era of cable television.'
+p851
+aS'So now comes the filter bubble and Google starts personalizing my search results.'
+p852
+aS'Instead of seeing generic search results say about 9/11, actually see that some search results have already been endorsed or liked by my friends.'
+p853
+aS'In turn, when my friends use Google, they see the links that I visited and I liked as well.'
+p854
+aS'Now this is the new mutual exposure, why is it a good thing?'
+p855
+aS'Well if you think that all my friends are nut cases like me, then we do have a problem, because exposure all of us may end up becoming even more paranoid.'
+p856
+aS'But lets leave Charlie Manson and the Unibomber aside for a moment.'
+p857
+aS'I dont think theyre representative of most internet users and their friends.'
+p858
+aS'The way Google and Facebook map out our social connections, they try to be very comprehensive.'
+p859
+aS'We see links from people we went to school with, our colleagues, our relatives, and so forth.'
+p860
+aS'Its quite likely that many of these people will have radically different positions on 9/11, climate change, Obamas birthplace, and UFOs.'
+p861
+aS'So my point is this, that a link to the report of 9/11 commission that has been endorsed by someone from my social circle, is more trustworthy than a generic Google link that has not passed through a similar social filter.'
+p862
+aS'In other words, its a possibility that people would now be paying more attention or at least more respect to positions they would otherwise find crazy and conspiratorial, only because their friends are known to endorse those positions.'
+p863
+aS'So, to conclude, there are many good concerns about the future of the Internet.'
+p864
+aS'That of privacy ranks very high on my personal list, but the filter bubble is not one of them.'
+p865
+aS'Its okay to hate Google and Facebook, but we should hate them for the right reasons.'
+p866
+aS'Thank you.'
+p867
+asg18
+(dp868
+S'19:22:49'
+p869
+I68
+sS'19:18:41'
+p870
+I20
+sS'19:17:47'
+p871
+I10
+sS'19:21:45'
+p872
+I56
+sS'19:20:44'
+p873
+I44
+sS'19:19:49'
+p874
+I33
+sS'19:23:42'
+p875
+I79
+ssg8
+(lp876
+S"Thank you.Well, I'm glad that Siva has chosen to debate with Thomas Friedman rather than with [[applause]] us, but I'd like to begin with a few lessons from history."
+p877
+aS'First, technology always playsthe scapegoat whenever it comes to debates about the closing of the American mind.Remember Allan Bloom and his bestselling book, "The Closing of the American Mind," inthe \'80s?'
+p878
+aS'Well, let me remind you, Bloom has actually argued that the closing of theAmerican mind occurs because of CD players and headphones.'
+p879
+aS'And he actually arguedthat those might incite teenagers to kill their parents.'
+p880
+aS'We know what the late AllanBloom would have made of the iPad, why his reactionary torch is now being carried bythe liberal crowd from MoveOn is beyond me.The second lesson from history is that concerns about online polarization are as old as [[laughter]] the .'
+p881
+aS'As early as 1995, the Nation Magazine carried an article by AndrewShapiro, which argued, and I quote, "Cyberspace is shaping out to be more like suburbiathan cy-Berkeley, where you interact only with people of your choosing and withinformation tailored to your desires.'
+p882
+aS'" That was 1995.'
+p883
+aS'Six years later, Cass Sunsteinargued that, "The Internet is serving as a breeding ground for extremism becauselikeminded people are deliberating with one another without hearing contrary views,"end of quote.'
+p884
+aS'So enter Eli Pariser.'
+p885
+aS'In one respect, he follows in the tradition of Shapiroand Sunstein.'
+p886
+aS'All of them present virtually no evidence that such online segregation istaking place.'
+p887
+aS"But they're also different.Where Shapiro and Sunstein worried that we, the users, might choose the easy way outand simply award our comfortable viewpoints, but Pariser argues that filters andalgorithms are doing this for us."
+p888
+aS"It's a very important difference."
+p889
+aS'Shapiro and Sunsteinblame the filter bubble on us, the users.'
+p890
+aS'But Pariser blames it on the companies.'
+p891
+aS"Now,who doesn't like such an exciting conspiracy theory?"
+p892
+aS"After all, it's always good to findsomeone else to blame but us."
+p893
+aS'I think this is a fairytale for many of the reasons thatJacob has outlined, but let me also provoke and give you three examples of how filtersnaturally enhance our political culture.'
+p894
+aS"So let's take Twitter."
+p895
+aS'Many people think thatTwitter, unlike Google and Facebook, does not engage in customizing and filtering.'
+p896
+aS'Thatis actually not true.'
+p897
+aS'Twitter does hide certain types of messages.'
+p898
+aS"Thus, if you follow mebut you don't follow Siva, and I send Siva a public tweet, you will not see that tweet.Just think about it, you choose to follow me and you probably expect to get all of mymessages, but you're actually not seeing my tweet to Siva.And, mind you, Twitter made that filtering decision on your behalf."
+p899
+aS'Is it paternalistic?Sure.'
+p900
+aS'Are these types of paternalism justified?'
+p901
+aS'Well, take my case.'
+p902
+aS"I follow more than2,000 people on Twitter, and I'm very happy with the breadth of news I get."
+p903
+aS"But if I haveto read every single conversation that these 2,000 people have with thousands ofpeople that they know but I don't know, I will have never managed to follow 2,000people."
+p904
+aS'At best, I would follow 100.'
+p905
+aS"This is the beauty of it, Twitter's filter allows me to access more, not less useful information."
+p906
+aS"Now, let's take Facebook.It has 800 million users."
+p907
+aS'Some of them are heavy users, they have 5,000 friends andspend hours on it every day.'
+p908
+aS'Others open it every few weeks and only have a few dozenfriends.'
+p909
+aS'So Facebook has built this very collaborative differentiation.'
+p910
+aS'If you are a heavyuser, it presents you all updates from your friends in the chronological order.Thats the most recent updates from all your friends come first.'
+p911
+aS'However, if you onlyuse it occasionally, they will show you only the most interesting updates.'
+p912
+aS'Theassumption there is that if you have been away for three weeks and you only have 30minutes to catch up, why go through thousands of messages in chronological order?'
+p913
+aS'ToFacebook and to me, this seems like a reasonable assumption.'
+p914
+aS'Thats why relevancerather than recency is the default filter for the occasional users.'
+p915
+aS'If you want to see allthe recent messages, all you have to do, as Jacob said, is just click a button called mostrecent.'
+p916
+aS'Sure we can have a broad philosophical debate on whether social networking isgood or evil, but as long as we accept that social networking is a legitimate activity, weshould also accept that filters make it better.'
+p917
+aS'Now lets tackle the elephant in the room,which is Google.'
+p918
+aS'Suppose Im so keen on conspiracy theories that my blackboard islarger than Glenn Becks.So I believe that 9/11 was an inside job.'
+p919
+aS'I believe that Obama is a Kenya-born Muslim,that climate change is a non-issue manufactured by the lamestream media, that thegovernment is hiding the truth about the UFOs and so on.'
+p920
+aS'In other words, Im exactlythe kind of guy that Eli is worried about.'
+p921
+aS'Furthermore, suppose that I became all of thatbefore the filter bubble set in.'
+p922
+aS'In the great age of unfiltered viewpoints that we used tocall the era of cable television.'
+p923
+aS'So now comes the filter bubble and Google startspersonalizing my search results.'
+p924
+aS'Instead of seeing generic search results say about 9/11,actually see that some search results have already been endorsed or liked by my friends.In turn, when my friends use Google, they see the links that I visited and I liked as well.Now this is the new mutual exposure, why is it a good thing?'
+p925
+aS'Well if you think that allmy friends are nut cases like me, then we do have a problem, because exposure all of us may end up becoming even more paranoid.But lets leave Charlie Manson and the Unibomber aside for a moment.'
+p926
+aS'I dont thinktheyre representative of most internet users and their friends.'
+p927
+aS'The way Google andFacebook map out our social connections, they try to be very comprehensive.'
+p928
+aS'We seelinks from people we went to school with, our colleagues, our relatives, and so forth.Its quite likely that many of these people will have radically different positions on 9/11,climate change, Obamas birthplace, and UFOs.'
+p929
+aS'So my point is this, that a link to thereport of 9/11 commission that has been endorsed by someone from my social circle, ismore trustworthy than a generic Google link that has not passed through a similar socialfilter.'
+p930
+aS'In other words, its a possibility that people would now be paying more attentionor at least more respect to positions they would otherwise find crazy and conspiratorial,only because their friends are known to endorse those positions.So, to conclude, there are many good concerns about the future of the Internet.'
+p931
+aS'Thatof privacy ranks very high on my personal list, but the filter bubble is not one of them.Its okay to hate Google and Facebook, but we should hate them for the right reasons.Thank you.'
+p932
+asg13
+(dp933
 I10
 S'15'
-p563
+p934
 sI44
 S'16'
-p564
+p935
 sI79
 S'17'
-p565
-ssg13
-(lp566
-S'Thank you.'
-p567
-aS"Well, I'm glad that Siva has chosen to debate with Thomas Friedman rather than with"
-p568
-aS"us, but I'd like to begin with a few lessons from history. First, technology always plays"
-p569
-aS'the scapegoat whenever it comes to debates about the closing of the American mind.'
-p570
-aS'Remember Allan Bloom and his bestselling book, "The Closing of the American Mind," in'
-p571
-aS"the '80s? Well, let me remind you, Bloom has actually argued that the closing of the"
-p572
-aS'American mind occurs because of CD players and headphones. And he actually argued'
-p573
-aS'that those might incite teenagers to kill their parents. We know what the late Allan'
-p574
-aS'Bloom would have made of the iPad, why his reactionary torch is now being carried by'
-p575
-aS'the liberal crowd from MoveOn is beyond me.'
-p576
-aS'The second lesson from history is that concerns about online polarization are as old as'
-p577
-aS'the . As early as 1995, the Nation Magazine carried an article by Andrew'
-p578
-aS'Shapiro, which argued, and I quote, "Cyberspace is shaping out to be more like suburbia'
-p579
-aS'than cy-Berkeley, where you interact only with people of your choosing and with'
-p580
-aS'information tailored to your desires." That was 1995. Six years later, Cass Sunstein'
-p581
-aS'argued that, "The Internet is serving as a breeding ground for extremism because'
-p582
-aS'likeminded people are deliberating with one another without hearing contrary views,"'
-p583
-aS'end of quote. So enter Eli Pariser. In one respect, he follows in the tradition of Shapiro'
-p584
-aS'and Sunstein. All of them present virtually no evidence that such online segregation is'
-p585
-aS"taking place. But they're also different."
-p586
-aS'Where Shapiro and Sunstein worried that we, the users, might choose the easy way out'
-p587
-aS'and simply award our comfortable viewpoints, but Pariser argues that filters and'
-p588
-aS"algorithms are doing this for us. It's a very important difference. Shapiro and Sunstein"
-p589
-aS'blame the filter bubble on us, the users. But Pariser blames it on the companies. Now,'
-p590
-aS"who doesn't like such an exciting conspiracy theory? After all, it's always good to find"
-p591
-aS'someone else to blame but us. I think this is a fairytale for many of the reasons that'
-p592
-aS'Jacob has outlined, but let me also provoke and give you three examples of how filters'
-p593
-aS"naturally enhance our political culture. So let's take Twitter. Many people think that"
-p594
-aS'Twitter, unlike Google and Facebook, does not engage in customizing and filtering. That'
-p595
-aS'is actually not true. Twitter does hide certain types of messages. Thus, if you follow me'
-p596
-aS"but you don't follow Siva, and I send Siva a public tweet, you will not see that tweet."
-p597
-aS'Just think about it, you choose to follow me and you probably expect to get all of my'
-p598
-aS"messages, but you're actually not seeing my tweet to Siva."
-p599
-aS'And, mind you, Twitter made that filtering decision on your behalf. Is it paternalistic?'
-p600
-aS'Sure. Are these types of paternalism justified? Well, take my case. I follow more than'
-p601
-aS"2,000 people on Twitter, and I'm very happy with the breadth of news I get. But if I have"
-p602
-aS'to read every single conversation that these 2,000 people have with thousands of'
-p603
-aS"people that they know but I don't know, I will have never managed to follow 2,000"
-p604
-aS"people. At best, I would follow 100. This is the beauty of it, Twitter's "
-p605
-aS"filter allows me to access more, not less useful information. Now, let's take Facebook."
-p606
-aS'It has 800 million users. Some of them are heavy users, they have 5,000 friends and'
-p607
-aS'spend hours on it every day. Others open it every few weeks and only have a few dozen'
-p608
-aS'friends. So Facebook has built this very collaborative differentiation. If you are a heavy'
-p609
-aS'user, it presents you all updates from your friends in the chronological order.'
-p610
-aS'Thats the most recent updates from all your friends come first. However, if you only'
-p611
-aS'use it occasionally, they will show you only the most interesting updates. The'
-p612
-aS'assumption there is that if you have been away for three weeks and you only have 30'
-p613
-aS'minutes to catch up, why go through thousands of messages in chronological order? To'
-p614
-aS'Facebook and to me, this seems like a reasonable assumption. Thats why relevance'
-p615
-aS'rather than recency is the default filter for the occasional users. If you want to see all'
-p616
-aS'the recent messages, all you have to do, as Jacob said, is just click a button called most'
-p617
-aS'recent. Sure we can have a broad philosophical debate on whether social networking is'
-p618
-aS'good or evil, but as long as we accept that social networking is a legitimate activity, we'
-p619
-aS'should also accept that filters make it better. Now lets tackle the elephant in the room,'
-p620
-aS'which is Google. Suppose Im so keen on conspiracy theories that my blackboard is'
-p621
-aS'larger than Glenn Becks.'
-p622
-aS'So I believe that 9/11 was an inside job. I believe that Obama is a Kenya-born Muslim,'
-p623
-aS'that climate change is a non-issue manufactured by the lamestream media, that the'
-p624
-aS'government is hiding the truth about the UFOs and so on. In other words, Im exactly'
-p625
-aS'the kind of guy that Eli is worried about. Furthermore, suppose that I became all of that'
-p626
-aS'before the filter bubble set in. In the great age of unfiltered viewpoints that we used to'
-p627
-aS'call the era of cable television. So now comes the filter bubble and Google starts'
-p628
-aS'personalizing my search results. Instead of seeing generic search results say about 9/11,'
-p629
-aS'actually see that some search results have already been endorsed or liked by my friends.'
-p630
-aS'In turn, when my friends use Google, they see the links that I visited and I liked as well.'
-p631
-aS'Now this is the new mutual exposure, why is it a good thing? Well if you think that all'
-p632
-aS'my friends are nut cases like me, then we do have a problem, because '
-p633
-aS'exposure all of us may end up becoming even more paranoid.'
-p634
-aS'But lets leave Charlie Manson and the Unibomber aside for a moment. I dont think'
-p635
-aS'theyre representative of most internet users and their friends. The way Google and'
-p636
-aS'Facebook map out our social connections, they try to be very comprehensive. We see'
-p637
-aS'links from people we went to school with, our colleagues, our relatives, and so forth.'
-p638
-aS'Its quite likely that many of these people will have radically different positions on 9/11,'
-p639
-aS'climate change, Obamas birthplace, and UFOs. So my point is this, that a link to the'
-p640
-aS'report of 9/11 commission that has been endorsed by someone from my social circle, is'
-p641
-aS'more trustworthy than a generic Google link that has not passed through a similar social'
-p642
-aS'filter. In other words, its a possibility that people would now be paying more attention'
-p643
-aS'or at least more respect to positions they would otherwise find crazy and conspiratorial,'
-p644
-aS'only because their friends are known to endorse those positions.'
-p645
-aS'So, to conclude, there are many good concerns about the future of the Internet. That'
-p646
-aS'of privacy ranks very high on my personal list, but the filter bubble is not one of them.'
-p647
-aS'Its okay to hate Google and Facebook, but we should hate them for the right reasons.'
-p648
-aS'Thank you.'
-p649
-asg16
-(dp650
-I33
-S'19:19:49'
-p651
-sI68
-S'19:22:49'
-p652
-sI10
-S'19:17:47'
-p653
-sI44
-S'19:20:44'
-p654
-sI79
-S'19:23:42'
-p655
-sI20
-S'19:18:41'
-p656
-sI56
-S'19:21:45'
-p657
-ssa(dp658
-g20
-(dp659
+p936
+ssa(dp937
+g22
+(dp938
 I1
 S'[applause]'
-p660
-ssg8
+p939
+ssg11
 S'JOHN DONVAN'
-p661
-sg10
-(dp662
+p940
+sg16
+(lp941
+S'Thank you Evgeny Morozov.'
+p942
+aS'And that concludes round one of this Intelligence Squared US debate, where the motion being argued is, "When it comes to politics, the internet is closing our minds.'
+p943
+aS'" Keep in mind how you voted at the beginning of the evening, because were going to ask you to vote again at the end and the team that has moved its numbers the most will be declared our winner.'
+p944
+aS'Now we go on to round two.'
+p945
+aS'Round two is where the debaters address each other directly and also answer questions from you in the audience and from me.'
+p946
+aS'We have two teams of two, who are arguing over this motion, "When it comes to politics, the internet is closing our minds.'
+p947
+aS'" The side arguing for the motion, Eli Pariser and Siva Vaidhyanathan.'
+p948
+aS'Theyre arguing that the internet is actually several internets, that they put up walls between the lands that are occupied by people of differing opinions, between nations as much as between liberals and conservatives.'
+p949
+aS'And that especially with customization, designed to give us what we want, that the internet is getting worse at bringing together people who are not like minded.'
+p950
+aS'The team arguing against the motion, Jacob Weisberg and Evgeny Morozov, theyre saying sure, maybe these bad things could happen someday but theres not much evidence that they are happening a lot yet right now.'
+p951
+aS'And besides a tool that can and does connect strangers globally around the world by definition, almost, is a good thing.'
+p952
+aS'And that customization, perhaps helps to organize the way that we think.'
+p953
+aS'So I want to put a question to the side that is arguing against the motion, that when it comes to politics, the internet is closing our minds.'
+p954
+aS'Jacob Weisberg, you said as your sort of slam dunk point to the audience, you have to decide whether you think the audience is closing your mind.'
+p955
+aS'But if the other guys are right, they wont know whether the audience is closing their minds because if their minds are being closed, part of having their minds closed is not knowing that their minds are being closed.'
+p956
+aS"I mean, but they're saying that it's an insidious thing, that it's a stealth thing, particularly with the customization, that it happens in a way that it comes to you -- you go through this process unawares."
+p957
+aS'Can you take that on?'
+p958
+asg18
+(dp959
+S'19:25:40'
+p960
+I23
+sS'19:24:48'
+p961
+I12
+ssg8
+(lp962
+S'Thank you Evgeny Morozov.And that concludes round one of this Intelligence Squared US debate, where the motion [[applause]] being argued is, "When it comes to politics, the internet is closing our minds.'
+p963
+aS'" Keep inmind how you voted at the beginning of the evening, because were going to ask you tovote again at the end and the team that has moved its numbers the most will bedeclared our winner.'
+p964
+aS'Now we go on to round two.'
+p965
+aS'Round two is where the debatersaddress each other directly and also answer questions from you in the audience andfrom me.'
+p966
+aS'We have two teams of two, who are arguing over this motion, "When itcomes to politics, the internet is closing our minds.'
+p967
+aS'" The side arguing for the motion, EliPariser and Siva Vaidhyanathan.'
+p968
+aS'Theyre arguing that the internet is actually severalinternets, that they put up walls between the lands that are occupied by people ofdiffering opinions, between nations as much as between liberals and conservatives.And that especially with customization, designed to give us what we want, that theinternet is getting worse at bringing together people who are not like minded.'
+p969
+aS'The teamarguing against the motion, Jacob Weisberg and Evgeny Morozov, theyre saying sure,maybe these bad things could happen someday but theres not much evidence that theyare happening a lot yet right now.'
+p970
+aS'And besides a tool that can and does connectstrangers globally around the world by definition, almost, is a good thing.'
+p971
+aS'And thatcustomization, perhaps helps to organize the way that we think.'
+p972
+aS'So I want to put aquestion to the side that is arguing against the motion, that when it comes to politics,the internet is closing our minds.'
+p973
+aS'Jacob Weisberg, you said as your sort of slam dunkpoint to the audience, you have to decide whether you think the audience is closingyour mind.But if the other guys are right, they wont know whether the audience is closing theirminds because if their minds are being closed, part of having their minds closed is notknowing that their minds are being closed.'
+p974
+aS"I mean, but they're saying that it's aninsidious thing, that it's a stealth thing, particularly with the customization, that ithappens in a way that it comes to you -- you go through this process unawares."
+p975
+aS'Can youtake that on?'
+p976
+asg13
+(dp977
 I29
 S'18'
-p663
-ssg13
-(lp664
-S'Thank you Evgeny Morozov.'
-p665
-aS'And that concludes round one of this Intelligence Squared US debate, where the motion'
-p666
-aS'being argued is, "When it comes to politics, the internet is closing our minds." Keep in'
-p667
-aS'mind how you voted at the beginning of the evening, because were going to ask you to'
-p668
-aS'vote again at the end and the team that has moved its numbers the most will be'
-p669
-aS'declared our winner. Now we go on to round two. Round two is where the debaters'
-p670
-aS'address each other directly and also answer questions from you in the audience and'
-p671
-aS'from me. We have two teams of two, who are arguing over this motion, "When it'
-p672
-aS'comes to politics, the internet is closing our minds." The side arguing for the motion, Eli'
-p673
-aS'Pariser and Siva Vaidhyanathan. Theyre arguing that the internet is actually several'
-p674
-aS'internets, that they put up walls between the lands that are occupied by people of'
-p675
-aS'differing opinions, between nations as much as between liberals and conservatives.'
-p676
-aS'And that especially with customization, designed to give us what we want, that the'
-p677
-aS'internet is getting worse at bringing together people who are not like minded. The team'
-p678
-aS'arguing against the motion, Jacob Weisberg and Evgeny Morozov, theyre saying sure,'
-p679
-aS'maybe these bad things could happen someday but theres not much evidence that they'
-p680
-aS'are happening a lot yet right now. And besides a tool that can and does connect'
-p681
-aS'strangers globally around the world by definition, almost, is a good thing. And that'
-p682
-aS'customization, perhaps helps to organize the way that we think. So I want to put a'
-p683
-aS'question to the side that is arguing against the motion, that when it comes to politics,'
-p684
-aS'the internet is closing our minds. Jacob Weisberg, you said as your sort of slam dunk'
-p685
-aS'point to the audience, you have to decide whether you think the audience is closing'
-p686
-aS'your mind.'
-p687
-aS'But if the other guys are right, they wont know whether the audience is closing their'
-p688
-aS'minds because if their minds are being closed, part of having their minds closed is not'
-p689
-aS"knowing that their minds are being closed. I mean, but they're saying that it's an"
-p690
-aS"insidious thing, that it's a stealth thing, particularly with the customization, that it"
-p691
-aS'happens in a way that it comes to you -- you go through this process unawares. Can you'
-p692
-aS'take that on?'
-p693
-asg16
-(dp694
-I12
-S'19:24:48'
-p695
-sI23
-S'19:25:40'
-p696
-ssa(dp697
-g8
-S'JACOB WEISBERG'
-p698
-sg13
-(lp699
-S'Well, this is the minds in a vat --'
-p700
-asa(dp701
-g8
-S'JOHN DONVAN'
-p702
-sg13
-(lp703
-S"Are you -- I'm sorry."
-p704
-asa(dp705
-g8
-S'JACOB WEISBERG'
-p706
-sg13
-(lp707
-S'This is the minds in a vat argument in philosophy, that if we were not actually'
-p708
-aS'embodied, but have our minds in vats being manipulated by space aliens, we have no'
-p709
-aS"way to know. I'm not sure I can answer that. But I do think -- Siva made this point that,"
-p710
-aS"well, for those of us in this room, this really isn't a problem. I mean, we're media savvy."
-p711
-aS"We're educated. We're sophisticated. It's a bit -- it's a problem for the hoi polloi out"
-p712
-aS'there, the unwashed masses who, you know, are just getting spoon fed whatever they'
-p713
-aS'get fed. I find that argument condescending. I mean, we live in a democracy, and it'
-p714
-aS"seems to me that we're all responsible for the information we receive."
-p715
-aS'And not everybody engages as deeply in different subjects. But the difference with the'
-p716
-aS'internet is we can measure it. You know, we never knew who read the stories in the B'
-p717
-aS'section of the New York Times about Albany and the state legislature. On the internet,'
-p718
-aS"you know how many people click on them, but that doesn't mean --"
-p719
-asg16
-(dp720
-I8
-S'19:26:45'
-p721
-ssa(dp722
-g20
-(dp723
-I1
-S'[laughter]'
-p724
-ssg8
-S'JOHN DONVAN'
-p725
-sg13
-(lp726
-S'Its about 11, I think.'
-p727
-asa(dp728
-g8
-S'JACOB WEISBERG'
-p729
-sg13
-(lp730
-S'Yeah, exactly. But how many people actually read to the end or even the beginning of'
-p731
-aS'the story before we had the internet?'
-p732
-asa(dp733
-g8
-S'JOHN DONVAN'
-p734
-sg13
-(lp735
-S"Well, Siva, take on, number one, Jacob's point that you're, I think, suggesting a little bit"
-p736
-aS"of snobbery here, that you're saying, we all can keep up with things, but that there's a"
-p737
-aS'great unwashed public out there that can be deceived by the power of these algorithms'
-p738
-aS'that are telling them what needs to show up in their searches.'
-p739
-asa(dp740
-g8
-S'SIVA VAIDHYANATHAN'
-p741
-sg10
-(dp742
-I3
-S'19'
-p743
-ssg13
-(lp744
-S"I merely meant that Jacob's test, whether it works for you, wasn't a good enough test,"
-p745
-aS'largely because you are just you, and you are not we. You are not a greater sample,'
-p746
-aS'right?'
-p747
-aS"So if we're going to be empirical, let's be good about the social science we deploy. That"
-p748
-aS"is the worst possible empirical test, what happens to you. It's almost laughable in its"
-p749
-aS"suggestion. So that can't possibly be the test when you address this question."
-p750
-asg16
-(dp751
-I3
-S'19:27:44'
-p752
-ssa(dp753
-g8
-S'JOHN DONVAN'
-p754
-sg13
-(lp755
-S'But wasn\'t your partner using the "that\'s what happened to me when I typed in Egypt"?'
-p756
-asa(dp757
-g8
-S'ELI PARISER'
-p758
-sg13
-(lp759
-S"Let's talk a little bit about the studies about --"
-p760
-asa(dp761
-g8
-S'JOHN DONVAN'
-p762
-sg13
-(lp763
-S'Eli Pariser.'
-p764
-asa(dp765
-g8
-S'ELI PARISER'
-p766
-sg10
-(dp767
-I22
-S'20'
-p768
-ssg13
-(lp769
-S"-- because I think it's worth digging into this a little bit. There is one -- first off, the"
-p770
-aS"reason that it's so hard to study this stuff is because the easiest way to study it is to get"
-p771
-aS"inside the black box of these companies. And these companies don't have any interest"
-p772
-aS"in letting people go in and prove that these companies are doing bad things. But it's"
-p773
-aS"very hard to look at from the outside, which is why there's just not many studies that"
-p774
-aS"haven't been, as Jacob said, you know, funded by Facebook, funded by Microsoft,"
-p775
-aS'funded by the companies themselves.'
-p776
-aS'The one clear study on Google personalization that has been peer reviewed is a study by'
-p777
-aS"a guy named Martin Feuz. And it's pretty clear. The methodology is good. He looked at"
-p778
-aS"how a search history affects the personalization you get. And it's very clear, again, 60"
-p779
-aS'percent of the search results on the first page are different for most -- for people who'
-p780
-aS"have a long web history in Google. But actually, the study that's the most interesting"
-p781
-aS'here is the Gentzkow study that Jacob was referring to. This is a study that was sort of'
-p782
-aS'initially described as a study that showed that people are linking to each other and that'
-p783
-aS"the internet isn't as polarizing as we thought. And the interesting thing is that if you dig"
-p784
-aS'into that study, it actually arguably shows the exact opposite. What they did was they'
-p785
-aS'created an isolation index for each different kind of medium. And so the isolation index'
-p786
-aS'for cable news that that study used was about 3.3. On the internet, the internet had a 7'
-p787
-aS'-- an isolation index of 7.'
-p788
-aS"And so it's twice as polarizing as polarized as cable news. Now, what's more interesting"
-p789
-aS'is that this was -- the study was done before the personalized internet. So the main'
-p790
-aS'thing that that study was looking at was the fact that a lot of people, their online serving'
-p791
-aS'patterns lead them to Yahoo! and then from Yahoo! out to a whole bunch of'
-p792
-aS"ideologically diverse links. But Yahoo!'s changed since 2007, since that study was"
-p793
-aS"written. And so now, Yahoo! looks at your history on what links you've clicked at in the"
-p794
-aS'past and sends different people out in different directions.'
-p795
-asg16
-(dp796
-I19
-S'19:29:47'
-p797
-sI7
-S'19:28:40'
-p798
-ssa(dp799
-g8
-S'JOHN DONVAN'
-p800
-sg13
-(lp801
-S'Let me let the other side come in and take on --'
-p802
-asa(dp803
-g8
-S'ELI PARISER'
-p804
-sg13
-(lp805
-S'One more , though.'
-p806
-asa(dp807
-g8
-S'JOHN DONVAN'
-p808
-sg13
-(lp809
-S'Okay, go ahead.'
-p810
-asa(dp811
-g8
-S'ELI PARISER'
-p812
-sg13
-(lp813
-S"Which is that the other thing that's changed since that study was done is the rise of"
-p814
-aS'social media as one of the primary ways that people get information. And they did this'
-p815
-aS"isolation index calculation on people's sets of friends as well. So cable news is 3.3."
-p816
-aS"The internet in 2007 in the Yahoo! era was 7. And people's groups of friends was 30."
-p817
-aS'Now, that 30 has become embedded in every experience that we have on the internet'
-p818
-aS'now. So you know, I think actually if you look into the studies that have been done --'
-p819
-asg16
-(dp820
-I3
-S'19:30:41'
-p821
-ssa(dp822
-g8
-S'JOHN DONVAN'
-p823
-sg13
-(lp824
-S"Okay, let's let --"
-p825
-asa(dp826
-g8
-S'ELI PARISER'
-p827
-sg13
-(lp828
-S"-- it's quite clear --"
-p829
-asa(dp830
-g8
-S'JOHN DONVAN'
-p831
-sg13
-(lp832
-S"Let's let Jacob Weisberg ."
-p833
-asa(dp834
-g8
-S'JACOB WEISBERG'
-p835
-sg13
-(lp836
-S'I read the same study. It was a little baffling, but it said the polarization index for'
-p837
-aS'newspapers was 10. So the old media is well beyond the mean. I think you need to take'
-p838
-aS'all of that with a grain of salt. I mean --'
-p839
-asa(dp840
-g8
-S'ELI PARISER'
-p841
-sg13
-(lp842
-S'But you cited it. I mean, this is the study that you were citing.'
-p843
-asa(dp844
-g8
-S'JACOB WEISBERG'
-p845
-sg10
-(dp846
-I0
-S'21'
-p847
-ssg13
-(lp848
-S"Right, exactly. And it doesn't show that the internet is the most polarizing thing. But"
-p849
-aS'there -- I looked at about half a dozen studies for this. And I would have to say, just'
-p850
-aS"trying to be as objective as possible, that the preponderance, the studies I didn't cite,"
-p851
-aS"say that there's not clear evidence this is happening. There's no evidence it's getting"
-p852
-aS'worse. And I --'
-p853
-asa(dp854
-g8
-S'ELI PARISER'
-p855
-sg13
-(lp856
-S'What do you think of the Feuz study? Because we Tweeted about this.'
-p857
-asa(dp858
-g8
-S'JACOB WEISBERG'
-p859
-sg13
-(lp860
-S"I don't think it showed what you're saying it showed."
-p861
-asa(dp862
-g8
-S'JOHN DONVAN'
-p863
-sg13
-(lp864
-S"Let's bring Evgeny in and --"
-p865
-asg16
-(dp866
-I1
-S'19:31:42'
-p867
-ssa(dp868
-g8
-S'EVGENY MOROZOV'
-p869
-sg13
-(lp870
-S"No, I just think, it's fine if we're talking about studies that no one but a few people in"
-p871
-aS'this audience have read, so they all sound . But I think you also have to'
-p872
-aS"keep in mind that a lot depends on what kind of information you're trying to access"
-p873
-aS"online. If you're searching for a piece on Manhattan and I'm searching it from my"
-p874
-aS'mobile phone, then Google knows where I am, I would actually want 99 percent of the'
-p875
-aS'searches also to be personalized, probably not 60. Sixty is not high enough, in part'
-p876
-aS"because it's very obvious that what I want to do is to order a pizza. Right? So then if I"
-p877
-aS'am searching for political information, right, maybe the ratio should be 10 percent or 5'
-p878
-aS"percent or zero. So to say that there is 60 percent of information that's personalized"
-p879
-aS"doesn't say much because it all depends on what it is that's being personalized. Another"
-p880
-aS"point is that, again, take something like YouTube. So if you don't sign in to YouTube,"
-p881
-aS'YouTube will show you at the very front page videos that are most popular with the rest'
-p882
-aS'of the crowd. You see all those fascinating cat videos. You will see all those videos from'
-p883
-aS'MTV. You will see whatever is now popular in the online world.'
-p884
-aS'They will all be displayed to you, and you will see them there prominently. If I sign in'
-p885
-aS"with my Google account, with my search history, instead of cat videos, I'll see links to"
-p886
-aS'new exciting videos about history, about culture, about theater. Why? Because Google'
-p887
-aS'and YouTube know that those are the kind of videos that I like to watch. So if Google'
-p888
-aS"can show me more videos about history than videos about cats, I can't really see how"
-p889
-aS'the internet is closing our minds.'
-p890
-asg16
-(dp891
-I14
-S'19:32:47'
-p892
-ssa(dp893
-g8
-S'JOHN DONVAN'
-p894
-sg10
-(dp895
-I1
-S'22'
-p896
-ssg13
-(lp897
-S'All right. Siva, are you arguing that the internet is closing our minds for your response.'
-p898
-asa(dp899
-g8
-S'SIVA VAIDHYANATHAN'
-p900
-sg13
-(lp901
-S'Thank you, Evgeny, for making two of my points. Number one -- that the notion of'
-p902
-aS'personalization, either through Facebook or another social network or through Google'
-p903
-aS"is actually tremendously helpful to us for shopping. It's not so good for learning. When"
-p904
-aS'you want to learn --'
-p905
-asa(dp906
-g8
-S'EVGENY MOROZOV'
-p907
-sg13
-(lp908
-S'About cats.'
-p909
-asa(dp910
-g8
-S'SIVA VAIDHYANATHAN'
-p911
-sg13
-(lp912
-S'When you want to learn about anything complex, the worst thing you can do is subject'
-p913
-aS'yourself to a social filter.'
-p914
-aS'The best thing you can do --'
-p915
-asg16
-(dp916
-I2
-S'19:33:42'
-p917
-ssa(dp918
-g8
-S'EVGENY MOROZOV'
-p919
-sg13
-(lp920
-S'You need better friends.'
-p921
-asa(dp922
-g20
-(dp923
-I1
-S'[laughter]'
-p924
-ssg8
-S'SIVA VAIDHYANATHAN'
-p925
-sg13
-(lp926
-S'-- is to challenge yourself --'
-p927
-aS"-- the best thing -- you're the person I retweet the most. The best thing you can do, you"
-p928
-aS'need to get out of the bubble. The best thing you can do is seek sources of expertise,'
-p929
-aS'seek sources that have -- that are particularly good at researching particular areas. Use'
-p930
-aS'online sources that are focused in particular areas like health, like science, right? That'
-p931
-aS'means call your librarian. That means talk to an expert. And that means go beyond'
-p932
-aS'asking a small set of people what the best way to explore a particular issue is. But for'
-p933
-aS"pizza, not a bad idea. And we can talk later, because I'll tell you if you're still interested."
-p934
-asa(dp935
-g8
-S'EVGENY MOROZOV'
-p936
-sg13
-(lp937
-S' integrate 2,000 people that are following Twitter, one of whom is you,'
-p938
-aS"why not integrate those sources in my search results? Why shouldn't I be able to see"
-p939
-aS"the searches of those highlights if no one is concerned about privacy? Don't you think"
-p940
-aS'the links you share or click on are not smart or interesting for me?'
-p941
-asg16
-(dp942
-I4
-S'19:34:42'
-p943
-ssa(dp944
-g8
-S'SIVA VAIDHYANATHAN'
-p945
-sg10
-(dp946
-I0
-S'23'
-p947
-ssg13
-(lp948
-S"They are for you. That's why you're my buddy, right? But that doesn't mean necessarily"
-p949
-aS"that what I'm doing is enhancing anybody else's --"
-p950
-asa(dp951
-g8
-S'EVGENY MOROZOV'
-p952
-sg13
-(lp953
-S"Why didn't you trust me to choose my friends and sources?"
-p954
-asa(dp955
-g8
-S'JOHN DONVAN'
-p956
-sg13
-(lp957
-S'Eli Pariser, I --'
-p958
-asa(dp959
-g8
-S'EVGENY MOROZOV'
-p960
-sg13
-(lp961
-S'You want to choose them for me?'
-p962
-asa(dp963
-g8
-S'JOHN DONVAN'
-p964
-sg13
-(lp965
-S"We also think your opponents who are arguing against the closing of American's minds"
-p966
-aS'through the internet have also made the argument that this personalization and'
-p967
-aS'customization, the filtering helps you think. It helps you organize. It cuts away the'
-p968
-aS'chafe. It brings things down to a manageable amount of material. And I can see the'
-p969
-aS'appeal to that argument. So take that on, Eli Pariser.'
-p970
-asa(dp971
-g8
-S'ELI PARISER'
-p972
-sg13
-(lp973
-S"Well, you don't hear me arguing that all personalization is bad or all filtering is bad."
-p974
-aS"That's kind of a nonsensical argument. As everyone has said, filtering has been around"
-p975
-aS"as long as there's information to filter. But the question is, what are the filters -- what"
-p976
-aS"are the lenses through which we're looking at the world now doing for most people who"
-p977
-aS'are looking at the world through those lenses?'
 p978
-aS"And I think we're talking a lot here about Twitter, but it's important to remember that"
-p979
-aS"Twitter -- actually it's hard to remember in a group of New Yorkers -- Twitter is a fringe"
-p980
-aS'phenomenon on the Internet relative to Google or Facebook. Twitter has a tiny, tiny'
-p981
-aS'user base compared to these other -- sorry?'
-p982
-asg16
-(dp983
-I5
-S'19:35:43'
-p984
-ssa(dp985
+ssa(dp979
 g8
+(lp980
+S'Well, this is the minds in a vat --'
+p981
+asg11
 S'JACOB WEISBERG'
+p982
+sg16
+(lp983
+g981
+asa(dp984
+g8
+(lp985
+S"Are you -- I'm sorry."
 p986
-sg13
-(lp987
-S'Only 200 million.'
-p988
+asg11
+S'JOHN DONVAN'
+p987
+sg16
+(lp988
+g986
 asa(dp989
 g8
-S'ELI PARISER'
-p990
-sg13
-(lp991
-S'Well, the -- but the actual -- the actual user -- you know, the active users, if you look at'
+(lp990
+S'This is the minds in a vat argument in philosophy, that if we were not actuallyembodied, but have our minds in vats being manipulated by space aliens, we have noway to know.'
+p991
+aS"I'm not sure I can answer that."
 p992
-aS"active users on Twitter, it's actually much smaller, it's about 25 million people, which is a"
+aS"But I do think -- Siva made this point that,well, for those of us in this room, this really isn't a problem."
 p993
-aS'lot of people, but not compared to Facebook, not compared to Google. And so we have'
+aS"I mean, we're media savvy.We're educated."
 p994
-aS'to look at sort of how most people are using this stuff.'
+aS"We're sophisticated."
 p995
-asa(dp996
-g8
-S'JOHN DONVAN'
+aS"It's a bit -- it's a problem for the hoi polloi outthere, the unwashed masses who, you know, are just getting spoon fed whatever theyget fed."
+p996
+aS'I find that argument condescending.'
 p997
-sg10
-(dp998
-I1
-S'24'
+aS"I mean, we live in a democracy, and itseems to me that we're all responsible for the information we receive.And not everybody engages as deeply in different subjects."
+p998
+aS'But the difference with theinternet is we can measure it.'
 p999
-ssg13
-(lp1000
-S'Yes, Jacob Weisberg.'
+aS'You know, we never knew who read the stories in the Bsection of the New York Times about Albany and the state legislature.'
+p1000
+aS"On the internet,you know how many people click on them, but that doesn't mean --"
 p1001
-asa(dp1002
-g20
-(dp1003
-I7
-S'[laughter]'
-p1004
-ssg8
+asg11
 S'JACOB WEISBERG'
+p1002
+sg16
+(lp1003
+S'This is the minds in a vat argument in philosophy, that if we were not actually embodied, but have our minds in vats being manipulated by space aliens, we have no way to know.'
+p1004
+aS"I'm not sure I can answer that."
 p1005
-sg13
-(lp1006
-S"I want to ask Eli one other question, I mean, since we're dealing with the interesting"
+aS"But I do think -- Siva made this point that, well, for those of us in this room, this really isn't a problem."
+p1006
+aS"I mean, we're media savvy."
 p1007
-aS"implications of this thing that I don't think is happening, how do you want to -- what"
+aS"We're educated."
 p1008
-aS'kind of regulation do you want to deal with this problem?'
+aS"We're sophisticated."
 p1009
-aS"Do you want to say that Google and Facebook aren't allowed to filter in certain ways, or"
+aS"It's a bit -- it's a problem for the hoi polloi out there, the unwashed masses who, you know, are just getting spoon fed whatever they get fed."
 p1010
-aS'do you want them to become this sort of paternalistic gatekeepers that say, "If you\'re'
+aS'I find that argument condescending.'
 p1011
-aS'searching for Lady Gaga video, you also have to have a little bit of this interesting study'
+aS"I mean, we live in a democracy, and it seems to me that we're all responsible for the information we receive."
 p1012
-aS'from the nonpartisan Congressional Budget Office.'
+aS'And not everybody engages as deeply in different subjects.'
 p1013
-aS'Right?'
+aS'But the difference with the internet is we can measure it.'
 p1014
-asg16
-(dp1015
-I3
-S'19:36:39'
+aS'You know, we never knew who read the stories in the B section of the New York Times about Albany and the state legislature.'
+p1015
+aS"On the internet, you know how many people click on them, but that doesn't mean --"
 p1016
-ssa(dp1017
-g8
-S'ELI PARISER'
+asg18
+(dp1017
+S'19:26:45'
 p1018
-sg13
-(lp1019
-S"I'm not suggesting that we replace the old media paternalism with new paternalism. I'm"
-p1020
-aS'suggesting that, if we built these tools toward the purpose of helping people get good'
-p1021
-aS'information, including a diversity of perspective, we could do that in a way that would'
-p1022
-aS"draw on the Internet strength. So I'll give you one example, Facebook, the main way"
-p1023
-aS'that you propagate information across Facebook is with the Like button. The Like'
-p1024
-aS'button has a very particular valence. It\'s easy to click Like on, "I baked a cake," it\'s hard'
-p1025
-aS'to click Like on, "Massacre in Darfur continues for 11th year." And so certain kinds of'
-p1026
-aS'information propagate very readily.'
-p1027
-aS"Other kinds of information don't propagate at all. Now, without instituting any kind of"
-p1028
-aS'objective paternalism, this is more important than that, you could put an Important'
-p1029
-aS"button on Facebook that'll allow people to elevate the topics that they believed were"
-p1030
-aS"important as well as the topics that they think are fun and interesting and that they'd"
-p1031
-aS"like their friends to see. So there are ways of doing this that are Internety, that don't"
-p1032
-aS'require, you know, someone in a room making these value judgments but that actually'
-p1033
-aS'lead toward filtering, that helps us seek --'
-p1034
-asg16
-(dp1035
 I8
-S'19:37:40'
+ssa(dp1019
+g22
+(dp1020
+I1
+S'[laughter]'
+p1021
+ssg8
+(lp1022
+S'Its about 11, I think.'
+p1023
+asg11
+S'JOHN DONVAN'
+p1024
+sg16
+(lp1025
+g1023
+asa(dp1026
+g8
+(lp1027
+S'Yeah, exactly.'
+p1028
+aS'But how many people actually read to the end or even the beginning ofthe story before we had the internet?'
+p1029
+asg11
+S'JACOB WEISBERG'
+p1030
+sg16
+(lp1031
+S'Yeah, exactly.'
+p1032
+aS'But how many people actually read to the end or even the beginning of the story before we had the internet?'
+p1033
+asa(dp1034
+g8
+(lp1035
+S"Well, Siva, take on, number one, Jacob's point that you're, I think, suggesting a little bitof snobbery here, that you're saying, we all can keep up with things, but that there's agreat unwashed public out there that can be deceived by the power of these algorithmsthat are telling them what needs to show up in their searches."
 p1036
-ssa(dp1037
+asg11
+S'JOHN DONVAN'
+p1037
+sg16
+(lp1038
+S"Well, Siva, take on, number one, Jacob's point that you're, I think, suggesting a little bit of snobbery here, that you're saying, we all can keep up with things, but that there's a great unwashed public out there that can be deceived by the power of these algorithms that are telling them what needs to show up in their searches."
+p1039
+asa(dp1040
 g8
-S'EVGENY MOROZOV'
-p1038
-sg13
-(lp1039
-S"That still doesn't solve the filtering problem, come on, we'll still be as close minded if"
-p1040
-aS"you buy into a paradigm with the Important button, it's just that now in addition to"
-p1041
-aS'being close minded, three people in the audience will care about Darfur.'
+(lp1041
+S"I merely meant that Jacob's test, whether it works for you, wasn't a good enough test,largely because you are just you, and you are not we."
 p1042
-asa(dp1043
-g8
-S'ELI PARISER'
+aS"You are not a greater sample,right?So if we're going to be empirical, let's be good about the social science we deploy."
+p1043
+aS'Thatis the worst possible empirical test, what happens to you.'
 p1044
-sg10
-(dp1045
-I0
-S'25'
+aS"It's almost laughable in itssuggestion."
+p1045
+aS"So that can't possibly be the test when you address this question."
 p1046
-ssg13
-(lp1047
-S"Well, it's better than none, but I think the interesting thing here that I kind of want to"
-p1048
-aS'get to is -- I wanted to ask you about this, Evgeny, because you wrote a Slate piece'
-p1049
-aS'recently in which closed with a call that was actually kind of more paternalistic than'
-p1050
-aS'where I would go.'
-p1051
-asa(dp1052
-g8
-S'EVGENY MOROZOV'
-p1053
-sg13
-(lp1054
-S'True.'
-p1055
-asa(dp1056
-g8
-S'ELI PARISER'
-p1057
-sg13
-(lp1058
-S'You know, it closes by saying, "It\'s not unreasonable to think that the denialists of global'
-p1059
-aS'warning or benefits of vaccination are online friends with other denialists.'
-p1060
-aS"As such, finding information that contradicts one's views would be even harder. This is"
-p1061
-aS'a reason for Google to atone for its sins and ensure that the subject dominated by'
-p1062
-aS'pseudoscience and conspiracy theories are given a socially responsible curated'
-p1063
-aS'treatment." So can you talk about -- I was just curious about that because I can\'t make it'
-p1064
-aS'square with your position.'
-p1065
-asg16
-(dp1066
-I2
-S'19:38:51'
-p1067
-ssa(dp1068
-g8
-S'JOHN DONVAN'
-p1069
-sg13
-(lp1070
-S'Evgeny Morozov.'
-p1071
-asa(dp1072
-g8
-S'EVGENY MOROZOV'
-p1073
-sg13
-(lp1074
-S"No, I think it's very easy to make it square. I mean, first of all, public health, particularly"
-p1075
-aS"vaccination, I think it's different from political information. Political information is"
-p1076
-aS'contentious by default. Vaccination related decisions are far more contentious because'
-p1077
-aS'public health and often national security is at stake, so there is a difference there, first'
-p1078
-aS'of all.'
-p1079
-asa(dp1080
-g8
-S'ELI PARISER'
-p1081
-sg13
-(lp1082
-S'So you think--'
-p1083
-asa(dp1084
-g8
-S'EVGENY MOROZOV'
-p1085
-sg13
-(lp1086
-S'Second of all --'
-p1087
-asa(dp1088
-g8
-S'ELI PARISER'
-p1089
-sg13
-(lp1090
-S"-- global warming isn't political?"
-p1091
-asa(dp1092
-g8
-S'EVGENY MOROZOV'
-p1093
-sg13
-(lp1094
-S'-- second of all, it is less political than public health.'
-p1095
-asa(dp1096
-g8
-S'ELI PARISER'
-p1097
-sg10
-(dp1098
-I1
-S'26'
-p1099
-ssg13
-(lp1100
-S'Really?'
-p1101
-asa(dp1102
-g8
-S'EVGENY MOROZOV'
-p1103
-sg13
-(lp1104
-S'Well, I mean, look, is anyone going to shut down the school or public square because of'
-p1105
-aS'global warming tomorrow?'
-p1106
-aS'They will if there is an outbreak of an epidemic or some contagious disease. Again, you'
-p1107
-aS'have to understand that this is a very particular context in which I think warning people'
-p1108
-aS'about certain types of websites, which has nothing to do with socialization, has'
-p1109
-aS'everything to do with certain publishers publishing deliberately misleading information'
-p1110
-aS'about vaccination, for example, or about the risks of flu vaccines or any other sort of'
-p1111
-aS'vaccine, and I think it would not be a bad idea for Google to show that there are sites'
-p1112
-aS'which have actually been approved through peer review and through normal scientific'
-p1113
-aS'practice and -- to show that, "Hey, you actually have sites which you can trust." I don\'t'
-p1114
-aS'think it has much to do with filtering or the social layer.'
-p1115
-asg16
-(dp1116
-I2
-S'19:39:42'
-p1117
-ssa(dp1118
-g8
-S'ELI PARISER'
-p1119
-sg13
-(lp1120
-S"But when you say it's not unreasonable for denialists to be online friends with other"
-p1121
-aS"denialists and as such finding information that contradicts one's views --"
-p1122
-asa(dp1123
-g8
-S'EVGENY MOROZOV'
-p1124
-sg13
-(lp1125
-S'We have freedom of association so its not unreasonable --'
-p1126
-asa(dp1127
-g8
-S'JOHN DONVAN'
-p1128
-sg13
-(lp1129
-S'But let me bring in Siva, yeah.'
-p1130
-asa(dp1131
-g8
+asg11
 S'SIVA VAIDHYANATHAN'
-p1132
+p1047
 sg13
-(lp1133
-S'Well, I would go to a less paternalistic position.'
-p1134
-aS"I don't think we should be in the business of telling Google what to do or telling"
-p1135
-aS'Facebook what to do. I think we should be in the business of building new platforms,'
-p1136
-aS'new tools, new ways of relating to each other. And having these conversations, I think'
-p1137
-aS'everybody should read books about the subject, which is a pretty good way. And then'
-p1138
-aS'adjust your own behavior and have those ideas echo through your social networks, that'
-p1139
-aS'perhaps its a good idea to break out of the filter bubble.'
-p1140
-asg16
-(dp1141
-I1
-S'19:40:42'
-p1142
-ssa(dp1143
+(dp1048
+I3
+S'19'
+p1049
+ssg16
+(lp1050
+S"I merely meant that Jacob's test, whether it works for you, wasn't a good enough test, largely because you are just you, and you are not we."
+p1051
+aS'You are not a greater sample, right?'
+p1052
+aS"So if we're going to be empirical, let's be good about the social science we deploy."
+p1053
+aS'That is the worst possible empirical test, what happens to you.'
+p1054
+aS"It's almost laughable in its suggestion."
+p1055
+aS"So that can't possibly be the test when you address this question."
+p1056
+asg18
+(dp1057
+S'19:27:44'
+p1058
+I3
+ssa(dp1059
 g8
+(lp1060
+S'But wasn\'t your partner using the "that\'s what happened to me when I typed in Egypt"?'
+p1061
+asg11
 S'JOHN DONVAN'
-p1144
-sg10
-(dp1145
-I4
-S'27'
+p1062
+sg16
+(lp1063
+g1061
+asa(dp1064
+g8
+(lp1065
+S"Let's talk a little bit about the studies about --"
+p1066
+asg11
+S'ELI PARISER'
+p1067
+sg16
+(lp1068
+g1066
+asa(dp1069
+g8
+(lp1070
+S'Eli Pariser.'
+p1071
+asg11
+S'JOHN DONVAN'
+p1072
+sg16
+(lp1073
+g1071
+asa(dp1074
+g8
+(lp1075
+S"-- because I think it's worth digging into this a little bit."
+p1076
+aS"There is one -- first off, thereason that it's so hard to study this stuff is because the easiest way to study it is to getinside the black box of these companies."
+p1077
+aS"And these companies don't have any interestin letting people go in and prove that these companies are doing bad things."
+p1078
+aS"But it'svery hard to look at from the outside, which is why there's just not many studies thathaven't been, as Jacob said, you know, funded by Facebook, funded by Microsoft,funded by the companies themselves.The one clear study on Google personalization that has been peer reviewed is a study bya guy named Martin Feuz."
+p1079
+aS"And it's pretty clear."
+p1080
+aS'The methodology is good.'
+p1081
+aS'He looked athow a search history affects the personalization you get.'
+p1082
+aS"And it's very clear, again, 60percent of the search results on the first page are different for most -- for people whohave a long web history in Google."
+p1083
+aS"But actually, the study that's the most interestinghere is the Gentzkow study that Jacob was referring to."
+p1084
+aS"This is a study that was sort ofinitially described as a study that showed that people are linking to each other and thatthe internet isn't as polarizing as we thought."
+p1085
+aS'And the interesting thing is that if you diginto that study, it actually arguably shows the exact opposite.'
+p1086
+aS'What they did was theycreated an isolation index for each different kind of medium.'
+p1087
+aS'And so the isolation indexfor cable news that that study used was about 3.3.'
+p1088
+aS"On the internet, the internet had a 7-- an isolation index of 7.And so it's twice as polarizing as polarized as cable news."
+p1089
+aS"Now, what's more interestingis that this was -- the study was done before the personalized internet."
+p1090
+aS'So the mainthing that that study was looking at was the fact that a lot of people, their online servingpatterns lead them to Yahoo!'
+p1091
+aS'and then from Yahoo!'
+p1092
+aS'out to a whole bunch ofideologically diverse links.'
+p1093
+aS'But Yahoo!'
+p1094
+aS"'s changed since 2007, since that study waswritten."
+p1095
+aS'And so now, Yahoo!'
+p1096
+aS"looks at your history on what links you've clicked at in thepast and sends different people out in different directions."
+p1097
+asg11
+S'ELI PARISER'
+p1098
+sg13
+(dp1099
+I22
+S'20'
+p1100
+ssg16
+(lp1101
+S"-- because I think it's worth digging into this a little bit."
+p1102
+aS"There is one -- first off, the reason that it's so hard to study this stuff is because the easiest way to study it is to get inside the black box of these companies."
+p1103
+aS"And these companies don't have any interest in letting people go in and prove that these companies are doing bad things."
+p1104
+aS"But it's very hard to look at from the outside, which is why there's just not many studies that haven't been, as Jacob said, you know, funded by Facebook, funded by Microsoft, funded by the companies themselves."
+p1105
+aS'The one clear study on Google personalization that has been peer reviewed is a study by a guy named Martin Feuz.'
+p1106
+aS"And it's pretty clear."
+p1107
+aS'The methodology is good.'
+p1108
+aS'He looked at how a search history affects the personalization you get.'
+p1109
+aS"And it's very clear, again, 60 percent of the search results on the first page are different for most -- for people who have a long web history in Google."
+p1110
+aS"But actually, the study that's the most interesting here is the Gentzkow study that Jacob was referring to."
+p1111
+aS"This is a study that was sort of initially described as a study that showed that people are linking to each other and that the internet isn't as polarizing as we thought."
+p1112
+aS'And the interesting thing is that if you dig into that study, it actually arguably shows the exact opposite.'
+p1113
+aS'What they did was they created an isolation index for each different kind of medium.'
+p1114
+aS'And so the isolation index for cable news that that study used was about 3.3.'
+p1115
+aS'On the internet, the internet had a 7 -- an isolation index of 7.'
+p1116
+aS"And so it's twice as polarizing as polarized as cable news."
+p1117
+aS"Now, what's more interesting is that this was -- the study was done before the personalized internet."
+p1118
+aS'So the main thing that that study was looking at was the fact that a lot of people, their online serving patterns lead them to Yahoo!'
+p1119
+aS'and then from Yahoo!'
+p1120
+aS'out to a whole bunch of ideologically diverse links.'
+p1121
+aS'But Yahoo!'
+p1122
+aS"'s changed since 2007, since that study was written."
+p1123
+aS'And so now, Yahoo!'
+p1124
+aS"looks at your history on what links you've clicked at in the past and sends different people out in different directions."
+p1125
+asg18
+(dp1126
+S'19:28:40'
+p1127
+I7
+sS'19:29:47'
+p1128
+I19
+ssa(dp1129
+g8
+(lp1130
+S'Let me let the other side come in and take on --'
+p1131
+asg11
+S'JOHN DONVAN'
+p1132
+sg16
+(lp1133
+g1131
+asa(dp1134
+g8
+(lp1135
+S'One more , though.'
+p1136
+asg11
+S'ELI PARISER'
+p1137
+sg16
+(lp1138
+g1136
+asa(dp1139
+g8
+(lp1140
+S'Okay, go ahead.'
+p1141
+asg11
+S'JOHN DONVAN'
+p1142
+sg16
+(lp1143
+g1141
+asa(dp1144
+g8
+(lp1145
+S"Which is that the other thing that's changed since that study was done is the rise ofsocial media as one of the primary ways that people get information."
 p1146
-ssg13
-(lp1147
-S'Let me ask the side thats arguing that when it comes to politics, the internet is closing'
+aS"And they did thisisolation index calculation on people's sets of friends as well."
+p1147
+aS'So cable news is 3.3.The internet in 2007 in the Yahoo!'
 p1148
-aS'our minds. For some concrete examples of this phenomenon that concerns you,'
+aS'era was 7.'
 p1149
-aS'actually having caused harm to the body politic, because theres a little bit of an'
+aS"And people's groups of friends was 30.Now, that 30 has become embedded in every experience that we have on the internetnow."
 p1150
-aS'assumption, and maybe youre not making this point, but theres a little bit of this'
+aS'So you know, I think actually if you look into the studies that have been done --'
 p1151
-aS'assumption that all do need to be talking to each other and that theres a middle that'
+asg11
+S'ELI PARISER'
 p1152
-aS'well all reach in some kumbaya moment. But in fact, whats wrong with having people'
-p1153
-aS'entrenched in their own camps, angry at each other? As long as the political spectrum is'
+sg16
+(lp1153
+S"Which is that the other thing that's changed since that study was done is the rise of social media as one of the primary ways that people get information."
 p1154
-aS'covered overall, whats wrong with that? And what examples of harm can you talk'
+aS"And they did this isolation index calculation on people's sets of friends as well."
 p1155
-aS'about that have been caused by that.'
+aS'So cable news is 3.3.'
 p1156
-asg16
-(dp1157
-I9
-S'19:41:45'
+aS'The internet in 2007 in the Yahoo!'
+p1157
+aS'era was 7.'
 p1158
-ssa(dp1159
-g8
-S'ELI PARISER'
+aS"And people's groups of friends was 30."
+p1159
+aS'Now, that 30 has become embedded in every experience that we have on the internet now.'
 p1160
-sg13
-(lp1161
-S'Just a little story, when I was on the book tour for my book, I was on a radio show in St.'
-p1162
-aS'Louis. And the host decided to make this big spectacle of having people Google Barack'
+aS'So you know, I think actually if you look into the studies that have been done --'
+p1161
+asg18
+(dp1162
+S'19:30:41'
 p1163
-aS'Obama and call-in and read their search results. It was a really boring radio hour. And'
-p1164
-aS'the first person called in, the second person called in and they interviewed everybody'
-p1165
-aS'and had people kind of do a read-off where theyre both reading it off at the same time'
+I3
+ssa(dp1164
+g8
+(lp1165
+S"Okay, let's let --"
 p1166
-aS'and it was exactly the same. And I was thinking, this is the worse book promotion Ive'
+asg11
+S'JOHN DONVAN'
 p1167
-aS'ever done. And then a third guy called in, and he said you know its the damndest thing,'
-p1168
-aS'when I Google Barack Obama, the first thing that comes up is this link to this site about'
-p1169
-aS'how hes not a natural citizen. And the second link is also a link to a website about how'
-p1170
-aS'he doesnt have a birth certificate.'
+sg16
+(lp1168
+g1166
+asa(dp1169
+g8
+(lp1170
+S"-- it's quite clear --"
 p1171
-asa(dp1172
-g8
-S'EVGENY MOROZOV'
-p1173
-sg13
-(lp1174
-S'That was your publicist.'
-p1175
-asa(dp1176
-g8
+asg11
 S'ELI PARISER'
+p1172
+sg16
+(lp1173
+g1171
+asa(dp1174
+g8
+(lp1175
+S"Let's let Jacob Weisberg ."
+p1176
+asg11
+S'JOHN DONVAN'
 p1177
-sg13
+sg16
 (lp1178
-S'Oh, I was wondering about that.'
-p1179
-aS'But so, I think the danger here is that its not just that he was getting a view of the world'
-p1180
-aS'that was really far off the average here. But he didnt even know that that was the view'
+g1176
+asa(dp1179
+g8
+(lp1180
+S'I read the same study.'
 p1181
-aS'that he was getting. He had no idea how tilted that view was. And thats sort of the'
+aS'It was a little baffling, but it said the polarization index fornewspapers was 10.'
 p1182
-aS'challenge. I just want to address one other point, which is that there seems to be this'
+aS'So the old media is well beyond the mean.'
 p1183
-aS'question about whether this is happening. And its really kind of funny to me, because if'
+aS'I think you need to takeall of that with a grain of salt.'
 p1184
-aS'you talk to these companies and if you listen to what theyre saying, all of these'
+aS'I mean --'
 p1185
-aS'companies are very clear that personalization is a big part of what theyre doing and'
+asg11
+S'JACOB WEISBERG'
 p1186
-aS"what they're --"
-p1187
-asg16
-(dp1188
-I1
-S'19:42:41'
+sg16
+(lp1187
+S'I read the same study.'
+p1188
+aS'It was a little baffling, but it said the polarization index for newspapers was 10.'
 p1189
-ssa(dp1190
-g8
-S'EVGENY MOROZOV'
+aS'So the old media is well beyond the mean.'
+p1190
+aS'I think you need to take all of that with a grain of salt.'
 p1191
-sg13
-(lp1192
-S'For pizza, weighted decisions. They are very clear. And they say we dont want to do it'
-p1193
-aS'for politics, we only want to do it for pizza.'
-p1194
-asa(dp1195
+aS'I mean --'
+p1192
+asa(dp1193
 g8
-S'ELI PARISER'
+(lp1194
+S'But you cited it.'
+p1195
+aS'I mean, this is the study that you were citing.'
 p1196
-sg10
-(dp1197
-I1
-S'28'
-p1198
-ssg13
-(lp1199
-S'Right, and the question is, can you trust them?'
+asg11
+S'ELI PARISER'
+p1197
+sg16
+(lp1198
+S'But you cited it.'
+p1199
+aS'I mean, this is the study that you were citing.'
 p1200
 asa(dp1201
 g8
-S'JOHN DONVAN'
-p1202
-sg13
-(lp1203
-S'Let me -- Jacob, I think Eli left a pretty good image hanging out there, of these folks truly'
+(lp1202
+S'Right, exactly.'
+p1203
+aS"And it doesn't show that the internet is the most polarizing thing."
 p1204
-aS'not knowing how much they dont know and believing what theyre getting and not'
+aS'Butthere -- I looked at about half a dozen studies for this.'
 p1205
-aS'understanding how slanted it is.'
+aS"And I would have to say, justtrying to be as objective as possible, that the preponderance, the studies I didn't cite,say that there's not clear evidence this is happening."
 p1206
-aS'That landed pretty well I think, so can you respond to that?'
+aS"There's no evidence it's gettingworse."
 p1207
-asg16
-(dp1208
-I3
-S'19:43:43'
-p1209
-ssa(dp1210
-g8
+aS'And I --'
+p1208
+asg11
 S'JACOB WEISBERG'
+p1209
+sg13
+(dp1210
+I0
+S'21'
 p1211
-sg13
+ssg16
 (lp1212
-S'But a guy who called into a radio show? I know the plural of anecdote is data. But I'
+S'Right, exactly.'
 p1213
-aS'mean, if this were really happening in the way you say it is, wouldnt there be some kind'
+aS"And it doesn't show that the internet is the most polarizing thing."
 p1214
-aS'of decent study that actually showed widely varying results? I mean as I say, Ive tried'
+aS'But there -- I looked at about half a dozen studies for this.'
 p1215
-aS'to test this out as best I can. Ive tried it myself on various browsers, signed in, signed'
+aS"And I would have to say, just trying to be as objective as possible, that the preponderance, the studies I didn't cite, say that there's not clear evidence this is happening."
 p1216
-aS'out, Wikipedia always comes up first, sometimes it comes up second. Wikipedias'
+aS"There's no evidence it's getting worse."
 p1217
-aS'vaccine entry is pretty good. I do not think there is actually the kind of variety youre'
+aS'And I --'
 p1218
-aS'talking in searches done most of the time by most people.'
-p1219
-asa(dp1220
+asa(dp1219
 g8
-S'JOHN DONVAN'
+(lp1220
+S'What do you think of the Feuz study?'
 p1221
-sg13
-(lp1222
-S'Siva.'
+aS'Because we Tweeted about this.'
+p1222
+asg11
+S'ELI PARISER'
 p1223
-asa(dp1224
-g8
-S'SIVA VAIDHYANATHAN'
+sg16
+(lp1224
+S'What do you think of the Feuz study?'
 p1225
-sg13
-(lp1226
-S'So, doing social science online is really hard because almost nothing is replicable. Right'
-p1227
-aS'so almost any, even if you did a broader study than that, even if Eli did a broader study'
-p1228
-aS'than that, the third person to do that study would not come up with the same results.'
+aS'Because we Tweeted about this.'
+p1226
+asa(dp1227
+g8
+(lp1228
+S"I don't think it showed what you're saying it showed."
 p1229
-aS'For the simple reason that both Facebook and Google are constantly changing their'
+asg11
+S'JACOB WEISBERG'
 p1230
-aS'algorithms, constantly tweaking their algorithms for reasons we cant possibly'
-p1231
-aS'understand and are not allowed to understand. Its also important to remember that'
-p1232
-aS'there are so many variables in what you get. There are some searches that are more'
-p1233
-aS'personalized than other searches. Again, for reasons that Google understands and we'
+sg16
+(lp1231
+g1229
+asa(dp1232
+g8
+(lp1233
+S"Let's bring Evgeny in and --"
 p1234
-aS'are not allowed to understand. There are some ways that you can generate different'
-p1235
-aS'searches because there are certain keywords that matter more in certain geographic'
-p1236
-aS'locations than others. So a search for S-O-X in Boston or Chicago will yield a particularly'
-p1237
-aS'strong result and personalized in those areas where as S-O-X searched somewhere else'
-p1238
-aS'in the world might yield gibberish because it doesnt mean anything. So all of these'
-p1239
-aS'variables, plus the big variable, whether or not youre a Gmail user, whether or not'
-p1240
-aS'youre signed into YouTube, whether or not --'
-p1241
-asg16
-(dp1242
-I3
-S'19:44:41'
-p1243
-ssa(dp1244
-g8
+asg11
 S'JOHN DONVAN'
+p1235
+sg16
+(lp1236
+g1234
+asg18
+(dp1237
+S'19:31:42'
+p1238
+I1
+ssa(dp1239
+g8
+(lp1240
+S"No, I just think, it's fine if we're talking about studies that no one but a few people inthis audience have read, so they all sound ."
+p1241
+aS"But I think you also have tokeep in mind that a lot depends on what kind of information you're trying to accessonline."
+p1242
+aS"If you're searching for a piece on Manhattan and I'm searching it from mymobile phone, then Google knows where I am, I would actually want 99 percent of thesearches also to be personalized, probably not 60."
+p1243
+aS"Sixty is not high enough, in partbecause it's very obvious that what I want to do is to order a pizza."
+p1244
+aS'Right?'
 p1245
-sg10
-(dp1246
-I2
-S'29'
+aS'So then if Iam searching for political information, right, maybe the ratio should be 10 percent or 5percent or zero.'
+p1246
+aS"So to say that there is 60 percent of information that's personalizeddoesn't say much because it all depends on what it is that's being personalized."
 p1247
-ssg13
-(lp1248
-S'Are you agreeing with your opponent that you cant make the case based'
+aS'Anotherpoint is that, again, take something like YouTube.'
+p1248
+aS"So if you don't sign in to YouTube,YouTube will show you at the very front page videos that are most popular with the restof the crowd."
 p1249
-aS' ?'
+aS'You see all those fascinating cat videos.'
 p1250
-asa(dp1251
-g8
-S'SIVA VAIDHYANATHAN'
+aS'You will see all those videos fromMTV.'
+p1251
+aS'You will see whatever is now popular in the online world.They will all be displayed to you, and you will see them there prominently.'
 p1252
-sg13
-(lp1253
-S'No, no, Im, what Im saying is that the empirical studies that have been done are'
+aS"If I sign inwith my Google account, with my search history, instead of cat videos, I'll see links tonew exciting videos about history, about culture, about theater."
+p1253
+aS'Why?'
 p1254
-aS'limited in their utility.'
+aS'Because Googleand YouTube know that those are the kind of videos that I like to watch.'
 p1255
-aS"What we do know is exactly what the companies say they do. And they say, and they've"
+aS"So if Googlecan show me more videos about history than videos about cats, I can't really see howthe internet is closing our minds."
 p1256
-aS'said to Eli on a number of occasions, that they personalize our results. And not that --'
+asg11
+S'EVGENY MOROZOV'
 p1257
-aS' '
-p1258
-asg16
-(dp1259
-I2
-S'19:45:41'
+sg16
+(lp1258
+S"No, I just think, it's fine if we're talking about studies that no one but a few people in this audience have read, so they all sound ."
+p1259
+aS"But I think you also have to keep in mind that a lot depends on what kind of information you're trying to access online."
 p1260
-ssa(dp1261
-g8
-S'EVGENY MOROZOV'
+aS"If you're searching for a piece on Manhattan and I'm searching it from my mobile phone, then Google knows where I am, I would actually want 99 percent of the searches also to be personalized, probably not 60."
+p1261
+aS"Sixty is not high enough, in part because it's very obvious that what I want to do is to order a pizza."
 p1262
-sg13
-(lp1263
-S'You have just disbanded the companies because I would actually'
+aS'Right?'
+p1263
+aS'So then if I am searching for political information, right, maybe the ratio should be 10 percent or 5 percent or zero.'
 p1264
-aS'prefer Google and Facebook to personalize my search results based on 500 factors'
+aS"So to say that there is 60 percent of information that's personalized doesn't say much because it all depends on what it is that's being personalized."
 p1265
-aS'rather than on just two factors.'
+aS'Another point is that, again, take something like YouTube.'
 p1266
-asa(dp1267
-g8
-S'SIVA VAIDHYANATHAN'
+aS"So if you don't sign in to YouTube, YouTube will show you at the very front page videos that are most popular with the rest of the crowd."
+p1267
+aS'You see all those fascinating cat videos.'
 p1268
-sg13
-(lp1269
-S"I'm not interested in --"
+aS'You will see all those videos from MTV.'
+p1269
+aS'You will see whatever is now popular in the online world.'
 p1270
-asa(dp1271
-g8
-S'EVGENY MOROZOV'
+aS'They will all be displayed to you, and you will see them there prominently.'
+p1271
+aS"If I sign in with my Google account, with my search history, instead of cat videos, I'll see links to new exciting videos about history, about culture, about theater."
 p1272
-sg13
-(lp1273
-S"I don't want them to personalize my news or search results based on my sex and based"
+aS'Why?'
+p1273
+aS'Because Google and YouTube know that those are the kind of videos that I like to watch.'
 p1274
-aS'on my race or based on how old they think I am. I would like them to take a broader'
+aS"So if Google can show me more videos about history than videos about cats, I can't really see how the internet is closing our minds."
 p1275
-aS"view and incorporate 300 factors, 500 factors if it's necessary, rather than --"
-p1276
-asa(dp1277
+asg18
+(dp1276
+S'19:32:47'
+p1277
+I14
+ssa(dp1278
 g8
-S'SIVA VAIDHYANATHAN'
-p1278
-sg13
 (lp1279
-S"Okay, but you don't get to say --"
+S'All right.'
 p1280
-asa(dp1281
-g8
-S'EVGENY MOROZOV'
+aS'Siva, are you arguing that the internet is closing our minds for your response.'
+p1281
+asg11
+S'JOHN DONVAN'
 p1282
 sg13
-(lp1283
-S" me into a social group to which I don't want to be known. It's a good"
+(dp1283
+I1
+S'22'
 p1284
-aS'thing.'
-p1285
-asa(dp1286
-g8
-S'SIVA VAIDHYANATHAN'
+ssg16
+(lp1285
+S'All right.'
+p1286
+aS'Siva, are you arguing that the internet is closing our minds for your response.'
 p1287
-sg13
-(lp1288
-S"I'm not interested in attacking or defending the companies. I'm interested in explaining"
-p1289
-aS"what's going on to the best of our ability. And we are feeling around in the dark"
+asa(dp1288
+g8
+(lp1289
+S'Thank you, Evgeny, for making two of my points.'
 p1290
-aS'because all of this is in a black box, private data, and yet so deeply important to our'
+aS'Number one -- that the notion ofpersonalization, either through Facebook or another social network or through Googleis actually tremendously helpful to us for shopping.'
 p1291
-aS'public lives --'
+aS"It's not so good for learning."
 p1292
-asa(dp1293
-g8
-S'EVGENY MOROZOV'
+aS'Whenyou want to learn --'
+p1293
+asg11
+S'SIVA VAIDHYANATHAN'
 p1294
-sg13
+sg16
 (lp1295
-S"That's how capitalism works. They have trade secrets. They will never disclose their"
+S'Thank you, Evgeny, for making two of my points.'
 p1296
-aS'algorithms --'
+aS'Number one -- that the notion of personalization, either through Facebook or another social network or through Google is actually tremendously helpful to us for shopping.'
 p1297
-asa(dp1298
-g8
-S'SIVA VAIDHYANATHAN'
+aS"It's not so good for learning."
+p1298
+aS'When you want to learn --'
 p1299
-sg10
-(dp1300
-I1
-S'30'
-p1301
-ssg13
-(lp1302
-S'I know.'
+asa(dp1300
+g8
+(lp1301
+S'About cats.'
+p1302
+asg11
+S'EVGENY MOROZOV'
 p1303
-asa(dp1304
+sg16
+(lp1304
+g1302
+asa(dp1305
 g8
-S'EVGENY MOROZOV'
-p1305
-sg13
 (lp1306
-S"-- because if they do, you're going to suffer."
+S'When you want to learn about anything complex, the worst thing you can do is subjectyourself to a social filter.The best thing you can do --'
 p1307
-asg16
-(dp1308
-I1
-S'19:46:42'
-p1309
-ssa(dp1310
-g8
-S'JOHN DONVAN'
+asg11
+S'SIVA VAIDHYANATHAN'
+p1308
+sg16
+(lp1309
+S'When you want to learn about anything complex, the worst thing you can do is subject yourself to a social filter.'
+p1310
+aS'The best thing you can do --'
 p1311
-sg13
-(lp1312
-S'Jacob Weisberg.'
+asg18
+(dp1312
+S'19:33:42'
 p1313
-asa(dp1314
+I2
+ssa(dp1314
 g8
-S'SIVA VAIDHYANATHAN'
-p1315
-sg13
-(lp1316
-S"I know. And that's the problem."
+(lp1315
+S'You need better friends.'
+p1316
+asg11
+S'EVGENY MOROZOV'
 p1317
-asa(dp1318
-g8
-S'EVGENY MOROZOV'
-p1319
-sg13
-(lp1320
-S'So why ask the impossible?'
+sg16
+(lp1318
+g1316
+asa(dp1319
+g22
+(dp1320
+I1
+S'[laughter]'
 p1321
-asa(dp1322
-g8
-S'JOHN DONVAN'
+ssg8
+(lp1322
+S"-- is to challenge yourself ---- the best thing -- you're the person I retweet the most."
 p1323
-sg13
-(lp1324
-S'Jacob Weisberg.'
+aS'The best thing you can do, you [[laughter]] need to get out of the bubble.'
+p1324
+aS'The best thing you can do is seek sources of expertise,seek sources that have -- that are particularly good at researching particular areas.'
 p1325
-asa(dp1326
-g8
-S'JACOB WEISBERG'
+aS'Useonline sources that are focused in particular areas like health, like science, right?'
+p1326
+aS'Thatmeans call your librarian.'
 p1327
-sg13
-(lp1328
-S"I think there's another point here. We're talking mainly about Google and about"
+aS'That means talk to an expert.'
+p1328
+aS'And that means go beyondasking a small set of people what the best way to explore a particular issue is.'
 p1329
-aS'Facebook that have these kinds of personalization you can turn off. Whether when'
+aS'But forpizza, not a bad idea.'
 p1330
-aS"they're turned on, they do what you say they're doing is a matter of some dispute. But"
+aS"And we can talk later, because I'll tell you if you're still interested."
 p1331
-aS"most people don't get their news from Google search. And most people don't get their"
+asg11
+S'SIVA VAIDHYANATHAN'
 p1332
-aS'news from Facebook. They get their news from the news. Now, these are increasing'
-p1333
-aS"sources of information of different kinds. But have you used Google news? It's not a"
+sg16
+(lp1333
+S"-- is to challenge yourself -- -- the best thing -- you're the person I retweet the most."
 p1334
-aS"great product, and it's not one of the top ways that people get their news. People still"
+aS'The best thing you can do, you need to get out of the bubble.'
 p1335
-aS'get their news both from traditional news sources and from big online sources like CNN,'
+aS'The best thing you can do is seek sources of expertise, seek sources that have -- that are particularly good at researching particular areas.'
 p1336
-aS'Yahoo! news --'
+aS'Use online sources that are focused in particular areas like health, like science, right?'
 p1337
-asa(dp1338
-g8
-S'ELI PARISER'
+aS'That means call your librarian.'
+p1338
+aS'That means talk to an expert.'
 p1339
-sg13
-(lp1340
-S'Which is personalized.'
+aS'And that means go beyond asking a small set of people what the best way to explore a particular issue is.'
+p1340
+aS'But for pizza, not a bad idea.'
 p1341
-asa(dp1342
+aS"And we can talk later, because I'll tell you if you're still interested."
+p1342
+asa(dp1343
 g8
-S'JACOB WEISBERG'
-p1343
-sg13
 (lp1344
-S"Yahoo! news is the AP. If you go -- it's basically an AP news feed. There is a social"
+S' integrate 2,000 people that are following Twitter, one of whom is you,why not integrate those sources in my search results?'
 p1345
-aS'feature, similar to Facebook and Google. You can turn off. You can have it personalized'
+aS"Why shouldn't I be able to seethe searches of those highlights if no one is concerned about privacy?"
 p1346
-aS'or not personalized if you prefer.'
+aS"Don't you thinkthe links you share or click on are not smart or interesting for me?"
 p1347
-asa(dp1348
-g8
-S'SIVA VAIDHYANATHAN'
-p1349
-sg13
-(lp1350
-S'First of all, defaults matter. The fact that you have to know to turn it off to turn it off is'
-p1351
-aS"a huge issue. There is a reason those social phenomena are on by default because it's in"
-p1352
-aS"those company's interests to make sure that you do get personalized results."
-p1353
-asa(dp1354
-g8
-S'JACOB WEISBERG'
-p1355
-sg10
-(dp1356
-I1
-S'31'
-p1357
-ssg13
-(lp1358
-S"But that's in our interest. I want it turned on."
-p1359
-asg16
-(dp1360
-I1
-S'19:47:51'
-p1361
-ssa(dp1362
-g8
-S'SIVA VAIDHYANATHAN'
-p1363
-sg13
-(lp1364
-S"But you might not realize that it's happening unless you happen to --"
-p1365
-ag1258
-asa(dp1366
-g8
+asg11
 S'EVGENY MOROZOV'
-p1367
-sg13
-(lp1368
-S"-- personalized option. I mean, Siva, it's a chicken and egg problem. You will not realize"
-p1369
-aS"that you can personalize them otherwise. And then I don't see this as an argument."
-p1370
-asa(dp1371
+p1348
+sg16
+(lp1349
+S' integrate 2,000 people that are following Twitter, one of whom is you, why not integrate those sources in my search results?'
+p1350
+aS"Why shouldn't I be able to see the searches of those highlights if no one is concerned about privacy?"
+p1351
+aS"Don't you think the links you share or click on are not smart or interesting for me?"
+p1352
+asg18
+(dp1353
+S'19:34:42'
+p1354
+I4
+ssa(dp1355
 g8
-S'JOHN DONVAN'
-p1372
-sg13
-(lp1373
-S"All right. I'd like to go to audience questions at this point. We're in the middle of round"
-p1374
-aS'two. Our motion is, "When it comes to politics, the internet is closing our minds."'
-p1375
-aS'Microphones will be brought forward if you raise your hand. Remember, about 30'
-p1376
-aS"seconds is what you'll get. You can state a quick premise, but please ask a question that"
-p1377
-aS"keeps us on the topic of this motion, and we'll move along this debate. And I really do"
-p1378
-aS'mean it to be a question, not a -- not a debating point. But we -- we did put out, on'
-p1379
-aS'slate.com, who is our media partner, a request to them for questions from some of their'
-p1380
-aS'subscribers.'
-p1381
-aS'And we also -- is Lenny Gengrinovich here? Did you show up? Yep, there he is. All right.'
-p1382
-aS'So Lenny took the initiative of sending a question into us by email. So thank you for'
-p1383
-aS"that. And I'm going to actually -- you can ask the question yourself. I just wanted you to"
-p1384
-aS'actually make it drastically shorter.'
-p1385
-asg16
-(dp1386
-I8
-S'19:48:42'
-p1387
-ssa(dp1388
-g8
-S'MALE SPEAKER'
-p1389
-sg13
-(lp1390
-S'Just one page.'
-p1391
-asa(dp1392
-g8
-S'JOHN DONVAN'
-p1393
-sg13
-(lp1394
-S"And if you want, I can paraphrase it or -- I'll go ahead and paraphrase it for you. He"
-p1395
-aS'basically makes this statement: The tiny minority of democratic citizens who are'
-p1396
-aS'interested in political ideas and issues cannot have a discussion. They have freedom of'
-p1397
-aS"speech, but there's nobody to speak to in the internet -- ersatz world of discussions"
-p1398
-aS'which only hides the problem. Do you agree that our nation needs affirmative action'
-p1399
-aS"for intelligent conversation? I'll put that to Siva first."
-p1400
-asa(dp1401
-g8
+(lp1356
+S'They are for you.'
+p1357
+aS"That's why you're my buddy, right?"
+p1358
+aS"But that doesn't mean necessarilythat what I'm doing is enhancing anybody else's --"
+p1359
+asg11
 S'SIVA VAIDHYANATHAN'
-p1402
-sg10
-(dp1403
-I2
-S'32'
-p1404
-ssg13
-(lp1405
-S"Most definitely, but we're doing it right now, right? It means that we have to have"
-p1406
-aS'foundations like the foundation that supports this discussion.'
-p1407
-aS'It means that we have to have universities, and we have to have schools take these'
-p1408
-aS'issues seriously. And make sure that we are all able to understand the environments in'
-p1409
-aS'which we operate, that we have to understand the nature of these platforms and'
-p1410
-aS'technologies. And when there is a suboptimal result, we have to know how to correct'
-p1411
-aS"for it. And if we're not happy with it, to invent something new."
-p1412
-asg16
-(dp1413
-I2
-S'19:49:46'
-p1414
-ssa(dp1415
-g8
-S'JOHN DONVAN'
-p1416
+p1360
 sg13
-(lp1417
-S'On this side, do you want to respond, or do you agree? Jacob Weisberg.'
-p1418
+(dp1361
+I0
+S'23'
+p1362
+ssg16
+(lp1363
+S'They are for you.'
+p1364
+aS"That's why you're my buddy, right?"
+p1365
+aS"But that doesn't mean necessarily that what I'm doing is enhancing anybody else's --"
+p1366
+asa(dp1367
+g8
+(lp1368
+S"Why didn't you trust me to choose my friends and sources?"
+p1369
+asg11
+S'EVGENY MOROZOV'
+p1370
+sg16
+(lp1371
+g1369
+asa(dp1372
+g8
+(lp1373
+S'Eli Pariser, I --'
+p1374
+asg11
+S'JOHN DONVAN'
+p1375
+sg16
+(lp1376
+g1374
+asa(dp1377
+g8
+(lp1378
+S'You want to choose them for me?'
+p1379
+asg11
+S'EVGENY MOROZOV'
+p1380
+sg16
+(lp1381
+g1379
+asa(dp1382
+g8
+(lp1383
+S"We also think your opponents who are arguing against the closing of American's mindsthrough the internet have also made the argument that this personalization andcustomization, the filtering helps you think."
+p1384
+aS'It helps you organize.'
+p1385
+aS'It cuts away thechafe.'
+p1386
+aS'It brings things down to a manageable amount of material.'
+p1387
+aS'And I can see theappeal to that argument.'
+p1388
+aS'So take that on, Eli Pariser.'
+p1389
+asg11
+S'JOHN DONVAN'
+p1390
+sg16
+(lp1391
+S"We also think your opponents who are arguing against the closing of American's minds through the internet have also made the argument that this personalization and customization, the filtering helps you think."
+p1392
+aS'It helps you organize.'
+p1393
+aS'It cuts away the chafe.'
+p1394
+aS'It brings things down to a manageable amount of material.'
+p1395
+aS'And I can see the appeal to that argument.'
+p1396
+aS'So take that on, Eli Pariser.'
+p1397
+asa(dp1398
+g8
+(lp1399
+S"Well, you don't hear me arguing that all personalization is bad or all filtering is bad.That's kind of a nonsensical argument."
+p1400
+aS"As everyone has said, filtering has been aroundas long as there's information to filter."
+p1401
+aS"But the question is, what are the filters -- whatare the lenses through which we're looking at the world now doing for most people whoare looking at the world through those lenses?And I think we're talking a lot here about Twitter, but it's important to remember thatTwitter -- actually it's hard to remember in a group of New Yorkers -- Twitter is a fringephenomenon on the Internet relative to Google or Facebook."
+p1402
+aS'Twitter has a tiny, tinyuser base compared to these other -- sorry?'
+p1403
+asg11
+S'ELI PARISER'
+p1404
+sg16
+(lp1405
+S"Well, you don't hear me arguing that all personalization is bad or all filtering is bad."
+p1406
+aS"That's kind of a nonsensical argument."
+p1407
+aS"As everyone has said, filtering has been around as long as there's information to filter."
+p1408
+aS"But the question is, what are the filters -- what are the lenses through which we're looking at the world now doing for most people who are looking at the world through those lenses?"
+p1409
+aS"And I think we're talking a lot here about Twitter, but it's important to remember that Twitter -- actually it's hard to remember in a group of New Yorkers -- Twitter is a fringe phenomenon on the Internet relative to Google or Facebook."
+p1410
+aS'Twitter has a tiny, tiny user base compared to these other -- sorry?'
+p1411
+asg18
+(dp1412
+S'19:35:43'
+p1413
+I5
+ssa(dp1414
+g8
+(lp1415
+S'Only 200 million.'
+p1416
+asg11
+S'JACOB WEISBERG'
+p1417
+sg16
+(lp1418
+g1416
 asa(dp1419
 g8
-S'JACOB WEISBERG'
-p1420
-sg13
-(lp1421
-S'Well, I think, you know, the low quality of commenting is one of the big problems on the'
+(lp1420
+S"Well, the -- but the actual -- the actual user -- you know, the active users, if you look atactive users on Twitter, it's actually much smaller, it's about 25 million people, which is alot of people, but not compared to Facebook, not compared to Google."
+p1421
+aS'And so we haveto look at sort of how most people are using this stuff.'
 p1422
-aS"internet. It's one we've been very concerned with, particularly --"
+asg11
+S'ELI PARISER'
 p1423
-asa(dp1424
-g8
-S'JOHN DONVAN'
+sg16
+(lp1424
+S"Well, the -- but the actual -- the actual user -- you know, the active users, if you look at active users on Twitter, it's actually much smaller, it's about 25 million people, which is a lot of people, but not compared to Facebook, not compared to Google."
 p1425
-sg13
-(lp1426
-S'Jacob, can you just come in a little closer?'
-p1427
-asa(dp1428
+aS'And so we have to look at sort of how most people are using this stuff.'
+p1426
+asa(dp1427
 g8
-S'JACOB WEISBERG'
+(lp1428
+S'Yes, Jacob Weisberg.'
 p1429
-sg13
-(lp1430
-S"Oh, I'm sorry. We've been very concerned about -- at Slate over the years with"
-p1431
-aS'improving it. The big breakthrough, I have to say, came from Facebook, through a'
-p1432
-aS'technology -- an interface known as Facebook connect, which basically brought identity-'
-p1433
-aS'based commenting to every website. And it means that because people are themselves'
-p1434
-aS"when they comment, they're actually a lot more reasonable, not necessarily reasonable"
-p1435
-aS"all the time, but they don't engage in quite the level of viciousness and ad homonym"
-p1436
-aS"attacks and just soft point arguing they do when they're anonymous."
-p1437
-aS"So I think partly this say problem I'm optimistic about improving through technology."
-p1438
-asg16
-(dp1439
-I7
-S'19:50:49'
-p1440
-ssa(dp1441
-g8
+asg11
 S'JOHN DONVAN'
-p1442
+p1430
 sg13
-(lp1443
-S"All right. Let's go out to the audience now. And right in the front row, right behind the"
-p1444
-aS'clock. Again, if you can stand up and hold the mic close to your mouth. Tell us your'
-p1445
-aS'name, please.'
-p1446
-asa(dp1447
-g8
-S'MALE SPEAKER'
-p1448
-sg13
-(lp1449
-S"Hi. My name is Tal. And there's two main points in the premise tonight, one that our"
-p1450
-aS'minds are being closed, at least more so than any other time. And two, that the'
-p1451
-aS'internet is doing it. And I would like to ask the panel for the motion to address both of'
-p1452
-aS'those issues.'
-p1453
-asa(dp1454
-g8
-S'JOHN DONVAN'
-p1455
-sg10
-(dp1456
+(dp1431
 I1
-S'33'
+S'24'
+p1432
+ssg16
+(lp1433
+g1429
+asa(dp1434
+g22
+(dp1435
+I7
+S'[laughter]'
+p1436
+ssg8
+(lp1437
+S'I want to ask Eli one other question, I mean, since we\'re dealing with the interestingimplications of this thing that I don\'t think is happening, how do you want to -- whatkind of regulation do you want to deal with this problem?Do you want to say that Google and Facebook aren\'t allowed to filter in certain ways, ordo you want them to become this sort of paternalistic gatekeepers that say, "If you\'researching for Lady Gaga video, you also have to have a little bit of this interesting studyfrom the nonpartisan Congressional Budget Office.Right?'
+p1438
+aS'[[laughter]] '
+p1439
+asg11
+S'JACOB WEISBERG'
+p1440
+sg16
+(lp1441
+S"I want to ask Eli one other question, I mean, since we're dealing with the interesting implications of this thing that I don't think is happening, how do you want to -- what kind of regulation do you want to deal with this problem?"
+p1442
+aS'Do you want to say that Google and Facebook aren\'t allowed to filter in certain ways, or do you want them to become this sort of paternalistic gatekeepers that say, "If you\'re searching for Lady Gaga video, you also have to have a little bit of this interesting study from the nonpartisan Congressional Budget Office.'
+p1443
+aS'Right?'
+p1444
+asg18
+(dp1445
+S'19:36:39'
+p1446
+I3
+ssa(dp1447
+g8
+(lp1448
+S"I'm not suggesting that we replace the old media paternalism with new paternalism."
+p1449
+aS"I'msuggesting that, if we built these tools toward the purpose of helping people get goodinformation, including a diversity of perspective, we could do that in a way that woulddraw on the Internet strength."
+p1450
+aS"So I'll give you one example, Facebook, the main waythat you propagate information across Facebook is with the Like button."
+p1451
+aS'The Likebutton has a very particular valence.'
+p1452
+aS'It\'s easy to click Like on, "I baked a cake," it\'s hardto click Like on, "Massacre in Darfur continues for 11th year.'
+p1453
+aS'" And so certain kinds ofinformation propagate very readily.Other kinds of information don\'t propagate at all.'
+p1454
+aS"Now, without instituting any kind ofobjective paternalism, this is more important than that, you could put an Importantbutton on Facebook that'll allow people to elevate the topics that they believed wereimportant as well as the topics that they think are fun and interesting and that they'dlike their friends to see."
+p1455
+aS"So there are ways of doing this that are Internety, that don'trequire, you know, someone in a room making these value judgments but that actuallylead toward filtering, that helps us seek --"
+p1456
+asg11
+S'ELI PARISER'
 p1457
-ssg13
+sg16
 (lp1458
-S"I think they have. So unless you feel that you haven't covered that, I think that it's --"
+S"I'm not suggesting that we replace the old media paternalism with new paternalism."
 p1459
-asa(dp1460
-g8
-S'SIVA VAIDHYANATHAN'
+aS"I'm suggesting that, if we built these tools toward the purpose of helping people get good information, including a diversity of perspective, we could do that in a way that would draw on the Internet strength."
+p1460
+aS"So I'll give you one example, Facebook, the main way that you propagate information across Facebook is with the Like button."
 p1461
-sg13
-(lp1462
-S'I would only qualify it by saying --'
+aS'The Like button has a very particular valence.'
+p1462
+aS'It\'s easy to click Like on, "I baked a cake," it\'s hard to click Like on, "Massacre in Darfur continues for 11th year.'
 p1463
-asa(dp1464
-g8
-S'JOHN DONVAN'
+aS'" And so certain kinds of information propagate very readily.'
+p1464
+aS"Other kinds of information don't propagate at all."
 p1465
-sg13
-(lp1466
-S'All right.'
+aS"Now, without instituting any kind of objective paternalism, this is more important than that, you could put an Important button on Facebook that'll allow people to elevate the topics that they believed were important as well as the topics that they think are fun and interesting and that they'd like their friends to see."
+p1466
+aS"So there are ways of doing this that are Internety, that don't require, you know, someone in a room making these value judgments but that actually lead toward filtering, that helps us seek --"
 p1467
-asa(dp1468
-g8
-S'SIVA VAIDHYANATHAN'
+asg18
+(dp1468
+S'19:37:40'
 p1469
-sg13
-(lp1470
-S"-- it's not as simple as doing. It is that we are interacting with these platforms at such a"
-p1471
-aS"high and intense level without realizing what's going on."
-p1472
-aS"And that's what's happening. So it's amplifying what we were already willing to do,"
-p1473
-aS'which is gather among ourselves and reward ourselves with positive affirmation. And'
-p1474
-aS"that's really mostly what goes on on Facebook."
-p1475
-asg16
-(dp1476
-I2
-S'19:51:44'
-p1477
-ssa(dp1478
+I8
+ssa(dp1470
 g8
+(lp1471
+S"That still doesn't solve the filtering problem, come on, we'll still be as close minded ifyou buy into a paradigm with the Important button, it's just that now in addition tobeing close minded, three people in the audience will care about Darfur."
+p1472
+asg11
 S'EVGENY MOROZOV'
+p1473
+sg16
+(lp1474
+S"That still doesn't solve the filtering problem, come on, we'll still be as close minded if you buy into a paradigm with the Important button, it's just that now in addition to being close minded, three people in the audience will care about Darfur."
+p1475
+asa(dp1476
+g8
+(lp1477
+S"Well, it's better than none, but I think the interesting thing here that I kind of want toget to is -- I wanted to ask you about this, Evgeny, because you wrote a Slate piecerecently in which closed with a call that was actually kind of more paternalistic thanwhere I would go."
+p1478
+asg11
+S'ELI PARISER'
 p1479
 sg13
-(lp1480
-S'Siva, but first you argue to govern among themselves, but then you argue that the'
+(dp1480
+I0
+S'25'
 p1481
-aS'internet is getting balkanized, and we are all in our own little niches. I mean, how do'
-p1482
-aS'you square it both of them.'
+ssg16
+(lp1482
+S"Well, it's better than none, but I think the interesting thing here that I kind of want to get to is -- I wanted to ask you about this, Evgeny, because you wrote a Slate piece recently in which closed with a call that was actually kind of more paternalistic than where I would go."
 p1483
 asa(dp1484
 g8
-S'SIVA VAIDHYANATHAN'
-p1485
-sg13
-(lp1486
-S"Ourselves, that's one of the niches, right? And it's being balkanized nationally which"
+(lp1485
+S'True.'
+p1486
+asg11
+S'EVGENY MOROZOV'
 p1487
-aS'then reduces the global political --'
-p1488
-ag1258
+sg16
+(lp1488
+g1486
 asa(dp1489
 g8
-S'EVGENY MOROZOV'
-p1490
-sg13
-(lp1491
-S'You aspire to this one global Utopia --'
+(lp1490
+S'You know, it closes by saying, "It\'s not unreasonable to think that the denialists of globalwarning or benefits of vaccination are online friends with other denialists.As such, finding information that contradicts one\'s views would be even harder.'
+p1491
+aS'This isa reason for Google to atone for its sins and ensure that the subject dominated bypseudoscience and conspiracy theories are given a socially responsible curatedtreatment.'
 p1492
-asa(dp1493
-g8
-S'SIVA VAIDHYANATHAN'
+aS'" So can you talk about -- I was just curious about that because I can\'t make itsquare with your position.'
+p1493
+asg11
+S'ELI PARISER'
 p1494
-sg13
+sg16
 (lp1495
-S'Very much.'
+S'You know, it closes by saying, "It\'s not unreasonable to think that the denialists of global warning or benefits of vaccination are online friends with other denialists.'
 p1496
-asa(dp1497
-g8
-S'EVGENY MOROZOV'
+aS"As such, finding information that contradicts one's views would be even harder."
+p1497
+aS'This is a reason for Google to atone for its sins and ensure that the subject dominated by pseudoscience and conspiracy theories are given a socially responsible curated treatment.'
 p1498
-sg13
-(lp1499
-S'-- where people in China feel like people in India and Iran and elsewhere?'
-p1500
-asa(dp1501
+aS'" So can you talk about -- I was just curious about that because I can\'t make it square with your position.'
+p1499
+asg18
+(dp1500
+S'19:38:51'
+p1501
+I2
+ssa(dp1502
 g8
-S'SIVA VAIDHYANATHAN'
-p1502
-sg13
 (lp1503
-S'Yeah, that would be really nice.'
+S'Evgeny Morozov.'
 p1504
-ag1258
-asa(dp1505
-g8
+asg11
 S'JOHN DONVAN'
-p1506
-sg10
-(dp1507
-I1
-S'34'
-p1508
-ssg13
-(lp1509
-S'Eli Pariser.'
+p1505
+sg16
+(lp1506
+g1504
+asa(dp1507
+g8
+(lp1508
+S"No, I think it's very easy to make it square."
+p1509
+aS"I mean, first of all, public health, particularlyvaccination, I think it's different from political information."
 p1510
-asa(dp1511
-g8
-S'ELI PARISER'
+aS'Political information iscontentious by default.'
+p1511
+aS'Vaccination related decisions are far more contentious becausepublic health and often national security is at stake, so there is a difference there, firstof all.'
 p1512
-sg13
-(lp1513
-S'-- is, you know, there\'s a great book called "the big sort" about how increasingly people'
-p1514
-aS'live in communities that are like them, in homogenous communities. And one of the'
+asg11
+S'EVGENY MOROZOV'
+p1513
+sg16
+(lp1514
+S"No, I think it's very easy to make it square."
 p1515
-aS'fascinating things about this book is that you have two things going on at the same time.'
+aS"I mean, first of all, public health, particularly vaccination, I think it's different from political information."
 p1516
-aS'On the one hand, there is a broader set of types of communities than there was 30'
+aS'Political information is contentious by default.'
 p1517
-aS"years ago, right? That's undoubtedly true. On the other hand, for each individual"
+aS'Vaccination related decisions are far more contentious because public health and often national security is at stake, so there is a difference there, first of all.'
 p1518
-aS'person in that system, their neighborhood is more like people like them than it ever was'
-p1519
-aS'in the past. And so you have local homogeneity and heterogeneity at the top level. And'
-p1520
-aS'I think when people are trying to make the opposite argument, they point to, hey, look'
+asa(dp1519
+g8
+(lp1520
+S'So you think--'
 p1521
-aS"at the internet, there's all this different stuff out there. It's so heterogeneous."
+asg11
+S'ELI PARISER'
 p1522
-aS"Everybody's talking. But actually, the question is, what are people's local neighborhoods"
-p1523
-aS"like? And to the extent that we're now bringing those local neighborhoods with us"
-p1524
-aS'online, what effect does that have in, you know, amplifying the homogeneity that'
-p1525
-aS"increasingly surrounds us even when we're off line."
+sg16
+(lp1523
+g1521
+asa(dp1524
+g8
+(lp1525
+S'Second of all --'
 p1526
-asg16
-(dp1527
-I3
-S'19:52:41'
-p1528
-ssa(dp1529
-g8
+asg11
 S'EVGENY MOROZOV'
-p1530
-sg13
-(lp1531
-S'I would encourage you to look at the recent issue of American Journal of Political'
+p1527
+sg16
+(lp1528
+g1526
+asa(dp1529
+g8
+(lp1530
+S"-- global warming isn't political?"
+p1531
+asg11
+S'ELI PARISER'
 p1532
-aS'Science which actually debunks, the big sort bulk with a load of empirical data and'
-p1533
-aS'shows that even in the off line world, that this has never held true.'
-p1534
-asa(dp1535
+sg16
+(lp1533
+g1531
+asa(dp1534
 g8
-S'JOHN DONVAN'
+(lp1535
+S'-- second of all, it is less political than public health.'
 p1536
-sg13
-(lp1537
-S'Can you go up three steps, please, and turn right?'
-p1538
-aS"Ma'am? Yeah, you're rising -- on your other side, sorry. Just wait for the mic. Thanks."
-p1539
-asg16
-(dp1540
-I1
-S'19:53:45'
+asg11
+S'EVGENY MOROZOV'
+p1537
+sg16
+(lp1538
+g1536
+asa(dp1539
+g8
+(lp1540
+S'Really?'
 p1541
-ssa(dp1542
-g8
-S'FEMALE SPEAKER'
-p1543
-sg13
-(lp1544
-S"My name is . And I'm curious about either the growth of your audiences"
-p1545
-aS"or the decrease of your audiences and the quality and the quantity of discourse that's"
-p1546
-aS"been created over the past let's say three years."
-p1547
-asa(dp1548
-g8
-S'JOHN DONVAN'
-p1549
-sg13
-(lp1550
-S"So how would you relate that directly to the motion? Are you asking whether they're"
-p1551
-aS'seeing a closing of the minds in the interaction with their readers?'
-p1552
-asa(dp1553
-g8
-S'FEMALE SPEAKER'
-p1554
-sg10
-(dp1555
-I2
-S'35'
-p1556
-ssg13
-(lp1557
-S'In their own personal -- in their own personal writing and their own personal blogs and'
-p1558
-aS"the information that they're providing --"
-p1559
-asa(dp1560
-g8
-S'JOHN DONVAN'
-p1561
-sg13
-(lp1562
-S'Are they seeing minds closing?'
-p1563
-asa(dp1564
-g8
-S'FEMALE SPEAKER'
-p1565
-sg13
-(lp1566
-S'Are they seeing minds closed?'
-p1567
-asa(dp1568
-g8
-S'JOHN DONVAN'
-p1569
-sg13
-(lp1570
-S'Jacob Weisberg.'
-p1571
-asa(dp1572
-g8
-S'JACOB WEISBERG'
-p1573
-sg13
-(lp1574
-S'Well, I think I tried to answer -- I tried to speak to that in my introduction. No. I felt'
-p1575
-aS'personally just the opposite.'
-p1576
-aS"I feel like I've never been in touch with a wider variety of viewpoints and people. And a"
-p1577
-aS'lot of that is through social media, because people act as filters for you. When you find'
-p1578
-aS"something that's somewhat interesting, whether they're a personal friend, whether"
-p1579
-aS"they are someone in a field you're interested in, whether they're in another field or just"
-p1580
-aS'someone you admire, they bring you a whole range of things, on Twitter, on Facebook.'
-p1581
-aS'So no, my experience has been just the opposite.'
-p1582
-asg16
-(dp1583
-I2
-S'19:54:44'
-p1584
-ssa(dp1585
-g8
-S'JOHN DONVAN'
-p1586
-sg13
-(lp1587
-S'Siva?'
-p1588
-asa(dp1589
-g8
-S'SIVA VAIDHYANATHAN'
-p1590
-sg13
-(lp1591
-S"Well, I've written for Slate, so I've had a great experience. But I -- my experience is"
-p1592
-aS'narrow. My experience is my own, and my experience is based on the particular subjects'
-p1593
-aS'that I cover, which happen to plug right into these questions, for the same reason that'
-p1594
-aS'this is not a representative audience of internet users, my readers are not a'
-p1595
-aS'representative audience of internet users.'
-p1596
-asa(dp1597
-g8
+asg11
 S'ELI PARISER'
-p1598
+p1542
 sg13
-(lp1599
-S'I just want to --'
-p1600
-ag1258
-asa(dp1601
-g8
-S'EVGENY MOROZOV'
-p1602
-sg10
-(dp1603
-I3
-S'36'
-p1604
-ssg13
-(lp1605
-S'So I think that the fear that somehow diversity online is shrinking.'
-p1606
-aS'I think my own case disproves that. I mean, I have an unpronounceable name. I was'
-p1607
-aS'born in the middle of nowhere in Belarus, and the only reason why I actually have the'
-p1608
-aS'attention and the audience I have is mostly because of the Internet, because of the'
-p1609
-aS'Twitter stream I run and because of active writing for online publications and doing a lot'
-p1610
-aS'of online research in Google Scholar. So I would say that the fear that somehow it will'
-p1611
-aS'become impossible for diverse voices from Iran or or elsewhere to get'
-p1612
-aS'heard --'
-p1613
-ag1258
-asg16
-(dp1614
+(dp1543
 I1
-S'19:55:42'
-p1615
-ssa(dp1616
+S'26'
+p1544
+ssg16
+(lp1545
+g1541
+asa(dp1546
 g8
-S'JOHN DONVAN'
-p1617
-sg13
-(lp1618
-S"-- direct interaction with the public has indicated to you that -- am I right, ma'am, you're"
-p1619
-aS'talking about --'
-p1620
-asa(dp1621
-g8
+(lp1547
+S'Well, I mean, look, is anyone going to shut down the school or public square because ofglobal warming tomorrow?They will if there is an outbreak of an epidemic or some contagious disease.'
+p1548
+aS'Again, youhave to understand that this is a very particular context in which I think warning peopleabout certain types of websites, which has nothing to do with socialization, haseverything to do with certain publishers publishing deliberately misleading informationabout vaccination, for example, or about the risks of flu vaccines or any other sort ofvaccine, and I think it would not be a bad idea for Google to show that there are siteswhich have actually been approved through peer review and through normal scientificpractice and -- to show that, "Hey, you actually have sites which you can trust.'
+p1549
+aS'" I don\'tthink it has much to do with filtering or the social layer.'
+p1550
+asg11
 S'EVGENY MOROZOV'
-p1622
-sg13
-(lp1623
-S'But, I mean, if I look at the public --'
-p1624
-asa(dp1625
-g8
-S'FEMALE SPEAKER'
-p1626
-sg13
-(lp1627
-S" quality of discourse. I'm assuming that this debate is about whether"
-p1628
-aS'discourse is closed, whether --'
-p1629
-asa(dp1630
-g8
-S'JOHN DONVAN'
-p1631
-sg13
-(lp1632
-S'Okay.'
-p1633
-asa(dp1634
-g8
-S'EVGENY MOROZOV'
-p1635
-sg13
-(lp1636
-S"My point of my own case shows that it's actually getting more diverse in terms of voices"
-p1637
-aS'who never previously would have a chance to sit in an audience like this or participate in'
-p1638
-aS'political debates but, you know, I participate in them.'
-p1639
-asa(dp1640
-g8
-S'JOHN DONVAN'
-p1641
-sg13
-(lp1642
-S'Eli Pariser.'
-p1643
-asa(dp1644
-g8
-S'ELI PARISER'
-p1645
-sg10
-(dp1646
-I9
-S'37'
-p1647
-ssg13
-(lp1648
-S'When I was at Move On, we tried a number of times to do these kinds of cross partisan'
-p1649
-aS'conversations and have people sit down in a room together and talk.'
-p1650
-aS"And it is amazingly hard to do. And, you know, I think it's probably always been hard. I"
-p1651
-aS"don't think that, that's a new phenomenon, but the degree to which people live in"
-p1652
-aS'different universes of fact, not just different universes of opinion, in other words, the'
-p1653
-aS"degree to which you can't even get to something to argue about because people won't"
-p1654
-aS"even agree that, that's a thing, is, you know, really striking. And I can't help but wonder"
-p1655
-aS"as Evgeny has, as have many of us, if the way that the Internet is structured isn't"
-p1656
-aS'amplifying that and helping people who believe, you know, pretty in my opinion, you'
-p1657
-aS'know, misinformation, like the Obama birth certificate stuff or that climate change is'
-p1658
-aS"not something that's partly caused by people, is it amplified by that."
-p1659
-asg16
-(dp1660
+p1551
+sg16
+(lp1552
+S'Well, I mean, look, is anyone going to shut down the school or public square because of global warming tomorrow?'
+p1553
+aS'They will if there is an outbreak of an epidemic or some contagious disease.'
+p1554
+aS'Again, you have to understand that this is a very particular context in which I think warning people about certain types of websites, which has nothing to do with socialization, has everything to do with certain publishers publishing deliberately misleading information about vaccination, for example, or about the risks of flu vaccines or any other sort of vaccine, and I think it would not be a bad idea for Google to show that there are sites which have actually been approved through peer review and through normal scientific practice and -- to show that, "Hey, you actually have sites which you can trust.'
+p1555
+aS'" I don\'t think it has much to do with filtering or the social layer.'
+p1556
+asg18
+(dp1557
+S'19:39:42'
+p1558
 I2
-S'19:56:44'
-p1661
-ssa(dp1662
+ssa(dp1559
 g8
+(lp1560
+S"But when you say it's not unreasonable for denialists to be online friends with otherdenialists and as such finding information that contradicts one's views --"
+p1561
+asg11
+S'ELI PARISER'
+p1562
+sg16
+(lp1563
+S"But when you say it's not unreasonable for denialists to be online friends with other denialists and as such finding information that contradicts one's views --"
+p1564
+asa(dp1565
+g8
+(lp1566
+S'We have freedom of association so its not unreasonable --'
+p1567
+asg11
+S'EVGENY MOROZOV'
+p1568
+sg16
+(lp1569
+g1567
+asa(dp1570
+g8
+(lp1571
+S'But let me bring in Siva, yeah.'
+p1572
+asg11
 S'JOHN DONVAN'
+p1573
+sg16
+(lp1574
+g1572
+asa(dp1575
+g8
+(lp1576
+S"Well, I would go to a less paternalistic position.I don't think we should be in the business of telling Google what to do or tellingFacebook what to do."
+p1577
+aS'I think we should be in the business of building new platforms,new tools, new ways of relating to each other.'
+p1578
+aS'And having these conversations, I thinkeverybody should read books about the subject, which is a pretty good way.'
+p1579
+aS'And thenadjust your own behavior and have those ideas echo through your social networks, thatperhaps its a good idea to break out of the filter bubble.'
+p1580
+asg11
+S'SIVA VAIDHYANATHAN'
+p1581
+sg16
+(lp1582
+S'Well, I would go to a less paternalistic position.'
+p1583
+aS"I don't think we should be in the business of telling Google what to do or telling Facebook what to do."
+p1584
+aS'I think we should be in the business of building new platforms, new tools, new ways of relating to each other.'
+p1585
+aS'And having these conversations, I think everybody should read books about the subject, which is a pretty good way.'
+p1586
+aS'And then adjust your own behavior and have those ideas echo through your social networks, that perhaps its a good idea to break out of the filter bubble.'
+p1587
+asg18
+(dp1588
+S'19:40:42'
+p1589
+I1
+ssa(dp1590
+g8
+(lp1591
+S'Let me ask the side thats arguing that when it comes to politics, the internet is closingour minds.'
+p1592
+aS'For some concrete examples of this phenomenon that concerns you,actually having caused harm to the body politic, because theres a little bit of anassumption, and maybe youre not making this point, but theres a little bit of thisassumption that all do need to be talking to each other and that theres a middle thatwell all reach in some kumbaya moment.'
+p1593
+aS'But in fact, whats wrong with having peopleentrenched in their own camps, angry at each other?'
+p1594
+aS'As long as the political spectrum iscovered overall, whats wrong with that?'
+p1595
+aS'And what examples of harm can you talkabout that have been caused by that.'
+p1596
+asg11
+S'JOHN DONVAN'
+p1597
+sg13
+(dp1598
+I4
+S'27'
+p1599
+ssg16
+(lp1600
+S'Let me ask the side thats arguing that when it comes to politics, the internet is closing our minds.'
+p1601
+aS'For some concrete examples of this phenomenon that concerns you, actually having caused harm to the body politic, because theres a little bit of an assumption, and maybe youre not making this point, but theres a little bit of this assumption that all do need to be talking to each other and that theres a middle that well all reach in some kumbaya moment.'
+p1602
+aS'But in fact, whats wrong with having people entrenched in their own camps, angry at each other?'
+p1603
+aS'As long as the political spectrum is covered overall, whats wrong with that?'
+p1604
+aS'And what examples of harm can you talk about that have been caused by that.'
+p1605
+asg18
+(dp1606
+S'19:41:45'
+p1607
+I9
+ssa(dp1608
+g8
+(lp1609
+S'Just a little story, when I was on the book tour for my book, I was on a radio show in St.Louis.'
+p1610
+aS'And the host decided to make this big spectacle of having people Google BarackObama and call-in and read their search results.'
+p1611
+aS'It was a really boring radio hour.'
+p1612
+aS'Andthe first person called in, the second person called in and they interviewed everybodyand had people kind of do a read-off where theyre both reading it off at the same timeand it was exactly the same.'
+p1613
+aS'And I was thinking, this is the worse book promotion Iveever done.'
+p1614
+aS'And then a third guy called in, and he said you know its the damndest thing,when I Google Barack Obama, the first thing that comes up is this link to this site abouthow hes not a natural citizen.'
+p1615
+aS'And the second link is also a link to a website about howhe doesnt have a birth certificate.'
+p1616
+asg11
+S'ELI PARISER'
+p1617
+sg16
+(lp1618
+S'Just a little story, when I was on the book tour for my book, I was on a radio show in St. Louis.'
+p1619
+aS'And the host decided to make this big spectacle of having people Google Barack Obama and call-in and read their search results.'
+p1620
+aS'It was a really boring radio hour.'
+p1621
+aS'And the first person called in, the second person called in and they interviewed everybody and had people kind of do a read-off where theyre both reading it off at the same time and it was exactly the same.'
+p1622
+aS'And I was thinking, this is the worse book promotion Ive ever done.'
+p1623
+aS'And then a third guy called in, and he said you know its the damndest thing, when I Google Barack Obama, the first thing that comes up is this link to this site about how hes not a natural citizen.'
+p1624
+aS'And the second link is also a link to a website about how he doesnt have a birth certificate.'
+p1625
+asa(dp1626
+g8
+(lp1627
+S'That was your publicist.'
+p1628
+asg11
+S'EVGENY MOROZOV'
+p1629
+sg16
+(lp1630
+g1628
+asa(dp1631
+g8
+(lp1632
+S'Oh, I was wondering about that.But so, I think the danger here is that its not just that he was getting a view of the worldthat was really far off the average here.'
+p1633
+aS'But he didnt even know that that was the viewthat he was getting.'
+p1634
+aS'He had no idea how tilted that view was.'
+p1635
+aS'And thats sort of thechallenge.'
+p1636
+aS'I just want to address one other point, which is that there seems to be thisquestion about whether this is happening.'
+p1637
+aS"And its really kind of funny to me, because ifyou talk to these companies and if you listen to what theyre saying, all of thesecompanies are very clear that personalization is a big part of what theyre doing andwhat they're --"
+p1638
+asg11
+S'ELI PARISER'
+p1639
+sg16
+(lp1640
+S'Oh, I was wondering about that.'
+p1641
+aS'But so, I think the danger here is that its not just that he was getting a view of the world that was really far off the average here.'
+p1642
+aS'But he didnt even know that that was the view that he was getting.'
+p1643
+aS'He had no idea how tilted that view was.'
+p1644
+aS'And thats sort of the challenge.'
+p1645
+aS'I just want to address one other point, which is that there seems to be this question about whether this is happening.'
+p1646
+aS"And its really kind of funny to me, because if you talk to these companies and if you listen to what theyre saying, all of these companies are very clear that personalization is a big part of what theyre doing and what they're --"
+p1647
+asg18
+(dp1648
+S'19:42:41'
+p1649
+I1
+ssa(dp1650
+g8
+(lp1651
+S'For pizza, weighted decisions.'
+p1652
+aS'They are very clear.'
+p1653
+aS'And they say we dont want to do itfor politics, we only want to do it for pizza.'
+p1654
+asg11
+S'EVGENY MOROZOV'
+p1655
+sg16
+(lp1656
+S'For pizza, weighted decisions.'
+p1657
+aS'They are very clear.'
+p1658
+aS'And they say we dont want to do it for politics, we only want to do it for pizza.'
+p1659
+asa(dp1660
+g8
+(lp1661
+S'Right, and the question is, can you trust them?'
+p1662
+asg11
+S'ELI PARISER'
 p1663
 sg13
-(lp1664
-S'Siva.'
-p1665
-asa(dp1666
-g8
-S'SIVA VAIDHYANATHAN'
-p1667
-sg13
-(lp1668
-S'I have a really quick answer. I misunderstood your question. I apologize.'
-p1669
-aS"Before five years ago, I didn't have such a thing as Facebook in which to engage in"
-p1670
-aS'conversation with my friends. I ran two blogs. And both of them were maddening'
-p1671
-aS'because every conversation I had was overwhelmed by harassing people, people who'
-p1672
-aS'were merely there to disrupt the conversation, not there to engage in a reasonable and'
-p1673
-aS'rational way. We call them trolls. And one of the reasons that I closed down my blogs is'
-p1674
-aS'it was so maddening that --'
-p1675
-asg16
-(dp1676
+(dp1664
 I1
-S'19:57:44'
-p1677
-ssa(dp1678
+S'28'
+p1665
+ssg16
+(lp1666
+g1662
+asa(dp1667
 g8
+(lp1668
+S'Let me -- Jacob, I think Eli left a pretty good image hanging out there, of these folks trulynot knowing how much they dont know and believing what theyre getting and notunderstanding how slanted it is.That landed pretty well I think, so can you respond to that?'
+p1669
+asg11
 S'JOHN DONVAN'
+p1670
+sg16
+(lp1671
+S'Let me -- Jacob, I think Eli left a pretty good image hanging out there, of these folks truly not knowing how much they dont know and believing what theyre getting and not understanding how slanted it is.'
+p1672
+aS'That landed pretty well I think, so can you respond to that?'
+p1673
+asg18
+(dp1674
+S'19:43:43'
+p1675
+I3
+ssa(dp1676
+g8
+(lp1677
+S'But a guy who called into a radio show?'
+p1678
+aS'I know the plural of anecdote is data.'
 p1679
-sg13
-(lp1680
-S'As opposed to taking lithium.'
+aS'But Imean, if this were really happening in the way you say it is, wouldnt there be some kindof decent study that actually showed widely varying results?'
+p1680
+aS'I mean as I say, Ive triedto test this out as best I can.'
 p1681
-asa(dp1682
-g8
-S'SIVA VAIDHYANATHAN'
+aS'Ive tried it myself on various browsers, signed in, signedout, Wikipedia always comes up first, sometimes it comes up second.'
+p1682
+aS'Wikipediasvaccine entry is pretty good.'
 p1683
-sg13
-(lp1684
-S'Exactly, exactly. The quality of discourse in the comments plus the spam was just out of'
+aS'I do not think there is actually the kind of variety youretalking in searches done most of the time by most people.'
+p1684
+asg11
+S'JACOB WEISBERG'
 p1685
-aS"control. On Facebook it's a lot more comfortable, right? It's a lot more pleasant. It's"
-p1686
-aS"because I never see people I disagree with. It's really lovely now."
+sg16
+(lp1686
+S'But a guy who called into a radio show?'
 p1687
-asa(dp1688
-g8
-S'JOHN DONVAN'
+aS'I know the plural of anecdote is data.'
+p1688
+aS'But I mean, if this were really happening in the way you say it is, wouldnt there be some kind of decent study that actually showed widely varying results?'
 p1689
-sg13
-(lp1690
-S'I think I -- a lot of the questions that came in --'
+aS'I mean as I say, Ive tried to test this out as best I can.'
+p1690
+aS'Ive tried it myself on various browsers, signed in, signed out, Wikipedia always comes up first, sometimes it comes up second.'
 p1691
-asa(dp1692
-g8
-S'EVGENY MOROZOV'
+aS'Wikipedias vaccine entry is pretty good.'
+p1692
+aS'I do not think there is actually the kind of variety youre talking in searches done most of the time by most people.'
 p1693
-sg13
-(lp1694
-S'You follow me on Twitter, though.'
-p1695
-asa(dp1696
+asa(dp1694
 g8
+(lp1695
+S'Siva.'
+p1696
+asg11
 S'JOHN DONVAN'
 p1697
-sg10
-(dp1698
-I7
-S'38'
-p1699
-ssg13
+sg16
+(lp1698
+g1696
+asa(dp1699
+g8
 (lp1700
-S'-- a lot of the questions that came in through Slate are similarly focused on this question'
+S'So, doing social science online is really hard because almost nothing is replicable.'
 p1701
-aS'of the impact on the quality of the American political discourse and they -- Levi Osborne'
+aS'Rightso almost any, even if you did a broader study than that, even if Eli did a broader studythan that, the third person to do that study would not come up with the same results.For the simple reason that both Facebook and Google are constantly changing theiralgorithms, constantly tweaking their algorithms for reasons we cant possiblyunderstand and are not allowed to understand.'
 p1702
-aS' in Warrensburg, Missouri, asks, "Is it so much the internet in itself'
+aS'Its also important to remember thatthere are so many variables in what you get.'
 p1703
-aS'that is closing our minds as it is the hyper partisanship of these commentators which so'
+aS'There are some searches that are morepersonalized than other searches.'
 p1704
-aS'many people listen to?"'
+aS'Again, for reasons that Google understands and weare not allowed to understand.'
 p1705
-aS'And by, "commentators," he\'s talking also not just about people who are online, but'
+aS'There are some ways that you can generate differentsearches because there are certain keywords that matter more in certain geographiclocations than others.'
 p1706
-aS'people who are also in television who are blogging, and people in newspapers who are'
+aS'So a search for S-O-X in Boston or Chicago will yield a particularlystrong result and personalized in those areas where as S-O-X searched somewhere elsein the world might yield gibberish because it doesnt mean anything.'
 p1707
-aS"blogging, but he's talking about the blogging aspect of people with hyper partisan points"
+aS'So all of thesevariables, plus the big variable, whether or not youre a Gmail user, whether or notyoure signed into YouTube, whether or not --'
 p1708
-aS'of view, and -- Jacob Weisberg.'
+asg11
+S'SIVA VAIDHYANATHAN'
 p1709
-asg16
-(dp1710
-I5
-S'19:59:01'
+sg16
+(lp1710
+S'So, doing social science online is really hard because almost nothing is replicable.'
 p1711
-ssa(dp1712
-g8
-S'JACOB WEISBERG'
+aS'Right so almost any, even if you did a broader study than that, even if Eli did a broader study than that, the third person to do that study would not come up with the same results.'
+p1712
+aS'For the simple reason that both Facebook and Google are constantly changing their algorithms, constantly tweaking their algorithms for reasons we cant possibly understand and are not allowed to understand.'
 p1713
-sg13
-(lp1714
-S'Well, I do think the phenomenon of increased polarization in Congress is pretty clearly'
+aS'Its also important to remember that there are so many variables in what you get.'
+p1714
+aS'There are some searches that are more personalized than other searches.'
 p1715
-aS"documented at this point. That's happening, and I deplore it. I just don't think the"
+aS'Again, for reasons that Google understands and we are not allowed to understand.'
 p1716
-aS'Internet has anything to do with it. I think the big drivers of that are redistricting which'
+aS'There are some ways that you can generate different searches because there are certain keywords that matter more in certain geographic locations than others.'
 p1717
-aS'put people in districts that tend to go one way or the other and fewer that swing back'
+aS'So a search for S-O-X in Boston or Chicago will yield a particularly strong result and personalized in those areas where as S-O-X searched somewhere else in the world might yield gibberish because it doesnt mean anything.'
 p1718
-aS"and forth. I think it's fundraising which means politicians spend all their time"
+aS'So all of these variables, plus the big variable, whether or not youre a Gmail user, whether or not youre signed into YouTube, whether or not --'
 p1719
-aS"fundraising and actually don't have human relationships with each other very much."
-p1720
-aS'I think hyper partisan media, of which Fox is probably the best example, have some'
+asg18
+(dp1720
+S'19:44:41'
 p1721
-aS'impact on it. But members of Congress, these are -- if you want to look for a group of'
-p1722
-aS"people who really aren't on the Internet very much, that's them. I mean, I don't think"
-p1723
-aS"it's what's driving it."
+I3
+ssa(dp1722
+g8
+(lp1723
+S'Are you agreeing with your opponent that you cant make the case based ?'
 p1724
-asg16
-(dp1725
-I6
-S'19:59:44'
-p1726
-ssa(dp1727
-g8
+asg11
 S'JOHN DONVAN'
-p1728
+p1725
 sg13
-(lp1729
-S'Siva.'
-p1730
-asa(dp1731
+(dp1726
+I2
+S'29'
+p1727
+ssg16
+(lp1728
+S'Are you agreeing with your opponent that you cant make the case based ?'
+p1729
+asa(dp1730
 g8
-S'SIVA VAIDHYANATHAN'
+(lp1731
+S'No, no, Im, what Im saying is that the empirical studies that have been done arelimited in their utility.What we do know is exactly what the companies say they do.'
 p1732
-sg13
-(lp1733
-S"So part of the phenomenon of the punditocracy is indignation. That's the currency. And"
+aS"And they say, and they'vesaid to Eli on a number of occasions, that they personalize our results."
+p1733
+aS'And not that -- '
 p1734
-aS'indignation is a subset of the attention economy. In order to appear on CNN at 2:00 in'
-p1735
-aS'the afternoon, in order to appear on Fox News at 7:00 p.m., you have to say something'
-p1736
-aS'that angers somebody, either directly in their face, "I\'m angering you as someone who'
-p1737
-aS'disagrees with me," or more likely you gather people on your side to be angry. And the'
-p1738
-aS'notion that we are so addicted to something now we can measure, the click, the instant'
-p1739
-aS"attention, the instant affirmation, just reinforces that, so it is a phenomenon that's"
-p1740
-aS"actually moved from the blogosphere, and that's why we've seen so many people who"
-p1741
-aS'got famous being bloggers now are appearing on CNN at 2 PM, now appearing on Fox at'
-p1742
-aS'7 PM.'
-p1743
-aS'Right, thats whats happening. Its why MSNBC is filled with former bloggers. It is'
-p1744
-aS'because theyre already adept at generating indignation towards one side or another.'
-p1745
-asg16
-(dp1746
-I10
-S'20:00:51'
-p1747
-ssa(dp1748
-g8
-S'JOHN DONVAN'
-p1749
-sg13
-(lp1750
-S'And is this a mind closing exercise or this just meaningless entertainment?'
-p1751
-asa(dp1752
-g8
+asg11
 S'SIVA VAIDHYANATHAN'
-p1753
-sg10
-(dp1754
-I1
-S'39'
-p1755
-ssg13
-(lp1756
-S'I think the results are.'
-p1757
-asa(dp1758
+p1735
+sg16
+(lp1736
+S'No, no, Im, what Im saying is that the empirical studies that have been done are limited in their utility.'
+p1737
+aS'What we do know is exactly what the companies say they do.'
+p1738
+aS"And they say, and they've said to Eli on a number of occasions, that they personalize our results."
+p1739
+aS'And not that -- '
+p1740
+asg18
+(dp1741
+S'19:45:41'
+p1742
+I2
+ssa(dp1743
 g8
-S'JOHN DONVAN'
-p1759
-sg13
-(lp1760
-S'It does have an impact.'
+(lp1744
+S'You have just disbanded the companies because I would actuallyprefer Google and Facebook to personalize my search results based on 500 factorsrather than on just two factors.'
+p1745
+asg11
+S'EVGENY MOROZOV'
+p1746
+sg16
+(lp1747
+S'You have just disbanded the companies because I would actually prefer Google and Facebook to personalize my search results based on 500 factors rather than on just two factors.'
+p1748
+asa(dp1749
+g8
+(lp1750
+S"I'm not interested in --"
+p1751
+asg11
+S'SIVA VAIDHYANATHAN'
+p1752
+sg16
+(lp1753
+g1751
+asa(dp1754
+g8
+(lp1755
+S"I don't want them to personalize my news or search results based on my sex and basedon my race or based on how old they think I am."
+p1756
+aS"I would like them to take a broaderview and incorporate 300 factors, 500 factors if it's necessary, rather than --"
+p1757
+asg11
+S'EVGENY MOROZOV'
+p1758
+sg16
+(lp1759
+S"I don't want them to personalize my news or search results based on my sex and based on my race or based on how old they think I am."
+p1760
+aS"I would like them to take a broader view and incorporate 300 factors, 500 factors if it's necessary, rather than --"
 p1761
 asa(dp1762
 g8
+(lp1763
+S"Okay, but you don't get to say --"
+p1764
+asg11
 S'SIVA VAIDHYANATHAN'
-p1763
-sg13
-(lp1764
-S'But mind closing, yes.'
 p1765
-asa(dp1766
+sg16
+(lp1766
+g1764
+asa(dp1767
 g8
-S'ELI PARISER'
-p1767
-sg13
 (lp1768
-S'I think, just to take a step for the resolution.'
+S" me into a social group to which I don't want to be known."
 p1769
-asa(dp1770
-g8
-S'JOHN DONVAN'
+aS"It's a goodthing."
+p1770
+asg11
+S'EVGENY MOROZOV'
 p1771
-sg13
+sg16
 (lp1772
-S'Eli Pariser.'
+S" me into a social group to which I don't want to be known."
 p1773
-asa(dp1774
+aS"It's a good thing."
+p1774
+asa(dp1775
 g8
-S'ELI PARISER'
-p1775
-sg13
 (lp1776
-S'I dont think anyone up here thinks that the primary thing driving American-- the very'
+S"I'm not interested in attacking or defending the companies."
 p1777
-aS'partisan spirit of American discourse is the internet. The question is, is the way that'
+aS"I'm interested in explainingwhat's going on to the best of our ability."
 p1778
-aS'most people use the internet helping or hurting? Thats the question that you really'
+aS'And we are feeling around in the darkbecause all of this is in a black box, private data, and yet so deeply important to ourpublic lives --'
 p1779
-aS'have to answer. Is the way that people are using the internet helping or hurting in this?'
+asg11
+S'SIVA VAIDHYANATHAN'
 p1780
-aS'And I think, its hard to argue, most peoples social networks are homogenous, thats'
-p1781
-aS'just true. Most people do have social networks that are largely made up of people like'
+sg16
+(lp1781
+S"I'm not interested in attacking or defending the companies."
 p1782
-aS'them.'
+aS"I'm interested in explaining what's going on to the best of our ability."
 p1783
-aS'Now there are the outliers for sure. But if youre getting more from people who you'
+aS'And we are feeling around in the dark because all of this is in a black box, private data, and yet so deeply important to our public lives --'
 p1784
-aS'know, youre getting more of your news from people who are like you.'
-p1785
-asg16
-(dp1786
-I7
-S'20:01:43'
+asa(dp1785
+g8
+(lp1786
+S"That's how capitalism works."
 p1787
-ssa(dp1788
-g8
-S'JOHN DONVAN'
+aS'They have trade secrets.'
+p1788
+aS'They will never disclose theiralgorithms --'
 p1789
-sg13
-(lp1790
-S'Okay, lets go back to questions. Youre wearing a lime green tie. Youre looking at your'
-p1791
-aS'tie. Sorry, that was a terrible cue to give, youve got to look down.'
+asg11
+S'EVGENY MOROZOV'
+p1790
+sg16
+(lp1791
+S"That's how capitalism works."
 p1792
-asa(dp1793
-g8
-S'MALE SPEAKER'
+aS'They have trade secrets.'
+p1793
+aS'They will never disclose their algorithms --'
 p1794
-sg13
-(lp1795
-S'My name is Andy, so I have a question about confirmation bias. This is -- I really dont'
-p1796
-aS'know the answer, which is, do you think now, or before the internet, it was harder to'
+asa(dp1795
+g8
+(lp1796
+S'I know.'
 p1797
-aS'avoid, whatever your ideology, information that would challenge your belief, be it the'
+asg11
+S'SIVA VAIDHYANATHAN'
 p1798
-aS'nightly news or an encyclopedia or the newspaper, whereas now, you mentioned'
-p1799
-aS'Wikipedia. But that might be, there might be an analogue to the encyclopedia of old,'
+sg13
+(dp1799
+I1
+S'30'
 p1800
-aS'but now you could just go to Conservapedia and find out that wow, Paul Revere'
-p1801
-aS'actually, the ride was consistent with what it was described as. And so its a lot easier to'
-p1802
-aS'find that information thats going to confirm your biases and that would contribute to'
-p1803
-aS'the closing of the mind.'
+ssg16
+(lp1801
+g1797
+asa(dp1802
+g8
+(lp1803
+S"-- because if they do, you're going to suffer."
 p1804
-asg16
-(dp1805
-I9
-S'20:02:44'
-p1806
-ssa(dp1807
-g8
-S'JOHN DONVAN'
+asg11
+S'EVGENY MOROZOV'
+p1805
+sg16
+(lp1806
+g1804
+asg18
+(dp1807
+S'19:46:42'
 p1808
-sg10
-(dp1809
-I0
-S'40'
-p1810
-ssg13
-(lp1811
-S'But Evgeny kind of addressed that point when he -- I think you said, Evgeny, earlier in'
-p1812
-aS'your opening statements, that initially the theory was the internet gave us tools to do'
-p1813
-aS'stuff that we were already doing. But the other side is arguing that without our knowing'
-p1814
-aS'it now, the internet is making us do that and were unaware of it. So do you feel that'
-p1815
-aS'your question was answered?'
-p1816
-asa(dp1817
+I1
+ssa(dp1809
 g8
-S'MALE SPEAKER'
-p1818
-sg13
-(lp1819
-S'Well it was more the idea of seeking out information that is going to be feeding your'
-p1820
-aS'own biases, whereas youre not exposing yourself. Youre not going to be exposed as'
-p1821
-aS'much as you would before to stuff.'
-p1822
-asa(dp1823
-g8
+(lp1810
+S'Jacob Weisberg.'
+p1811
+asg11
 S'JOHN DONVAN'
-p1824
-sg13
-(lp1825
-S'But is it, how is it different from 30 years ago, that if you, you could go down to the'
-p1826
-aS'library and take out all the crackpot books that you wanted to.'
-p1827
-asa(dp1828
+p1812
+sg16
+(lp1813
+g1811
+asa(dp1814
 g8
-S'MALE SPEAKER'
+(lp1815
+S'I know.'
+p1816
+aS"And that's the problem."
+p1817
+asg11
+S'SIVA VAIDHYANATHAN'
+p1818
+sg16
+(lp1819
+S'I know.'
+p1820
+aS"And that's the problem."
+p1821
+asa(dp1822
+g8
+(lp1823
+S'So why ask the impossible?'
+p1824
+asg11
+S'EVGENY MOROZOV'
+p1825
+sg16
+(lp1826
+g1824
+asa(dp1827
+g8
+(lp1828
+S'Jacob Weisberg.'
 p1829
-sg13
-(lp1830
-S'Well thats the question.'
-p1831
-ag1258
+asg11
+S'JOHN DONVAN'
+p1830
+sg16
+(lp1831
+g1829
 asa(dp1832
 g8
-S'JOHN DONVAN'
-p1833
-sg13
-(lp1834
-S'Lets let Jacob Weisburg take that one.'
+(lp1833
+S"I think there's another point here."
+p1834
+aS"We're talking mainly about Google and aboutFacebook that have these kinds of personalization you can turn off."
 p1835
-asa(dp1836
-g8
-S'JACOB WEISBERG'
+aS"Whether whenthey're turned on, they do what you say they're doing is a matter of some dispute."
+p1836
+aS"Butmost people don't get their news from Google search."
 p1837
-sg13
-(lp1838
-S'Daniel Patrick Moynihan used to always say, everyones entitled to their opinion but not'
+aS"And most people don't get theirnews from Facebook."
+p1838
+aS'They get their news from the news.'
 p1839
-aS'their own facts. And I think we all agree that in a democracy, you need an informational'
+aS'Now, these are increasingsources of information of different kinds.'
 p1840
-aS'common to some extent, where people are arguing about what they think about reality,'
+aS'But have you used Google news?'
 p1841
-aS'not about reality itself.'
+aS"It's not agreat product, and it's not one of the top ways that people get their news."
 p1842
-aS'But I think Wikipedias a pretty great information commons. And it is again, the first'
+aS'People stillget their news both from traditional news sources and from big online sources like CNN,Yahoo!'
 p1843
-aS'search return on almost everything, or at least one of the first few. And Wikipedia has'
+aS'news --'
 p1844
-aS'its issues and its problems but overall, Wikipedia strives to be neutral ground on an'
+asg11
+S'JACOB WEISBERG'
 p1845
-aS'informational level. Thats an anecdote, but I think its an important one. I think the'
-p1846
-aS'internet cuts both ways and in some ways, it can cut in favor of confirmation biases that'
+sg16
+(lp1846
+S"I think there's another point here."
 p1847
-aS'youre talking about, and in some ways it can cut right against it.'
+aS"We're talking mainly about Google and about Facebook that have these kinds of personalization you can turn off."
 p1848
-asg16
-(dp1849
-I4
-S'20:03:44'
+aS"Whether when they're turned on, they do what you say they're doing is a matter of some dispute."
+p1849
+aS"But most people don't get their news from Google search."
 p1850
-ssa(dp1851
-g8
-S'EVGENY MOROZOV'
+aS"And most people don't get their news from Facebook."
+p1851
+aS'They get their news from the news.'
 p1852
-sg13
-(lp1853
-S'I think we also --'
+aS'Now, these are increasing sources of information of different kinds.'
+p1853
+aS'But have you used Google news?'
 p1854
-asa(dp1855
-g8
-S'JOHN DONVAN'
+aS"It's not a great product, and it's not one of the top ways that people get their news."
+p1855
+aS'People still get their news both from traditional news sources and from big online sources like CNN, Yahoo!'
 p1856
-sg10
-(dp1857
-I2
-S'41'
-p1858
-ssg13
+aS'news --'
+p1857
+asa(dp1858
+g8
 (lp1859
-S'Evgeny, let me let the other side come back to that, to Eli Pariser, is arguing the internet'
+S'Which is personalized.'
 p1860
-aS'is closing our minds.'
+asg11
+S'ELI PARISER'
 p1861
-asa(dp1862
+sg16
+(lp1862
+g1860
+asa(dp1863
 g8
-S'ELI PARISER'
-p1863
-sg13
 (lp1864
-S'Well just to go from anecdote to the study. One of the findings of the Pew study was'
+S'Yahoo!'
 p1865
-aS'that the more personalized Google search results, the further down Wikipedia was in'
+aS'news is the AP.'
 p1866
-aS'the search results. So if you have an empty search history, Wikipedia is the top result.'
+aS"If you go -- it's basically an AP news feed."
 p1867
-aS'But the larger your search history, the less Wikipedia comes up.'
+aS'There is a socialfeature, similar to Facebook and Google.'
 p1868
-ag1258
-aS'The more its replaced by -- so this was the best study that we have on Google'
+aS'You can turn off.'
 p1869
-aS'personalization. And it suggests, I agree --'
+aS'You can have it personalizedor not personalized if you prefer.'
 p1870
-asg16
-(dp1871
-I4
-S'20:04:50'
-p1872
-ssa(dp1873
-g8
-S'EVGENY MOROZOV'
+asg11
+S'JACOB WEISBERG'
+p1871
+sg16
+(lp1872
+S'Yahoo!'
+p1873
+aS'news is the AP.'
 p1874
-sg13
-(lp1875
-S'But do you see any logic, why would Google deliberately want to demote Wikipedia in'
+aS"If you go -- it's basically an AP news feed."
+p1875
+aS'There is a social feature, similar to Facebook and Google.'
 p1876
-aS'search results?'
+aS'You can turn off.'
 p1877
-asa(dp1878
+aS'You can have it personalized or not personalized if you prefer.'
+p1878
+asa(dp1879
 g8
-S'ELI PARISER'
-p1879
-sg13
 (lp1880
-S'Totally, I see the logic.'
+S'First of all, defaults matter.'
 p1881
-asa(dp1882
-g8
-S'EVGENY MOROZOV'
+aS'The fact that you have to know to turn it off to turn it off isa huge issue.'
+p1882
+aS"There is a reason those social phenomena are on by default because it's inthose company's interests to make sure that you do get personalized results."
 p1883
-sg13
-(lp1884
-S'Whats the logic?'
-p1885
-asa(dp1886
-g8
-S'ELI PARISER'
+asg11
+S'SIVA VAIDHYANATHAN'
+p1884
+sg16
+(lp1885
+S'First of all, defaults matter.'
+p1886
+aS'The fact that you have to know to turn it off to turn it off is a huge issue.'
 p1887
-sg13
-(lp1888
-S'I just think -- the logic, they have the means and the motives to provide the links that'
-p1889
-aS'people will click on the most. Thats not the means and the motive to provide the links'
-p1890
-aS'that are the most useful to people.'
-p1891
-asa(dp1892
+aS"There is a reason those social phenomena are on by default because it's in those company's interests to make sure that you do get personalized results."
+p1888
+asa(dp1889
 g8
-S'JOHN DONVAN'
+(lp1890
+S"But that's in our interest."
+p1891
+aS'I want it turned on.'
+p1892
+asg11
+S'JACOB WEISBERG'
 p1893
 sg13
-(lp1894
-S'Because of that burst of pleasure that you talked about in peoples brains.'
+(dp1894
+I1
+S'31'
 p1895
-ag1258
-aS'But Evgeny, I just want to let him finish the point. Is it because of that burst of pleasure'
-p1896
-aS'principle that you talked about, that in fact, theyve actually studied it. And that we feel'
+ssg16
+(lp1896
+S"But that's in our interest."
 p1897
-aS'good and we stick around if we get results that we like.'
+aS'I want it turned on.'
 p1898
-asa(dp1899
-g8
-S'ELI PARISER'
+asg18
+(dp1899
+S'19:47:51'
 p1900
-sg10
-(dp1901
 I1
-S'42'
-p1902
-ssg13
-(lp1903
-S'Yeah I think thats one of the --'
+ssa(dp1901
+g8
+(lp1902
+S"But you might not realize that it's happening unless you happen to -- "
+p1903
+asg11
+S'SIVA VAIDHYANATHAN'
 p1904
-ag1258
-asa(dp1905
-g8
-S'JOHN DONVAN'
+sg16
+(lp1905
+S"But you might not realize that it's happening unless you happen to -- "
 p1906
-sg13
-(lp1907
-S'You never got the chance to respond to that point.'
-p1908
-asa(dp1909
+asa(dp1907
 g8
-S'EVGENY MOROZOV'
+(lp1908
+S'-- personalized option.'
+p1909
+aS"I mean, Siva, it's a chicken and egg problem."
 p1910
-sg13
-(lp1911
-S'Google places no ads on Wikipedia. Google doesnt care what you click on; all they care'
+aS'You will not realizethat you can personalize them otherwise.'
+p1911
+aS"And then I don't see this as an argument."
 p1912
-aS'is you stay on Google.'
+asg11
+S'EVGENY MOROZOV'
 p1913
-aS'Right? They dont really care whether you go to Wikipedia or Conservapedia or'
-p1914
-aS'somewhere else. Right, and I think right now what Google actually wants to do is'
+sg16
+(lp1914
+S'-- personalized option.'
 p1915
-aS'present the result right away without having to spend any time on it. So, yeah, I just'
+aS"I mean, Siva, it's a chicken and egg problem."
 p1916
-aS"don't see the logic on which you're basing that decision. But the response to the"
+aS'You will not realize that you can personalize them otherwise.'
 p1917
-aS'question you asked, I think you need -- we need to set realistic goals for ourselves. We'
+aS"And then I don't see this as an argument."
 p1918
-aS'are not going to dissuade people who deliberately decide to go to Conservapedia'
-p1919
-aS'instead of Wikipedia. There is nothing policy-wide that we can do. If people already'
-p1920
-aS'decided to seek those very biased views. There is little we can do. I think we need not'
+asa(dp1919
+g8
+(lp1920
+S'All right.'
 p1921
-aS'be Utopian. We have to set realistic policy goals. And from a public policy perspective,'
+aS"I'd like to go to audience questions at this point."
 p1922
-aS'to figure out what we can do, change design, regulate Google, ask them to do'
+aS"We're in the middle of roundtwo."
 p1923
-aS'something. But to expect that Google suddenly can wave the magic wand and make'
+aS'Our motion is, "When it comes to politics, the internet is closing our minds.'
 p1924
-aS'sure that people stop going to FOX News.com or Conservapedia and start going to'
+aS'"Microphones will be brought forward if you raise your hand.'
 p1925
-aS"Wikipedia instead, I think it's an unrealistic goal that we shouldn't even set for"
+aS"Remember, about 30seconds is what you'll get."
 p1926
-aS'ourselves.'
+aS"You can state a quick premise, but please ask a question thatkeeps us on the topic of this motion, and we'll move along this debate."
 p1927
-asg16
-(dp1928
-I2
-S'20:05:42'
+aS'And I really domean it to be a question, not a -- not a debating point.'
+p1928
+aS'But we -- we did put out, onslate.com, who is our media partner, a request to them for questions from some of theirsubscribers.And we also -- is Lenny Gengrinovich here?'
 p1929
-ssa(dp1930
-g8
-S'JOHN DONVAN'
+aS'Did you show up?'
+p1930
+aS'Yep, there he is.'
 p1931
-sg13
-(lp1932
-S'Siva.'
+aS'All right.So Lenny took the initiative of sending a question into us by email.'
+p1932
+aS'So thank you forthat.'
 p1933
-asa(dp1934
-g8
-S'SIVA VAIDHYANATHAN'
+aS"And I'm going to actually -- you can ask the question yourself."
+p1934
+aS'I just wanted you toactually make it drastically shorter.'
 p1935
-sg13
-(lp1936
-S'Again, thank you for making our point.'
-p1937
-aS"That's basically what we're saying, that Google is in the business of making sure that if"
+asg11
+S'JOHN DONVAN'
+p1936
+sg16
+(lp1937
+S'All right.'
 p1938
-aS"you are looking for a conservative opinion about something, you're going to get more"
+aS"I'd like to go to audience questions at this point."
 p1939
-aS"conservative opinions about things. I'm sorry. If you've expressed a desire to click on"
+aS"We're in the middle of round two."
 p1940
-aS"conservative things, you're going to get more conservative things."
+aS'Our motion is, "When it comes to politics, the internet is closing our minds.'
 p1941
-asg16
-(dp1942
-I1
-S'20:06:41'
+aS'" Microphones will be brought forward if you raise your hand.'
+p1942
+aS"Remember, about 30 seconds is what you'll get."
 p1943
-ssa(dp1944
-g8
-S'EVGENY MOROZOV'
+aS"You can state a quick premise, but please ask a question that keeps us on the topic of this motion, and we'll move along this debate."
+p1944
+aS'And I really do mean it to be a question, not a -- not a debating point.'
 p1945
-sg13
-(lp1946
-S'It is --'
+aS'But we -- we did put out, on slate.com, who is our media partner, a request to them for questions from some of their subscribers.'
+p1946
+aS'And we also -- is Lenny Gengrinovich here?'
 p1947
-asa(dp1948
-g8
-S'SIVA VAIDHYANATHAN'
+aS'Did you show up?'
+p1948
+aS'Yep, there he is.'
 p1949
-sg10
-(dp1950
-I1
-S'43'
+aS'All right.'
+p1950
+aS'So Lenny took the initiative of sending a question into us by email.'
 p1951
-ssg13
-(lp1952
-S"And we don't expect Google not to magically --"
+aS'So thank you for that.'
+p1952
+aS"And I'm going to actually -- you can ask the question yourself."
 p1953
-ag1258
-asa(dp1954
+aS'I just wanted you to actually make it drastically shorter.'
+p1954
+asg18
+(dp1955
+S'19:48:42'
+p1956
+I8
+ssa(dp1957
 g8
-S'JOHN DONVAN'
-p1955
-sg13
-(lp1956
-S'Evgeny, hold, let him -- let Siva finish, and you can come back.'
-p1957
-asa(dp1958
-g8
-S'SIVA VAIDHYANATHAN'
+(lp1958
+S'Just one page.'
 p1959
-sg13
-(lp1960
-S"Don't expect Google to change magically. We don't ask Google to change magically."
-p1961
-aS'What we ask is --'
-p1962
-asa(dp1963
+asg11
+S'MALE SPEAKER'
+p1960
+sg16
+(lp1961
+g1959
+asa(dp1962
 g8
-S'EVGENY MOROZOV'
+(lp1963
+S"And if you want, I can paraphrase it or -- I'll go ahead and paraphrase it for you."
 p1964
-sg13
-(lp1965
-S"It doesn't do anything, what you are saying."
+aS'Hebasically makes this statement: The tiny minority of democratic citizens who areinterested in political ideas and issues cannot have a discussion.'
+p1965
+aS"They have freedom ofspeech, but there's nobody to speak to in the internet -- ersatz world of discussionswhich only hides the problem."
 p1966
-asa(dp1967
-g8
-S'SIVA VAIDHYANATHAN'
+aS'Do you agree that our nation needs affirmative actionfor intelligent conversation?'
+p1967
+aS"I'll put that to Siva first."
 p1968
-sg13
-(lp1969
-S'What we ask is that we pay attention closely to what Google itself says about what it'
-p1970
-aS'does as is well documented, and we pay attention to the totality of our information'
-p1971
-aS'ecosystem and the strong role that Google plays in that.'
-p1972
-asa(dp1973
-g8
+asg11
 S'JOHN DONVAN'
+p1969
+sg16
+(lp1970
+S"And if you want, I can paraphrase it or -- I'll go ahead and paraphrase it for you."
+p1971
+aS'He basically makes this statement: The tiny minority of democratic citizens who are interested in political ideas and issues cannot have a discussion.'
+p1972
+aS"They have freedom of speech, but there's nobody to speak to in the internet -- ersatz world of discussions which only hides the problem."
+p1973
+aS'Do you agree that our nation needs affirmative action for intelligent conversation?'
 p1974
-sg13
-(lp1975
-S'Evgeny Morozov.'
-p1976
-asa(dp1977
+aS"I'll put that to Siva first."
+p1975
+asa(dp1976
 g8
-S'EVGENY MOROZOV'
+(lp1977
+S"Most definitely, but we're doing it right now, right?"
 p1978
-sg13
-(lp1979
-S"It's all fine if you're paying attention. I'm all for paying attention to Google. It's just that"
+aS'It means that we have to havefoundations like the foundation that supports this discussion.It means that we have to have universities, and we have to have schools take theseissues seriously.'
+p1979
+aS'And make sure that we are all able to understand the environments inwhich we operate, that we have to understand the nature of these platforms andtechnologies.'
 p1980
-aS'Google itself goes on the record saying that they do not want to personalize politics. All'
+aS'And when there is a suboptimal result, we have to know how to correctfor it.'
 p1981
-aS'they want to do is personalize pizza.'
+aS"And if we're not happy with it, to invent something new."
 p1982
-aS'I think from a business perspective, I see no reason why Google would want to serve'
+asg11
+S'SIVA VAIDHYANATHAN'
 p1983
-aS'you biased search results and show Conservapedia before Wikipedia.'
-p1984
-ag1258
-aS'If you can produce a study that will prove that --'
+sg13
+(dp1984
+I2
+S'32'
 p1985
-asg16
-(dp1986
-I3
-S'20:07:40'
+ssg16
+(lp1986
+S"Most definitely, but we're doing it right now, right?"
 p1987
-ssa(dp1988
-g8
-S'SIVA VAIDHYANATHAN'
+aS'It means that we have to have foundations like the foundation that supports this discussion.'
+p1988
+aS'It means that we have to have universities, and we have to have schools take these issues seriously.'
 p1989
-sg13
-(lp1990
-S'It does so mathematically, not politically.'
+aS'And make sure that we are all able to understand the environments in which we operate, that we have to understand the nature of these platforms and technologies.'
+p1990
+aS'And when there is a suboptimal result, we have to know how to correct for it.'
 p1991
-asa(dp1992
+aS"And if we're not happy with it, to invent something new."
+p1992
+asg18
+(dp1993
+S'19:49:46'
+p1994
+I2
+ssa(dp1995
 g8
-S'EVGENY MOROZOV'
-p1993
-sg13
-(lp1994
-S"-- it's a vast for Google."
-p1995
-asa(dp1996
-g8
-S'SIVA VAIDHYANATHAN'
+(lp1996
+S'On this side, do you want to respond, or do you agree?'
 p1997
-sg10
-(dp1998
-I0
-S'44'
+aS'Jacob Weisberg.'
+p1998
+asg11
+S'JOHN DONVAN'
 p1999
-ssg13
+sg16
 (lp2000
-S"It does so mathematically, not politically. It doesn't distinguish between a political site"
+S'On this side, do you want to respond, or do you agree?'
 p2001
-aS"and a pizza site because it doesn't do that."
+aS'Jacob Weisberg.'
 p2002
-ag1258
 asa(dp2003
 g8
-S'EVGENY MOROZOV'
-p2004
-sg13
-(lp2005
-S"-- search for GOP, it knows you're searching for GOP and not pizza. It doesn't --"
+(lp2004
+S'Well, I think, you know, the low quality of commenting is one of the big problems on theinternet.'
+p2005
+aS"It's one we've been very concerned with, particularly --"
 p2006
-asa(dp2007
-g8
-S'SIVA VAIDHYANATHAN'
-p2008
-sg13
-(lp2009
-S"It doesn't read what GOP is, it associates it with all the other GOP clicks. It doesn't flag it"
+asg11
+S'JACOB WEISBERG'
+p2007
+sg16
+(lp2008
+S'Well, I think, you know, the low quality of commenting is one of the big problems on the internet.'
+p2009
+aS"It's one we've been very concerned with, particularly --"
 p2010
-aS'as political. It just associates it mathematically with all the other behavior going on on'
-p2011
-aS'the web.'
-p2012
-asa(dp2013
+asa(dp2011
 g8
+(lp2012
+S'Jacob, can you just come in a little closer?'
+p2013
+asg11
 S'JOHN DONVAN'
 p2014
-sg13
+sg16
 (lp2015
-S'So GOP could be pepperoni as far as the algorithm is concerned.'
-p2016
-asa(dp2017
+g2013
+asa(dp2016
 g8
-S'SIVA VAIDHYANATHAN'
+(lp2017
+S"Oh, I'm sorry."
 p2018
-sg13
-(lp2019
-S"Grand ol' pepperoni, yes."
+aS"We've been very concerned about -- at Slate over the years withimproving it."
+p2019
+aS'The big breakthrough, I have to say, came from Facebook, through atechnology -- an interface known as Facebook connect, which basically brought identity-based commenting to every website.'
 p2020
-asa(dp2021
-g20
-(dp2022
-I5
-S'[laughter]'
-p2023
-ssg8
-S'JOHN DONVAN'
+aS"And it means that because people are themselveswhen they comment, they're actually a lot more reasonable, not necessarily reasonableall the time, but they don't engage in quite the level of viciousness and ad homonymattacks and just soft point arguing they do when they're anonymous.So I think partly this say problem I'm optimistic about improving through technology."
+p2021
+asg11
+S'JACOB WEISBERG'
+p2022
+sg16
+(lp2023
+S"Oh, I'm sorry."
 p2024
-sg13
-(lp2025
-S"All right. I want to remind you we're in the question and answer section of this"
+aS"We've been very concerned about -- at Slate over the years with improving it."
+p2025
+aS'The big breakthrough, I have to say, came from Facebook, through a technology -- an interface known as Facebook connect, which basically brought identity- based commenting to every website.'
 p2026
-aS'debaters, two teams of two debating this motion: "When it comes to politics, the'
+aS"And it means that because people are themselves when they comment, they're actually a lot more reasonable, not necessarily reasonable all the time, but they don't engage in quite the level of viciousness and ad homonym attacks and just soft point arguing they do when they're anonymous."
 p2027
-aS'internet is closing our minds." And, sir, right in the center there. Yes. I\'m sorry. I'
+aS"So I think partly this say problem I'm optimistic about improving through technology."
 p2028
-aS"meant a few rows back. I'll try to come back to you. My apologies. That was an"
-p2029
-aS"ambiguous signal. And I didn't mean you, either, but --"
+asg18
+(dp2029
+S'19:50:49'
 p2030
-aS"I'm -- you got the mic. You win."
-p2031
-asg16
-(dp2032
-I6
-S'20:08:49'
-p2033
-ssa(dp2034
+I7
+ssa(dp2031
 g8
-S'MALE SPEAKER'
+(lp2032
+S'All right.'
+p2033
+aS"Let's go out to the audience now."
+p2034
+aS'And right in the front row, right behind theclock.'
 p2035
-sg13
-(lp2036
-S"Hi. My name is John. So I don't really hear anyone saying that information moving"
+aS'Again, if you can stand up and hold the mic close to your mouth.'
+p2036
+aS'Tell us yourname, please.'
 p2037
-aS'quickly and lots of information is closing our minds. I hear not the internet but internet'
+asg11
+S'JOHN DONVAN'
 p2038
-aS'companies or even personalization is closing our minds. So my question for the team'
-p2039
-aS"arguing for the motion is, would something that wasn't corporate, like a public search"
+sg16
+(lp2039
+S'All right.'
 p2040
-aS"engine alternative to Google that's nonprofit and not commercial solve some of the"
+aS"Let's go out to the audience now."
 p2041
-aS'problems? And then my question for the against the motion team would be, would you'
+aS'And right in the front row, right behind the clock.'
 p2042
-aS'be opposed to something like that as a policy decision because you love personalization'
+aS'Again, if you can stand up and hold the mic close to your mouth.'
 p2043
-aS'so much?'
+aS'Tell us your name, please.'
 p2044
 asa(dp2045
 g8
-S'JOHN DONVAN'
-p2046
-sg10
-(dp2047
-I0
-S'45'
+(lp2046
+S'Hi.'
+p2047
+aS'My name is Tal.'
 p2048
-ssg13
-(lp2049
-S"And I'm assuming that this publicly -- this public service search engine would not be"
+aS"And there's two main points in the premise tonight, one that ourminds are being closed, at least more so than any other time."
+p2049
+aS'And two, that theinternet is doing it.'
 p2050
-aS'doing personalization.'
+aS'And I would like to ask the panel for the motion to address both ofthose issues.'
 p2051
-asg16
-(dp2052
-I2
-S'20:09:40'
-p2053
-ssa(dp2054
-g8
+asg11
 S'MALE SPEAKER'
+p2052
+sg16
+(lp2053
+S'Hi.'
+p2054
+aS'My name is Tal.'
 p2055
-sg13
-(lp2056
-S'Well, perhaps it -- I mean, there could be a social aspect like, town halls.'
+aS"And there's two main points in the premise tonight, one that our minds are being closed, at least more so than any other time."
+p2056
+aS'And two, that the internet is doing it.'
 p2057
-asa(dp2058
+aS'And I would like to ask the panel for the motion to address both of those issues.'
+p2058
+asa(dp2059
 g8
-S'JOHN DONVAN'
-p2059
-sg13
 (lp2060
-S'Okay. All right.'
+S'I think they have.'
 p2061
-asa(dp2062
-g8
-S'MALE SPEAKER'
+aS"So unless you feel that you haven't covered that, I think that it's --"
+p2062
+asg11
+S'JOHN DONVAN'
 p2063
 sg13
-(lp2064
-S'Sort of public spaces --'
+(dp2064
+I1
+S'33'
 p2065
-ag1258
-asa(dp2066
-g8
-S'SIVA VAIDHYANATHAN'
+ssg16
+(lp2066
+S'I think they have.'
 p2067
-sg13
-(lp2068
-S"That's a really intriguing possibility of a public search facility or public search engine or"
-p2069
-aS'some sort of non-corporate entity that would help us guide us in certain issues, right?'
-p2070
-aS"That's a nice idea, and I think it's worth pursuing and experimenting. I'm not willing to"
-p2071
-aS'predict the results. I think the important thing is that we try everything. The important'
-p2072
-aS'thing is that we let a few things fail, and we try to learn from our mistakes. But we do so'
-p2073
-aS"openly. We do so deliberately. And we don't sign away so many important things to a"
-p2074
-aS'black box.'
-p2075
-asa(dp2076
+aS"So unless you feel that you haven't covered that, I think that it's --"
+p2068
+asa(dp2069
 g8
+(lp2070
+S'I would only qualify it by saying --'
+p2071
+asg11
+S'SIVA VAIDHYANATHAN'
+p2072
+sg16
+(lp2073
+g2071
+asa(dp2074
+g8
+(lp2075
+S'All right.'
+p2076
+asg11
 S'JOHN DONVAN'
 p2077
-sg13
+sg16
 (lp2078
-S'Jacob Weisberg, your point.'
-p2079
-asa(dp2080
+g2076
+asa(dp2079
 g8
-S'JACOB WEISBERG'
+(lp2080
+S"-- it's not as simple as doing."
 p2081
-sg13
-(lp2082
-S'I was going to say that the Google skeptics -- have you tried Bing? There are alternative'
+aS"It is that we are interacting with these platforms at such ahigh and intense level without realizing what's going on.And that's what's happening."
+p2082
+aS"So it's amplifying what we were already willing to do,which is gather among ourselves and reward ourselves with positive affirmation."
 p2083
-aS"search engines. But I think -- I don't think it's something the government needs to do. I"
+aS"Andthat's really mostly what goes on on Facebook."
 p2084
-aS"think the idea of a nonprofit search engine is not a bad one, but I don't think it would"
-p2085
-aS"fail to do personalization because I think a search engine that wasn't capable of"
-p2086
-aS'personalization would be tremendously ineffective and disappointing.'
-p2087
-aS"And nobody would use it. If it didn't know where you were, if it didn't gather any"
-p2088
-aS'information about what kinds of things you were interested in. I do think --'
-p2089
-asg16
-(dp2090
-I5
-S'20:10:51'
-p2091
-ssa(dp2092
-g8
+asg11
 S'SIVA VAIDHYANATHAN'
+p2085
+sg16
+(lp2086
+S"-- it's not as simple as doing."
+p2087
+aS"It is that we are interacting with these platforms at such a high and intense level without realizing what's going on."
+p2088
+aS"And that's what's happening."
+p2089
+aS"So it's amplifying what we were already willing to do, which is gather among ourselves and reward ourselves with positive affirmation."
+p2090
+aS"And that's really mostly what goes on on Facebook."
+p2091
+asg18
+(dp2092
+S'19:51:44'
 p2093
-sg13
-(lp2094
-S"I don't disagree. I was just talking about transparency."
-p2095
-asa(dp2096
+I2
+ssa(dp2094
 g8
-S'JOHN DONVAN'
+(lp2095
+S'Siva, but first you argue to govern among themselves, but then you argue that theinternet is getting balkanized, and we are all in our own little niches.'
+p2096
+aS'I mean, how doyou square it both of them.'
 p2097
-sg10
-(dp2098
-I0
-S'46'
-p2099
-ssg13
-(lp2100
-S'I want to go to another question, but I want to -- I want to confess that I would love to'
+asg11
+S'EVGENY MOROZOV'
+p2098
+sg16
+(lp2099
+S'Siva, but first you argue to govern among themselves, but then you argue that the internet is getting balkanized, and we are all in our own little niches.'
+p2100
+aS'I mean, how do you square it both of them.'
 p2101
-aS'hear a female voice or two more in the mix tonight. And I -- I may be -- suddenly every'
-p2102
-aS"hand went down. All right. I tried. Sir. Oh, right here? I'm sorry. I didn't see you. Let"
-p2103
-aS'the mic come. Stand up. Let us know your name and justify my choosing you.'
+asa(dp2102
+g8
+(lp2103
+S"Ourselves, that's one of the niches, right?"
 p2104
-asa(dp2105
-g8
-S'FEMALE SPEAKER'
+aS"And it's being balkanized nationally whichthen reduces the global political -- "
+p2105
+asg11
+S'SIVA VAIDHYANATHAN'
 p2106
-sg13
+sg16
 (lp2107
-S'Hi. I was recently reading an article by Ethan Zimmerman, I think it was.'
+S"Ourselves, that's one of the niches, right?"
 p2108
-asa(dp2109
+aS"And it's being balkanized nationally which then reduces the global political -- "
+p2109
+asa(dp2110
 g8
-S'MALE SPEAKER'
-p2110
-sg13
 (lp2111
-S'Zuckerman.'
+S'You aspire to this one global Utopia --'
 p2112
-asa(dp2113
+asg11
+S'EVGENY MOROZOV'
+p2113
+sg16
+(lp2114
+g2112
+asa(dp2115
 g8
-S'FEMALE SPEAKER'
-p2114
-sg13
-(lp2115
-S"Okay, I'm seeing nods, yes. And suppose you don't know. It's an article about a theory"
-p2116
-aS'known as cute cat theory, which is basically they applied it to the Arab Spring and saying'
+(lp2116
+S'Very much.'
 p2117
-aS"that all of these movements, people that might want to watch cute cat videos, that's the"
+asg11
+S'SIVA VAIDHYANATHAN'
 p2118
-aS'majority of the people on the internet.'
-p2119
-aS"That's what they use it for. There is a small majority who use it for internet activism."
-p2120
-aS'Now, a site like YouTube that uses the majority of people want to watch cute cat videos,'
-p2121
-aS'but it also posts things like -- like --'
+sg16
+(lp2119
+g2117
+asa(dp2120
+g8
+(lp2121
+S'-- where people in China feel like people in India and Iran and elsewhere?'
 p2122
-asg16
-(dp2123
-I4
-S'20:11:54'
-p2124
-ssa(dp2125
+asg11
+S'EVGENY MOROZOV'
+p2123
+sg16
+(lp2124
+g2122
+asa(dp2125
 g8
-S'JOHN DONVAN'
-p2126
-sg13
-(lp2127
-S'I need you to target in on a question.'
+(lp2126
+S'Yeah, that would be really nice. '
+p2127
+asg11
+S'SIVA VAIDHYANATHAN'
 p2128
-asa(dp2129
-g8
-S'FEMALE SPEAKER'
+sg16
+(lp2129
+S'Yeah, that would be really nice. '
 p2130
-sg13
-(lp2131
-S'Okay. Anyway, as far as maybe you guys can explain the cute cat theory a little better'
-p2132
-aS"than I can. But cute cat theory, I'm interested to know -- I think that the cute cat theory"
+asa(dp2131
+g8
+(lp2132
+S'Eli Pariser.'
 p2133
-aS'opens up the possibility for neighbors, when the websites get shut down to talk about'
+asg11
+S'JOHN DONVAN'
 p2134
-aS'political issues. So for those of you arguing against the motion, I would be interested to'
-p2135
-aS'hear your thoughts.'
+sg13
+(dp2135
+I1
+S'34'
 p2136
-asa(dp2137
+ssg16
+(lp2137
+g2133
+asa(dp2138
 g8
-S'JOHN DONVAN'
-p2138
-sg13
 (lp2139
-S'For -- for the people who have to edit this for television --'
+S'-- is, you know, there\'s a great book called "the big sort" about how increasingly peoplelive in communities that are like them, in homogenous communities.'
 p2140
-asa(dp2141
-g8
-S'FEMALE SPEAKER'
+aS'And one of thefascinating things about this book is that you have two things going on at the same time.On the one hand, there is a broader set of types of communities than there was 30years ago, right?'
+p2141
+aS"That's undoubtedly true."
 p2142
-sg13
-(lp2143
-S'Yes.'
+aS'On the other hand, for each individualperson in that system, their neighborhood is more like people like them than it ever wasin the past.'
+p2143
+aS'And so you have local homogeneity and heterogeneity at the top level.'
 p2144
-asa(dp2145
-g8
-S'JOHN DONVAN'
+aS"AndI think when people are trying to make the opposite argument, they point to, hey, lookat the internet, there's all this different stuff out there."
+p2145
+aS"It's so heterogeneous.Everybody's talking."
 p2146
-sg10
-(dp2147
-I1
-S'47'
+aS"But actually, the question is, what are people's local neighborhoodslike?"
+p2147
+aS"And to the extent that we're now bringing those local neighborhoods with usonline, what effect does that have in, you know, amplifying the homogeneity thatincreasingly surrounds us even when we're off line."
 p2148
-ssg13
-(lp2149
-S'Could you just restate the question and --'
-p2150
-asg16
-(dp2151
-I1
-S'20:12:43'
+asg11
+S'ELI PARISER'
+p2149
+sg16
+(lp2150
+S'-- is, you know, there\'s a great book called "the big sort" about how increasingly people live in communities that are like them, in homogenous communities.'
+p2151
+aS'And one of the fascinating things about this book is that you have two things going on at the same time.'
 p2152
-ssa(dp2153
-g8
-S'FEMALE SPEAKER'
+aS'On the one hand, there is a broader set of types of communities than there was 30 years ago, right?'
+p2153
+aS"That's undoubtedly true."
 p2154
-sg13
-(lp2155
-S"I'm sorry."
+aS'On the other hand, for each individual person in that system, their neighborhood is more like people like them than it ever was in the past.'
+p2155
+aS'And so you have local homogeneity and heterogeneity at the top level.'
 p2156
-asa(dp2157
-g8
-S'JOHN DONVAN'
+aS"And I think when people are trying to make the opposite argument, they point to, hey, look at the internet, there's all this different stuff out there."
+p2157
+aS"It's so heterogeneous."
 p2158
-sg13
-(lp2159
-S"No, no. I think this is actually a great question. And I like the idea that they'll tell you"
+aS"Everybody's talking."
+p2159
+aS"But actually, the question is, what are people's local neighborhoods like?"
 p2160
-aS'what cute cat theory is. But if you could ask them about cute cat theory.'
+aS"And to the extent that we're now bringing those local neighborhoods with us online, what effect does that have in, you know, amplifying the homogeneity that increasingly surrounds us even when we're off line."
 p2161
-asa(dp2162
-g8
-S'FEMALE SPEAKER'
+asg18
+(dp2162
+S'19:52:41'
 p2163
-sg13
-(lp2164
-S"No, yeah. I'm sorry. I'm a little nervous ."
-p2165
-asa(dp2166
+I3
+ssa(dp2164
 g8
-S'JOHN DONVAN'
+(lp2165
+S'I would encourage you to look at the recent issue of American Journal of PoliticalScience which actually debunks, the big sort bulk with a load of empirical data andshows that even in the off line world, that this has never held true.'
+p2166
+asg11
+S'EVGENY MOROZOV'
 p2167
-sg13
+sg16
 (lp2168
-S'Sure. Go ahead.'
+S'I would encourage you to look at the recent issue of American Journal of Political Science which actually debunks, the big sort bulk with a load of empirical data and shows that even in the off line world, that this has never held true.'
 p2169
 asa(dp2170
 g8
-S'FEMALE SPEAKER'
-p2171
-sg13
-(lp2172
-S'Okay. My question basically is about cute cat theory and whether those who watch cute'
+(lp2171
+S"Can you go up three steps, please, and turn right?Ma'am?"
+p2172
+aS"Yeah, you're rising -- on your other side, sorry."
 p2173
-aS"cat videos, when a site like YouTube gets shut down, if they -- they're more likely to then"
+aS'Just wait for the mic.'
 p2174
-aS'go find out why YouTube got shut down, thus turning them into internet activists.'
+aS'Thanks.'
 p2175
-asa(dp2176
-g8
+asg11
 S'JOHN DONVAN'
-p2177
-sg13
-(lp2178
-S"Okay. Eli Pariser, tell us what cute cat theory is and whether it's relevant."
+p2176
+sg16
+(lp2177
+S'Can you go up three steps, please, and turn right?'
+p2178
+aS"Ma'am?"
 p2179
-asa(dp2180
-g8
-S'ELI PARISER'
+aS"Yeah, you're rising -- on your other side, sorry."
+p2180
+aS'Just wait for the mic.'
 p2181
-sg13
-(lp2182
-S"I'm not -- I don't feel well versed in cute cat theory, unfortunately."
-p2183
-asa(dp2184
-g8
-S'JOHN DONVAN'
-p2185
-sg13
-(lp2186
-S"Who's good on the cats?"
-p2187
-asa(dp2188
-g8
-S'JACOB WEISBERG'
-p2189
-sg13
-(lp2190
-S'Siva actually got tenure for his work on cute cat theory.'
-p2191
-ag1258
-asa(dp2192
-g8
-S'ELI PARISER'
-p2193
-sg13
-(lp2194
-S'If I understand the -- I think this is a question about whether people will rally to support'
-p2195
-aS"these online media that they depend on when they're under threat."
-p2196
-asa(dp2197
-g8
-S'EVGENY MOROZOV'
-p2198
-sg10
-(dp2199
-I3
-S'48'
-p2200
-ssg13
-(lp2201
-S'So it basically throws my cats are the opiate of the masses theory.'
-p2202
-aS'You get home, you watch videos of cats. Internet gets shut down. You go and'
-p2203
-aS"overthrow Mubarak. If you think it's a good theory, good luck."
-p2204
-asg16
-(dp2205
+aS'Thanks.'
+p2182
+asg18
+(dp2183
+S'19:53:45'
+p2184
 I1
-S'20:13:41'
+ssa(dp2185
+g8
+(lp2186
+S'My name is .'
+p2187
+aS"And I'm curious about either the growth of your audiencesor the decrease of your audiences and the quality and the quantity of discourse that'sbeen created over the past let's say three years."
+p2188
+asg11
+S'FEMALE SPEAKER'
+p2189
+sg16
+(lp2190
+S'My name is .'
+p2191
+aS"And I'm curious about either the growth of your audiences or the decrease of your audiences and the quality and the quantity of discourse that's been created over the past let's say three years."
+p2192
+asa(dp2193
+g8
+(lp2194
+S'So how would you relate that directly to the motion?'
+p2195
+aS"Are you asking whether they'reseeing a closing of the minds in the interaction with their readers?"
+p2196
+asg11
+S'JOHN DONVAN'
+p2197
+sg16
+(lp2198
+S'So how would you relate that directly to the motion?'
+p2199
+aS"Are you asking whether they're seeing a closing of the minds in the interaction with their readers?"
+p2200
+asa(dp2201
+g8
+(lp2202
+S"In their own personal -- in their own personal writing and their own personal blogs andthe information that they're providing --"
+p2203
+asg11
+S'FEMALE SPEAKER'
+p2204
+sg13
+(dp2205
+I2
+S'35'
 p2206
-ssa(dp2207
-g8
-S'SIVA VAIDHYANATHAN'
+ssg16
+(lp2207
+S"In their own personal -- in their own personal writing and their own personal blogs and the information that they're providing --"
 p2208
-sg13
-(lp2209
-S"We actually know that there -- it's really hard to watch YouTube in China right now. And"
-p2210
-aS"for a while, it wasn't so hard. First of all, YouTube comes over really slowly in the"
+asa(dp2209
+g8
+(lp2210
+S'Are they seeing minds closing?'
 p2211
-aS"people's republic because its servers are hosted in North America. Google knows not to"
+asg11
+S'JOHN DONVAN'
 p2212
-aS'put the servers in China. That would be bad news. During the Tibetan uprising three'
-p2213
-aS"years ago, YouTube basically went dark. During the Olympics, it went dark. And it's"
-p2214
-aS'been intermittent since. And nobody has banged on the doors of the Chinese'
-p2215
-aS'government saying, "I want my YouTube." They\'re busy with their own video services.'
+sg16
+(lp2213
+g2211
+asa(dp2214
+g8
+(lp2215
+S'Are they seeing minds closed?'
 p2216
-aS"They're busy with their own business. They're busy clicking on their own issues, right?"
+asg11
+S'FEMALE SPEAKER'
 p2217
-aS"So it doesn't necessarily follow in that example. The other thing to remember, when"
-p2218
-aS'talking about the Arab Spring, going to a different part of the world, is that only 30'
-p2219
-aS'percent of the Egyptian population was online at the time. And then 11 days into the'
-p2220
-aS'protest, zero percent were.'
+sg16
+(lp2218
+g2216
+asa(dp2219
+g8
+(lp2220
+S'Jacob Weisberg.'
 p2221
-aS'SMS was a much more important media form for doing anything. And Al Jazeera was'
+asg11
+S'JOHN DONVAN'
 p2222
-aS'probably the most important media forum for informing people. So what happened in'
-p2223
-aS'North Africa had very little to do with cats, cute or otherwise.'
-p2224
-asg16
-(dp2225
-I12
-S'20:14:44'
+sg16
+(lp2223
+g2221
+asa(dp2224
+g8
+(lp2225
+S'Well, I think I tried to answer -- I tried to speak to that in my introduction.'
 p2226
-ssa(dp2227
-g8
-S'JOHN DONVAN'
+aS'No.'
+p2227
+aS"I feltpersonally just the opposite.I feel like I've never been in touch with a wider variety of viewpoints and people."
 p2228
-sg13
-(lp2229
-S"Okay. Ma'am, right down in the front. In the third row, sorry. Right behind you, sir."
+aS'And alot of that is through social media, because people act as filters for you.'
+p2229
+aS"When you findsomething that's somewhat interesting, whether they're a personal friend, whetherthey are someone in a field you're interested in, whether they're in another field or justsomeone you admire, they bring you a whole range of things, on Twitter, on Facebook.So no, my experience has been just the opposite."
 p2230
-asa(dp2231
-g8
-S'FEMALE SPEAKER'
-p2232
-sg13
-(lp2233
-S'You guys have talked a lot about --'
-p2234
-asa(dp2235
-g8
-S'JOHN DONVAN'
-p2236
-sg13
-(lp2237
-S'Can you tell us your name, please?'
-p2238
-asa(dp2239
-g8
-S'FEMALE SPEAKER'
-p2240
-sg13
-(lp2241
-S"Debbie. You guys talked a lot about personalization of the internet and why that's bad."
-p2242
-aS"But I'm asking those who are for the motion, what about people who go and seek out"
-p2243
-aS'information in terms of wanting to comment on articles and videos that are against their'
-p2244
-aS'own beliefs?'
-p2245
-asa(dp2246
-g8
-S'ELI PARISER'
-p2247
-sg13
-(lp2248
-S'Yes --'
-p2249
-asa(dp2250
-g8
-S'JOHN DONVAN'
-p2251
-sg13
-(lp2252
-S'Eli Pariser.'
-p2253
-asa(dp2254
-g8
-S'ELI PARISER'
-p2255
-sg10
-(dp2256
-I0
-S'49'
-p2257
-ssg13
-(lp2258
-S"Again, it's not that it's impossible or even that hard to find information that you disagree"
-p2259
-aS"with online. There's a great cartoon that someone's staying up late at night and person"
-p2260
-aS'tries to get them to come to bed, and they say, but someone on the internet is wrong.'
-p2261
-aS"That's like the experience that a lot of us have a lot of the time, but the question is"
-p2262
-aS'whether the daily routines that we move through online will tend to bring us into'
-p2263
-aS'contact more with people who make us feel that way or more with people who actually'
-p2264
-aS'validate who we feel. And as social networking becomes a bigger phenomenon, and I'
-p2265
-aS"think in specific Facebook, lets separate Facebook from Twitter, it's easier than ever to"
-p2266
-aS"surround yourself with people who mostly agree with you, that's who your friends are."
-p2267
-aS'Now, just to address Twitter in particular, like I agree with these guys that Twitter is like'
-p2268
-aS'a pretty good medium for filtering the Internet and I use it to -- I follow Karl Rove on'
-p2269
-aS"Twitter and I get Karl Rove's tweets and it's great. And, you know, I also follow him on"
-p2270
-aS'Facebook, and I never see his Facebook posts because Facebook actually does a lot'
-p2271
-aS'more personalization than Twitter does.'
-p2272
-aS'Now, you know --'
-p2273
-asg16
-(dp2274
-I3
-S'20:15:49'
-p2275
-sI14
-S'20:16:49'
-p2276
-ssa(dp2277
-g8
-S'JOHN DONVAN'
-p2278
-sg13
-(lp2279
-S'Is that a relief to you or --'
-p2280
-asa(dp2281
-g8
-S'ELI PARISER'
-p2282
-sg13
-(lp2283
-S"Yes, it -- well, Twitter's a relief --"
-p2284
-asa(dp2285
-g8
-S'JOHN DONVAN'
-p2286
-sg13
-(lp2287
-S'Do you want more Karl Rove?'
-p2288
-asa(dp2289
-g8
-S'ELI PARISER'
-p2290
-sg13
-(lp2291
-S"Twitter's great, but Twitter's not how most people use the Internet."
-p2292
-asa(dp2293
-g8
-S'JOHN DONVAN'
-p2294
-sg13
-(lp2295
-S"No, no, I mean, the -- I mean, the lack of Karl Rove's presence in your Facebook feed, do"
-p2296
-aS'you want more?'
-p2297
-asa(dp2298
-g8
-S'EVGENY MOROZOV'
-p2299
-sg13
-(lp2300
-S"The fact that he writes boring messages on Facebook and Facebook doesn't find them"
-p2301
-aS"interesting doesn't necessarily mean that personalization is so bad."
-p2302
-asa(dp2303
-g8
+asg11
 S'JACOB WEISBERG'
-p2304
-sg10
-(dp2305
-I0
-S'50'
+p2231
+sg16
+(lp2232
+S'Well, I think I tried to answer -- I tried to speak to that in my introduction.'
+p2233
+aS'No.'
+p2234
+aS'I felt personally just the opposite.'
+p2235
+aS"I feel like I've never been in touch with a wider variety of viewpoints and people."
+p2236
+aS'And a lot of that is through social media, because people act as filters for you.'
+p2237
+aS"When you find something that's somewhat interesting, whether they're a personal friend, whether they are someone in a field you're interested in, whether they're in another field or just someone you admire, they bring you a whole range of things, on Twitter, on Facebook."
+p2238
+aS'So no, my experience has been just the opposite.'
+p2239
+asg18
+(dp2240
+S'19:54:44'
+p2241
+I2
+ssa(dp2242
+g8
+(lp2243
+S'Siva?'
+p2244
+asg11
+S'JOHN DONVAN'
+p2245
+sg16
+(lp2246
+g2244
+asa(dp2247
+g8
+(lp2248
+S"Well, I've written for Slate, so I've had a great experience."
+p2249
+aS'But I -- my experience isnarrow.'
+p2250
+aS'My experience is my own, and my experience is based on the particular subjectsthat I cover, which happen to plug right into these questions, for the same reason thatthis is not a representative audience of internet users, my readers are not arepresentative audience of internet users.'
+p2251
+asg11
+S'SIVA VAIDHYANATHAN'
+p2252
+sg16
+(lp2253
+S"Well, I've written for Slate, so I've had a great experience."
+p2254
+aS'But I -- my experience is narrow.'
+p2255
+aS'My experience is my own, and my experience is based on the particular subjects that I cover, which happen to plug right into these questions, for the same reason that this is not a representative audience of internet users, my readers are not a representative audience of internet users.'
+p2256
+asa(dp2257
+g8
+(lp2258
+S'I just want to -- '
+p2259
+asg11
+S'ELI PARISER'
+p2260
+sg16
+(lp2261
+S'I just want to -- '
+p2262
+asa(dp2263
+g8
+(lp2264
+S'So I think that the fear that somehow diversity online is shrinking.I think my own case disproves that.'
+p2265
+aS'I mean, I have an unpronounceable name.'
+p2266
+aS'I wasborn in the middle of nowhere in Belarus, and the only reason why I actually have theattention and the audience I have is mostly because of the Internet, because of theTwitter stream I run and because of active writing for online publications and doing a lotof online research in Google Scholar.'
+p2267
+aS'So I would say that the fear that somehow it willbecome impossible for diverse voices from Iran or or elsewhere to getheard -- '
+p2268
+asg11
+S'EVGENY MOROZOV'
+p2269
+sg13
+(dp2270
+I3
+S'36'
+p2271
+ssg16
+(lp2272
+S'So I think that the fear that somehow diversity online is shrinking.'
+p2273
+aS'I think my own case disproves that.'
+p2274
+aS'I mean, I have an unpronounceable name.'
+p2275
+aS'I was born in the middle of nowhere in Belarus, and the only reason why I actually have the attention and the audience I have is mostly because of the Internet, because of the Twitter stream I run and because of active writing for online publications and doing a lot of online research in Google Scholar.'
+p2276
+aS'So I would say that the fear that somehow it will become impossible for diverse voices from Iran or or elsewhere to get heard -- '
+p2277
+asg18
+(dp2278
+S'19:55:42'
+p2279
+I1
+ssa(dp2280
+g8
+(lp2281
+S"-- direct interaction with the public has indicated to you that -- am I right, ma'am, you'retalking about --"
+p2282
+asg11
+S'JOHN DONVAN'
+p2283
+sg16
+(lp2284
+S"-- direct interaction with the public has indicated to you that -- am I right, ma'am, you're talking about --"
+p2285
+asa(dp2286
+g8
+(lp2287
+S'But, I mean, if I look at the public --'
+p2288
+asg11
+S'EVGENY MOROZOV'
+p2289
+sg16
+(lp2290
+g2288
+asa(dp2291
+g8
+(lp2292
+S' quality of discourse.'
+p2293
+aS"I'm assuming that this debate is about whetherdiscourse is closed, whether --"
+p2294
+asg11
+S'FEMALE SPEAKER'
+p2295
+sg16
+(lp2296
+S' quality of discourse.'
+p2297
+aS"I'm assuming that this debate is about whether discourse is closed, whether --"
+p2298
+asa(dp2299
+g8
+(lp2300
+S'Okay.'
+p2301
+asg11
+S'JOHN DONVAN'
+p2302
+sg16
+(lp2303
+g2301
+asa(dp2304
+g8
+(lp2305
+S"My point of my own case shows that it's actually getting more diverse in terms of voiceswho never previously would have a chance to sit in an audience like this or participate inpolitical debates but, you know, I participate in them."
 p2306
-ssg13
-(lp2307
-S'But there are a lot of caveats where you can say, "Oh, well, Twitter\'s great, but it doesn\'t'
-p2308
-aS'count because it\'s not big enough." I mean, just to go back to the numbers a minute,'
+asg11
+S'EVGENY MOROZOV'
+p2307
+sg16
+(lp2308
+S"My point of my own case shows that it's actually getting more diverse in terms of voices who never previously would have a chance to sit in an audience like this or participate in political debates but, you know, I participate in them."
 p2309
-aS'Twitter claims either, their numbers, 200 -- more than 200 million registered users,'
-p2310
-aS'more than 100 million active users. Facebook claims 800 million registered users, 400'
-p2311
-aS"million active users. I actually think Facebook's definition of an active user is much more"
+asa(dp2310
+g8
+(lp2311
+S'Eli Pariser.'
 p2312
-aS"generous to itself than Twitter, so maybe it is four times users, but, I mean, it's not"
+asg11
+S'JOHN DONVAN'
 p2313
-aS'insignificant.'
-p2314
+sg16
+(lp2314
+g2312
 asa(dp2315
 g8
-S'ELI PARISER'
-p2316
-sg13
-(lp2317
-S'Americans spend seven hours a month on Facebook.'
+(lp2316
+S'When I was at Move On, we tried a number of times to do these kinds of cross partisanconversations and have people sit down in a room together and talk.And it is amazingly hard to do.'
+p2317
+aS"And, you know, I think it's probably always been hard."
 p2318
-aS"They spend minutes on Twitter, like that's just -- you know, if you look at the comScore"
+aS"Idon't think that, that's a new phenomenon, but the degree to which people live indifferent universes of fact, not just different universes of opinion, in other words, thedegree to which you can't even get to something to argue about because people won'teven agree that, that's a thing, is, you know, really striking."
 p2319
-aS"numbers, if you look at -- I mean, it's just nowhere near as powerful a medium."
+aS"And I can't help but wonderas Evgeny has, as have many of us, if the way that the Internet is structured isn'tamplifying that and helping people who believe, you know, pretty in my opinion, youknow, misinformation, like the Obama birth certificate stuff or that climate change isnot something that's partly caused by people, is it amplified by that."
 p2320
-asg16
-(dp2321
-I1
-S'20:17:41'
-p2322
-ssa(dp2323
-g8
-S'EVGENY MOROZOV'
-p2324
+asg11
+S'ELI PARISER'
+p2321
 sg13
-(lp2325
-S'As I said, people who use Facebook frequently, all see all most recent messages. There'
+(dp2322
+I9
+S'37'
+p2323
+ssg16
+(lp2324
+S'When I was at Move On, we tried a number of times to do these kinds of cross partisan conversations and have people sit down in a room together and talk.'
+p2325
+aS'And it is amazingly hard to do.'
 p2326
-aS'is no personalization. If you use it not seven hours a day but just one day a month, then'
+aS"And, you know, I think it's probably always been hard."
 p2327
-aS'-there is personalization.'
+aS"I don't think that, that's a new phenomenon, but the degree to which people live in different universes of fact, not just different universes of opinion, in other words, the degree to which you can't even get to something to argue about because people won't even agree that, that's a thing, is, you know, really striking."
 p2328
-aS'And then there is no justification for you to see every single Karl Rove message because'
+aS"And I can't help but wonder as Evgeny has, as have many of us, if the way that the Internet is structured isn't amplifying that and helping people who believe, you know, pretty in my opinion, you know, misinformation, like the Obama birth certificate stuff or that climate change is not something that's partly caused by people, is it amplified by that."
 p2329
-aS'you only have 30 minutes and you have 5,000 friends and you have one hour a month to'
-p2330
-aS'spend on it. There is no way for you to do it except for personalization.'
+asg18
+(dp2330
+S'19:56:44'
 p2331
-asa(dp2332
+I2
+ssa(dp2332
 g8
-S'ELI PARISER'
-p2333
-sg13
-(lp2334
-S"Right, no, I agree with that. I'm just saying that a fact of that personalization --"
+(lp2333
+S'Siva.'
+p2334
+asg11
+S'JOHN DONVAN'
 p2335
-asa(dp2336
+sg16
+(lp2336
+g2334
+asa(dp2337
 g8
-S'EVGENY MOROZOV'
-p2337
-sg13
 (lp2338
-S'So for seven -- for people who spend seven hours on Facebook every day, there is no'
+S'I have a really quick answer.'
 p2339
-aS'personalization.'
+aS'I misunderstood your question.'
 p2340
-asa(dp2341
-g8
-S'ELI PARISER'
+aS"I apologize.Before five years ago, I didn't have such a thing as Facebook in which to engage inconversation with my friends."
+p2341
+aS'I ran two blogs.'
 p2342
-sg13
-(lp2343
-S"No, that's not correct."
+aS'And both of them were maddeningbecause every conversation I had was overwhelmed by harassing people, people whowere merely there to disrupt the conversation, not there to engage in a reasonable andrational way.'
+p2343
+aS'We call them trolls.'
 p2344
-asa(dp2345
-g8
-S'EVGENY MOROZOV'
+aS'And one of the reasons that I closed down my blogs isit was so maddening that --'
+p2345
+asg11
+S'SIVA VAIDHYANATHAN'
 p2346
-sg13
+sg16
 (lp2347
-S'There is no personalization whatsoever.'
+S'I have a really quick answer.'
 p2348
-asa(dp2349
-g8
-S'ELI PARISER'
+aS'I misunderstood your question.'
+p2349
+aS'I apologize.'
 p2350
-sg13
-(lp2351
-S'--I went on EdgeRank and--'
+aS"Before five years ago, I didn't have such a thing as Facebook in which to engage in conversation with my friends."
+p2351
+aS'I ran two blogs.'
 p2352
-ag1258
-asa(dp2353
-g8
-S'MALE SPEAKER'
+aS'And both of them were maddening because every conversation I had was overwhelmed by harassing people, people who were merely there to disrupt the conversation, not there to engage in a reasonable and rational way.'
+p2353
+aS'We call them trolls.'
 p2354
-sg10
-(dp2355
+aS'And one of the reasons that I closed down my blogs is it was so maddening that --'
+p2355
+asg18
+(dp2356
+S'19:57:44'
+p2357
+I1
+ssa(dp2358
+g8
+(lp2359
+S'As opposed to taking lithium.'
+p2360
+asg11
+S'JOHN DONVAN'
+p2361
+sg16
+(lp2362
+g2360
+asa(dp2363
+g8
+(lp2364
+S'Exactly, exactly.'
+p2365
+aS'The quality of discourse in the comments plus the spam was just out ofcontrol.'
+p2366
+aS"On Facebook it's a lot more comfortable, right?"
+p2367
+aS"It's a lot more pleasant."
+p2368
+aS"It'sbecause I never see people I disagree with."
+p2369
+aS"It's really lovely now."
+p2370
+asg11
+S'SIVA VAIDHYANATHAN'
+p2371
+sg16
+(lp2372
+S'Exactly, exactly.'
+p2373
+aS'The quality of discourse in the comments plus the spam was just out of control.'
+p2374
+aS"On Facebook it's a lot more comfortable, right?"
+p2375
+aS"It's a lot more pleasant."
+p2376
+aS"It's because I never see people I disagree with."
+p2377
+aS"It's really lovely now."
+p2378
+asa(dp2379
+g8
+(lp2380
+S'I think I -- a lot of the questions that came in --'
+p2381
+asg11
+S'JOHN DONVAN'
+p2382
+sg16
+(lp2383
+g2381
+asa(dp2384
+g8
+(lp2385
+S'You follow me on Twitter, though.'
+p2386
+asg11
+S'EVGENY MOROZOV'
+p2387
+sg16
+(lp2388
+g2386
+asa(dp2389
+g8
+(lp2390
+S'-- a lot of the questions that came in through Slate are similarly focused on this questionof the impact on the quality of the American political discourse and they -- Levi Osborne in Warrensburg, Missouri, asks, "Is it so much the internet in itselfthat is closing our minds as it is the hyper partisanship of these commentators which somany people listen to?'
+p2391
+aS'"And by, "commentators," he\'s talking also not just about people who are online, butpeople who are also in television who are blogging, and people in newspapers who areblogging, but he\'s talking about the blogging aspect of people with hyper partisan pointsof view, and -- Jacob Weisberg.'
+p2392
+asg11
+S'JOHN DONVAN'
+p2393
+sg13
+(dp2394
+I7
+S'38'
+p2395
+ssg16
+(lp2396
+S'-- a lot of the questions that came in through Slate are similarly focused on this question of the impact on the quality of the American political discourse and they -- Levi Osborne in Warrensburg, Missouri, asks, "Is it so much the internet in itself that is closing our minds as it is the hyper partisanship of these commentators which so many people listen to?'
+p2397
+aS'" And by, "commentators," he\'s talking also not just about people who are online, but people who are also in television who are blogging, and people in newspapers who are blogging, but he\'s talking about the blogging aspect of people with hyper partisan points of view, and -- Jacob Weisberg.'
+p2398
+asg18
+(dp2399
+S'19:59:01'
+p2400
+I5
+ssa(dp2401
+g8
+(lp2402
+S'Well, I do think the phenomenon of increased polarization in Congress is pretty clearlydocumented at this point.'
+p2403
+aS"That's happening, and I deplore it."
+p2404
+aS"I just don't think theInternet has anything to do with it."
+p2405
+aS'I think the big drivers of that are redistricting whichput people in districts that tend to go one way or the other and fewer that swing backand forth.'
+p2406
+aS"I think it's fundraising which means politicians spend all their timefundraising and actually don't have human relationships with each other very much.I think hyper partisan media, of which Fox is probably the best example, have someimpact on it."
+p2407
+aS"But members of Congress, these are -- if you want to look for a group ofpeople who really aren't on the Internet very much, that's them."
+p2408
+aS"I mean, I don't thinkit's what's driving it."
+p2409
+asg11
+S'JACOB WEISBERG'
+p2410
+sg16
+(lp2411
+S'Well, I do think the phenomenon of increased polarization in Congress is pretty clearly documented at this point.'
+p2412
+aS"That's happening, and I deplore it."
+p2413
+aS"I just don't think the Internet has anything to do with it."
+p2414
+aS'I think the big drivers of that are redistricting which put people in districts that tend to go one way or the other and fewer that swing back and forth.'
+p2415
+aS"I think it's fundraising which means politicians spend all their time fundraising and actually don't have human relationships with each other very much."
+p2416
+aS'I think hyper partisan media, of which Fox is probably the best example, have some impact on it.'
+p2417
+aS"But members of Congress, these are -- if you want to look for a group of people who really aren't on the Internet very much, that's them."
+p2418
+aS"I mean, I don't think it's what's driving it."
+p2419
+asg18
+(dp2420
+S'19:59:44'
+p2421
+I6
+ssa(dp2422
+g8
+(lp2423
+S'Siva.'
+p2424
+asg11
+S'JOHN DONVAN'
+p2425
+sg16
+(lp2426
+g2424
+asa(dp2427
+g8
+(lp2428
+S'So part of the phenomenon of the punditocracy is indignation.'
+p2429
+aS"That's the currency."
+p2430
+aS'Andindignation is a subset of the attention economy.'
+p2431
+aS'In order to appear on CNN at 2:00 inthe afternoon, in order to appear on Fox News at 7:00 p.m., you have to say somethingthat angers somebody, either directly in their face, "I\'m angering you as someone whodisagrees with me," or more likely you gather people on your side to be angry.'
+p2432
+aS"And thenotion that we are so addicted to something now we can measure, the click, the instantattention, the instant affirmation, just reinforces that, so it is a phenomenon that'sactually moved from the blogosphere, and that's why we've seen so many people whogot famous being bloggers now are appearing on CNN at 2 PM, now appearing on Fox at7 PM.Right, thats whats happening."
+p2433
+aS'Its why MSNBC is filled with former bloggers.'
+p2434
+aS'It isbecause theyre already adept at generating indignation towards one side or another.'
+p2435
+asg11
+S'SIVA VAIDHYANATHAN'
+p2436
+sg16
+(lp2437
+S'So part of the phenomenon of the punditocracy is indignation.'
+p2438
+aS"That's the currency."
+p2439
+aS'And indignation is a subset of the attention economy.'
+p2440
+aS'In order to appear on CNN at 2:00 in the afternoon, in order to appear on Fox News at 7:00 p.m., you have to say something that angers somebody, either directly in their face, "I\'m angering you as someone who disagrees with me," or more likely you gather people on your side to be angry.'
+p2441
+aS"And the notion that we are so addicted to something now we can measure, the click, the instant attention, the instant affirmation, just reinforces that, so it is a phenomenon that's actually moved from the blogosphere, and that's why we've seen so many people who got famous being bloggers now are appearing on CNN at 2 PM, now appearing on Fox at 7 PM."
+p2442
+aS'Right, thats whats happening.'
+p2443
+aS'Its why MSNBC is filled with former bloggers.'
+p2444
+aS'It is because theyre already adept at generating indignation towards one side or another.'
+p2445
+asg18
+(dp2446
+S'20:00:51'
+p2447
+I10
+ssa(dp2448
+g8
+(lp2449
+S'And is this a mind closing exercise or this just meaningless entertainment?'
+p2450
+asg11
+S'JOHN DONVAN'
+p2451
+sg16
+(lp2452
+g2450
+asa(dp2453
+g8
+(lp2454
+S'I think the results are.'
+p2455
+asg11
+S'SIVA VAIDHYANATHAN'
+p2456
+sg13
+(dp2457
+I1
+S'39'
+p2458
+ssg16
+(lp2459
+g2455
+asa(dp2460
+g8
+(lp2461
+S'It does have an impact.'
+p2462
+asg11
+S'JOHN DONVAN'
+p2463
+sg16
+(lp2464
+g2462
+asa(dp2465
+g8
+(lp2466
+S'But mind closing, yes.'
+p2467
+asg11
+S'SIVA VAIDHYANATHAN'
+p2468
+sg16
+(lp2469
+g2467
+asa(dp2470
+g8
+(lp2471
+S'I think, just to take a step for the resolution.'
+p2472
+asg11
+S'ELI PARISER'
+p2473
+sg16
+(lp2474
+g2472
+asa(dp2475
+g8
+(lp2476
+S'Eli Pariser.'
+p2477
+asg11
+S'JOHN DONVAN'
+p2478
+sg16
+(lp2479
+g2477
+asa(dp2480
+g8
+(lp2481
+S'I dont think anyone up here thinks that the primary thing driving American-- the verypartisan spirit of American discourse is the internet.'
+p2482
+aS'The question is, is the way thatmost people use the internet helping or hurting?'
+p2483
+aS'Thats the question that you reallyhave to answer.'
+p2484
+aS'Is the way that people are using the internet helping or hurting in this?And I think, its hard to argue, most peoples social networks are homogenous, thatsjust true.'
+p2485
+aS'Most people do have social networks that are largely made up of people likethem.Now there are the outliers for sure.'
+p2486
+aS'But if youre getting more from people who youknow, youre getting more of your news from people who are like you.'
+p2487
+asg11
+S'ELI PARISER'
+p2488
+sg16
+(lp2489
+S'I dont think anyone up here thinks that the primary thing driving American-- the very partisan spirit of American discourse is the internet.'
+p2490
+aS'The question is, is the way that most people use the internet helping or hurting?'
+p2491
+aS'Thats the question that you really have to answer.'
+p2492
+aS'Is the way that people are using the internet helping or hurting in this?'
+p2493
+aS'And I think, its hard to argue, most peoples social networks are homogenous, thats just true.'
+p2494
+aS'Most people do have social networks that are largely made up of people like them.'
+p2495
+aS'Now there are the outliers for sure.'
+p2496
+aS'But if youre getting more from people who you know, youre getting more of your news from people who are like you.'
+p2497
+asg18
+(dp2498
+S'20:01:43'
+p2499
+I7
+ssa(dp2500
+g8
+(lp2501
+S'Okay, lets go back to questions.'
+p2502
+aS'Youre wearing a lime green tie.'
+p2503
+aS'Youre looking at yourtie.'
+p2504
+aS'Sorry, that was a terrible cue to give, youve got to look down.'
+p2505
+asg11
+S'JOHN DONVAN'
+p2506
+sg16
+(lp2507
+S'Okay, lets go back to questions.'
+p2508
+aS'Youre wearing a lime green tie.'
+p2509
+aS'Youre looking at your tie.'
+p2510
+aS'Sorry, that was a terrible cue to give, youve got to look down.'
+p2511
+asa(dp2512
+g8
+(lp2513
+S'My name is Andy, so I have a question about confirmation bias.'
+p2514
+aS'This is -- I really dontknow the answer, which is, do you think now, or before the internet, it was harder toavoid, whatever your ideology, information that would challenge your belief, be it thenightly news or an encyclopedia or the newspaper, whereas now, you mentionedWikipedia.'
+p2515
+aS'But that might be, there might be an analogue to the encyclopedia of old,but now you could just go to Conservapedia and find out that wow, Paul Revereactually, the ride was consistent with what it was described as.'
+p2516
+aS'And so its a lot easier tofind that information thats going to confirm your biases and that would contribute tothe closing of the mind.'
+p2517
+asg11
+S'MALE SPEAKER'
+p2518
+sg16
+(lp2519
+S'My name is Andy, so I have a question about confirmation bias.'
+p2520
+aS'This is -- I really dont know the answer, which is, do you think now, or before the internet, it was harder to avoid, whatever your ideology, information that would challenge your belief, be it the nightly news or an encyclopedia or the newspaper, whereas now, you mentioned Wikipedia.'
+p2521
+aS'But that might be, there might be an analogue to the encyclopedia of old, but now you could just go to Conservapedia and find out that wow, Paul Revere actually, the ride was consistent with what it was described as.'
+p2522
+aS'And so its a lot easier to find that information thats going to confirm your biases and that would contribute to the closing of the mind.'
+p2523
+asg18
+(dp2524
+S'20:02:44'
+p2525
+I9
+ssa(dp2526
+g8
+(lp2527
+S'But Evgeny kind of addressed that point when he -- I think you said, Evgeny, earlier inyour opening statements, that initially the theory was the internet gave us tools to dostuff that we were already doing.'
+p2528
+aS'But the other side is arguing that without our knowingit now, the internet is making us do that and were unaware of it.'
+p2529
+aS'So do you feel thatyour question was answered?'
+p2530
+asg11
+S'JOHN DONVAN'
+p2531
+sg13
+(dp2532
+I0
+S'40'
+p2533
+ssg16
+(lp2534
+S'But Evgeny kind of addressed that point when he -- I think you said, Evgeny, earlier in your opening statements, that initially the theory was the internet gave us tools to do stuff that we were already doing.'
+p2535
+aS'But the other side is arguing that without our knowing it now, the internet is making us do that and were unaware of it.'
+p2536
+aS'So do you feel that your question was answered?'
+p2537
+asa(dp2538
+g8
+(lp2539
+S'Well it was more the idea of seeking out information that is going to be feeding yourown biases, whereas youre not exposing yourself.'
+p2540
+aS'Youre not going to be exposed asmuch as you would before to stuff.'
+p2541
+asg11
+S'MALE SPEAKER'
+p2542
+sg16
+(lp2543
+S'Well it was more the idea of seeking out information that is going to be feeding your own biases, whereas youre not exposing yourself.'
+p2544
+aS'Youre not going to be exposed as much as you would before to stuff.'
+p2545
+asa(dp2546
+g8
+(lp2547
+S'But is it, how is it different from 30 years ago, that if you, you could go down to thelibrary and take out all the crackpot books that you wanted to.'
+p2548
+asg11
+S'JOHN DONVAN'
+p2549
+sg16
+(lp2550
+S'But is it, how is it different from 30 years ago, that if you, you could go down to the library and take out all the crackpot books that you wanted to.'
+p2551
+asa(dp2552
+g8
+(lp2553
+S'Well thats the question. '
+p2554
+asg11
+S'MALE SPEAKER'
+p2555
+sg16
+(lp2556
+S'Well thats the question. '
+p2557
+asa(dp2558
+g8
+(lp2559
+S'Lets let Jacob Weisburg take that one.'
+p2560
+asg11
+S'JOHN DONVAN'
+p2561
+sg16
+(lp2562
+g2560
+asa(dp2563
+g8
+(lp2564
+S'Daniel Patrick Moynihan used to always say, everyones entitled to their opinion but nottheir own facts.'
+p2565
+aS'And I think we all agree that in a democracy, you need an informationalcommon to some extent, where people are arguing about what they think about reality,not about reality itself.But I think Wikipedias a pretty great information commons.'
+p2566
+aS'And it is again, the firstsearch return on almost everything, or at least one of the first few.'
+p2567
+aS'And Wikipedia hasits issues and its problems but overall, Wikipedia strives to be neutral ground on aninformational level.'
+p2568
+aS'Thats an anecdote, but I think its an important one.'
+p2569
+aS'I think theinternet cuts both ways and in some ways, it can cut in favor of confirmation biases thatyoure talking about, and in some ways it can cut right against it.'
+p2570
+asg11
+S'JACOB WEISBERG'
+p2571
+sg16
+(lp2572
+S'Daniel Patrick Moynihan used to always say, everyones entitled to their opinion but not their own facts.'
+p2573
+aS'And I think we all agree that in a democracy, you need an informational common to some extent, where people are arguing about what they think about reality, not about reality itself.'
+p2574
+aS'But I think Wikipedias a pretty great information commons.'
+p2575
+aS'And it is again, the first search return on almost everything, or at least one of the first few.'
+p2576
+aS'And Wikipedia has its issues and its problems but overall, Wikipedia strives to be neutral ground on an informational level.'
+p2577
+aS'Thats an anecdote, but I think its an important one.'
+p2578
+aS'I think the internet cuts both ways and in some ways, it can cut in favor of confirmation biases that youre talking about, and in some ways it can cut right against it.'
+p2579
+asg18
+(dp2580
+S'20:03:44'
+p2581
+I4
+ssa(dp2582
+g8
+(lp2583
+S'I think we also --'
+p2584
+asg11
+S'EVGENY MOROZOV'
+p2585
+sg16
+(lp2586
+g2584
+asa(dp2587
+g8
+(lp2588
+S'Evgeny, let me let the other side come back to that, to Eli Pariser, is arguing the internetis closing our minds.'
+p2589
+asg11
+S'JOHN DONVAN'
+p2590
+sg13
+(dp2591
+I2
+S'41'
+p2592
+ssg16
+(lp2593
+S'Evgeny, let me let the other side come back to that, to Eli Pariser, is arguing the internet is closing our minds.'
+p2594
+asa(dp2595
+g8
+(lp2596
+S'Well just to go from anecdote to the study.'
+p2597
+aS'One of the findings of the Pew study wasthat the more personalized Google search results, the further down Wikipedia was inthe search results.'
+p2598
+aS'So if you have an empty search history, Wikipedia is the top result.But the larger your search history, the less Wikipedia comes up.'
+p2599
+aS'The more its replaced by -- so this was the best study that we have on Googlepersonalization.'
+p2600
+aS'And it suggests, I agree --'
+p2601
+asg11
+S'ELI PARISER'
+p2602
+sg16
+(lp2603
+S'Well just to go from anecdote to the study.'
+p2604
+aS'One of the findings of the Pew study was that the more personalized Google search results, the further down Wikipedia was in the search results.'
+p2605
+aS'So if you have an empty search history, Wikipedia is the top result.'
+p2606
+aS'But the larger your search history, the less Wikipedia comes up.'
+p2607
+aS'The more its replaced by -- so this was the best study that we have on Google personalization.'
+p2608
+aS'And it suggests, I agree --'
+p2609
+asg18
+(dp2610
+S'20:04:50'
+p2611
+I4
+ssa(dp2612
+g8
+(lp2613
+S'But do you see any logic, why would Google deliberately want to demote Wikipedia insearch results?'
+p2614
+asg11
+S'EVGENY MOROZOV'
+p2615
+sg16
+(lp2616
+S'But do you see any logic, why would Google deliberately want to demote Wikipedia in search results?'
+p2617
+asa(dp2618
+g8
+(lp2619
+S'Totally, I see the logic.'
+p2620
+asg11
+S'ELI PARISER'
+p2621
+sg16
+(lp2622
+g2620
+asa(dp2623
+g8
+(lp2624
+S'Whats the logic?'
+p2625
+asg11
+S'EVGENY MOROZOV'
+p2626
+sg16
+(lp2627
+g2625
+asa(dp2628
+g8
+(lp2629
+S'I just think -- the logic, they have the means and the motives to provide the links thatpeople will click on the most.'
+p2630
+aS'Thats not the means and the motive to provide the linksthat are the most useful to people.'
+p2631
+asg11
+S'ELI PARISER'
+p2632
+sg16
+(lp2633
+S'I just think -- the logic, they have the means and the motives to provide the links that people will click on the most.'
+p2634
+aS'Thats not the means and the motive to provide the links that are the most useful to people.'
+p2635
+asa(dp2636
+g8
+(lp2637
+S'Because of that burst of pleasure that you talked about in peoples brains.'
+p2638
+aS'But Evgeny, I just want to let him finish the point.'
+p2639
+aS'Is it because of that burst of pleasureprinciple that you talked about, that in fact, theyve actually studied it.'
+p2640
+aS'And that we feelgood and we stick around if we get results that we like.'
+p2641
+asg11
+S'JOHN DONVAN'
+p2642
+sg16
+(lp2643
+S'Because of that burst of pleasure that you talked about in peoples brains.'
+p2644
+aS'But Evgeny, I just want to let him finish the point.'
+p2645
+aS'Is it because of that burst of pleasure principle that you talked about, that in fact, theyve actually studied it.'
+p2646
+aS'And that we feel good and we stick around if we get results that we like.'
+p2647
+asa(dp2648
+g8
+(lp2649
+S'Yeah I think thats one of the -- '
+p2650
+asg11
+S'ELI PARISER'
+p2651
+sg13
+(dp2652
+I1
+S'42'
+p2653
+ssg16
+(lp2654
+S'Yeah I think thats one of the -- '
+p2655
+asa(dp2656
+g8
+(lp2657
+S'You never got the chance to respond to that point.'
+p2658
+asg11
+S'JOHN DONVAN'
+p2659
+sg16
+(lp2660
+g2658
+asa(dp2661
+g8
+(lp2662
+S'Google places no ads on Wikipedia.'
+p2663
+aS'Google doesnt care what you click on; all they careis you stay on Google.Right?'
+p2664
+aS'They dont really care whether you go to Wikipedia or Conservapedia orsomewhere else.'
+p2665
+aS'Right, and I think right now what Google actually wants to do ispresent the result right away without having to spend any time on it.'
+p2666
+aS"So, yeah, I justdon't see the logic on which you're basing that decision."
+p2667
+aS'But the response to thequestion you asked, I think you need -- we need to set realistic goals for ourselves.'
+p2668
+aS'Weare not going to dissuade people who deliberately decide to go to Conservapediainstead of Wikipedia.'
+p2669
+aS'There is nothing policy-wide that we can do.'
+p2670
+aS'If people alreadydecided to seek those very biased views.'
+p2671
+aS'There is little we can do.'
+p2672
+aS'I think we need notbe Utopian.'
+p2673
+aS'We have to set realistic policy goals.'
+p2674
+aS'And from a public policy perspective,to figure out what we can do, change design, regulate Google, ask them to dosomething.'
+p2675
+aS"But to expect that Google suddenly can wave the magic wand and makesure that people stop going to FOX News.com or Conservapedia and start going toWikipedia instead, I think it's an unrealistic goal that we shouldn't even set forourselves."
+p2676
+asg11
+S'EVGENY MOROZOV'
+p2677
+sg16
+(lp2678
+S'Google places no ads on Wikipedia.'
+p2679
+aS'Google doesnt care what you click on; all they care is you stay on Google.'
+p2680
+aS'Right?'
+p2681
+aS'They dont really care whether you go to Wikipedia or Conservapedia or somewhere else.'
+p2682
+aS'Right, and I think right now what Google actually wants to do is present the result right away without having to spend any time on it.'
+p2683
+aS"So, yeah, I just don't see the logic on which you're basing that decision."
+p2684
+aS'But the response to the question you asked, I think you need -- we need to set realistic goals for ourselves.'
+p2685
+aS'We are not going to dissuade people who deliberately decide to go to Conservapedia instead of Wikipedia.'
+p2686
+aS'There is nothing policy-wide that we can do.'
+p2687
+aS'If people already decided to seek those very biased views.'
+p2688
+aS'There is little we can do.'
+p2689
+aS'I think we need not be Utopian.'
+p2690
+aS'We have to set realistic policy goals.'
+p2691
+aS'And from a public policy perspective, to figure out what we can do, change design, regulate Google, ask them to do something.'
+p2692
+aS"But to expect that Google suddenly can wave the magic wand and make sure that people stop going to FOX News.com or Conservapedia and start going to Wikipedia instead, I think it's an unrealistic goal that we shouldn't even set for ourselves."
+p2693
+asg18
+(dp2694
+S'20:05:42'
+p2695
+I2
+ssa(dp2696
+g8
+(lp2697
+S'Siva.'
+p2698
+asg11
+S'JOHN DONVAN'
+p2699
+sg16
+(lp2700
+g2698
+asa(dp2701
+g8
+(lp2702
+S"Again, thank you for making our point.That's basically what we're saying, that Google is in the business of making sure that ifyou are looking for a conservative opinion about something, you're going to get moreconservative opinions about things."
+p2703
+aS"I'm sorry."
+p2704
+aS"If you've expressed a desire to click onconservative things, you're going to get more conservative things."
+p2705
+asg11
+S'SIVA VAIDHYANATHAN'
+p2706
+sg16
+(lp2707
+S'Again, thank you for making our point.'
+p2708
+aS"That's basically what we're saying, that Google is in the business of making sure that if you are looking for a conservative opinion about something, you're going to get more conservative opinions about things."
+p2709
+aS"I'm sorry."
+p2710
+aS"If you've expressed a desire to click on conservative things, you're going to get more conservative things."
+p2711
+asg18
+(dp2712
+S'20:06:41'
+p2713
+I1
+ssa(dp2714
+g8
+(lp2715
+S'It is --'
+p2716
+asg11
+S'EVGENY MOROZOV'
+p2717
+sg16
+(lp2718
+g2716
+asa(dp2719
+g8
+(lp2720
+S"And we don't expect Google not to magically -- "
+p2721
+asg11
+S'SIVA VAIDHYANATHAN'
+p2722
+sg13
+(dp2723
+I1
+S'43'
+p2724
+ssg16
+(lp2725
+S"And we don't expect Google not to magically -- "
+p2726
+asa(dp2727
+g8
+(lp2728
+S'Evgeny, hold, let him -- let Siva finish, and you can come back.'
+p2729
+asg11
+S'JOHN DONVAN'
+p2730
+sg16
+(lp2731
+g2729
+asa(dp2732
+g8
+(lp2733
+S"Don't expect Google to change magically."
+p2734
+aS"We don't ask Google to change magically.What we ask is --"
+p2735
+asg11
+S'SIVA VAIDHYANATHAN'
+p2736
+sg16
+(lp2737
+S"Don't expect Google to change magically."
+p2738
+aS"We don't ask Google to change magically."
+p2739
+aS'What we ask is --'
+p2740
+asa(dp2741
+g8
+(lp2742
+S"It doesn't do anything, what you are saying."
+p2743
+asg11
+S'EVGENY MOROZOV'
+p2744
+sg16
+(lp2745
+g2743
+asa(dp2746
+g8
+(lp2747
+S'What we ask is that we pay attention closely to what Google itself says about what itdoes as is well documented, and we pay attention to the totality of our informationecosystem and the strong role that Google plays in that.'
+p2748
+asg11
+S'SIVA VAIDHYANATHAN'
+p2749
+sg16
+(lp2750
+S'What we ask is that we pay attention closely to what Google itself says about what it does as is well documented, and we pay attention to the totality of our information ecosystem and the strong role that Google plays in that.'
+p2751
+asa(dp2752
+g8
+(lp2753
+S'Evgeny Morozov.'
+p2754
+asg11
+S'JOHN DONVAN'
+p2755
+sg16
+(lp2756
+g2754
+asa(dp2757
+g8
+(lp2758
+S"It's all fine if you're paying attention."
+p2759
+aS"I'm all for paying attention to Google."
+p2760
+aS"It's just thatGoogle itself goes on the record saying that they do not want to personalize politics."
+p2761
+aS'Allthey want to do is personalize pizza.I think from a business perspective, I see no reason why Google would want to serveyou biased search results and show Conservapedia before Wikipedia.'
+p2762
+aS'If you can produce a study that will prove that --'
+p2763
+asg11
+S'EVGENY MOROZOV'
+p2764
+sg16
+(lp2765
+S"It's all fine if you're paying attention."
+p2766
+aS"I'm all for paying attention to Google."
+p2767
+aS"It's just that Google itself goes on the record saying that they do not want to personalize politics."
+p2768
+aS'All they want to do is personalize pizza.'
+p2769
+aS'I think from a business perspective, I see no reason why Google would want to serve you biased search results and show Conservapedia before Wikipedia.'
+p2770
+aS'If you can produce a study that will prove that --'
+p2771
+asg18
+(dp2772
+S'20:07:40'
+p2773
+I3
+ssa(dp2774
+g8
+(lp2775
+S'It does so mathematically, not politically.'
+p2776
+asg11
+S'SIVA VAIDHYANATHAN'
+p2777
+sg16
+(lp2778
+g2776
+asa(dp2779
+g8
+(lp2780
+S"-- it's a vast for Google."
+p2781
+asg11
+S'EVGENY MOROZOV'
+p2782
+sg16
+(lp2783
+g2781
+asa(dp2784
+g8
+(lp2785
+S'It does so mathematically, not politically.'
+p2786
+aS"It doesn't distinguish between a political siteand a pizza site because it doesn't do that. "
+p2787
+asg11
+S'SIVA VAIDHYANATHAN'
+p2788
+sg13
+(dp2789
+I0
+S'44'
+p2790
+ssg16
+(lp2791
+S'It does so mathematically, not politically.'
+p2792
+aS"It doesn't distinguish between a political site and a pizza site because it doesn't do that. "
+p2793
+asa(dp2794
+g8
+(lp2795
+S"-- search for GOP, it knows you're searching for GOP and not pizza."
+p2796
+aS"It doesn't --"
+p2797
+asg11
+S'EVGENY MOROZOV'
+p2798
+sg16
+(lp2799
+S"-- search for GOP, it knows you're searching for GOP and not pizza."
+p2800
+aS"It doesn't --"
+p2801
+asa(dp2802
+g8
+(lp2803
+S"It doesn't read what GOP is, it associates it with all the other GOP clicks."
+p2804
+aS"It doesn't flag itas political."
+p2805
+aS'It just associates it mathematically with all the other behavior going on onthe web.'
+p2806
+asg11
+S'SIVA VAIDHYANATHAN'
+p2807
+sg16
+(lp2808
+S"It doesn't read what GOP is, it associates it with all the other GOP clicks."
+p2809
+aS"It doesn't flag it as political."
+p2810
+aS'It just associates it mathematically with all the other behavior going on on the web.'
+p2811
+asa(dp2812
+g8
+(lp2813
+S'So GOP could be pepperoni as far as the algorithm is concerned.'
+p2814
+asg11
+S'JOHN DONVAN'
+p2815
+sg16
+(lp2816
+g2814
+asa(dp2817
+g8
+(lp2818
+S"Grand ol' pepperoni, yes."
+p2819
+asg11
+S'SIVA VAIDHYANATHAN'
+p2820
+sg16
+(lp2821
+g2819
+asa(dp2822
+g22
+(dp2823
+I5
+S'[laughter]'
+p2824
+ssg8
+(lp2825
+S'All right.'
+p2826
+aS'I want to remind you we\'re in the question and answer section of thisdebaters, two teams of two debating this motion: "When it comes to politics, theinternet is closing our minds.'
+p2827
+aS'" And, sir, right in the center there.'
+p2828
+aS'Yes.'
+p2829
+aS"I'm sorry."
+p2830
+aS'Imeant a few rows back.'
+p2831
+aS"I'll try to come back to you."
+p2832
+aS'My apologies.'
+p2833
+aS'That was anambiguous signal.'
+p2834
+aS"And I didn't mean you, either, but --I'm -- you got the mic."
+p2835
+aS'You win.'
+p2836
+aS'[[laughter]] '
+p2837
+asg11
+S'JOHN DONVAN'
+p2838
+sg16
+(lp2839
+S'All right.'
+p2840
+aS'I want to remind you we\'re in the question and answer section of this debaters, two teams of two debating this motion: "When it comes to politics, the internet is closing our minds.'
+p2841
+aS'" And, sir, right in the center there.'
+p2842
+aS'Yes.'
+p2843
+aS"I'm sorry."
+p2844
+aS'I meant a few rows back.'
+p2845
+aS"I'll try to come back to you."
+p2846
+aS'My apologies.'
+p2847
+aS'That was an ambiguous signal.'
+p2848
+aS"And I didn't mean you, either, but -- I'm -- you got the mic."
+p2849
+aS'You win.'
+p2850
+asg18
+(dp2851
+S'20:08:49'
+p2852
+I6
+ssa(dp2853
+g8
+(lp2854
+S'Hi.'
+p2855
+aS'My name is John.'
+p2856
+aS"So I don't really hear anyone saying that information movingquickly and lots of information is closing our minds."
+p2857
+aS'I hear not the internet but internetcompanies or even personalization is closing our minds.'
+p2858
+aS"So my question for the teamarguing for the motion is, would something that wasn't corporate, like a public searchengine alternative to Google that's nonprofit and not commercial solve some of theproblems?"
+p2859
+aS'And then my question for the against the motion team would be, would yoube opposed to something like that as a policy decision because you love personalizationso much?'
+p2860
+asg11
+S'MALE SPEAKER'
+p2861
+sg16
+(lp2862
+S'Hi.'
+p2863
+aS'My name is John.'
+p2864
+aS"So I don't really hear anyone saying that information moving quickly and lots of information is closing our minds."
+p2865
+aS'I hear not the internet but internet companies or even personalization is closing our minds.'
+p2866
+aS"So my question for the team arguing for the motion is, would something that wasn't corporate, like a public search engine alternative to Google that's nonprofit and not commercial solve some of the problems?"
+p2867
+aS'And then my question for the against the motion team would be, would you be opposed to something like that as a policy decision because you love personalization so much?'
+p2868
+asa(dp2869
+g8
+(lp2870
+S"And I'm assuming that this publicly -- this public service search engine would not bedoing personalization."
+p2871
+asg11
+S'JOHN DONVAN'
+p2872
+sg13
+(dp2873
+I0
+S'45'
+p2874
+ssg16
+(lp2875
+S"And I'm assuming that this publicly -- this public service search engine would not be doing personalization."
+p2876
+asg18
+(dp2877
+S'20:09:40'
+p2878
+I2
+ssa(dp2879
+g8
+(lp2880
+S'Well, perhaps it -- I mean, there could be a social aspect like, town halls.'
+p2881
+asg11
+S'MALE SPEAKER'
+p2882
+sg16
+(lp2883
+g2881
+asa(dp2884
+g8
+(lp2885
+S'Okay.'
+p2886
+aS'All right.'
+p2887
+asg11
+S'JOHN DONVAN'
+p2888
+sg16
+(lp2889
+S'Okay.'
+p2890
+aS'All right.'
+p2891
+asa(dp2892
+g8
+(lp2893
+S'Sort of public spaces -- '
+p2894
+asg11
+S'MALE SPEAKER'
+p2895
+sg16
+(lp2896
+S'Sort of public spaces -- '
+p2897
+asa(dp2898
+g8
+(lp2899
+S"That's a really intriguing possibility of a public search facility or public search engine orsome sort of non-corporate entity that would help us guide us in certain issues, right?That's a nice idea, and I think it's worth pursuing and experimenting."
+p2900
+aS"I'm not willing topredict the results."
+p2901
+aS'I think the important thing is that we try everything.'
+p2902
+aS'The importantthing is that we let a few things fail, and we try to learn from our mistakes.'
+p2903
+aS'But we do soopenly.'
+p2904
+aS'We do so deliberately.'
+p2905
+aS"And we don't sign away so many important things to ablack box."
+p2906
+asg11
+S'SIVA VAIDHYANATHAN'
+p2907
+sg16
+(lp2908
+S"That's a really intriguing possibility of a public search facility or public search engine or some sort of non-corporate entity that would help us guide us in certain issues, right?"
+p2909
+aS"That's a nice idea, and I think it's worth pursuing and experimenting."
+p2910
+aS"I'm not willing to predict the results."
+p2911
+aS'I think the important thing is that we try everything.'
+p2912
+aS'The important thing is that we let a few things fail, and we try to learn from our mistakes.'
+p2913
+aS'But we do so openly.'
+p2914
+aS'We do so deliberately.'
+p2915
+aS"And we don't sign away so many important things to a black box."
+p2916
+asa(dp2917
+g8
+(lp2918
+S'Jacob Weisberg, your point.'
+p2919
+asg11
+S'JOHN DONVAN'
+p2920
+sg16
+(lp2921
+g2919
+asa(dp2922
+g8
+(lp2923
+S'I was going to say that the Google skeptics -- have you tried Bing?'
+p2924
+aS'There are alternativesearch engines.'
+p2925
+aS"But I think -- I don't think it's something the government needs to do."
+p2926
+aS"Ithink the idea of a nonprofit search engine is not a bad one, but I don't think it wouldfail to do personalization because I think a search engine that wasn't capable ofpersonalization would be tremendously ineffective and disappointing.And nobody would use it."
+p2927
+aS"If it didn't know where you were, if it didn't gather anyinformation about what kinds of things you were interested in."
+p2928
+aS'I do think --'
+p2929
+asg11
+S'JACOB WEISBERG'
+p2930
+sg16
+(lp2931
+S'I was going to say that the Google skeptics -- have you tried Bing?'
+p2932
+aS'There are alternative search engines.'
+p2933
+aS"But I think -- I don't think it's something the government needs to do."
+p2934
+aS"I think the idea of a nonprofit search engine is not a bad one, but I don't think it would fail to do personalization because I think a search engine that wasn't capable of personalization would be tremendously ineffective and disappointing."
+p2935
+aS'And nobody would use it.'
+p2936
+aS"If it didn't know where you were, if it didn't gather any information about what kinds of things you were interested in."
+p2937
+aS'I do think --'
+p2938
+asg18
+(dp2939
+S'20:10:51'
+p2940
+I5
+ssa(dp2941
+g8
+(lp2942
+S"I don't disagree."
+p2943
+aS'I was just talking about transparency.'
+p2944
+asg11
+S'SIVA VAIDHYANATHAN'
+p2945
+sg16
+(lp2946
+S"I don't disagree."
+p2947
+aS'I was just talking about transparency.'
+p2948
+asa(dp2949
+g8
+(lp2950
+S'I want to go to another question, but I want to -- I want to confess that I would love tohear a female voice or two more in the mix tonight.'
+p2951
+aS'And I -- I may be -- suddenly everyhand went down.'
+p2952
+aS'All right.'
+p2953
+aS'I tried.'
+p2954
+aS'Sir.'
+p2955
+aS'Oh, right here?'
+p2956
+aS"I'm sorry."
+p2957
+aS"I didn't see you."
+p2958
+aS'Letthe mic come.'
+p2959
+aS'Stand up.'
+p2960
+aS'Let us know your name and justify my choosing you.'
+p2961
+asg11
+S'JOHN DONVAN'
+p2962
+sg13
+(dp2963
+I0
+S'46'
+p2964
+ssg16
+(lp2965
+S'I want to go to another question, but I want to -- I want to confess that I would love to hear a female voice or two more in the mix tonight.'
+p2966
+aS'And I -- I may be -- suddenly every hand went down.'
+p2967
+aS'All right.'
+p2968
+aS'I tried.'
+p2969
+aS'Sir.'
+p2970
+aS'Oh, right here?'
+p2971
+aS"I'm sorry."
+p2972
+aS"I didn't see you."
+p2973
+aS'Let the mic come.'
+p2974
+aS'Stand up.'
+p2975
+aS'Let us know your name and justify my choosing you.'
+p2976
+asa(dp2977
+g8
+(lp2978
+S'Hi.'
+p2979
+aS'I was recently reading an article by Ethan Zimmerman, I think it was.'
+p2980
+asg11
+S'FEMALE SPEAKER'
+p2981
+sg16
+(lp2982
+S'Hi.'
+p2983
+aS'I was recently reading an article by Ethan Zimmerman, I think it was.'
+p2984
+asa(dp2985
+g8
+(lp2986
+S'Zuckerman.'
+p2987
+asg11
+S'MALE SPEAKER'
+p2988
+sg16
+(lp2989
+g2987
+asa(dp2990
+g8
+(lp2991
+S"Okay, I'm seeing nods, yes."
+p2992
+aS"And suppose you don't know."
+p2993
+aS"It's an article about a theoryknown as cute cat theory, which is basically they applied it to the Arab Spring and sayingthat all of these movements, people that might want to watch cute cat videos, that's themajority of the people on the internet.That's what they use it for."
+p2994
+aS'There is a small majority who use it for internet activism.Now, a site like YouTube that uses the majority of people want to watch cute cat videos,but it also posts things like -- like --'
+p2995
+asg11
+S'FEMALE SPEAKER'
+p2996
+sg16
+(lp2997
+S"Okay, I'm seeing nods, yes."
+p2998
+aS"And suppose you don't know."
+p2999
+aS"It's an article about a theory known as cute cat theory, which is basically they applied it to the Arab Spring and saying that all of these movements, people that might want to watch cute cat videos, that's the majority of the people on the internet."
+p3000
+aS"That's what they use it for."
+p3001
+aS'There is a small majority who use it for internet activism.'
+p3002
+aS'Now, a site like YouTube that uses the majority of people want to watch cute cat videos, but it also posts things like -- like --'
+p3003
+asg18
+(dp3004
+S'20:11:54'
+p3005
+I4
+ssa(dp3006
+g8
+(lp3007
+S'I need you to target in on a question.'
+p3008
+asg11
+S'JOHN DONVAN'
+p3009
+sg16
+(lp3010
+g3008
+asa(dp3011
+g8
+(lp3012
+S'Okay.'
+p3013
+aS'Anyway, as far as maybe you guys can explain the cute cat theory a little betterthan I can.'
+p3014
+aS"But cute cat theory, I'm interested to know -- I think that the cute cat theoryopens up the possibility for neighbors, when the websites get shut down to talk aboutpolitical issues."
+p3015
+aS'So for those of you arguing against the motion, I would be interested tohear your thoughts.'
+p3016
+asg11
+S'FEMALE SPEAKER'
+p3017
+sg16
+(lp3018
+S'Okay.'
+p3019
+aS'Anyway, as far as maybe you guys can explain the cute cat theory a little better than I can.'
+p3020
+aS"But cute cat theory, I'm interested to know -- I think that the cute cat theory opens up the possibility for neighbors, when the websites get shut down to talk about political issues."
+p3021
+aS'So for those of you arguing against the motion, I would be interested to hear your thoughts.'
+p3022
+asa(dp3023
+g8
+(lp3024
+S'For -- for the people who have to edit this for television --'
+p3025
+asg11
+S'JOHN DONVAN'
+p3026
+sg16
+(lp3027
+g3025
+asa(dp3028
+g8
+(lp3029
+S'Yes.'
+p3030
+asg11
+S'FEMALE SPEAKER'
+p3031
+sg16
+(lp3032
+g3030
+asa(dp3033
+g8
+(lp3034
+S'Could you just restate the question and --'
+p3035
+asg11
+S'JOHN DONVAN'
+p3036
+sg13
+(dp3037
+I1
+S'47'
+p3038
+ssg16
+(lp3039
+g3035
+asg18
+(dp3040
+S'20:12:43'
+p3041
+I1
+ssa(dp3042
+g8
+(lp3043
+S"I'm sorry."
+p3044
+asg11
+S'FEMALE SPEAKER'
+p3045
+sg16
+(lp3046
+g3044
+asa(dp3047
+g8
+(lp3048
+S'No, no.'
+p3049
+aS'I think this is actually a great question.'
+p3050
+aS"And I like the idea that they'll tell youwhat cute cat theory is."
+p3051
+aS'But if you could ask them about cute cat theory.'
+p3052
+asg11
+S'JOHN DONVAN'
+p3053
+sg16
+(lp3054
+S'No, no.'
+p3055
+aS'I think this is actually a great question.'
+p3056
+aS"And I like the idea that they'll tell you what cute cat theory is."
+p3057
+aS'But if you could ask them about cute cat theory.'
+p3058
+asa(dp3059
+g8
+(lp3060
+S'No, yeah.'
+p3061
+aS"I'm sorry."
+p3062
+aS"I'm a little nervous ."
+p3063
+asg11
+S'FEMALE SPEAKER'
+p3064
+sg16
+(lp3065
+S'No, yeah.'
+p3066
+aS"I'm sorry."
+p3067
+aS"I'm a little nervous ."
+p3068
+asa(dp3069
+g8
+(lp3070
+S'Sure.'
+p3071
+aS'Go ahead.'
+p3072
+asg11
+S'JOHN DONVAN'
+p3073
+sg16
+(lp3074
+S'Sure.'
+p3075
+aS'Go ahead.'
+p3076
+asa(dp3077
+g8
+(lp3078
+S'Okay.'
+p3079
+aS"My question basically is about cute cat theory and whether those who watch cutecat videos, when a site like YouTube gets shut down, if they -- they're more likely to thengo find out why YouTube got shut down, thus turning them into internet activists."
+p3080
+asg11
+S'FEMALE SPEAKER'
+p3081
+sg16
+(lp3082
+S'Okay.'
+p3083
+aS"My question basically is about cute cat theory and whether those who watch cute cat videos, when a site like YouTube gets shut down, if they -- they're more likely to then go find out why YouTube got shut down, thus turning them into internet activists."
+p3084
+asa(dp3085
+g8
+(lp3086
+S'Okay.'
+p3087
+aS"Eli Pariser, tell us what cute cat theory is and whether it's relevant."
+p3088
+asg11
+S'JOHN DONVAN'
+p3089
+sg16
+(lp3090
+S'Okay.'
+p3091
+aS"Eli Pariser, tell us what cute cat theory is and whether it's relevant."
+p3092
+asa(dp3093
+g8
+(lp3094
+S"I'm not -- I don't feel well versed in cute cat theory, unfortunately."
+p3095
+asg11
+S'ELI PARISER'
+p3096
+sg16
+(lp3097
+g3095
+asa(dp3098
+g8
+(lp3099
+S"Who's good on the cats?"
+p3100
+asg11
+S'JOHN DONVAN'
+p3101
+sg16
+(lp3102
+g3100
+asa(dp3103
+g8
+(lp3104
+S'Siva actually got tenure for his work on cute cat theory. '
+p3105
+asg11
+S'JACOB WEISBERG'
+p3106
+sg16
+(lp3107
+S'Siva actually got tenure for his work on cute cat theory. '
+p3108
+asa(dp3109
+g8
+(lp3110
+S"If I understand the -- I think this is a question about whether people will rally to supportthese online media that they depend on when they're under threat."
+p3111
+asg11
+S'ELI PARISER'
+p3112
+sg16
+(lp3113
+S"If I understand the -- I think this is a question about whether people will rally to support these online media that they depend on when they're under threat."
+p3114
+asa(dp3115
+g8
+(lp3116
+S'So it basically throws my cats are the opiate of the masses theory.You get home, you watch videos of cats.'
+p3117
+aS'Internet gets shut down.'
+p3118
+aS'You go andoverthrow Mubarak.'
+p3119
+aS"If you think it's a good theory, good luck."
+p3120
+asg11
+S'EVGENY MOROZOV'
+p3121
+sg13
+(dp3122
+I3
+S'48'
+p3123
+ssg16
+(lp3124
+S'So it basically throws my cats are the opiate of the masses theory.'
+p3125
+aS'You get home, you watch videos of cats.'
+p3126
+aS'Internet gets shut down.'
+p3127
+aS'You go and overthrow Mubarak.'
+p3128
+aS"If you think it's a good theory, good luck."
+p3129
+asg18
+(dp3130
+S'20:13:41'
+p3131
+I1
+ssa(dp3132
+g8
+(lp3133
+S"We actually know that there -- it's really hard to watch YouTube in China right now."
+p3134
+aS"Andfor a while, it wasn't so hard."
+p3135
+aS"First of all, YouTube comes over really slowly in thepeople's republic because its servers are hosted in North America."
+p3136
+aS'Google knows not toput the servers in China.'
+p3137
+aS'That would be bad news.'
+p3138
+aS'During the Tibetan uprising threeyears ago, YouTube basically went dark.'
+p3139
+aS'During the Olympics, it went dark.'
+p3140
+aS"And it'sbeen intermittent since."
+p3141
+aS'And nobody has banged on the doors of the Chinesegovernment saying, "I want my YouTube.'
+p3142
+aS'" They\'re busy with their own video services.They\'re busy with their own business.'
+p3143
+aS"They're busy clicking on their own issues, right?So it doesn't necessarily follow in that example."
+p3144
+aS'The other thing to remember, whentalking about the Arab Spring, going to a different part of the world, is that only 30percent of the Egyptian population was online at the time.'
+p3145
+aS'And then 11 days into theprotest, zero percent were.SMS was a much more important media form for doing anything.'
+p3146
+aS'And Al Jazeera wasprobably the most important media forum for informing people.'
+p3147
+aS'So what happened inNorth Africa had very little to do with cats, cute or otherwise.'
+p3148
+asg11
+S'SIVA VAIDHYANATHAN'
+p3149
+sg16
+(lp3150
+S"We actually know that there -- it's really hard to watch YouTube in China right now."
+p3151
+aS"And for a while, it wasn't so hard."
+p3152
+aS"First of all, YouTube comes over really slowly in the people's republic because its servers are hosted in North America."
+p3153
+aS'Google knows not to put the servers in China.'
+p3154
+aS'That would be bad news.'
+p3155
+aS'During the Tibetan uprising three years ago, YouTube basically went dark.'
+p3156
+aS'During the Olympics, it went dark.'
+p3157
+aS"And it's been intermittent since."
+p3158
+aS'And nobody has banged on the doors of the Chinese government saying, "I want my YouTube.'
+p3159
+aS'" They\'re busy with their own video services.'
+p3160
+aS"They're busy with their own business."
+p3161
+aS"They're busy clicking on their own issues, right?"
+p3162
+aS"So it doesn't necessarily follow in that example."
+p3163
+aS'The other thing to remember, when talking about the Arab Spring, going to a different part of the world, is that only 30 percent of the Egyptian population was online at the time.'
+p3164
+aS'And then 11 days into the protest, zero percent were.'
+p3165
+aS'SMS was a much more important media form for doing anything.'
+p3166
+aS'And Al Jazeera was probably the most important media forum for informing people.'
+p3167
+aS'So what happened in North Africa had very little to do with cats, cute or otherwise.'
+p3168
+asg18
+(dp3169
+S'20:14:44'
+p3170
+I12
+ssa(dp3171
+g8
+(lp3172
+S'Okay.'
+p3173
+aS"Ma'am, right down in the front."
+p3174
+aS'In the third row, sorry.'
+p3175
+aS'Right behind you, sir.'
+p3176
+asg11
+S'JOHN DONVAN'
+p3177
+sg16
+(lp3178
+S'Okay.'
+p3179
+aS"Ma'am, right down in the front."
+p3180
+aS'In the third row, sorry.'
+p3181
+aS'Right behind you, sir.'
+p3182
+asa(dp3183
+g8
+(lp3184
+S'You guys have talked a lot about --'
+p3185
+asg11
+S'FEMALE SPEAKER'
+p3186
+sg16
+(lp3187
+g3185
+asa(dp3188
+g8
+(lp3189
+S'Can you tell us your name, please?'
+p3190
+asg11
+S'JOHN DONVAN'
+p3191
+sg16
+(lp3192
+g3190
+asa(dp3193
+g8
+(lp3194
+S'Debbie.'
+p3195
+aS"You guys talked a lot about personalization of the internet and why that's bad.But I'm asking those who are for the motion, what about people who go and seek outinformation in terms of wanting to comment on articles and videos that are against theirown beliefs?"
+p3196
+asg11
+S'FEMALE SPEAKER'
+p3197
+sg16
+(lp3198
+S'Debbie.'
+p3199
+aS"You guys talked a lot about personalization of the internet and why that's bad."
+p3200
+aS"But I'm asking those who are for the motion, what about people who go and seek out information in terms of wanting to comment on articles and videos that are against their own beliefs?"
+p3201
+asa(dp3202
+g8
+(lp3203
+S'Yes --'
+p3204
+asg11
+S'ELI PARISER'
+p3205
+sg16
+(lp3206
+g3204
+asa(dp3207
+g8
+(lp3208
+S'Eli Pariser.'
+p3209
+asg11
+S'JOHN DONVAN'
+p3210
+sg16
+(lp3211
+g3209
+asa(dp3212
+g8
+(lp3213
+S"Again, it's not that it's impossible or even that hard to find information that you disagreewith online."
+p3214
+aS"There's a great cartoon that someone's staying up late at night and persontries to get them to come to bed, and they say, but someone on the internet is wrong.That's like the experience that a lot of us have a lot of the time, but the question iswhether the daily routines that we move through online will tend to bring us intocontact more with people who make us feel that way or more with people who actuallyvalidate who we feel."
+p3215
+aS"And as social networking becomes a bigger phenomenon, and Ithink in specific Facebook, lets separate Facebook from Twitter, it's easier than ever tosurround yourself with people who mostly agree with you, that's who your friends are.Now, just to address Twitter in particular, like I agree with these guys that Twitter is likea pretty good medium for filtering the Internet and I use it to -- I follow Karl Rove onTwitter and I get Karl Rove's tweets and it's great."
+p3216
+aS'And, you know, I also follow him onFacebook, and I never see his Facebook posts because Facebook actually does a lotmore personalization than Twitter does.Now, you know --'
+p3217
+asg11
+S'ELI PARISER'
+p3218
+sg13
+(dp3219
+I0
+S'49'
+p3220
+ssg16
+(lp3221
+S"Again, it's not that it's impossible or even that hard to find information that you disagree with online."
+p3222
+aS"There's a great cartoon that someone's staying up late at night and person tries to get them to come to bed, and they say, but someone on the internet is wrong."
+p3223
+aS"That's like the experience that a lot of us have a lot of the time, but the question is whether the daily routines that we move through online will tend to bring us into contact more with people who make us feel that way or more with people who actually validate who we feel."
+p3224
+aS"And as social networking becomes a bigger phenomenon, and I think in specific Facebook, lets separate Facebook from Twitter, it's easier than ever to surround yourself with people who mostly agree with you, that's who your friends are."
+p3225
+aS"Now, just to address Twitter in particular, like I agree with these guys that Twitter is like a pretty good medium for filtering the Internet and I use it to -- I follow Karl Rove on Twitter and I get Karl Rove's tweets and it's great."
+p3226
+aS'And, you know, I also follow him on Facebook, and I never see his Facebook posts because Facebook actually does a lot more personalization than Twitter does.'
+p3227
+aS'Now, you know --'
+p3228
+asg18
+(dp3229
+S'20:16:49'
+p3230
+I14
+sS'20:15:49'
+p3231
+I3
+ssa(dp3232
+g8
+(lp3233
+S'Is that a relief to you or --'
+p3234
+asg11
+S'JOHN DONVAN'
+p3235
+sg16
+(lp3236
+g3234
+asa(dp3237
+g8
+(lp3238
+S"Yes, it -- well, Twitter's a relief --"
+p3239
+asg11
+S'ELI PARISER'
+p3240
+sg16
+(lp3241
+g3239
+asa(dp3242
+g8
+(lp3243
+S'Do you want more Karl Rove?'
+p3244
+asg11
+S'JOHN DONVAN'
+p3245
+sg16
+(lp3246
+g3244
+asa(dp3247
+g8
+(lp3248
+S"Twitter's great, but Twitter's not how most people use the Internet."
+p3249
+asg11
+S'ELI PARISER'
+p3250
+sg16
+(lp3251
+g3249
+asa(dp3252
+g8
+(lp3253
+S"No, no, I mean, the -- I mean, the lack of Karl Rove's presence in your Facebook feed, doyou want more?"
+p3254
+asg11
+S'JOHN DONVAN'
+p3255
+sg16
+(lp3256
+S"No, no, I mean, the -- I mean, the lack of Karl Rove's presence in your Facebook feed, do you want more?"
+p3257
+asa(dp3258
+g8
+(lp3259
+S"The fact that he writes boring messages on Facebook and Facebook doesn't find theminteresting doesn't necessarily mean that personalization is so bad."
+p3260
+asg11
+S'EVGENY MOROZOV'
+p3261
+sg16
+(lp3262
+S"The fact that he writes boring messages on Facebook and Facebook doesn't find them interesting doesn't necessarily mean that personalization is so bad."
+p3263
+asa(dp3264
+g8
+(lp3265
+S'But there are a lot of caveats where you can say, "Oh, well, Twitter\'s great, but it doesn\'tcount because it\'s not big enough.'
+p3266
+aS'" I mean, just to go back to the numbers a minute,Twitter claims either, their numbers, 200 -- more than 200 million registered users,more than 100 million active users.'
+p3267
+aS'Facebook claims 800 million registered users, 400million active users.'
+p3268
+aS"I actually think Facebook's definition of an active user is much moregenerous to itself than Twitter, so maybe it is four times users, but, I mean, it's notinsignificant."
+p3269
+asg11
+S'JACOB WEISBERG'
+p3270
+sg13
+(dp3271
+I0
+S'50'
+p3272
+ssg16
+(lp3273
+S'But there are a lot of caveats where you can say, "Oh, well, Twitter\'s great, but it doesn\'t count because it\'s not big enough.'
+p3274
+aS'" I mean, just to go back to the numbers a minute, Twitter claims either, their numbers, 200 -- more than 200 million registered users, more than 100 million active users.'
+p3275
+aS'Facebook claims 800 million registered users, 400 million active users.'
+p3276
+aS"I actually think Facebook's definition of an active user is much more generous to itself than Twitter, so maybe it is four times users, but, I mean, it's not insignificant."
+p3277
+asa(dp3278
+g8
+(lp3279
+S"Americans spend seven hours a month on Facebook.They spend minutes on Twitter, like that's just -- you know, if you look at the comScorenumbers, if you look at -- I mean, it's just nowhere near as powerful a medium."
+p3280
+asg11
+S'ELI PARISER'
+p3281
+sg16
+(lp3282
+S'Americans spend seven hours a month on Facebook.'
+p3283
+aS"They spend minutes on Twitter, like that's just -- you know, if you look at the comScore numbers, if you look at -- I mean, it's just nowhere near as powerful a medium."
+p3284
+asg18
+(dp3285
+S'20:17:41'
+p3286
+I1
+ssa(dp3287
+g8
+(lp3288
+S'As I said, people who use Facebook frequently, all see all most recent messages.'
+p3289
+aS'Thereis no personalization.'
+p3290
+aS'If you use it not seven hours a day but just one day a month, then-there is personalization.And then there is no justification for you to see every single Karl Rove message becauseyou only have 30 minutes and you have 5,000 friends and you have one hour a month tospend on it.'
+p3291
+aS'There is no way for you to do it except for personalization.'
+p3292
+asg11
+S'EVGENY MOROZOV'
+p3293
+sg16
+(lp3294
+S'As I said, people who use Facebook frequently, all see all most recent messages.'
+p3295
+aS'There is no personalization.'
+p3296
+aS'If you use it not seven hours a day but just one day a month, then -there is personalization.'
+p3297
+aS'And then there is no justification for you to see every single Karl Rove message because you only have 30 minutes and you have 5,000 friends and you have one hour a month to spend on it.'
+p3298
+aS'There is no way for you to do it except for personalization.'
+p3299
+asa(dp3300
+g8
+(lp3301
+S'Right, no, I agree with that.'
+p3302
+aS"I'm just saying that a fact of that personalization --"
+p3303
+asg11
+S'ELI PARISER'
+p3304
+sg16
+(lp3305
+S'Right, no, I agree with that.'
+p3306
+aS"I'm just saying that a fact of that personalization --"
+p3307
+asa(dp3308
+g8
+(lp3309
+S'So for seven -- for people who spend seven hours on Facebook every day, there is nopersonalization.'
+p3310
+asg11
+S'EVGENY MOROZOV'
+p3311
+sg16
+(lp3312
+S'So for seven -- for people who spend seven hours on Facebook every day, there is no personalization.'
+p3313
+asa(dp3314
+g8
+(lp3315
+S"No, that's not correct."
+p3316
+asg11
+S'ELI PARISER'
+p3317
+sg16
+(lp3318
+g3316
+asa(dp3319
+g8
+(lp3320
+S'There is no personalization whatsoever.'
+p3321
+asg11
+S'EVGENY MOROZOV'
+p3322
+sg16
+(lp3323
+g3321
+asa(dp3324
+g8
+(lp3325
+S'--I went on EdgeRank and-- '
+p3326
+asg11
+S'ELI PARISER'
+p3327
+sg16
+(lp3328
+S'--I went on EdgeRank and-- '
+p3329
+asa(dp3330
+g8
+(lp3331
+S"Evgeny's right about that."
+p3332
+asg11
+S'MALE SPEAKER'
+p3333
+sg13
+(dp3334
 I0
 S'51'
-p2356
-ssg13
-(lp2357
-S"Evgeny's right about that."
-p2358
-asa(dp2359
+p3335
+ssg16
+(lp3336
+g3332
+asa(dp3337
 g8
+(lp3338
+S"No, it's not true."
+p3339
+aS"There's -- "
+p3340
+asg11
 S'ELI PARISER'
-p2360
-sg13
-(lp2361
-S"No, it's not true. There's --"
-p2362
-ag1258
-asa(dp2363
-g20
-(dp2364
+p3341
+sg16
+(lp3342
+S"No, it's not true."
+p3343
+aS"There's -- "
+p3344
+asa(dp3345
+g22
+(dp3346
 I2
 S'[applause]'
-p2365
+p3347
 ssg8
+(lp3348
+S"All right, we're at an impasse."
+p3349
+aS'And that ends round two of this Intelligence Squared U.S.debate ---- where our motion is, "When it comes to politics, the Internet is closing our minds.'
+p3350
+aS'" [[applause]] And here\'s where we are, we are about to hear closing statements from each debater.They will be two minutes each.'
+p3351
+aS"Remember how you voted before the debate becausethis is their last chance to persuade you that they've presented the better argument.And you'll be asked once again to vote and to pick the winner in just a few minutes."
+p3352
+aS'Onto round three, closing statements from each debater in turn.'
+p3353
+aS'Our motion is, "When itcomes to politics, the internet is closing our minds.'
+p3354
+aS'" And here to summarize his positionagainst the motion, Jacob Weisberg, chairman and editor in chief of the Slate Group.'
+p3355
+asg11
 S'JOHN DONVAN'
-p2366
-sg13
-(lp2367
-S"All right, we're at an impasse. And that ends round two of this Intelligence Squared U.S."
-p2368
-aS'debate --'
-p2369
-aS'-- where our motion is, "When it comes to politics, the Internet is closing our minds."'
-p2370
-aS"And here's where we are, we are about to hear closing statements from each debater."
-p2371
-aS'They will be two minutes each. Remember how you voted before the debate because'
-p2372
-aS"this is their last chance to persuade you that they've presented the better argument."
-p2373
-aS"And you'll be asked once again to vote and to pick the winner in just a few minutes. On"
-p2374
-aS'to round three, closing statements from each debater in turn. Our motion is, "When it'
-p2375
-aS'comes to politics, the internet is closing our minds." And here to summarize his position'
-p2376
-aS'against the motion, Jacob Weisberg, chairman and editor in chief of the Slate Group.'
-p2377
-asg16
-(dp2378
-I3
+p3356
+sg16
+(lp3357
+S"All right, we're at an impasse."
+p3358
+aS'And that ends round two of this Intelligence Squared U.S. debate -- -- where our motion is, "When it comes to politics, the Internet is closing our minds.'
+p3359
+aS'" And here\'s where we are, we are about to hear closing statements from each debater.'
+p3360
+aS'They will be two minutes each.'
+p3361
+aS"Remember how you voted before the debate because this is their last chance to persuade you that they've presented the better argument."
+p3362
+aS"And you'll be asked once again to vote and to pick the winner in just a few minutes."
+p3363
+aS'On to round three, closing statements from each debater in turn.'
+p3364
+aS'Our motion is, "When it comes to politics, the internet is closing our minds.'
+p3365
+aS'" And here to summarize his position against the motion, Jacob Weisberg, chairman and editor in chief of the Slate Group.'
+p3366
+asg18
+(dp3367
 S'20:18:47'
-p2379
-ssa(dp2380
-g20
-(dp2381
+p3368
+I3
+ssa(dp3369
+g22
+(dp3370
 I3
 S'[laughter]'
-p2382
-ssg8
+p3371
+ssg11
 S'JACOB WEISBERG'
-p2383
-sg10
-(dp2384
+p3372
+sg16
+(lp3373
+S'I did like one suggestion Eli made which is that there should be buttons other than like on Facebook.'
+p3374
+aS'There should be a, "I\'m not buying it," button, and I would have been clicking that the whole time I was hearing this argument.'
+p3375
+aS"The Internet doesn't change human nature, it just creates new opportunities for us."
+p3376
+aS"And if your view of human nature is that people are naturally inclined to be ignorant and bigoted and extreme, you're going to focus on the way the web lets them become even narrower and more close minded."
+p3377
+aS"But if that's your view of things, your problem isn't with the web, it's with democracy, because people like that aren't going to do a very good job of governing themselves."
+p3378
+aS'If on the other hand you think people are capable of informing and governing themselves, you have to appreciate the way that the web, which is the greatest trove of open information that the world has ever known, empowers us and broadens our political perspective.'
+p3379
+aS"Evgeny and I have talked about some of those ways tonight, and I think Siva and Eli have talked about a theoretical problem that just hasn't been supported by the evidence or borne out."
+p3380
+aS"Does anyone here actually think that our political system would be better off without the web's democratization of information and the multiplicity of voices, if Tim Berners-Lee had never invented the world wide web, do you think we'd be better off if the web or Google or Facebook and Twitter or blogs were somehow magically taken away or regulated in some paternalistic way?"
+p3381
+aS"And I want to ask you again to think about your personal experience because it may not be an academic study but collectively it's meaningful."
+p3382
+aS'Do you think the internet is making you more narrow or is it exposing you to ideas, people, and arguments, and points of view that you wouldnt have access to without it?'
+p3383
+aS'In closing I just want to say that the idea that you and I would be less narrow in our politics without the web, isnt just wrong, its actually preposterous.'
+p3384
+aS'And thats why you have to vote against tonights motion.'
+p3385
+asg18
+(dp3386
+S'20:20:40'
+p3387
+I19
+sS'20:19:47'
+p3388
+I7
+ssg8
+(lp3389
+S'I did like one suggestion Eli made which is that there should be buttons other than likeon Facebook.'
+p3390
+aS'There should be a, "I\'m not buying it," button, and I would have beenclicking that the whole time I was hearing this argument.The Internet doesn\'t change human nature, it just creates new opportunities for us.'
+p3391
+aS"[[laughter]] And if your view of human nature is that people are naturally inclined to be ignorant andbigoted and extreme, you're going to focus on the way the web lets them become evennarrower and more close minded.But if that's your view of things, your problem isn't with the web, it's with democracy,because people like that aren't going to do a very good job of governing themselves."
+p3392
+aS'Ifon the other hand you think people are capable of informing and governing themselves,you have to appreciate the way that the web, which is the greatest trove of openinformation that the world has ever known, empowers us and broadens our politicalperspective.'
+p3393
+aS"Evgeny and I have talked about some of those ways tonight, and I thinkSiva and Eli have talked about a theoretical problem that just hasn't been supported bythe evidence or borne out."
+p3394
+aS"Does anyone here actually think that our political systemwould be better off without the web's democratization of information and themultiplicity of voices, if Tim Berners-Lee had never invented the world wide web, do youthink we'd be better off if the web or Google or Facebook and Twitter or blogs weresomehow magically taken away or regulated in some paternalistic way?And I want to ask you again to think about your personal experience because it may notbe an academic study but collectively it's meaningful."
+p3395
+aS'Do you think the internet ismaking you more narrow or is it exposing you to ideas, people, and arguments, andpoints of view that you wouldnt have access to without it?'
+p3396
+aS'In closing I just want to saythat the idea that you and I would be less narrow in our politics without the web, isntjust wrong, its actually preposterous.'
+p3397
+aS'And thats why you have to vote against tonightsmotion.'
+p3398
+asg13
+(dp3399
 I12
 S'52'
-p2385
-ssg13
-(lp2386
-S'I did like one suggestion Eli made which is that there should be buttons other than like'
-p2387
-aS'on Facebook. There should be a, "I\'m not buying it," button, and I would have been'
-p2388
-aS'clicking that the whole time I was hearing this argument.'
-p2389
-aS"The Internet doesn't change human nature, it just creates new opportunities for us."
-p2390
-aS'And if your view of human nature is that people are naturally inclined to be ignorant and'
-p2391
-aS"bigoted and extreme, you're going to focus on the way the web lets them become even"
-p2392
-aS'narrower and more close minded.'
-p2393
-aS"But if that's your view of things, your problem isn't with the web, it's with democracy,"
-p2394
-aS"because people like that aren't going to do a very good job of governing themselves. If"
-p2395
-aS'on the other hand you think people are capable of informing and governing themselves,'
-p2396
-aS'you have to appreciate the way that the web, which is the greatest trove of open'
-p2397
-aS'information that the world has ever known, empowers us and broadens our political'
-p2398
-aS'perspective. Evgeny and I have talked about some of those ways tonight, and I think'
-p2399
-aS"Siva and Eli have talked about a theoretical problem that just hasn't been supported by"
-p2400
-aS'the evidence or borne out. Does anyone here actually think that our political system'
-p2401
-aS"would be better off without the web's democratization of information and the"
-p2402
-aS'multiplicity of voices, if Tim Berners-Lee had never invented the world wide web, do you'
-p2403
-aS"think we'd be better off if the web or Google or Facebook and Twitter or blogs were"
-p2404
-aS'somehow magically taken away or regulated in some paternalistic way?'
-p2405
-aS'And I want to ask you again to think about your personal experience because it may not'
-p2406
-aS"be an academic study but collectively it's meaningful. Do you think the internet is"
-p2407
-aS'making you more narrow or is it exposing you to ideas, people, and arguments, and'
-p2408
-aS'points of view that you wouldnt have access to without it? In closing I just want to say'
-p2409
-aS'that the idea that you and I would be less narrow in our politics without the web, isnt'
-p2410
-aS'just wrong, its actually preposterous. And thats why you have to vote against tonights'
-p2411
-aS'motion.'
-p2412
-asg16
-(dp2413
-I19
-S'20:20:40'
-p2414
-sI7
-S'20:19:47'
-p2415
-ssa(dp2416
-g20
-(dp2417
+p3400
+ssa(dp3401
+g22
+(dp3402
 I1
 S'[applause]'
-p2418
+p3403
 ssg8
+(lp3404
+S'Thank you Jacob Weisberg.Our motion is "When it comes to politics the internet is closing our minds" and here to [[applause]] summarize his position for the motion, Eli Pariser, MoveOn.org, board member andauthor of the Filter Bubble.'
+p3405
+asg11
 S'JOHN DONVAN'
-p2419
-sg13
-(lp2420
+p3406
+sg16
+(lp3407
 S'Thank you Jacob Weisberg.'
-p2421
-aS'Our motion is "When it comes to politics the internet is closing our minds" and here to'
-p2422
-aS'summarize his position for the motion, Eli Pariser, MoveOn.org, board member and'
-p2423
-aS'author of the Filter Bubble.'
-p2424
-asa(dp2425
+p3408
+aS'Our motion is "When it comes to politics the internet is closing our minds" and here to summarize his position for the motion, Eli Pariser, MoveOn.org, board member and author of the Filter Bubble.'
+p3409
+asa(dp3410
 g8
+(lp3411
+S'So I want to read you a quote from two Stanford researchers from 1997.'
+p3412
+aS'They said, "Weexpect that advertising funded search engines will be inherently biased towards theadvertisers and away from the needs of the consumers.'
+p3413
+aS'We believe that the issue ofadvertising causes enough mixed incentives that its crucial to have a competitive searchengine that is transparent and in the academic realm.'
+p3414
+aS'"Now, the two researchers were Sergey Brin and Larry Page, and this was just monthsbefore they launched Google as a for-profit entity.'
+p3415
+aS'I think that version of them wasright.'
+p3416
+aS'I think that the companies that increasingly control where and how we putinformation online have mixed motives.'
+p3417
+aS'And the motives that they use in creating thesefilters may not be, and in fact arent in our best interests.'
+p3418
+aS'Theyre more likely tosurround us with voices that tell us that were great and were right and were goodenough and strong enough.'
+p3419
+aS'And theyre less likely to confront us with the places wherewere wrong.'
+p3420
+aS'Whats been interesting for me since writing the book is that Ive actuallybeen invited to come talk with engineers at all of these companies, Amazon, Apple,Google, YouTube, and Facebook.'
+p3421
+aS'Ive had conversations with people in each of thoseplaces.'
+p3422
+aS'And its sort of funny for me to hear people try to suggest that it isnt a big partof what these companies are trying to do.'
+p3423
+aS'The engineers know that it is.They wrestle with it every day.'
+p3424
+aS'They wrestle with the mixed motives, with thesequestions of how they should be building these platforms.'
+p3425
+aS'And they know as one Netflixvice president told me, that they can easily end up trapping people in these bubbleswhere they tend to believe the same thing.'
+p3426
+aS'So if you believe that the companies whosealgorithms decide what we pay attention to, will tend to expose us to a broad diverseset of sources, you should vote with them.'
+p3427
+aS'But if you agree with me that we shouldscrutinize that, and that these commercial interests will tend to use that power toplacate people rather than exposing them to more broad senses of view, then youshould vote that the internet has in fact, unfortunately, been closing our minds.'
+p3428
+asg11
 S'ELI PARISER'
-p2426
-sg10
-(dp2427
+p3429
+sg13
+(dp3430
 I13
 S'53'
-p2428
-ssg13
-(lp2429
-S'So I want to read you a quote from two Stanford researchers from 1997. They said, "We'
-p2430
-aS'expect that advertising funded search engines will be inherently biased towards the'
-p2431
-aS'advertisers and away from the needs of the consumers. We believe that the issue of'
-p2432
-aS'advertising causes enough mixed incentives that its crucial to have a competitive search'
-p2433
-aS'engine that is transparent and in the academic realm."'
-p2434
-aS'Now, the two researchers were Sergey Brin and Larry Page, and this was just months'
-p2435
-aS'before they launched Google as a for-profit entity. I think that version of them was'
-p2436
-aS'right. I think that the companies that increasingly control where and how we put'
-p2437
-aS'information online have mixed motives. And the motives that they use in creating these'
-p2438
-aS'filters may not be, and in fact arent in our best interests. Theyre more likely to'
-p2439
-aS'surround us with voices that tell us that were great and were right and were good'
-p2440
-aS'enough and strong enough. And theyre less likely to confront us with the places where'
-p2441
-aS'were wrong. Whats been interesting for me since writing the book is that Ive actually'
-p2442
-aS'been invited to come talk with engineers at all of these companies, Amazon, Apple,'
-p2443
-aS'Google, YouTube, and Facebook. Ive had conversations with people in each of those'
-p2444
-aS'places. And its sort of funny for me to hear people try to suggest that it isnt a big part'
-p2445
-aS'of what these companies are trying to do. The engineers know that it is.'
-p2446
-aS'They wrestle with it every day. They wrestle with the mixed motives, with these'
-p2447
-aS'questions of how they should be building these platforms. And they know as one Netflix'
-p2448
-aS'vice president told me, that they can easily end up trapping people in these bubbles'
-p2449
-aS'where they tend to believe the same thing. So if you believe that the companies whose'
-p2450
-aS'algorithms decide what we pay attention to, will tend to expose us to a broad diverse'
-p2451
-aS'set of sources, you should vote with them. But if you agree with me that we should'
-p2452
-aS'scrutinize that, and that these commercial interests will tend to use that power to'
-p2453
-aS'placate people rather than exposing them to more broad senses of view, then you'
-p2454
-aS'should vote that the internet has in fact, unfortunately, been closing our minds.'
-p2455
-asg16
-(dp2456
-I17
-S'20:22:44'
-p2457
-sI5
+p3431
+ssg16
+(lp3432
+S'So I want to read you a quote from two Stanford researchers from 1997.'
+p3433
+aS'They said, "We expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers.'
+p3434
+aS'We believe that the issue of advertising causes enough mixed incentives that its crucial to have a competitive search engine that is transparent and in the academic realm.'
+p3435
+aS'" Now, the two researchers were Sergey Brin and Larry Page, and this was just months before they launched Google as a for-profit entity.'
+p3436
+aS'I think that version of them was right.'
+p3437
+aS'I think that the companies that increasingly control where and how we put information online have mixed motives.'
+p3438
+aS'And the motives that they use in creating these filters may not be, and in fact arent in our best interests.'
+p3439
+aS'Theyre more likely to surround us with voices that tell us that were great and were right and were good enough and strong enough.'
+p3440
+aS'And theyre less likely to confront us with the places where were wrong.'
+p3441
+aS'Whats been interesting for me since writing the book is that Ive actually been invited to come talk with engineers at all of these companies, Amazon, Apple, Google, YouTube, and Facebook.'
+p3442
+aS'Ive had conversations with people in each of those places.'
+p3443
+aS'And its sort of funny for me to hear people try to suggest that it isnt a big part of what these companies are trying to do.'
+p3444
+aS'The engineers know that it is.'
+p3445
+aS'They wrestle with it every day.'
+p3446
+aS'They wrestle with the mixed motives, with these questions of how they should be building these platforms.'
+p3447
+aS'And they know as one Netflix vice president told me, that they can easily end up trapping people in these bubbles where they tend to believe the same thing.'
+p3448
+aS'So if you believe that the companies whose algorithms decide what we pay attention to, will tend to expose us to a broad diverse set of sources, you should vote with them.'
+p3449
+aS'But if you agree with me that we should scrutinize that, and that these commercial interests will tend to use that power to placate people rather than exposing them to more broad senses of view, then you should vote that the internet has in fact, unfortunately, been closing our minds.'
+p3450
+asg18
+(dp3451
 S'20:21:47'
-p2458
-ssa(dp2459
-g20
-(dp2460
+p3452
+I5
+sS'20:22:44'
+p3453
+I17
+ssa(dp3454
+g22
+(dp3455
 I1
 S'[applause]'
-p2461
+p3456
 ssg8
+(lp3457
+S'Thank you Eli Pariser.This is our motion.'
+p3458
+aS'"When it comes to politics, the internet is closing our minds.'
+p3459
+aS'" And [[applause]] here to summarize his position against the motion, Evgeny Morozov, author of The NetDelusion, visiting scholar at Stanford and Schwartz Fellow at the New AmericaFoundation.'
+p3460
+asg11
 S'JOHN DONVAN'
-p2462
-sg13
-(lp2463
+p3461
+sg16
+(lp3462
 S'Thank you Eli Pariser.'
-p2464
-aS'This is our motion. "When it comes to politics, the internet is closing our minds." And'
-p2465
-aS'here to summarize his position against the motion, Evgeny Morozov, author of The Net'
-p2466
-aS'Delusion, visiting scholar at Stanford and Schwartz Fellow at the New America'
-p2467
-aS'Foundation.'
-p2468
-asg16
-(dp2469
-I5
+p3463
+aS'This is our motion.'
+p3464
+aS'"When it comes to politics, the internet is closing our minds.'
+p3465
+aS'" And here to summarize his position against the motion, Evgeny Morozov, author of The Net Delusion, visiting scholar at Stanford and Schwartz Fellow at the New America Foundation.'
+p3466
+asg18
+(dp3467
 S'20:23:45'
-p2470
-ssa(dp2471
+p3468
+I5
+ssa(dp3469
 g8
+(lp3470
+S'Well I wish that Don Draper had a chance to respond to that 1997 paper from Google.Again, you may think that advertising is evil, but again, advertising is the kind of evilthats also inevitable.'
+p3471
+aS'So Eli has mostly avoided the whats to be done question.'
+p3472
+aS'In hisbook, he actually is much more I think straightforward.'
+p3473
+aS'And he does want Google andFacebook to intervene and to expose us to more diverse information.'
+p3474
+aS'More diverseinformation diet even, that you are normally up for.'
+p3475
+aS'This second attempt is an utopiandream that is not realizable in practice.'
+p3476
+aS'Do we really want Facebook and Google to startnudging us to pay more attention to Joseph Kony in Uganda when we are searching forinformation about our local city council?'
+p3477
+aS'Okay, but then why pay more attention toJoseph Kony and say not climate change, or Syria?'
+p3478
+aS'Who will adjudicate here?'
+p3479
+aS'Do wereally think that Silicon Valley is capable of this?'
+p3480
+aS'Do we really think Silicon Valley shouldbe in this business?Again, you have to think about the proposed solution.'
+p3481
+aS'Often theyre worse than thecure.'
+p3482
+aS'Dont forget, that in 1995, in that article in The Nation, Andrew Shapiro proposedthat the government should re-nationalize the internet, to bring it back to avoid all thatadvertising evil that youve just alluded to.'
+p3483
+aS'Cass Sunstein in his book, wanted to force,by government, bloggers to link to their ideological opponents.'
+p3484
+aS'He wanted them,conservatives to link to liberals, and liberals to link to conservatives.'
+p3485
+aS'All of those ideasnow seem very ridiculous.'
+p3486
+aS'And thats what I think we will think about the idea thatGoogle and Facebook should be in the business of actually preserving us and presentingus with a more diverse information diet.'
+p3487
+aS'Information is not like food.'
+p3488
+aS'Politics is not likefood.'
+p3489
+aS'Diversity here is a very political matter that will not be settled very easily.Ideological conflict here is inevitable and I think this is why you should vote against thisproposition.The sooner we do it, the sooner we can start attacking more important threats likeprivacy.'
+p3490
+asg11
 S'EVGENY MOROZOV'
-p2472
-sg10
-(dp2473
+p3491
+sg13
+(dp3492
 I12
 S'54'
-p2474
-ssg13
-(lp2475
+p3493
+ssg16
+(lp3494
 S'Well I wish that Don Draper had a chance to respond to that 1997 paper from Google.'
-p2476
-aS'Again, you may think that advertising is evil, but again, advertising is the kind of evil'
-p2477
-aS'thats also inevitable. So Eli has mostly avoided the whats to be done question. In his'
-p2478
-aS'book, he actually is much more I think straightforward. And he does want Google and'
-p2479
-aS'Facebook to intervene and to expose us to more diverse information. More diverse'
-p2480
-aS'information diet even, that you are normally up for. This second attempt is an utopian'
-p2481
-aS'dream that is not realizable in practice. Do we really want Facebook and Google to start'
-p2482
-aS'nudging us to pay more attention to Joseph Kony in Uganda when we are searching for'
-p2483
-aS'information about our local city council? Okay, but then why pay more attention to'
-p2484
-aS'Joseph Kony and say not climate change, or Syria? Who will adjudicate here? Do we'
-p2485
-aS'really think that Silicon Valley is capable of this? Do we really think Silicon Valley should'
-p2486
-aS'be in this business?'
-p2487
-aS'Again, you have to think about the proposed solution. Often theyre worse than the'
-p2488
-aS'cure. Dont forget, that in 1995, in that article in The Nation, Andrew Shapiro proposed'
-p2489
-aS'that the government should re-nationalize the internet, to bring it back to avoid all that'
-p2490
-aS'advertising evil that youve just alluded to. Cass Sunstein in his book, wanted to force,'
-p2491
-aS'by government, bloggers to link to their ideological opponents. He wanted them,'
-p2492
-aS'conservatives to link to liberals, and liberals to link to conservatives. All of those ideas'
-p2493
-aS'now seem very ridiculous. And thats what I think we will think about the idea that'
-p2494
-aS'Google and Facebook should be in the business of actually preserving us and presenting'
-p2495
-aS'us with a more diverse information diet. Information is not like food. Politics is not like'
-p2496
-aS'food. Diversity here is a very political matter that will not be settled very easily.'
-p2497
-aS'Ideological conflict here is inevitable and I think this is why you should vote against this'
-p2498
-aS'proposition.'
-p2499
-aS'The sooner we do it, the sooner we can start attacking more important threats like'
-p2500
-aS'privacy.'
-p2501
-asg16
-(dp2502
-I24
-S'20:25:42'
-p2503
-sI12
+p3495
+aS'Again, you may think that advertising is evil, but again, advertising is the kind of evil thats also inevitable.'
+p3496
+aS'So Eli has mostly avoided the whats to be done question.'
+p3497
+aS'In his book, he actually is much more I think straightforward.'
+p3498
+aS'And he does want Google and Facebook to intervene and to expose us to more diverse information.'
+p3499
+aS'More diverse information diet even, that you are normally up for.'
+p3500
+aS'This second attempt is an utopian dream that is not realizable in practice.'
+p3501
+aS'Do we really want Facebook and Google to start nudging us to pay more attention to Joseph Kony in Uganda when we are searching for information about our local city council?'
+p3502
+aS'Okay, but then why pay more attention to Joseph Kony and say not climate change, or Syria?'
+p3503
+aS'Who will adjudicate here?'
+p3504
+aS'Do we really think that Silicon Valley is capable of this?'
+p3505
+aS'Do we really think Silicon Valley should be in this business?'
+p3506
+aS'Again, you have to think about the proposed solution.'
+p3507
+aS'Often theyre worse than the cure.'
+p3508
+aS'Dont forget, that in 1995, in that article in The Nation, Andrew Shapiro proposed that the government should re-nationalize the internet, to bring it back to avoid all that advertising evil that youve just alluded to.'
+p3509
+aS'Cass Sunstein in his book, wanted to force, by government, bloggers to link to their ideological opponents.'
+p3510
+aS'He wanted them, conservatives to link to liberals, and liberals to link to conservatives.'
+p3511
+aS'All of those ideas now seem very ridiculous.'
+p3512
+aS'And thats what I think we will think about the idea that Google and Facebook should be in the business of actually preserving us and presenting us with a more diverse information diet.'
+p3513
+aS'Information is not like food.'
+p3514
+aS'Politics is not like food.'
+p3515
+aS'Diversity here is a very political matter that will not be settled very easily.'
+p3516
+aS'Ideological conflict here is inevitable and I think this is why you should vote against this proposition.'
+p3517
+aS'The sooner we do it, the sooner we can start attacking more important threats like privacy.'
+p3518
+asg18
+(dp3519
 S'20:24:43'
-p2504
-ssa(dp2505
-g20
-(dp2506
+p3520
+I12
+sS'20:25:42'
+p3521
+I24
+ssa(dp3522
+g22
+(dp3523
 I1
 S'[applause]'
-p2507
+p3524
 ssg8
+(lp3525
+S'Thank you Evgeny Morozov.Our motion is "When it comes to politics, the internet is closing our minds.'
+p3526
+aS'" And here to [[applause]] summarize his position for the motion, Siva Vaidhyanathan, chair of the University ofVirginia\'s department of media studies and author of the Googlization of everything.'
+p3527
+asg11
 S'JOHN DONVAN'
-p2508
-sg13
-(lp2509
+p3528
+sg16
+(lp3529
 S'Thank you Evgeny Morozov.'
-p2510
-aS'Our motion is "When it comes to politics, the internet is closing our minds." And here to'
-p2511
-aS'summarize his position for the motion, Siva Vaidhyanathan, chair of the University of'
-p2512
-aS"Virginia's department of media studies and author of the Googlization of everything."
-p2513
-asa(dp2514
+p3530
+aS'Our motion is "When it comes to politics, the internet is closing our minds.'
+p3531
+aS'" And here to summarize his position for the motion, Siva Vaidhyanathan, chair of the University of Virginia\'s department of media studies and author of the Googlization of everything.'
+p3532
+asa(dp3533
 g8
+(lp3534
+S'Evgeny has just done a great job to convince me that there is no virtue in the argumentsmade by people who are not me and not Eli and not made during this debate.'
+p3535
+aS'We havenot advocated a government takeover of anything.'
+p3536
+aS'We have not advocated any CassSunstein-type intervention.'
+p3537
+aS'We merely want you to be aware of the problem andcorrect for it.'
+p3538
+aS'Jacob said, what if we had a world without the web?'
+p3539
+aS'What if we had theworld without the web?'
+p3540
+aS'We might get there.'
+p3541
+aS"Let me tell you why, because Facebookand Google and Microsoft and Apple all wish to be the operating systems of our lives.They're explicit about this.They don't just want to be on the web because the web is 20 years old, and it's actuallykind of creaky."
+p3542
+aS'What they want to do is be there with you all the time in your glasses, inyour pocket, in your purse and on your mind always.'
+p3543
+aS'They want to be your personalassistant.'
+p3544
+aS"There's quote after quote after quote from every CEO of every one of thesecompanies that that's what they want."
+p3545
+aS'And it might make things really cool for us.'
+p3546
+aS"Butit's not going to make things rich and diverse."
+p3547
+aS"It's not going to be the wonderfulconversation that we could have had on the web if we hadn't instigated these gatedcommunities, these operating systems of our lives."
+p3548
+aS"We're on the way to having aBalkanized world and a Balkanized society because of these gated communities."
+p3549
+aS'Thefact is, nothing is determined here.'
+p3550
+aS'We can decide that we like what the web wassupposed to be.'
+p3551
+aS'We can opt out of certain of these practices.'
+p3552
+aS'We should encouragediversity, encourage other platforms.'
+p3553
+aS'We should encourage experimentation.'
+p3554
+aS'Weshould recognize that Facebook and Google and Yahoo!'
+p3555
+aS"and Bing and Apple andMicrosoft are designed to gratify us immediately.And that's great for pizza, but it's not for politics."
+p3556
+aS'Thank you very much.'
+p3557
+aS'Please vote forthe resolution.'
+p3558
+asg11
 S'SIVA VAIDHYANATHAN'
-p2515
-sg10
-(dp2516
+p3559
+sg13
+(dp3560
 I12
 S'55'
-p2517
-ssg13
-(lp2518
-S'Evgeny has just done a great job to convince me that there is no virtue in the arguments'
-p2519
-aS'made by people who are not me and not Eli and not made during this debate. We have'
-p2520
-aS'not advocated a government takeover of anything. We have not advocated any Cass'
-p2521
-aS'Sunstein-type intervention. We merely want you to be aware of the problem and'
-p2522
-aS'correct for it. Jacob said, what if we had a world without the web? What if we had the'
-p2523
-aS'world without the web? We might get there. Let me tell you why, because Facebook'
-p2524
-aS'and Google and Microsoft and Apple all wish to be the operating systems of our lives.'
-p2525
+p3561
+ssg16
+(lp3562
+S'Evgeny has just done a great job to convince me that there is no virtue in the arguments made by people who are not me and not Eli and not made during this debate.'
+p3563
+aS'We have not advocated a government takeover of anything.'
+p3564
+aS'We have not advocated any Cass Sunstein-type intervention.'
+p3565
+aS'We merely want you to be aware of the problem and correct for it.'
+p3566
+aS'Jacob said, what if we had a world without the web?'
+p3567
+aS'What if we had the world without the web?'
+p3568
+aS'We might get there.'
+p3569
+aS'Let me tell you why, because Facebook and Google and Microsoft and Apple all wish to be the operating systems of our lives.'
+p3570
 aS"They're explicit about this."
-p2526
-aS"They don't just want to be on the web because the web is 20 years old, and it's actually"
-p2527
-aS'kind of creaky. What they want to do is be there with you all the time in your glasses, in'
-p2528
-aS'your pocket, in your purse and on your mind always. They want to be your personal'
-p2529
-aS"assistant. There's quote after quote after quote from every CEO of every one of these"
-p2530
-aS"companies that that's what they want. And it might make things really cool for us. But"
-p2531
-aS"it's not going to make things rich and diverse. It's not going to be the wonderful"
-p2532
-aS"conversation that we could have had on the web if we hadn't instigated these gated"
-p2533
-aS"communities, these operating systems of our lives. We're on the way to having a"
-p2534
-aS'Balkanized world and a Balkanized society because of these gated communities. The'
-p2535
-aS'fact is, nothing is determined here. We can decide that we like what the web was'
-p2536
-aS'supposed to be. We can opt out of certain of these practices. We should encourage'
-p2537
-aS'diversity, encourage other platforms. We should encourage experimentation. We'
-p2538
-aS'should recognize that Facebook and Google and Yahoo! and Bing and Apple and'
-p2539
-aS'Microsoft are designed to gratify us immediately.'
-p2540
-aS"And that's great for pizza, but it's not for politics. Thank you very much. Please vote for"
-p2541
-aS'the resolution.'
-p2542
-asg16
-(dp2543
-I8
-S'20:26:40'
-p2544
-sI22
+p3571
+aS"They don't just want to be on the web because the web is 20 years old, and it's actually kind of creaky."
+p3572
+aS'What they want to do is be there with you all the time in your glasses, in your pocket, in your purse and on your mind always.'
+p3573
+aS'They want to be your personal assistant.'
+p3574
+aS"There's quote after quote after quote from every CEO of every one of these companies that that's what they want."
+p3575
+aS'And it might make things really cool for us.'
+p3576
+aS"But it's not going to make things rich and diverse."
+p3577
+aS"It's not going to be the wonderful conversation that we could have had on the web if we hadn't instigated these gated communities, these operating systems of our lives."
+p3578
+aS"We're on the way to having a Balkanized world and a Balkanized society because of these gated communities."
+p3579
+aS'The fact is, nothing is determined here.'
+p3580
+aS'We can decide that we like what the web was supposed to be.'
+p3581
+aS'We can opt out of certain of these practices.'
+p3582
+aS'We should encourage diversity, encourage other platforms.'
+p3583
+aS'We should encourage experimentation.'
+p3584
+aS'We should recognize that Facebook and Google and Yahoo!'
+p3585
+aS'and Bing and Apple and Microsoft are designed to gratify us immediately.'
+p3586
+aS"And that's great for pizza, but it's not for politics."
+p3587
+aS'Thank you very much.'
+p3588
+aS'Please vote for the resolution.'
+p3589
+asg18
+(dp3590
 S'20:27:49'
-p2545
+p3591
+I22
+sS'20:26:40'
+p3592
+I8
 ssasS'after'
-p2546
-(lp2547
+p3593
+(lp3594
 S'53%-FOR'
-p2548
+p3595
 aS'36%-AGAINST'
-p2549
+p3596
 aS'11%-UNDECIDED'
-p2550
+p3597
 asS'against'
-p2551
-(lp2552
+p3598
+(lp3599
 S'JACOB WEISBERG'
-p2553
+p3600
 aS'EVGENY MOROZOV'
-p2554
+p3601
 asS'moderator'
-p2555
-(lp2556
+p3602
+(lp3603
 S'JOHN DONVAN'
-p2557
+p3604
 asS'date'
-p2558
-(dp2559
+p3605
+(dp3606
 S'year'
-p2560
+p3607
 S'2012'
-p2561
+p3608
 sS'day'
-p2562
+p3609
 S'17'
-p2563
+p3610
 sS'month'
-p2564
+p3611
 S'April'
-p2565
+p3612
 ssS'before'
-p2566
-(lp2567
+p3613
+(lp3614
 S'28%-FOR'
-p2568
+p3615
 aS'37%-AGAINST'
-p2569
+p3616
 aS'35%-UNDECIDED'
-p2570
+p3617
 as.

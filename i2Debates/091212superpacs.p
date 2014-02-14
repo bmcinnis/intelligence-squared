@@ -10,4907 +10,6815 @@ asS'text'
 p5
 (lp6
 (dp7
-S'SPEAKER'
+S'FULL-TEXT'
 p8
-S'PREAMBLE'
-p9
-sS'PAGE'
+(lp9
+S''
 p10
-(dp11
+asS'SPEAKER'
+p11
+S'PREAMBLE'
+p12
+sS'PAGE'
+p13
+(dp14
 I0
 S'1'
-p12
+p15
 ssS'STATEMENT'
-p13
-(lp14
-sa(dp15
-g8
-S'TWO CHEERS FOR SUPER PACS'
 p16
-sg13
 (lp17
+g10
+asa(dp18
+g8
+(lp19
 S'Money in politics is still overregulated'
-p18
-asS'TIME'
-p19
-(dp20
-I1
-S'18:47:11'
+p20
+asg11
+S'TWO CHEERS FOR SUPER PACS'
 p21
-ssa(dp22
-S'BREAK'
+sg16
+(lp22
+g20
+asS'TIME'
 p23
 (dp24
+S'18:47:11'
+p25
+I1
+ssa(dp26
+S'BREAK'
+p27
+(dp28
 I2
 S'[applause]'
-p25
-ssg8
-S'JOHN DONVAN'
-p26
-sg13
-(lp27
-S'He is the chairman of the board of the Rosenkranz Foundation and Intelligence Squared'
-p28
-aS'U.S. Bob Rosenkranz.'
 p29
-aS'And what Bob does is a lot of study. We both do, before the debates, to really figure'
-p30
-aS"out the way that we want to frame this. And so Bob is going to do that for us. He's"
+ssg8
+(lp30
+S'He is the chairman of the board of the Rosenkranz Foundation and Intelligence SquaredU.S.'
 p31
-aS"going to talk us through what's at stake here and why we're talking about it now. So,"
+aS'Bob Rosenkranz.And what Bob does is a lot of study.'
 p32
-aS'Bob, why now? Why this debate now?'
+aS'We both do, before the debates, to really figure [[applause]] out the way that we want to frame this.'
 p33
-asa(dp34
-g8
-S'ROBERT ROSENKRANZ'
+aS'And so Bob is going to do that for us.'
+p34
+aS"He'sgoing to talk us through what's at stake here and why we're talking about it now."
 p35
-sg13
-(lp36
-S"Well, of course, this is election season, and we're all seeing the effects of huge amounts"
+aS'So,Bob, why now?'
+p36
+aS'Why this debate now?'
 p37
-aS'of money in politics. So this is really a debate that is timely and especially pertinent'
-p38
-aS'following the Supreme Court decision in Citizens United, which created the whole super'
-p39
-aS'PAC phenomenon.'
-p40
-asa(dp41
-g8
+asg11
 S'JOHN DONVAN'
+p38
+sg16
+(lp39
+S'He is the chairman of the board of the Rosenkranz Foundation and Intelligence Squared U.S. Bob Rosenkranz.'
+p40
+aS'And what Bob does is a lot of study.'
+p41
+aS'We both do, before the debates, to really figure out the way that we want to frame this.'
 p42
-sg10
-(dp43
-I1
-S'2'
+aS'And so Bob is going to do that for us.'
+p43
+aS"He's going to talk us through what's at stake here and why we're talking about it now."
 p44
-ssg13
-(lp45
-S'And is this a debate that really has two valid arguments on both sides?'
+aS'So, Bob, why now?'
+p45
+aS'Why this debate now?'
 p46
 asa(dp47
 g8
-S'ROBERT ROSENKRANZ'
-p48
-sg13
-(lp49
-S'I think it does.'
+(lp48
+S"Well, of course, this is election season, and we're all seeing the effects of huge amountsof money in politics."
+p49
+aS'So this is really a debate that is timely and especially pertinentfollowing the Supreme Court decision in Citizens United, which created the whole superPAC phenomenon.'
 p50
-asa(dp51
-g8
-S'JOHN DONVAN'
-p52
-sg13
-(lp53
-S"So the side that's cheering for super PACs, what do they have going for their argument?"
+asg11
+S'ROBERT ROSENKRANZ'
+p51
+sg16
+(lp52
+S"Well, of course, this is election season, and we're all seeing the effects of huge amounts of money in politics."
+p53
+aS'So this is really a debate that is timely and especially pertinent following the Supreme Court decision in Citizens United, which created the whole super PAC phenomenon.'
 p54
 asa(dp55
 g8
-S'ROBERT ROSENKRANZ'
-p56
-sg13
-(lp57
-S'The biggest thing they have going for their argument is the principle of free speech.'
+(lp56
+S'And is this a debate that really has two valid arguments on both sides?'
+p57
+asg11
+S'JOHN DONVAN'
 p58
-aS'In order for speech to be heard, it needs money behind it. And the most important kind'
-p59
-aS'of speech of all is political speech. And critical political speech is essential because'
-p60
-aS"otherwise Congress or the president could shut down speech that's critical."
-p61
-asg19
-(dp62
+sg13
+(dp59
 I1
-S'18:48:15'
-p63
-ssa(dp64
+S'2'
+p60
+ssg16
+(lp61
+g57
+asa(dp62
 g8
-S'JOHN DONVAN'
+(lp63
+S'I think it does.'
+p64
+asg11
+S'ROBERT ROSENKRANZ'
 p65
-sg13
+sg16
 (lp66
-S'And the side arguing against?'
-p67
-asa(dp68
+g64
+asa(dp67
 g8
-S'ROBERT ROSENKRANZ'
+(lp68
+S"So the side that's cheering for super PACs, what do they have going for their argument?"
 p69
-sg13
-(lp70
-S"Their best argument it seems to me, is that things have gotten out of hand. There's just"
-p71
-aS"too much damn money involved in politics, and we're drowning out the voices of people"
-p72
-aS"who can't be heard because they don't have access to money to get on the airwaves."
-p73
-asa(dp74
-g8
+asg11
 S'JOHN DONVAN'
-p75
-sg13
-(lp76
-S'And one thing the Citizens United decision changed in 2010 is increased participation by'
-p77
-aS'corporations and unions. How does that change the game?'
-p78
-asa(dp79
+p70
+sg16
+(lp71
+g69
+asa(dp72
 g8
+(lp73
+S'The biggest thing they have going for their argument is the principle of free speech.In order for speech to be heard, it needs money behind it.'
+p74
+aS'And the most important kindof speech of all is political speech.'
+p75
+aS"And critical political speech is essential becauseotherwise Congress or the president could shut down speech that's critical."
+p76
+asg11
 S'ROBERT ROSENKRANZ'
+p77
+sg16
+(lp78
+S'The biggest thing they have going for their argument is the principle of free speech.'
+p79
+aS'In order for speech to be heard, it needs money behind it.'
 p80
-sg13
-(lp81
-S'Well, I think that the unions have always been a source of very, very big money in'
+aS'And the most important kind of speech of all is political speech.'
+p81
+aS"And critical political speech is essential because otherwise Congress or the president could shut down speech that's critical."
 p82
-aS'politics and almost always on the Democratic side, probably 98 percent or so.'
-p83
-aS'Corporations, on the other hand, have been divided pretty equally between Democrats'
+asg23
+(dp83
+S'18:48:15'
 p84
-aS'and Republicans, in part because they want to hedge their bets, and in part because'
-p85
-aS"they don't want to offend any of their customers. So in some sense, this legislation --"
-p86
-aS"I'm sorry, court decision, really opens the door not so much for corporations but for"
+I1
+ssa(dp85
+g8
+(lp86
+S'And the side arguing against?'
 p87
-aS'wealthy individuals.'
+asg11
+S'JOHN DONVAN'
 p88
-asg19
-(dp89
-I2
+sg16
+(lp89
+g87
+asa(dp90
+g8
+(lp91
+S'Their best argument it seems to me, is that things have gotten out of hand.'
+p92
+aS"There's justtoo much damn money involved in politics, and we're drowning out the voices of peoplewho can't be heard because they don't have access to money to get on the airwaves."
+p93
+asg11
+S'ROBERT ROSENKRANZ'
+p94
+sg16
+(lp95
+S'Their best argument it seems to me, is that things have gotten out of hand.'
+p96
+aS"There's just too much damn money involved in politics, and we're drowning out the voices of people who can't be heard because they don't have access to money to get on the airwaves."
+p97
+asa(dp98
+g8
+(lp99
+S'And one thing the Citizens United decision changed in 2010 is increased participation bycorporations and unions.'
+p100
+aS'How does that change the game?'
+p101
+asg11
+S'JOHN DONVAN'
+p102
+sg16
+(lp103
+S'And one thing the Citizens United decision changed in 2010 is increased participation by corporations and unions.'
+p104
+aS'How does that change the game?'
+p105
+asa(dp106
+g8
+(lp107
+S"Well, I think that the unions have always been a source of very, very big money inpolitics and almost always on the Democratic side, probably 98 percent or so.Corporations, on the other hand, have been divided pretty equally between Democratsand Republicans, in part because they want to hedge their bets, and in part becausethey don't want to offend any of their customers."
+p108
+aS"So in some sense, this legislation --I'm sorry, court decision, really opens the door not so much for corporations but forwealthy individuals."
+p109
+asg11
+S'ROBERT ROSENKRANZ'
+p110
+sg16
+(lp111
+S'Well, I think that the unions have always been a source of very, very big money in politics and almost always on the Democratic side, probably 98 percent or so.'
+p112
+aS"Corporations, on the other hand, have been divided pretty equally between Democrats and Republicans, in part because they want to hedge their bets, and in part because they don't want to offend any of their customers."
+p113
+aS"So in some sense, this legislation -- I'm sorry, court decision, really opens the door not so much for corporations but for wealthy individuals."
+p114
+asg23
+(dp115
 S'18:49:17'
-p90
-ssa(dp91
-g23
-(dp92
+p116
+I2
+ssa(dp117
+g27
+(dp118
 I2
 S'[applause]'
-p93
+p119
 sI4
 S'[applause]'
-p94
+p120
 sI17
 S'[applause]'
-p95
+p121
 sI18
 S'[applause]'
-p96
+p122
 sI20
 S'[applause]'
-p97
+p123
 sI22
 S'[applause]'
-p98
+p124
 sI27
 S'[applause]'
-p99
-ssg8
+p125
+ssg11
 S'JOHN DONVAN'
-p100
-sg10
-(dp101
+p126
+sg16
+(lp127
+S'All right, Bob, thank you very much again for making this event happen.'
+p128
+aS"And now let's welcome our debaters to the stage, everybody."
+p129
+aS'Okay.'
+p130
+aS'Thank you.'
+p131
+aS'And I just would like to invite one more round of applause for Bob Rosenkranz for making this possible.'
+p132
+aS'Deep and durable and well-known by all of us is the influence and place of money in American politics.'
+p133
+aS'If you go to that famous quip by one of the all-time politicos of American history, Mark Hanna, an Ohio Republican, this is what he said: "There are two things that are important in politics.'
+p134
+aS'The first is money.'
+p135
+aS"And I can't remember what the second one is."
+p136
+aS'" Hanna died in 1904.'
+p137
+aS'He did not have super PACs.'
+p138
+aS'But we do, and we have a debate.'
+p139
+aS'"Two Cheers for Super PACs: Money and Politics is Still Overregulated," that is our motion.'
+p140
+aS"I'm John Donovan, a debate from Intelligence Squared U.S., four superbly qualified debaters, two against two, all of whom have grappled with the question of where money fits into a system that we refer to as democracy."
+p141
+aS'We debate, as always, in three rounds.'
+p142
+aS'Then the audience votes to choose the winner.'
+p143
+aS'And only one side wins.'
+p144
+aS"Let's meet our debaters."
+p145
+aS"Let's meet our debaters."
+p146
+aS'On the side for the motion, "Two Cheers for Super PACs," David Keating, president of the Center for Competitive Politics.'
+p147
+aS'Your partner is Jacob Sullum.'
+p148
+aS'He is a senior editor at Reason Magazine.'
+p149
+aS'On the side arguing against the motion, Trevor Potter.'
+p150
+aS'He is president and general counsel of the Campaign Legal Center.'
+p151
+aS'And your partner is Jonathan Soros.'
+p152
+aS'He is a senior fellow at the Roosevelt Institute and cofounder of Friends of Democracy.'
+p153
+aS"We're going to introduce our debaters once again in more depth for our television broadcasts."
+p154
+aS'And I know you just applauded your hearts out for them.'
+p155
+aS"But when I name them again, I'm going to ask you to do that one more time."
+p156
+aS'Thank you.'
+p157
+aS'Our motion is "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p158
+aS'" Let\'s meet our debaters and welcome first, David Keating.'
+p159
+aS'And, David, earlier this year, you became president of the Center for Competitive Politics.'
+p160
+aS'It represented a group that you also founded in a landmark case that was SpeechNow.org versus the Federal Election Committee.'
+p161
+aS'Citizens United gets most of the credit for the fact that we have super PACs.'
+p162
+aS'But without SpeechNow, we would not have them at all.'
+p163
+aS'And in addition to that involvement, you also spent a lot of time in your career working on tax policy.'
+p164
+aS'So the question is, which is the more twisted set of legislation: campaign finance or tax policy?'
+p165
+asg23
+(dp166
+S'18:51:12'
+p167
+I13
+sS'18:53:18'
+p168
+I34
+sS'18:52:20'
+p169
+I22
+sS'18:50:09'
+p170
+I2
+ssg8
+(lp171
+S'All right, Bob, thank you very much again for making this event happen.'
+p172
+aS"And now let'swelcome our debaters to the stage, everybody.Okay."
+p173
+aS'Thank you.'
+p174
+aS'And I just would like to invite one more round of applause for Bob [[applause]] Rosenkranz for making this possible.Deep and durable and well-known by all of us is the influence and place of money in [[applause]] American politics.'
+p175
+aS'If you go to that famous quip by one of the all-time politicos ofAmerican history, Mark Hanna, an Ohio Republican, this is what he said: "There are twothings that are important in politics.'
+p176
+aS'The first is money.'
+p177
+aS"And I can't remember what thesecond one is."
+p178
+aS'" Hanna died in 1904.'
+p179
+aS'He did not have super PACs.'
+p180
+aS'But we do, and wehave a debate.'
+p181
+aS'"Two Cheers for Super PACs: Money and Politics is Still Overregulated,"that is our motion.'
+p182
+aS"I'm John Donovan, a debate from Intelligence Squared U.S., foursuperbly qualified debaters, two against two, all of whom have grappled with thequestion of where money fits into a system that we refer to as democracy.We debate, as always, in three rounds."
+p183
+aS'Then the audience votes to choose the winner.And only one side wins.'
+p184
+aS"Let's meet our debaters."
+p185
+aS"Let's meet our debaters."
+p186
+aS'On the sidefor the motion, "Two Cheers for Super PACs," David Keating, president of the Center forCompetitive Politics.Your partner is Jacob Sullum.'
+p187
+aS'He is a senior editor at Reason Magazine.'
+p188
+aS'[[applause]] On the side arguing against the motion, Trevor Potter.'
+p189
+aS'He is president and general [[applause]] counsel of the Campaign Legal Center.And your partner is Jonathan Soros.'
+p190
+aS"He is a senior fellow at the Roosevelt Institute and [[applause]] cofounder of Friends of Democracy.We're going to introduce our debaters once again in more depth for our television [[applause]] broadcasts."
+p191
+aS'And I know you just applauded your hearts out for them.'
+p192
+aS"But when I namethem again, I'm going to ask you to do that one more time."
+p193
+aS'Thank you.'
+p194
+aS'Our motion is"Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p195
+aS'" Let\'s meet ourdebaters and welcome first, David Keating.And, David, earlier this year, you became president of the Center for Competitive [[applause]] Politics.'
+p196
+aS'It represented a group that you also founded in a landmark case that wasSpeechNow.org versus the Federal Election Committee.'
+p197
+aS'Citizens United gets most ofthe credit for the fact that we have super PACs.'
+p198
+aS'But without SpeechNow, we would nothave them at all.'
+p199
+aS'And in addition to that involvement, you also spent a lot of time inyour career working on tax policy.'
+p200
+aS'So the question is, which is the more twisted set oflegislation: campaign finance or tax policy?'
+p201
+asg13
+(dp202
 I2
 S'3'
-p102
+p203
 sI22
 S'4'
-p103
-ssg13
-(lp104
-S"All right, Bob, thank you very much again for making this event happen. And now let's"
-p105
-aS'welcome our debaters to the stage, everybody.'
-p106
-aS'Okay. Thank you. And I just would like to invite one more round of applause for Bob'
-p107
-aS'Rosenkranz for making this possible.'
-p108
-aS'Deep and durable and well-known by all of us is the influence and place of money in'
-p109
-aS'American politics. If you go to that famous quip by one of the all-time politicos of'
-p110
-aS'American history, Mark Hanna, an Ohio Republican, this is what he said: "There are two'
-p111
-aS"things that are important in politics. The first is money. And I can't remember what the"
-p112
-aS'second one is." Hanna died in 1904. He did not have super PACs. But we do, and we'
-p113
-aS'have a debate. "Two Cheers for Super PACs: Money and Politics is Still Overregulated,"'
-p114
-aS"that is our motion. I'm John Donovan, a debate from Intelligence Squared U.S., four"
-p115
-aS'superbly qualified debaters, two against two, all of whom have grappled with the'
-p116
-aS'question of where money fits into a system that we refer to as democracy.'
-p117
-aS'We debate, as always, in three rounds. Then the audience votes to choose the winner.'
-p118
-aS"And only one side wins. Let's meet our debaters. Let's meet our debaters. On the side"
-p119
-aS'for the motion, "Two Cheers for Super PACs," David Keating, president of the Center for'
-p120
-aS'Competitive Politics.'
-p121
-aS'Your partner is Jacob Sullum. He is a senior editor at Reason Magazine.'
-p122
-aS'On the side arguing against the motion, Trevor Potter. He is president and general'
-p123
-aS'counsel of the Campaign Legal Center.'
-p124
-aS'And your partner is Jonathan Soros. He is a senior fellow at the Roosevelt Institute and'
-p125
-aS'cofounder of Friends of Democracy.'
-p126
-aS"We're going to introduce our debaters once again in more depth for our television"
-p127
-aS'broadcasts. And I know you just applauded your hearts out for them. But when I name'
-p128
-aS"them again, I'm going to ask you to do that one more time. Thank you. Our motion is"
-p129
-aS'"Two Cheers for Super PACs: Money in Politics is Still Overregulated." Let\'s meet our'
-p130
-aS'debaters and welcome first, David Keating.'
-p131
-aS'And, David, earlier this year, you became president of the Center for Competitive'
-p132
-aS'Politics. It represented a group that you also founded in a landmark case that was'
-p133
-aS'SpeechNow.org versus the Federal Election Committee. Citizens United gets most of'
-p134
-aS'the credit for the fact that we have super PACs. But without SpeechNow, we would not'
-p135
-aS'have them at all. And in addition to that involvement, you also spent a lot of time in'
-p136
-aS'your career working on tax policy. So the question is, which is the more twisted set of'
-p137
-aS'legislation: campaign finance or tax policy?'
-p138
-asg19
-(dp139
-I2
-S'18:50:09'
-p140
-sI34
-S'18:53:18'
-p141
-sI13
-S'18:51:12'
-p142
-sI22
-S'18:52:20'
-p143
-ssa(dp144
-g23
-(dp145
-I1
-S'[laughter]'
-p146
-ssg8
-S'DAVID KEATING'
-p147
-sg13
-(lp148
-S"Well, that's simple. The election laws. The tax laws are a model of clarity and simplicity."
-p149
-asa(dp150
-g8
-S'JOHN DONVAN'
-p151
-sg13
-(lp152
-S'By comparison.'
-p153
-asa(dp154
-g8
-S'DAVID KEATING'
-p155
-sg13
-(lp156
-S'Yes. And the IRS is reasonable compared to the Federal Election Committee.'
-p157
-asa(dp158
-g23
-(dp159
-I2
-S'[applause]'
-p160
-ssg8
-S'JOHN DONVAN'
-p161
-sg13
-(lp162
-S'All right. Thank you, David Keating. Your partner, arguing for the motion, "Two cheers'
-p163
-aS'for super PACs," Jacob Sullum.'
-p164
-aS'Jacob, you are a senior editor at Reason magazine where the motto is "free minds and'
-p165
-aS'free markets." You are also the author of "Saying Yes: In Defense of Drug Use." Jacob,'
-p166
-aS'you graduated from Cornell University where you majored in both economics and'
-p167
-aS'psychology, psych and ec. And the question is, is that what equals a libertarian?'
-p168
-asa(dp169
-g23
-(dp170
-I1
-S'[laughter]'
-p171
-ssg8
-S'JACOB SULLUM'
-p172
-sg10
-(dp173
-I1
-S'5'
-p174
-ssg13
-(lp175
-S'I did learn a lot about politicians in my abnormal psych course.'
-p176
-asg19
-(dp177
-I1
-S'18:54:13'
-p178
-ssa(dp179
-g23
-(dp180
-I2
-S'[applause]'
-p181
-sI6
-S'[applause]'
-p182
-ssg8
-S'JOHN DONVAN'
-p183
-sg13
-(lp184
-S'All right. Our motion is "Two Cheers for Super PACs: Money and Politics is Still'
-p185
-aS'Overregulated." Here arguing against the motion first, Trevor Potter.'
-p186
-aS'Trevor, you are president and general counsel of the Campaign Legal Center and a'
-p187
-aS'former commissioner and chairman of the federal election commission. But you may'
-p188
-aS"also know Trevor as the man behind Steven Colbert's super PAC, Americans for a Better"
-p189
-aS'Tomorrow Tomorrow.'
-p190
-aS"You are an attorney, and you've advised several Republican presidential candidates. So"
-p191
-aS'how did you end up on comedy central?'
-p192
-asa(dp193
-g8
-S'TREVOR POTTER'
-p194
-sg13
-(lp195
-S'I answered my phone.'
-p196
-asa(dp197
-g8
-S'JOHN DONVAN'
-p198
-sg13
-(lp199
-S'Easy enough. It could have been a pollster.'
-p200
-asa(dp201
-g8
-S'TREVOR POTTER'
-p202
-sg13
-(lp203
-S'Steven Colbert called, said, "Can you explain what a Pac is?" I laid it out, explained how'
 p204
-aS'to game the system. He said, "Are you willing to say that in public?"'
-p205
-asa(dp206
-g23
-(dp207
-I2
-S'[applause]'
-p208
-sI7
+ssa(dp205
+g27
+(dp206
+I1
 S'[laughter]'
-p209
+p207
 ssg8
-S'JOHN DONVAN'
+(lp208
+S"Well, that's simple."
+p209
+aS'The election laws.'
 p210
-sg10
-(dp211
-I7
-S'6'
+aS'The tax laws are a model of clarity and simplicity.'
+p211
+asg11
+S'DAVID KEATING'
 p212
-ssg13
+sg16
 (lp213
-S"All right, I -- thanks, Trevor Potter. And let's meet your partner, also arguing against"
+S"Well, that's simple."
 p214
-aS'super PACs, Jonathan Soros.'
+aS'The election laws.'
 p215
-aS'Jonathan, you are a senior fellow at the Roosevelt Institute and CEO of JS Capital'
+aS'The tax laws are a model of clarity and simplicity.'
 p216
-aS'Management.'
-p217
-aS'You are also one of the cofounders of Friends of Democracy. And a Washington Post'
-p218
-aS'headline about this says it all: "Son of liberal financier George Soros launches anti-super'
-p219
-aS'PAC super PAC."'
-p220
-aS'So how does that work?'
-p221
-asg19
-(dp222
-I4
-S'18:55:19'
-p223
-ssa(dp224
+asa(dp217
 g8
-S'JONATHAN SOROS'
+(lp218
+S'By comparison.'
+p219
+asg11
+S'JOHN DONVAN'
+p220
+sg16
+(lp221
+g219
+asa(dp222
+g8
+(lp223
+S'Yes.'
+p224
+aS'And the IRS is reasonable compared to the Federal Election Committee.'
 p225
-sg13
-(lp226
-S"Well, we're never going to change any of these rules unless we can build some political"
-p227
-aS'power to do so. And right now both political parties are locked into the status quo. And'
+asg11
+S'DAVID KEATING'
+p226
+sg16
+(lp227
+S'Yes.'
 p228
-aS'so the only way to do so is from the outside.'
+aS'And the IRS is reasonable compared to the Federal Election Committee.'
 p229
 asa(dp230
-g23
+g27
 (dp231
 I2
 S'[applause]'
 p232
+ssg8
+(lp233
+S'All right.'
+p234
+aS'Thank you, David Keating.'
+p235
+aS'Your partner, arguing for the motion, "Two cheersfor super PACs," Jacob Sullum.Jacob, you are a senior editor at Reason magazine where the motto is "free minds and [[applause]] free markets.'
+p236
+aS'" You are also the author of "Saying Yes: In Defense of Drug Use.'
+p237
+aS'" Jacob,you graduated from Cornell University where you majored in both economics andpsychology, psych and ec.'
+p238
+aS'And the question is, is that what equals a libertarian?'
+p239
+asg11
+S'JOHN DONVAN'
+p240
+sg16
+(lp241
+S'All right.'
+p242
+aS'Thank you, David Keating.'
+p243
+aS'Your partner, arguing for the motion, "Two cheers for super PACs," Jacob Sullum.'
+p244
+aS'Jacob, you are a senior editor at Reason magazine where the motto is "free minds and free markets.'
+p245
+aS'" You are also the author of "Saying Yes: In Defense of Drug Use.'
+p246
+aS'" Jacob, you graduated from Cornell University where you majored in both economics and psychology, psych and ec.'
+p247
+aS'And the question is, is that what equals a libertarian?'
+p248
+asa(dp249
+g27
+(dp250
+I1
+S'[laughter]'
+p251
+ssg11
+S'JACOB SULLUM'
+p252
+sg16
+(lp253
+S'I did learn a lot about politicians in my abnormal psych course.'
+p254
+asg23
+(dp255
+S'18:54:13'
+p256
+I1
+ssg8
+(lp257
+g254
+asg13
+(dp258
+I1
+S'5'
+p259
+ssa(dp260
+g27
+(dp261
+I2
+S'[applause]'
+p262
+sI6
+S'[applause]'
+p263
+ssg8
+(lp264
+S'All right.'
+p265
+aS'Our motion is "Two Cheers for Super PACs: Money and Politics is StillOverregulated.'
+p266
+aS'" Here arguing against the motion first, Trevor Potter.Trevor, you are president and general counsel of the Campaign Legal Center and a [[applause]] former commissioner and chairman of the federal election commission.'
+p267
+aS"But you mayalso know Trevor as the man behind Steven Colbert's super PAC, Americans for a BetterTomorrow Tomorrow.You are an attorney, and you've advised several Republican presidential candidates."
+p268
+aS'So [[applause]] how did you end up on comedy central?'
+p269
+asg11
+S'JOHN DONVAN'
+p270
+sg16
+(lp271
+S'All right.'
+p272
+aS'Our motion is "Two Cheers for Super PACs: Money and Politics is Still Overregulated.'
+p273
+aS'" Here arguing against the motion first, Trevor Potter.'
+p274
+aS'Trevor, you are president and general counsel of the Campaign Legal Center and a former commissioner and chairman of the federal election commission.'
+p275
+aS"But you may also know Trevor as the man behind Steven Colbert's super PAC, Americans for a Better Tomorrow Tomorrow."
+p276
+aS"You are an attorney, and you've advised several Republican presidential candidates."
+p277
+aS'So how did you end up on comedy central?'
+p278
+asa(dp279
+g8
+(lp280
+S'I answered my phone.'
+p281
+asg11
+S'TREVOR POTTER'
+p282
+sg16
+(lp283
+g281
+asa(dp284
+g8
+(lp285
+S'Easy enough.'
+p286
+aS'It could have been a pollster.'
+p287
+asg11
+S'JOHN DONVAN'
+p288
+sg16
+(lp289
+S'Easy enough.'
+p290
+aS'It could have been a pollster.'
+p291
+asa(dp292
+g8
+(lp293
+S'Steven Colbert called, said, "Can you explain what a Pac is?'
+p294
+aS'" I laid it out, explained howto game the system.'
+p295
+aS'He said, "Are you willing to say that in public?'
+p296
+aS'"'
+p297
+asg11
+S'TREVOR POTTER'
+p298
+sg16
+(lp299
+S'Steven Colbert called, said, "Can you explain what a Pac is?'
+p300
+aS'" I laid it out, explained how to game the system.'
+p301
+aS'He said, "Are you willing to say that in public?'
+p302
+ag297
+asa(dp303
+g27
+(dp304
+I2
+S'[applause]'
+p305
+sI7
+S'[laughter]'
+p306
+ssg11
+S'JOHN DONVAN'
+p307
+sg16
+(lp308
+S'All right, I -- thanks, Trevor Potter.'
+p309
+aS"And let's meet your partner, also arguing against super PACs, Jonathan Soros."
+p310
+aS'Jonathan, you are a senior fellow at the Roosevelt Institute and CEO of JS Capital Management.'
+p311
+aS'You are also one of the cofounders of Friends of Democracy.'
+p312
+aS'And a Washington Post headline about this says it all: "Son of liberal financier George Soros launches anti-super PAC super PAC.'
+p313
+aS'" So how does that work?'
+p314
+asg23
+(dp315
+S'18:55:19'
+p316
+I4
+ssg8
+(lp317
+S'All right, I -- thanks, Trevor Potter.'
+p318
+aS"And let's meet your partner, also arguing againstsuper PACs, Jonathan Soros.Jonathan, you are a senior fellow at the Roosevelt Institute and CEO of JS Capital [[applause]] Management.You are also one of the cofounders of Friends of Democracy."
+p319
+aS'And a Washington Postheadline about this says it all: "Son of liberal financier George Soros launches anti-superPAC super PAC.'
+p320
+aS'"So how does that work?'
+p321
+aS'[[laughter]] '
+p322
+asg13
+(dp323
+I7
+S'6'
+p324
+ssa(dp325
+g8
+(lp326
+S"Well, we're never going to change any of these rules unless we can build some politicalpower to do so."
+p327
+aS'And right now both political parties are locked into the status quo.'
+p328
+aS'Andso the only way to do so is from the outside.'
+p329
+asg11
+S'JONATHAN SOROS'
+p330
+sg16
+(lp331
+S"Well, we're never going to change any of these rules unless we can build some political power to do so."
+p332
+aS'And right now both political parties are locked into the status quo.'
+p333
+aS'And so the only way to do so is from the outside.'
+p334
+asa(dp335
+g27
+(dp336
+I2
+S'[applause]'
+p337
 sI23
 S'[applause]'
-p233
-ssg8
+p338
+ssg11
 S'JOHN DONVAN'
-p234
-sg10
-(dp235
+p339
+sg16
+(lp340
+S'So working from the inside.'
+p341
+aS'All right, thank you.'
+p342
+aS'Ladies and gentlemen, our team of debaters.'
+p343
+aS'Now, this is a debate.'
+p344
+aS"It's a contest."
+p345
+aS'One side will win, and one side will lose.'
+p346
+aS'And in that debate, you, our audience, our live audience, act as the judges.'
+p347
+aS'By the time the debate is ended, you will have been asked to vote twice; once before the arguments and once again at the end.'
+p348
+aS'And the team whose numbers have moved your position, your vote on this proposition, the greatest, will be declared our winner.'
+p349
+aS"So let's register your first vote."
+p350
+aS'Go to the key pads at your seat.'
+p351
+aS'On the right hand side, and the numbers one, two and three are the only ones you need to worry about.'
+p352
+aS'Our motion is "Two Cheers for Super PACs: Money and Politics is Still Overregulated.'
+p353
+aS'" And if you agree with this motion, push number one.'
+p354
+aS'If you disagree, push number two.'
+p355
+aS"And if you're undecided, push number three."
+p356
+aS'You can ignore the other numbers.'
+p357
+aS"They're not live."
+p358
+aS'And if you make a mistake, just correct yourself, and the system will lock in your last vote.'
+p359
+aS"And what we're going to do is hold that vote until the end of the debate when you vote the second time."
+p360
+aS"And then we'll reveal both numbers."
+p361
+aS'And the team whose numbers have moved the most on this motion will be declared our winner.'
+p362
+aS'So onto round one, opening statements from each of our debaters in turn.'
+p363
+aS'They will be seven minutes each.'
+p364
+aS'And speaking first up for the motion, "Two Cheers for Super PACs: Money and Politics is Still Overregulated," David Keating.'
+p365
+aS'He is president of the Center for Competitive Politics.'
+p366
+aS'Before this, he was executive director of the Club for Growth and president of SpeechNow.org, an organization that he founded to protect free political speech.'
+p367
+aS'Ladies and gentlemen, David Keating.'
+p368
+asg23
+(dp369
+S'18:57:10'
+p370
+I18
+sS'18:56:16'
+p371
+I7
+ssg8
+(lp372
+S'So working from the inside.'
+p373
+aS'All right, thank you.'
+p374
+aS'Ladies and gentlemen, our team ofdebaters.Now, this is a debate.'
+p375
+aS"It's a contest."
+p376
+aS'One side will win, and one side will lose.'
+p377
+aS'And in [[applause]] that debate, you, our audience, our live audience, act as the judges.'
+p378
+aS'By the time thedebate is ended, you will have been asked to vote twice; once before the argumentsand once again at the end.'
+p379
+aS"And the team whose numbers have moved your position,your vote on this proposition, the greatest, will be declared our winner.So let's register your first vote."
+p380
+aS'Go to the key pads at your seat.'
+p381
+aS'On the right hand side,and the numbers one, two and three are the only ones you need to worry about.'
+p382
+aS'Ourmotion is "Two Cheers for Super PACs: Money and Politics is Still Overregulated.'
+p383
+aS'" And ifyou agree with this motion, push number one.'
+p384
+aS'If you disagree, push number two.'
+p385
+aS"Andif you're undecided, push number three."
+p386
+aS'You can ignore the other numbers.'
+p387
+aS"They'renot live."
+p388
+aS'And if you make a mistake, just correct yourself, and the system will lock inyour last vote.'
+p389
+aS"And what we're going to do is hold that vote until the end of the debatewhen you vote the second time."
+p390
+aS"And then we'll reveal both numbers."
+p391
+aS'And the teamwhose numbers have moved the most on this motion will be declared our winner.'
+p392
+aS'Soonto round one, opening statements from each of our debaters in turn.'
+p393
+aS'They will beseven minutes each.And speaking first up for the motion, "Two Cheers for Super PACs: Money and Politics isStill Overregulated," David Keating.'
+p394
+aS'He is president of the Center for CompetitivePolitics.'
+p395
+aS'Before this, he was executive director of the Club for Growth and president ofSpeechNow.org, an organization that he founded to protect free political speech.'
+p396
+aS'Ladiesand gentlemen, David Keating.'
+p397
+asg13
+(dp398
 I23
 S'7'
-p236
-ssg13
-(lp237
-S'So working from the inside. All right, thank you. Ladies and gentlemen, our team of'
-p238
-aS'debaters.'
-p239
-aS"Now, this is a debate. It's a contest. One side will win, and one side will lose. And in"
-p240
-aS'that debate, you, our audience, our live audience, act as the judges. By the time the'
-p241
-aS'debate is ended, you will have been asked to vote twice; once before the arguments'
-p242
-aS'and once again at the end. And the team whose numbers have moved your position,'
-p243
-aS'your vote on this proposition, the greatest, will be declared our winner.'
-p244
-aS"So let's register your first vote. Go to the key pads at your seat. On the right hand side,"
-p245
-aS'and the numbers one, two and three are the only ones you need to worry about. Our'
-p246
-aS'motion is "Two Cheers for Super PACs: Money and Politics is Still Overregulated." And if'
-p247
-aS'you agree with this motion, push number one. If you disagree, push number two. And'
-p248
-aS"if you're undecided, push number three. You can ignore the other numbers. They're"
-p249
-aS'not live. And if you make a mistake, just correct yourself, and the system will lock in'
-p250
-aS"your last vote. And what we're going to do is hold that vote until the end of the debate"
-p251
-aS"when you vote the second time. And then we'll reveal both numbers. And the team"
-p252
-aS'whose numbers have moved the most on this motion will be declared our winner. So'
-p253
-aS'onto round one, opening statements from each of our debaters in turn. They will be'
-p254
-aS'seven minutes each.'
-p255
-aS'And speaking first up for the motion, "Two Cheers for Super PACs: Money and Politics is'
-p256
-aS'Still Overregulated," David Keating. He is president of the Center for Competitive'
-p257
-aS'Politics. Before this, he was executive director of the Club for Growth and president of'
-p258
-aS'SpeechNow.org, an organization that he founded to protect free political speech. Ladies'
-p259
-aS'and gentlemen, David Keating.'
-p260
-asg19
-(dp261
-I18
-S'18:57:10'
-p262
-sI7
-S'18:56:16'
-p263
-ssa(dp264
+p399
+ssa(dp400
 g8
+(lp401
+S'Well, thank you.'
+p402
+aS'I think largely what we have tonight is a debate about the FirstAmendment and what it means and whether we still value the First Amendment.'
+p403
+aS'Do wewant to keep the First Amendment the way it was written, or do we want it to saysomething else?'
+p404
+aS'And who will say what that "something else" is?'
+p405
+aS"First, let's reviewwhat it says."
+p406
+aS"It's pretty simple actually."
+p407
+aS"The part that we're talking about tonight isCongress shall make no law abridging freedom of speech."
+p408
+aS"Well, I'm sorry to inform thatwe have a lot of laws abridging freedom of speech and regulating speech.The Supreme Court has said there are now 30 different types of regulations on politicalspeech."
+p409
+aS'We have laws and regulations that come to -- close to 400,000 words.'
+p410
+aS'Butthese words are not clear enough so the Federal Election Commission has already issuedclose to 1,900 advisory opinions that you must review to know what the law means.And on top of that, there have been nearly eight -- 7,000 enforcement actions by theFederal Election Commission during its history.'
+p411
+aS'To really understand the law, you needto understand all that.'
+p412
+aS'And the fact is no one does understand what the election lawmeans.'
+p413
+aS'In fact, if you want to speak out about politics and elections you have to hire alawyer like this one over here.'
+p414
+aS"I don't know how much he charges, but most grassrootsgroups probably can't afford it.And if they don't have a lawyer, they're probably going to make mistakes."
+p415
+aS'I lived underthis, working at a political committee.'
+p416
+aS"I saw the regulations firsthand, and we -- a lot ofthis we're getting very upset with how complicated it was and the fact we couldn't getan answer to many of our basic questions."
+p417
+aS'On top of that, in 2002 Congress passed theMcCain-Feingold Act, and for many of us that was the last straw.'
+p418
+aS'A portion of that -- notall of that law was bad, but there was one portion that many of us found offensive nomatter what our views on politics.'
+p419
+aS'Part of it said that within 60 days of an election, agroup that you were a member of could not run an advertisement mentioning the nameof a congressman if it aired on radio or TV.'
+p420
+aS'That was illegal.Now, the court has overturned that, but it took them a number of years to do that.'
+p421
+aS'Ithought that was outrageous.'
+p422
+aS'And there is no group fighting on the political front forthe First Amendment.We hear about groups fighting for Second Amendment rights but not First Amendmentrights.'
+p423
+aS"That's why I started SpeechNow.org because I think we need a group to fight forour political free speech rights."
+p424
+aS'Now, I designed this group in a way that I thoughtwould allow us to be effective.'
+p425
+aS"In fact, one of our panelists who doesn't support freespeech -- unfettered free speech has adopted the SpeechNow.org model, which is nowcalled a super PAC."
+p426
+aS"And basically here's how it works."
+p427
+aS"It's Americans getting togetherand pooling their money."
+p428
+aS'I talk to you.'
+p429
+aS'I make the case as to why you should donatemoney, so then we can talk to other Americans.'
+p430
+aS"That's what the SpeechNow modelwas."
+p431
+aS'There was only one problem with it.'
+p432
+aS'It was illegal to do that.'
+p433
+aS'So theSpeechNow.org with the assistance of a couple of public interest law firms sued theFDC, to make a long story short, we won.That case, SpeechNow.org versus FDC, is what created the super PAC.'
+p434
+aS'Now, let meexplain how these groups are actually functioned, because these are different fromnormal PACs.'
+p435
+aS'These are different from political parties.'
+p436
+aS'These are literally Americansgetting together independently.'
+p437
+aS'The Federal Election Commission calls these groups"independent expenditure only committees" because that\'s all they can do.'
+p438
+aS"We don'tmake any donations to candidates."
+p439
+aS"We dont make any donations to political parties.We don't coordinate our speech with the candidates."
+p440
+aS"We don't coordinate our speechwith the political parties."
+p441
+aS'All of our donors over $200 are disclosed to the public on theInternet on the FDC website.'
+p442
+aS'And all of our spending is donated -- is reported as well.That is what the media has come to call a "super PAC.'
+p443
+aS'"So when you think about it, what\'s wrong with that?'
+p444
+aS'It\'s basically a group of peoplegetting together and saying, "Hey, we want to speak to our fellow Americans aboutwhat direction we think the country should go, what leaders we should elect, whoshould represent us, and we\'re not going to give any money to the candidates or theparties.'
+p445
+aS'" That\'s what a super PAC is.'
+p446
+aS'Now, this model has been so popular that thereare now 805 of them that have formed since June of 2010 when super PACs firstbecame legal.Now, I want to tell you a story of how important money can be in making speech.'
+p447
+aS'And Iwill go back to 1967, when a U.S. senator named Gene McCarthy wanted to run forpresident.'
+p448
+aS'The incumbent president, Lyndon Baines Johnson, was a very powerfulpolitical figure.'
+p449
+aS"Today most people would think it'd be impossible to take down a sittingpresident in a primary, especially if you started in November previous to the electionyear.But Gene McCarthy did it."
+p450
+aS'And you know how he did it?'
+p451
+aS"He went to a handful ofpeople, about five people, and they gave the equivalent in today's dollars of $10 million,$10 million.Now, that's the kind of money that we're talking about in super PACs, but back then, themoney went directly into Gene McCarthy's campaign committee."
+p452
+aS'Gene McCarthy wasopposed to the Vietnam War.'
+p453
+aS'He wanted to make his run for president based onopposing the Vietnam War.'
+p454
+aS'And he wanted to help build a movement to help end theVietnam War.'
+p455
+aS"He couldn't have done it without those contributions."
+p456
+aS"He couldn't havedone it."
+p457
+aS'And you know what?'
+p458
+aS'He did it.'
+p459
+aS"He didn't win the nomination, but he forcedLBJ out of the race."
+p460
+aS"And it's the only time since -- since we've passed these campaignrestrictions, we have never seen a sitting president removed by a challenger.And I daresay it probably won't happen for many, many years."
+p461
+aS'So if you believe in theright of the people to change their government, we have to give people the right to doeverything they can to speak to other Americans.'
+p462
+aS'And independent political groups arethe way to do it.'
+p463
+aS'Thank you.'
+p464
+asg11
 S'DAVID KEATING'
-p265
-sg10
-(dp266
+p465
+sg13
+(dp466
 I32
 S'8'
-p267
+p467
 sI66
 S'9'
-p268
-ssg13
-(lp269
-S'Well, thank you. I think largely what we have tonight is a debate about the First'
-p270
-aS'Amendment and what it means and whether we still value the First Amendment. Do we'
-p271
-aS'want to keep the First Amendment the way it was written, or do we want it to say'
-p272
-aS'something else? And who will say what that "something else" is? First, let\'s review'
-p273
-aS"what it says. It's pretty simple actually. The part that we're talking about tonight is"
-p274
-aS"Congress shall make no law abridging freedom of speech. Well, I'm sorry to inform that"
-p275
-aS'we have a lot of laws abridging freedom of speech and regulating speech.'
-p276
-aS'The Supreme Court has said there are now 30 different types of regulations on political'
-p277
-aS'speech. We have laws and regulations that come to -- close to 400,000 words. But'
-p278
-aS'these words are not clear enough so the Federal Election Commission has already issued'
-p279
-aS'close to 1,900 advisory opinions that you must review to know what the law means.'
-p280
-aS'And on top of that, there have been nearly eight -- 7,000 enforcement actions by the'
-p281
-aS'Federal Election Commission during its history. To really understand the law, you need'
-p282
-aS'to understand all that. And the fact is no one does understand what the election law'
-p283
-aS'means. In fact, if you want to speak out about politics and elections you have to hire a'
-p284
-aS"lawyer like this one over here. I don't know how much he charges, but most grassroots"
-p285
-aS"groups probably can't afford it."
-p286
-aS"And if they don't have a lawyer, they're probably going to make mistakes. I lived under"
-p287
-aS'this, working at a political committee. I saw the regulations firsthand, and we -- a lot of'
-p288
-aS"this we're getting very upset with how complicated it was and the fact we couldn't get"
-p289
-aS'an answer to many of our basic questions. On top of that, in 2002 Congress passed the'
-p290
-aS'McCain-Feingold Act, and for many of us that was the last straw. A portion of that -- not'
-p291
-aS'all of that law was bad, but there was one portion that many of us found offensive no'
-p292
-aS'matter what our views on politics. Part of it said that within 60 days of an election, a'
-p293
-aS'group that you were a member of could not run an advertisement mentioning the name'
-p294
-aS'of a congressman if it aired on radio or TV. That was illegal.'
-p295
-aS'Now, the court has overturned that, but it took them a number of years to do that. I'
-p296
-aS'thought that was outrageous. And there is no group fighting on the political front for'
-p297
-aS'the First Amendment.'
-p298
-aS'We hear about groups fighting for Second Amendment rights but not First Amendment'
-p299
-aS"rights. That's why I started SpeechNow.org because I think we need a group to fight for"
-p300
-aS'our political free speech rights. Now, I designed this group in a way that I thought'
-p301
-aS"would allow us to be effective. In fact, one of our panelists who doesn't support free"
-p302
-aS'speech -- unfettered free speech has adopted the SpeechNow.org model, which is now'
-p303
-aS"called a super PAC. And basically here's how it works. It's Americans getting together"
-p304
-aS'and pooling their money. I talk to you. I make the case as to why you should donate'
-p305
-aS"money, so then we can talk to other Americans. That's what the SpeechNow model"
-p306
-aS'was. There was only one problem with it. It was illegal to do that. So the'
-p307
-aS'SpeechNow.org with the assistance of a couple of public interest law firms sued the'
-p308
-aS'FDC, to make a long story short, we won.'
-p309
-aS'That case, SpeechNow.org versus FDC, is what created the super PAC. Now, let me'
-p310
-aS'explain how these groups are actually functioned, because these are different from'
-p311
-aS'normal PACs. These are different from political parties. These are literally Americans'
-p312
-aS'getting together independently. The Federal Election Commission calls these groups'
-p313
-aS'"independent expenditure only committees" because that\'s all they can do. We don\'t'
-p314
-aS'make any donations to candidates. We dont make any donations to political parties.'
-p315
-aS"We don't coordinate our speech with the candidates. We don't coordinate our speech"
-p316
-aS'with the political parties. All of our donors over $200 are disclosed to the public on the'
-p317
-aS'Internet on the FDC website. And all of our spending is donated -- is reported as well.'
-p318
-aS'That is what the media has come to call a "super PAC."'
-p319
-aS"So when you think about it, what's wrong with that? It's basically a group of people"
-p320
-aS'getting together and saying, "Hey, we want to speak to our fellow Americans about'
-p321
-aS'what direction we think the country should go, what leaders we should elect, who'
-p322
-aS"should represent us, and we're not going to give any money to the candidates or the"
-p323
-aS'parties." That\'s what a super PAC is. Now, this model has been so popular that there'
-p324
-aS'are now 805 of them that have formed since June of 2010 when super PACs first'
-p325
-aS'became legal.'
-p326
-aS'Now, I want to tell you a story of how important money can be in making speech. And I'
-p327
-aS'will go back to 1967, when a U.S. senator named Gene McCarthy wanted to run for'
-p328
-aS'president. The incumbent president, Lyndon Baines Johnson, was a very powerful'
-p329
-aS"political figure. Today most people would think it'd be impossible to take down a sitting"
-p330
-aS'president in a primary, especially if you started in November previous to the election'
-p331
-aS'year.'
-p332
-aS'But Gene McCarthy did it. And you know how he did it? He went to a handful of'
-p333
-aS"people, about five people, and they gave the equivalent in today's dollars of $10 million,"
-p334
-aS'$10 million.'
-p335
-aS"Now, that's the kind of money that we're talking about in super PACs, but back then, the"
-p336
-aS"money went directly into Gene McCarthy's campaign committee. Gene McCarthy was"
-p337
-aS'opposed to the Vietnam War. He wanted to make his run for president based on'
-p338
-aS'opposing the Vietnam War. And he wanted to help build a movement to help end the'
-p339
-aS"Vietnam War. He couldn't have done it without those contributions. He couldn't have"
-p340
-aS"done it. And you know what? He did it. He didn't win the nomination, but he forced"
-p341
-aS"LBJ out of the race. And it's the only time since -- since we've passed these campaign"
-p342
-aS'restrictions, we have never seen a sitting president removed by a challenger.'
-p343
-aS"And I daresay it probably won't happen for many, many years. So if you believe in the"
-p344
-aS'right of the people to change their government, we have to give people the right to do'
-p345
-aS'everything they can to speak to other Americans. And independent political groups are'
-p346
-aS'the way to do it. Thank you.'
-p347
-asg19
-(dp348
-I7
-S'18:58:17'
-p349
-sI40
-S'19:01:17'
-p350
-sI74
-S'19:04:22'
-p351
-sI17
+p468
+ssg16
+(lp469
+S'Well, thank you.'
+p470
+aS'I think largely what we have tonight is a debate about the First Amendment and what it means and whether we still value the First Amendment.'
+p471
+aS'Do we want to keep the First Amendment the way it was written, or do we want it to say something else?'
+p472
+aS'And who will say what that "something else" is?'
+p473
+aS"First, let's review what it says."
+p474
+aS"It's pretty simple actually."
+p475
+aS"The part that we're talking about tonight is Congress shall make no law abridging freedom of speech."
+p476
+aS"Well, I'm sorry to inform that we have a lot of laws abridging freedom of speech and regulating speech."
+p477
+aS'The Supreme Court has said there are now 30 different types of regulations on political speech.'
+p478
+aS'We have laws and regulations that come to -- close to 400,000 words.'
+p479
+aS'But these words are not clear enough so the Federal Election Commission has already issued close to 1,900 advisory opinions that you must review to know what the law means.'
+p480
+aS'And on top of that, there have been nearly eight -- 7,000 enforcement actions by the Federal Election Commission during its history.'
+p481
+aS'To really understand the law, you need to understand all that.'
+p482
+aS'And the fact is no one does understand what the election law means.'
+p483
+aS'In fact, if you want to speak out about politics and elections you have to hire a lawyer like this one over here.'
+p484
+aS"I don't know how much he charges, but most grassroots groups probably can't afford it."
+p485
+aS"And if they don't have a lawyer, they're probably going to make mistakes."
+p486
+aS'I lived under this, working at a political committee.'
+p487
+aS"I saw the regulations firsthand, and we -- a lot of this we're getting very upset with how complicated it was and the fact we couldn't get an answer to many of our basic questions."
+p488
+aS'On top of that, in 2002 Congress passed the McCain-Feingold Act, and for many of us that was the last straw.'
+p489
+aS'A portion of that -- not all of that law was bad, but there was one portion that many of us found offensive no matter what our views on politics.'
+p490
+aS'Part of it said that within 60 days of an election, a group that you were a member of could not run an advertisement mentioning the name of a congressman if it aired on radio or TV.'
+p491
+aS'That was illegal.'
+p492
+aS'Now, the court has overturned that, but it took them a number of years to do that.'
+p493
+aS'I thought that was outrageous.'
+p494
+aS'And there is no group fighting on the political front for the First Amendment.'
+p495
+aS'We hear about groups fighting for Second Amendment rights but not First Amendment rights.'
+p496
+aS"That's why I started SpeechNow.org because I think we need a group to fight for our political free speech rights."
+p497
+aS'Now, I designed this group in a way that I thought would allow us to be effective.'
+p498
+aS"In fact, one of our panelists who doesn't support free speech -- unfettered free speech has adopted the SpeechNow.org model, which is now called a super PAC."
+p499
+aS"And basically here's how it works."
+p500
+aS"It's Americans getting together and pooling their money."
+p501
+aS'I talk to you.'
+p502
+aS'I make the case as to why you should donate money, so then we can talk to other Americans.'
+p503
+aS"That's what the SpeechNow model was."
+p504
+aS'There was only one problem with it.'
+p505
+aS'It was illegal to do that.'
+p506
+aS'So the SpeechNow.org with the assistance of a couple of public interest law firms sued the FDC, to make a long story short, we won.'
+p507
+aS'That case, SpeechNow.org versus FDC, is what created the super PAC.'
+p508
+aS'Now, let me explain how these groups are actually functioned, because these are different from normal PACs.'
+p509
+aS'These are different from political parties.'
+p510
+aS'These are literally Americans getting together independently.'
+p511
+aS'The Federal Election Commission calls these groups "independent expenditure only committees" because that\'s all they can do.'
+p512
+aS"We don't make any donations to candidates."
+p513
+aS'We dont make any donations to political parties.'
+p514
+aS"We don't coordinate our speech with the candidates."
+p515
+aS"We don't coordinate our speech with the political parties."
+p516
+aS'All of our donors over $200 are disclosed to the public on the Internet on the FDC website.'
+p517
+aS'And all of our spending is donated -- is reported as well.'
+p518
+aS'That is what the media has come to call a "super PAC.'
+p519
+aS'" So when you think about it, what\'s wrong with that?'
+p520
+aS'It\'s basically a group of people getting together and saying, "Hey, we want to speak to our fellow Americans about what direction we think the country should go, what leaders we should elect, who should represent us, and we\'re not going to give any money to the candidates or the parties.'
+p521
+aS'" That\'s what a super PAC is.'
+p522
+aS'Now, this model has been so popular that there are now 805 of them that have formed since June of 2010 when super PACs first became legal.'
+p523
+aS'Now, I want to tell you a story of how important money can be in making speech.'
+p524
+aS'And I will go back to 1967, when a U.S. senator named Gene McCarthy wanted to run for president.'
+p525
+aS'The incumbent president, Lyndon Baines Johnson, was a very powerful political figure.'
+p526
+aS"Today most people would think it'd be impossible to take down a sitting president in a primary, especially if you started in November previous to the election year."
+p527
+aS'But Gene McCarthy did it.'
+p528
+aS'And you know how he did it?'
+p529
+aS"He went to a handful of people, about five people, and they gave the equivalent in today's dollars of $10 million, $10 million."
+p530
+aS"Now, that's the kind of money that we're talking about in super PACs, but back then, the money went directly into Gene McCarthy's campaign committee."
+p531
+aS'Gene McCarthy was opposed to the Vietnam War.'
+p532
+aS'He wanted to make his run for president based on opposing the Vietnam War.'
+p533
+aS'And he wanted to help build a movement to help end the Vietnam War.'
+p534
+aS"He couldn't have done it without those contributions."
+p535
+aS"He couldn't have done it."
+p536
+aS'And you know what?'
+p537
+aS'He did it.'
+p538
+aS"He didn't win the nomination, but he forced LBJ out of the race."
+p539
+aS"And it's the only time since -- since we've passed these campaign restrictions, we have never seen a sitting president removed by a challenger."
+p540
+aS"And I daresay it probably won't happen for many, many years."
+p541
+aS'So if you believe in the right of the people to change their government, we have to give people the right to do everything they can to speak to other Americans.'
+p542
+aS'And independent political groups are the way to do it.'
+p543
+aS'Thank you.'
+p544
+asg23
+(dp545
 S'18:59:13'
-p352
-sI50
-S'19:02:16'
-p353
-sI29
-S'19:00:18'
-p354
-sI63
-S'19:03:22'
-p355
-ssa(dp356
-g23
-(dp357
+p546
+I17
+sS'19:02:16'
+p547
+I50
+sS'19:03:22'
+p548
+I63
+sS'19:00:18'
+p549
+I29
+sS'19:04:22'
+p550
+I74
+sS'19:01:17'
+p551
+I40
+sS'18:58:17'
+p552
+I7
+ssa(dp553
+g27
+(dp554
 I1
 S'[applause]'
-p358
+p555
 ssg8
+(lp556
+S'Thank you, David Keating.Our motion is, "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p557
+aS'" [[applause]] And here to debate against the motion, Trevor Potter.'
+p558
+aS'He is president and generalcounsel of the Campaign Legal Center and a former commissioner and chairman of theFederal Election Commission.'
+p559
+aS"He is also the lawyer behind the creation of StephenColbert's PAC, Americans for a Better Tomorrow Tomorrow."
+p560
+aS'Ladies and Gentlemen,Trevor Potter.'
+p561
+asg11
 S'JOHN DONVAN'
-p359
-sg13
-(lp360
+p562
+sg16
+(lp563
 S'Thank you, David Keating.'
-p361
-aS'Our motion is, "Two Cheers for Super PACs: Money in Politics is Still Overregulated."'
-p362
-aS'And here to debate against the motion, Trevor Potter. He is president and general'
-p363
-aS'counsel of the Campaign Legal Center and a former commissioner and chairman of the'
-p364
-aS'Federal Election Commission. He is also the lawyer behind the creation of Stephen'
-p365
-aS"Colbert's PAC, Americans for a Better Tomorrow Tomorrow. Ladies and Gentlemen,"
-p366
-aS'Trevor Potter.'
-p367
-asa(dp368
-g23
-(dp369
+p564
+aS'Our motion is, "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p565
+aS'" And here to debate against the motion, Trevor Potter.'
+p566
+aS'He is president and general counsel of the Campaign Legal Center and a former commissioner and chairman of the Federal Election Commission.'
+p567
+aS"He is also the lawyer behind the creation of Stephen Colbert's PAC, Americans for a Better Tomorrow Tomorrow."
+p568
+aS'Ladies and Gentlemen, Trevor Potter.'
+p569
+asa(dp570
+g27
+(dp571
 I1
 S'[applause]'
-p370
-ssg8
+p572
+ssg11
 S'TREVOR POTTER'
-p371
-sg10
-(dp372
+p573
+sg16
+(lp574
+S'Thank you, John.'
+p575
+aS'It may surprise our worthy opponents, but all of us on the stage tonight recognize and celebrate the importance of the First Amendment, the right each of us has as citizens to criticize the government and speak freely.'
+p576
+aS'We are all American patriots in this room tonight, not supporters of King George III.'
+p577
+aS'None of us believe that the crown, or our government, should be free of criticism.'
+p578
+aS'But our opponents want this to begin and end as a debate about the First Amendment, and only about their view of the First Amendment.'
+p579
+aS'They want to ignore the rest of the Constitution and the functioning of the government that we the people created.'
+p580
+aS'The Constitution created a congress that represents the will of the people, the voters.'
+p581
+aS'It created a president whose job is to faithfully execute the laws passed by Congress.'
+p582
+aS'What we have learned over the last 200 years, by sad experience, is that our government can be corrupted by campaign money so that it primarily responds to the sources of money that fund elections -- special interests and big political contributors and spenders -- rather than representing the people and seeking the common good.'
+p583
+aS"So tonight I'm going to look at how campaign money can corrupt our government and why, for 100 years, there have been limits on money spent in politics to try and control that corruption."
+p584
+aS'Then, my debating partner Jonathan Soros will explain why super PACs and their related nonprofit C4s and C6s only make the possibility of corruption greater.'
+p585
+aS'Theodore Roosevelt began this national discussion in 1905 after being elected president with huge contributions from Wall Street.'
+p586
+aS'He actually had Mark Hanna.'
+p587
+aS'And Mark Hanna had what we would call super PAC money, unlimited contributions from corporations that elected Roosevelt.'
+p588
+aS'Afterwards, those corporations came to him for their reward which they expected would be less government regulation.'
+p589
+aS'Roosevelt responded by saying to Congress, "All contributions by corporations to any political committee or for any political purpose should be forbidden by law.'
+p590
+aS"Directors should not be permitted to use stockholders' money for such purposes."
+p591
+aS'" Later, he said, "Every special interest is entitled to justice, but none is entitled to a vote in Congress to a voice on the bench.'
+p592
+aS'" Congress reacted to Roosevelt\'s call by passing the Tillman Act in 1907 forbidding corporate political contributions in federal elections.'
+p593
+aS'Later in 1947, the Taft Act extended this prohibition to labor unions and to independent expenditures.'
+p594
+aS'Roosevelt and the Congress believed that the election of representatives of the people to Congress should be left to individual citizens and voters, not corporate or union interests almost always seeking special legislative favors in return.'
+p595
+aS'Under President Richard Nixon, these prohibitions were violated because of a lack of disclosure.'
+p596
+aS'Then in the Watergate scandal, these hidden violations became public.'
+p597
+aS'We learned that the Department of Justice had dropped an antitrust case against ITT in return for $400,000 given to finance the Republican convention where Nixon wanted it.'
+p598
+aS'We might never have known that except an ITT lobbyist wrote it all down in an internal memo which then saw the light of day.'
+p599
+aS'The result was that after Watergate, Congress passed new reform laws and tried to require the disclosure of all money given for political purposes.'
+p600
+aS'These laws were later revised and strengthened in the McCain- Feingold law in 2002.'
+p601
+aS"As Senator Alan Simpson said at that time, too often members' first thought is not what is right or what they will believe, but how it will affect fundraising."
+p602
+aS'Who, after all, can seriously contend that a $100,000 donation does not alter the way one thinks about and quite possibly votes on an issue?'
+p603
+aS'The goal of each of these laws was to prevent actual corruption, the selling of government action or inaction in return for financial support for candidates and campaigns.'
+p604
+aS'Just as important, though, has been the goal of avoiding the appearance of corruption.'
+p605
+aS'As the Supreme Court said in the Buckley case in 1976, Congress has the right to deal with the reality or the appearance of corruption inherent in the system, permitting unlimited financial contributions.'
+p606
+aS'The Supreme Court also recognized one other reality in that case which is central to our debate today.'
+p607
+aS'There is a significant difference between my speaking myself or giving my money to someone else for their speech.'
+p608
+aS'My own speech and my own words has higher First Amendment protection than a contribution.'
+p609
+aS'That brings us to the world of super PACs.'
+p610
+aS"They were created, as we heard, by the Supreme Court Citizens United decision and the DC circuit's SpeechNow case."
+p611
+aS'The majority in Citizens United, overturning previous decisions, said that in their view of the First Amendment, corporations had the same right as individuals to make unlimited, independent expenditures in federal elections because such spending does not give rise to corruption or the appearance of corruption.'
+p612
+aS'The court based this new somewhat novel view that independent spending can never corrupt on two important predicates.'
+p613
+aS'The spending must be totally independent of candidates and political parties, and it must be fully disclosed so that in the words of Justice Kennedy and Citizens United, the public can see whether elected officials are in the pockets of so-called money interests.'
+p614
+aS'So are their spending totally independent of candidates?'
+p615
+aS'Do we have full disclosure?'
+p616
+aS'Jonathan Soros will tell us in a few minutes.'
+p617
+asg23
+(dp618
+S'19:07:15'
+p619
+I19
+sS'19:10:23'
+p620
+I49
+sS'19:11:14'
+p621
+I57
+sS'19:09:17'
+p622
+I39
+sS'19:05:16'
+p623
+I1
+sS'19:06:15'
+p624
+I10
+sS'19:12:16'
+p625
+I67
+sS'19:08:17'
+p626
+I29
+ssg8
+(lp627
+S'Thank you, John.It may surprise our worthy opponents, but all of us on the stage tonight recognize and [[applause]] celebrate the importance of the First Amendment, the right each of us has as citizens tocriticize the government and speak freely.'
+p628
+aS'We are all American patriots in this roomtonight, not supporters of King George III.'
+p629
+aS'None of us believe that the crown, or ourgovernment, should be free of criticism.'
+p630
+aS'But our opponents want this to begin and endas a debate about the First Amendment, and only about their view of the FirstAmendment.'
+p631
+aS'They want to ignore the rest of the Constitution and the functioning ofthe government that we the people created.'
+p632
+aS"The Constitution created a congress thatrepresents the will of the people, the voters.It created a president whose job is to faithfully execute the laws passed by Congress.What we have learned over the last 200 years, by sad experience, is that ourgovernment can be corrupted by campaign money so that it primarily responds to thesources of money that fund elections -- special interests and big political contributorsand spenders -- rather than representing the people and seeking the common good.So tonight I'm going to look at how campaign money can corrupt our government andwhy, for 100 years, there have been limits on money spent in politics to try and controlthat corruption."
+p633
+aS'Then, my debating partner Jonathan Soros will explain why super PACsand their related nonprofit C4s and C6s only make the possibility of corruption greater.Theodore Roosevelt began this national discussion in 1905 after being elected presidentwith huge contributions from Wall Street.'
+p634
+aS'He actually had Mark Hanna.'
+p635
+aS'And MarkHanna had what we would call super PAC money, unlimited contributions fromcorporations that elected Roosevelt.'
+p636
+aS'Afterwards, those corporations came to him fortheir reward which they expected would be less government regulation.'
+p637
+aS'Rooseveltresponded by saying to Congress, "All contributions by corporations to any politicalcommittee or for any political purpose should be forbidden by law.'
+p638
+aS"Directors should notbe permitted to use stockholders' money for such purposes."
+p639
+aS'" Later, he said, "Everyspecial interest is entitled to justice, but none is entitled to a vote in Congress to a voiceon the bench.'
+p640
+aS'"Congress reacted to Roosevelt\'s call by passing the Tillman Act in 1907 forbiddingcorporate political contributions in federal elections.'
+p641
+aS'Later in 1947, the Taft Actextended this prohibition to labor unions and to independent expenditures.'
+p642
+aS'Rooseveltand the Congress believed that the election of representatives of the people to Congressshould be left to individual citizens and voters, not corporate or union interests almostalways seeking special legislative favors in return.'
+p643
+aS'Under President Richard Nixon, theseprohibitions were violated because of a lack of disclosure.'
+p644
+aS'Then in the Watergatescandal, these hidden violations became public.'
+p645
+aS'We learned that the Department ofJustice had dropped an antitrust case against ITT in return for $400,000 given to financethe Republican convention where Nixon wanted it.We might never have known that except an ITT lobbyist wrote it all down in an internalmemo which then saw the light of day.'
+p646
+aS'The result was that after Watergate, Congresspassed new reform laws and tried to require the disclosure of all money given forpolitical purposes.'
+p647
+aS'These laws were later revised and strengthened in the McCain-Feingold law in 2002.'
+p648
+aS"As Senator Alan Simpson said at that time, too often members'first thought is not what is right or what they will believe, but how it will affectfundraising."
+p649
+aS'Who, after all, can seriously contend that a $100,000 donation does notalter the way one thinks about and quite possibly votes on an issue?'
+p650
+aS'The goal of each ofthese laws was to prevent actual corruption, the selling of government action orinaction in return for financial support for candidates and campaigns.Just as important, though, has been the goal of avoiding the appearance of corruption.As the Supreme Court said in the Buckley case in 1976, Congress has the right to dealwith the reality or the appearance of corruption inherent in the system, permittingunlimited financial contributions.'
+p651
+aS'The Supreme Court also recognized one other realityin that case which is central to our debate today.'
+p652
+aS'There is a significant differencebetween my speaking myself or giving my money to someone else for their speech.'
+p653
+aS'Myown speech and my own words has higher First Amendment protection than acontribution.'
+p654
+aS"That brings us to the world of super PACs.They were created, as we heard, by the Supreme Court Citizens United decision and theDC circuit's SpeechNow case."
+p655
+aS'The majority in Citizens United, overturning previousdecisions, said that in their view of the First Amendment, corporations had the sameright as individuals to make unlimited, independent expenditures in federal electionsbecause such spending does not give rise to corruption or the appearance of corruption.The court based this new somewhat novel view that independent spending can nevercorrupt on two important predicates.'
+p656
+aS'The spending must be totally independent ofcandidates and political parties, and it must be fully disclosed so that in the words ofJustice Kennedy and Citizens United, the public can see whether elected officials are inthe pockets of so-called money interests.So are their spending totally independent of candidates?'
+p657
+aS'Do we have full disclosure?Jonathan Soros will tell us in a few minutes.'
+p658
+asg13
+(dp659
 I8
 S'10'
-p373
+p660
 sI39
 S'11'
-p374
-ssg13
-(lp375
-S'Thank you, John.'
-p376
-aS'It may surprise our worthy opponents, but all of us on the stage tonight recognize and'
-p377
-aS'celebrate the importance of the First Amendment, the right each of us has as citizens to'
-p378
-aS'criticize the government and speak freely. We are all American patriots in this room'
-p379
-aS'tonight, not supporters of King George III. None of us believe that the crown, or our'
-p380
-aS'government, should be free of criticism. But our opponents want this to begin and end'
-p381
-aS'as a debate about the First Amendment, and only about their view of the First'
-p382
-aS'Amendment. They want to ignore the rest of the Constitution and the functioning of'
-p383
-aS'the government that we the people created. The Constitution created a congress that'
-p384
-aS'represents the will of the people, the voters.'
-p385
-aS'It created a president whose job is to faithfully execute the laws passed by Congress.'
-p386
-aS'What we have learned over the last 200 years, by sad experience, is that our'
-p387
-aS'government can be corrupted by campaign money so that it primarily responds to the'
-p388
-aS'sources of money that fund elections -- special interests and big political contributors'
-p389
-aS'and spenders -- rather than representing the people and seeking the common good.'
-p390
-aS"So tonight I'm going to look at how campaign money can corrupt our government and"
-p391
-aS'why, for 100 years, there have been limits on money spent in politics to try and control'
-p392
-aS'that corruption. Then, my debating partner Jonathan Soros will explain why super PACs'
-p393
-aS'and their related nonprofit C4s and C6s only make the possibility of corruption greater.'
-p394
-aS'Theodore Roosevelt began this national discussion in 1905 after being elected president'
-p395
-aS'with huge contributions from Wall Street. He actually had Mark Hanna. And Mark'
-p396
-aS'Hanna had what we would call super PAC money, unlimited contributions from'
-p397
-aS'corporations that elected Roosevelt. Afterwards, those corporations came to him for'
-p398
-aS'their reward which they expected would be less government regulation. Roosevelt'
-p399
-aS'responded by saying to Congress, "All contributions by corporations to any political'
-p400
-aS'committee or for any political purpose should be forbidden by law. Directors should not'
-p401
-aS'be permitted to use stockholders\' money for such purposes." Later, he said, "Every'
-p402
-aS'special interest is entitled to justice, but none is entitled to a vote in Congress to a voice'
-p403
-aS'on the bench."'
-p404
-aS"Congress reacted to Roosevelt's call by passing the Tillman Act in 1907 forbidding"
-p405
-aS'corporate political contributions in federal elections. Later in 1947, the Taft Act'
-p406
-aS'extended this prohibition to labor unions and to independent expenditures. Roosevelt'
-p407
-aS'and the Congress believed that the election of representatives of the people to Congress'
-p408
-aS'should be left to individual citizens and voters, not corporate or union interests almost'
-p409
-aS'always seeking special legislative favors in return. Under President Richard Nixon, these'
-p410
-aS'prohibitions were violated because of a lack of disclosure. Then in the Watergate'
-p411
-aS'scandal, these hidden violations became public. We learned that the Department of'
-p412
-aS'Justice had dropped an antitrust case against ITT in return for $400,000 given to finance'
-p413
-aS'the Republican convention where Nixon wanted it.'
-p414
-aS'We might never have known that except an ITT lobbyist wrote it all down in an internal'
-p415
-aS'memo which then saw the light of day. The result was that after Watergate, Congress'
-p416
-aS'passed new reform laws and tried to require the disclosure of all money given for'
-p417
-aS'political purposes. These laws were later revised and strengthened in the McCain-'
-p418
-aS"Feingold law in 2002. As Senator Alan Simpson said at that time, too often members'"
-p419
-aS'first thought is not what is right or what they will believe, but how it will affect'
-p420
-aS'fundraising. Who, after all, can seriously contend that a $100,000 donation does not'
-p421
-aS'alter the way one thinks about and quite possibly votes on an issue? The goal of each of'
-p422
-aS'these laws was to prevent actual corruption, the selling of government action or'
-p423
-aS'inaction in return for financial support for candidates and campaigns.'
-p424
-aS'Just as important, though, has been the goal of avoiding the appearance of corruption.'
-p425
-aS'As the Supreme Court said in the Buckley case in 1976, Congress has the right to deal'
-p426
-aS'with the reality or the appearance of corruption inherent in the system, permitting'
-p427
-aS'unlimited financial contributions. The Supreme Court also recognized one other reality'
-p428
-aS'in that case which is central to our debate today. There is a significant difference'
-p429
-aS'between my speaking myself or giving my money to someone else for their speech. My'
-p430
-aS'own speech and my own words has higher First Amendment protection than a'
-p431
-aS'contribution. That brings us to the world of super PACs.'
-p432
-aS'They were created, as we heard, by the Supreme Court Citizens United decision and the'
-p433
-aS"DC circuit's SpeechNow case. The majority in Citizens United, overturning previous"
-p434
-aS'decisions, said that in their view of the First Amendment, corporations had the same'
-p435
-aS'right as individuals to make unlimited, independent expenditures in federal elections'
-p436
-aS'because such spending does not give rise to corruption or the appearance of corruption.'
-p437
-aS'The court based this new somewhat novel view that independent spending can never'
-p438
-aS'corrupt on two important predicates. The spending must be totally independent of'
-p439
-aS'candidates and political parties, and it must be fully disclosed so that in the words of'
-p440
-aS'Justice Kennedy and Citizens United, the public can see whether elected officials are in'
-p441
-aS'the pockets of so-called money interests.'
-p442
-aS'So are their spending totally independent of candidates? Do we have full disclosure?'
-p443
-aS'Jonathan Soros will tell us in a few minutes.'
-p444
-asg19
-(dp445
-I1
-S'19:05:16'
-p446
-sI67
-S'19:12:16'
-p447
-sI39
-S'19:09:17'
-p448
-sI10
-S'19:06:15'
-p449
-sI49
-S'19:10:23'
-p450
-sI19
-S'19:07:15'
-p451
-sI57
-S'19:11:14'
-p452
-sI29
-S'19:08:17'
-p453
-ssa(dp454
-g23
-(dp455
+p661
+ssa(dp662
+g27
+(dp663
 I1
 S'[applause]'
-p456
+p664
 sI10
 S'[applause]'
-p457
+p665
 sI5
 S'[laughter]'
-p458
-ssg8
+p666
+ssg11
 S'JOHN DONVAN'
-p459
-sg10
-(dp460
+p667
+sg16
+(lp668
+S'Thank you, Trevor Potter.'
+p669
+aS'And a reminder of where we are.'
+p670
+aS'We are halfway through the opening round of this of two who are fighting it out over this motion: "Two Cheers for Super PACs: Money in Politics is Still Overrated" -- you have -- sorry.'
+p671
+aS'Not overrated.'
+p672
+aS"I'm going to say that again so that -- so that that can be edited out."
+p673
+aS"It's great to control the process."
+p674
+aS'"Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p675
+aS'" You have heard two opening statements, and now onto the third to debate for the motion: "Two Cheers for Super PACs," a senior editor at Reason Magazine and reason.com, an award-winning journalist and author of the critically acclaimed books, "Saying Yes," and "For Your Own Good," Jacob Sullum.'
+p676
+asg23
+(dp677
+S'19:13:22'
+p678
+I10
+ssg8
+(lp679
+S'Thank you, Trevor Potter.And a reminder of where we are.'
+p680
+aS'We are halfway through the opening round of this [[applause]] of two who are fighting it out over this motion: "Two Cheers for Super PACs: Money inPolitics is Still Overrated" -- you have -- sorry.'
+p681
+aS'Not overrated.'
+p682
+aS"I'm going to say that againso that -- so that that can be edited out.It's great to control the process."
+p683
+aS'"Two Cheers for Super PACs: Money in Politics is Still [[laughter]] Overregulated.'
+p684
+aS'" You have heard two opening statements, and now onto the third todebate for the motion: "Two Cheers for Super PACs," a senior editor at ReasonMagazine and reason.com, an award-winning journalist and author of the criticallyacclaimed books, "Saying Yes," and "For Your Own Good," Jacob Sullum.'
+p685
+asg13
+(dp686
 I1
 S'12'
-p461
-ssg13
-(lp462
-S'Thank you, Trevor Potter.'
-p463
-aS'And a reminder of where we are. We are halfway through the opening round of this'
-p464
-aS'of two who are fighting it out over this motion: "Two Cheers for Super PACs: Money in'
-p465
-aS'Politics is Still Overrated" -- you have -- sorry. Not overrated. I\'m going to say that again'
-p466
-aS'so that -- so that that can be edited out.'
-p467
-aS'It\'s great to control the process. "Two Cheers for Super PACs: Money in Politics is Still'
-p468
-aS'Overregulated." You have heard two opening statements, and now onto the third to'
-p469
-aS'debate for the motion: "Two Cheers for Super PACs," a senior editor at Reason'
-p470
-aS'Magazine and reason.com, an award-winning journalist and author of the critically'
-p471
-aS'acclaimed books, "Saying Yes," and "For Your Own Good," Jacob Sullum.'
-p472
-asg19
-(dp473
-I10
-S'19:13:22'
-p474
-ssa(dp475
+p687
+ssa(dp688
 g8
+(lp689
+S'Thanks.'
+p690
+aS"I feel a little bit under qualified for this debate because I think I'm the onlypanelist who has not created a super PAC."
+p691
+aS'Although I briefly contemplated starting ananti-anti-super PAC super PAC.'
+p692
+aS'It seemed too complicated to me, but maybe Trevorcould help me out.'
+p693
+aS"So I'm talking instead from the perspective of somebody who hasbeen writing about civil liberties issues for about 25 years now."
+p694
+aS'And I see this asfundamentally an issue of freedom of speech.'
+p695
+aS'Consider the legal situation before theCitizens United case.'
+p696
+aS'Wealthy individuals were free to speak without limit.'
+p697
+aS"Jonathan'sfather, for example, spent about $24 billion during the -- or excuse me, million dollarsduring the 2004 election season to defeat George W. Bush."
+p698
+aS'And more power to him.Media corporations such as the ones that own FOX news and the New York Times werealso free to speak without limit.'
+p699
+aS'Parties and candidates could spend as much as theywanted on political messages, although the contributions for them were limited.'
+p700
+aS'Bycontrast, unions, businesses and nonprofit advocacy groups such as the NRA or theACLU, could not talk about their issues on the air close to an election if they happen tomention the name of a candidate for federal office.'
+p701
+aS'Furthermore, as David mentioned,people of lesser means could not get together and pool their resources to use forelection-related messages unless they registered with the FEC and were subject to strictcontribution limits.'
+p702
+aS'People often overlook what was actually at issue in the CitizensUnited case.'
+p703
+aS'This was a documentary that was produced by a conservative group,Citizens United.'
+p704
+aS'It was called "Hillary: The Movie.'
+p705
+aS'" They wanted to air it during the2008 election season, and they were prohibited from doing so.'
+p706
+aS'Why?'
+p707
+aS'First of all, itmentioned a candidate for federal office.'
+p708
+aS'She was running for the Democraticpresidential nomination at the time.And two, it made her look bad.'
+p709
+aS'Now, whatever you think about Hillary Clinton or aboutthis particular movie about her, how can that possibly be consistent with aconstitutional provision that says "congressional shall make no law abridging thefreedom of speech"?'
+p710
+aS'The Supreme Court concluded that it could not.'
+p711
+aS'And it alsoconcluded that the First Amendment made it -- forced it to override an earlier rule thatsaid you cannot engage and express advocacy if you are a corporation or a union,meaning you explicitly were advocating the election or defeat of a candidate.'
+p712
+aS"Youfrequently hear a couple of arguments in response to this decision from people whodidn't like it."
+p713
+aS'First of all, they say, money is not speech.'
+p714
+aS"Well, that's literally true."
+p715
+aS'Butyou do need money in order to get your message across to a mass audience.'
+p716
+aS"So Isuppose Congress passed a law saying newspapers can exist, but they can't spend anymoney."
+p717
+aS'Or newspapers can exist, but they can only spend up to this amount of money.Clearly, that would be abridging the freedom of the press.'
+p718
+aS"Similarly, if Congress said,you can spend as much as you want if you're a newspaper, but we're going to limit howmuch you can take in from advertisers and readers.So once you understand that this is really controlling -- money in effect is controllingspeech, I think you also have to recognize that loosening these regulations on speechdoes not mean empowering people to buy elections."
+p719
+aS'Why?'
+p720
+aS'Because the messages thatyou pay for still have to persuade voters.'
+p721
+aS"You're still talking about convincing people tovote a certain way."
+p722
+aS"There are a number of striking illustrations from recent electionsthat show you that money can't buy you love."
+p723
+aS"And I'll just give you a couple of them.One from 2010, Linda McMahan is trying again this year."
+p724
+aS'She spent $46 million of herown money on a Senate campaign in Connecticut.'
+p725
+aS'It was nearly a hundred dollars forevery vote she received.'
+p726
+aS'She lost by 12 points.'
+p727
+aS'This year, Jeff Lake won the Republicannomination for the Senate in Arizona.'
+p728
+aS'Even though he was outspent two to one, he wonby 48 points.'
+p729
+aS'So clearly, money is not the whole story.It is, nevertheless, true that in general, the people who win tend to spend more.'
+p730
+aS"But it'salso true that stronger candidates tend to attract more money."
+p731
+aS'Well, what makes acandidate strong?'
+p732
+aS'There are various characteristics that you can imagine that wouldmake people both better able to raise money and better able to get votes, charisma,popular policy positions, but one of the most important is incumbency.'
+p733
+aS'Andincumbency gives people tremendous advantages in terms of visibility, the power todispense pork, name recognition, and the reelection rates for members of Congress areinsanely high.'
+p734
+aS'I mean, historically, in the past few cycles, 90 percent or more even in thelast -- in the 2010, when Democrats lost a bunch of seats, it was still about 85 percent.So incumbents have this huge advantage and they use campaign finance regulations toreinforce that advantage.'
+p735
+aS'One great example is the so-called Millionaires Amendment,which was part of McCain-Feingold Act.'
+p736
+aS"It said that if you face an opponent who isspending his own money, he's financing his own campaign, then we're going to lift thelimits on the contributions you can get.So this is clearly designed to help out incumbents who are facing self financedchallengers."
+p737
+aS"Another argument you often hear is that corporations are not people.Well, that's also literally true, but corporations are created by people."
+p738
+aS"I mean, they'renot created by robots or dolphins or extraterrestrials."
+p739
+aS"I mean, they're created toachieve certain goals."
+p740
+aS'The question in Citizens United was whether people lose the rightto freedom of speech when they organize themselves as corporations.'
+p741
+aS'I think peopletend to think when you hear the word "corporation" of these huge businesses like Wal-Mart or Exxon Mobile, but, you know, every one of us works for a corporation.'
+p742
+aS'Thisdebate tonight is sponsored by a corporation.'
+p743
+aS'The groups that are complaining thatcorporations have too much influence over politics are themselves corporations, right?So you have to understand that corporations overwhelmingly consist of small businessesand nonprofits, not these huge businesses.'
+p744
+aS'And they represent all sorts of points ofview and take on all sorts of issues.Our moderator, by the way, works for a corporation, Walt Disney Company, correct?'
+p745
+asg11
 S'JACOB SULLUM'
-p476
-sg10
-(dp477
+p746
+sg13
+(dp747
 I56
 S'14'
-p478
+p748
 sI21
 S'13'
-p479
-ssg13
-(lp480
-S"Thanks. I feel a little bit under qualified for this debate because I think I'm the only"
-p481
-aS'panelist who has not created a super PAC. Although I briefly contemplated starting an'
-p482
-aS'anti-anti-super PAC super PAC. It seemed too complicated to me, but maybe Trevor'
-p483
-aS"could help me out. So I'm talking instead from the perspective of somebody who has"
-p484
-aS'been writing about civil liberties issues for about 25 years now. And I see this as'
-p485
-aS'fundamentally an issue of freedom of speech. Consider the legal situation before the'
-p486
-aS"Citizens United case. Wealthy individuals were free to speak without limit. Jonathan's"
-p487
-aS'father, for example, spent about $24 billion during the -- or excuse me, million dollars'
-p488
-aS'during the 2004 election season to defeat George W. Bush. And more power to him.'
-p489
-aS'Media corporations such as the ones that own FOX news and the New York Times were'
-p490
-aS'also free to speak without limit. Parties and candidates could spend as much as they'
-p491
-aS'wanted on political messages, although the contributions for them were limited. By'
-p492
-aS'contrast, unions, businesses and nonprofit advocacy groups such as the NRA or the'
-p493
-aS'ACLU, could not talk about their issues on the air close to an election if they happen to'
-p494
-aS'mention the name of a candidate for federal office. Furthermore, as David mentioned,'
-p495
-aS'people of lesser means could not get together and pool their resources to use for'
-p496
-aS'election-related messages unless they registered with the FEC and were subject to strict'
-p497
-aS'contribution limits. People often overlook what was actually at issue in the Citizens'
-p498
-aS'United case. This was a documentary that was produced by a conservative group,'
-p499
-aS'Citizens United. It was called "Hillary: The Movie." They wanted to air it during the'
-p500
-aS'2008 election season, and they were prohibited from doing so. Why? First of all, it'
-p501
-aS'mentioned a candidate for federal office. She was running for the Democratic'
-p502
-aS'presidential nomination at the time.'
-p503
-aS'And two, it made her look bad. Now, whatever you think about Hillary Clinton or about'
-p504
-aS'this particular movie about her, how can that possibly be consistent with a'
-p505
-aS'constitutional provision that says "congressional shall make no law abridging the'
-p506
-aS'freedom of speech"? The Supreme Court concluded that it could not. And it also'
-p507
-aS'concluded that the First Amendment made it -- forced it to override an earlier rule that'
-p508
-aS'said you cannot engage and express advocacy if you are a corporation or a union,'
-p509
-aS'meaning you explicitly were advocating the election or defeat of a candidate. You'
-p510
-aS'frequently hear a couple of arguments in response to this decision from people who'
-p511
-aS"didn't like it. First of all, they say, money is not speech. Well, that's literally true. But"
-p512
-aS'you do need money in order to get your message across to a mass audience. So I'
-p513
-aS"suppose Congress passed a law saying newspapers can exist, but they can't spend any"
-p514
-aS'money. Or newspapers can exist, but they can only spend up to this amount of money.'
-p515
-aS'Clearly, that would be abridging the freedom of the press. Similarly, if Congress said,'
-p516
-aS"you can spend as much as you want if you're a newspaper, but we're going to limit how"
-p517
-aS'much you can take in from advertisers and readers.'
-p518
-aS'So once you understand that this is really controlling -- money in effect is controlling'
-p519
-aS'speech, I think you also have to recognize that loosening these regulations on speech'
-p520
-aS'does not mean empowering people to buy elections. Why? Because the messages that'
-p521
-aS"you pay for still have to persuade voters. You're still talking about convincing people to"
-p522
-aS'vote a certain way. There are a number of striking illustrations from recent elections'
-p523
-aS"that show you that money can't buy you love. And I'll just give you a couple of them."
-p524
-aS'One from 2010, Linda McMahan is trying again this year. She spent $46 million of her'
-p525
-aS'own money on a Senate campaign in Connecticut. It was nearly a hundred dollars for'
-p526
-aS'every vote she received. She lost by 12 points. This year, Jeff Lake won the Republican'
-p527
-aS'nomination for the Senate in Arizona. Even though he was outspent two to one, he won'
-p528
-aS'by 48 points. So clearly, money is not the whole story.'
-p529
-aS"It is, nevertheless, true that in general, the people who win tend to spend more. But it's"
-p530
-aS'also true that stronger candidates tend to attract more money. Well, what makes a'
-p531
-aS'candidate strong? There are various characteristics that you can imagine that would'
-p532
-aS'make people both better able to raise money and better able to get votes, charisma,'
-p533
-aS'popular policy positions, but one of the most important is incumbency. And'
-p534
-aS'incumbency gives people tremendous advantages in terms of visibility, the power to'
-p535
-aS'dispense pork, name recognition, and the reelection rates for members of Congress are'
-p536
-aS'insanely high. I mean, historically, in the past few cycles, 90 percent or more even in the'
-p537
-aS'last -- in the 2010, when Democrats lost a bunch of seats, it was still about 85 percent.'
-p538
-aS'So incumbents have this huge advantage and they use campaign finance regulations to'
-p539
-aS'reinforce that advantage. One great example is the so-called Millionaires Amendment,'
-p540
-aS'which was part of McCain-Feingold Act. It said that if you face an opponent who is'
-p541
-aS"spending his own money, he's financing his own campaign, then we're going to lift the"
-p542
-aS'limits on the contributions you can get.'
-p543
-aS'So this is clearly designed to help out incumbents who are facing self financed'
-p544
-aS'challengers. Another argument you often hear is that corporations are not people.'
-p545
-aS"Well, that's also literally true, but corporations are created by people. I mean, they're"
-p546
-aS"not created by robots or dolphins or extraterrestrials. I mean, they're created to"
-p547
-aS'achieve certain goals. The question in Citizens United was whether people lose the right'
-p548
-aS'to freedom of speech when they organize themselves as corporations. I think people'
-p549
-aS'tend to think when you hear the word "corporation" of these huge businesses like Wal-'
-p550
-aS'Mart or Exxon Mobile, but, you know, every one of us works for a corporation. This'
-p551
-aS'debate tonight is sponsored by a corporation. The groups that are complaining that'
-p552
-aS'corporations have too much influence over politics are themselves corporations, right?'
-p553
-aS'So you have to understand that corporations overwhelmingly consist of small businesses'
-p554
-aS'and nonprofits, not these huge businesses. And they represent all sorts of points of'
-p555
-aS'view and take on all sorts of issues.'
-p556
+p749
+ssg16
+(lp750
+S'Thanks.'
+p751
+aS"I feel a little bit under qualified for this debate because I think I'm the only panelist who has not created a super PAC."
+p752
+aS'Although I briefly contemplated starting an anti-anti-super PAC super PAC.'
+p753
+aS'It seemed too complicated to me, but maybe Trevor could help me out.'
+p754
+aS"So I'm talking instead from the perspective of somebody who has been writing about civil liberties issues for about 25 years now."
+p755
+aS'And I see this as fundamentally an issue of freedom of speech.'
+p756
+aS'Consider the legal situation before the Citizens United case.'
+p757
+aS'Wealthy individuals were free to speak without limit.'
+p758
+aS"Jonathan's father, for example, spent about $24 billion during the -- or excuse me, million dollars during the 2004 election season to defeat George W. Bush."
+p759
+aS'And more power to him.'
+p760
+aS'Media corporations such as the ones that own FOX news and the New York Times were also free to speak without limit.'
+p761
+aS'Parties and candidates could spend as much as they wanted on political messages, although the contributions for them were limited.'
+p762
+aS'By contrast, unions, businesses and nonprofit advocacy groups such as the NRA or the ACLU, could not talk about their issues on the air close to an election if they happen to mention the name of a candidate for federal office.'
+p763
+aS'Furthermore, as David mentioned, people of lesser means could not get together and pool their resources to use for election-related messages unless they registered with the FEC and were subject to strict contribution limits.'
+p764
+aS'People often overlook what was actually at issue in the Citizens United case.'
+p765
+aS'This was a documentary that was produced by a conservative group, Citizens United.'
+p766
+aS'It was called "Hillary: The Movie.'
+p767
+aS'" They wanted to air it during the 2008 election season, and they were prohibited from doing so.'
+p768
+aS'Why?'
+p769
+aS'First of all, it mentioned a candidate for federal office.'
+p770
+aS'She was running for the Democratic presidential nomination at the time.'
+p771
+aS'And two, it made her look bad.'
+p772
+aS'Now, whatever you think about Hillary Clinton or about this particular movie about her, how can that possibly be consistent with a constitutional provision that says "congressional shall make no law abridging the freedom of speech"?'
+p773
+aS'The Supreme Court concluded that it could not.'
+p774
+aS'And it also concluded that the First Amendment made it -- forced it to override an earlier rule that said you cannot engage and express advocacy if you are a corporation or a union, meaning you explicitly were advocating the election or defeat of a candidate.'
+p775
+aS"You frequently hear a couple of arguments in response to this decision from people who didn't like it."
+p776
+aS'First of all, they say, money is not speech.'
+p777
+aS"Well, that's literally true."
+p778
+aS'But you do need money in order to get your message across to a mass audience.'
+p779
+aS"So I suppose Congress passed a law saying newspapers can exist, but they can't spend any money."
+p780
+aS'Or newspapers can exist, but they can only spend up to this amount of money.'
+p781
+aS'Clearly, that would be abridging the freedom of the press.'
+p782
+aS"Similarly, if Congress said, you can spend as much as you want if you're a newspaper, but we're going to limit how much you can take in from advertisers and readers."
+p783
+aS'So once you understand that this is really controlling -- money in effect is controlling speech, I think you also have to recognize that loosening these regulations on speech does not mean empowering people to buy elections.'
+p784
+aS'Why?'
+p785
+aS'Because the messages that you pay for still have to persuade voters.'
+p786
+aS"You're still talking about convincing people to vote a certain way."
+p787
+aS"There are a number of striking illustrations from recent elections that show you that money can't buy you love."
+p788
+aS"And I'll just give you a couple of them."
+p789
+aS'One from 2010, Linda McMahan is trying again this year.'
+p790
+aS'She spent $46 million of her own money on a Senate campaign in Connecticut.'
+p791
+aS'It was nearly a hundred dollars for every vote she received.'
+p792
+aS'She lost by 12 points.'
+p793
+aS'This year, Jeff Lake won the Republican nomination for the Senate in Arizona.'
+p794
+aS'Even though he was outspent two to one, he won by 48 points.'
+p795
+aS'So clearly, money is not the whole story.'
+p796
+aS'It is, nevertheless, true that in general, the people who win tend to spend more.'
+p797
+aS"But it's also true that stronger candidates tend to attract more money."
+p798
+aS'Well, what makes a candidate strong?'
+p799
+aS'There are various characteristics that you can imagine that would make people both better able to raise money and better able to get votes, charisma, popular policy positions, but one of the most important is incumbency.'
+p800
+aS'And incumbency gives people tremendous advantages in terms of visibility, the power to dispense pork, name recognition, and the reelection rates for members of Congress are insanely high.'
+p801
+aS'I mean, historically, in the past few cycles, 90 percent or more even in the last -- in the 2010, when Democrats lost a bunch of seats, it was still about 85 percent.'
+p802
+aS'So incumbents have this huge advantage and they use campaign finance regulations to reinforce that advantage.'
+p803
+aS'One great example is the so-called Millionaires Amendment, which was part of McCain-Feingold Act.'
+p804
+aS"It said that if you face an opponent who is spending his own money, he's financing his own campaign, then we're going to lift the limits on the contributions you can get."
+p805
+aS'So this is clearly designed to help out incumbents who are facing self financed challengers.'
+p806
+aS'Another argument you often hear is that corporations are not people.'
+p807
+aS"Well, that's also literally true, but corporations are created by people."
+p808
+aS"I mean, they're not created by robots or dolphins or extraterrestrials."
+p809
+aS"I mean, they're created to achieve certain goals."
+p810
+aS'The question in Citizens United was whether people lose the right to freedom of speech when they organize themselves as corporations.'
+p811
+aS'I think people tend to think when you hear the word "corporation" of these huge businesses like Wal- Mart or Exxon Mobile, but, you know, every one of us works for a corporation.'
+p812
+aS'This debate tonight is sponsored by a corporation.'
+p813
+aS'The groups that are complaining that corporations have too much influence over politics are themselves corporations, right?'
+p814
+aS'So you have to understand that corporations overwhelmingly consist of small businesses and nonprofits, not these huge businesses.'
+p815
+aS'And they represent all sorts of points of view and take on all sorts of issues.'
+p816
 aS'Our moderator, by the way, works for a corporation, Walt Disney Company, correct?'
-p557
-asg19
-(dp558
-I38
-S'19:16:19'
-p559
-sI9
-S'19:14:13'
-p560
-sI76
-S'19:19:15'
-p561
-sI49
-S'19:17:12'
-p562
-sI23
-S'19:15:12'
-p563
-sI63
+p817
+asg23
+(dp818
 S'19:18:16'
-p564
-ssa(dp565
+p819
+I63
+sS'19:14:13'
+p820
+I9
+sS'19:17:12'
+p821
+I49
+sS'19:15:12'
+p822
+I23
+sS'19:19:15'
+p823
+I76
+sS'19:16:19'
+p824
+I38
+ssa(dp825
 g8
-S'JOHN DONVAN'
-p566
-sg13
-(lp567
+(lp826
 S'Yes.'
-p568
-asa(dp569
+p827
+asg11
+S'JOHN DONVAN'
+p828
+sg16
+(lp829
+g827
+asa(dp830
 g8
+(lp831
+S'And he had this privilege before Citizens United that most corporations did not, theywere allowed to talk about politics on the air even if it meant mentioning a candidatefor federal office.'
+p832
+aS"Now, that was an exemption, a media exemption for mediacorporations, that journalists took for granted, but it's very hard to justify under theFirst Amendment because when you talk about the freedom of the press you're nottalking about the freedom of members of professional news organizations, you'retalking about the freedom to use technologies of mass communication."
+p833
+aS"That's afreedom that we all have that's guaranteed to all of us by the First Amendment."
+p834
+aS"So bylifting the restrictions on the money that people could collect and spend on politicalmessages, these two decisions, Citizens United and SpeechNow, signal that freedom ofspeech is not a privilege that's reserved to billionaires or to media corporations or topoliticians, it's a right that belongs to all of us no matter how we choose to organizeourselves.And I think we're seeing benefits from that in terms of diversity of voices and greatercompetition in elections that we can talk about later."
+p835
+aS'Thank you.'
+p836
+asg11
 S'JACOB SULLUM'
-p570
-sg10
-(dp571
+p837
+sg13
+(dp838
 I11
 S'15'
-p572
-ssg13
-(lp573
-S'And he had this privilege before Citizens United that most corporations did not, they'
-p574
-aS'were allowed to talk about politics on the air even if it meant mentioning a candidate'
-p575
-aS'for federal office. Now, that was an exemption, a media exemption for media'
-p576
-aS"corporations, that journalists took for granted, but it's very hard to justify under the"
-p577
-aS"First Amendment because when you talk about the freedom of the press you're not"
-p578
-aS"talking about the freedom of members of professional news organizations, you're"
-p579
-aS"talking about the freedom to use technologies of mass communication. That's a"
-p580
-aS"freedom that we all have that's guaranteed to all of us by the First Amendment. So by"
-p581
-aS'lifting the restrictions on the money that people could collect and spend on political'
-p582
-aS'messages, these two decisions, Citizens United and SpeechNow, signal that freedom of'
-p583
-aS"speech is not a privilege that's reserved to billionaires or to media corporations or to"
-p584
-aS"politicians, it's a right that belongs to all of us no matter how we choose to organize"
-p585
-aS'ourselves.'
-p586
-aS"And I think we're seeing benefits from that in terms of diversity of voices and greater"
-p587
-aS'competition in elections that we can talk about later. Thank you.'
-p588
-asg19
-(dp589
-I13
+p839
+ssg16
+(lp840
+S'And he had this privilege before Citizens United that most corporations did not, they were allowed to talk about politics on the air even if it meant mentioning a candidate for federal office.'
+p841
+aS"Now, that was an exemption, a media exemption for media corporations, that journalists took for granted, but it's very hard to justify under the First Amendment because when you talk about the freedom of the press you're not talking about the freedom of members of professional news organizations, you're talking about the freedom to use technologies of mass communication."
+p842
+aS"That's a freedom that we all have that's guaranteed to all of us by the First Amendment."
+p843
+aS"So by lifting the restrictions on the money that people could collect and spend on political messages, these two decisions, Citizens United and SpeechNow, signal that freedom of speech is not a privilege that's reserved to billionaires or to media corporations or to politicians, it's a right that belongs to all of us no matter how we choose to organize ourselves."
+p844
+aS"And I think we're seeing benefits from that in terms of diversity of voices and greater competition in elections that we can talk about later."
+p845
+aS'Thank you.'
+p846
+asg23
+(dp847
 S'19:20:13'
-p590
-ssa(dp591
-g23
-(dp592
+p848
+I13
+ssa(dp849
+g27
+(dp850
 I1
 S'[applause]'
-p593
+p851
 sI6
 S'[applause]'
-p594
+p852
 ssg8
+(lp853
+S'Thank you.Thank you, Jacob Sullum.'
+p854
+aS'Our final debater, and he is speaking against the motion, [[applause]] "Two Cheers for Super PACs: Money in Politics is Still Overregulated," is Jonathan Soros.Jonathan is chief executive officer of JS Capital Management and a senior fellow at theRoosevelt Institute and cofounder of the super PAC, Friends of Democracy.'
+p855
+aS'Ladies andgentlemen, Jonathan Soros.'
+p856
+asg11
 S'JOHN DONVAN'
-p595
-sg13
-(lp596
+p857
+sg16
+(lp858
 S'Thank you.'
-p597
-aS'Thank you, Jacob Sullum. Our final debater, and he is speaking against the motion,'
-p598
-aS'"Two Cheers for Super PACs: Money in Politics is Still Overregulated," is Jonathan Soros.'
-p599
-aS'Jonathan is chief executive officer of JS Capital Management and a senior fellow at the'
-p600
-aS'Roosevelt Institute and cofounder of the super PAC, Friends of Democracy. Ladies and'
-p601
-aS'gentlemen, Jonathan Soros.'
-p602
-asa(dp603
-g23
-(dp604
+p859
+aS'Thank you, Jacob Sullum.'
+p860
+aS'Our final debater, and he is speaking against the motion, "Two Cheers for Super PACs: Money in Politics is Still Overregulated," is Jonathan Soros.'
+p861
+aS'Jonathan is chief executive officer of JS Capital Management and a senior fellow at the Roosevelt Institute and cofounder of the super PAC, Friends of Democracy.'
+p862
+aS'Ladies and gentlemen, Jonathan Soros.'
+p863
+asa(dp864
+g27
+(dp865
 I87
 S'[applause]'
-p605
-ssg8
+p866
+ssg11
 S'JONATHAN SOROS'
-p606
-sg10
-(dp607
+p867
+sg16
+(lp868
+S'Thank you.'
+p869
+aS"I can see that we're going to have a lot to talk about tonight, but my partner, Trevor Potter, laid out the case for why in response to the First Amendment we still have an important interest in mitigating the corruption that can result from even independent political activity but from in particular from contributions to candidates."
+p870
+aS'I\'m going to take us on a closer look at the proposition, itself, "Two cheers for super PACs," and suggest that we don\'t even have the rules that super PACs were premised on.'
+p871
+aS"Mr. Keating laid out a very rosy picture of what super PACs are, but that doesn't really resemble what they are in fact."
+p872
+aS'After 40 years of Supreme Court intervention, what we have is more loophole than law.'
+p873
+aS"Let's start with the issue of independence."
+p874
+aS"As my partner mentioned, the Supreme Court has repeatedly said that speech that is independent of campaigns can't be corrupting, and, therefore, can't be restricted."
+p875
+aS'Let\'s set aside for a moment how ridiculous that statement is, that if somebody showed up and said, "I\'m going to spend a billion dollars to support candidates who favor position X or position Y," that that\'s not going to have some influence on candidates or elected officials.'
+p876
+aS'We\'ll leave that aside for a moment and just look at what "independent" really means today because the rules around what independent is for super PACs are basically nonexistent.'
+p877
+aS'There are in effect only two rules that apply.'
+p878
+aS"One, candidates may not share inside information from what they're thinking and what their resources are with a super PAC, and the super PAC may not give a contribution directly to the campaign."
+p879
+aS'Obviously, they can give lots of things of value indirectly, like spending lots of money on television.'
+p880
+aS"There are more rules about what Goldman Sachs' partners can say to each other than there are about what super PACs can say to candidates."
+p881
+aS"We've all seen the jokes that this leads to."
+p882
+aS"My partner's super PAC, Americans for a Better Tomorrow Tomorrow, has been referenced several times."
+p883
+aS"It's one of the best pieces of political theater that has happened in the last 24 months."
+p884
+aS"I would strongly suggest, if you haven't seen it, you go online and find it."
+p885
+aS"It's really funny."
+p886
+aS"But what we're seeing in that -- and they've provided a tremendous example -- is that there are, in effect, no lines between super PACs and candidates."
+p887
+aS"Let's just give a couple of examples."
+p888
+aS'Candidates can raise money for super PACs.'
+p889
+aS'They can show up at their fundraisers, and they can raise money, at least up to the $5,000 federal limit.'
+p890
+aS'But then what happens after they leave?'
+p891
+aS'Who knows?'
+p892
+aS'We all know, at least in the presidential election, the super PACs are being run by long-term aides of the candidates, in both instances.'
+p893
+aS'Candidates can endorse super PACs.'
+p894
+aS'You hear Mitt Romney talking about "my" super PAC.'
+p895
+aS"And just in the last couple of weeks, since we've watched the conventions, we heard about Karl Rove, who, of course, was senior advisor to President Bush and to many other Republicans, getting briefings about his super PAC around Tampa."
+p896
+aS'And last week in Charlotte, Rahm Emmanuel, who had been, at one time, White House chief of staff, and was the honorary chairman of the Obama campaign, left that position and the next day was giving interviews on the floor of the convention about how he was now tapped to be the lead fundraiser for the Obama-aligned super PAC.'
+p897
+aS'So, clearly, independence under the current rule is a joke.'
+p898
+aS"That, in effect, leaving aside what's happened in the super PAC, has undermined something we thought we had before."
+p899
+aS'We thought we had contribution limits, again, as my partner described, for very good reason, to avoid the issues of political corruption that come with large contributions to candidates.'
+p900
+aS'Now, those rules still technically exist.'
+p901
+aS'You can still only give $2,500 to a candidate.'
+p902
+aS'You can only give $25,000, or whatever the limit is, to a party.'
+p903
+aS"But you can then turn around and give $25 million to a super PAC that's working, essentially, as a surrogate for the campaign."
+p904
+aS"Though, let's remember that those $2,500 and $25,000 are irrelevant to most of the population anyway."
+p905
+aS"It's only 1 percent of 1 percent of the population that's giving north of $10,000 a year to those entities."
+p906
+aS"Well, now, with super PACs, we've seen that shrink even further."
+p907
+aS'So 200 people account for 80 percent of the money that was raised for Super PACs, at least as of the last filing.'
+p908
+aS"Lastly, let's talk about transparency."
+p909
+aS"It's true; super PACs do have to disclose their donors and their expenditures."
+p910
+aS'Transparency is something that the Supreme Court speaks glowingly of in Citizens United and other cases.'
+p911
+aS"But there's a loophole that you can drive a billion dollars through, right?"
+p912
+aS"You don't have to give your political money to a super PAC."
+p913
+aS"You can give your political money to a so-called social welfare organization, or corporations can give them to industry groups, and those can do almost exactly the same thing as super PACs can do, and they don't have to disclose their donors."
+p914
+aS'So when people say, "How much money is being spent in this election?'
+p915
+aS'" the answer is, "We actually don\'t really know.'
+p916
+aS'" We know that it will be more than ever before, but we don\'t know exactly how much, and we don\'t know exactly where it\'s coming from.'
+p917
+aS'These are problems that can be addressed.'
+p918
+aS"We can have rules on transparency that address disclosure of all political spending that's related to the election."
+p919
+aS"We can have rules, coherent rules, around independence that require that super PACs are at least an arm's length distance from the campaigns."
+p920
+aS"We need a functioning enforcement agency, and I hope that we'll have a chance to talk a little bit about the dysfunction of the FCC later on."
+p921
+aS'But none of this will make a difference without an alternative.'
+p922
+aS'A friend of mine likes to say that transparency alone is like the webcam that was at the bottom of the Gulf of Mexico showing us the Deep Water Horizon well, right?'
+p923
+aS"Shows you everything that's spewing into the Gulf, but it doesn't do anything to fix it."
+p924
+aS'We need an alternative.'
+p925
+aS'We need a system of citizen- funded elections that allow candidates to run for political office without dependence on large contributions and big donors.'
+p926
+aS"That's commonly known as public financing, but when you think about it as a system that is designed to change the incentives of candidates, then it becomes something slightly different."
+p927
+aS"If you think about a system we have in New York where, if you're participating in the system, $175 contribution is matched six-to-one."
+p928
+aS"What's the result?"
+p929
+aS"It's transformed the way that funds are raised for city offices here in New York."
+p930
+aS"Instead of going to the Plaza or the Waldorf, you're going to people's living rooms and dining rooms talking to normal folks, constituents about what the interests of their community are."
+p931
+aS'So if the premise of this debate had been "money and politics is badly regulated," I would have happily switched sides and sat over there and argued that case.'
+p932
+aS'But the answer to the current lawlessness is better rules, not less of them.'
+p933
+asg23
+(dp934
+S'19:27:12'
+p935
+I81
+sS'19:23:14'
+p936
+I31
+sS'19:25:18'
+p937
+I56
+sS'19:21:17'
+p938
+I7
+sS'19:22:11'
+p939
+I18
+sS'19:24:15'
+p940
+I44
+sS'19:26:16'
+p941
+I69
+ssg8
+(lp942
+S'Thank you.'
+p943
+aS'I can see that we\'re going to have a lot to talk about tonight, but mypartner, Trevor Potter, laid out the case for why in response to the First Amendment westill have an important interest in mitigating the corruption that can result from evenindependent political activity but from in particular from contributions to candidates.I\'m going to take us on a closer look at the proposition, itself, "Two cheers for superPACs," and suggest that we don\'t even have the rules that super PACs were premisedon.Mr.'
+p944
+aS"Keating laid out a very rosy picture of what super PACs are, but that doesn't reallyresemble what they are in fact."
+p945
+aS'After 40 years of Supreme Court intervention, what wehave is more loophole than law.'
+p946
+aS"Let's start with the issue of independence."
+p947
+aS"As mypartner mentioned, the Supreme Court has repeatedly said that speech that isindependent of campaigns can't be corrupting, and, therefore, can't be restricted."
+p948
+aS'Let\'sset aside for a moment how ridiculous that statement is, that if somebody showed upand said, "I\'m going to spend a billion dollars to support candidates who favor position Xor position Y," that that\'s not going to have some influence on candidates or electedofficials.'
+p949
+aS'We\'ll leave that aside for a moment and just look at what "independent" reallymeans today because the rules around what independent is for super PACs are basicallynonexistent.'
+p950
+aS"There are in effect only two rules that apply.One, candidates may not share inside information from what they're thinking and whattheir resources are with a super PAC, and the super PAC may not give a contributiondirectly to the campaign."
+p951
+aS'Obviously, they can give lots of things of value indirectly, likespending lots of money on television.'
+p952
+aS"There are more rules about what Goldman Sachs'partners can say to each other than there are about what super PACs can say tocandidates."
+p953
+aS"We've all seen the jokes that this leads to."
+p954
+aS"My partner's super PAC,Americans for a Better Tomorrow Tomorrow, has been referenced several times."
+p955
+aS"It'sone of the best pieces of political theater that has happened in the last 24 months."
+p956
+aS"Iwould strongly suggest, if you haven't seen it, you go online and find it."
+p957
+aS"It's really funny.But what we're seeing in that -- and they've provided a tremendous example -- is thatthere are, in effect, no lines between super PACs and candidates."
+p958
+aS"Let's just give a coupleof examples."
+p959
+aS'Candidates can raise money for super PACs.'
+p960
+aS'They can show up at theirfundraisers, and they can raise money, at least up to the $5,000 federal limit.But then what happens after they leave?'
+p961
+aS'Who knows?'
+p962
+aS'We all know, at least in thepresidential election, the super PACs are being run by long-term aides of the candidates,in both instances.'
+p963
+aS'Candidates can endorse super PACs.'
+p964
+aS'You hear Mitt Romney talkingabout "my" super PAC.'
+p965
+aS"And just in the last couple of weeks, since we've watched theconventions, we heard about Karl Rove, who, of course, was senior advisor to PresidentBush and to many other Republicans, getting briefings about his super PAC aroundTampa."
+p966
+aS'And last week in Charlotte, Rahm Emmanuel, who had been, at one time, WhiteHouse chief of staff, and was the honorary chairman of the Obama campaign, left thatposition and the next day was giving interviews on the floor of the convention abouthow he was now tapped to be the lead fundraiser for the Obama-aligned super PAC.'
+p967
+aS'So,clearly, independence under the current rule is a joke.'
+p968
+aS"That, in effect, leaving asidewhat's happened in the super PAC, has undermined something we thought we hadbefore.We thought we had contribution limits, again, as my partner described, for very goodreason, to avoid the issues of political corruption that come with large contributions tocandidates."
+p969
+aS'Now, those rules still technically exist.'
+p970
+aS'You can still only give $2,500 to acandidate.'
+p971
+aS'You can only give $25,000, or whatever the limit is, to a party.'
+p972
+aS"But you canthen turn around and give $25 million to a super PAC that's working, essentially, as asurrogate for the campaign."
+p973
+aS"Though, let's remember that those $2,500 and $25,000 areirrelevant to most of the population anyway."
+p974
+aS"It's only 1 percent of 1 percent of thepopulation that's giving north of $10,000 a year to those entities."
+p975
+aS"Well, now, with superPACs, we've seen that shrink even further."
+p976
+aS"So 200 people account for 80 percent of themoney that was raised for Super PACs, at least as of the last filing.Lastly, let's talk about transparency."
+p977
+aS"It's true; super PACs do have to disclose theirdonors and their expenditures.Transparency is something that the Supreme Court speaks glowingly of in CitizensUnited and other cases."
+p978
+aS"But there's a loophole that you can drive a billion dollarsthrough, right?"
+p979
+aS"You don't have to give your political money to a super PAC."
+p980
+aS"You cangive your political money to a so-called social welfare organization, or corporations cangive them to industry groups, and those can do almost exactly the same thing as superPACs can do, and they don't have to disclose their donors."
+p981
+aS'So when people say, "Howmuch money is being spent in this election?'
+p982
+aS'" the answer is, "We actually don\'t reallyknow.'
+p983
+aS'" We know that it will be more than ever before, but we don\'t know exactly howmuch, and we don\'t know exactly where it\'s coming from.These are problems that can be addressed.'
+p984
+aS"We can have rules on transparency thataddress disclosure of all political spending that's related to the election."
+p985
+aS"We can haverules, coherent rules, around independence that require that super PACs are at least anarm's length distance from the campaigns.We need a functioning enforcement agency, and I hope that we'll have a chance to talka little bit about the dysfunction of the FCC later on."
+p986
+aS'But none of this will make adifference without an alternative.'
+p987
+aS'A friend of mine likes to say that transparency aloneis like the webcam that was at the bottom of the Gulf of Mexico showing us the DeepWater Horizon well, right?'
+p988
+aS"Shows you everything that's spewing into the Gulf, but itdoesn't do anything to fix it."
+p989
+aS'We need an alternative.'
+p990
+aS'We need a system of citizen-funded elections that allow candidates to run for political office without dependence onlarge contributions and big donors.'
+p991
+aS"That's commonly known as public financing, butwhen you think about it as a system that is designed to change the incentives ofcandidates, then it becomes something slightly different."
+p992
+aS"If you think about a systemwe have in New York where, if you're participating in the system, $175 contribution ismatched six-to-one."
+p993
+aS"What's the result?It's transformed the way that funds are raised for city offices here in New York."
+p994
+aS"Insteadof going to the Plaza or the Waldorf, you're going to people's living rooms and diningrooms talking to normal folks, constituents about what the interests of their communityare."
+p995
+aS'So if the premise of this debate had been "money and politics is badly regulated," Iwould have happily switched sides and sat over there and argued that case.'
+p996
+aS'But theanswer to the current lawlessness is better rules, not less of them.'
+p997
+asg13
+(dp998
 I18
 S'16'
-p608
+p999
 sI52
 S'17'
-p609
+p1000
 sI85
 S'18'
-p610
-ssg13
-(lp611
-S"Thank you. I can see that we're going to have a lot to talk about tonight, but my"
-p612
-aS'partner, Trevor Potter, laid out the case for why in response to the First Amendment we'
-p613
-aS'still have an important interest in mitigating the corruption that can result from even'
-p614
-aS'independent political activity but from in particular from contributions to candidates.'
-p615
-aS'I\'m going to take us on a closer look at the proposition, itself, "Two cheers for super'
-p616
-aS'PACs," and suggest that we don\'t even have the rules that super PACs were premised'
-p617
-aS'on.'
-p618
-aS"Mr. Keating laid out a very rosy picture of what super PACs are, but that doesn't really"
-p619
-aS'resemble what they are in fact. After 40 years of Supreme Court intervention, what we'
-p620
-aS"have is more loophole than law. Let's start with the issue of independence. As my"
-p621
-aS'partner mentioned, the Supreme Court has repeatedly said that speech that is'
-p622
-aS"independent of campaigns can't be corrupting, and, therefore, can't be restricted. Let's"
-p623
-aS'set aside for a moment how ridiculous that statement is, that if somebody showed up'
-p624
-aS'and said, "I\'m going to spend a billion dollars to support candidates who favor position X'
-p625
-aS'or position Y," that that\'s not going to have some influence on candidates or elected'
-p626
-aS'officials. We\'ll leave that aside for a moment and just look at what "independent" really'
-p627
-aS'means today because the rules around what independent is for super PACs are basically'
-p628
-aS'nonexistent. There are in effect only two rules that apply.'
-p629
-aS"One, candidates may not share inside information from what they're thinking and what"
-p630
-aS'their resources are with a super PAC, and the super PAC may not give a contribution'
-p631
-aS'directly to the campaign. Obviously, they can give lots of things of value indirectly, like'
-p632
-aS"spending lots of money on television. There are more rules about what Goldman Sachs'"
-p633
-aS'partners can say to each other than there are about what super PACs can say to'
-p634
-aS"candidates. We've all seen the jokes that this leads to. My partner's super PAC,"
-p635
-aS"Americans for a Better Tomorrow Tomorrow, has been referenced several times. It's"
-p636
-aS'one of the best pieces of political theater that has happened in the last 24 months. I'
-p637
-aS"would strongly suggest, if you haven't seen it, you go online and find it. It's really funny."
-p638
-aS"But what we're seeing in that -- and they've provided a tremendous example -- is that"
-p639
-aS"there are, in effect, no lines between super PACs and candidates. Let's just give a couple"
-p640
-aS'of examples. Candidates can raise money for super PACs. They can show up at their'
-p641
-aS'fundraisers, and they can raise money, at least up to the $5,000 federal limit.'
-p642
-aS'But then what happens after they leave? Who knows? We all know, at least in the'
-p643
-aS'presidential election, the super PACs are being run by long-term aides of the candidates,'
-p644
-aS'in both instances. Candidates can endorse super PACs. You hear Mitt Romney talking'
-p645
-aS'about "my" super PAC. And just in the last couple of weeks, since we\'ve watched the'
-p646
-aS'conventions, we heard about Karl Rove, who, of course, was senior advisor to President'
-p647
-aS'Bush and to many other Republicans, getting briefings about his super PAC around'
-p648
-aS'Tampa. And last week in Charlotte, Rahm Emmanuel, who had been, at one time, White'
-p649
-aS'House chief of staff, and was the honorary chairman of the Obama campaign, left that'
-p650
-aS'position and the next day was giving interviews on the floor of the convention about'
-p651
-aS'how he was now tapped to be the lead fundraiser for the Obama-aligned super PAC. So,'
-p652
-aS'clearly, independence under the current rule is a joke. That, in effect, leaving aside'
-p653
-aS"what's happened in the super PAC, has undermined something we thought we had"
-p654
-aS'before.'
-p655
-aS'We thought we had contribution limits, again, as my partner described, for very good'
-p656
-aS'reason, to avoid the issues of political corruption that come with large contributions to'
-p657
-aS'candidates. Now, those rules still technically exist. You can still only give $2,500 to a'
-p658
-aS'candidate. You can only give $25,000, or whatever the limit is, to a party. But you can'
-p659
-aS"then turn around and give $25 million to a super PAC that's working, essentially, as a"
-p660
-aS"surrogate for the campaign. Though, let's remember that those $2,500 and $25,000 are"
-p661
-aS"irrelevant to most of the population anyway. It's only 1 percent of 1 percent of the"
-p662
-aS"population that's giving north of $10,000 a year to those entities. Well, now, with super"
-p663
-aS"PACs, we've seen that shrink even further. So 200 people account for 80 percent of the"
-p664
-aS'money that was raised for Super PACs, at least as of the last filing.'
-p665
-aS"Lastly, let's talk about transparency. It's true; super PACs do have to disclose their"
-p666
-aS'donors and their expenditures.'
-p667
-aS'Transparency is something that the Supreme Court speaks glowingly of in Citizens'
-p668
-aS"United and other cases. But there's a loophole that you can drive a billion dollars"
-p669
-aS"through, right? You don't have to give your political money to a super PAC. You can"
-p670
-aS'give your political money to a so-called social welfare organization, or corporations can'
-p671
-aS'give them to industry groups, and those can do almost exactly the same thing as super'
-p672
-aS'PACs can do, and they don\'t have to disclose their donors. So when people say, "How'
-p673
-aS'much money is being spent in this election?" the answer is, "We actually don\'t really'
-p674
-aS'know." We know that it will be more than ever before, but we don\'t know exactly how'
-p675
-aS"much, and we don't know exactly where it's coming from."
-p676
-aS'These are problems that can be addressed. We can have rules on transparency that'
-p677
-aS"address disclosure of all political spending that's related to the election. We can have"
-p678
-aS'rules, coherent rules, around independence that require that super PACs are at least an'
-p679
-aS"arm's length distance from the campaigns."
-p680
-aS"We need a functioning enforcement agency, and I hope that we'll have a chance to talk"
-p681
-aS'a little bit about the dysfunction of the FCC later on. But none of this will make a'
-p682
-aS'difference without an alternative. A friend of mine likes to say that transparency alone'
-p683
-aS'is like the webcam that was at the bottom of the Gulf of Mexico showing us the Deep'
-p684
-aS"Water Horizon well, right? Shows you everything that's spewing into the Gulf, but it"
-p685
-aS"doesn't do anything to fix it. We need an alternative. We need a system of citizen-"
-p686
-aS'funded elections that allow candidates to run for political office without dependence on'
-p687
-aS"large contributions and big donors. That's commonly known as public financing, but"
-p688
-aS'when you think about it as a system that is designed to change the incentives of'
-p689
-aS'candidates, then it becomes something slightly different. If you think about a system'
-p690
-aS"we have in New York where, if you're participating in the system, $175 contribution is"
-p691
-aS"matched six-to-one. What's the result?"
-p692
-aS"It's transformed the way that funds are raised for city offices here in New York. Instead"
-p693
-aS"of going to the Plaza or the Waldorf, you're going to people's living rooms and dining"
-p694
-aS'rooms talking to normal folks, constituents about what the interests of their community'
-p695
-aS'are. So if the premise of this debate had been "money and politics is badly regulated," I'
-p696
-aS'would have happily switched sides and sat over there and argued that case. But the'
-p697
-aS'answer to the current lawlessness is better rules, not less of them.'
-p698
-asg19
-(dp699
-I69
-S'19:26:16'
-p700
-sI7
-S'19:21:17'
-p701
-sI44
-S'19:24:15'
-p702
-sI81
-S'19:27:12'
-p703
-sI18
-S'19:22:11'
-p704
-sI56
-S'19:25:18'
-p705
-sI31
-S'19:23:14'
-p706
-ssa(dp707
-g23
-(dp708
-I2
-S'[applause]'
-p709
-ssg8
-S'JOHN DONVAN'
-p710
-sg13
-(lp711
-S'Thank you, Jonathan Soros. And that concludes round one of this Intelligence Squared'
-p712
-aS'U.S. debate.'
-p713
-aS'Now we move on to round two. And round two is where the debaters address one'
-p714
-aS'another directly and take questions from me and you in the audience. Our motion is'
-p715
-aS'this: "Two Cheers for Super PACs: Money in Politics is Still Overregulated." We have'
-p716
-aS'two teams of two arguing it out.'
-p717
-aS'David Keating and Jacob Sullum are arguing for Two Cheers. They say that in a world'
-p718
-aS"where political speech depends on money, you don't want to put limits on either of"
-p719
-aS'those things; that, in fact, super PACs and spending of money in politics has the effect of'
-p720
-aS'extending and widening political discourse and that attempts to regulate it usually are'
-p721
-aS"instigated by politicians who are already sitting in office and don't want their"
-p722
-aS'competition to be financed and elected either.'
-p723
-aS'On the other side, Trevor Potter and Jonathan Soros are making the argument against'
-p724
-aS"super PACs. They're saying that unlimited money puts people into office who are then"
-p725
-aS'beholden to the suppliers of the unlimited money. The larger the amount, the more'
-p726
-aS"beholden that they'll be, especially if the source of the money is secret. They say that"
-p727
-aS"what's needed is a better and saner system of regulation, but that regulation, there"
-p728
-aS'must be. I want to put a question to the side that is arguing for super PACs. Your'
-p729
-aS'opponents have really hammered at the theme that money is corrosive in politics,'
-p730
-aS'essentially that votes can be bought.'
-p731
-aS"And I didn't hear in your statements from either of you that you are especially agitated"
-p732
-aS'about that phenomenon. David Keating.'
-p733
-asg19
-(dp734
-I20
-S'19:29:20'
-p735
-sI6
-S'19:28:14'
-p736
-ssa(dp737
-g23
-(dp738
-I1
-S'[laughter]'
-p739
-ssg8
-S'DAVID KEATING'
-p740
-sg10
-(dp741
-I1
-S'19'
-p742
-ssg13
-(lp743
-S'Well, there is really no evidence that votes can be bought. The voters still --'
-p744
-aS'No, come on. We -- out of 58 candidates who used 500,000 or more of their own'
-p745
-aS'money in federal races in 2010, fewer than one in five won. So my point is simple: That'
-p746
-aS"money does not control the outcome of the election. I'm not saying money isn't"
-p747
-aS"important, but it's just one factor. I do also want to point out a lot of what you just"
-p748
-aS'heard from Jonathan is just simply wrong about the regulations. He said, for example,'
-p749
-aS"we don't know how much is spent in the election. That's simply not true."
-p750
-aS'Any independent expenditure that is run in the election needs to be reported to the'
-p751
-aS'Federal Election Commission. That is a law. Now, you can argue about whether people'
-p752
-aS'are abiding by the law or not. But they -- I think, by and large, people are reporting their'
-p753
-aS'independent expenditures.'
-p754
-asg19
-(dp755
-I7
-S'19:30:17'
-p756
-ssa(dp757
-g8
-S'JOHN DONVAN'
-p758
-sg13
-(lp759
-S'All right, let me --'
-p760
-asa(dp761
-g8
-S'DAVID KEATING'
-p762
-sg13
-(lp763
-S'Now, there are other things, perhaps, that are not --'
-p764
-asa(dp765
-g8
-S'JOHN DONVAN'
-p766
-sg13
-(lp767
-S'Let me let you come back to some of the points because you are raising a couple of'
-p768
-aS'things that I want to let this side respond to. And the first of those is your response to'
-p769
-aS'my question that, yeah, money is necessary, money plays a part, but that money'
-p770
-aS"ultimately isn't nearly as corrosive as your side has been talking about. It's not that bad"
-p771
-aS'a problem. Take that, Trevor Potter.'
-p772
-asa(dp773
-g8
-S'TREVOR POTTER'
-p774
-sg13
-(lp775
-S"Well, we're talking about two things. David's talking about whether you can guarantee"
-p776
-aS"you're going to win an election if you spend a lot of your own money. That's -- we're not"
-p777
-aS"saying that. What we're saying is that we have a history in this country. It's human"
-p778
-aS'nature that candidates who become office holders are going to be grateful to the people'
-p779
-aS'who put them there if they can identify somebody who spent an enormous amount of'
-p780
-aS'money to elect them.'
-p781
-aS'They are going to feel beholden to them rather than everyone else.'
-p782
-asg19
-(dp783
-I6
-S'19:31:25'
-p784
-ssa(dp785
-g8
-S'JOHN DONVAN'
-p786
-sg13
-(lp787
-S'So with that clarification, let me bring that back to this side, Jacob Sullum.'
-p788
-asa(dp789
-g23
-(dp790
-I19
-S'[applause]'
-p791
-ssg8
-S'JACOB SULLUM'
-p792
-sg10
-(dp793
-I0
-S'20'
-p794
-ssg13
-(lp795
-S'Yeah. I mean, actually, it often goes unnoted that in most states it was perfectly legal'
-p796
-aS'for corporations and unions to spend money on political campaigns even prior to'
-p797
-aS"Citizens United, and there's no evidence that the states that allowed unlimited spending"
-p798
-aS"by unions and corporations were more corrupt than the states that didn't. You would"
-p799
-aS"expect there to be some evidence if it's the case that money is corrupting. That doesn't"
-p800
-aS'seem to be the case. I mean, it seems commonsensical that obviously money buys'
-p801
-aS"people's votes. But in fact if you look at the research that's been done, there's very little"
-p802
-aS"evidence that legislators are actually driven by the campaign donations they're receiving"
-p803
-aS"as opposed to their party's interest, their constituents' interests, things that might"
-p804
-aS'appeal to the voters who elected them.'
-p805
-aS'By the way, I find a lot of that, at least as troubling as selling your vote for money. I think'
-p806
-aS'that is something to be concerned about, selling your vote for money. But I think we'
-p807
-aS'should be more focused on the actual policies being introduced by politicians. And if'
-p808
-aS"they're good policies for bad reasons, I prefer that to bad policies for good reasons. So,"
-p809
-aS"you know, for a politician to do something like take other people's money from around"
-p810
-aS'the country and spend it on some pork barrel project in his district and then go to brag'
-p811
-aS'to voters about this and say, "Reelect me. Look how great I am," he\'s basically stealing'
-p812
-aS"other people's money from around the country and using that money to buy the votes"
-p813
-aS"of the voters. And to me that's at least equally troubling."
-p814
-asg19
-(dp815
-I10
-S'19:32:19'
-p816
-ssa(dp817
-g8
-S'JOHN DONVAN'
-p818
-sg13
-(lp819
-S'So the side arguing against the --'
-p820
-asa(dp821
-g8
-S'JACOB SULLUM'
-p822
-sg13
-(lp823
-S'Perfectly legal though.'
-p824
-asa(dp825
-g8
-S'JOHN DONVAN'
-p826
-sg13
-(lp827
-S'Your opponents are saying that there is no evidence that in fact politicians will be'
-p828
-aS'influenced in office by contributions from donors as they were running for office.'
-p829
-aS'Jonathan Soros or Trevor Potter, do you want to take that on?'
-p830
-asa(dp831
-g8
-S'JONATHAN SOROS'
-p832
-sg10
-(dp833
-I4
-S'21'
-p834
-ssg13
-(lp835
-S'So maybe just very quickly first, without getting -- I think we could get into a very'
-p836
-aS'technical debate. But issue advertising is not disclosed.'
-p837
-aS"There's a lot of that going on this summer. It doesn't flow through independent"
-p838
-aS"expenditure committees, and so it doesn't get disclosed. So in the aggregate, we"
-p839
-aS"actually don't know the answer. So I don't think we want to get bogged down on that. I"
-p840
-aS'think one of the things we should think about here is the definition of corruption in the'
-p841
-aS"first instance. And because we're not only talking about buying a vote, that there's"
-p842
-aS"actually a deal that says, I'm going to hand you this money, and you're going to vote this"
-p843
-aS"way. We're talking about, A, that does -- that is an issue that can be prosecuted. It"
-p844
-aS"doesn't happen --"
-p845
-asg19
-(dp846
-I2
-S'19:33:18'
-p847
-ssa(dp848
-g8
-S'JOHN DONVAN'
-p849
-sg13
-(lp850
-S"Can I step in, just to the bottom and I will let you continue. But they're saying there"
-p851
-aS'really is no evidence that -- there really is no evidence that politicians will perform in'
-p852
-aS'office according to how they were funded on the way to office.'
-p853
-asa(dp854
-g8
-S'TREVOR POTTER'
-p855
-sg13
-(lp856
-S"Well, what they said was there's no evidence of corruption. That would be a great"
-p857
-aS'surprise to all those people sitting in jail across the country because they were the'
-p858
-aS'subject of FBI stings where they took money for official action. There are people in a'
-p859
-aS'variety of state legislatures.'
-p860
-aS"There're members of Congress who have freezers full of cash because they took --"
-p861
-asg19
-(dp862
-I4
-S'19:34:19'
-p863
-ssa(dp864
-g8
-S'JOHN DONVAN'
-p865
-sg13
-(lp866
-S"Okay, but that's not --"
-p867
-aS' '
-p868
-asa(dp869
-g8
-S'MALE SPEAKER'
-p870
-sg13
-(lp871
-S'Those are direct bribes. Those are not campaign contributions.'
-p872
-asa(dp873
-g8
-S'JOHN DONVAN'
-p874
-sg13
-(lp875
-S"Yeah, he's got you. That's --"
-p876
-asa(dp877
-g23
-(dp878
-I1
-S'[laughter]'
-p879
-ssg8
-S'MALE SPEAKER'
-p880
-sg13
-(lp881
-S'Those are two different things.'
-p882
-asa(dp883
-g8
-S'TREVOR POTTER'
-p884
-sg10
-(dp885
-I5
-S'22'
-p886
-ssg13
-(lp887
-S'Actually, you know, a couple weeks ago, the governor of Alabama was returned to jail'
-p888
-aS'for having taken a campaign contribution and then given someone an official'
-p889
-aS"appointment for it. I'm not saying everyone does this. I'm saying two things: First, it"
-p890
-aS'definitely has happened across the country and in our history. There is a long series of'
-p891
-aS'affidavits in the McCain-Feingold litigation and testimony from members of Congress'
-p892
-aS'and, not surprisingly, former members who feel freer to speak about it saying, I see'
-p893
-aS'votes affected all the time by where the money came from, which industry was being'
-p894
-aS"affected. And that's the underlying corrosive problem, plus the amount of time that"
-p895
-aS'these members spend, which is now estimated at up to 70 percent of their working days'
-p896
-aS'raising money.'
-p897
-aS'Those are the problems we face.'
-p898
-asg19
-(dp899
-I10
-S'19:35:23'
-p900
-ssa(dp901
-g8
-S'DAVID KEATING'
-p902
-sg13
-(lp903
-S"We're talking about a couple of different things here."
-p904
-asa(dp905
-g8
-S'JOHN DONVAN'
-p906
-sg13
-(lp907
-S'David Keating.'
-p908
-asa(dp909
-g8
-S'DAVID KEATING'
-p910
-sg13
-(lp911
-S"What we're talking about here is the ability of Americans to get together as -- in groups"
-p912
-aS"together to speak to each other and to speak to other Americans. And you can't point"
-p913
-aS'to a single member of Congress, to a single independent expenditure where they have'
-p914
-aS"felt this kind of pressure. It hasn't happened. And it's not going to happen. Now, we"
-p915
-aS'can argue about the rules we may need to ensure the independence of these groups.'
-p916
-aS'But we think these groups should be able to independently raise as much and speak as'
-p917
-aS'much to the American people. The difference between Americans getting together and'
-p918
-aS'speaking to other Americans is one thing. Americans and contributing directly to'
-p919
-aS'candidates may be a separate issue.'
-p920
-aS"I'd also like to point out that before the SpeechNow decision and the Citizens United"
-p921
-aS'decision, there were many states, in fact a majority of states in the country that allow'
-p922
-aS'unlimited contributions not only to independent expenditure committees but to the'
-p923
-aS'candidates themselves. I think what we should be looking at is the quality of the'
-p924
-aS'government in those states. And Pew, along with Governing Magazine, Pew Charitable'
-p925
-aS'Trusts and Governing Magazine, rated the states for quality of governance, efficiency of'
-p926
-aS'providing services. And the states, six of the best managed states in the country were'
-p927
-aS'states where there were unlimited contributions allowed to these types of super PACs,'
-p928
-aS'and most of these states also allowed unlimited contributions to the candidates. So'
-p929
-aS'good government, efficient government is consistent with people having full free speech'
-p930
-aS'rights.'
-p931
-asg19
-(dp932
-I9
-S'19:36:13'
-p933
-sI20
-S'19:37:14'
-p934
-ssa(dp935
-g8
-S'JOHN DONVAN'
-p936
-sg10
-(dp937
-I0
-S'23'
-p938
-ssg13
-(lp939
-S'All right, so two attacks have been made on your argument that money is corrupting.'
-p940
-aS"Number one, they said there's no evidence that politicians are -- once in office are"
-p941
-aS'arguing --- are operating as agents of the people who funded them, and, secondly, that'
-p942
-aS'there is superior or equally good government in states that have unlimited contribution.'
-p943
-asa(dp944
-g8
-S'JONATHAN SOROS'
-p945
-sg13
-(lp946
-S"So let's --"
-p947
-asa(dp948
-g8
-S'JOHN DONVAN'
-p949
-sg13
-(lp950
-S'Jonathan Soros.'
-p951
-asa(dp952
-g8
-S'JONATHAN SOROS'
-p953
-sg13
-(lp954
-S'-- go back to the first one for a second. I think in the first instance, I think Mr. Keating is'
-p955
-aS"fighting yesterday's battle as it relates to whether groups are allowed to gather together"
-p956
-aS'and form super PACs. They are. The question is should there be rules around that and'
-p957
-aS'what should those rules be. Our principal argument in ours is that those rules are'
-p958
-aS"virtually nonexistent now, and that's a real problem. You're suggesting that there is no"
-p959
-aS"evidence of independent expenditures corrupting. I would say we're at the early stages."
-p960
-aS"This is kind of like the year after they invented television, we're looking at television ads,"
-p961
-aS"right? We're seeing the first wave of these independent expenditures, and so not clear"
-p962
-aS"that that's true, but we're actually not even arguing that, that shouldn't happen, we're"
-p963
-aS"not arguing that people shouldn't be allowed to come together in groups and speak in a"
-p964
-aS'collaborative voice, in a collective voice.'
-p965
-aS'We are arguing that if the evidence presents itself that that is, in fact, corrupting, that'
-p966
-aS'you might want to go back and consider regulating that activity as well, but what we are'
-p967
-aS'saying is that the rules around independence and separation from the candidates are'
-p968
-aS'clearly not there.'
-p969
-asg19
-(dp970
-I11
-S'19:38:29'
-p971
-ssa(dp972
-g8
-S'JOHN DONVAN'
-p973
-sg13
-(lp974
-S'Jacob Sullum.'
-p975
-asa(dp976
-g8
-S'DAVID KEATING'
-p977
-sg13
-(lp978
-S'Could I just ask just a quick question? So do we now have unanimous agreement on the'
-p979
-aS'panel that super PACs should be permitted -- are we all in agreement on that? That'
-p980
-aS'would be great, because then --'
-p981
-asa(dp982
-g8
-S'TREVOR POTTER'
-p983
-sg10
-(dp984
-I2
-S'24'
-p985
-ssg13
-(lp986
-S'What we just said was that we are starting the first year of this wave of money in'
-p987
-aS"federal elections. We don't know yet what the effect is going to be."
-p988
-aS'And what Jonathan just said was, "If we find out that they have the same corrupting'
-p989
-aS'potential that contributions have been found to have, found by the Supreme Court to'
-p990
-aS'have, based on lengthy trials, that then they, too -- we will have to look at whether they'
-p991
-aS'should be limited." One of the things that the court did, as I explained in my opening'
-p992
-aS"comment, is to say there's a difference between our own independent speech and a"
-p993
-aS'contribution to something. The Supreme Court has never faced this question of what'
-p994
-aS'happens when you take your own money and you contribute to one of these super PACs'
-p995
-aS'and somebody else then decides how to spend the money and what to do on the'
-p996
-aS"advertising, is that really your own independent speech which the court has said can't"
-p997
-aS'be limited, or is that a contribution to a group, and they have found contributions can'
-p998
-aS'be limited to prevent the demonstrated danger of corruption.'
-p999
-asg19
-(dp1000
-I2
-S'19:39:12'
 p1001
 ssa(dp1002
-g8
-S'JOHN DONVAN'
-p1003
-sg13
-(lp1004
-S'Jacob Sullum.'
-p1005
-asa(dp1006
-g8
-S'JACOB SULLUM'
-p1007
-sg10
-(dp1008
-I20
-S'25'
-p1009
-ssg13
-(lp1010
-S'I think there\'s -- there\'s a problem here with the definition of "corruption." I mean, if'
-p1011
-aS"you take a very broad definition of it, it's basically any inappropriate consideration,"
-p1012
-aS'right, that causes you to vote a certain way.'
-p1013
-aS'Well, some of it is actual quid pro quo corruption where you hand the guy a pile of cash'
-p1014
-aS'and you say, "Vote my way," and that\'s definitely illegal, if you can prove it. But if what'
-p1015
-aS"you're saying is that politicians tend to be grateful for people who support them, or to"
-p1016
-aS"people support them, then it's true, but that would apply to celebrity endorsements,"
-p1017
-aS'that would apply not just to super PACs but obviously also to rich people spending their'
-p1018
-aS'own money independently, which has always been legal, it would apply to voting a'
-p1019
-aS'certain way because you like the way the lobbyist from that corporation dresses, you'
-p1020
-aS"think she's pretty. I don't think that's illegal, but it seems improper. You can vote for"
-p1021
-aS'terrible policies for all kinds of reasons. I think we should be focused more on the'
-p1022
-aS'policies. I mean, people vote for terrible policies because they have crazy ideologies'
-p1023
-aS"that drive them to do it, you know. So I don't know why we're focused on this one"
-p1024
-aS"particular area where there's potential for improper considerations when there are all"
-p1025
-aS"kinds of other considerations that people might deem improper, and shouldn't we be"
-p1026
-aS"focusing more on the results, the performance that people actually deliver once they're"
-p1027
-aS'elected.'
-p1028
-aS'Is it a good performance, is it bad? And part of that whole process is being able to speak'
-p1029
-aS'on both sides of that.'
-p1030
-asg19
-(dp1031
-I18
-S'19:41:24'
-p1032
-sI3
-S'19:40:17'
-p1033
-ssa(dp1034
-g8
-S'JOHN DONVAN'
-p1035
-sg13
-(lp1036
-S"I want to move on and I -- just give me a second and I'll -- I'm going to ask your"
-p1037
-aS'permission for this -- I want to move on to the second point that David was raising'
-p1038
-aS"before when I interrupted him. So do you want to respond to that point? And then I'm"
-p1039
-aS'going to go back to where David was talking before about the actual execution of the'
-p1040
-aS'rules and regulations.'
-p1041
-asa(dp1042
-g8
-S'JONATHAN SOROS'
-p1043
-sg13
-(lp1044
-S'Sorry, which one was that?'
-p1045
-asa(dp1046
-g8
-S'JOHN DONVAN'
-p1047
-sg13
-(lp1048
-S"No, you can answer -- you can say what you want to say. But let's stop after that."
-p1049
-asa(dp1050
-g8
-S'JONATHAN SOROS'
-p1051
-sg13
-(lp1052
-S'Okay, sure. So just in responding to this question of corrupt -- I think that there are'
-p1053
-aS'important features that distinguish the different types of influence from the influence of'
-p1054
-aS"money, right? In the first instance, with money and we're talking about a"
-p1055
-aS'class of individuals who have a disproportionate and clear influence over the political'
-p1056
-aS'process. You made a comment in your opening statement that the increase of money'
-p1057
-aS'and sort of the increase of spending has generated more diversity of thought.'
-p1058
-aS"Well, I don't think that we can rely for political diversity on disagreements between rich"
-p1059
-aS"people. That's not a political process that allows for a full and open debate. And so let's"
-p1060
-aS'talk about results --'
-p1061
-asg19
-(dp1062
-I6
-S'19:42:17'
-p1063
-ssa(dp1064
-g8
-S'MALE SPEAKER'
-p1065
-sg13
-(lp1066
-S' being rich people.'
-p1067
-asa(dp1068
-g8
-S'JONATHAN SOROS'
-p1069
-sg13
-(lp1070
-S"Let's talk about results for a moment, right? Because when we talk about corruption,"
-p1071
-aS"we talk about the appearance of corruption, what we're talking about is the integrity of"
-p1072
-aS"the system of representative government. It's about the belief that citizens have that"
-p1073
-aS'the people who they elect to office are representing them. And the evidence shows'
-p1074
-aS'that less than 10 percent of Americans in a Gallup poll believe that their elected'
-p1075
-aS"representatives are actually working in their interest. That's a dangerous place for a"
-p1076
-aS'democracy.'
-p1077
-asa(dp1078
-g8
-S'JOHN DONVAN'
-p1079
-sg13
-(lp1080
-S"Okay, let's keep going on this. Jacob Sullum."
-p1081
-asa(dp1082
-g8
-S'JACOB SULLUM'
-p1083
-sg10
-(dp1084
-I0
-S'26'
-p1085
-ssg13
-(lp1086
-S'The problem with this standard -- this crazy standard -- and I grant you, it was endorsed'
-p1087
-aS"by the Supreme Court, but it's still insane -- the appearance of corruption, that we need"
-p1088
-aS'to prevent the appearance of corruption. So that means the more that Jonathan and'
-p1089
-aS"Trevor go around talking about corruption and how horrible it is and how everybody's"
-p1090
-aS"corrupt and, of course, money buys votes and everybody knows it, even if it's"
-p1091
-aS"completely false, they go around talking about, now everybody's worried about"
-p1092
-aS"corruption. That justifies whatever regulations they're proposing."
-p1093
-aS"It has this sort of circular quality to it. I don't think it should hinge on the appearance of"
-p1094
-aS"corruption. Maybe it should hinge on the reality of corruption, although I don't buy this"
-p1095
-aS'argument at all that the fear of even actual corruption, quid pro quo corruption, justifies'
-p1096
-aS'restrictions on speech. And the Supreme Court has basically said it does. I think they'
-p1097
-aS"were wrong. I think that they're moving in the right direction now. But I just don't buy"
-p1098
-aS"it. Is there some kind of, you know, codicil that's attached to the First Amendment that"
-p1099
-aS'says, "Except when you\'re worried about corruption, you know, then you can restrict'
-p1100
-aS'speech"?'
-p1101
-asg19
-(dp1102
-I7
-S'19:43:24'
-p1103
-ssa(dp1104
-g8
-S'JOHN DONVAN'
-p1105
-sg13
-(lp1106
-S"David Keating. I'll come back to you. David Keating."
-p1107
-asa(dp1108
-g8
-S'DAVID KEATING'
-p1109
-sg13
-(lp1110
-S'You know, one of the benefits of all this new regulation and all these new laws that'
-p1111
-aS"we've had basically since the mid-1970s is we've been able now to track how attitudes"
-p1112
-aS'about government have changed.'
-p1113
-aS'And what has been found is the states that have the strongest laws, the most restrictive'
-p1114
-aS'contribution limits, the people have no more faith in those governments than the states'
-p1115
-aS"where there are unlimited contributions. This has no affect in the people's opinion"
-p1116
-aS'about the appearance of corruption or the corruption of policies at the state level. So it'
-p1117
-aS"simply doesn't work. If the idea is that people are going to have more faith in their"
-p1118
-aS'government from these restrictive laws that are very complicated, burden speech, and'
-p1119
-aS"prevent grassroots groups from forming easily, they simply don't work."
-p1120
-asg19
-(dp1121
-I3
-S'19:44:13'
-p1122
-ssa(dp1123
-g8
-S'JOHN DONVAN'
-p1124
-sg13
-(lp1125
-S'One more point on this. Trevor Potter.'
-p1126
-asa(dp1127
-g8
-S'TREVOR POTTER'
-p1128
-sg10
-(dp1129
-I3
-S'27'
-p1130
-ssg13
-(lp1131
-S"On that, I think we have to recognize -- it's not a reach at all -- that there is, in this, a"
-p1132
-aS'fundamental difference between the federal government in Washington and what is'
-p1133
-aS'happening at the state level. The federal government has this enormous power. The'
-p1134
-aS"Libertarians in the room will be happy I'm saying this. But it has this enormous power"
-p1135
-aS'over the purse, the tax system, the way much of American life works.'
-p1136
-aS'And so it makes sense that if you were seeking a major tax break, if you want your'
-p1137
-aS'aircraft carrier bought, the big money that you would be trying to influence what'
-p1138
-aS'Congress does, that, it seems to me, is why we see the amount of money being spent on'
-p1139
-aS"federal elections, and it's vastly more than is going to be spent in state elections,"
-p1140
-aS'because the benefits of that extra money, if you get your aircraft carrier, your special tax'
-p1141
-aS"break, the bill that hurts your opponent and saves you, that's huge for the interests that"
-p1142
-aS'need that.'
-p1143
-asg19
-(dp1144
-I5
-S'19:45:17'
-p1145
-ssa(dp1146
-g8
-S'JOHN DONVAN'
-p1147
-sg13
-(lp1148
-S'All right. I want to move to the point, David, when I interrupted you at the beginning in'
-p1149
-aS'your opening comment. Your opponent Jonathan Soros has described the tangle of'
-p1150
-aS"federal election laws as a Swiss cheese of loopholes that's ineffective. I don't know if"
-p1151
-aS"cheese can be effective or ineffective, but you know what I'm saying."
-p1152
-aS"In other words, he's saying there are regulations, but they're not regulating. It's not"
-p1153
-aS'working at any level. And I want you to take that point on.'
-p1154
-asg19
-(dp1155
-I4
-S'19:46:16'
-p1156
-ssa(dp1157
-g8
-S'DAVID KEATING'
-p1158
-sg13
-(lp1159
-S"Well, I would agree that we need to have more clarity about what's permitted and what"
-p1160
-aS'is not about fundraising, candidates, and these single-issue PACs, and, I think, single-'
-p1161
-aS'issue -- single-candidate super PACs. And I think part of the problem is no one has asked'
-p1162
-aS'the question whether a candidate can raise money for one of these single-candidate'
-p1163
-aS'PACs. My view is the candidates cannot do that, and they should not be doing that.'
-p1164
-aS'And I think it would be helpful if that was made clear. But the laws --'
-p1165
-asa(dp1166
-g23
-(dp1167
+g27
+(dp1003
 I2
 S'[applause]'
-p1168
+p1004
 ssg8
-S'JONATHAN SOROS'
-p1169
-sg13
-(lp1170
-S'So, just to be clear, do we have agreement on this panel that there should be more'
-p1171
-aS'regulation of Super PACs?'
-p1172
-asa(dp1173
-g8
+(lp1005
+S'Thank you, Jonathan Soros.'
+p1006
+aS'And that concludes round one of this Intelligence SquaredU.S.'
+p1007
+aS'debate.Now we move on to round two.'
+p1008
+aS'And round two is where the debaters address one [[applause]] another directly and take questions from me and you in the audience.'
+p1009
+aS'Our motion isthis: "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p1010
+aS'" We havetwo teams of two arguing it out.David Keating and Jacob Sullum are arguing for Two Cheers.'
+p1011
+aS"They say that in a worldwhere political speech depends on money, you don't want to put limits on either ofthose things; that, in fact, super PACs and spending of money in politics has the effect ofextending and widening political discourse and that attempts to regulate it usually areinstigated by politicians who are already sitting in office and don't want theircompetition to be financed and elected either.On the other side, Trevor Potter and Jonathan Soros are making the argument againstsuper PACs."
+p1012
+aS"They're saying that unlimited money puts people into office who are thenbeholden to the suppliers of the unlimited money."
+p1013
+aS"The larger the amount, the morebeholden that they'll be, especially if the source of the money is secret."
+p1014
+aS"They say thatwhat's needed is a better and saner system of regulation, but that regulation, theremust be."
+p1015
+aS'I want to put a question to the side that is arguing for super PACs.'
+p1016
+aS"Youropponents have really hammered at the theme that money is corrosive in politics,essentially that votes can be bought.And I didn't hear in your statements from either of you that you are especially agitatedabout that phenomenon."
+p1017
+aS'David Keating.'
+p1018
+asg11
+S'JOHN DONVAN'
+p1019
+sg16
+(lp1020
+S'Thank you, Jonathan Soros.'
+p1021
+aS'And that concludes round one of this Intelligence Squared U.S. debate.'
+p1022
+aS'Now we move on to round two.'
+p1023
+aS'And round two is where the debaters address one another directly and take questions from me and you in the audience.'
+p1024
+aS'Our motion is this: "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p1025
+aS'" We have two teams of two arguing it out.'
+p1026
+aS'David Keating and Jacob Sullum are arguing for Two Cheers.'
+p1027
+aS"They say that in a world where political speech depends on money, you don't want to put limits on either of those things; that, in fact, super PACs and spending of money in politics has the effect of extending and widening political discourse and that attempts to regulate it usually are instigated by politicians who are already sitting in office and don't want their competition to be financed and elected either."
+p1028
+aS'On the other side, Trevor Potter and Jonathan Soros are making the argument against super PACs.'
+p1029
+aS"They're saying that unlimited money puts people into office who are then beholden to the suppliers of the unlimited money."
+p1030
+aS"The larger the amount, the more beholden that they'll be, especially if the source of the money is secret."
+p1031
+aS"They say that what's needed is a better and saner system of regulation, but that regulation, there must be."
+p1032
+aS'I want to put a question to the side that is arguing for super PACs.'
+p1033
+aS'Your opponents have really hammered at the theme that money is corrosive in politics, essentially that votes can be bought.'
+p1034
+aS"And I didn't hear in your statements from either of you that you are especially agitated about that phenomenon."
+p1035
+aS'David Keating.'
+p1036
+asg23
+(dp1037
+S'19:29:20'
+p1038
+I20
+sS'19:28:14'
+p1039
+I6
+ssa(dp1040
+g27
+(dp1041
+I1
+S'[laughter]'
+p1042
+ssg11
 S'DAVID KEATING'
+p1043
+sg16
+(lp1044
+S'Well, there is really no evidence that votes can be bought.'
+p1045
+aS'The voters still -- No, come on.'
+p1046
+aS'We -- out of 58 candidates who used 500,000 or more of their own money in federal races in 2010, fewer than one in five won.'
+p1047
+aS'So my point is simple: That money does not control the outcome of the election.'
+p1048
+aS"I'm not saying money isn't important, but it's just one factor."
+p1049
+aS'I do also want to point out a lot of what you just heard from Jonathan is just simply wrong about the regulations.'
+p1050
+aS"He said, for example, we don't know how much is spent in the election."
+p1051
+aS"That's simply not true."
+p1052
+aS'Any independent expenditure that is run in the election needs to be reported to the Federal Election Commission.'
+p1053
+aS'That is a law.'
+p1054
+aS'Now, you can argue about whether people are abiding by the law or not.'
+p1055
+aS'But they -- I think, by and large, people are reporting their independent expenditures.'
+p1056
+asg23
+(dp1057
+S'19:30:17'
+p1058
+I7
+ssg8
+(lp1059
+S'Well, there is really no evidence that votes can be bought.'
+p1060
+aS'The voters still --No, come on.'
+p1061
+aS'We -- out of 58 candidates who used 500,000 or more of their own [[laughter]] money in federal races in 2010, fewer than one in five won.'
+p1062
+aS'So my point is simple: Thatmoney does not control the outcome of the election.'
+p1063
+aS"I'm not saying money isn'timportant, but it's just one factor."
+p1064
+aS'I do also want to point out a lot of what you justheard from Jonathan is just simply wrong about the regulations.'
+p1065
+aS"He said, for example,we don't know how much is spent in the election."
+p1066
+aS"That's simply not true.Any independent expenditure that is run in the election needs to be reported to theFederal Election Commission."
+p1067
+aS'That is a law.'
+p1068
+aS'Now, you can argue about whether peopleare abiding by the law or not.'
+p1069
+aS'But they -- I think, by and large, people are reporting theirindependent expenditures.'
+p1070
+asg13
+(dp1071
+I1
+S'19'
+p1072
+ssa(dp1073
+g8
+(lp1074
+S'All right, let me --'
+p1075
+asg11
+S'JOHN DONVAN'
+p1076
+sg16
+(lp1077
+g1075
+asa(dp1078
+g8
+(lp1079
+S'Now, there are other things, perhaps, that are not --'
+p1080
+asg11
+S'DAVID KEATING'
+p1081
+sg16
+(lp1082
+g1080
+asa(dp1083
+g8
+(lp1084
+S'Let me let you come back to some of the points because you are raising a couple ofthings that I want to let this side respond to.'
+p1085
+aS"And the first of those is your response tomy question that, yeah, money is necessary, money plays a part, but that moneyultimately isn't nearly as corrosive as your side has been talking about."
+p1086
+aS"It's not that bada problem."
+p1087
+aS'Take that, Trevor Potter.'
+p1088
+asg11
+S'JOHN DONVAN'
+p1089
+sg16
+(lp1090
+S'Let me let you come back to some of the points because you are raising a couple of things that I want to let this side respond to.'
+p1091
+aS"And the first of those is your response to my question that, yeah, money is necessary, money plays a part, but that money ultimately isn't nearly as corrosive as your side has been talking about."
+p1092
+aS"It's not that bad a problem."
+p1093
+aS'Take that, Trevor Potter.'
+p1094
+asa(dp1095
+g8
+(lp1096
+S"Well, we're talking about two things."
+p1097
+aS"David's talking about whether you can guaranteeyou're going to win an election if you spend a lot of your own money."
+p1098
+aS"That's -- we're notsaying that."
+p1099
+aS"What we're saying is that we have a history in this country."
+p1100
+aS"It's humannature that candidates who become office holders are going to be grateful to the peoplewho put them there if they can identify somebody who spent an enormous amount ofmoney to elect them.They are going to feel beholden to them rather than everyone else."
+p1101
+asg11
+S'TREVOR POTTER'
+p1102
+sg16
+(lp1103
+S"Well, we're talking about two things."
+p1104
+aS"David's talking about whether you can guarantee you're going to win an election if you spend a lot of your own money."
+p1105
+aS"That's -- we're not saying that."
+p1106
+aS"What we're saying is that we have a history in this country."
+p1107
+aS"It's human nature that candidates who become office holders are going to be grateful to the people who put them there if they can identify somebody who spent an enormous amount of money to elect them."
+p1108
+aS'They are going to feel beholden to them rather than everyone else.'
+p1109
+asg23
+(dp1110
+S'19:31:25'
+p1111
+I6
+ssa(dp1112
+g8
+(lp1113
+S'So with that clarification, let me bring that back to this side, Jacob Sullum.'
+p1114
+asg11
+S'JOHN DONVAN'
+p1115
+sg16
+(lp1116
+g1114
+asa(dp1117
+g27
+(dp1118
+I19
+S'[applause]'
+p1119
+ssg11
+S'JACOB SULLUM'
+p1120
+sg16
+(lp1121
+S'Yeah.'
+p1122
+aS"I mean, actually, it often goes unnoted that in most states it was perfectly legal for corporations and unions to spend money on political campaigns even prior to Citizens United, and there's no evidence that the states that allowed unlimited spending by unions and corporations were more corrupt than the states that didn't."
+p1123
+aS"You would expect there to be some evidence if it's the case that money is corrupting."
+p1124
+aS"That doesn't seem to be the case."
+p1125
+aS"I mean, it seems commonsensical that obviously money buys people's votes."
+p1126
+aS"But in fact if you look at the research that's been done, there's very little evidence that legislators are actually driven by the campaign donations they're receiving as opposed to their party's interest, their constituents' interests, things that might appeal to the voters who elected them."
+p1127
+aS'By the way, I find a lot of that, at least as troubling as selling your vote for money.'
+p1128
+aS'I think that is something to be concerned about, selling your vote for money.'
+p1129
+aS'But I think we should be more focused on the actual policies being introduced by politicians.'
+p1130
+aS"And if they're good policies for bad reasons, I prefer that to bad policies for good reasons."
+p1131
+aS'So, you know, for a politician to do something like take other people\'s money from around the country and spend it on some pork barrel project in his district and then go to brag to voters about this and say, "Reelect me.'
+p1132
+aS'Look how great I am," he\'s basically stealing other people\'s money from around the country and using that money to buy the votes of the voters.'
+p1133
+aS"And to me that's at least equally troubling."
+p1134
+asg23
+(dp1135
+S'19:32:19'
+p1136
+I10
+ssg8
+(lp1137
+S'Yeah.'
+p1138
+aS"I mean, actually, it often goes unnoted that in most states it was perfectly legalfor corporations and unions to spend money on political campaigns even prior toCitizens United, and there's no evidence that the states that allowed unlimited spendingby unions and corporations were more corrupt than the states that didn't."
+p1139
+aS"You wouldexpect there to be some evidence if it's the case that money is corrupting."
+p1140
+aS"That doesn'tseem to be the case."
+p1141
+aS"I mean, it seems commonsensical that obviously money buyspeople's votes."
+p1142
+aS"But in fact if you look at the research that's been done, there's very littleevidence that legislators are actually driven by the campaign donations they're receivingas opposed to their party's interest, their constituents' interests, things that mightappeal to the voters who elected them.By the way, I find a lot of that, at least as troubling as selling your vote for money."
+p1143
+aS'I thinkthat is something to be concerned about, selling your vote for money.'
+p1144
+aS'But I think weshould be more focused on the actual policies being introduced by politicians.'
+p1145
+aS"And ifthey're good policies for bad reasons, I prefer that to bad policies for good reasons."
+p1146
+aS'So,you know, for a politician to do something like take other people\'s money from aroundthe country and spend it on some pork barrel project in his district and then go to bragto voters about this and say, "Reelect me.'
+p1147
+aS'Look how great I am," he\'s basically stealingother people\'s money from around the country and using that money to buy the votesof the voters.'
+p1148
+aS"And to me that's at least equally troubling."
+p1149
+asg13
+(dp1150
+I0
+S'20'
+p1151
+ssa(dp1152
+g8
+(lp1153
+S'So the side arguing against the --'
+p1154
+asg11
+S'JOHN DONVAN'
+p1155
+sg16
+(lp1156
+g1154
+asa(dp1157
+g8
+(lp1158
+S'Perfectly legal though.'
+p1159
+asg11
+S'JACOB SULLUM'
+p1160
+sg16
+(lp1161
+g1159
+asa(dp1162
+g8
+(lp1163
+S'Your opponents are saying that there is no evidence that in fact politicians will beinfluenced in office by contributions from donors as they were running for office.Jonathan Soros or Trevor Potter, do you want to take that on?'
+p1164
+asg11
+S'JOHN DONVAN'
+p1165
+sg16
+(lp1166
+S'Your opponents are saying that there is no evidence that in fact politicians will be influenced in office by contributions from donors as they were running for office.'
+p1167
+aS'Jonathan Soros or Trevor Potter, do you want to take that on?'
+p1168
+asa(dp1169
+g8
+(lp1170
+S'So maybe just very quickly first, without getting -- I think we could get into a verytechnical debate.'
+p1171
+aS"But issue advertising is not disclosed.There's a lot of that going on this summer."
+p1172
+aS"It doesn't flow through independentexpenditure committees, and so it doesn't get disclosed."
+p1173
+aS"So in the aggregate, weactually don't know the answer."
 p1174
-sg10
-(dp1175
-I2
-S'28'
+aS"So I don't think we want to get bogged down on that."
+p1175
+aS'Ithink one of the things we should think about here is the definition of corruption in thefirst instance.'
 p1176
-ssg13
-(lp1177
-S"No, that's -- I'm not talking about regulating the people. I'm talking about regulating the"
+aS"And because we're not only talking about buying a vote, that there'sactually a deal that says, I'm going to hand you this money, and you're going to vote thisway."
+p1177
+aS"We're talking about, A, that does -- that is an issue that can be prosecuted."
 p1178
-aS"candidates. To me, that's a different thing."
+aS"Itdoesn't happen --"
 p1179
-aS"When people -- let me say, the laws on coordination are actually -- they're not as weak"
+asg11
+S'JONATHAN SOROS'
 p1180
-aS"as you make them out to be. It's not just a matter of sharing inside information,"
-p1181
-aS"although that's part of it. There -- and it covers much more than independent"
+sg13
+(dp1181
+I4
+S'21'
 p1182
-aS"expenditures. It's any communication that's run within 90 days of an election is covered"
-p1183
-aS'by the laws on coordination. And a communication is considered coordinated if it meets'
+ssg16
+(lp1183
+S'So maybe just very quickly first, without getting -- I think we could get into a very technical debate.'
 p1184
-aS'one of just any one of five different tests. One is if the communication is requested or'
+aS'But issue advertising is not disclosed.'
 p1185
-aS'suggested by the candidate or if you suggested it somehow to the candidate, and the'
+aS"There's a lot of that going on this summer."
 p1186
-aS"candidate agreed. You don't need formal collaboration or formal agreement to this"
+aS"It doesn't flow through independent expenditure committees, and so it doesn't get disclosed."
 p1187
-aS'from the candidate. If the candidate or their committee or their party is materially'
+aS"So in the aggregate, we actually don't know the answer."
 p1188
-aS'involved in the decisions in any way; if someone creates the communication after one or'
+aS"So I don't think we want to get bogged down on that."
 p1189
-aS"more substantial discussions about the campaign's plans, projects or needs; or if they"
+aS'I think one of the things we should think about here is the definition of corruption in the first instance.'
 p1190
-aS'employ a common vendor and use any of that information, or they use someone who is'
+aS"And because we're not only talking about buying a vote, that there's actually a deal that says, I'm going to hand you this money, and you're going to vote this way."
 p1191
-aS'previously employed by the campaign in the previous 120 days. So --'
+aS"We're talking about, A, that does -- that is an issue that can be prosecuted."
 p1192
-asg19
-(dp1193
-I2
-S'19:47:14'
-p1194
-sI15
-S'19:48:25'
+aS"It doesn't happen --"
+p1193
+asg23
+(dp1194
+S'19:33:18'
 p1195
+I2
 ssa(dp1196
 g8
-S'JOHN DONVAN'
-p1197
-sg13
-(lp1198
-S'These are all rules that you -- that are in place that you think are being enforced and'
+(lp1197
+S'Can I step in, just to the bottom and I will let you continue.'
+p1198
+aS"But they're saying therereally is no evidence that -- there really is no evidence that politicians will perform inoffice according to how they were funded on the way to office."
 p1199
-aS"that are effectively limiting speech already? That they're -- that they're having effect?"
+asg11
+S'JOHN DONVAN'
 p1200
-asa(dp1201
-g8
-S'DAVID KEATING'
+sg16
+(lp1201
+S'Can I step in, just to the bottom and I will let you continue.'
 p1202
-sg13
-(lp1203
-S"Well, I -- this is part of maintaining the independence. I don't have a problem with that"
-p1204
-aS"because I've said I think independent groups -- I think Americans should be able to get"
-p1205
-aS'together and independently of the parties and the candidates, be able to speak about'
+aS"But they're saying there really is no evidence that -- there really is no evidence that politicians will perform in office according to how they were funded on the way to office."
+p1203
+asa(dp1204
+g8
+(lp1205
+S"Well, what they said was there's no evidence of corruption."
 p1206
-aS'where the country should be headed, what candidates should be elected or what'
+aS'That would be a greatsurprise to all those people sitting in jail across the country because they were thesubject of FBI stings where they took money for official action.'
 p1207
-aS'candidates should be defeated.'
+aS"There are people in avariety of state legislatures.There're members of Congress who have freezers full of cash because they took --"
 p1208
-asa(dp1209
-g8
-S'JOHN DONVAN'
-p1210
-sg13
-(lp1211
-S"But in a -- I'm just a little unclear on the point that you were just making. Were you"
+asg11
+S'TREVOR POTTER'
+p1209
+sg16
+(lp1210
+S"Well, what they said was there's no evidence of corruption."
+p1211
+aS'That would be a great surprise to all those people sitting in jail across the country because they were the subject of FBI stings where they took money for official action.'
 p1212
-aS"going through a list of rules that you feel you're good with?"
+aS'There are people in a variety of state legislatures.'
 p1213
-asa(dp1214
+aS"There're members of Congress who have freezers full of cash because they took --"
+p1214
+asg23
+(dp1215
+S'19:34:19'
+p1216
+I4
+ssa(dp1217
 g8
-S'DAVID KEATING'
-p1215
-sg13
-(lp1216
-S'These are the rules that exist today.'
-p1217
-asa(dp1218
-g8
-S'JOHN DONVAN'
+(lp1218
+S"Okay, but that's not -- "
 p1219
-sg13
-(lp1220
-S'Okay.'
-p1221
-asa(dp1222
+asg11
+S'JOHN DONVAN'
+p1220
+sg16
+(lp1221
+S"Okay, but that's not -- "
+p1222
+asa(dp1223
 g8
-S'DAVID KEATING'
-p1223
-sg10
-(dp1224
-I4
-S'29'
+(lp1224
+S'Those are direct bribes.'
 p1225
-ssg13
-(lp1226
-S"I think a lot of people say, oh, there really aren't any laws against coordination. I mean,"
+aS'Those are not campaign contributions.'
+p1226
+asg11
+S'MALE SPEAKER'
 p1227
-aS"the idea that someone used to work for a candidate, it wouldn't be surprising that they"
-p1228
-aS"would support the candidate. They probably worked with them. They've seen the"
+sg16
+(lp1228
+S'Those are direct bribes.'
 p1229
-aS'candidate as a good person, maybe a good leader potentially.'
+aS'Those are not campaign contributions.'
 p1230
-aS"It wouldn't be surprising --"
-p1231
-asg19
-(dp1232
-I4
-S'19:49:21'
-p1233
-ssa(dp1234
+asa(dp1231
 g8
+(lp1232
+S"Yeah, he's got you."
+p1233
+aS"That's --"
+p1234
+asg11
 S'JOHN DONVAN'
 p1235
-sg13
+sg16
 (lp1236
-S'Okay.'
+S"Yeah, he's got you."
 p1237
-asa(dp1238
-g8
-S'DAVID KEATING'
-p1239
-sg13
-(lp1240
-S"-- they'd want to get involved."
+aS"That's --"
+p1238
+asa(dp1239
+g27
+(dp1240
+I1
+S'[laughter]'
 p1241
-asa(dp1242
-g8
-S'JOHN DONVAN'
+ssg8
+(lp1242
+S'Those are two different things.'
 p1243
-sg13
-(lp1244
-S'So Trevor Potter and Jonathan Soros, what David Keating has said is there are rules in'
-p1245
-aS"place, and they're -- there is regulation. And some of it they're okay with, and that your"
-p1246
-aS"argument that there's a Swiss cheese of loopholes is a great exaggeration."
-p1247
-asa(dp1248
+asg11
+S'MALE SPEAKER'
+p1244
+sg16
+(lp1245
+g1243
+asa(dp1246
 g8
-S'TREVOR POTTER'
+(lp1247
+S'Actually, you know, a couple weeks ago, the governor of Alabama was returned to jailfor having taken a campaign contribution and then given someone an officialappointment for it.'
+p1248
+aS"I'm not saying everyone does this."
 p1249
-sg13
-(lp1250
-S'Well, I heard David say --'
+aS"I'm saying two things: First, itdefinitely has happened across the country and in our history."
+p1250
+aS'There is a long series ofaffidavits in the McCain-Feingold litigation and testimony from members of Congressand, not surprisingly, former members who feel freer to speak about it saying, I seevotes affected all the time by where the money came from, which industry was beingaffected.'
 p1251
-asa(dp1252
-g8
-S'JOHN DONVAN'
+aS"And that's the underlying corrosive problem, plus the amount of time thatthese members spend, which is now estimated at up to 70 percent of their working daysraising money.Those are the problems we face."
+p1252
+asg11
+S'TREVOR POTTER'
 p1253
 sg13
-(lp1254
-S'Trevor Potter.'
+(dp1254
+I5
+S'22'
 p1255
-asa(dp1256
-g8
-S'TREVOR POTTER'
+ssg16
+(lp1256
+S'Actually, you know, a couple weeks ago, the governor of Alabama was returned to jail for having taken a campaign contribution and then given someone an official appointment for it.'
 p1257
-sg13
-(lp1258
-S'-- it gives me great hope in the outcome of the debate because I heard him say that'
+aS"I'm not saying everyone does this."
+p1258
+aS"I'm saying two things: First, it definitely has happened across the country and in our history."
 p1259
-aS'there are rules in place. We may need more rules, and that would seem to support our'
+aS'There is a long series of affidavits in the McCain-Feingold litigation and testimony from members of Congress and, not surprisingly, former members who feel freer to speak about it saying, I see votes affected all the time by where the money came from, which industry was being affected.'
 p1260
-aS"side of the proposition. But let's talk about the rules that are actually here. You know,"
+aS"And that's the underlying corrosive problem, plus the amount of time that these members spend, which is now estimated at up to 70 percent of their working days raising money."
 p1261
-aS"David -- I think David has to say that it's important that these groups be independent"
+aS'Those are the problems we face.'
 p1262
-aS'because the Supreme Court said, in allowing these independent groups to exist, that the'
-p1263
-aS"reason they wouldn't corrupt and therefore could take unlimited money, they're totally"
+asg23
+(dp1263
+S'19:35:23'
 p1264
-aS'independent of candidate and party committees. As I think Jonathan did a good job of'
-p1265
-aS'saying, totally independent of candidate and party committees?'
-p1266
-aS'You do have former campaign aids, lawyers, fundraisers for the candidates running'
+I10
+ssa(dp1265
+g8
+(lp1266
+S"We're talking about a couple of different things here."
 p1267
-aS'these things. Unfortunately, one of the few times the FEC has not dead locked in the'
+asg11
+S'DAVID KEATING'
 p1268
-aS'last couple years was actually agreeing that candidates could raise money for these'
-p1269
-aS'super PACs as long as they did so within only limited amounts. We have incidents this'
-p1270
-aS'year of the candidates traveling with the principal funder of a super PAC, candidates'
-p1271
-aS"thanking the super PAC when he left the race saying he couldn't have done it without"
+sg16
+(lp1269
+g1267
+asa(dp1270
+g8
+(lp1271
+S'David Keating.'
 p1272
-aS'them. This seems to me not to be totally independent of candidates and parties.'
+asg11
+S'JOHN DONVAN'
 p1273
-asg19
-(dp1274
-I8
-S'19:50:17'
-p1275
-ssa(dp1276
+sg16
+(lp1274
+g1272
+asa(dp1275
 g8
-S'JOHN DONVAN'
+(lp1276
+S"What we're talking about here is the ability of Americans to get together as -- in groupstogether to speak to each other and to speak to other Americans."
 p1277
-sg13
-(lp1278
-S'Jacob Sullum.'
+aS"And you can't pointto a single member of Congress, to a single independent expenditure where they havefelt this kind of pressure."
+p1278
+aS"It hasn't happened."
 p1279
-asa(dp1280
-g23
-(dp1281
-I1
-S'[break]'
+aS"And it's not going to happen."
+p1280
+aS'Now, wecan argue about the rules we may need to ensure the independence of these groups.But we think these groups should be able to independently raise as much and speak asmuch to the American people.'
+p1281
+aS'The difference between Americans getting together andspeaking to other Americans is one thing.'
 p1282
-sI9
-S'[laughter]'
+aS"Americans and contributing directly tocandidates may be a separate issue.I'd also like to point out that before the SpeechNow decision and the Citizens Uniteddecision, there were many states, in fact a majority of states in the country that allowunlimited contributions not only to independent expenditure committees but to thecandidates themselves."
 p1283
-ssg8
-S'JACOB SULLUM'
+aS'I think what we should be looking at is the quality of thegovernment in those states.'
 p1284
-sg10
-(dp1285
-I0
-S'30'
+aS'And Pew, along with Governing Magazine, Pew CharitableTrusts and Governing Magazine, rated the states for quality of governance, efficiency ofproviding services.'
+p1285
+aS'And the states, six of the best managed states in the country werestates where there were unlimited contributions allowed to these types of super PACs,and most of these states also allowed unlimited contributions to the candidates.'
 p1286
-ssg13
-(lp1287
-S'Yeah, I think, you know, there is an issue here. I mean, it does look --'
+aS'Sogood government, efficient government is consistent with people having full free speechrights.'
+p1287
+asg11
+S'DAVID KEATING'
 p1288
-aS'-- get rid of these limits on contributions to candidates then you can raise whatever'
-p1289
-aS'money you want to raise for your own message, and you will be responsible for your'
+sg16
+(lp1289
+S"What we're talking about here is the ability of Americans to get together as -- in groups together to speak to each other and to speak to other Americans."
 p1290
-aS"own message, and you can't play this game of saying, oh, we can't coordinate. I can't"
+aS"And you can't point to a single member of Congress, to a single independent expenditure where they have felt this kind of pressure."
 p1291
-aS"talk to them. And you have to be responsible for your own speech. That's not to say"
+aS"It hasn't happened."
 p1292
-aS"that you get rid of the genuinely independent voices. But I think if what you're worried"
+aS"And it's not going to happen."
 p1293
-aS"about is this sort of sneakiness, you know, it's kind of like, you know, a prostitute who"
+aS'Now, we can argue about the rules we may need to ensure the independence of these groups.'
 p1294
-aS"pretends she's an escort, or you go into a head shop, and they got all these fancy water"
+aS'But we think these groups should be able to independently raise as much and speak as much to the American people.'
 p1295
-aS"pipes, and it's for -- you know, for use only with tobacco or other legal herbs."
+aS'The difference between Americans getting together and speaking to other Americans is one thing.'
 p1296
-aS"And you might say these are very dishonest people. But in fact, it's bad laws that"
+aS'Americans and contributing directly to candidates may be a separate issue.'
 p1297
-aS"produce that kind of dishonesty. So we've got bad laws we should get rid of."
+aS"I'd also like to point out that before the SpeechNow decision and the Citizens United decision, there were many states, in fact a majority of states in the country that allow unlimited contributions not only to independent expenditure committees but to the candidates themselves."
 p1298
-asg19
-(dp1299
-I1
-S'19:51:36'
+aS'I think what we should be looking at is the quality of the government in those states.'
+p1299
+aS'And Pew, along with Governing Magazine, Pew Charitable Trusts and Governing Magazine, rated the states for quality of governance, efficiency of providing services.'
 p1300
-sI11
-S'19:52:15'
+aS'And the states, six of the best managed states in the country were states where there were unlimited contributions allowed to these types of super PACs, and most of these states also allowed unlimited contributions to the candidates.'
 p1301
-ssa(dp1302
-g8
-S'JOHN DONVAN'
-p1303
-sg10
-(dp1304
-I15
-S'31'
+aS'So good government, efficient government is consistent with people having full free speech rights.'
+p1302
+asg23
+(dp1303
+S'19:37:14'
+p1304
+I20
+sS'19:36:13'
 p1305
-ssg13
-(lp1306
-S'All right. I want to go in a moment to you in the audience to take questions from you'
-p1307
-aS'and to remind you that I encourage you to -- to be terse in your questions, to try to'
+I9
+ssa(dp1306
+g8
+(lp1307
+S"All right, so two attacks have been made on your argument that money is corrupting.Number one, they said there's no evidence that politicians are -- once in office arearguing --- are operating as agents of the people who funded them, and, secondly, thatthere is superior or equally good government in states that have unlimited contribution."
 p1308
-aS"really make it a question that's related to our topic. And I'm fine with you stating a"
-p1309
-aS"short premise, but I really don't want you to make a speech because these are the guys"
-p1310
-aS'who have to make the speeches. And what will happen is if I call on you, there will be a'
-p1311
-aS'microphone in the aisle passed over to you. Please stand up. We would appreciate it if'
-p1312
-aS"you will tell us your name and then hold the microphone about a fist's distance from"
-p1313
-aS'your mouth. So as that is getting set up, I just want to take one more question -- one'
-p1314
-aS'more point back to the side that is arguing against super PACs from your opponents. It'
-p1315
-aS'was very much a thrust of their argument that there is a First Amendment here -- issue'
-p1316
-aS"in this. And you haven't addressed at all whether in fact there is a valid core at all to"
-p1317
-aS'their argument that there is a free speech issue here. And, you know, you may -- you'
-p1318
-aS'may feel that there are other interests that outweigh it, or you may feel there is no free'
-p1319
-aS'speech and just -- but I want to hear your view on it. Is there anything to it?'
-p1320
-aS'Jonathan Soros.'
-p1321
-asg19
-(dp1322
-I14
-S'19:53:17'
-p1323
-ssa(dp1324
-g8
-S'JONATHAN SOROS'
-p1325
-sg13
-(lp1326
-S'I actually think that Trevor acknowledged that in the first line of his remarks. That there'
-p1327
-aS"is a free speech interest here. But what I -- and I wanted to -- I guess we're not going to"
-p1328
-aS'go back and have time, but I was really startled by the comment about corruption not'
-p1329
-aS'being a sufficient logic for countervailing some of that. So to focus on "Congress shall'
-p1330
-aS'pass no law," that\'s just not true. We have lots of laws that curtail our speech in favor'
-p1331
-aS"of some other public interest. And here there's a clear public interest in protecting the"
-p1332
-aS'integrity of our electoral process from the possibility of corruption.'
-p1333
-asa(dp1334
-g8
+asg11
 S'JOHN DONVAN'
-p1335
+p1309
 sg13
-(lp1336
-S'All right. But it is a curtailment of speech, regulation of money and politics would be --'
-p1337
-asa(dp1338
+(dp1310
+I0
+S'23'
+p1311
+ssg16
+(lp1312
+S'All right, so two attacks have been made on your argument that money is corrupting.'
+p1313
+aS"Number one, they said there's no evidence that politicians are -- once in office are arguing --- are operating as agents of the people who funded them, and, secondly, that there is superior or equally good government in states that have unlimited contribution."
+p1314
+asa(dp1315
 g8
+(lp1316
+S"So let's --"
+p1317
+asg11
 S'JONATHAN SOROS'
+p1318
+sg16
+(lp1319
+g1317
+asa(dp1320
+g8
+(lp1321
+S'Jonathan Soros.'
+p1322
+asg11
+S'JOHN DONVAN'
+p1323
+sg16
+(lp1324
+g1322
+asa(dp1325
+g8
+(lp1326
+S'-- go back to the first one for a second.'
+p1327
+aS"I think in the first instance, I think Mr. Keating isfighting yesterday's battle as it relates to whether groups are allowed to gather togetherand form super PACs."
+p1328
+aS'They are.'
+p1329
+aS'The question is should there be rules around that andwhat should those rules be.'
+p1330
+aS"Our principal argument in ours is that those rules arevirtually nonexistent now, and that's a real problem."
+p1331
+aS"You're suggesting that there is noevidence of independent expenditures corrupting."
+p1332
+aS"I would say we're at the early stages.This is kind of like the year after they invented television, we're looking at television ads,right?"
+p1333
+aS"We're seeing the first wave of these independent expenditures, and so not clearthat that's true, but we're actually not even arguing that, that shouldn't happen, we'renot arguing that people shouldn't be allowed to come together in groups and speak in acollaborative voice, in a collective voice.We are arguing that if the evidence presents itself that that is, in fact, corrupting, thatyou might want to go back and consider regulating that activity as well, but what we aresaying is that the rules around independence and separation from the candidates areclearly not there."
+p1334
+asg11
+S'JONATHAN SOROS'
+p1335
+sg16
+(lp1336
+S'-- go back to the first one for a second.'
+p1337
+aS"I think in the first instance, I think Mr. Keating is fighting yesterday's battle as it relates to whether groups are allowed to gather together and form super PACs."
+p1338
+aS'They are.'
 p1339
-sg13
-(lp1340
-S"Can be, yeah. And again, as Trevor indicated -- the Supreme Court actually didn't do a"
+aS'The question is should there be rules around that and what should those rules be.'
+p1340
+aS"Our principal argument in ours is that those rules are virtually nonexistent now, and that's a real problem."
 p1341
-aS'terrible job with this when they addressed the question in Buckley, to say there are'
+aS"You're suggesting that there is no evidence of independent expenditures corrupting."
 p1342
-aS'different considerations when you are speaking yourself that has a stronger interest'
+aS"I would say we're at the early stages."
 p1343
-aS"than when you are giving money to other folks, when you're making a contribution."
+aS"This is kind of like the year after they invented television, we're looking at television ads, right?"
 p1344
-aS'And so the limits and the rules that you put around that have to be appropriately'
+aS"We're seeing the first wave of these independent expenditures, and so not clear that that's true, but we're actually not even arguing that, that shouldn't happen, we're not arguing that people shouldn't be allowed to come together in groups and speak in a collaborative voice, in a collective voice."
 p1345
-aS'tailored to how strong the interests are.'
+aS'We are arguing that if the evidence presents itself that that is, in fact, corrupting, that you might want to go back and consider regulating that activity as well, but what we are saying is that the rules around independence and separation from the candidates are clearly not there.'
 p1346
-asg19
+asg23
 (dp1347
-I4
-S'19:54:20'
+S'19:38:29'
 p1348
+I11
 ssa(dp1349
 g8
+(lp1350
+S'Jacob Sullum.'
+p1351
+asg11
 S'JOHN DONVAN'
-p1350
-sg13
-(lp1351
-S"But to your partner's point on that, Trevor."
 p1352
-asa(dp1353
+sg16
+(lp1353
+g1351
+asa(dp1354
 g8
-S'TREVOR POTTER'
-p1354
-sg10
-(dp1355
-I12
-S'32'
+(lp1355
+S'Could I just ask just a quick question?'
 p1356
-ssg13
-(lp1357
-S"Well, I mean, the answer is, of course. When you're talking about the First Amendment"
+aS'So do we now have unanimous agreement on thepanel that super PACs should be permitted -- are we all in agreement on that?'
+p1357
+aS'Thatwould be great, because then --'
 p1358
-aS"and political speech, you're going to have a free speech issue when you are regulating"
+asg11
+S'DAVID KEATING'
 p1359
-aS"money in politics. But that doesn't -- that just starts the question. It doesn't answer the"
-p1360
-aS"question. The Supreme Court itself, in Citizens United said government can't choose"
+sg16
+(lp1360
+S'Could I just ask just a quick question?'
 p1361
-aS"among speakers. Listeners have the right to hear every speaker. The government's role"
+aS'So do we now have unanimous agreement on the panel that super PACs should be permitted -- are we all in agreement on that?'
 p1362
-aS'is not to decide who speaks. Great absolutist language. The next case that comes along'
+aS'That would be great, because then --'
 p1363
-aS'is a group of foreigners who say, good, I want to speak. I live in New York. I happen to'
-p1364
-aS"work here. I'm not a U.S. citizen. There's a law that says I can't speak. People should"
-p1365
-aS"hear me. It's a First Amendment right of the American people to hear me. The court"
+asa(dp1364
+g8
+(lp1365
+S'What we just said was that we are starting the first year of this wave of money infederal elections.'
 p1366
-aS'throws them out on their ear. So this is not a clean-cut issue.'
+aS'We don\'t know yet what the effect is going to be.And what Jonathan just said was, "If we find out that they have the same corruptingpotential that contributions have been found to have, found by the Supreme Court tohave, based on lengthy trials, that then they, too -- we will have to look at whether theyshould be limited.'
 p1367
-aS'You look at this in balance among other things, as the court has done: The integrity of'
+aS'" One of the things that the court did, as I explained in my openingcomment, is to say there\'s a difference between our own independent speech and acontribution to something.'
 p1368
-aS'our government, the importance that people have confidence in the decisions being'
+aS"The Supreme Court has never faced this question of whathappens when you take your own money and you contribute to one of these super PACsand somebody else then decides how to spend the money and what to do on theadvertising, is that really your own independent speech which the court has said can'tbe limited, or is that a contribution to a group, and they have found contributions canbe limited to prevent the demonstrated danger of corruption."
 p1369
-aS'made, and then you look at where the money is spent, how it is disclosed, what we'
+asg11
+S'TREVOR POTTER'
 p1370
-aS'know. Those are all aspects of this.'
-p1371
-asg19
-(dp1372
-I10
-S'19:55:17'
-p1373
-ssa(dp1374
-g8
-S'JOHN DONVAN'
+sg13
+(dp1371
+I2
+S'24'
+p1372
+ssg16
+(lp1373
+S'What we just said was that we are starting the first year of this wave of money in federal elections.'
+p1374
+aS"We don't know yet what the effect is going to be."
 p1375
-sg13
-(lp1376
-S"All right. So Jacob Sullum, they're saying the free speech -- it's another example, or free"
+aS'And what Jonathan just said was, "If we find out that they have the same corrupting potential that contributions have been found to have, found by the Supreme Court to have, based on lengthy trials, that then they, too -- we will have to look at whether they should be limited.'
+p1376
+aS'" One of the things that the court did, as I explained in my opening comment, is to say there\'s a difference between our own independent speech and a contribution to something.'
 p1377
-aS'speech is not an absolute right.'
+aS"The Supreme Court has never faced this question of what happens when you take your own money and you contribute to one of these super PACs and somebody else then decides how to spend the money and what to do on the advertising, is that really your own independent speech which the court has said can't be limited, or is that a contribution to a group, and they have found contributions can be limited to prevent the demonstrated danger of corruption."
 p1378
-asa(dp1379
-g8
-S'JACOB SULLUM'
+asg23
+(dp1379
+S'19:39:12'
 p1380
-sg13
-(lp1381
-S'Well, I mean, this particular exception was just kind of pulled out of thin air. But there'
-p1382
-aS"are other kinds of restrictions like those that prevent fraud. I mean, that's a kind of"
+I2
+ssa(dp1381
+g8
+(lp1382
+S'Jacob Sullum.'
 p1383
-aS'speech restriction, but it has to do with preventing a right violation. And other -- you'
+asg11
+S'JOHN DONVAN'
 p1384
-aS"know, other exceptions like obscenity that I don't necessarily agree with. But I just"
-p1385
-aS'never -- have never bought this particular argument. Seems invented from whole cloth.'
-p1386
-aS'And I want to say one thing in favor of disagreeing rich people. Is that how you put it,'
-p1387
-aS'Jonathan?'
+sg16
+(lp1385
+g1383
+asa(dp1386
+g8
+(lp1387
+S'I think there\'s -- there\'s a problem here with the definition of "corruption.'
 p1388
-asa(dp1389
-g8
-S'JONATHAN SOROS'
+aS'" I mean, ifyou take a very broad definition of it, it\'s basically any inappropriate consideration,right, that causes you to vote a certain way.Well, some of it is actual quid pro quo corruption where you hand the guy a pile of cashand you say, "Vote my way," and that\'s definitely illegal, if you can prove it.'
+p1389
+aS"But if whatyou're saying is that politicians tend to be grateful for people who support them, or topeople support them, then it's true, but that would apply to celebrity endorsements,that would apply not just to super PACs but obviously also to rich people spending theirown money independently, which has always been legal, it would apply to voting acertain way because you like the way the lobbyist from that corporation dresses, youthink she's pretty."
 p1390
-sg13
-(lp1391
-S'Yes.'
+aS"I don't think that's illegal, but it seems improper."
+p1391
+aS'You can vote forterrible policies for all kinds of reasons.'
 p1392
-asa(dp1393
-g23
-(dp1394
-I24
-S'[laughter]'
+aS'I think we should be focused more on thepolicies.'
+p1393
+aS'I mean, people vote for terrible policies because they have crazy ideologiesthat drive them to do it, you know.'
+p1394
+aS"So I don't know why we're focused on this oneparticular area where there's potential for improper considerations when there are allkinds of other considerations that people might deem improper, and shouldn't we befocusing more on the results, the performance that people actually deliver once they'reelected.Is it a good performance, is it bad?"
 p1395
-ssg8
-S'JACOB SULLUM'
+aS'And part of that whole process is being able to speakon both sides of that.'
 p1396
-sg10
-(dp1397
-I18
-S'33'
-p1398
-ssg13
-(lp1399
-S"I mean, don't knock them. I mean, first of all, you have people of more modest means,"
-p1400
-aS'as David pointed out, who can pool their money as a result of having super PACs. But'
+asg11
+S'JACOB SULLUM'
+p1397
+sg13
+(dp1398
+I20
+S'25'
+p1399
+ssg16
+(lp1400
+S'I think there\'s -- there\'s a problem here with the definition of "corruption.'
 p1401
-aS"there is something to be said for disagreeing rich people. You've got billionaires, you"
+aS'" I mean, if you take a very broad definition of it, it\'s basically any inappropriate consideration, right, that causes you to vote a certain way.'
 p1402
-aS'know, who favor Democrats, and you have billionaires who favor Republicans.'
+aS'Well, some of it is actual quid pro quo corruption where you hand the guy a pile of cash and you say, "Vote my way," and that\'s definitely illegal, if you can prove it.'
 p1403
-aS'You\'ve got a bunch of rich guys who got together and put together a group called "The'
+aS"But if what you're saying is that politicians tend to be grateful for people who support them, or to people support them, then it's true, but that would apply to celebrity endorsements, that would apply not just to super PACs but obviously also to rich people spending their own money independently, which has always been legal, it would apply to voting a certain way because you like the way the lobbyist from that corporation dresses, you think she's pretty."
 p1404
-aS'Campaign for Primary Accountability," which I love, because what they do is they go'
+aS"I don't think that's illegal, but it seems improper."
 p1405
-aS'around the country. They look for entrenched incumbents of both parties, and they'
+aS'You can vote for terrible policies for all kinds of reasons.'
 p1406
-aS'target them for defeat. And I think this is a great thing. And just to give you one'
+aS'I think we should be focused more on the policies.'
 p1407
-aS'example of what most people will consider to be a progressive outcome, there was a'
+aS'I mean, people vote for terrible policies because they have crazy ideologies that drive them to do it, you know.'
 p1408
-aS'congressional race in Texas where Sylvestre Reyes, who was a long-time congressman,'
+aS"So I don't know why we're focused on this one particular area where there's potential for improper considerations when there are all kinds of other considerations that people might deem improper, and shouldn't we be focusing more on the results, the performance that people actually deliver once they're elected."
 p1409
-aS'very comfortable, terrible on the war on drugs. He was challenged by a guy named Beto'
+aS'Is it a good performance, is it bad?'
 p1410
-aS"O'Rourke. I think that's his name. He's a former city councilman. And he got help from"
+aS'And part of that whole process is being able to speak on both sides of that.'
 p1411
-aS"the campaign for primary accountability. And I don't know how much it helped him, but"
-p1412
-aS'it presumably helped him somewhat, and he won. So you now have a guy who is'
+asg23
+(dp1412
+S'19:40:17'
 p1413
-aS'written in favor of legalizing marijuana, written a book about it in fact. It says we need'
+I3
+sS'19:41:24'
 p1414
-aS'serious drug policy reform, replacing a hard line drug warrior. Both Democrats, right?'
-p1415
-aS"So that's an example of how rich people -- disagreeing rich people can -- can aid"
-p1416
-aS'progressive causes.'
-p1417
-aS'And of course in the Republican presidential primaries, you had Rick Santorum and'
-p1418
-aS'Newt Gingrich -- these are not the greatest examples, but they did hang in there a lot'
-p1419
-aS'longer than they would have, thanks to rich guys who gave money to super PACs'
-p1420
-aS'supporting them. Mitt Romney had challengers who were different in some particular'
-p1421
-aS'ways from him, not identical, in some ways better than him on certain issues, you know,'
-p1422
-aS"it's not a great group to pick among, but --"
-p1423
-aS'-- but it -- very clearly they could stay in that race. That race was more competitive than'
-p1424
-aS'it otherwise would have been, thanks to the super PAC money.'
-p1425
-asg19
-(dp1426
 I18
-S'19:57:17'
+ssa(dp1415
+g8
+(lp1416
+S"I want to move on and I -- just give me a second and I'll -- I'm going to ask yourpermission for this -- I want to move on to the second point that David was raisingbefore when I interrupted him."
+p1417
+aS'So do you want to respond to that point?'
+p1418
+aS"And then I'mgoing to go back to where David was talking before about the actual execution of therules and regulations."
+p1419
+asg11
+S'JOHN DONVAN'
+p1420
+sg16
+(lp1421
+S"I want to move on and I -- just give me a second and I'll -- I'm going to ask your permission for this -- I want to move on to the second point that David was raising before when I interrupted him."
+p1422
+aS'So do you want to respond to that point?'
+p1423
+aS"And then I'm going to go back to where David was talking before about the actual execution of the rules and regulations."
+p1424
+asa(dp1425
+g8
+(lp1426
+S'Sorry, which one was that?'
 p1427
-sI4
-S'19:56:18'
+asg11
+S'JONATHAN SOROS'
 p1428
-ssa(dp1429
-g23
-(dp1430
-I5
-S'[laughter]'
-p1431
-ssg8
-S'JOHN DONVAN'
+sg16
+(lp1429
+g1427
+asa(dp1430
+g8
+(lp1431
+S'No, you can answer -- you can say what you want to say.'
 p1432
-sg13
-(lp1433
-S'I want to remind you, we are in the question and answer section of this Intelligence'
+aS"But let's stop after that."
+p1433
+asg11
+S'JOHN DONVAN'
 p1434
-aS"Squared U.S. Debate. I'm John Donvan, your moderator. We have four debaters"
-p1435
-aS'arguing it out over this motion, "Two Cheers for Super PACs: Money in Politics is Still'
+sg16
+(lp1435
+S'No, you can answer -- you can say what you want to say.'
 p1436
-aS'Overregulated." Let\'s hear from our audience. That was -- I\'m considering using that'
+aS"But let's stop after that."
 p1437
-aS'applause, that was --'
-p1438
-aS"-- we could make that a moment. I'm going to pass, though."
-p1439
-aS"Any hands up. On the far -- gentleman on the aisle there, and if you wouldn't mind"
+asa(dp1438
+g8
+(lp1439
+S'Okay, sure.'
 p1440
-aS'rising so that we can see you, thanks.'
+aS'So just in responding to this question of corrupt -- I think that there areimportant features that distinguish the different types of influence from the influence ofmoney, right?'
 p1441
-asg19
-(dp1442
-I6
-S'19:58:17'
+aS"In the first instance, with money and we're talking about aclass of individuals who have a disproportionate and clear influence over the politicalprocess."
+p1442
+aS"You made a comment in your opening statement that the increase of moneyand sort of the increase of spending has generated more diversity of thought.Well, I don't think that we can rely for political diversity on disagreements between richpeople."
 p1443
-ssa(dp1444
-g8
-S'JAY LIPOW'
+aS"That's not a political process that allows for a full and open debate."
+p1444
+aS"And so let'stalk about results --"
 p1445
-sg13
-(lp1446
-S"Yes, my name is Jay Lipow . I've always believed that a"
-p1447
-aS'fundamental right like free speech can be abrogated only if you can show a compelling'
+asg11
+S'JONATHAN SOROS'
+p1446
+sg16
+(lp1447
+S'Okay, sure.'
 p1448
-aS"state interest. And I haven't seen any evidence that the presumption or the likelihood"
+aS'So just in responding to this question of corrupt -- I think that there are important features that distinguish the different types of influence from the influence of money, right?'
 p1449
-aS"of corruption is satisfactory to prove a compelling state interest. There hasn't been"
+aS"In the first instance, with money and we're talking about a class of individuals who have a disproportionate and clear influence over the political process."
 p1450
-aS'shown any actual corruption, has there?'
+aS'You made a comment in your opening statement that the increase of money and sort of the increase of spending has generated more diversity of thought.'
 p1451
-asa(dp1452
-g8
-S'JOHN DONVAN'
+aS"Well, I don't think that we can rely for political diversity on disagreements between rich people."
+p1452
+aS"That's not a political process that allows for a full and open debate."
 p1453
-sg13
-(lp1454
-S"All right, challenge to the side that's arguing against super PACs. Trevor Potter."
-p1455
-asa(dp1456
+aS"And so let's talk about results --"
+p1454
+asg23
+(dp1455
+S'19:42:17'
+p1456
+I6
+ssa(dp1457
 g8
-S'TREVOR POTTER'
-p1457
-sg10
-(dp1458
-I4
-S'34'
+(lp1458
+S' being rich people.'
 p1459
-ssg13
-(lp1460
-S'As I think I tried to explain earlier, there has. There are people who have gone to jail for'
-p1461
-aS'actual corruption proved at trials. In the McCain-Feingold litigation, former members of'
-p1462
-aS'Congress were interviewed by the other side who objected to the law, saying, "Did you'
-p1463
-aS'ever see actual corruption?"'
+asg11
+S'MALE SPEAKER'
+p1460
+sg16
+(lp1461
+g1459
+asa(dp1462
+g8
+(lp1463
+S"Let's talk about results for a moment, right?"
 p1464
-aS'The answer was, "Yes, I saw that money changed what happened in the Congress of the'
+aS"Because when we talk about corruption,we talk about the appearance of corruption, what we're talking about is the integrity ofthe system of representative government."
 p1465
-aS'United States." Either the desire to fundraise and get money from particular interests or'
+aS"It's about the belief that citizens have thatthe people who they elect to office are representing them."
 p1466
-aS'the facts that they had given money to party committees and, therefore, party leaders'
+aS'And the evidence showsthat less than 10 percent of Americans in a Gallup poll believe that their electedrepresentatives are actually working in their interest.'
 p1467
-aS'said, "We can\'t go after that, we can\'t do this --"'
+aS"That's a dangerous place for ademocracy."
 p1468
-asg19
-(dp1469
-I4
-S'19:59:17'
-p1470
-ssa(dp1471
-g8
-S'JOHN DONVAN'
+asg11
+S'JONATHAN SOROS'
+p1469
+sg16
+(lp1470
+S"Let's talk about results for a moment, right?"
+p1471
+aS"Because when we talk about corruption, we talk about the appearance of corruption, what we're talking about is the integrity of the system of representative government."
 p1472
-sg13
-(lp1473
-S'Can you give us an --'
+aS"It's about the belief that citizens have that the people who they elect to office are representing them."
+p1473
+aS'And the evidence shows that less than 10 percent of Americans in a Gallup poll believe that their elected representatives are actually working in their interest.'
 p1474
-asa(dp1475
+aS"That's a dangerous place for a democracy."
+p1475
+asa(dp1476
 g8
-S'TREVOR POTTER'
-p1476
-sg13
 (lp1477
-S'"-- because of --"'
+S"Okay, let's keep going on this."
 p1478
-asa(dp1479
-g8
+aS'Jacob Sullum.'
+p1479
+asg11
 S'JOHN DONVAN'
 p1480
-sg13
+sg16
 (lp1481
-S'-- a concrete example, not quite hypothetical of the sort -- you know, do you recall any'
+S"Okay, let's keep going on this."
 p1482
-aS'specifics of any sort of deal that was done that way?'
+aS'Jacob Sullum.'
 p1483
 asa(dp1484
 g8
-S'TREVOR POTTER'
-p1485
-sg13
-(lp1486
-S'Sure, Senator McCain testified that in the Republican caucus when the subject came up'
+(lp1485
+S"The problem with this standard -- this crazy standard -- and I grant you, it was endorsedby the Supreme Court, but it's still insane -- the appearance of corruption, that we needto prevent the appearance of corruption."
+p1486
+aS"So that means the more that Jonathan andTrevor go around talking about corruption and how horrible it is and how everybody'scorrupt and, of course, money buys votes and everybody knows it, even if it'scompletely false, they go around talking about, now everybody's worried aboutcorruption."
 p1487
-aS'of tobacco legislation the Republican leader said, "They\'ve just given us hundreds of'
+aS"That justifies whatever regulations they're proposing.It has this sort of circular quality to it."
 p1488
-aS'thousands of dollars. This is something we really can\'t support."'
+aS"I don't think it should hinge on the appearance ofcorruption."
 p1489
-asa(dp1490
-g8
-S'JOHN DONVAN'
+aS"Maybe it should hinge on the reality of corruption, although I don't buy thisargument at all that the fear of even actual corruption, quid pro quo corruption, justifiesrestrictions on speech."
+p1490
+aS'And the Supreme Court has basically said it does.'
 p1491
-sg13
-(lp1492
-S"That's worrisome. Jacob Sullum."
+aS'I think theywere wrong.'
+p1492
+aS"I think that they're moving in the right direction now."
 p1493
-asa(dp1494
-g8
-S'JACOB SULLUM'
+aS"But I just don't buyit."
+p1494
+aS'Is there some kind of, you know, codicil that\'s attached to the First Amendment thatsays, "Except when you\'re worried about corruption, you know, then you can restrictspeech"?'
 p1495
+asg11
+S'JACOB SULLUM'
+p1496
 sg13
-(lp1496
-S'Can I push -- I want to push this definition of corruption a little bit because I think --'
-p1497
-asa(dp1498
-g8
-S'JOHN DONVAN'
-p1499
-sg13
-(lp1500
-S'No, no, but can you respond to that case? To that example? If that happened, does'
+(dp1497
+I0
+S'26'
+p1498
+ssg16
+(lp1499
+S"The problem with this standard -- this crazy standard -- and I grant you, it was endorsed by the Supreme Court, but it's still insane -- the appearance of corruption, that we need to prevent the appearance of corruption."
+p1500
+aS"So that means the more that Jonathan and Trevor go around talking about corruption and how horrible it is and how everybody's corrupt and, of course, money buys votes and everybody knows it, even if it's completely false, they go around talking about, now everybody's worried about corruption."
 p1501
-aS'that --'
+aS"That justifies whatever regulations they're proposing."
 p1502
-asa(dp1503
-g8
-S'JACOB SULLUM'
+aS'It has this sort of circular quality to it.'
+p1503
+aS"I don't think it should hinge on the appearance of corruption."
 p1504
-sg13
-(lp1505
-S"You're talking about soft money, is that the deal?"
+aS"Maybe it should hinge on the reality of corruption, although I don't buy this argument at all that the fear of even actual corruption, quid pro quo corruption, justifies restrictions on speech."
+p1505
+aS'And the Supreme Court has basically said it does.'
 p1506
-asg19
-(dp1507
-I1
-S'20:00:19'
+aS'I think they were wrong.'
+p1507
+aS"I think that they're moving in the right direction now."
 p1508
-ssa(dp1509
-g8
-S'TREVOR POTTER'
+aS"But I just don't buy it."
+p1509
+aS'Is there some kind of, you know, codicil that\'s attached to the First Amendment that says, "Except when you\'re worried about corruption, you know, then you can restrict speech"?'
 p1510
-sg13
-(lp1511
-S'Correct, sell contributions to party committees.'
+asg23
+(dp1511
+S'19:43:24'
 p1512
-asa(dp1513
+I7
+ssa(dp1513
 g8
-S'JACOB SULLUM'
-p1514
-sg10
-(dp1515
-I2
-S'35'
+(lp1514
+S'David Keating.'
+p1515
+aS"I'll come back to you."
 p1516
-ssg13
-(lp1517
-S"Yeah, yeah, I don't think that should be happening. Is that the question? Yeah, it should"
+aS'David Keating.'
+p1517
+asg11
+S'JOHN DONVAN'
 p1518
-aS'not be happening.'
-p1519
-asa(dp1520
-g8
-S'JOHN DONVAN'
+sg16
+(lp1519
+S'David Keating.'
+p1520
+aS"I'll come back to you."
 p1521
-sg13
-(lp1522
-S"Yeah, yeah, that's the question, yeah."
-p1523
-asa(dp1524
+aS'David Keating.'
+p1522
+asa(dp1523
 g8
-S'JACOB SULLUM'
+(lp1524
+S"You know, one of the benefits of all this new regulation and all these new laws thatwe've had basically since the mid-1970s is we've been able now to track how attitudesabout government have changed.And what has been found is the states that have the strongest laws, the most restrictivecontribution limits, the people have no more faith in those governments than the stateswhere there are unlimited contributions."
 p1525
-sg13
-(lp1526
-S'But seriously think about what you have in mind when you say, "corruption." There\'s a'
+aS"This has no affect in the people's opinionabout the appearance of corruption or the corruption of policies at the state level."
+p1526
+aS"So itsimply doesn't work."
 p1527
-aS'guy, a state senator in New York, Roy McDonald, who voted in favor of the Gay'
+aS"If the idea is that people are going to have more faith in theirgovernment from these restrictive laws that are very complicated, burden speech, andprevent grassroots groups from forming easily, they simply don't work."
 p1528
-aS"Marriage Bill and the primary's tomorrow, right? So he is up for reelection, or he's up"
+asg11
+S'DAVID KEATING'
 p1529
-aS'for renomination tomorrow, and before he decided to vote in favor of the Gay Marriage'
-p1530
-aS'Bill, he had assurances from gay rights activists that they would help him raise money to'
+sg16
+(lp1530
+S"You know, one of the benefits of all this new regulation and all these new laws that we've had basically since the mid-1970s is we've been able now to track how attitudes about government have changed."
 p1531
-aS'support his campaign. Is that corruption? And I think that your idea of whether that is'
+aS'And what has been found is the states that have the strongest laws, the most restrictive contribution limits, the people have no more faith in those governments than the states where there are unlimited contributions.'
 p1532
-aS'corruption is going to hinge on your policy views to a large extent. So keep that in mind.'
+aS"This has no affect in the people's opinion about the appearance of corruption or the corruption of policies at the state level."
 p1533
-aS"I'm -- you know, just think about it."
+aS"So it simply doesn't work."
 p1534
-asa(dp1535
+aS"If the idea is that people are going to have more faith in their government from these restrictive laws that are very complicated, burden speech, and prevent grassroots groups from forming easily, they simply don't work."
+p1535
+asg23
+(dp1536
+S'19:44:13'
+p1537
+I3
+ssa(dp1538
 g8
-S'JOHN DONVAN'
-p1536
-sg13
-(lp1537
-S'Sir, on the aisle, yep. Mic is coming to you from behind you. Thanks.'
-p1538
-asa(dp1539
-g8
-S'JAMIE WEINSTEIN'
+(lp1539
+S'One more point on this.'
 p1540
-sg13
-(lp1541
-S'Jamie Weinstein, senior editor of the Daily Caller. Jacob kind of stole my thunder at the'
+aS'Trevor Potter.'
+p1541
+asg11
+S'JOHN DONVAN'
 p1542
-aS'end with my question, but I would like to get your side to answer it.'
-p1543
-aS'He pointed to the Republican primary this year, and it actually seems to be more'
+sg16
+(lp1543
+S'One more point on this.'
 p1544
-aS'competitive because of the super PACs. Gingrich and Santorum were able to stay in the'
+aS'Trevor Potter.'
 p1545
-aS'race longer and gave Mitt Romney a challenge where he otherwise may have been able'
-p1546
-aS"to mow down them much more easily without his super PACs. Isn't that a positive?"
-p1547
-aS'More competitive elections?'
-p1548
-asg19
-(dp1549
-I2
-S'20:01:16'
-p1550
-ssa(dp1551
+asa(dp1546
 g8
+(lp1547
+S"On that, I think we have to recognize -- it's not a reach at all -- that there is, in this, afundamental difference between the federal government in Washington and what ishappening at the state level."
+p1548
+aS'The federal government has this enormous power.'
+p1549
+aS"TheLibertarians in the room will be happy I'm saying this."
+p1550
+aS"But it has this enormous powerover the purse, the tax system, the way much of American life works.And so it makes sense that if you were seeking a major tax break, if you want youraircraft carrier bought, the big money that you would be trying to influence whatCongress does, that, it seems to me, is why we see the amount of money being spent onfederal elections, and it's vastly more than is going to be spent in state elections,because the benefits of that extra money, if you get your aircraft carrier, your special taxbreak, the bill that hurts your opponent and saves you, that's huge for the interests thatneed that."
+p1551
+asg11
 S'TREVOR POTTER'
 p1552
 sg13
-(lp1553
-S'Well, what you had was --'
+(dp1553
+I3
+S'27'
 p1554
-asa(dp1555
-g8
-S'JOHN DONVAN'
+ssg16
+(lp1555
+S"On that, I think we have to recognize -- it's not a reach at all -- that there is, in this, a fundamental difference between the federal government in Washington and what is happening at the state level."
 p1556
-sg13
-(lp1557
-S'Trevor Potter.'
+aS'The federal government has this enormous power.'
+p1557
+aS"The Libertarians in the room will be happy I'm saying this."
 p1558
-asa(dp1559
-g23
-(dp1560
-I8
-S'[laughter]'
-p1561
-ssg8
-S'TREVOR POTTER'
+aS'But it has this enormous power over the purse, the tax system, the way much of American life works.'
+p1559
+aS"And so it makes sense that if you were seeking a major tax break, if you want your aircraft carrier bought, the big money that you would be trying to influence what Congress does, that, it seems to me, is why we see the amount of money being spent on federal elections, and it's vastly more than is going to be spent in state elections, because the benefits of that extra money, if you get your aircraft carrier, your special tax break, the bill that hurts your opponent and saves you, that's huge for the interests that need that."
+p1560
+asg23
+(dp1561
+S'19:45:17'
 p1562
-sg10
-(dp1563
-I8
-S'36'
-p1564
-ssg13
-(lp1565
-S'-- huge contributions to what Romney referred to as "my super PAC," what Gingrich'
+I5
+ssa(dp1563
+g8
+(lp1564
+S'All right.'
+p1565
+aS'I want to move to the point, David, when I interrupted you at the beginning inyour opening comment.'
 p1566
-aS'clearly saw as his super PAC, as a way of getting around the normal contribution limits. I'
+aS"Your opponent Jonathan Soros has described the tangle offederal election laws as a Swiss cheese of loopholes that's ineffective."
 p1567
-aS"don't know that, that was a particular benefit to anybody, that all the sides were"
+aS"I don't know ifcheese can be effective or ineffective, but you know what I'm saying.In other words, he's saying there are regulations, but they're not regulating."
 p1568
-aS"armored up significantly larger than they normally would be in a primary. You're right,"
+aS"It's notworking at any level."
 p1569
-aS'the primary went on longer because instead of having to worry about for Gingrich'
+aS'And I want you to take that point on.'
 p1570
-aS'whether they were donors who would support him and how he could keep going when'
+asg11
+S'JOHN DONVAN'
 p1571
-aS'he kept losing primaries, all he had to worry about was whether he made one man'
-p1572
-aS'happy or not --'
+sg16
+(lp1572
+S'All right.'
 p1573
-aS'-- and under these coordination regulations he could go meet with that man and talk to'
+aS'I want to move to the point, David, when I interrupted you at the beginning in your opening comment.'
 p1574
-aS'him.'
+aS"Your opponent Jonathan Soros has described the tangle of federal election laws as a Swiss cheese of loopholes that's ineffective."
 p1575
-asg19
-(dp1576
-I10
-S'20:02:21'
+aS"I don't know if cheese can be effective or ineffective, but you know what I'm saying."
+p1576
+aS"In other words, he's saying there are regulations, but they're not regulating."
 p1577
-ssa(dp1578
-g8
-S'JONATHAN SOROS'
+aS"It's not working at any level."
+p1578
+aS'And I want you to take that point on.'
 p1579
-sg13
-(lp1580
-S'I just want to --'
+asg23
+(dp1580
+S'19:46:16'
 p1581
-asa(dp1582
+I4
+ssa(dp1582
 g8
-S'JOHN DONVAN'
-p1583
-sg13
-(lp1584
-S'Jonathan Soros.'
+(lp1583
+S"Well, I would agree that we need to have more clarity about what's permitted and whatis not about fundraising, candidates, and these single-issue PACs, and, I think, single-issue -- single-candidate super PACs."
+p1584
+aS'And I think part of the problem is no one has askedthe question whether a candidate can raise money for one of these single-candidatePACs.'
 p1585
-asa(dp1586
-g8
-S'JONATHAN SOROS'
+aS'My view is the candidates cannot do that, and they should not be doing that.And I think it would be helpful if that was made clear.'
+p1586
+aS'But the laws --'
 p1587
-sg13
-(lp1588
-S'So I want to echo that. I mean, I think that the issue is, what would have happened if'
-p1589
-aS'Newt Gingrich had won the primary? Would we have been asking about what he owed'
-p1590
-aS'to Sheldon Adelson for the support that he got during the primary?'
-p1591
-asa(dp1592
-g23
-(dp1593
-I1
-S'[laughter]'
-p1594
-ssg8
-S'JACOB SULLUM'
-p1595
-sg13
-(lp1596
-S'And also, how could we have done this?'
-p1597
-asa(dp1598
-g8
-S'JONATHAN SOROS'
-p1599
-sg13
-(lp1600
-S'So I just want to -- you know, we keep talking about the question of corruption, and I'
-p1601
-aS"want to go back to this notion a little bit of integrity, briefly, that what we're talking"
-p1602
-aS'about, in part, when we talk about corruption and the appearance of corruption is'
-p1603
-aS'whether or not people believe in the integrity of the political process, that people are'
-p1604
-aS"representing them. And I'll just comment that there's actually nothing in our current"
-p1605
-aS"limit system to give people a lot of confidence. As I said in my opening, when you've got"
-p1606
-aS'contribution limits of $2,500, those are out of reach for most people in America.'
-p1607
-aS'And $25,000 -- so you end up with a very, very small fraction of people who are'
-p1608
-aS"contributing as it is. It seems like the system's actually designed to maximize the"
-p1609
-aS"amount of time that candidates spend with rich people, right? That's one of the reasons"
-p1610
-aS'that I said, at the end, we really need to be focused on an alternative as well, to focusing'
-p1611
-aS"on a system where candidates can run for public office where they're not dependent on"
-p1612
-aS'these contributions.'
-p1613
-asg19
-(dp1614
-I7
-S'20:03:18'
-p1615
-ssa(dp1616
-g8
-S'JOHN DONVAN'
-p1617
-sg10
-(dp1618
-I2
-S'37'
-p1619
-ssg13
-(lp1620
-S"There's a gentleman in a white -- fully white shirt. Could you -- sir, could you stand"
-p1621
-aS'forward a little bit, just into the more lit area so the camera can see you?'
-p1622
-asa(dp1623
-g8
-S'MALE SPEAKER'
-p1624
-sg13
-(lp1625
-S'Hi. This question is for the in the affirmative of the motion. You still maintain that'
-p1626
-aS"money in politics is still overregulated. So I'm just wondering where you find it to be still"
-p1627
-aS'overregulated and what the right amount of regulation should be.'
-p1628
-asa(dp1629
-g8
-S'JOHN DONVAN'
-p1630
-sg13
-(lp1631
-S'David Keating.'
-p1632
-asa(dp1633
-g8
-S'JACOB SULLUM'
-p1634
-sg13
-(lp1635
-S'Well, I --'
-p1636
-asa(dp1637
-g8
-S'JOHN DONVAN'
-p1638
-sg13
-(lp1639
-S'Jacob Sullum.'
-p1640
-asa(dp1641
-g8
-S'JACOB SULLUM'
-p1642
-sg13
-(lp1643
-S'Yeah, just briefly, I did mention, I think, that they should get rid of the limits on'
-p1644
-aS"contributions. I think a lot of the false independence you're worried about, this"
-p1645
-aS'apparent dishonesty, the evasions and so forth, come out of that.'
-p1646
-aS'And what happens historically with campaign finance regulation is, they impose one'
-p1647
-aS'rule, people find a way around it; they propose a new rule, people find a way around'
-p1648
-aS'that; and so on, and so on, and so on. And speech gets more and more restricted.'
-p1649
-aS'Regulations get more and more complex and intimidating for the average person who'
-p1650
-aS'might want to get politically involved. And I think we need to -- we cut our losses and'
-p1651
-aS"make things as simple as possible. I don't buy the distinction between giving versus"
-p1652
-aS'spending. I think if spending is speech, giving is also speech, or it amounts to speech if'
-p1653
-aS'you restrict giving. So there should be no limits on giving. I am sort of on the fence'
-p1654
-aS"about disclosure rules. I think it's legitimate to require candidates, as a condition of"
-p1655
-aS"running for office, to disclose donors, but I don't think it's necessarily legitimate to"
-p1656
-aS"require disclosure for independent spenders. There's an argument to be made that that"
-p1657
-aS"chills speech. In fact, it's designed to chill speech."
-p1658
-asg19
-(dp1659
-I3
-S'20:04:25'
-p1660
-ssa(dp1661
-g8
-S'JOHN DONVAN'
-p1662
-sg13
-(lp1663
-S'David Keating, would you add any other gripes to that list?'
-p1664
-asg19
-(dp1665
-I1
-S'20:05:14'
-p1666
-ssa(dp1667
-g8
+asg11
 S'DAVID KEATING'
-p1668
-sg10
-(dp1669
-I3
-S'38'
-p1670
-ssg13
-(lp1671
-S"Well, there's -- first of all, I would agree with a lot of that. I do think it makes sense to"
+p1588
+sg16
+(lp1589
+S"Well, I would agree that we need to have more clarity about what's permitted and what is not about fundraising, candidates, and these single-issue PACs, and, I think, single- issue -- single-candidate super PACs."
+p1590
+aS'And I think part of the problem is no one has asked the question whether a candidate can raise money for one of these single-candidate PACs.'
+p1591
+aS'My view is the candidates cannot do that, and they should not be doing that.'
+p1592
+aS'And I think it would be helpful if that was made clear.'
+p1593
+aS'But the laws --'
+p1594
+asa(dp1595
+g27
+(dp1596
+I2
+S'[applause]'
+p1597
+ssg8
+(lp1598
+S'So, just to be clear, do we have agreement on this panel that there should be moreregulation of Super PACs?'
+p1599
+asg11
+S'JONATHAN SOROS'
+p1600
+sg16
+(lp1601
+S'So, just to be clear, do we have agreement on this panel that there should be more regulation of Super PACs?'
+p1602
+asa(dp1603
+g8
+(lp1604
+S"No, that's -- I'm not talking about regulating the people."
+p1605
+aS"I'm talking about regulating thecandidates."
+p1606
+aS"To me, that's a different thing.When people -- let me say, the laws on coordination are actually -- they're not as weakas you make them out to be."
+p1607
+aS"It's not just a matter of sharing inside information,although that's part of it."
+p1608
+aS'There -- and it covers much more than independentexpenditures.'
+p1609
+aS"It's any communication that's run within 90 days of an election is coveredby the laws on coordination."
+p1610
+aS'And a communication is considered coordinated if it meetsone of just any one of five different tests.'
+p1611
+aS'One is if the communication is requested orsuggested by the candidate or if you suggested it somehow to the candidate, and thecandidate agreed.'
+p1612
+aS"You don't need formal collaboration or formal agreement to thisfrom the candidate."
+p1613
+aS"If the candidate or their committee or their party is materiallyinvolved in the decisions in any way; if someone creates the communication after one ormore substantial discussions about the campaign's plans, projects or needs; or if theyemploy a common vendor and use any of that information, or they use someone who ispreviously employed by the campaign in the previous 120 days."
+p1614
+aS'So --'
+p1615
+asg11
+S'DAVID KEATING'
+p1616
+sg13
+(dp1617
+I2
+S'28'
+p1618
+ssg16
+(lp1619
+S"No, that's -- I'm not talking about regulating the people."
+p1620
+aS"I'm talking about regulating the candidates."
+p1621
+aS"To me, that's a different thing."
+p1622
+aS"When people -- let me say, the laws on coordination are actually -- they're not as weak as you make them out to be."
+p1623
+aS"It's not just a matter of sharing inside information, although that's part of it."
+p1624
+aS'There -- and it covers much more than independent expenditures.'
+p1625
+aS"It's any communication that's run within 90 days of an election is covered by the laws on coordination."
+p1626
+aS'And a communication is considered coordinated if it meets one of just any one of five different tests.'
+p1627
+aS'One is if the communication is requested or suggested by the candidate or if you suggested it somehow to the candidate, and the candidate agreed.'
+p1628
+aS"You don't need formal collaboration or formal agreement to this from the candidate."
+p1629
+aS"If the candidate or their committee or their party is materially involved in the decisions in any way; if someone creates the communication after one or more substantial discussions about the campaign's plans, projects or needs; or if they employ a common vendor and use any of that information, or they use someone who is previously employed by the campaign in the previous 120 days."
+p1630
+aS'So --'
+p1631
+asg23
+(dp1632
+S'19:47:14'
+p1633
+I2
+sS'19:48:25'
+p1634
+I15
+ssa(dp1635
+g8
+(lp1636
+S'These are all rules that you -- that are in place that you think are being enforced andthat are effectively limiting speech already?'
+p1637
+aS"That they're -- that they're having effect?"
+p1638
+asg11
+S'JOHN DONVAN'
+p1639
+sg16
+(lp1640
+S'These are all rules that you -- that are in place that you think are being enforced and that are effectively limiting speech already?'
+p1641
+aS"That they're -- that they're having effect?"
+p1642
+asa(dp1643
+g8
+(lp1644
+S'Well, I -- this is part of maintaining the independence.'
+p1645
+aS"I don't have a problem with thatbecause I've said I think independent groups -- I think Americans should be able to gettogether and independently of the parties and the candidates, be able to speak aboutwhere the country should be headed, what candidates should be elected or whatcandidates should be defeated."
+p1646
+asg11
+S'DAVID KEATING'
+p1647
+sg16
+(lp1648
+S'Well, I -- this is part of maintaining the independence.'
+p1649
+aS"I don't have a problem with that because I've said I think independent groups -- I think Americans should be able to get together and independently of the parties and the candidates, be able to speak about where the country should be headed, what candidates should be elected or what candidates should be defeated."
+p1650
+asa(dp1651
+g8
+(lp1652
+S"But in a -- I'm just a little unclear on the point that you were just making."
+p1653
+aS"Were yougoing through a list of rules that you feel you're good with?"
+p1654
+asg11
+S'JOHN DONVAN'
+p1655
+sg16
+(lp1656
+S"But in a -- I'm just a little unclear on the point that you were just making."
+p1657
+aS"Were you going through a list of rules that you feel you're good with?"
+p1658
+asa(dp1659
+g8
+(lp1660
+S'These are the rules that exist today.'
+p1661
+asg11
+S'DAVID KEATING'
+p1662
+sg16
+(lp1663
+g1661
+asa(dp1664
+g8
+(lp1665
+S'Okay.'
+p1666
+asg11
+S'JOHN DONVAN'
+p1667
+sg16
+(lp1668
+g1666
+asa(dp1669
+g8
+(lp1670
+S"I think a lot of people say, oh, there really aren't any laws against coordination."
+p1671
+aS"I mean,the idea that someone used to work for a candidate, it wouldn't be surprising that theywould support the candidate."
 p1672
-aS'allow candidates to decide when they file, as a candidate, what the contribution limit'
+aS'They probably worked with them.'
 p1673
-aS'will be, if any, and let the voters decide. So if they want to accept unlimited'
+aS"They've seen thecandidate as a good person, maybe a good leader potentially.It wouldn't be surprising --"
 p1674
-aS'contributions, the candidates can do that. If the candidates will agree with each other'
+asg11
+S'DAVID KEATING'
 p1675
-aS"to accept a limit, whether it's today's limit of $2,500 or some other limit of, say,"
-p1676
-aS'$10,000, let them do that, and let the voters decide. "Do I trust this person taking these'
+sg13
+(dp1676
+I4
+S'29'
 p1677
-aS'kinds of money from these kinds of people?" So I think that makes sense. Now, there'
-p1678
-aS"are lots of other laws and regulations. As I said, there's -- the laws and regulations have"
+ssg16
+(lp1678
+S"I think a lot of people say, oh, there really aren't any laws against coordination."
 p1679
-aS'376,000 words. For a lot of small grassroots groups that just want to say something'
+aS"I mean, the idea that someone used to work for a candidate, it wouldn't be surprising that they would support the candidate."
 p1680
-aS'about their member of Congress, as soon as they spend $1,000, they have to file with'
+aS'They probably worked with them.'
 p1681
-aS'the Federal Election Commission.'
+aS"They've seen the candidate as a good person, maybe a good leader potentially."
 p1682
-aS"A lot of people just can't navigate these forms and these regulations. And then it's not"
+aS"It wouldn't be surprising --"
 p1683
-aS"clear what they're allowed to say and what they're not allowed to say. There are"
-p1684
-aS"regulations describing what's express advocacy that's regulated by the Federal Election"
+asg23
+(dp1684
+S'19:49:21'
 p1685
-aS"Commission. But people look at the regulation and they don't know what it means."
-p1686
-aS'And, in fact, we helped a group that had a question about a number of ads. They'
-p1687
-aS'submitted nine ads to the Federal Election Commission, and the Commission itself'
+I4
+ssa(dp1686
+g8
+(lp1687
+S'Okay.'
 p1688
-aS"couldn't agree whether it was regulated speech or not. This is not a situation that is"
+asg11
+S'JOHN DONVAN'
 p1689
-aS"good for our country, where people want to speak out about what's going on in the"
-p1690
-aS"election, and they have to hire a lawyer to do it. We've got to simplify the thing so the"
-p1691
-aS'election law is not more complicated than the tax law.'
-p1692
-asg19
-(dp1693
-I11
-S'20:06:13'
+sg16
+(lp1690
+g1688
+asa(dp1691
+g8
+(lp1692
+S"-- they'd want to get involved."
+p1693
+asg11
+S'DAVID KEATING'
 p1694
-ssa(dp1695
+sg16
+(lp1695
+g1693
+asa(dp1696
 g8
-S'JOHN DONVAN'
-p1696
-sg13
 (lp1697
-S"All right. You know, I'm just thinking that, so far this evening, counting myself, the"
+S"So Trevor Potter and Jonathan Soros, what David Keating has said is there are rules inplace, and they're -- there is regulation."
 p1698
-aS'debaters, the questioners, Bob Rosenkranz, we have heard eight men speaking. Are any'
+aS"And some of it they're okay with, and that yourargument that there's a Swiss cheese of loopholes is a great exaggeration."
 p1699
-aS"women going to raise their hands with questions? Because I'm looking, but I'm not"
-p1700
-aS'seeing.'
-p1701
-asa(dp1702
-g8
-S'MALE SPEAKER'
-p1703
-sg13
-(lp1704
-S'Right in the middle.'
-p1705
-asg19
-(dp1706
-I1
-S'20:07:17'
-p1707
-ssa(dp1708
-g8
+asg11
 S'JOHN DONVAN'
-p1709
-sg13
+p1700
+sg16
+(lp1701
+S"So Trevor Potter and Jonathan Soros, what David Keating has said is there are rules in place, and they're -- there is regulation."
+p1702
+aS"And some of it they're okay with, and that your argument that there's a Swiss cheese of loopholes is a great exaggeration."
+p1703
+asa(dp1704
+g8
+(lp1705
+S'Well, I heard David say --'
+p1706
+asg11
+S'TREVOR POTTER'
+p1707
+sg16
+(lp1708
+g1706
+asa(dp1709
+g8
 (lp1710
-S"Have you been doing that the whole time? Oh, you're in the dark. I'm sorry. I can't see"
+S'Trevor Potter.'
 p1711
-aS"you. I just want to ask, is that okay for the camera, that you're in the shadows there?"
+asg11
+S'JOHN DONVAN'
 p1712
-aS'Yeah, you can pick it up. Okay.'
-p1713
+sg16
+(lp1713
+g1711
 asa(dp1714
 g8
-S'FEMALE SPEAKER'
-p1715
-sg10
-(dp1716
-I4
-S'39'
+(lp1715
+S'-- it gives me great hope in the outcome of the debate because I heard him say thatthere are rules in place.'
+p1716
+aS'We may need more rules, and that would seem to support ourside of the proposition.'
 p1717
-ssg13
-(lp1718
-S'I was just wondering for the proponents of free speech, without regulation, how do you'
+aS"But let's talk about the rules that are actually here."
+p1718
+aS"You know,David -- I think David has to say that it's important that these groups be independentbecause the Supreme Court said, in allowing these independent groups to exist, that thereason they wouldn't corrupt and therefore could take unlimited money, they're totallyindependent of candidate and party committees."
 p1719
-aS'differentiate between me supporting a candidate with my voice or me going to the store'
+aS'As I think Jonathan did a good job ofsaying, totally independent of candidate and party committees?You do have former campaign aids, lawyers, fundraisers for the candidates runningthese things.'
 p1720
-aS"and buying Scott's Miracle-Gro and having my support of green lawns representing a"
+aS'Unfortunately, one of the few times the FEC has not dead locked in thelast couple years was actually agreeing that candidates could raise money for thesesuper PACs as long as they did so within only limited amounts.'
 p1721
-aS'political concern?'
+aS"We have incidents thisyear of the candidates traveling with the principal funder of a super PAC, candidatesthanking the super PAC when he left the race saying he couldn't have done it withoutthem."
 p1722
-asa(dp1723
-g8
-S'JACOB SULLUM'
+aS'This seems to me not to be totally independent of candidates and parties.'
+p1723
+asg11
+S'TREVOR POTTER'
 p1724
-sg13
+sg16
 (lp1725
-S'Because that company is supporting a particular cause, you mean?'
+S'-- it gives me great hope in the outcome of the debate because I heard him say that there are rules in place.'
 p1726
-asa(dp1727
-g8
-S'FEMALE SPEAKER'
+aS'We may need more rules, and that would seem to support our side of the proposition.'
+p1727
+aS"But let's talk about the rules that are actually here."
 p1728
-sg13
-(lp1729
-S"Yes. Scott's Miracle-Gro recently --"
+aS"You know, David -- I think David has to say that it's important that these groups be independent because the Supreme Court said, in allowing these independent groups to exist, that the reason they wouldn't corrupt and therefore could take unlimited money, they're totally independent of candidate and party committees."
+p1729
+aS'As I think Jonathan did a good job of saying, totally independent of candidate and party committees?'
 p1730
-asa(dp1731
-g8
-S'JACOB SULLUM'
+aS'You do have former campaign aids, lawyers, fundraisers for the candidates running these things.'
+p1731
+aS'Unfortunately, one of the few times the FEC has not dead locked in the last couple years was actually agreeing that candidates could raise money for these super PACs as long as they did so within only limited amounts.'
 p1732
-sg13
-(lp1733
-S"Well, actually, I mean, that's an issue that hasn't actually come up. But that was one of"
+aS"We have incidents this year of the candidates traveling with the principal funder of a super PAC, candidates thanking the super PAC when he left the race saying he couldn't have done it without them."
+p1733
+aS'This seems to me not to be totally independent of candidates and parties.'
 p1734
-aS'the arguments that the Obama administration used in favor of keeping the regulations'
-p1735
-aS'that were overturned in Citizens United. They said there was not only this concern'
+asg23
+(dp1735
+S'19:50:17'
 p1736
-aS"about corruption, but also a shareholder interest. And I guess you're talking about a"
-p1737
-aS"consumer interest, but it's somewhat similar."
-p1738
-aS"I think the answer in both cases is the same. If you're a shareholder in a company, you"
+I8
+ssa(dp1737
+g8
+(lp1738
+S'Jacob Sullum.'
 p1739
-aS"don't like their political speech, you can -- you can sell those shares, or you can object at"
+asg11
+S'JOHN DONVAN'
 p1740
-aS"a shareholder meeting. If you're a consumer, and you don't like the political speech of"
-p1741
-aS"the company you're buying from, you can stop buying from them. I mean, you can"
-p1742
-aS'protest as well. But you have the power to decide where your money is going based on'
-p1743
-aS'that consideration.'
+sg16
+(lp1741
+g1739
+asa(dp1742
+g27
+(dp1743
+I1
+S'[break]'
 p1744
-asg19
-(dp1745
-I5
-S'20:08:18'
+sI9
+S'[laughter]'
+p1745
+ssg11
+S'JACOB SULLUM'
 p1746
-ssa(dp1747
-g8
-S'JOHN DONVAN'
+sg16
+(lp1747
+S'Yeah, I think, you know, there is an issue here.'
 p1748
-sg13
-(lp1749
-S'Jonathan Soros.'
+aS"I mean, it does look -- -- get rid of these limits on contributions to candidates then you can raise whatever money you want to raise for your own message, and you will be responsible for your own message, and you can't play this game of saying, oh, we can't coordinate."
+p1749
+aS"I can't talk to them."
 p1750
-asa(dp1751
-g8
-S'JONATHAN SOROS'
+aS'And you have to be responsible for your own speech.'
+p1751
+aS"That's not to say that you get rid of the genuinely independent voices."
 p1752
-sg10
-(dp1753
-I14
-S'40'
+aS"But I think if what you're worried about is this sort of sneakiness, you know, it's kind of like, you know, a prostitute who pretends she's an escort, or you go into a head shop, and they got all these fancy water pipes, and it's for -- you know, for use only with tobacco or other legal herbs."
+p1753
+aS'And you might say these are very dishonest people.'
 p1754
-ssg13
-(lp1755
-S"So I'm glad -- thank you very much for raising that. I'm glad that this came up because"
+aS"But in fact, it's bad laws that produce that kind of dishonesty."
+p1755
+aS"So we've got bad laws we should get rid of."
 p1756
-aS"we haven't talked at all about the corporate question which is actually what Citizens"
-p1757
-aS"United was originally about. So that's an interesting theoretical argument. The problem"
+asg23
+(dp1757
+S'19:52:15'
 p1758
-aS"is Scott's Miracle-Gro decided, voluntarily, to fund a super PAC, which is one of the few"
+I11
+sS'19:51:36'
 p1759
-aS'instances of a public company doing that. So if they decide to give their money in a way'
+I1
+sS'19:51:03'
 p1760
-aS"that's not disclosed, then as a consumer, you have no idea about it and as a"
-p1761
-aS'shareholder, you have no idea about it. The second thing is that as a shareholder, you'
+I1
+ssg8
+(lp1761
+S'Yeah, I think, you know, there is an issue here.'
 p1762
-aS"may very well have no ability to do anything about it anyway. So let's -- the issue of"
+aS"I mean, it does look ---- get rid of these limits on contributions to candidates then you can raise whatever [[break]] money you want to raise for your own message, and you will be responsible for yourown message, and you can't play this game of saying, oh, we can't coordinate."
 p1763
-aS'corporate democracy, we could go on for a long time.'
+aS"I can'ttalk to them."
 p1764
-aS"But let's just stick with somebody who owns those shares through a pension fund, right?"
+aS'And you have to be responsible for your own speech.'
 p1765
-aS"Forty-seven states in this onion, if you're a public employee, you're required to put your"
+aS"That's not to saythat you get rid of the genuinely independent voices."
 p1766
-aS'money into a pension fund. That money can go anywhere. It can go into any company,'
+aS"But I think if what you're worriedabout is this sort of sneakiness, you know, it's kind of like, you know, a prostitute whopretends she's an escort, or you go into a head shop, and they got all these fancy waterpipes, and it's for -- you know, for use only with tobacco or other legal herbs.And you might say these are very dishonest people."
 p1767
-aS'and you have no control over it. So there is a problem with corporations speaking'
+aS"But in fact, it's bad laws that [[laughter]] produce that kind of dishonesty."
 p1768
-aS"because they're speaking on behalf of other people that don't have the ability to give"
+aS"So we've got bad laws we should get rid of."
 p1769
-aS"their consent. And you can also suggest maybe you shouldn't have to give your consent"
-p1770
-aS'in order to participate in the modern economy of owning shares.'
+asg13
+(dp1770
+I0
+S'30'
 p1771
-asg19
-(dp1772
-I9
-S'20:09:17'
-p1773
-ssa(dp1774
+ssa(dp1772
 g8
-S'JOHN DONVAN'
+(lp1773
+S'All right.'
+p1774
+aS"I want to go in a moment to you in the audience to take questions from youand to remind you that I encourage you to -- to be terse in your questions, to try toreally make it a question that's related to our topic."
 p1775
-sg13
-(lp1776
-S"Another question? I'm still gender hunting. Right in the center. You were the only"
+aS"And I'm fine with you stating ashort premise, but I really don't want you to make a speech because these are the guyswho have to make the speeches."
+p1776
+aS'And what will happen is if I call on you, there will be amicrophone in the aisle passed over to you.'
 p1777
-aS"woman from seats and seats around. But then I'm going to go back to gender blind"
+aS'Please stand up.'
 p1778
-aS'after that. Do you mind standing up too, please? Thanks.'
+aS"We would appreciate it ifyou will tell us your name and then hold the microphone about a fist's distance fromyour mouth."
 p1779
-asa(dp1780
-g8
-S'DEBRA JERKERSON [SPELLED PHONETICALLY]'
+aS'So as that is getting set up, I just want to take one more question -- onemore point back to the side that is arguing against super PACs from your opponents.'
+p1780
+aS'Itwas very much a thrust of their argument that there is a First Amendment here -- issuein this.'
 p1781
-sg13
-(lp1782
-S'No. I think --'
+aS"And you haven't addressed at all whether in fact there is a valid core at all totheir argument that there is a free speech issue here."
+p1782
+aS'And, you know, you may -- youmay feel that there are other interests that outweigh it, or you may feel there is no freespeech and just -- but I want to hear your view on it.'
 p1783
-asa(dp1784
-g8
+aS'Is there anything to it?Jonathan Soros.'
+p1784
+asg11
 S'JOHN DONVAN'
 p1785
 sg13
-(lp1786
-S"And we'd just like to ask your name."
+(dp1786
+I15
+S'31'
 p1787
-asa(dp1788
-g8
-S'DEBRA JERKERSON'
+ssg16
+(lp1788
+S'All right.'
 p1789
-sg13
-(lp1790
-S"Okay. My name is Debra Jerkerson. And just going back to David's point that people"
+aS"I want to go in a moment to you in the audience to take questions from you and to remind you that I encourage you to -- to be terse in your questions, to try to really make it a question that's related to our topic."
+p1790
+aS"And I'm fine with you stating a short premise, but I really don't want you to make a speech because these are the guys who have to make the speeches."
 p1791
-aS'have a right to sort of organize themselves, or people have a right to change their'
+aS'And what will happen is if I call on you, there will be a microphone in the aisle passed over to you.'
 p1792
-aS"government, it seems that we're getting into this long conversation about how to"
+aS'Please stand up.'
 p1793
-aS'regulate money.'
+aS"We would appreciate it if you will tell us your name and then hold the microphone about a fist's distance from your mouth."
 p1794
-aS"But on the other hand, you're kind of saying that money doesn't really influence politics."
+aS'So as that is getting set up, I just want to take one more question -- one more point back to the side that is arguing against super PACs from your opponents.'
 p1795
-aS'I wanted to go back to what Mr. Soros is saying, what could we look at as a different'
+aS'It was very much a thrust of their argument that there is a First Amendment here -- issue in this.'
 p1796
-aS'system such as campaign finance reform, or public funding of campaigns, and how do'
+aS"And you haven't addressed at all whether in fact there is a valid core at all to their argument that there is a free speech issue here."
 p1797
-aS'you think about that?'
+aS'And, you know, you may -- you may feel that there are other interests that outweigh it, or you may feel there is no free speech and just -- but I want to hear your view on it.'
 p1798
-asg19
-(dp1799
-I4
-S'20:10:24'
+aS'Is there anything to it?'
+p1799
+aS'Jonathan Soros.'
 p1800
-ssa(dp1801
-g8
-S'JOHN DONVAN'
+asg23
+(dp1801
+S'19:53:17'
 p1802
-sg13
-(lp1803
-S'David Keating.'
-p1804
-asa(dp1805
+I14
+ssa(dp1803
 g8
-S'DAVID KEATING'
+(lp1804
+S'I actually think that Trevor acknowledged that in the first line of his remarks.'
+p1805
+aS'That thereis a free speech interest here.'
 p1806
-sg10
-(dp1807
-I10
-S'41'
+aS"But what I -- and I wanted to -- I guess we're not going togo back and have time, but I was really startled by the comment about corruption notbeing a sufficient logic for countervailing some of that."
+p1807
+aS'So to focus on "Congress shallpass no law," that\'s just not true.'
 p1808
-ssg13
-(lp1809
-S"Well, I -- the question is whether we should have tax funded campaigns. And it's very"
+aS'We have lots of laws that curtail our speech in favorof some other public interest.'
+p1809
+aS"And here there's a clear public interest in protecting theintegrity of our electoral process from the possibility of corruption."
 p1810
-aS'hard to design such a system. I think there are a lot of problems with it. I mean, we talk'
+asg11
+S'JONATHAN SOROS'
 p1811
-aS"about disconnecting candidates from the people. If they don't have to raise money for"
-p1812
-aS"their campaigns, we're disconnecting them additionally. But there's also real questions"
+sg16
+(lp1812
+S'I actually think that Trevor acknowledged that in the first line of his remarks.'
 p1813
-aS"of how you design such a system so that it's attractive so the candidates will even want"
+aS'That there is a free speech interest here.'
 p1814
-aS'to do it.'
+aS"But what I -- and I wanted to -- I guess we're not going to go back and have time, but I was really startled by the comment about corruption not being a sufficient logic for countervailing some of that."
 p1815
-aS'We have tax funded campaigns for the presidential candidates. And in this election,'
+aS'So to focus on "Congress shall pass no law," that\'s just not true.'
 p1816
-aS"both candidates have decided to forego that financing. In other states where they've"
+aS'We have lots of laws that curtail our speech in favor of some other public interest.'
 p1817
-aS"designed these tax funded campaign systems, they've designed them in such a way as to"
+aS"And here there's a clear public interest in protecting the integrity of our electoral process from the possibility of corruption."
 p1818
-aS'penalize independent groups that speak out. Now, the Supreme Court has struck down'
-p1819
-aS"those provisions. But it makes it even more difficult to design such a system. So I don't"
-p1820
-aS"think it's terribly workable, for one. Second, I don't think it's politically possible to pass,"
+asa(dp1819
+g8
+(lp1820
+S'All right.'
 p1821
-aS'either. When you put together the words basically "tax funding" and "politicians"'
+aS'But it is a curtailment of speech, regulation of money and politics would be --'
 p1822
-aS"together, it's not popular. People don't like paying taxes. They don't like their money"
+asg11
+S'JOHN DONVAN'
 p1823
-aS"going to politicians. They don't like politicians generally. So I think if we're looking for"
-p1824
-aS'solutions to try to make our government more accountable, to provide cleaner'
+sg16
+(lp1824
+S'All right.'
 p1825
-aS"government, that that's not something that's probably going to work politically."
+aS'But it is a curtailment of speech, regulation of money and politics would be --'
 p1826
-asg19
-(dp1827
-I17
-S'20:12:18'
-p1828
-sI6
-S'20:11:17'
+asa(dp1827
+g8
+(lp1828
+S'Can be, yeah.'
 p1829
-ssa(dp1830
-g8
-S'JOHN DONVAN'
+aS"And again, as Trevor indicated -- the Supreme Court actually didn't do aterrible job with this when they addressed the question in Buckley, to say there aredifferent considerations when you are speaking yourself that has a stronger interestthan when you are giving money to other folks, when you're making a contribution.And so the limits and the rules that you put around that have to be appropriatelytailored to how strong the interests are."
+p1830
+asg11
+S'JONATHAN SOROS'
 p1831
-sg13
+sg16
 (lp1832
-S'Sir on the aisle?'
+S'Can be, yeah.'
 p1833
-asa(dp1834
-g23
-(dp1835
-I2
-S'[laughter]'
-p1836
-ssg8
-S'STANLEY FISH'
+aS"And again, as Trevor indicated -- the Supreme Court actually didn't do a terrible job with this when they addressed the question in Buckley, to say there are different considerations when you are speaking yourself that has a stronger interest than when you are giving money to other folks, when you're making a contribution."
+p1834
+aS'And so the limits and the rules that you put around that have to be appropriately tailored to how strong the interests are.'
+p1835
+asg23
+(dp1836
+S'19:54:20'
 p1837
-sg13
-(lp1838
-S'Yes. Thank you. My name is Stanley Fish, New York Times, professor of law and author'
-p1839
-aS'of a book called "There\'s No Such Thing as Free Speech, and It\'s a Good Thing Too."'
+I4
+ssa(dp1838
+g8
+(lp1839
+S"But to your partner's point on that, Trevor."
 p1840
-aS'I had a question for Mr. Keating who said, at the beginning of his address, that the issue'
+asg11
+S'JOHN DONVAN'
 p1841
-aS'is, do we value the First Amendment and keep it as it is, which suggested that there was'
-p1842
-aS'a First Amendment that was libertarian in the form that he likes it. But in fact, as I think'
-p1843
-aS"you know, that's a product of the last 35 years. As early as 1942, in Chaplinsky versus"
-p1844
-aS'New Hampshire, there was a paragraph listing all of the forms of speech that do not'
+sg16
+(lp1842
+g1840
+asa(dp1843
+g8
+(lp1844
+S'Well, I mean, the answer is, of course.'
 p1845
-aS'deserve Constitutional protection --'
+aS"When you're talking about the First Amendmentand political speech, you're going to have a free speech issue when you are regulatingmoney in politics."
 p1846
-asa(dp1847
-g8
-S'JOHN DONVAN'
+aS"But that doesn't -- that just starts the question."
+p1847
+aS"It doesn't answer thequestion."
 p1848
-sg13
-(lp1849
-S'Mr. Fish, can -- can you land this as a question?'
+aS"The Supreme Court itself, in Citizens United said government can't chooseamong speakers."
+p1849
+aS'Listeners have the right to hear every speaker.'
 p1850
-asa(dp1851
-g8
-S'STANLEY FISH'
+aS"The government's roleis not to decide who speaks."
+p1851
+aS'Great absolutist language.'
 p1852
-sg13
-(lp1853
-S'Sure.'
+aS'The next case that comes alongis a group of foreigners who say, good, I want to speak.'
+p1853
+aS'I live in New York.'
 p1854
-asa(dp1855
-g8
-S'JOHN DONVAN'
+aS'I happen towork here.'
+p1855
+aS"I'm not a U.S. citizen."
 p1856
-sg13
-(lp1857
-S'Thanks.'
+aS"There's a law that says I can't speak."
+p1857
+aS'People shouldhear me.'
 p1858
-asa(dp1859
-g8
-S'STANLEY FISH'
+aS"It's a First Amendment right of the American people to hear me."
+p1859
+aS'The courtthrows them out on their ear.'
 p1860
-sg13
-(lp1861
-S"In '71, made the argument that only political speech could be protected so"
+aS'So this is not a clean-cut issue.You look at this in balance among other things, as the court has done: The integrity ofour government, the importance that people have confidence in the decisions beingmade, and then you look at where the money is spent, how it is disclosed, what weknow.'
+p1861
+aS'Those are all aspects of this.'
 p1862
-aS'that --'
+asg11
+S'TREVOR POTTER'
 p1863
-asa(dp1864
-g8
-S'JOHN DONVAN'
+sg13
+(dp1864
+I12
+S'32'
 p1865
-sg10
-(dp1866
-I1
-S'42'
+ssg16
+(lp1866
+S'Well, I mean, the answer is, of course.'
 p1867
-ssg13
-(lp1868
-S"I'm sorry. Can you -- I -- I need you to bring the mic in and just do that last part again."
+aS"When you're talking about the First Amendment and political speech, you're going to have a free speech issue when you are regulating money in politics."
+p1868
+aS"But that doesn't -- that just starts the question."
 p1869
-asg19
-(dp1870
-I1
-S'20:13:23'
+aS"It doesn't answer the question."
+p1870
+aS"The Supreme Court itself, in Citizens United said government can't choose among speakers."
 p1871
-ssa(dp1872
-g8
-S'STANLEY FISH'
+aS'Listeners have the right to hear every speaker.'
+p1872
+aS"The government's role is not to decide who speaks."
 p1873
-sg13
-(lp1874
-S'Your First Amendment is a very recent invention. In fact, an invention that began with'
+aS'Great absolutist language.'
+p1874
+aS'The next case that comes along is a group of foreigners who say, good, I want to speak.'
 p1875
-aS'New York Times versus Sullivan which I think is one of the worst cases ever decided.'
+aS'I live in New York.'
 p1876
-asa(dp1877
-g8
-S'JOHN DONVAN'
+aS'I happen to work here.'
+p1877
+aS"I'm not a U.S. citizen."
 p1878
-sg13
-(lp1879
-S"Okay. You don't have to respond to that because it wasn't a question. That was a"
+aS"There's a law that says I can't speak."
+p1879
+aS'People should hear me.'
 p1880
-aS"speech. That was one of those things I don't want to have happen."
+aS"It's a First Amendment right of the American people to hear me."
 p1881
-asa(dp1882
-g8
-S'JONATHAN SOROS'
+aS'The court throws them out on their ear.'
+p1882
+aS'So this is not a clean-cut issue.'
 p1883
-sg13
-(lp1884
-S'In that case, can I go back to that last point because I think it --'
+aS'You look at this in balance among other things, as the court has done: The integrity of our government, the importance that people have confidence in the decisions being made, and then you look at where the money is spent, how it is disclosed, what we know.'
+p1884
+aS'Those are all aspects of this.'
 p1885
-asa(dp1886
-g8
-S'JOHN DONVAN'
+asg23
+(dp1886
+S'19:55:17'
 p1887
-sg13
-(lp1888
-S"Yeah, sure, Jon, I'm sorry."
-p1889
-asa(dp1890
+I10
+ssa(dp1888
 g8
-S'JONATHAN SOROS'
+(lp1889
+S'All right.'
+p1890
+aS"So Jacob Sullum, they're saying the free speech -- it's another example, or freespeech is not an absolute right."
 p1891
-sg13
-(lp1892
-S"-- because I think it's an important one."
-p1893
-asa(dp1894
-g8
+asg11
 S'JOHN DONVAN'
+p1892
+sg16
+(lp1893
+S'All right.'
+p1894
+aS"So Jacob Sullum, they're saying the free speech -- it's another example, or free speech is not an absolute right."
 p1895
-sg13
-(lp1896
-S'Yeah.'
-p1897
-asa(dp1898
+asa(dp1896
 g8
-S'JONATHAN SOROS'
+(lp1897
+S'Well, I mean, this particular exception was just kind of pulled out of thin air.'
+p1898
+aS'But thereare other kinds of restrictions like those that prevent fraud.'
 p1899
-sg13
-(lp1900
-S"Because what I heard as an argument against the citizen funding is essentially that it's"
+aS"I mean, that's a kind ofspeech restriction, but it has to do with preventing a right violation."
+p1900
+aS"And other -- youknow, other exceptions like obscenity that I don't necessarily agree with."
 p1901
-aS"unpopular and that it's hard. And I think both of those things are true, but I don't think"
+aS'But I justnever -- have never bought this particular argument.'
 p1902
-aS"this is a debate about what's politically popular or not. It's a debate about what's the"
+aS'Seems invented from whole cloth.And I want to say one thing in favor of disagreeing rich people.'
 p1903
-aS'right answer. So you can design a system that actually drives politicians towards their'
+aS'Is that how you put it,Jonathan?'
 p1904
-aS'constituents. I described it in my opening remarks. So the system we have in New York'
+asg11
+S'JACOB SULLUM'
 p1905
-aS'City where you only get the funding from the city when you raise money from your'
-p1906
-aS'constituents in small dollars.'
+sg16
+(lp1906
+S'Well, I mean, this particular exception was just kind of pulled out of thin air.'
 p1907
-aS'That transforms the way that people -- people raise money in this city. And you have to'
+aS'But there are other kinds of restrictions like those that prevent fraud.'
 p1908
-aS"make it big enough to -- it's true, we still have, on the books, a presidential public"
+aS"I mean, that's a kind of speech restriction, but it has to do with preventing a right violation."
 p1909
-aS"financing system. I don't know what it is this year, but in 2008, it was worth about $110"
+aS"And other -- you know, other exceptions like obscenity that I don't necessarily agree with."
 p1910
-aS"million. So that's just not a relevant number any more. It has to be robust enough that"
+aS'But I just never -- have never bought this particular argument.'
 p1911
-aS'a candidate opting into the system believes that they can really run a credible campaign.'
+aS'Seems invented from whole cloth.'
 p1912
-asg19
-(dp1913
-I7
-S'20:14:15'
+aS'And I want to say one thing in favor of disagreeing rich people.'
+p1913
+aS'Is that how you put it, Jonathan?'
 p1914
-ssa(dp1915
+asa(dp1915
 g8
-S'JACOB SULLUM'
-p1916
-sg13
-(lp1917
-S'How many of you checked off the little box on your tax return that said you were willing'
+(lp1916
+S'Yes.'
+p1917
+asg11
+S'JONATHAN SOROS'
 p1918
-aS'to give money to that fund?'
-p1919
+sg16
+(lp1919
+g1917
 asa(dp1920
-g8
-S'JOHN DONVAN'
-p1921
-sg10
-(dp1922
-I1
-S'43'
-p1923
-ssg13
-(lp1924
-S'Jacob Sullum. David Keating.'
-p1925
-asa(dp1926
-g8
-S'DAVID KEATING'
-p1927
-sg13
-(lp1928
-S'Well, I find --'
-p1929
-asa(dp1930
-g8
-S'JOHN DONVAN'
-p1931
-sg13
-(lp1932
-S"Did you want an audience response from this? I think it's a fair question. You're asking"
-p1933
-aS'how many people have actually checked off --'
-p1934
-asa(dp1935
-g23
-(dp1936
-I3
+g27
+(dp1921
+I24
 S'[laughter]'
-p1937
-ssg8
+p1922
+ssg11
 S'JACOB SULLUM'
+p1923
+sg16
+(lp1924
+S"I mean, don't knock them."
+p1925
+aS'I mean, first of all, you have people of more modest means, as David pointed out, who can pool their money as a result of having super PACs.'
+p1926
+aS'But there is something to be said for disagreeing rich people.'
+p1927
+aS"You've got billionaires, you know, who favor Democrats, and you have billionaires who favor Republicans."
+p1928
+aS'You\'ve got a bunch of rich guys who got together and put together a group called "The Campaign for Primary Accountability," which I love, because what they do is they go around the country.'
+p1929
+aS'They look for entrenched incumbents of both parties, and they target them for defeat.'
+p1930
+aS'And I think this is a great thing.'
+p1931
+aS'And just to give you one example of what most people will consider to be a progressive outcome, there was a congressional race in Texas where Sylvestre Reyes, who was a long-time congressman, very comfortable, terrible on the war on drugs.'
+p1932
+aS"He was challenged by a guy named Beto O'Rourke."
+p1933
+aS"I think that's his name."
+p1934
+aS"He's a former city councilman."
+p1935
+aS'And he got help from the campaign for primary accountability.'
+p1936
+aS"And I don't know how much it helped him, but it presumably helped him somewhat, and he won."
+p1937
+aS'So you now have a guy who is written in favor of legalizing marijuana, written a book about it in fact.'
 p1938
-sg13
-(lp1939
-S'It looked like most people did not. Is that accurate? Who -- who checked off the box for'
+aS'It says we need serious drug policy reform, replacing a hard line drug warrior.'
+p1939
+aS'Both Democrats, right?'
 p1940
-aS'that fund? So right here in this audience, which I suspect is disproportionately in favor'
+aS"So that's an example of how rich people -- disagreeing rich people can -- can aid progressive causes."
 p1941
-aS"of this sort of thing -- you can't even get a majority here."
+aS'And of course in the Republican presidential primaries, you had Rick Santorum and Newt Gingrich -- these are not the greatest examples, but they did hang in there a lot longer than they would have, thanks to rich guys who gave money to super PACs supporting them.'
 p1942
-asa(dp1943
-g8
-S'JOHN DONVAN'
+aS"Mitt Romney had challengers who were different in some particular ways from him, not identical, in some ways better than him on certain issues, you know, it's not a great group to pick among, but -- -- but it -- very clearly they could stay in that race."
+p1943
+aS'That race was more competitive than it otherwise would have been, thanks to the super PAC money.'
 p1944
-sg13
-(lp1945
-S"Just for our radio audience, let's mention that all the hands went up."
+asg23
+(dp1945
+S'19:56:18'
 p1946
-ag868
-aS'Nearly all the hands went up.'
+I4
+sS'19:57:17'
 p1947
-asg19
-(dp1948
-I3
-S'20:15:13'
+I18
+ssg8
+(lp1948
+S"I mean, don't knock them."
 p1949
-ssa(dp1950
-g8
-S'DAVID KEATING'
+aS'I mean, first of all, you have people of more modest means,as David pointed out, who can pool their money as a result of having super PACs.'
+p1950
+aS'Butthere is something to be said for disagreeing rich people.'
 p1951
-sg13
-(lp1952
-S'Anyway, I actually --'
+aS'You\'ve got billionaires, youknow, who favor Democrats, and you have billionaires who favor Republicans.You\'ve got a bunch of rich guys who got together and put together a group called "TheCampaign for Primary Accountability," which I love, because what they do is they goaround the country.'
+p1952
+aS'They look for entrenched incumbents of both parties, and theytarget them for defeat.'
 p1953
-asa(dp1954
-g8
-S'JOHN DONVAN'
+aS'And I think this is a great thing.'
+p1954
+aS'And just to give you oneexample of what most people will consider to be a progressive outcome, there was acongressional race in Texas where Sylvestre Reyes, who was a long-time congressman,very comfortable, terrible on the war on drugs.'
 p1955
-sg13
-(lp1956
-S'David Keating.'
+aS"He was challenged by a guy named BetoO'Rourke."
+p1956
+aS"I think that's his name."
 p1957
-asa(dp1958
-g23
-(dp1959
-I2
-S'[laughter]'
+aS"He's a former city councilman."
+p1958
+aS'And he got help fromthe campaign for primary accountability.'
+p1959
+aS"And I don't know how much it helped him, butit presumably helped him somewhat, and he won."
 p1960
-ssg8
-S'DAVID KEATING'
+aS'So you now have a guy who iswritten in favor of legalizing marijuana, written a book about it in fact.'
 p1961
-sg13
-(lp1962
-S"-- found it kind of amusing that we're pointing to New York City's council as a model of"
+aS'It says we needserious drug policy reform, replacing a hard line drug warrior.'
+p1962
+aS"Both Democrats, right?So that's an example of how rich people -- disagreeing rich people can -- can aidprogressive causes.And of course in the Republican presidential primaries, you had Rick Santorum andNewt Gingrich -- these are not the greatest examples, but they did hang in there a lotlonger than they would have, thanks to rich guys who gave money to super PACssupporting them."
 p1963
-aS'clean government.'
+aS"Mitt Romney had challengers who were different in some particularways from him, not identical, in some ways better than him on certain issues, you know,it's not a great group to pick among, but ---- but it -- very clearly they could stay in that race."
 p1964
-aS"I mean, Jonathan -- Jonathan just described a system of tax funded elections that's the"
+aS'That race was more competitive than [[laughter]] it otherwise would have been, thanks to the super PAC money.'
 p1965
-aS"model they want to take to the rest of the country. And we're looking at New York"
-p1966
-aS"City's council as the model of great representation produced by this. I, for one, don't"
+asg13
+(dp1966
+I18
+S'33'
 p1967
-aS'agree with that. You look at the quality of the law making coming out of there, and, you'
-p1968
-aS"know, it doesn't seem to work. So I don't think we want to copy that model."
-p1969
-asa(dp1970
-g23
-(dp1971
-I1
-S'[applause]'
-p1972
-ssg8
-S'JOHN DONVAN'
-p1973
-sg10
-(dp1974
-I1
-S'44'
-p1975
-ssg13
-(lp1976
-S'Sir in the neck tie.'
-p1977
-asa(dp1978
-g23
-(dp1979
+ssa(dp1968
+g27
+(dp1969
 I5
 S'[laughter]'
-p1980
+p1970
 ssg8
-S'GIL HYDE [SPELLED PHONETICALLY]'
+(lp1971
+S'I want to remind you, we are in the question and answer section of this IntelligenceSquared U.S.'
+p1972
+aS'Debate.'
+p1973
+aS"I'm John Donvan, your moderator."
+p1974
+aS'We have four debatersarguing it out over this motion, "Two Cheers for Super PACs: Money in Politics is StillOverregulated.'
+p1975
+aS'" Let\'s hear from our audience.'
+p1976
+aS"That was -- I'm considering using thatapplause, that was ---- we could make that a moment."
+p1977
+aS"I'm going to pass, though."
+p1978
+aS'[[laughter]] Any hands up.'
+p1979
+aS"On the far -- gentleman on the aisle there, and if you wouldn't mindrising so that we can see you, thanks."
+p1980
+asg11
+S'JOHN DONVAN'
 p1981
-sg13
+sg16
 (lp1982
-S'Hi. My name is Gil Hyde, I do high school debate here in the city. And I have a question'
+S'I want to remind you, we are in the question and answer section of this Intelligence Squared U.S.'
 p1983
-aS"that's more theoretical than anything else. You talk about the appearance of"
+aS'Debate.'
 p1984
-aS'corruption, both teams have. And my question is the appearance of corruption versus'
+aS"I'm John Donvan, your moderator."
 p1985
-aS"actual corruption, whether it would make a difference if we didn't see the corruption"
+aS'We have four debaters arguing it out over this motion, "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
 p1986
-aS'towards the debate.'
+aS'" Let\'s hear from our audience.'
 p1987
-asa(dp1988
-g8
-S'JACOB SULLUM'
+aS"That was -- I'm considering using that applause, that was -- -- we could make that a moment."
+p1988
+aS"I'm going to pass, though."
 p1989
-sg13
-(lp1990
-S"That's a great point because the response to the appearance of corruption is you just"
+aS'Any hands up.'
+p1990
+aS"On the far -- gentleman on the aisle there, and if you wouldn't mind rising so that we can see you, thanks."
 p1991
-aS"hide it, and then people don't worry about it. It's not a problem."
-p1992
-asg19
-(dp1993
-I2
-S'20:16:19'
-p1994
-ssa(dp1995
+asg23
+(dp1992
+S'19:58:17'
+p1993
+I6
+ssa(dp1994
 g8
-S'JOHN DONVAN'
+(lp1995
+S'Yes, my name is Jay Lipow .'
 p1996
-sg13
-(lp1997
-S'Jacob Sullum.'
+aS"I've always believed that afundamental right like free speech can be abrogated only if you can show a compellingstate interest."
+p1997
+aS"And I haven't seen any evidence that the presumption or the likelihoodof corruption is satisfactory to prove a compelling state interest."
 p1998
-asa(dp1999
-g8
-S'JACOB SULLUM'
+aS"There hasn't beenshown any actual corruption, has there?"
+p1999
+asg11
+S'JAY LIPOW'
 p2000
-sg13
+sg16
 (lp2001
-S'But yes, I think that is a problem because it hinges on something that may not be real.'
+S'Yes, my name is Jay Lipow .'
 p2002
-aS'And this whole notion that underlies this, that you want people to have faith in your'
+aS"I've always believed that a fundamental right like free speech can be abrogated only if you can show a compelling state interest."
 p2003
-aS"government ought to be controversial. There's such a thing as having too much faith in"
+aS"And I haven't seen any evidence that the presumption or the likelihood of corruption is satisfactory to prove a compelling state interest."
 p2004
-aS'your government. Some people look at these declining ratings for Congress and the'
+aS"There hasn't been shown any actual corruption, has there?"
 p2005
-aS'federal government, and they say this is terrible. People are losing faith in the'
-p2006
-aS'government. Other people look at that, and they say, thank God voters are finally'
-p2007
-aS"wising up, right? And so obviously that's going to depend on your own views about how"
+asa(dp2006
+g8
+(lp2007
+S"All right, challenge to the side that's arguing against super PACs."
 p2008
-aS'big government should be, what it should be doing and so forth. But it is not an'
+aS'Trevor Potter.'
 p2009
-aS'uncontroversial idea that everyone should have faith in the government.'
-p2010
-asa(dp2011
-g8
+asg11
 S'JOHN DONVAN'
+p2010
+sg16
+(lp2011
+S"All right, challenge to the side that's arguing against super PACs."
 p2012
-sg13
-(lp2013
-S"Jacob -- I'm sorry, Trevor Potter."
-p2014
-asa(dp2015
+aS'Trevor Potter.'
+p2013
+asa(dp2014
 g8
-S'TREVOR POTTER'
+(lp2015
+S'As I think I tried to explain earlier, there has.'
 p2016
-sg13
-(lp2017
-S"So that may mean that we would have been better off if we'd never known that the"
+aS'There are people who have gone to jail foractual corruption proved at trials.'
+p2017
+aS'In the McCain-Feingold litigation, former members ofCongress were interviewed by the other side who objected to the law, saying, "Did youever see actual corruption?'
 p2018
-aS'Nixon administration sold milk price supports for $2 million to the --'
+aS'"The answer was, "Yes, I saw that money changed what happened in the Congress of theUnited States.'
 p2019
-asa(dp2020
-g8
-S'JACOB SULLUM'
+aS'" Either the desire to fundraise and get money from particular interests orthe facts that they had given money to party committees and, therefore, party leaderssaid, "We can\'t go after that, we can\'t do this --"'
+p2020
+asg11
+S'TREVOR POTTER'
 p2021
 sg13
-(lp2022
-S'According to corruption argument, yeah.'
+(dp2022
+I4
+S'34'
 p2023
-asa(dp2024
-g8
-S'TREVOR POTTER'
+ssg16
+(lp2024
+S'As I think I tried to explain earlier, there has.'
 p2025
-sg10
-(dp2026
-I0
-S'45'
+aS'There are people who have gone to jail for actual corruption proved at trials.'
+p2026
+aS'In the McCain-Feingold litigation, former members of Congress were interviewed by the other side who objected to the law, saying, "Did you ever see actual corruption?'
 p2027
-ssg13
-(lp2028
-S'-- milk people and sold an antitrust case to ITT. What the court said is you have to worry'
+aS'" The answer was, "Yes, I saw that money changed what happened in the Congress of the United States.'
+p2028
+aS'" Either the desire to fundraise and get money from particular interests or the facts that they had given money to party committees and, therefore, party leaders said, "We can\'t go after that, we can\'t do this --"'
 p2029
-aS'about both. You have to worry about actual corruption because that means that'
-p2030
-aS'government is not doing its job.'
+asg23
+(dp2030
+S'19:59:17'
 p2031
-aS"It's not impartially deciding in the common good. And you have to worry about the"
-p2032
-aS"appearance because if citizens think that's what's going on, and they look at all this"
-p2033
-aS"money and they look at who's getting it and the way these super PACs are working"
+I4
+ssa(dp2032
+g8
+(lp2033
+S'Can you give us an --'
 p2034
-aS'linked closely to candidates, and think, "Well, I don\'t have any role in this, they are all in'
+asg11
+S'JOHN DONVAN'
 p2035
-aS'a league different than mine, and they\'re getting something for their money," that'
-p2036
-aS'appearance is a problem for us, too.'
-p2037
-asg19
-(dp2038
-I3
-S'20:17:18'
+sg16
+(lp2036
+g2034
+asa(dp2037
+g8
+(lp2038
+S'"-- because of --"'
 p2039
-ssa(dp2040
+asg11
+S'TREVOR POTTER'
+p2040
+sg16
+(lp2041
+g2039
+asa(dp2042
 g8
-S'JOHN DONVAN'
-p2041
-sg13
-(lp2042
-S'One more question, sir, right in the -- oh, right down in the front here. Thanks. Mic is'
-p2043
-aS'coming.'
+(lp2043
+S'-- a concrete example, not quite hypothetical of the sort -- you know, do you recall anyspecifics of any sort of deal that was done that way?'
 p2044
-asa(dp2045
+asg11
+S'JOHN DONVAN'
+p2045
+sg16
+(lp2046
+S'-- a concrete example, not quite hypothetical of the sort -- you know, do you recall any specifics of any sort of deal that was done that way?'
+p2047
+asa(dp2048
 g8
-S'KIM BARKER'
-p2046
-sg13
-(lp2047
-S"I guess I get the women vote then, right? I heard you got -- my name's Kim Barker -- and"
-p2048
-aS"I've heard you talk a lot about super PACs this evening and some mention of social"
-p2049
-aS"welfare, nonprofits, and trade associations. I guess I'd like to ask both sides what role"
+(lp2049
+S'Sure, Senator McCain testified that in the Republican caucus when the subject came upof tobacco legislation the Republican leader said, "They\'ve just given us hundreds ofthousands of dollars.'
 p2050
-aS'you think those anonymous donation groups are going to play this election, and to get a'
+aS"This is something we really can't support."
 p2051
-aS'defense of anonymous money in politics, and also why it might not be so good.'
+ag297
+asg11
+S'TREVOR POTTER'
 p2052
-asg19
-(dp2053
-I5
-S'20:18:20'
+sg16
+(lp2053
+S'Sure, Senator McCain testified that in the Republican caucus when the subject came up of tobacco legislation the Republican leader said, "They\'ve just given us hundreds of thousands of dollars.'
 p2054
-ssa(dp2055
+aS"This is something we really can't support."
+p2055
+ag297
+asa(dp2056
 g8
-S'JOHN DONVAN'
-p2056
-sg13
 (lp2057
-S"You're asking for a defense of anonymity in politics?"
+S"That's worrisome."
 p2058
-asa(dp2059
-g8
-S'KIM BARKER'
+aS'Jacob Sullum.'
+p2059
+asg11
+S'JOHN DONVAN'
 p2060
-sg13
+sg16
 (lp2061
-S'Anonymous money, the trade associations and the social welfare, nonprofits --'
+S"That's worrisome."
 p2062
-asa(dp2063
+aS'Jacob Sullum.'
+p2063
+asa(dp2064
 g8
-S'JOHN DONVAN'
-p2064
-sg13
 (lp2065
-S'Yeah, such as the National Rifle Association, Sierra Club --'
+S'Can I push -- I want to push this definition of corruption a little bit because I think --'
 p2066
-asa(dp2067
+asg11
+S'JACOB SULLUM'
+p2067
+sg16
+(lp2068
+g2066
+asa(dp2069
 g8
-S'KIM BARKER'
-p2068
-sg13
-(lp2069
-S'Yeah, yeah, yeah.'
-p2070
-asa(dp2071
-g8
-S'JOHN DONVAN'
+(lp2070
+S'No, no, but can you respond to that case?'
+p2071
+aS'To that example?'
 p2072
-sg13
-(lp2073
-S"-- organizations like that do not have to disclose who their donors are, okay. And you're"
+aS'If that happened, doesthat --'
+p2073
+asg11
+S'JOHN DONVAN'
 p2074
-aS"asking for somebody -- and you're looking for a defense of that anonymity."
-p2075
-asa(dp2076
-g8
-S'KIM BARKER'
+sg16
+(lp2075
+S'No, no, but can you respond to that case?'
+p2076
+aS'To that example?'
 p2077
-sg10
-(dp2078
-I1
-S'46'
-p2079
-ssg13
+aS'If that happened, does that --'
+p2078
+asa(dp2079
+g8
 (lp2080
-S"A defense and also why that's not so good."
+S"You're talking about soft money, is that the deal?"
 p2081
-asa(dp2082
-g8
-S'JOHN DONVAN'
-p2083
-sg13
-(lp2084
-S'And an attack, okay. Jacob Sullum.'
+asg11
+S'JACOB SULLUM'
+p2082
+sg16
+(lp2083
+g2081
+asg23
+(dp2084
+S'20:00:19'
 p2085
-asa(dp2086
+I1
+ssa(dp2086
 g8
-S'JACOB SULLUM'
-p2087
-sg13
-(lp2088
-S"Well, and I think it's the case, and David can correct me if I'm wrong, because it's"
+(lp2087
+S'Correct, sell contributions to party committees.'
+p2088
+asg11
+S'TREVOR POTTER'
 p2089
-aS'actually -- this is a small percentage of the money for super PACs that comes from these'
-p2090
-aS'nonprofits.'
-p2091
-asa(dp2092
+sg16
+(lp2090
+g2088
+asa(dp2091
 g8
-S'KIM BARKER'
+(lp2092
+S"Yeah, yeah, I don't think that should be happening."
 p2093
-sg13
-(lp2094
-S"I'm asking about the direct spending because a lot of these groups spend directly."
+aS'Is that the question?'
+p2094
+aS'Yeah, it shouldnot be happening.'
 p2095
-asa(dp2096
-g8
+asg11
 S'JACOB SULLUM'
-p2097
+p2096
 sg13
-(lp2098
-S"Oh, okay, I thought you meant donations, super, I'm sorry."
-p2099
-asa(dp2100
-g8
-S'KIM BARKER'
+(dp2097
+I2
+S'35'
+p2098
+ssg16
+(lp2099
+S"Yeah, yeah, I don't think that should be happening."
+p2100
+aS'Is that the question?'
 p2101
-sg13
-(lp2102
-S'No, no, no, I mean, you look , for example.'
-p2103
-asa(dp2104
+aS'Yeah, it should not be happening.'
+p2102
+asa(dp2103
 g8
-S'JACOB SULLUM'
+(lp2104
+S"Yeah, yeah, that's the question, yeah."
 p2105
-sg13
-(lp2106
-S'Right, okay. As I said before, I think there really is a value in not having to disclose the'
-p2107
-aS'people who are supporting these groups. I mean, imagine somebody who supports, say,'
-p2108
-aS"NORML and doesn't want his employer to know that, or he supports NORML, or -- fill in"
-p2109
-aS"your favorite group, whatever it is, you can imagine reasons why people don't want"
-p2110
-aS'their support to be widely known. And, in fact, this has been recognized to some extent'
-p2111
-aS'by the Supreme Court in a case involving the NAACP, where I think it -- was it Alabama --'
-p2112
-aS'wanted to force them to disclose all of their supporters.'
-p2113
-aS'And the Supreme Court said, "No, this is --"'
-p2114
-asg19
-(dp2115
-I7
-S'20:19:25'
-p2116
-ssa(dp2117
-g8
+asg11
 S'JOHN DONVAN'
-p2118
-sg13
-(lp2119
-S"We're all going to close our eyes, and the person --"
-p2120
-asa(dp2121
+p2106
+sg16
+(lp2107
+g2105
+asa(dp2108
 g8
+(lp2109
+S'But seriously think about what you have in mind when you say, "corruption.'
+p2110
+aS'" There\'s aguy, a state senator in New York, Roy McDonald, who voted in favor of the GayMarriage Bill and the primary\'s tomorrow, right?'
+p2111
+aS"So he is up for reelection, or he's upfor renomination tomorrow, and before he decided to vote in favor of the Gay MarriageBill, he had assurances from gay rights activists that they would help him raise money tosupport his campaign."
+p2112
+aS'Is that corruption?'
+p2113
+aS'And I think that your idea of whether that iscorruption is going to hinge on your policy views to a large extent.'
+p2114
+aS"So keep that in mind.I'm -- you know, just think about it."
+p2115
+asg11
 S'JACOB SULLUM'
+p2116
+sg16
+(lp2117
+S'But seriously think about what you have in mind when you say, "corruption.'
+p2118
+aS'" There\'s a guy, a state senator in New York, Roy McDonald, who voted in favor of the Gay Marriage Bill and the primary\'s tomorrow, right?'
+p2119
+aS"So he is up for reelection, or he's up for renomination tomorrow, and before he decided to vote in favor of the Gay Marriage Bill, he had assurances from gay rights activists that they would help him raise money to support his campaign."
+p2120
+aS'Is that corruption?'
+p2121
+aS'And I think that your idea of whether that is corruption is going to hinge on your policy views to a large extent.'
 p2122
-sg13
-(lp2123
-S'This hinges on freedom --'
+aS'So keep that in mind.'
+p2123
+aS"I'm -- you know, just think about it."
 p2124
-ag868
 asa(dp2125
 g8
-S'JOHN DONVAN'
-p2126
-sg13
-(lp2127
-S'The phone is interfering. We are -- okay. Resume.'
+(lp2126
+S'Sir, on the aisle, yep.'
+p2127
+aS'Mic is coming to you from behind you.'
 p2128
-asa(dp2129
-g8
-S'JACOB SULLUM'
+aS'Thanks.'
+p2129
+asg11
+S'JOHN DONVAN'
 p2130
-sg10
-(dp2131
+sg16
+(lp2131
+S'Sir, on the aisle, yep.'
+p2132
+aS'Mic is coming to you from behind you.'
+p2133
+aS'Thanks.'
+p2134
+asa(dp2135
+g8
+(lp2136
+S'Jamie Weinstein, senior editor of the Daily Caller.'
+p2137
+aS'Jacob kind of stole my thunder at theend with my question, but I would like to get your side to answer it.He pointed to the Republican primary this year, and it actually seems to be morecompetitive because of the super PACs.'
+p2138
+aS'Gingrich and Santorum were able to stay in therace longer and gave Mitt Romney a challenge where he otherwise may have been ableto mow down them much more easily without his super PACs.'
+p2139
+aS"Isn't that a positive?More competitive elections?"
+p2140
+asg11
+S'JAMIE WEINSTEIN'
+p2141
+sg16
+(lp2142
+S'Jamie Weinstein, senior editor of the Daily Caller.'
+p2143
+aS'Jacob kind of stole my thunder at the end with my question, but I would like to get your side to answer it.'
+p2144
+aS'He pointed to the Republican primary this year, and it actually seems to be more competitive because of the super PACs.'
+p2145
+aS'Gingrich and Santorum were able to stay in the race longer and gave Mitt Romney a challenge where he otherwise may have been able to mow down them much more easily without his super PACs.'
+p2146
+aS"Isn't that a positive?"
+p2147
+aS'More competitive elections?'
+p2148
+asg23
+(dp2149
+S'20:01:16'
+p2150
+I2
+ssa(dp2151
+g8
+(lp2152
+S'Well, what you had was --'
+p2153
+asg11
+S'TREVOR POTTER'
+p2154
+sg16
+(lp2155
+g2153
+asa(dp2156
+g8
+(lp2157
+S'Trevor Potter.'
+p2158
+asg11
+S'JOHN DONVAN'
+p2159
+sg16
+(lp2160
+g2158
+asa(dp2161
+g27
+(dp2162
+I8
+S'[laughter]'
+p2163
+ssg11
+S'TREVOR POTTER'
+p2164
+sg16
+(lp2165
+S'-- huge contributions to what Romney referred to as "my super PAC," what Gingrich clearly saw as his super PAC, as a way of getting around the normal contribution limits.'
+p2166
+aS"I don't know that, that was a particular benefit to anybody, that all the sides were armored up significantly larger than they normally would be in a primary."
+p2167
+aS"You're right, the primary went on longer because instead of having to worry about for Gingrich whether they were donors who would support him and how he could keep going when he kept losing primaries, all he had to worry about was whether he made one man happy or not -- -- and under these coordination regulations he could go meet with that man and talk to him."
+p2168
+asg23
+(dp2169
+S'20:02:21'
+p2170
+I10
+ssg8
+(lp2171
+S'-- huge contributions to what Romney referred to as "my super PAC," what Gingrichclearly saw as his super PAC, as a way of getting around the normal contribution limits.'
+p2172
+aS"Idon't know that, that was a particular benefit to anybody, that all the sides werearmored up significantly larger than they normally would be in a primary."
+p2173
+aS"You're right,the primary went on longer because instead of having to worry about for Gingrichwhether they were donors who would support him and how he could keep going whenhe kept losing primaries, all he had to worry about was whether he made one manhappy or not ---- and under these coordination regulations he could go meet with that man and talk to [[laughter]] him."
+p2174
+asg13
+(dp2175
+I8
+S'36'
+p2176
+ssa(dp2177
+g8
+(lp2178
+S'I just want to --'
+p2179
+asg11
+S'JONATHAN SOROS'
+p2180
+sg16
+(lp2181
+g2179
+asa(dp2182
+g8
+(lp2183
+S'Jonathan Soros.'
+p2184
+asg11
+S'JOHN DONVAN'
+p2185
+sg16
+(lp2186
+g2184
+asa(dp2187
+g8
+(lp2188
+S'So I want to echo that.'
+p2189
+aS'I mean, I think that the issue is, what would have happened ifNewt Gingrich had won the primary?'
+p2190
+aS'Would we have been asking about what he owedto Sheldon Adelson for the support that he got during the primary?'
+p2191
+asg11
+S'JONATHAN SOROS'
+p2192
+sg16
+(lp2193
+S'So I want to echo that.'
+p2194
+aS'I mean, I think that the issue is, what would have happened if Newt Gingrich had won the primary?'
+p2195
+aS'Would we have been asking about what he owed to Sheldon Adelson for the support that he got during the primary?'
+p2196
+asa(dp2197
+g27
+(dp2198
+I1
+S'[laughter]'
+p2199
+ssg8
+(lp2200
+S'And also, how could we have done this?'
+p2201
+asg11
+S'JACOB SULLUM'
+p2202
+sg16
+(lp2203
+g2201
+asa(dp2204
+g8
+(lp2205
+S"So I just want to -- you know, we keep talking about the question of corruption, and Iwant to go back to this notion a little bit of integrity, briefly, that what we're talkingabout, in part, when we talk about corruption and the appearance of corruption iswhether or not people believe in the integrity of the political process, that people arerepresenting them."
+p2206
+aS"And I'll just comment that there's actually nothing in our currentlimit system to give people a lot of confidence."
+p2207
+aS"As I said in my opening, when you've gotcontribution limits of $2,500, those are out of reach for most people in America.And $25,000 -- so you end up with a very, very small fraction of people who arecontributing as it is."
+p2208
+aS"It seems like the system's actually designed to maximize theamount of time that candidates spend with rich people, right?"
+p2209
+aS"That's one of the reasonsthat I said, at the end, we really need to be focused on an alternative as well, to focusingon a system where candidates can run for public office where they're not dependent onthese contributions."
+p2210
+asg11
+S'JONATHAN SOROS'
+p2211
+sg16
+(lp2212
+S"So I just want to -- you know, we keep talking about the question of corruption, and I want to go back to this notion a little bit of integrity, briefly, that what we're talking about, in part, when we talk about corruption and the appearance of corruption is whether or not people believe in the integrity of the political process, that people are representing them."
+p2213
+aS"And I'll just comment that there's actually nothing in our current limit system to give people a lot of confidence."
+p2214
+aS"As I said in my opening, when you've got contribution limits of $2,500, those are out of reach for most people in America."
+p2215
+aS'And $25,000 -- so you end up with a very, very small fraction of people who are contributing as it is.'
+p2216
+aS"It seems like the system's actually designed to maximize the amount of time that candidates spend with rich people, right?"
+p2217
+aS"That's one of the reasons that I said, at the end, we really need to be focused on an alternative as well, to focusing on a system where candidates can run for public office where they're not dependent on these contributions."
+p2218
+asg23
+(dp2219
+S'20:03:18'
+p2220
+I7
+ssa(dp2221
+g8
+(lp2222
+S"There's a gentleman in a white -- fully white shirt."
+p2223
+aS'Could you -- sir, could you standforward a little bit, just into the more lit area so the camera can see you?'
+p2224
+asg11
+S'JOHN DONVAN'
+p2225
+sg13
+(dp2226
+I2
+S'37'
+p2227
+ssg16
+(lp2228
+S"There's a gentleman in a white -- fully white shirt."
+p2229
+aS'Could you -- sir, could you stand forward a little bit, just into the more lit area so the camera can see you?'
+p2230
+asa(dp2231
+g8
+(lp2232
+S'Hi.'
+p2233
+aS'This question is for the in the affirmative of the motion.'
+p2234
+aS'You still maintain thatmoney in politics is still overregulated.'
+p2235
+aS"So I'm just wondering where you find it to be stilloverregulated and what the right amount of regulation should be."
+p2236
+asg11
+S'MALE SPEAKER'
+p2237
+sg16
+(lp2238
+S'Hi.'
+p2239
+aS'This question is for the in the affirmative of the motion.'
+p2240
+aS'You still maintain that money in politics is still overregulated.'
+p2241
+aS"So I'm just wondering where you find it to be still overregulated and what the right amount of regulation should be."
+p2242
+asa(dp2243
+g8
+(lp2244
+S'David Keating.'
+p2245
+asg11
+S'JOHN DONVAN'
+p2246
+sg16
+(lp2247
+g2245
+asa(dp2248
+g8
+(lp2249
+S'Well, I --'
+p2250
+asg11
+S'JACOB SULLUM'
+p2251
+sg16
+(lp2252
+g2250
+asa(dp2253
+g8
+(lp2254
+S'Jacob Sullum.'
+p2255
+asg11
+S'JOHN DONVAN'
+p2256
+sg16
+(lp2257
+g2255
+asa(dp2258
+g8
+(lp2259
+S'Yeah, just briefly, I did mention, I think, that they should get rid of the limits oncontributions.'
+p2260
+aS"I think a lot of the false independence you're worried about, thisapparent dishonesty, the evasions and so forth, come out of that.And what happens historically with campaign finance regulation is, they impose onerule, people find a way around it; they propose a new rule, people find a way aroundthat; and so on, and so on, and so on."
+p2261
+aS'And speech gets more and more restricted.Regulations get more and more complex and intimidating for the average person whomight want to get politically involved.'
+p2262
+aS'And I think we need to -- we cut our losses andmake things as simple as possible.'
+p2263
+aS"I don't buy the distinction between giving versusspending."
+p2264
+aS'I think if spending is speech, giving is also speech, or it amounts to speech ifyou restrict giving.'
+p2265
+aS'So there should be no limits on giving.'
+p2266
+aS'I am sort of on the fenceabout disclosure rules.'
+p2267
+aS"I think it's legitimate to require candidates, as a condition ofrunning for office, to disclose donors, but I don't think it's necessarily legitimate torequire disclosure for independent spenders."
+p2268
+aS"There's an argument to be made that thatchills speech."
+p2269
+aS"In fact, it's designed to chill speech."
+p2270
+asg11
+S'JACOB SULLUM'
+p2271
+sg16
+(lp2272
+S'Yeah, just briefly, I did mention, I think, that they should get rid of the limits on contributions.'
+p2273
+aS"I think a lot of the false independence you're worried about, this apparent dishonesty, the evasions and so forth, come out of that."
+p2274
+aS'And what happens historically with campaign finance regulation is, they impose one rule, people find a way around it; they propose a new rule, people find a way around that; and so on, and so on, and so on.'
+p2275
+aS'And speech gets more and more restricted.'
+p2276
+aS'Regulations get more and more complex and intimidating for the average person who might want to get politically involved.'
+p2277
+aS'And I think we need to -- we cut our losses and make things as simple as possible.'
+p2278
+aS"I don't buy the distinction between giving versus spending."
+p2279
+aS'I think if spending is speech, giving is also speech, or it amounts to speech if you restrict giving.'
+p2280
+aS'So there should be no limits on giving.'
+p2281
+aS'I am sort of on the fence about disclosure rules.'
+p2282
+aS"I think it's legitimate to require candidates, as a condition of running for office, to disclose donors, but I don't think it's necessarily legitimate to require disclosure for independent spenders."
+p2283
+aS"There's an argument to be made that that chills speech."
+p2284
+aS"In fact, it's designed to chill speech."
+p2285
+asg23
+(dp2286
+S'20:04:25'
+p2287
+I3
+ssa(dp2288
+g8
+(lp2289
+S'David Keating, would you add any other gripes to that list?'
+p2290
+asg11
+S'JOHN DONVAN'
+p2291
+sg16
+(lp2292
+g2290
+asg23
+(dp2293
+S'20:05:14'
+p2294
+I1
+ssa(dp2295
+g8
+(lp2296
+S"Well, there's -- first of all, I would agree with a lot of that."
+p2297
+aS'I do think it makes sense toallow candidates to decide when they file, as a candidate, what the contribution limitwill be, if any, and let the voters decide.'
+p2298
+aS'So if they want to accept unlimitedcontributions, the candidates can do that.'
+p2299
+aS"If the candidates will agree with each otherto accept a limit, whether it's today's limit of $2,500 or some other limit of, say,$10,000, let them do that, and let the voters decide."
+p2300
+aS'"Do I trust this person taking thesekinds of money from these kinds of people?'
+p2301
+aS'" So I think that makes sense.'
+p2302
+aS'Now, thereare lots of other laws and regulations.'
+p2303
+aS"As I said, there's -- the laws and regulations have376,000 words."
+p2304
+aS"For a lot of small grassroots groups that just want to say somethingabout their member of Congress, as soon as they spend $1,000, they have to file withthe Federal Election Commission.A lot of people just can't navigate these forms and these regulations."
+p2305
+aS"And then it's notclear what they're allowed to say and what they're not allowed to say."
+p2306
+aS"There areregulations describing what's express advocacy that's regulated by the Federal ElectionCommission."
+p2307
+aS"But people look at the regulation and they don't know what it means.And, in fact, we helped a group that had a question about a number of ads."
+p2308
+aS"Theysubmitted nine ads to the Federal Election Commission, and the Commission itselfcouldn't agree whether it was regulated speech or not."
+p2309
+aS"This is not a situation that isgood for our country, where people want to speak out about what's going on in theelection, and they have to hire a lawyer to do it."
+p2310
+aS"We've got to simplify the thing so theelection law is not more complicated than the tax law."
+p2311
+asg11
+S'DAVID KEATING'
+p2312
+sg13
+(dp2313
+I3
+S'38'
+p2314
+ssg16
+(lp2315
+S"Well, there's -- first of all, I would agree with a lot of that."
+p2316
+aS'I do think it makes sense to allow candidates to decide when they file, as a candidate, what the contribution limit will be, if any, and let the voters decide.'
+p2317
+aS'So if they want to accept unlimited contributions, the candidates can do that.'
+p2318
+aS"If the candidates will agree with each other to accept a limit, whether it's today's limit of $2,500 or some other limit of, say, $10,000, let them do that, and let the voters decide."
+p2319
+aS'"Do I trust this person taking these kinds of money from these kinds of people?'
+p2320
+aS'" So I think that makes sense.'
+p2321
+aS'Now, there are lots of other laws and regulations.'
+p2322
+aS"As I said, there's -- the laws and regulations have 376,000 words."
+p2323
+aS'For a lot of small grassroots groups that just want to say something about their member of Congress, as soon as they spend $1,000, they have to file with the Federal Election Commission.'
+p2324
+aS"A lot of people just can't navigate these forms and these regulations."
+p2325
+aS"And then it's not clear what they're allowed to say and what they're not allowed to say."
+p2326
+aS"There are regulations describing what's express advocacy that's regulated by the Federal Election Commission."
+p2327
+aS"But people look at the regulation and they don't know what it means."
+p2328
+aS'And, in fact, we helped a group that had a question about a number of ads.'
+p2329
+aS"They submitted nine ads to the Federal Election Commission, and the Commission itself couldn't agree whether it was regulated speech or not."
+p2330
+aS"This is not a situation that is good for our country, where people want to speak out about what's going on in the election, and they have to hire a lawyer to do it."
+p2331
+aS"We've got to simplify the thing so the election law is not more complicated than the tax law."
+p2332
+asg23
+(dp2333
+S'20:06:13'
+p2334
+I11
+ssa(dp2335
+g8
+(lp2336
+S'All right.'
+p2337
+aS"You know, I'm just thinking that, so far this evening, counting myself, thedebaters, the questioners, Bob Rosenkranz, we have heard eight men speaking."
+p2338
+aS'Are anywomen going to raise their hands with questions?'
+p2339
+aS"Because I'm looking, but I'm notseeing."
+p2340
+asg11
+S'JOHN DONVAN'
+p2341
+sg16
+(lp2342
+S'All right.'
+p2343
+aS"You know, I'm just thinking that, so far this evening, counting myself, the debaters, the questioners, Bob Rosenkranz, we have heard eight men speaking."
+p2344
+aS'Are any women going to raise their hands with questions?'
+p2345
+aS"Because I'm looking, but I'm not seeing."
+p2346
+asa(dp2347
+g8
+(lp2348
+S'Right in the middle.'
+p2349
+asg11
+S'MALE SPEAKER'
+p2350
+sg16
+(lp2351
+g2349
+asg23
+(dp2352
+S'20:07:17'
+p2353
+I1
+ssa(dp2354
+g8
+(lp2355
+S'Have you been doing that the whole time?'
+p2356
+aS"Oh, you're in the dark."
+p2357
+aS"I'm sorry."
+p2358
+aS"I can't seeyou."
+p2359
+aS"I just want to ask, is that okay for the camera, that you're in the shadows there?Yeah, you can pick it up."
+p2360
+aS'Okay.'
+p2361
+asg11
+S'JOHN DONVAN'
+p2362
+sg16
+(lp2363
+S'Have you been doing that the whole time?'
+p2364
+aS"Oh, you're in the dark."
+p2365
+aS"I'm sorry."
+p2366
+aS"I can't see you."
+p2367
+aS"I just want to ask, is that okay for the camera, that you're in the shadows there?"
+p2368
+aS'Yeah, you can pick it up.'
+p2369
+aS'Okay.'
+p2370
+asa(dp2371
+g8
+(lp2372
+S"I was just wondering for the proponents of free speech, without regulation, how do youdifferentiate between me supporting a candidate with my voice or me going to the storeand buying Scott's Miracle-Gro and having my support of green lawns representing apolitical concern?"
+p2373
+asg11
+S'FEMALE SPEAKER'
+p2374
+sg13
+(dp2375
+I4
+S'39'
+p2376
+ssg16
+(lp2377
+S"I was just wondering for the proponents of free speech, without regulation, how do you differentiate between me supporting a candidate with my voice or me going to the store and buying Scott's Miracle-Gro and having my support of green lawns representing a political concern?"
+p2378
+asa(dp2379
+g8
+(lp2380
+S'Because that company is supporting a particular cause, you mean?'
+p2381
+asg11
+S'JACOB SULLUM'
+p2382
+sg16
+(lp2383
+g2381
+asa(dp2384
+g8
+(lp2385
+S'Yes.'
+p2386
+aS"Scott's Miracle-Gro recently --"
+p2387
+asg11
+S'FEMALE SPEAKER'
+p2388
+sg16
+(lp2389
+S'Yes.'
+p2390
+aS"Scott's Miracle-Gro recently --"
+p2391
+asa(dp2392
+g8
+(lp2393
+S"Well, actually, I mean, that's an issue that hasn't actually come up."
+p2394
+aS'But that was one ofthe arguments that the Obama administration used in favor of keeping the regulationsthat were overturned in Citizens United.'
+p2395
+aS'They said there was not only this concernabout corruption, but also a shareholder interest.'
+p2396
+aS"And I guess you're talking about aconsumer interest, but it's somewhat similar.I think the answer in both cases is the same."
+p2397
+aS"If you're a shareholder in a company, youdon't like their political speech, you can -- you can sell those shares, or you can object ata shareholder meeting."
+p2398
+aS"If you're a consumer, and you don't like the political speech ofthe company you're buying from, you can stop buying from them."
+p2399
+aS'I mean, you canprotest as well.'
+p2400
+aS'But you have the power to decide where your money is going based onthat consideration.'
+p2401
+asg11
+S'JACOB SULLUM'
+p2402
+sg16
+(lp2403
+S"Well, actually, I mean, that's an issue that hasn't actually come up."
+p2404
+aS'But that was one of the arguments that the Obama administration used in favor of keeping the regulations that were overturned in Citizens United.'
+p2405
+aS'They said there was not only this concern about corruption, but also a shareholder interest.'
+p2406
+aS"And I guess you're talking about a consumer interest, but it's somewhat similar."
+p2407
+aS'I think the answer in both cases is the same.'
+p2408
+aS"If you're a shareholder in a company, you don't like their political speech, you can -- you can sell those shares, or you can object at a shareholder meeting."
+p2409
+aS"If you're a consumer, and you don't like the political speech of the company you're buying from, you can stop buying from them."
+p2410
+aS'I mean, you can protest as well.'
+p2411
+aS'But you have the power to decide where your money is going based on that consideration.'
+p2412
+asg23
+(dp2413
+S'20:08:18'
+p2414
+I5
+ssa(dp2415
+g8
+(lp2416
+S'Jonathan Soros.'
+p2417
+asg11
+S'JOHN DONVAN'
+p2418
+sg16
+(lp2419
+g2417
+asa(dp2420
+g8
+(lp2421
+S"So I'm glad -- thank you very much for raising that."
+p2422
+aS"I'm glad that this came up becausewe haven't talked at all about the corporate question which is actually what CitizensUnited was originally about."
+p2423
+aS"So that's an interesting theoretical argument."
+p2424
+aS"The problemis Scott's Miracle-Gro decided, voluntarily, to fund a super PAC, which is one of the fewinstances of a public company doing that."
+p2425
+aS"So if they decide to give their money in a waythat's not disclosed, then as a consumer, you have no idea about it and as ashareholder, you have no idea about it."
+p2426
+aS'The second thing is that as a shareholder, youmay very well have no ability to do anything about it anyway.'
+p2427
+aS"So let's -- the issue ofcorporate democracy, we could go on for a long time.But let's just stick with somebody who owns those shares through a pension fund, right?Forty-seven states in this onion, if you're a public employee, you're required to put yourmoney into a pension fund."
+p2428
+aS'That money can go anywhere.'
+p2429
+aS'It can go into any company,and you have no control over it.'
+p2430
+aS"So there is a problem with corporations speakingbecause they're speaking on behalf of other people that don't have the ability to givetheir consent."
+p2431
+aS"And you can also suggest maybe you shouldn't have to give your consentin order to participate in the modern economy of owning shares."
+p2432
+asg11
+S'JONATHAN SOROS'
+p2433
+sg13
+(dp2434
+I14
+S'40'
+p2435
+ssg16
+(lp2436
+S"So I'm glad -- thank you very much for raising that."
+p2437
+aS"I'm glad that this came up because we haven't talked at all about the corporate question which is actually what Citizens United was originally about."
+p2438
+aS"So that's an interesting theoretical argument."
+p2439
+aS"The problem is Scott's Miracle-Gro decided, voluntarily, to fund a super PAC, which is one of the few instances of a public company doing that."
+p2440
+aS"So if they decide to give their money in a way that's not disclosed, then as a consumer, you have no idea about it and as a shareholder, you have no idea about it."
+p2441
+aS'The second thing is that as a shareholder, you may very well have no ability to do anything about it anyway.'
+p2442
+aS"So let's -- the issue of corporate democracy, we could go on for a long time."
+p2443
+aS"But let's just stick with somebody who owns those shares through a pension fund, right?"
+p2444
+aS"Forty-seven states in this onion, if you're a public employee, you're required to put your money into a pension fund."
+p2445
+aS'That money can go anywhere.'
+p2446
+aS'It can go into any company, and you have no control over it.'
+p2447
+aS"So there is a problem with corporations speaking because they're speaking on behalf of other people that don't have the ability to give their consent."
+p2448
+aS"And you can also suggest maybe you shouldn't have to give your consent in order to participate in the modern economy of owning shares."
+p2449
+asg23
+(dp2450
+S'20:09:17'
+p2451
+I9
+ssa(dp2452
+g8
+(lp2453
+S'Another question?'
+p2454
+aS"I'm still gender hunting."
+p2455
+aS'Right in the center.'
+p2456
+aS'You were the onlywoman from seats and seats around.'
+p2457
+aS"But then I'm going to go back to gender blindafter that."
+p2458
+aS'Do you mind standing up too, please?'
+p2459
+aS'Thanks.'
+p2460
+asg11
+S'JOHN DONVAN'
+p2461
+sg16
+(lp2462
+S'Another question?'
+p2463
+aS"I'm still gender hunting."
+p2464
+aS'Right in the center.'
+p2465
+aS'You were the only woman from seats and seats around.'
+p2466
+aS"But then I'm going to go back to gender blind after that."
+p2467
+aS'Do you mind standing up too, please?'
+p2468
+aS'Thanks.'
+p2469
+asa(dp2470
+g8
+(lp2471
+S'No.'
+p2472
+aS'I think --'
+p2473
+asg11
+S'DEBRA JERKERSON [SPELLED PHONETICALLY]'
+p2474
+sg16
+(lp2475
+S'No.'
+p2476
+aS'I think --'
+p2477
+asa(dp2478
+g8
+(lp2479
+S"And we'd just like to ask your name."
+p2480
+asg11
+S'JOHN DONVAN'
+p2481
+sg16
+(lp2482
+g2480
+asa(dp2483
+g8
+(lp2484
+S'Okay.'
+p2485
+aS'My name is Debra Jerkerson.'
+p2486
+aS"And just going back to David's point that peoplehave a right to sort of organize themselves, or people have a right to change theirgovernment, it seems that we're getting into this long conversation about how toregulate money.But on the other hand, you're kind of saying that money doesn't really influence politics.I wanted to go back to what Mr. Soros is saying, what could we look at as a differentsystem such as campaign finance reform, or public funding of campaigns, and how doyou think about that?"
+p2487
+asg11
+S'DEBRA JERKERSON'
+p2488
+sg16
+(lp2489
+S'Okay.'
+p2490
+aS'My name is Debra Jerkerson.'
+p2491
+aS"And just going back to David's point that people have a right to sort of organize themselves, or people have a right to change their government, it seems that we're getting into this long conversation about how to regulate money."
+p2492
+aS"But on the other hand, you're kind of saying that money doesn't really influence politics."
+p2493
+aS'I wanted to go back to what Mr. Soros is saying, what could we look at as a different system such as campaign finance reform, or public funding of campaigns, and how do you think about that?'
+p2494
+asg23
+(dp2495
+S'20:10:24'
+p2496
+I4
+ssa(dp2497
+g8
+(lp2498
+S'David Keating.'
+p2499
+asg11
+S'JOHN DONVAN'
+p2500
+sg16
+(lp2501
+g2499
+asa(dp2502
+g8
+(lp2503
+S'Well, I -- the question is whether we should have tax funded campaigns.'
+p2504
+aS"And it's veryhard to design such a system."
+p2505
+aS'I think there are a lot of problems with it.'
+p2506
+aS'I mean, we talkabout disconnecting candidates from the people.'
+p2507
+aS"If they don't have to raise money fortheir campaigns, we're disconnecting them additionally."
+p2508
+aS"But there's also real questionsof how you design such a system so that it's attractive so the candidates will even wantto do it.We have tax funded campaigns for the presidential candidates."
+p2509
+aS'And in this election,both candidates have decided to forego that financing.'
+p2510
+aS"In other states where they'vedesigned these tax funded campaign systems, they've designed them in such a way as topenalize independent groups that speak out."
+p2511
+aS'Now, the Supreme Court has struck downthose provisions.'
+p2512
+aS'But it makes it even more difficult to design such a system.'
+p2513
+aS"So I don'tthink it's terribly workable, for one."
+p2514
+aS"Second, I don't think it's politically possible to pass,either."
+p2515
+aS'When you put together the words basically "tax funding" and "politicians"together, it\'s not popular.'
+p2516
+aS"People don't like paying taxes."
+p2517
+aS"They don't like their moneygoing to politicians."
+p2518
+aS"They don't like politicians generally."
+p2519
+aS"So I think if we're looking forsolutions to try to make our government more accountable, to provide cleanergovernment, that that's not something that's probably going to work politically."
+p2520
+asg11
+S'DAVID KEATING'
+p2521
+sg13
+(dp2522
+I10
+S'41'
+p2523
+ssg16
+(lp2524
+S'Well, I -- the question is whether we should have tax funded campaigns.'
+p2525
+aS"And it's very hard to design such a system."
+p2526
+aS'I think there are a lot of problems with it.'
+p2527
+aS'I mean, we talk about disconnecting candidates from the people.'
+p2528
+aS"If they don't have to raise money for their campaigns, we're disconnecting them additionally."
+p2529
+aS"But there's also real questions of how you design such a system so that it's attractive so the candidates will even want to do it."
+p2530
+aS'We have tax funded campaigns for the presidential candidates.'
+p2531
+aS'And in this election, both candidates have decided to forego that financing.'
+p2532
+aS"In other states where they've designed these tax funded campaign systems, they've designed them in such a way as to penalize independent groups that speak out."
+p2533
+aS'Now, the Supreme Court has struck down those provisions.'
+p2534
+aS'But it makes it even more difficult to design such a system.'
+p2535
+aS"So I don't think it's terribly workable, for one."
+p2536
+aS"Second, I don't think it's politically possible to pass, either."
+p2537
+aS'When you put together the words basically "tax funding" and "politicians" together, it\'s not popular.'
+p2538
+aS"People don't like paying taxes."
+p2539
+aS"They don't like their money going to politicians."
+p2540
+aS"They don't like politicians generally."
+p2541
+aS"So I think if we're looking for solutions to try to make our government more accountable, to provide cleaner government, that that's not something that's probably going to work politically."
+p2542
+asg23
+(dp2543
+S'20:11:17'
+p2544
+I6
+sS'20:12:18'
+p2545
+I17
+ssa(dp2546
+g8
+(lp2547
+S'Sir on the aisle?'
+p2548
+asg11
+S'JOHN DONVAN'
+p2549
+sg16
+(lp2550
+g2548
+asa(dp2551
+g27
+(dp2552
+I2
+S'[laughter]'
+p2553
+ssg8
+(lp2554
+S'Yes.'
+p2555
+aS'Thank you.'
+p2556
+aS'My name is Stanley Fish, New York Times, professor of law and authorof a book called "There\'s No Such Thing as Free Speech, and It\'s a Good Thing Too.'
+p2557
+aS'"I had a question for Mr. Keating who said, at the beginning of his address, that the issue [[laughter]] is, do we value the First Amendment and keep it as it is, which suggested that there wasa First Amendment that was libertarian in the form that he likes it.'
+p2558
+aS"But in fact, as I thinkyou know, that's a product of the last 35 years."
+p2559
+aS'As early as 1942, in Chaplinsky versusNew Hampshire, there was a paragraph listing all of the forms of speech that do notdeserve Constitutional protection --'
+p2560
+asg11
+S'STANLEY FISH'
+p2561
+sg16
+(lp2562
+S'Yes.'
+p2563
+aS'Thank you.'
+p2564
+aS'My name is Stanley Fish, New York Times, professor of law and author of a book called "There\'s No Such Thing as Free Speech, and It\'s a Good Thing Too.'
+p2565
+aS'" I had a question for Mr. Keating who said, at the beginning of his address, that the issue is, do we value the First Amendment and keep it as it is, which suggested that there was a First Amendment that was libertarian in the form that he likes it.'
+p2566
+aS"But in fact, as I think you know, that's a product of the last 35 years."
+p2567
+aS'As early as 1942, in Chaplinsky versus New Hampshire, there was a paragraph listing all of the forms of speech that do not deserve Constitutional protection --'
+p2568
+asa(dp2569
+g8
+(lp2570
+S'Mr.'
+p2571
+aS'Fish, can -- can you land this as a question?'
+p2572
+asg11
+S'JOHN DONVAN'
+p2573
+sg16
+(lp2574
+S'Mr.'
+p2575
+aS'Fish, can -- can you land this as a question?'
+p2576
+asa(dp2577
+g8
+(lp2578
+S'Sure.'
+p2579
+asg11
+S'STANLEY FISH'
+p2580
+sg16
+(lp2581
+g2579
+asa(dp2582
+g8
+(lp2583
+S'Thanks.'
+p2584
+asg11
+S'JOHN DONVAN'
+p2585
+sg16
+(lp2586
+g2584
+asa(dp2587
+g8
+(lp2588
+S"In '71, made the argument that only political speech could be protected sothat --"
+p2589
+asg11
+S'STANLEY FISH'
+p2590
+sg16
+(lp2591
+S"In '71, made the argument that only political speech could be protected so that --"
+p2592
+asa(dp2593
+g8
+(lp2594
+S"I'm sorry."
+p2595
+aS'Can you -- I -- I need you to bring the mic in and just do that last part again.'
+p2596
+asg11
+S'JOHN DONVAN'
+p2597
+sg13
+(dp2598
+I1
+S'42'
+p2599
+ssg16
+(lp2600
+S"I'm sorry."
+p2601
+aS'Can you -- I -- I need you to bring the mic in and just do that last part again.'
+p2602
+asg23
+(dp2603
+S'20:13:23'
+p2604
+I1
+ssa(dp2605
+g8
+(lp2606
+S'Your First Amendment is a very recent invention.'
+p2607
+aS'In fact, an invention that began withNew York Times versus Sullivan which I think is one of the worst cases ever decided.'
+p2608
+asg11
+S'STANLEY FISH'
+p2609
+sg16
+(lp2610
+S'Your First Amendment is a very recent invention.'
+p2611
+aS'In fact, an invention that began with New York Times versus Sullivan which I think is one of the worst cases ever decided.'
+p2612
+asa(dp2613
+g8
+(lp2614
+S'Okay.'
+p2615
+aS"You don't have to respond to that because it wasn't a question."
+p2616
+aS'That was aspeech.'
+p2617
+aS"That was one of those things I don't want to have happen."
+p2618
+asg11
+S'JOHN DONVAN'
+p2619
+sg16
+(lp2620
+S'Okay.'
+p2621
+aS"You don't have to respond to that because it wasn't a question."
+p2622
+aS'That was a speech.'
+p2623
+aS"That was one of those things I don't want to have happen."
+p2624
+asa(dp2625
+g8
+(lp2626
+S'In that case, can I go back to that last point because I think it --'
+p2627
+asg11
+S'JONATHAN SOROS'
+p2628
+sg16
+(lp2629
+g2627
+asa(dp2630
+g8
+(lp2631
+S"Yeah, sure, Jon, I'm sorry."
+p2632
+asg11
+S'JOHN DONVAN'
+p2633
+sg16
+(lp2634
+g2632
+asa(dp2635
+g8
+(lp2636
+S"-- because I think it's an important one."
+p2637
+asg11
+S'JONATHAN SOROS'
+p2638
+sg16
+(lp2639
+g2637
+asa(dp2640
+g8
+(lp2641
+S'Yeah.'
+p2642
+asg11
+S'JOHN DONVAN'
+p2643
+sg16
+(lp2644
+g2642
+asa(dp2645
+g8
+(lp2646
+S"Because what I heard as an argument against the citizen funding is essentially that it'sunpopular and that it's hard."
+p2647
+aS"And I think both of those things are true, but I don't thinkthis is a debate about what's politically popular or not."
+p2648
+aS"It's a debate about what's theright answer."
+p2649
+aS'So you can design a system that actually drives politicians towards theirconstituents.'
+p2650
+aS'I described it in my opening remarks.'
+p2651
+aS'So the system we have in New YorkCity where you only get the funding from the city when you raise money from yourconstituents in small dollars.That transforms the way that people -- people raise money in this city.'
+p2652
+aS"And you have tomake it big enough to -- it's true, we still have, on the books, a presidential publicfinancing system."
+p2653
+aS"I don't know what it is this year, but in 2008, it was worth about $110million."
+p2654
+aS"So that's just not a relevant number any more."
+p2655
+aS'It has to be robust enough thata candidate opting into the system believes that they can really run a credible campaign.'
+p2656
+asg11
+S'JONATHAN SOROS'
+p2657
+sg16
+(lp2658
+S"Because what I heard as an argument against the citizen funding is essentially that it's unpopular and that it's hard."
+p2659
+aS"And I think both of those things are true, but I don't think this is a debate about what's politically popular or not."
+p2660
+aS"It's a debate about what's the right answer."
+p2661
+aS'So you can design a system that actually drives politicians towards their constituents.'
+p2662
+aS'I described it in my opening remarks.'
+p2663
+aS'So the system we have in New York City where you only get the funding from the city when you raise money from your constituents in small dollars.'
+p2664
+aS'That transforms the way that people -- people raise money in this city.'
+p2665
+aS"And you have to make it big enough to -- it's true, we still have, on the books, a presidential public financing system."
+p2666
+aS"I don't know what it is this year, but in 2008, it was worth about $110 million."
+p2667
+aS"So that's just not a relevant number any more."
+p2668
+aS'It has to be robust enough that a candidate opting into the system believes that they can really run a credible campaign.'
+p2669
+asg23
+(dp2670
+S'20:14:15'
+p2671
+I7
+ssa(dp2672
+g8
+(lp2673
+S'How many of you checked off the little box on your tax return that said you were willingto give money to that fund?'
+p2674
+asg11
+S'JACOB SULLUM'
+p2675
+sg16
+(lp2676
+S'How many of you checked off the little box on your tax return that said you were willing to give money to that fund?'
+p2677
+asa(dp2678
+g8
+(lp2679
+S'Jacob Sullum.'
+p2680
+aS'David Keating.'
+p2681
+asg11
+S'JOHN DONVAN'
+p2682
+sg13
+(dp2683
+I1
+S'43'
+p2684
+ssg16
+(lp2685
+S'Jacob Sullum.'
+p2686
+aS'David Keating.'
+p2687
+asa(dp2688
+g8
+(lp2689
+S'Well, I find --'
+p2690
+asg11
+S'DAVID KEATING'
+p2691
+sg16
+(lp2692
+g2690
+asa(dp2693
+g8
+(lp2694
+S'Did you want an audience response from this?'
+p2695
+aS"I think it's a fair question."
+p2696
+aS"You're askinghow many people have actually checked off --"
+p2697
+asg11
+S'JOHN DONVAN'
+p2698
+sg16
+(lp2699
+S'Did you want an audience response from this?'
+p2700
+aS"I think it's a fair question."
+p2701
+aS"You're asking how many people have actually checked off --"
+p2702
+asa(dp2703
+g27
+(dp2704
+I3
+S'[laughter]'
+p2705
+ssg8
+(lp2706
+S'It looked like most people did not.'
+p2707
+aS'Is that accurate?'
+p2708
+aS'Who -- who checked off the box forthat fund?'
+p2709
+aS"So right here in this audience, which I suspect is disproportionately in favorof this sort of thing -- you can't even get a majority here."
+p2710
+asg11
+S'JACOB SULLUM'
+p2711
+sg16
+(lp2712
+S'It looked like most people did not.'
+p2713
+aS'Is that accurate?'
+p2714
+aS'Who -- who checked off the box for that fund?'
+p2715
+aS"So right here in this audience, which I suspect is disproportionately in favor of this sort of thing -- you can't even get a majority here."
+p2716
+asa(dp2717
+g8
+(lp2718
+S"Just for our radio audience, let's mention that all the hands went up."
+p2719
+aS'Nearly all the hands went up.'
+p2720
+asg11
+S'JOHN DONVAN'
+p2721
+sg16
+(lp2722
+S"Just for our radio audience, let's mention that all the hands went up."
+p2723
+aS'Nearly all the hands went up.'
+p2724
+asg23
+(dp2725
+S'20:15:13'
+p2726
+I3
+ssa(dp2727
+g8
+(lp2728
+S'Anyway, I actually --'
+p2729
+asg11
+S'DAVID KEATING'
+p2730
+sg16
+(lp2731
+g2729
+asa(dp2732
+g8
+(lp2733
+S'David Keating.'
+p2734
+asg11
+S'JOHN DONVAN'
+p2735
+sg16
+(lp2736
+g2734
+asa(dp2737
+g27
+(dp2738
+I2
+S'[laughter]'
+p2739
+ssg8
+(lp2740
+S"-- found it kind of amusing that we're pointing to New York City's council as a model ofclean government.I mean, Jonathan -- Jonathan just described a system of tax funded elections that's the [[laughter]] model they want to take to the rest of the country."
+p2741
+aS"And we're looking at New YorkCity's council as the model of great representation produced by this."
+p2742
+aS"I, for one, don'tagree with that."
+p2743
+aS"You look at the quality of the law making coming out of there, and, youknow, it doesn't seem to work."
+p2744
+aS"So I don't think we want to copy that model."
+p2745
+asg11
+S'DAVID KEATING'
+p2746
+sg16
+(lp2747
+S"-- found it kind of amusing that we're pointing to New York City's council as a model of clean government."
+p2748
+aS"I mean, Jonathan -- Jonathan just described a system of tax funded elections that's the model they want to take to the rest of the country."
+p2749
+aS"And we're looking at New York City's council as the model of great representation produced by this."
+p2750
+aS"I, for one, don't agree with that."
+p2751
+aS"You look at the quality of the law making coming out of there, and, you know, it doesn't seem to work."
+p2752
+aS"So I don't think we want to copy that model."
+p2753
+asa(dp2754
+g27
+(dp2755
+I1
+S'[applause]'
+p2756
+ssg8
+(lp2757
+S'Sir in the neck tie.'
+p2758
+asg11
+S'JOHN DONVAN'
+p2759
+sg13
+(dp2760
+I1
+S'44'
+p2761
+ssg16
+(lp2762
+g2758
+asa(dp2763
+g27
+(dp2764
+I5
+S'[laughter]'
+p2765
+ssg8
+(lp2766
+S'Hi.'
+p2767
+aS'My name is Gil Hyde, I do high school debate here in the city.'
+p2768
+aS"And I have a questionthat's more theoretical than anything else."
+p2769
+aS'You talk about the appearance ofcorruption, both teams have.'
+p2770
+aS"And my question is the appearance of corruption versusactual corruption, whether it would make a difference if we didn't see the corruptiontowards the debate."
+p2771
+asg11
+S'GIL HYDE [SPELLED PHONETICALLY]'
+p2772
+sg16
+(lp2773
+S'Hi.'
+p2774
+aS'My name is Gil Hyde, I do high school debate here in the city.'
+p2775
+aS"And I have a question that's more theoretical than anything else."
+p2776
+aS'You talk about the appearance of corruption, both teams have.'
+p2777
+aS"And my question is the appearance of corruption versus actual corruption, whether it would make a difference if we didn't see the corruption towards the debate."
+p2778
+asa(dp2779
+g8
+(lp2780
+S"That's a great point because the response to the appearance of corruption is you justhide it, and then people don't worry about it."
+p2781
+aS"It's not a problem."
+p2782
+asg11
+S'JACOB SULLUM'
+p2783
+sg16
+(lp2784
+S"That's a great point because the response to the appearance of corruption is you just hide it, and then people don't worry about it."
+p2785
+aS"It's not a problem."
+p2786
+asg23
+(dp2787
+S'20:16:19'
+p2788
+I2
+ssa(dp2789
+g8
+(lp2790
+S'Jacob Sullum.'
+p2791
+asg11
+S'JOHN DONVAN'
+p2792
+sg16
+(lp2793
+g2791
+asa(dp2794
+g8
+(lp2795
+S'But yes, I think that is a problem because it hinges on something that may not be real.And this whole notion that underlies this, that you want people to have faith in yourgovernment ought to be controversial.'
+p2796
+aS"There's such a thing as having too much faith inyour government."
+p2797
+aS'Some people look at these declining ratings for Congress and thefederal government, and they say this is terrible.'
+p2798
+aS'People are losing faith in thegovernment.'
+p2799
+aS'Other people look at that, and they say, thank God voters are finallywising up, right?'
+p2800
+aS"And so obviously that's going to depend on your own views about howbig government should be, what it should be doing and so forth."
+p2801
+aS'But it is not anuncontroversial idea that everyone should have faith in the government.'
+p2802
+asg11
+S'JACOB SULLUM'
+p2803
+sg16
+(lp2804
+S'But yes, I think that is a problem because it hinges on something that may not be real.'
+p2805
+aS'And this whole notion that underlies this, that you want people to have faith in your government ought to be controversial.'
+p2806
+aS"There's such a thing as having too much faith in your government."
+p2807
+aS'Some people look at these declining ratings for Congress and the federal government, and they say this is terrible.'
+p2808
+aS'People are losing faith in the government.'
+p2809
+aS'Other people look at that, and they say, thank God voters are finally wising up, right?'
+p2810
+aS"And so obviously that's going to depend on your own views about how big government should be, what it should be doing and so forth."
+p2811
+aS'But it is not an uncontroversial idea that everyone should have faith in the government.'
+p2812
+asa(dp2813
+g8
+(lp2814
+S"Jacob -- I'm sorry, Trevor Potter."
+p2815
+asg11
+S'JOHN DONVAN'
+p2816
+sg16
+(lp2817
+g2815
+asa(dp2818
+g8
+(lp2819
+S"So that may mean that we would have been better off if we'd never known that theNixon administration sold milk price supports for $2 million to the --"
+p2820
+asg11
+S'TREVOR POTTER'
+p2821
+sg16
+(lp2822
+S"So that may mean that we would have been better off if we'd never known that the Nixon administration sold milk price supports for $2 million to the --"
+p2823
+asa(dp2824
+g8
+(lp2825
+S'According to corruption argument, yeah.'
+p2826
+asg11
+S'JACOB SULLUM'
+p2827
+sg16
+(lp2828
+g2826
+asa(dp2829
+g8
+(lp2830
+S'-- milk people and sold an antitrust case to ITT.'
+p2831
+aS'What the court said is you have to worryabout both.'
+p2832
+aS"You have to worry about actual corruption because that means thatgovernment is not doing its job.It's not impartially deciding in the common good."
+p2833
+aS'And you have to worry about theappearance because if citizens think that\'s what\'s going on, and they look at all thismoney and they look at who\'s getting it and the way these super PACs are workinglinked closely to candidates, and think, "Well, I don\'t have any role in this, they are all ina league different than mine, and they\'re getting something for their money," thatappearance is a problem for us, too.'
+p2834
+asg11
+S'TREVOR POTTER'
+p2835
+sg13
+(dp2836
+I0
+S'45'
+p2837
+ssg16
+(lp2838
+S'-- milk people and sold an antitrust case to ITT.'
+p2839
+aS'What the court said is you have to worry about both.'
+p2840
+aS'You have to worry about actual corruption because that means that government is not doing its job.'
+p2841
+aS"It's not impartially deciding in the common good."
+p2842
+aS'And you have to worry about the appearance because if citizens think that\'s what\'s going on, and they look at all this money and they look at who\'s getting it and the way these super PACs are working linked closely to candidates, and think, "Well, I don\'t have any role in this, they are all in a league different than mine, and they\'re getting something for their money," that appearance is a problem for us, too.'
+p2843
+asg23
+(dp2844
+S'20:17:18'
+p2845
+I3
+ssa(dp2846
+g8
+(lp2847
+S'One more question, sir, right in the -- oh, right down in the front here.'
+p2848
+aS'Thanks.'
+p2849
+aS'Mic iscoming.'
+p2850
+asg11
+S'JOHN DONVAN'
+p2851
+sg16
+(lp2852
+S'One more question, sir, right in the -- oh, right down in the front here.'
+p2853
+aS'Thanks.'
+p2854
+aS'Mic is coming.'
+p2855
+asa(dp2856
+g8
+(lp2857
+S'I guess I get the women vote then, right?'
+p2858
+aS"I heard you got -- my name's Kim Barker -- andI've heard you talk a lot about super PACs this evening and some mention of socialwelfare, nonprofits, and trade associations."
+p2859
+aS"I guess I'd like to ask both sides what roleyou think those anonymous donation groups are going to play this election, and to get adefense of anonymous money in politics, and also why it might not be so good."
+p2860
+asg11
+S'KIM BARKER'
+p2861
+sg16
+(lp2862
+S'I guess I get the women vote then, right?'
+p2863
+aS"I heard you got -- my name's Kim Barker -- and I've heard you talk a lot about super PACs this evening and some mention of social welfare, nonprofits, and trade associations."
+p2864
+aS"I guess I'd like to ask both sides what role you think those anonymous donation groups are going to play this election, and to get a defense of anonymous money in politics, and also why it might not be so good."
+p2865
+asg23
+(dp2866
+S'20:18:20'
+p2867
+I5
+ssa(dp2868
+g8
+(lp2869
+S"You're asking for a defense of anonymity in politics?"
+p2870
+asg11
+S'JOHN DONVAN'
+p2871
+sg16
+(lp2872
+g2870
+asa(dp2873
+g8
+(lp2874
+S'Anonymous money, the trade associations and the social welfare, nonprofits --'
+p2875
+asg11
+S'KIM BARKER'
+p2876
+sg16
+(lp2877
+g2875
+asa(dp2878
+g8
+(lp2879
+S'Yeah, such as the National Rifle Association, Sierra Club --'
+p2880
+asg11
+S'JOHN DONVAN'
+p2881
+sg16
+(lp2882
+g2880
+asa(dp2883
+g8
+(lp2884
+S'Yeah, yeah, yeah.'
+p2885
+asg11
+S'KIM BARKER'
+p2886
+sg16
+(lp2887
+g2885
+asa(dp2888
+g8
+(lp2889
+S'-- organizations like that do not have to disclose who their donors are, okay.'
+p2890
+aS"And you'reasking for somebody -- and you're looking for a defense of that anonymity."
+p2891
+asg11
+S'JOHN DONVAN'
+p2892
+sg16
+(lp2893
+S'-- organizations like that do not have to disclose who their donors are, okay.'
+p2894
+aS"And you're asking for somebody -- and you're looking for a defense of that anonymity."
+p2895
+asa(dp2896
+g8
+(lp2897
+S"A defense and also why that's not so good."
+p2898
+asg11
+S'KIM BARKER'
+p2899
+sg13
+(dp2900
+I1
+S'46'
+p2901
+ssg16
+(lp2902
+g2898
+asa(dp2903
+g8
+(lp2904
+S'And an attack, okay.'
+p2905
+aS'Jacob Sullum.'
+p2906
+asg11
+S'JOHN DONVAN'
+p2907
+sg16
+(lp2908
+S'And an attack, okay.'
+p2909
+aS'Jacob Sullum.'
+p2910
+asa(dp2911
+g8
+(lp2912
+S"Well, and I think it's the case, and David can correct me if I'm wrong, because it'sactually -- this is a small percentage of the money for super PACs that comes from thesenonprofits."
+p2913
+asg11
+S'JACOB SULLUM'
+p2914
+sg16
+(lp2915
+S"Well, and I think it's the case, and David can correct me if I'm wrong, because it's actually -- this is a small percentage of the money for super PACs that comes from these nonprofits."
+p2916
+asa(dp2917
+g8
+(lp2918
+S"I'm asking about the direct spending because a lot of these groups spend directly."
+p2919
+asg11
+S'KIM BARKER'
+p2920
+sg16
+(lp2921
+g2919
+asa(dp2922
+g8
+(lp2923
+S"Oh, okay, I thought you meant donations, super, I'm sorry."
+p2924
+asg11
+S'JACOB SULLUM'
+p2925
+sg16
+(lp2926
+g2924
+asa(dp2927
+g8
+(lp2928
+S'No, no, no, I mean, you look , for example.'
+p2929
+asg11
+S'KIM BARKER'
+p2930
+sg16
+(lp2931
+g2929
+asa(dp2932
+g8
+(lp2933
+S'Right, okay.'
+p2934
+aS'As I said before, I think there really is a value in not having to disclose thepeople who are supporting these groups.'
+p2935
+aS"I mean, imagine somebody who supports, say,NORML and doesn't want his employer to know that, or he supports NORML, or -- fill inyour favorite group, whatever it is, you can imagine reasons why people don't wanttheir support to be widely known."
+p2936
+aS'And, in fact, this has been recognized to some extentby the Supreme Court in a case involving the NAACP, where I think it -- was it Alabama --wanted to force them to disclose all of their supporters.And the Supreme Court said, "No, this is --"'
+p2937
+asg11
+S'JACOB SULLUM'
+p2938
+sg16
+(lp2939
+S'Right, okay.'
+p2940
+aS'As I said before, I think there really is a value in not having to disclose the people who are supporting these groups.'
+p2941
+aS"I mean, imagine somebody who supports, say, NORML and doesn't want his employer to know that, or he supports NORML, or -- fill in your favorite group, whatever it is, you can imagine reasons why people don't want their support to be widely known."
+p2942
+aS'And, in fact, this has been recognized to some extent by the Supreme Court in a case involving the NAACP, where I think it -- was it Alabama -- wanted to force them to disclose all of their supporters.'
+p2943
+aS'And the Supreme Court said, "No, this is --"'
+p2944
+asg23
+(dp2945
+S'20:19:25'
+p2946
+I7
+ssa(dp2947
+g8
+(lp2948
+S"We're all going to close our eyes, and the person --"
+p2949
+asg11
+S'JOHN DONVAN'
+p2950
+sg16
+(lp2951
+g2949
+asa(dp2952
+g8
+(lp2953
+S'This hinges on freedom -- '
+p2954
+asg11
+S'JACOB SULLUM'
+p2955
+sg16
+(lp2956
+S'This hinges on freedom -- '
+p2957
+asa(dp2958
+g8
+(lp2959
+S'The phone is interfering.'
+p2960
+aS'We are -- okay.'
+p2961
+aS'Resume.'
+p2962
+asg11
+S'JOHN DONVAN'
+p2963
+sg16
+(lp2964
+S'The phone is interfering.'
+p2965
+aS'We are -- okay.'
+p2966
+aS'Resume.'
+p2967
+asa(dp2968
+g8
+(lp2969
+S'The Supreme Court said basically, "If you have to reveal who all your supporters are fora group that\'s engaged in advocacy that\'s controversial, that obviously has a chillingeffect.'
+p2970
+aS'It chills freedom of association and freedom of speech, too.'
+p2971
+aS'" So I think there isan argument -- a strong argument you\'ve made against forcing those groups to disclosewho their supporters are.'
+p2972
+asg11
+S'JACOB SULLUM'
+p2973
+sg13
+(dp2974
 I0
 S'47'
-p2132
-ssg13
-(lp2133
-S'The Supreme Court said basically, "If you have to reveal who all your supporters are for'
-p2134
-aS"a group that's engaged in advocacy that's controversial, that obviously has a chilling"
-p2135
-aS'effect. It chills freedom of association and freedom of speech, too." So I think there is'
-p2136
-aS"an argument -- a strong argument you've made against forcing those groups to disclose"
-p2137
-aS'who their supporters are.'
-p2138
-asa(dp2139
+p2975
+ssg16
+(lp2976
+S'The Supreme Court said basically, "If you have to reveal who all your supporters are for a group that\'s engaged in advocacy that\'s controversial, that obviously has a chilling effect.'
+p2977
+aS'It chills freedom of association and freedom of speech, too.'
+p2978
+aS'" So I think there is an argument -- a strong argument you\'ve made against forcing those groups to disclose who their supporters are.'
+p2979
+asa(dp2980
 g8
-S'JOHN DONVAN'
-p2140
-sg13
-(lp2141
+(lp2981
 S'Jonathan Soros.'
-p2142
-asa(dp2143
-g8
-S'JONATHAN SOROS'
-p2144
-sg13
-(lp2145
-S'So the NAACP case is a popular argument and response, and there are a lot of reasons'
-p2146
-aS"why it doesn't quite fit. But one of -- first of all, it stands also for the proposition that"
-p2147
-aS"there is an exemption for disclosure if there's a real threat to the members from"
-p2148
-aS'disclosure -- a clear -- and Alabama at that time, there were clearly threats to members.'
-p2149
-aS'There was also no state interest at all in getting that membership list in NAACP. So a'
-p2150
-aS'couple of things on the information . First of all, elections are different,'
-p2151
-aS"right? There's lots of anonymous political speech in our society, and we don't go around"
-p2152
-aS"looking for the sources of those speech. But when you're talking about advocating for"
-p2153
-aS"the election of someone who's going to represent their population, and you want to"
-p2154
-aS'have that clear connection between the electorate and the elected official to know that'
-p2155
-aS"they're actually representing their constituency, elections are different. There's an"
-p2156
-aS'informational component, right, so you want to be able to evaluate the message that'
-p2157
-aS"you're hearing. And part of being able to evaluate that is knowing who's speaking."
-p2158
-asg19
-(dp2159
-I4
-S'20:20:15'
-p2160
-ssa(dp2161
-g8
+p2982
+asg11
 S'JOHN DONVAN'
-p2162
-sg13
-(lp2163
-S'Jonathan, I have to step in because we hit our time limit.'
-p2164
-asa(dp2165
+p2983
+sg16
+(lp2984
+g2982
+asa(dp2985
 g8
+(lp2986
+S"So the NAACP case is a popular argument and response, and there are a lot of reasonswhy it doesn't quite fit."
+p2987
+aS"But one of -- first of all, it stands also for the proposition thatthere is an exemption for disclosure if there's a real threat to the members fromdisclosure -- a clear -- and Alabama at that time, there were clearly threats to members.There was also no state interest at all in getting that membership list in NAACP."
+p2988
+aS'So acouple of things on the information .'
+p2989
+aS'First of all, elections are different,right?'
+p2990
+aS"There's lots of anonymous political speech in our society, and we don't go aroundlooking for the sources of those speech."
+p2991
+aS"But when you're talking about advocating forthe election of someone who's going to represent their population, and you want tohave that clear connection between the electorate and the elected official to know thatthey're actually representing their constituency, elections are different."
+p2992
+aS"There's aninformational component, right, so you want to be able to evaluate the message thatyou're hearing."
+p2993
+aS"And part of being able to evaluate that is knowing who's speaking."
+p2994
+asg11
 S'JONATHAN SOROS'
-p2166
-sg13
-(lp2167
+p2995
+sg16
+(lp2996
+S"So the NAACP case is a popular argument and response, and there are a lot of reasons why it doesn't quite fit."
+p2997
+aS"But one of -- first of all, it stands also for the proposition that there is an exemption for disclosure if there's a real threat to the members from disclosure -- a clear -- and Alabama at that time, there were clearly threats to members."
+p2998
+aS'There was also no state interest at all in getting that membership list in NAACP.'
+p2999
+aS'So a couple of things on the information .'
+p3000
+aS'First of all, elections are different, right?'
+p3001
+aS"There's lots of anonymous political speech in our society, and we don't go around looking for the sources of those speech."
+p3002
+aS"But when you're talking about advocating for the election of someone who's going to represent their population, and you want to have that clear connection between the electorate and the elected official to know that they're actually representing their constituency, elections are different."
+p3003
+aS"There's an informational component, right, so you want to be able to evaluate the message that you're hearing."
+p3004
+aS"And part of being able to evaluate that is knowing who's speaking."
+p3005
+asg23
+(dp3006
+S'20:20:15'
+p3007
+I4
+ssa(dp3008
+g8
+(lp3009
+S'Jonathan, I have to step in because we hit our time limit.'
+p3010
+asg11
+S'JOHN DONVAN'
+p3011
+sg16
+(lp3012
+g3010
+asa(dp3013
+g8
+(lp3014
 S'Yeah.'
-p2168
-asa(dp2169
-g23
-(dp2170
+p3015
+asg11
+S'JONATHAN SOROS'
+p3016
+sg16
+(lp3017
+g3015
+asa(dp3018
+g27
+(dp3019
 I2
 S'[applause]'
-p2171
-ssg8
+p3020
+ssg11
 S'JOHN DONVAN'
-p2172
-sg10
-(dp2173
+p3021
+sg16
+(lp3022
+S"And I want to say, that's the conclusion of round two of this Intelligence Squared U.S."
+p3023
+aS'Debate.'
+p3024
+aS"And here's where we are."
+p3025
+aS"We're about to hear brief closing statements from each debater in turn."
+p3026
+aS'These will be two minutes, each.'
+p3027
+aS'It is their chance -- their last chance to try to affect how you will vote at the end of this debate.'
+p3028
+aS'Remember, you voted before the debate and we\'re going to ask you to vote again at the end on this motion, "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p3029
+aS'" So on to round three, closing statements.'
+p3030
+aS'Here to speak against the motion, "Two Cheers for Super PACs: Money in Politics is Still Overregulated," Trevor Potter.'
+p3031
+aS'He is president and general counsel of the Campaign Legal Center.'
+p3032
+asg23
+(dp3033
+S'20:21:15'
+p3034
+I2
+ssg8
+(lp3035
+S"And I want to say, that's the conclusion of round two of this Intelligence Squared U.S.Debate.And here's where we are."
+p3036
+aS"We're about to hear brief closing statements from each [[applause]] debater in turn."
+p3037
+aS'These will be two minutes, each.'
+p3038
+aS'It is their chance -- their last chanceto try to affect how you will vote at the end of this debate.'
+p3039
+aS'Remember, you votedbefore the debate and we\'re going to ask you to vote again at the end on this motion,"Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p3040
+aS'" So on to roundthree, closing statements.'
+p3041
+aS'Here to speak against the motion, "Two Cheers for SuperPACs: Money in Politics is Still Overregulated," Trevor Potter.'
+p3042
+aS'He is president andgeneral counsel of the Campaign Legal Center.'
+p3043
+asg13
+(dp3044
 I5
 S'48'
-p2174
-ssg13
-(lp2175
-S"And I want to say, that's the conclusion of round two of this Intelligence Squared U.S."
-p2176
-aS'Debate.'
-p2177
-aS"And here's where we are. We're about to hear brief closing statements from each"
-p2178
-aS'debater in turn. These will be two minutes, each. It is their chance -- their last chance'
-p2179
-aS'to try to affect how you will vote at the end of this debate. Remember, you voted'
-p2180
-aS"before the debate and we're going to ask you to vote again at the end on this motion,"
-p2181
-aS'"Two Cheers for Super PACs: Money in Politics is Still Overregulated." So on to round'
-p2182
-aS'three, closing statements. Here to speak against the motion, "Two Cheers for Super'
-p2183
-aS'PACs: Money in Politics is Still Overregulated," Trevor Potter. He is president and'
-p2184
-aS'general counsel of the Campaign Legal Center.'
-p2185
-asg19
-(dp2186
-I2
-S'20:21:15'
-p2187
-ssa(dp2188
+p3045
+ssa(dp3046
 g8
+(lp3047
+S'Thank you.'
+p3048
+aS"I'd like you to imagine a state where industrial hog operators began toworry about proposed new environmental regulations that would prevent them fromdumping untreated waste into local rivers."
+p3049
+aS'Imagine they formed a group called, say,"Farmers for Fairness," to persuade legislators to block such regulation.Imagine they created some campaign ads which attacked legislators by name, nevermentioning hog farming at all, but claiming legislators were not in touch with "ourvalues.'
+p3050
+aS'" But now imagine that Farmers for Fairness did not go out and run these ads,but instead scheduled meetings with legislators and screened the advertisements forthem in private.'
+p3051
+aS"Imagine Farmers for Fairness told the legislators privately that theywould hate to run these ads, but would do so if the legislators didn't vote the way theywanted."
+p3052
+aS"You don't have to imagine that."
+p3053
+aS'It happened in North Carolina, documented bya federal judge in a case called Life v. Leake.But today a super PAC nonprofit could do this in Congress with huge sums of unlimited,undisclosed money at their disposal, and we might never know it happened.'
+p3054
+aS'Twocheers for super PACs?'
+p3055
+aS"I don't think so."
+p3056
+aS"That would be a problem even if the superPACs complied with the Supreme Court's assumptions about no coordination at all withcandidates and party committees and full disclosure of all this money being spent inelections."
+p3057
+aS'That is not the system we need.'
+p3058
+asg11
 S'TREVOR POTTER'
-p2189
-sg13
-(lp2190
-S"Thank you. I'd like you to imagine a state where industrial hog operators began to"
-p2191
-aS'worry about proposed new environmental regulations that would prevent them from'
-p2192
-aS'dumping untreated waste into local rivers. Imagine they formed a group called, say,'
-p2193
-aS'"Farmers for Fairness," to persuade legislators to block such regulation.'
-p2194
-aS'Imagine they created some campaign ads which attacked legislators by name, never'
-p2195
-aS'mentioning hog farming at all, but claiming legislators were not in touch with "our'
-p2196
-aS'values." But now imagine that Farmers for Fairness did not go out and run these ads,'
-p2197
-aS'but instead scheduled meetings with legislators and screened the advertisements for'
-p2198
-aS'them in private. Imagine Farmers for Fairness told the legislators privately that they'
-p2199
-aS"would hate to run these ads, but would do so if the legislators didn't vote the way they"
-p2200
-aS"wanted. You don't have to imagine that. It happened in North Carolina, documented by"
-p2201
-aS'a federal judge in a case called Life v. Leake.'
-p2202
-aS'But today a super PAC nonprofit could do this in Congress with huge sums of unlimited,'
-p2203
-aS'undisclosed money at their disposal, and we might never know it happened. Two'
-p2204
-aS"cheers for super PACs? I don't think so. That would be a problem even if the super"
-p2205
-aS"PACs complied with the Supreme Court's assumptions about no coordination at all with"
-p2206
-aS'candidates and party committees and full disclosure of all this money being spent in'
-p2207
-aS'elections. That is not the system we need.'
-p2208
-asg19
-(dp2209
-I12
-S'20:23:14'
-p2210
-sI4
+p3059
+sg16
+(lp3060
+S'Thank you.'
+p3061
+aS"I'd like you to imagine a state where industrial hog operators began to worry about proposed new environmental regulations that would prevent them from dumping untreated waste into local rivers."
+p3062
+aS'Imagine they formed a group called, say, "Farmers for Fairness," to persuade legislators to block such regulation.'
+p3063
+aS'Imagine they created some campaign ads which attacked legislators by name, never mentioning hog farming at all, but claiming legislators were not in touch with "our values.'
+p3064
+aS'" But now imagine that Farmers for Fairness did not go out and run these ads, but instead scheduled meetings with legislators and screened the advertisements for them in private.'
+p3065
+aS"Imagine Farmers for Fairness told the legislators privately that they would hate to run these ads, but would do so if the legislators didn't vote the way they wanted."
+p3066
+aS"You don't have to imagine that."
+p3067
+aS'It happened in North Carolina, documented by a federal judge in a case called Life v. Leake.'
+p3068
+aS'But today a super PAC nonprofit could do this in Congress with huge sums of unlimited, undisclosed money at their disposal, and we might never know it happened.'
+p3069
+aS'Two cheers for super PACs?'
+p3070
+aS"I don't think so."
+p3071
+aS"That would be a problem even if the super PACs complied with the Supreme Court's assumptions about no coordination at all with candidates and party committees and full disclosure of all this money being spent in elections."
+p3072
+aS'That is not the system we need.'
+p3073
+asg23
+(dp3074
 S'20:22:19'
-p2211
-ssa(dp2212
-g23
-(dp2213
+p3075
+I4
+sS'20:23:14'
+p3076
+I12
+ssa(dp3077
+g27
+(dp3078
 I1
 S'[applause]'
-p2214
+p3079
 ssg8
+(lp3080
+S'Thank you, Trevor Potter.Our motion is, "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p3081
+aS'" [[applause]] And here to summarize his position in support of this motion, Jacob Sullum, a senioreditor at Reason magazine.'
+p3082
+asg11
 S'JOHN DONVAN'
-p2215
-sg13
-(lp2216
+p3083
+sg16
+(lp3084
 S'Thank you, Trevor Potter.'
-p2217
-aS'Our motion is, "Two Cheers for Super PACs: Money in Politics is Still Overregulated."'
-p2218
-aS'And here to summarize his position in support of this motion, Jacob Sullum, a senior'
-p2219
-aS'editor at Reason magazine.'
-p2220
-asa(dp2221
+p3085
+aS'Our motion is, "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p3086
+aS'" And here to summarize his position in support of this motion, Jacob Sullum, a senior editor at Reason magazine.'
+p3087
+asa(dp3088
 g8
+(lp3089
+S'So during the first round of arguments in Citizens United, Deputy Solicitor GeneralMalcolm Stewart was asked, "Well, if you can ban this movie, \'Hillary: the Movie,\' whatabout if you have very similar material but it was presented in a different medium, likeDVDs or on the internet or even in books?'
+p3090
+aS'"And he said, "That would be constitutionally permissible too.'
+p3091
+aS'" This was pretty shocking,because it raised the possibility that the government could ban books in the name offighting corruption.'
+p3092
+aS'It was widely seen as the turning point in the case.'
+p3093
+aS'They had asecond round of oral arguments, which was very unusual, prompted largely by thisrevelation.'
+p3094
+aS'And during that round, the solicitor general, Elena Kagan, said thegovernment had changed its answer.'
+p3095
+aS'She said there would be a strong constitutionalcase against punishing an organization for publishing a book, but that pamphlets weredifferent because they were classic electioneering.'
+p3096
+aS'Well, that raised new questions.When does a pamphlet become a book?'
+p3097
+aS'Is it a matter of the number of pages?'
+p3098
+aS'Is it thekind of cover it has, the binding, or what?'
+p3099
+aS'Now, the media exemption that I alluded tobefore, upon close examination, looks equally arbitrary.'
+p3100
+aS'Citizens United, after all, wasproducing movies.'
+p3101
+aS'So why was that, Citizens United, not a media corporation?The NRA started a radio show, daily radio show, after McCain-Feingold was passed, andthey said, "Look, we\'re a media corporation; we\'re exempt.'
+p3102
+aS'" If that\'s legitimate, thenwhy couldn\'t every advocacy group do the same sort of thing?'
+p3103
+aS'Does the internet countas a medium?'
+p3104
+aS'Presumably it does.'
+p3105
+aS"Then doesn't every group that has a website qualifyas a media corporation?"
+p3106
+aS'This media exemption puts the government in the position ofdeciding who deserves to have unfettered freedom of speech and who does not, whichis precisely the sort of distinctions the First Amendment is supposed to prohibit.'
+p3107
+aS"Andwhether you're worried about corruption or you're worried about undue influence, thearguments for regulation are just as strong, if not stronger, in the case of mediacorporations."
+p3108
+aS"So while many of my fellow journalists have supported these kinds ofregulations, basically lobbying to keep their own special speech privileges, it's alwaysseemed foolish to me for people who make a living by talking about politics to appointthe government as a sort of national debate moderator, because you never know whenthe moderator will decide that it's time for you to shut up."
+p3109
+asg11
 S'JACOB SULLUM'
-p2222
-sg10
-(dp2223
+p3110
+sg13
+(dp3111
 I2
 S'49'
-p2224
-ssg13
-(lp2225
-S'So during the first round of arguments in Citizens United, Deputy Solicitor General'
-p2226
-aS'Malcolm Stewart was asked, "Well, if you can ban this movie, \'Hillary: the Movie,\' what'
-p2227
-aS'about if you have very similar material but it was presented in a different medium, like'
-p2228
-aS'DVDs or on the internet or even in books?"'
-p2229
-aS'And he said, "That would be constitutionally permissible too." This was pretty shocking,'
-p2230
-aS'because it raised the possibility that the government could ban books in the name of'
-p2231
-aS'fighting corruption. It was widely seen as the turning point in the case. They had a'
-p2232
-aS'second round of oral arguments, which was very unusual, prompted largely by this'
-p2233
-aS'revelation. And during that round, the solicitor general, Elena Kagan, said the'
-p2234
-aS'government had changed its answer. She said there would be a strong constitutional'
-p2235
-aS'case against punishing an organization for publishing a book, but that pamphlets were'
-p2236
-aS'different because they were classic electioneering. Well, that raised new questions.'
-p2237
-aS'When does a pamphlet become a book? Is it a matter of the number of pages? Is it the'
-p2238
-aS'kind of cover it has, the binding, or what? Now, the media exemption that I alluded to'
-p2239
-aS'before, upon close examination, looks equally arbitrary. Citizens United, after all, was'
-p2240
-aS'producing movies. So why was that, Citizens United, not a media corporation?'
-p2241
-aS'The NRA started a radio show, daily radio show, after McCain-Feingold was passed, and'
-p2242
-aS'they said, "Look, we\'re a media corporation; we\'re exempt." If that\'s legitimate, then'
-p2243
-aS"why couldn't every advocacy group do the same sort of thing? Does the internet count"
-p2244
-aS"as a medium? Presumably it does. Then doesn't every group that has a website qualify"
-p2245
-aS'as a media corporation? This media exemption puts the government in the position of'
-p2246
-aS'deciding who deserves to have unfettered freedom of speech and who does not, which'
-p2247
-aS'is precisely the sort of distinctions the First Amendment is supposed to prohibit. And'
-p2248
-aS"whether you're worried about corruption or you're worried about undue influence, the"
-p2249
-aS'arguments for regulation are just as strong, if not stronger, in the case of media'
-p2250
-aS'corporations. So while many of my fellow journalists have supported these kinds of'
-p2251
-aS"regulations, basically lobbying to keep their own special speech privileges, it's always"
-p2252
-aS'seemed foolish to me for people who make a living by talking about politics to appoint'
-p2253
-aS'the government as a sort of national debate moderator, because you never know when'
-p2254
-aS"the moderator will decide that it's time for you to shut up."
-p2255
-asg19
-(dp2256
-I16
+p3112
+ssg16
+(lp3113
+S'So during the first round of arguments in Citizens United, Deputy Solicitor General Malcolm Stewart was asked, "Well, if you can ban this movie, \'Hillary: the Movie,\' what about if you have very similar material but it was presented in a different medium, like DVDs or on the internet or even in books?'
+p3114
+aS'" And he said, "That would be constitutionally permissible too.'
+p3115
+aS'" This was pretty shocking, because it raised the possibility that the government could ban books in the name of fighting corruption.'
+p3116
+aS'It was widely seen as the turning point in the case.'
+p3117
+aS'They had a second round of oral arguments, which was very unusual, prompted largely by this revelation.'
+p3118
+aS'And during that round, the solicitor general, Elena Kagan, said the government had changed its answer.'
+p3119
+aS'She said there would be a strong constitutional case against punishing an organization for publishing a book, but that pamphlets were different because they were classic electioneering.'
+p3120
+aS'Well, that raised new questions.'
+p3121
+aS'When does a pamphlet become a book?'
+p3122
+aS'Is it a matter of the number of pages?'
+p3123
+aS'Is it the kind of cover it has, the binding, or what?'
+p3124
+aS'Now, the media exemption that I alluded to before, upon close examination, looks equally arbitrary.'
+p3125
+aS'Citizens United, after all, was producing movies.'
+p3126
+aS'So why was that, Citizens United, not a media corporation?'
+p3127
+aS'The NRA started a radio show, daily radio show, after McCain-Feingold was passed, and they said, "Look, we\'re a media corporation; we\'re exempt.'
+p3128
+aS'" If that\'s legitimate, then why couldn\'t every advocacy group do the same sort of thing?'
+p3129
+aS'Does the internet count as a medium?'
+p3130
+aS'Presumably it does.'
+p3131
+aS"Then doesn't every group that has a website qualify as a media corporation?"
+p3132
+aS'This media exemption puts the government in the position of deciding who deserves to have unfettered freedom of speech and who does not, which is precisely the sort of distinctions the First Amendment is supposed to prohibit.'
+p3133
+aS"And whether you're worried about corruption or you're worried about undue influence, the arguments for regulation are just as strong, if not stronger, in the case of media corporations."
+p3134
+aS"So while many of my fellow journalists have supported these kinds of regulations, basically lobbying to keep their own special speech privileges, it's always seemed foolish to me for people who make a living by talking about politics to appoint the government as a sort of national debate moderator, because you never know when the moderator will decide that it's time for you to shut up."
+p3135
+asg23
+(dp3136
 S'20:25:18'
-p2257
-sI4
-S'20:24:27'
-p2258
-sI30
-S'20:26:18'
-p2259
-ssa(dp2260
-g23
-(dp2261
+p3137
+I16
+sS'20:24:27'
+p3138
+I4
+sS'20:26:18'
+p3139
+I30
+ssa(dp3140
+g27
+(dp3141
 I1
 S'[applause]'
-p2262
+p3142
 ssg8
+(lp3143
+S'Your time is up, Jacob Sullum.Thank you.'
+p3144
+aS'Our motion, "Two Cheers for Super PACs: Money in Politics is Still [[applause]] Overregulated.'
+p3145
+aS'" And here to summarize his position against the motion, JonathanSoros, senior fellow at the Roosevelt Institute and cofounder of Friends of Democracy.'
+p3146
+asg11
 S'JOHN DONVAN'
-p2263
-sg10
-(dp2264
+p3147
+sg13
+(dp3148
 I1
 S'50'
-p2265
-ssg13
-(lp2266
+p3149
+ssg16
+(lp3150
 S'Your time is up, Jacob Sullum.'
-p2267
-aS'Thank you. Our motion, "Two Cheers for Super PACs: Money in Politics is Still'
-p2268
-aS'Overregulated." And here to summarize his position against the motion, Jonathan'
-p2269
-aS'Soros, senior fellow at the Roosevelt Institute and cofounder of Friends of Democracy.'
-p2270
-asa(dp2271
+p3151
+aS'Thank you.'
+p3152
+aS'Our motion, "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p3153
+aS'" And here to summarize his position against the motion, Jonathan Soros, senior fellow at the Roosevelt Institute and cofounder of Friends of Democracy.'
+p3154
+asa(dp3155
 g8
+(lp3156
+S"So I'm going to return to this question of Scott's Miracle-Gro, because what's not part ofthe story yet is that last week Scott's was fined $12.5 million for violations of federalpesticide laws for, among other things, putting toxic insecticide in their bird seed thatwas killing birds."
+p3157
+aS'Now, they got caught doing that, and they actually as far as I could tell,acted admirably.'
+p3158
+aS'They admitted it.'
+p3159
+aS'They pled guilty.'
+p3160
+aS'They entered into an agreement.But they were caught, and that was dealt with because we have laws that protect cleanelections -- excuse me -- laws that protect clean air and clean water, and we have anenforcement agency that deals with that.In June, they gave $200,000 to the pro-Romney super PAC Restore our Future.'
+p3161
+aS'This isnot that it was Romney or Obama, but that they gave money to a super PAC.'
+p3162
+aS'There areno laws in place after Citizens United, no clear legal regime that would require them todisclose that information so that their consumers would know about it, so that theirshareholders would know about it, that anybody else would know about it.'
+p3163
+aS'They couldhave used a different organization other than the super PAC and done basically thesame thing.'
+p3164
+aS'And we have no effective regulatory agency that will provide us with cleanelections.'
+p3165
+aS'A lot of what our opponents have talked about essentially arguing from thepast.'
+p3166
+aS"They're arguing from pre-Citizens United, pre-SpeechNow."
+p3167
+aS'We deserve disclosureof contributions.'
+p3168
+aS'We deserve an effective disclosure regime.'
+p3169
+aS"We deserve somethingthat protects our -- the integrity of our political process.The proposition that we're arguing is whether money in politics is still overregulated,and the answer to that is clearly no."
+p3170
+asg11
 S'JONATHAN SOROS'
-p2272
-sg13
-(lp2273
-S"So I'm going to return to this question of Scott's Miracle-Gro, because what's not part of"
-p2274
-aS"the story yet is that last week Scott's was fined $12.5 million for violations of federal"
-p2275
-aS'pesticide laws for, among other things, putting toxic insecticide in their bird seed that'
-p2276
-aS'was killing birds. Now, they got caught doing that, and they actually as far as I could tell,'
-p2277
-aS'acted admirably. They admitted it. They pled guilty. They entered into an agreement.'
-p2278
-aS'But they were caught, and that was dealt with because we have laws that protect clean'
-p2279
-aS'elections -- excuse me -- laws that protect clean air and clean water, and we have an'
-p2280
-aS'enforcement agency that deals with that.'
-p2281
-aS'In June, they gave $200,000 to the pro-Romney super PAC Restore our Future. This is'
-p2282
-aS'not that it was Romney or Obama, but that they gave money to a super PAC. There are'
-p2283
-aS'no laws in place after Citizens United, no clear legal regime that would require them to'
-p2284
-aS'disclose that information so that their consumers would know about it, so that their'
-p2285
-aS'shareholders would know about it, that anybody else would know about it. They could'
-p2286
-aS'have used a different organization other than the super PAC and done basically the'
-p2287
-aS'same thing. And we have no effective regulatory agency that will provide us with clean'
-p2288
-aS'elections. A lot of what our opponents have talked about essentially arguing from the'
-p2289
-aS"past. They're arguing from pre-Citizens United, pre-SpeechNow. We deserve disclosure"
-p2290
-aS'of contributions. We deserve an effective disclosure regime. We deserve something'
-p2291
-aS'that protects our -- the integrity of our political process.'
-p2292
-aS"The proposition that we're arguing is whether money in politics is still overregulated,"
-p2293
-aS'and the answer to that is clearly no.'
-p2294
-asg19
-(dp2295
-I8
-S'20:27:20'
-p2296
-sI19
+p3171
+sg16
+(lp3172
+S"So I'm going to return to this question of Scott's Miracle-Gro, because what's not part of the story yet is that last week Scott's was fined $12.5 million for violations of federal pesticide laws for, among other things, putting toxic insecticide in their bird seed that was killing birds."
+p3173
+aS'Now, they got caught doing that, and they actually as far as I could tell, acted admirably.'
+p3174
+aS'They admitted it.'
+p3175
+aS'They pled guilty.'
+p3176
+aS'They entered into an agreement.'
+p3177
+aS'But they were caught, and that was dealt with because we have laws that protect clean elections -- excuse me -- laws that protect clean air and clean water, and we have an enforcement agency that deals with that.'
+p3178
+aS'In June, they gave $200,000 to the pro-Romney super PAC Restore our Future.'
+p3179
+aS'This is not that it was Romney or Obama, but that they gave money to a super PAC.'
+p3180
+aS'There are no laws in place after Citizens United, no clear legal regime that would require them to disclose that information so that their consumers would know about it, so that their shareholders would know about it, that anybody else would know about it.'
+p3181
+aS'They could have used a different organization other than the super PAC and done basically the same thing.'
+p3182
+aS'And we have no effective regulatory agency that will provide us with clean elections.'
+p3183
+aS'A lot of what our opponents have talked about essentially arguing from the past.'
+p3184
+aS"They're arguing from pre-Citizens United, pre-SpeechNow."
+p3185
+aS'We deserve disclosure of contributions.'
+p3186
+aS'We deserve an effective disclosure regime.'
+p3187
+aS'We deserve something that protects our -- the integrity of our political process.'
+p3188
+aS"The proposition that we're arguing is whether money in politics is still overregulated, and the answer to that is clearly no."
+p3189
+asg23
+(dp3190
 S'20:28:18'
-p2297
-ssa(dp2298
-g23
-(dp2299
+p3191
+I19
+sS'20:27:20'
+p3192
+I8
+ssa(dp3193
+g27
+(dp3194
 I1
 S'[applause]'
-p2300
+p3195
 ssg8
+(lp3196
+S'Thank you, Jonathan Soros.The motion: "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p3197
+aS'" And [[applause]] here to summarize his position in support of the motion, David Keating, president of theCenter for Competitive Politics.'
+p3198
+asg11
 S'JOHN DONVAN'
-p2301
-sg13
-(lp2302
+p3199
+sg16
+(lp3200
 S'Thank you, Jonathan Soros.'
-p2303
-aS'The motion: "Two Cheers for Super PACs: Money in Politics is Still Overregulated." And'
-p2304
-aS'here to summarize his position in support of the motion, David Keating, president of the'
-p2305
-aS'Center for Competitive Politics.'
-p2306
-asa(dp2307
+p3201
+aS'The motion: "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p3202
+aS'" And here to summarize his position in support of the motion, David Keating, president of the Center for Competitive Politics.'
+p3203
+asa(dp3204
 g8
+(lp3205
+S"Well, since we passed the major campaign finance restrictions in the early 1970s, we'veseen competition decline dramatically."
+p3206
+aS'We used to see elections that were far morecompetitive than they are today.'
+p3207
+aS'The re-election rate has gone up not down.'
+p3208
+aS'Butfundamentally I think what we have to keep in mind here is when -- who is going towrite these restrictions?'
+p3209
+aS'Who is going to write the campaign finance laws andregulations?'
+p3210
+aS"Well, the answer is it's going to be the incumbent members of Congress.There is no other way to write them."
+p3211
+aS"And if there is ever a conflict of interest abouthow this is going to be written, that's a conflict.They get to write the regulations so they probably will write them so that they will beable to have a better chance at keeping their jobs."
+p3212
+aS"They're not so much concernedabout our freedom of speech or our ability to criticize the job they're doing."
+p3213
+aS'In fact, theywould like to see less criticism of it.'
+p3214
+aS'So basically, this is a debate about who decideswhat you can say?'
+p3215
+aS'Should it be us the people getting together and deciding, or should itbe the politicians?'
+p3216
+aS'And should it be the prosecutors who are looking to make a namefor themselves?'
+p3217
+aS'You have to keep in mind many of these laws that are written not onlyhave civil penalties but criminal penalties.'
+p3218
+aS"And if you think that's far-fetched, the veryfirst political prosecution taken under these laws was a group that took out a full-pagead urging Nixon's impeachment for the invasion of Cambodia.That was the first prosecution under the campaign finance laws."
+p3219
+aS'I would say free speechis messy.'
+p3220
+aS'But the cure of additional regulations written by politicians who want to stayin office is worse than any disease of free speech.'
+p3221
+aS'So I hope you will support the motion"two cheers, or three cheers, for super PACs.'
+p3222
+aS'" Three cheers for independent action bythe people.'
+p3223
+asg11
 S'DAVID KEATING'
-p2308
-sg10
-(dp2309
+p3224
+sg13
+(dp3225
 I0
 S'51'
-p2310
-ssg13
-(lp2311
-S"Well, since we passed the major campaign finance restrictions in the early 1970s, we've"
-p2312
-aS'seen competition decline dramatically. We used to see elections that were far more'
-p2313
-aS'competitive than they are today. The re-election rate has gone up not down. But'
-p2314
-aS'fundamentally I think what we have to keep in mind here is when -- who is going to'
-p2315
-aS'write these restrictions? Who is going to write the campaign finance laws and'
-p2316
-aS"regulations? Well, the answer is it's going to be the incumbent members of Congress."
-p2317
-aS'There is no other way to write them. And if there is ever a conflict of interest about'
-p2318
-aS"how this is going to be written, that's a conflict."
-p2319
-aS'They get to write the regulations so they probably will write them so that they will be'
-p2320
-aS"able to have a better chance at keeping their jobs. They're not so much concerned"
-p2321
-aS"about our freedom of speech or our ability to criticize the job they're doing. In fact, they"
-p2322
-aS'would like to see less criticism of it. So basically, this is a debate about who decides'
-p2323
-aS'what you can say? Should it be us the people getting together and deciding, or should it'
-p2324
-aS'be the politicians? And should it be the prosecutors who are looking to make a name'
-p2325
-aS'for themselves? You have to keep in mind many of these laws that are written not only'
-p2326
-aS"have civil penalties but criminal penalties. And if you think that's far-fetched, the very"
-p2327
-aS'first political prosecution taken under these laws was a group that took out a full-page'
-p2328
-aS"ad urging Nixon's impeachment for the invasion of Cambodia."
-p2329
-aS'That was the first prosecution under the campaign finance laws. I would say free speech'
-p2330
-aS'is messy. But the cure of additional regulations written by politicians who want to stay'
-p2331
-aS'in office is worse than any disease of free speech. So I hope you will support the motion'
-p2332
-aS'"two cheers, or three cheers, for super PACs." Three cheers for independent action by'
-p2333
-aS'the people.'
-p2334
-asg19
-(dp2335
-I8
+p3226
+ssg16
+(lp3227
+S"Well, since we passed the major campaign finance restrictions in the early 1970s, we've seen competition decline dramatically."
+p3228
+aS'We used to see elections that were far more competitive than they are today.'
+p3229
+aS'The re-election rate has gone up not down.'
+p3230
+aS'But fundamentally I think what we have to keep in mind here is when -- who is going to write these restrictions?'
+p3231
+aS'Who is going to write the campaign finance laws and regulations?'
+p3232
+aS"Well, the answer is it's going to be the incumbent members of Congress."
+p3233
+aS'There is no other way to write them.'
+p3234
+aS"And if there is ever a conflict of interest about how this is going to be written, that's a conflict."
+p3235
+aS'They get to write the regulations so they probably will write them so that they will be able to have a better chance at keeping their jobs.'
+p3236
+aS"They're not so much concerned about our freedom of speech or our ability to criticize the job they're doing."
+p3237
+aS'In fact, they would like to see less criticism of it.'
+p3238
+aS'So basically, this is a debate about who decides what you can say?'
+p3239
+aS'Should it be us the people getting together and deciding, or should it be the politicians?'
+p3240
+aS'And should it be the prosecutors who are looking to make a name for themselves?'
+p3241
+aS'You have to keep in mind many of these laws that are written not only have civil penalties but criminal penalties.'
+p3242
+aS"And if you think that's far-fetched, the very first political prosecution taken under these laws was a group that took out a full-page ad urging Nixon's impeachment for the invasion of Cambodia."
+p3243
+aS'That was the first prosecution under the campaign finance laws.'
+p3244
+aS'I would say free speech is messy.'
+p3245
+aS'But the cure of additional regulations written by politicians who want to stay in office is worse than any disease of free speech.'
+p3246
+aS'So I hope you will support the motion "two cheers, or three cheers, for super PACs.'
+p3247
+aS'" Three cheers for independent action by the people.'
+p3248
+asg23
+(dp3249
 S'20:29:23'
-p2336
-sI18
-S'20:30:19'
-p2337
+p3250
+I8
+sS'20:30:19'
+p3251
+I18
 ssasS'after'
-p2338
-(lp2339
+p3252
+(lp3253
 S'22%-FOR'
-p2340
+p3254
 aS'69%-AGAINST'
-p2341
+p3255
 aS'9%-UNDECIDED'
-p2342
+p3256
 asS'against'
-p2343
-(lp2344
+p3257
+(lp3258
 S'JONATHAN SOROS'
-p2345
+p3259
 aS'TREVOR POTTER'
-p2346
+p3260
 asS'moderator'
-p2347
-(lp2348
+p3261
+(lp3262
 S'JOHN DONVAN'
-p2349
+p3263
 asS'date'
-p2350
-(dp2351
+p3264
+(dp3265
 S'year'
-p2352
+p3266
 S'2012'
-p2353
+p3267
 sS'day'
-p2354
+p3268
 S'12'
-p2355
+p3269
 sS'month'
-p2356
+p3270
 S'September'
-p2357
+p3271
 ssS'before'
-p2358
-(lp2359
+p3272
+(lp3273
 S'19%-FOR'
-p2360
+p3274
 aS'63%-AGAINST'
-p2361
+p3275
 aS'18%-UNDECIDED'
-p2362
+p3276
 as.

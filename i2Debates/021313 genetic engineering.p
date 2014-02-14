@@ -10,5069 +10,6955 @@ asS'text'
 p5
 (lp6
 (dp7
-S'SPEAKER'
+S'FULL-TEXT'
 p8
-S'PREAMBLE'
-p9
-sS'PAGE'
+(lp9
+S'Prohibit genetically engineered babies'
 p10
-(dp11
+asS'SPEAKER'
+p11
+S'PREAMBLE'
+p12
+sS'PAGE'
+p13
+(dp14
 I0
 S'1'
-p12
-ssS'STATEMENT'
-p13
-(lp14
-S'Prohibit genetically engineered babies'
 p15
-asS'TIME'
+ssS'STATEMENT'
 p16
-(dp17
-I1
-S'18:49:35'
+(lp17
+g10
+asS'TIME'
 p18
-ssa(dp19
-S'BREAK'
+(dp19
+S'18:49:35'
 p20
-(dp21
-I33
-S'[applause]'
+I1
+ssa(dp21
+S'BREAK'
 p22
-sI35
-S'[applause]'
-p23
-sI38
+(dp23
+I33
 S'[applause]'
 p24
-sI8
+sI35
 S'[applause]'
 p25
-sI16
-S'[laughter]'
+sI38
+S'[applause]'
 p26
-sI20
+sI8
 S'[applause]'
 p27
-ssg8
-S'JOHN DONVAN'
+sI16
+S'[laughter]'
 p28
-sg10
-(dp29
+sI20
+S'[applause]'
+p29
+ssg11
+S'JOHN DONVAN'
+p30
+sg16
+(lp31
+S"What Robert Rosenkranz really said in this debate, very often we do debates where things divide very clearly, policy issues where it's yes or no, where it's black or white."
+p32
+aS"It was his feeling that this is one debate where the richness of the debate actually comes from the fact that there are an awful lot of shades of gray and shades of meaning in the issue, that black and white and yes or no, even though we're asking you to vote at that level, it's very complicated."
+p33
+aS'And so he was looking forward to this being, in a sense, one of the more complex debates that we were going to have and have ever staged.'
+p34
+aS"So with that thought, let's please welcome our debaters to the stage."
+p35
+aS'Thank you.'
+p36
+aS'Thank you.'
+p37
+aS"And because we're being broadcast for radio and television, there are various points throughout the evening where we like the radio audience in particular to know that you, our live audience, are here."
+p38
+aS'So you can absolutely give voice.'
+p39
+aS"This is not like a presidential debate where you're not allowed to applaud."
+p40
+aS'You can give voice to your passions in this.'
+p41
+aS'You can laugh, cheer, react however you want to.'
+p42
+aS'We just want it to not be mean spirited.'
+p43
+aS'We discourage you from hissing, for example.'
+p44
+aS'But -- but a chuckle like that is fine.'
+p45
+aS"And here and there, again, I'm just going to ask you to applaud entirely spontaneously, but it has to be when I ask you."
+p46
+aS'To work for the radio broadcast.'
+p47
+aS"And when I introduce, in a moment, each of our debaters, the first time I mention their name, I'll do a little of this, and that means, please welcome these -- these debaters with a round of applause."
+p48
+aS"But let's just begin the whole thing, please."
+p49
+aS'Welcome them to the stage one more time.'
+p50
+aS'So most of us would do almost anything for our kids to help them be their best, to help them get ahead.'
+p51
+aS'But what if even before they were born we could go in and alter their genes in such a way to give them an even greater advantage, to give them strength against illness and disease, to make them smarter or taller or prettier even if their parents themselves never had any of those traits.'
+p52
+aS'Well, that world is coming.'
+p53
+aS"Who's tempted?"
+p54
+aS'And who is horrified?'
+p55
+aS"Let's find out."
+p56
+aS'Yes or no to this statement: Prohibit genetically engineered babies.'
+p57
+aS'A debate from qualified debaters you see on the stage argue for and against this motion, two against two: prohibit genetically engineered babies.'
+p58
+aS'As always, our debate goes in three rounds.'
+p59
+aS'And then the audience votes to choose a winner, and only one side wins.'
+p60
+aS"Let's meet our debaters."
+p61
+aS'Arguing for the motion, prohibit genetically engineered babies, Sheldon Krimsky, a professor at Tufts University and chair of the Council for Responsible Genomics .'
+p62
+aS'His partner is Robert Winston, a professor of science and society and emeritus professor of fertility studies at Imperial College, London.'
+p63
+aS'The team arguing against the motion, they are arguing against the prohibition of genetically engineered babies, include Nita Farahany.'
+p64
+aS"She is a professor at Duke Law and research professor at Duke's Institute for Genome Sciences and Policy."
+p65
+aS'Oh, okay.'
+p66
+aS"I just got a note in my ear, Sheldon, that I misnamed your institute, your council, so I'm going to --"
+p67
+asg18
+(dp68
+S'18:51:09'
+p69
+I16
+sS'18:52:06'
+p70
+I26
+sS'18:53:00'
+p71
+I35
+ssg8
+(lp72
+S"What Robert Rosenkranz really said in this debate, very often we do debates wherethings divide very clearly, policy issues where it's yes or no, where it's black or white."
+p73
+aS"Itwas his feeling that this is one debate where the richness of the debate actually comesfrom the fact that there are an awful lot of shades of gray and shades of meaning in theissue, that black and white and yes or no, even though we're asking you to vote at thatlevel, it's very complicated."
+p74
+aS'And so he was looking forward to this being, in a sense, oneof the more complex debates that we were going to have and have ever staged.'
+p75
+aS"So withthat thought, let's please welcome our debaters to the stage.Thank you."
+p76
+aS'Thank you.'
+p77
+aS"And because we're being broadcast for radio and television, [[applause]] there are various points throughout the evening where we like the radio audience inparticular to know that you, our live audience, are here."
+p78
+aS'So you can absolutely givevoice.'
+p79
+aS"This is not like a presidential debate where you're not allowed to applaud."
+p80
+aS'Youcan give voice to your passions in this.'
+p81
+aS'You can laugh, cheer, react however you wantto.'
+p82
+aS'We just want it to not be mean spirited.'
+p83
+aS'We discourage you from hissing, forexample.'
+p84
+aS'But -- but a chuckle like that is fine.'
+p85
+aS"And here and there, again, I'm just goingto ask you to applaud entirely spontaneously, but it has to be when I ask you.To work for the radio broadcast."
+p86
+aS"And when I introduce, in a moment, each of our [[laughter]] debaters, the first time I mention their name, I'll do a little of this, and that means,please welcome these -- these debaters with a round of applause."
+p87
+aS"But let's just beginthe whole thing, please."
+p88
+aS'Welcome them to the stage one more time.So most of us would do almost anything for our kids to help them be their best, to help [[applause]] them get ahead.'
+p89
+aS'But what if even before they were born we could go in and alter theirgenes in such a way to give them an even greater advantage, to give them strengthagainst illness and disease, to make them smarter or taller or prettier even if theirparents themselves never had any of those traits.'
+p90
+aS'Well, that world is coming.'
+p91
+aS"Who'stempted?"
+p92
+aS'And who is horrified?'
+p93
+aS"Let's find out.Yes or no to this statement: Prohibit genetically engineered babies."
+p94
+aS'A debate fromqualified debaters you see on the stage argue for and against this motion, two againsttwo: prohibit genetically engineered babies.'
+p95
+aS'As always, our debate goes in threerounds.'
+p96
+aS'And then the audience votes to choose a winner, and only one side wins.'
+p97
+aS"Let'smeet our debaters."
+p98
+aS'Arguing for the motion, prohibit genetically engineered babies,Sheldon Krimsky, a professor at Tufts University and chair of the Council for ResponsibleGenomics .His partner is Robert Winston, a professor of science and society and emeritus professor [[applause]] of fertility studies at Imperial College, London.The team arguing against the motion, they are arguing against the prohibition of [[applause]] genetically engineered babies, include Nita Farahany.'
+p99
+aS"She is a professor at Duke Lawand research professor at Duke's Institute for Genome Sciences and Policy.Oh, okay."
+p100
+aS"I just got a note in my ear, Sheldon, that I misnamed your institute, your [[applause]] council, so I'm going to --"
+p101
+asg13
+(dp102
 I38
 S'3'
-p30
+p103
 sI15
 S'2'
-p31
-ssg13
-(lp32
-S'What Robert Rosenkranz really said in this debate, very often we do debates where'
-p33
-aS"things divide very clearly, policy issues where it's yes or no, where it's black or white. It"
-p34
-aS'was his feeling that this is one debate where the richness of the debate actually comes'
-p35
-aS'from the fact that there are an awful lot of shades of gray and shades of meaning in the'
-p36
-aS"issue, that black and white and yes or no, even though we're asking you to vote at that"
-p37
-aS"level, it's very complicated. And so he was looking forward to this being, in a sense, one"
-p38
-aS'of the more complex debates that we were going to have and have ever staged. So with'
-p39
-aS"that thought, let's please welcome our debaters to the stage."
-p40
-aS"Thank you. Thank you. And because we're being broadcast for radio and television,"
-p41
-aS'there are various points throughout the evening where we like the radio audience in'
-p42
-aS'particular to know that you, our live audience, are here. So you can absolutely give'
-p43
-aS"voice. This is not like a presidential debate where you're not allowed to applaud. You"
-p44
-aS'can give voice to your passions in this. You can laugh, cheer, react however you want'
-p45
-aS'to. We just want it to not be mean spirited. We discourage you from hissing, for'
-p46
-aS"example. But -- but a chuckle like that is fine. And here and there, again, I'm just going"
-p47
-aS'to ask you to applaud entirely spontaneously, but it has to be when I ask you.'
-p48
-aS'To work for the radio broadcast. And when I introduce, in a moment, each of our'
-p49
-aS"debaters, the first time I mention their name, I'll do a little of this, and that means,"
-p50
-aS"please welcome these -- these debaters with a round of applause. But let's just begin"
-p51
-aS'the whole thing, please. Welcome them to the stage one more time.'
-p52
-aS'So most of us would do almost anything for our kids to help them be their best, to help'
-p53
-aS'them get ahead. But what if even before they were born we could go in and alter their'
-p54
-aS'genes in such a way to give them an even greater advantage, to give them strength'
-p55
-aS'against illness and disease, to make them smarter or taller or prettier even if their'
-p56
-aS"parents themselves never had any of those traits. Well, that world is coming. Who's"
-p57
-aS"tempted? And who is horrified? Let's find out."
-p58
-aS'Yes or no to this statement: Prohibit genetically engineered babies. A debate from'
-p59
-aS'qualified debaters you see on the stage argue for and against this motion, two against'
-p60
-aS'two: prohibit genetically engineered babies. As always, our debate goes in three'
-p61
-aS"rounds. And then the audience votes to choose a winner, and only one side wins. Let's"
-p62
-aS'meet our debaters. Arguing for the motion, prohibit genetically engineered babies,'
-p63
-aS'Sheldon Krimsky, a professor at Tufts University and chair of the Council for Responsible'
-p64
-aS'Genomics .'
-p65
-aS'His partner is Robert Winston, a professor of science and society and emeritus professor'
-p66
-aS'of fertility studies at Imperial College, London.'
-p67
-aS'The team arguing against the motion, they are arguing against the prohibition of'
-p68
-aS'genetically engineered babies, include Nita Farahany. She is a professor at Duke Law'
-p69
-aS"and research professor at Duke's Institute for Genome Sciences and Policy."
-p70
-aS'Oh, okay. I just got a note in my ear, Sheldon, that I misnamed your institute, your'
-p71
-aS"council, so I'm going to --"
-p72
-asg16
-(dp73
-I16
-S'18:51:09'
-p74
-sI26
-S'18:52:06'
-p75
-sI35
-S'18:53:00'
-p76
-ssa(dp77
-g20
-(dp78
+p104
+ssa(dp105
+g22
+(dp106
 I0
 S'[inaudible]'
-p79
+p107
 ssg8
+(lp108
+S''
+p109
+asg11
 S'SHELDON KRIMSKY'
-p80
-sg13
-(lp81
-sa(dp82
-g20
-(dp83
+p110
+sg16
+(lp111
+g109
+asa(dp112
+g22
+(dp113
 I1
 S'[laughter]'
-p84
+p114
 sI11
 S'[applause]'
-p85
+p115
 sI5
 S'[applause]'
-p86
+p116
 sI9
 S'[applause]'
-p87
+p117
 ssg8
+(lp118
+S"Yeah, yeah, so I'm going to just say it out loud, and then we'll fix it in post.Actually it'll work, and then I'm going to come back to you later."
+p119
+aS"I know you're all set to [[laughter]] take your bow."
+p120
+aS"Just hold that thought, and I'm going to introduce Sheldon again."
+p121
+aS"And ifyou could applaud again, we'll fix it in the edit."
+p122
+aS"So, Sheldon Krimsky, a professor at TuftsUniversity and chair of the Council for Responsible Genetics.And to anybody -- you know, we're fine with breaking the fourth wall."
+p123
+aS'If I misspeak [[applause]] ever, just correct me right then and there.'
+p124
+aS"It's not a problem."
+p125
+aS'And Nita Farahany\'spartner, her partner is Lee Silver, professor of molecular biology at Princeton Universityand author of the book "Challenging Nature.'
+p126
+aS'"Our motion is, "Prohibit genetically engineered babies.'
+p127
+aS'" Let\'s meet the team arguing for [[applause]] the motion.'
+p128
+aS"First, let's welcome Sheldon Krimsky.And, Sheldon, you are a professor at Tufts University and chair of the Council for [[applause]] Responsible Genetics."
+p129
+aS'Your research has focused on the intersection of science, ethics,and public policy.'
+p130
+aS'Your very first book in this area was published in 1982.'
+p131
+aS'It was a socialhistory of what was then considered a very, very controversial new technology, "genesplicing," 30 years ago, which could lead to the mistake that you are a geneticist, butactually you are a philosopher.'
+p132
+asg11
 S'JOHN DONVAN'
-p88
-sg13
-(lp89
+p133
+sg16
+(lp134
 S"Yeah, yeah, so I'm going to just say it out loud, and then we'll fix it in post."
-p90
-aS"Actually it'll work, and then I'm going to come back to you later. I know you're all set to"
-p91
-aS"take your bow. Just hold that thought, and I'm going to introduce Sheldon again. And if"
-p92
-aS"you could applaud again, we'll fix it in the edit. So, Sheldon Krimsky, a professor at Tufts"
-p93
-aS'University and chair of the Council for Responsible Genetics.'
-p94
-aS"And to anybody -- you know, we're fine with breaking the fourth wall. If I misspeak"
-p95
-aS"ever, just correct me right then and there. It's not a problem. And Nita Farahany's"
-p96
-aS'partner, her partner is Lee Silver, professor of molecular biology at Princeton University'
-p97
-aS'and author of the book "Challenging Nature."'
-p98
-aS'Our motion is, "Prohibit genetically engineered babies." Let\'s meet the team arguing for'
-p99
-aS"the motion. First, let's welcome Sheldon Krimsky."
-p100
-aS'And, Sheldon, you are a professor at Tufts University and chair of the Council for'
-p101
-aS'Responsible Genetics. Your research has focused on the intersection of science, ethics,'
-p102
-aS'and public policy. Your very first book in this area was published in 1982. It was a social'
-p103
-aS'history of what was then considered a very, very controversial new technology, "gene'
-p104
-aS'splicing," 30 years ago, which could lead to the mistake that you are a geneticist, but'
-p105
-aS'actually you are a philosopher.'
-p106
-asg16
-(dp107
-I17
-S'18:55:10'
-p108
-sI5
+p135
+aS"Actually it'll work, and then I'm going to come back to you later."
+p136
+aS"I know you're all set to take your bow."
+p137
+aS"Just hold that thought, and I'm going to introduce Sheldon again."
+p138
+aS"And if you could applaud again, we'll fix it in the edit."
+p139
+aS'So, Sheldon Krimsky, a professor at Tufts University and chair of the Council for Responsible Genetics.'
+p140
+aS"And to anybody -- you know, we're fine with breaking the fourth wall."
+p141
+aS'If I misspeak ever, just correct me right then and there.'
+p142
+aS"It's not a problem."
+p143
+aS'And Nita Farahany\'s partner, her partner is Lee Silver, professor of molecular biology at Princeton University and author of the book "Challenging Nature.'
+p144
+aS'" Our motion is, "Prohibit genetically engineered babies.'
+p145
+aS'" Let\'s meet the team arguing for the motion.'
+p146
+aS"First, let's welcome Sheldon Krimsky."
+p147
+aS'And, Sheldon, you are a professor at Tufts University and chair of the Council for Responsible Genetics.'
+p148
+aS'Your research has focused on the intersection of science, ethics, and public policy.'
+p149
+aS'Your very first book in this area was published in 1982.'
+p150
+aS'It was a social history of what was then considered a very, very controversial new technology, "gene splicing," 30 years ago, which could lead to the mistake that you are a geneticist, but actually you are a philosopher.'
+p151
+asg18
+(dp152
 S'18:54:02'
-p109
-ssa(dp110
+p153
+I5
+sS'18:55:10'
+p154
+I17
+ssa(dp155
 g8
+(lp156
+S'A philosopher of science, and I deal with the issues of ethics and also contested issues inscience, and, of course, genetics provides great material.'
+p157
+asg11
 S'SHELDON KRIMSKY'
-p111
-sg10
-(dp112
+p158
+sg13
+(dp159
 I2
 S'4'
-p113
-ssg13
-(lp114
-S'A philosopher of science, and I deal with the issues of ethics and also contested issues in'
-p115
-aS'science, and, of course, genetics provides great material.'
-p116
-asa(dp117
+p160
+ssg16
+(lp161
+S'A philosopher of science, and I deal with the issues of ethics and also contested issues in science, and, of course, genetics provides great material.'
+p162
+asa(dp163
 g8
+(lp164
+S'And natural science came out of philosophy, so there remains a connection betweenthese two?'
+p165
+asg11
 S'JOHN DONVAN'
-p118
-sg13
-(lp119
-S'And natural science came out of philosophy, so there remains a connection between'
-p120
-aS'these two?'
-p121
-asa(dp122
+p166
+sg16
+(lp167
+S'And natural science came out of philosophy, so there remains a connection between these two?'
+p168
+asa(dp169
 g8
-S'SHELDON KRIMSKY'
-p123
-sg13
-(lp124
+(lp170
 S'Absolutely.'
-p125
-asa(dp126
-g8
-S'JOHN DONVAN'
-p127
-sg13
-(lp128
-S'Okay, and your partner is?'
-p129
-asa(dp130
-g8
+p171
+asg11
 S'SHELDON KRIMSKY'
-p131
-sg13
-(lp132
+p172
+sg16
+(lp173
+g171
+asa(dp174
+g8
+(lp175
+S'Okay, and your partner is?'
+p176
+asg11
+S'JOHN DONVAN'
+p177
+sg16
+(lp178
+g176
+asa(dp179
+g8
+(lp180
 S'My partner is Professor Robert Winston.'
-p133
-asa(dp134
-g20
-(dp135
+p181
+asg11
+S'SHELDON KRIMSKY'
+p182
+sg16
+(lp183
+g181
+asa(dp184
+g22
+(dp185
 I1
 S'[applause]'
-p136
+p186
 ssg8
+(lp187
+S'Ladies and gentlemen, Robert Winston.Robert, you are a professor of science and society at Imperial College, London -- who [[applause]] not only did groundbreaking work in fertility studies but also in the field of prenatalimplantation, genetic diagnosis.'
+p188
+aS'However, renaissance man, you have also very oftenbeen a TV host.'
+p189
+aS'You are an award winning theater director, and very recently you werethe star of a reality television show in which you learned to play the saxophone -- setout to play the saxophone.'
+p190
+aS'So if we brought a sax out right now, you could blow a fewnotes for us?'
+p191
+asg11
 S'JOHN DONVAN'
-p137
-sg13
-(lp138
+p192
+sg16
+(lp193
 S'Ladies and gentlemen, Robert Winston.'
-p139
-aS'Robert, you are a professor of science and society at Imperial College, London -- who'
-p140
-aS'not only did groundbreaking work in fertility studies but also in the field of prenatal'
-p141
-aS'implantation, genetic diagnosis. However, renaissance man, you have also very often'
-p142
-aS'been a TV host. You are an award winning theater director, and very recently you were'
-p143
-aS'the star of a reality television show in which you learned to play the saxophone -- set'
-p144
-aS'out to play the saxophone. So if we brought a sax out right now, you could blow a few'
-p145
-aS'notes for us?'
-p146
-asg16
-(dp147
-I8
+p194
+aS'Robert, you are a professor of science and society at Imperial College, London -- who not only did groundbreaking work in fertility studies but also in the field of prenatal implantation, genetic diagnosis.'
+p195
+aS'However, renaissance man, you have also very often been a TV host.'
+p196
+aS'You are an award winning theater director, and very recently you were the star of a reality television show in which you learned to play the saxophone -- set out to play the saxophone.'
+p197
+aS'So if we brought a sax out right now, you could blow a few notes for us?'
+p198
+asg18
+(dp199
 S'18:56:05'
-p148
-ssa(dp149
-g20
-(dp150
+p200
+I8
+ssa(dp201
+g22
+(dp202
 I1
 S'[laughter]'
-p151
+p203
 ssg8
-S'LORD ROBERT WINSTON'
-p152
-sg13
-(lp153
+(lp204
 S'I would prefer the clarinet, I think.'
-p154
-asa(dp155
-g20
-(dp156
+p205
+asg11
+S'LORD ROBERT WINSTON'
+p206
+sg16
+(lp207
+g205
+asa(dp208
+g22
+(dp209
 I2
 S'[applause]'
-p157
+p210
 sI4
 S'[applause]'
-p158
+p211
 ssg8
+(lp212
+S'Clarinet.'
+p213
+aS"Well, then we're just going to have to cancel that whole plan."
+p214
+aS'Ladies andgentlemen, the team arguing for the motion.And, again, our motion is "Prohibit genetically engineered babies.'
+p215
+aS'" The two debaters [[applause]] arguing against it, let\'s welcome, ladies and gentlemen, Nita Farahany.Nita, you are a professor at Duke Law and you are a research professor at Duke\'s [[applause]] Institute for Genome Sciences and policy, so you are trained both in science and as alawyer, but in 2010 President Obama pointed you to the Commission on the Study ofBioethical Issues, and you\'re still a member.'
+p216
+aS"So now that you've done science andyou've done law, how are you liking politics?"
+p217
+asg11
 S'JOHN DONVAN'
-p159
-sg10
-(dp160
+p218
+sg13
+(dp219
 I4
 S'5'
-p161
-ssg13
-(lp162
-S"Clarinet. Well, then we're just going to have to cancel that whole plan. Ladies and"
-p163
-aS'gentlemen, the team arguing for the motion.'
-p164
-aS'And, again, our motion is "Prohibit genetically engineered babies." The two debaters'
-p165
-aS"arguing against it, let's welcome, ladies and gentlemen, Nita Farahany."
-p166
-aS"Nita, you are a professor at Duke Law and you are a research professor at Duke's"
-p167
-aS'Institute for Genome Sciences and policy, so you are trained both in science and as a'
-p168
-aS'lawyer, but in 2010 President Obama pointed you to the Commission on the Study of'
-p169
-aS"Bioethical Issues, and you're still a member. So now that you've done science and"
-p170
-aS"you've done law, how are you liking politics?"
-p171
-asa(dp172
-g20
-(dp173
+p220
+ssg16
+(lp221
+S'Clarinet.'
+p222
+aS"Well, then we're just going to have to cancel that whole plan."
+p223
+aS'Ladies and gentlemen, the team arguing for the motion.'
+p224
+aS'And, again, our motion is "Prohibit genetically engineered babies.'
+p225
+aS'" The two debaters arguing against it, let\'s welcome, ladies and gentlemen, Nita Farahany.'
+p226
+aS"Nita, you are a professor at Duke Law and you are a research professor at Duke's Institute for Genome Sciences and policy, so you are trained both in science and as a lawyer, but in 2010 President Obama pointed you to the Commission on the Study of Bioethical Issues, and you're still a member."
+p227
+aS"So now that you've done science and you've done law, how are you liking politics?"
+p228
+asa(dp229
+g22
+(dp230
 I1
 S'[laughter]'
-p174
-ssg8
-S'NITA FARAHANY'
-p175
-sg13
-(lp176
-S"I think I'll be politic and not answer that."
-p177
-asa(dp178
-g8
-S'JOHN DONVAN'
-p179
-sg13
-(lp180
-S'So you have debated before.'
-p181
-asa(dp182
-g8
-S'NITA FARAHANY'
-p183
-sg13
-(lp184
-S'Yeah, indeed.'
-p185
-asa(dp186
-g20
-(dp187
-I1
-S'[applause]'
-p188
-ssg8
-S'JOHN DONVAN'
-p189
-sg13
-(lp190
-S'Ladies and gentlemen, Nita Farahany.'
-p191
-aS'And, Nita, your partner is?'
-p192
-asg16
-(dp193
-I1
-S'18:57:03'
-p194
-ssa(dp195
-g8
-S'NITA FARAHANY'
-p196
-sg13
-(lp197
-S'My partner is Lee Silver.'
-p198
-asa(dp199
-g8
-S'JOHN DONVAN'
-p200
-sg13
-(lp201
-S'Lee Silver, ladies and gentlemen. Lee, you are also arguing against this motion to'
-p202
-aS'prohibit genetically engineered babies. You are a professor of molecular biology at'
-p203
-aS'Princeton. One of your landmark books was called "Mouse Genetics." It\'s a book about'
-p204
-aS'mouse genetics. And those are relevant because mice and humans share an astounding'
-p205
-aS"number of genes. It's a very high percentage, is it not?"
-p206
-asa(dp207
-g8
-S'LEE SILVER'
-p208
-sg13
-(lp209
-S'I look at mice as little people.'
-p210
-asa(dp211
-g8
-S'JOHN DONVAN'
-p212
-sg13
-(lp213
-S"Yeah? So you're not -- the thought doesn't turn you off and depress you that --"
-p214
-asa(dp215
-g8
-S'LEE SILVER'
-p216
-sg10
-(dp217
-I1
-S'6'
-p218
-ssg13
-(lp219
-S'Oh, no, no, no. Mice have done a lot for human health.'
-p220
-asa(dp221
-g20
-(dp222
-I16
-S'[applause]'
-p223
-sI1
-S'[applause]'
-p224
-sI19
-S'[applause]'
-p225
-ssg8
-S'JOHN DONVAN'
-p226
-sg13
-(lp227
-S'All right, ladies and gentlemen, Lee Silver.'
-p228
-aS"And those are our four debaters. So let's get to the first round of voting. Remember,"
-p229
-aS"you will be asked to vote twice by the time the debate has ended, once before you've"
-p230
-aS"heard the arguments and once again after you've heard the arguments. And the team"
 p231
-aS'whose numbers have moved the most will be declared our winner. The motion is'
-p232
-aS'"prohibit genetically engineered babies." If you agree with the motion, push number 1,'
+ssg8
+(lp232
+S"I think I'll be politic and not answer that."
 p233
-aS'if you disagree, push number 2, and if you are uncertain, push number 3. You can'
+asg11
+S'NITA FARAHANY'
 p234
-aS"ignore all of the other keys, they're not live; and if you push the wrong key just correct"
-p235
-aS"yourself and the system will lock in your last vote. And we'll shut this out in about 10"
-p236
-aS"seconds. And so remember how you voted; we'll have you vote again after the three"
-p237
-aS'rounds of debate. And in that case, the team that has changed the most minds will be'
+sg16
+(lp235
+g233
+asa(dp236
+g8
+(lp237
+S'So you have debated before.'
 p238
-aS'declared our winner.'
+asg11
+S'JOHN DONVAN'
 p239
-aS'Onto Round 1: opening statements from each debater in turn. They will be seven'
-p240
-aS'minutes each. Our motion is "prohibit genetically engineered babies," and here to'
-p241
-aS'argue first for the motion, Sheldon Krimsky, professor of humanities and social sciences'
-p242
-aS'at Tufts University.'
+sg16
+(lp240
+g238
+asa(dp241
+g8
+(lp242
+S'Yeah, indeed.'
 p243
-aS'He is chair of the board of directors for the Council for Responsible Genetics and'
+asg11
+S'NITA FARAHANY'
 p244
-aS'coeditor of the book "Genetic Explanations: Sense and Nonsense." Ladies and'
-p245
-aS'gentlemen, Sheldon Krimsky.'
-p246
-asg16
+sg16
+(lp245
+g243
+asa(dp246
+g22
 (dp247
 I1
-S'18:57:54'
+S'[applause]'
 p248
-sI12
-S'18:58:51'
-p249
-ssa(dp250
-g20
-(dp251
+ssg8
+(lp249
+S'Ladies and gentlemen, Nita Farahany.And, Nita, your partner is?'
+p250
+aS'[[applause]] '
+p251
+asg11
+S'JOHN DONVAN'
+p252
+sg16
+(lp253
+S'Ladies and gentlemen, Nita Farahany.'
+p254
+aS'And, Nita, your partner is?'
+p255
+asg18
+(dp256
+S'18:57:03'
+p257
+I1
+ssa(dp258
+g8
+(lp259
+S'My partner is Lee Silver.'
+p260
+asg11
+S'NITA FARAHANY'
+p261
+sg16
+(lp262
+g260
+asa(dp263
+g8
+(lp264
+S'Lee Silver, ladies and gentlemen.'
+p265
+aS'Lee, you are also arguing against this motion toprohibit genetically engineered babies.'
+p266
+aS'You are a professor of molecular biology atPrinceton.'
+p267
+aS'One of your landmark books was called "Mouse Genetics.'
+p268
+aS'" It\'s a book aboutmouse genetics.'
+p269
+aS'And those are relevant because mice and humans share an astoundingnumber of genes.'
+p270
+aS"It's a very high percentage, is it not?"
+p271
+asg11
+S'JOHN DONVAN'
+p272
+sg16
+(lp273
+S'Lee Silver, ladies and gentlemen.'
+p274
+aS'Lee, you are also arguing against this motion to prohibit genetically engineered babies.'
+p275
+aS'You are a professor of molecular biology at Princeton.'
+p276
+aS'One of your landmark books was called "Mouse Genetics.'
+p277
+aS'" It\'s a book about mouse genetics.'
+p278
+aS'And those are relevant because mice and humans share an astounding number of genes.'
+p279
+aS"It's a very high percentage, is it not?"
+p280
+asa(dp281
+g8
+(lp282
+S'I look at mice as little people.'
+p283
+asg11
+S'LEE SILVER'
+p284
+sg16
+(lp285
+g283
+asa(dp286
+g8
+(lp287
+S'Yeah?'
+p288
+aS"So you're not -- the thought doesn't turn you off and depress you that --"
+p289
+asg11
+S'JOHN DONVAN'
+p290
+sg16
+(lp291
+S'Yeah?'
+p292
+aS"So you're not -- the thought doesn't turn you off and depress you that --"
+p293
+asa(dp294
+g8
+(lp295
+S'Oh, no, no, no.'
+p296
+aS'Mice have done a lot for human health.'
+p297
+asg11
+S'LEE SILVER'
+p298
+sg13
+(dp299
+I1
+S'6'
+p300
+ssg16
+(lp301
+S'Oh, no, no, no.'
+p302
+aS'Mice have done a lot for human health.'
+p303
+asa(dp304
+g22
+(dp305
+I16
+S'[applause]'
+p306
+sI1
+S'[applause]'
+p307
+sI19
+S'[applause]'
+p308
+ssg8
+(lp309
+S'All right, ladies and gentlemen, Lee Silver.And those are our four debaters.'
+p310
+aS"So let's get to the first round of voting."
+p311
+aS"Remember, [[applause]] you will be asked to vote twice by the time the debate has ended, once before you'veheard the arguments and once again after you've heard the arguments."
+p312
+aS'And the teamwhose numbers have moved the most will be declared our winner.'
+p313
+aS'The motion is"prohibit genetically engineered babies.'
+p314
+aS'" If you agree with the motion, push number 1,if you disagree, push number 2, and if you are uncertain, push number 3.'
+p315
+aS"You canignore all of the other keys, they're not live; and if you push the wrong key just correctyourself and the system will lock in your last vote."
+p316
+aS"And we'll shut this out in about 10seconds."
+p317
+aS"And so remember how you voted; we'll have you vote again after the threerounds of debate."
+p318
+aS'And in that case, the team that has changed the most minds will bedeclared our winner.Onto Round 1: opening statements from each debater in turn.'
+p319
+aS'They will be sevenminutes each.'
+p320
+aS'Our motion is "prohibit genetically engineered babies," and here toargue first for the motion, Sheldon Krimsky, professor of humanities and social sciencesat Tufts University.He is chair of the board of directors for the Council for Responsible Genetics and [[applause]] coeditor of the book "Genetic Explanations: Sense and Nonsense.'
+p321
+aS'" Ladies andgentlemen, Sheldon Krimsky.'
+p322
+asg11
+S'JOHN DONVAN'
+p323
+sg16
+(lp324
+S'All right, ladies and gentlemen, Lee Silver.'
+p325
+aS'And those are our four debaters.'
+p326
+aS"So let's get to the first round of voting."
+p327
+aS"Remember, you will be asked to vote twice by the time the debate has ended, once before you've heard the arguments and once again after you've heard the arguments."
+p328
+aS'And the team whose numbers have moved the most will be declared our winner.'
+p329
+aS'The motion is "prohibit genetically engineered babies.'
+p330
+aS'" If you agree with the motion, push number 1, if you disagree, push number 2, and if you are uncertain, push number 3.'
+p331
+aS"You can ignore all of the other keys, they're not live; and if you push the wrong key just correct yourself and the system will lock in your last vote."
+p332
+aS"And we'll shut this out in about 10 seconds."
+p333
+aS"And so remember how you voted; we'll have you vote again after the three rounds of debate."
+p334
+aS'And in that case, the team that has changed the most minds will be declared our winner.'
+p335
+aS'Onto Round 1: opening statements from each debater in turn.'
+p336
+aS'They will be seven minutes each.'
+p337
+aS'Our motion is "prohibit genetically engineered babies," and here to argue first for the motion, Sheldon Krimsky, professor of humanities and social sciences at Tufts University.'
+p338
+aS'He is chair of the board of directors for the Council for Responsible Genetics and coeditor of the book "Genetic Explanations: Sense and Nonsense.'
+p339
+aS'" Ladies and gentlemen, Sheldon Krimsky.'
+p340
+asg18
+(dp341
+S'18:57:54'
+p342
+I1
+sS'18:58:51'
+p343
+I12
+ssa(dp344
+g22
+(dp345
 I58
 S'[applause]'
-p252
+p346
 sI47
 S'[laughter]'
-p253
-ssg8
+p347
+ssg11
 S'SHELDON KRIMSKY'
-p254
-sg10
-(dp255
+p348
+sg16
+(lp349
+S'Thank you.'
+p350
+aS'Thank you very much.'
+p351
+aS'The proposition before us today, to me means prenatal genetic modification of human reproductive cells, like sperm or eggs or fertilized eggs, called the zygote, in preparation for gestation in the womb and development to full term infants should be prohibited at the societal level, and to this I agree firmly.'
+p352
+aS'The two basic reasons to carry out such an intervention: one, for curing or preventing genetic disease; or, two, for the enhancement of a person.'
+p353
+aS'For genetic diseases, in the great majority of cases there are simpler, less risky, less costly, less ethically controversial, and more dependable methods of preventing the birth of a child with a severe genetic abnormality by using prenatal embryo diagnosis; that is, for diagnosing the embryos.'
+p354
+aS'There are a couple of exceptions, which I think we will get to during this debate, such as mitochondrial disease.'
+p355
+aS"And we'll have more to say about that later."
+p356
+aS'Other than the exception, the only sensible rationale for engaging in genetic modification of the fertilized egg is for the enhancement of a child.'
+p357
+aS'Enhancement might include intelligence, resistance to disease, greater height, muscle strength, appealing personality, longevity, any number of things you could imagine.'
+p358
+aS'Now, engaging in genetic modification of human gametes, the human reproductive cells, for enhancement is where I find the greatest moral failure and the greatest scientific folly.'
+p359
+aS'I offer three reasons: first, whatever enhancement is sought, the only method for determining whether it would work would be to engage in a clinical trial where you would have dozens of fertilized eggs or embryos, genetically modify half of them, carry them all to term, follow the development of the children throughout their lives to determine whether the intervention worked and at what expense to their health.'
+p360
+aS'No set of animal studies can ensure the safety and efficacy of human prenatal genetic modification.'
+p361
+aS'It is unimaginable that any humane, democratic society would permit such a trial with public or private funds; the risk would so outweigh the societal benefits.'
+p362
+aS'My distinguished colleague, professor Winston, will address some of the risks, complexities, and uncertainties with procedures using a genetic scalpel in the early embryo.'
+p363
+aS'Of course, the genetic modification of a single fertilized egg can be done outside of civil society, at some island community, where evidence of success, risks, and knowledge gained are of no concern.'
+p364
+aS'So that certainly can always happen.'
+p365
+aS'This takes us to the second reason that babies should not be genetically engineered for enhancement: from a biological and developmental standpoint, the so-called traits under consideration cannot remotely be enhanced by the modification of a gene or two.'
+p366
+aS'Traits like intelligence, personality, muscle tone, musicianship and -- are complex and not only involve dozens if not hundreds of genes but are the result of nutrition, social and environmental factors, genetic switches that are outside of the DNA and the gene- gene interactions that occur in human cells.'
+p367
+aS'Scientists and the so-called trans- humanists who believe that it is possible think of the human genome as a Lego set, where pieces of DNA can be plugged in or out without interfering with the other parts of the system.'
+p368
+aS'Actually, the human genome is more like an ecosystem where all the parts interrelate and are in mutual balance.'
+p369
+aS'Even for height, one of the most heritable traits known, scientists have found at least 50 genes that can account for only 2 to 3 percent of the variance of the samples.'
+p370
+aS'So there could be hundreds of genes associated with height.'
+p371
+aS'If you want a child, a tall child, marry tall.'
+p372
+aS'Finally, the idea of genetic enhancement grows out of a eugenic ideology that human perfection can be directed by genetics.'
+p373
+aS'The danger is not so much that it will work, but as a myth, it will have social power that can be used by those who have wealth and resources to make others believe that to be prenatally genetically modified makes you better.'
+p374
+aS'It would be as much a myth as believing that the sperm of a Nobel laureate will give you a genius child.'
+p375
+aS'I am all for human enhancement, but it must start after an egg is fertilized, beginning in utero by protecting the fetus from toxic chemicals and continuing postnatally through environmental, nutritional and cognitive enhancement and moral education.'
+p376
+aS"Enhancement through genetic engineering of human germ plasm is a fool's paradise and will lead to no good."
+p377
+aS'Thank you.'
+p378
+asg18
+(dp379
+S'19:04:06'
+p380
+I43
+sS'19:02:15'
+p381
+I27
+sS'19:03:07'
+p382
+I35
+sS'19:05:00'
+p383
+I52
+sS'18:59:56'
+p384
+I5
+sS'19:01:08'
+p385
+I16
+ssg8
+(lp386
+S'Thank you.'
+p387
+aS'Thank you very much.'
+p388
+aS'The proposition before us today, to me meansprenatal genetic modification of human reproductive cells, like sperm or eggs orfertilized eggs, called the zygote, in preparation for gestation in the womb anddevelopment to full term infants should be prohibited at the societal level, and to this Iagree firmly.The two basic reasons to carry out such an intervention: one, for curing or preventinggenetic disease; or, two, for the enhancement of a person.'
+p389
+aS'For genetic diseases, in thegreat majority of cases there are simpler, less risky, less costly, less ethicallycontroversial, and more dependable methods of preventing the birth of a child with asevere genetic abnormality by using prenatal embryo diagnosis; that is, for diagnosingthe embryos.'
+p390
+aS'There are a couple of exceptions, which I think we will get to during thisdebate, such as mitochondrial disease.'
+p391
+aS"And we'll have more to say about that later."
+p392
+aS'Other than the exception, the only sensible rationale for engaging in geneticmodification of the fertilized egg is for the enhancement of a child.'
+p393
+aS'Enhancement mightinclude intelligence, resistance to disease, greater height, muscle strength, appealingpersonality, longevity, any number of things you could imagine.Now, engaging in genetic modification of human gametes, the human reproductivecells, for enhancement is where I find the greatest moral failure and the greatestscientific folly.'
+p394
+aS'I offer three reasons: first, whatever enhancement is sought, the onlymethod for determining whether it would work would be to engage in a clinical trialwhere you would have dozens of fertilized eggs or embryos, genetically modify half ofthem, carry them all to term, follow the development of the children throughout theirlives to determine whether the intervention worked and at what expense to theirhealth.'
+p395
+aS'No set of animal studies can ensure the safety and efficacy of human prenatalgenetic modification.'
+p396
+aS'It is unimaginable that any humane, democratic society wouldpermit such a trial with public or private funds; the risk would so outweigh the societalbenefits.My distinguished colleague, professor Winston, will address some of the risks,complexities, and uncertainties with procedures using a genetic scalpel in the earlyembryo.'
+p397
+aS'Of course, the genetic modification of a single fertilized egg can be doneoutside of civil society, at some island community, where evidence of success, risks, andknowledge gained are of no concern.'
+p398
+aS'So that certainly can always happen.'
+p399
+aS'This takes usto the second reason that babies should not be genetically engineered forenhancement: from a biological and developmental standpoint, the so-called traitsunder consideration cannot remotely be enhanced by the modification of a gene or two.Traits like intelligence, personality, muscle tone, musicianship and -- are complex andnot only involve dozens if not hundreds of genes but are the result of nutrition, socialand environmental factors, genetic switches that are outside of the DNA and the gene-gene interactions that occur in human cells.'
+p400
+aS'Scientists and the so-called trans-humanists who believe that it is possible think of the human genome as a Lego set,where pieces of DNA can be plugged in or out without interfering with the other parts ofthe system.'
+p401
+aS'Actually, the human genome is more like an ecosystem where all the partsinterrelate and are in mutual balance.Even for height, one of the most heritable traits known, scientists have found at least 50genes that can account for only 2 to 3 percent of the variance of the samples.'
+p402
+aS'So therecould be hundreds of genes associated with height.'
+p403
+aS'If you want a child, a tall child,marry tall.Finally, the idea of genetic enhancement grows out of a eugenic ideology that human [[laughter]] perfection can be directed by genetics.'
+p404
+aS'The danger is not so much that it will work, butas a myth, it will have social power that can be used by those who have wealth andresources to make others believe that to be prenatally genetically modified makes youbetter.It would be as much a myth as believing that the sperm of a Nobel laureate will give youa genius child.'
+p405
+aS'I am all for human enhancement, but it must start after an egg isfertilized, beginning in utero by protecting the fetus from toxic chemicals and continuingpostnatally through environmental, nutritional and cognitive enhancement and moraleducation.'
+p406
+aS"Enhancement through genetic engineering of human germ plasm is a fool'sparadise and will lead to no good."
+p407
+aS'Thank you.'
+p408
+asg13
+(dp409
 I40
 S'8'
-p256
+p410
 sI5
 S'7'
-p257
-ssg13
-(lp258
-S'Thank you. Thank you very much. The proposition before us today, to me means'
-p259
-aS'prenatal genetic modification of human reproductive cells, like sperm or eggs or'
-p260
-aS'fertilized eggs, called the zygote, in preparation for gestation in the womb and'
-p261
-aS'development to full term infants should be prohibited at the societal level, and to this I'
-p262
-aS'agree firmly.'
-p263
-aS'The two basic reasons to carry out such an intervention: one, for curing or preventing'
-p264
-aS'genetic disease; or, two, for the enhancement of a person. For genetic diseases, in the'
-p265
-aS'great majority of cases there are simpler, less risky, less costly, less ethically'
-p266
-aS'controversial, and more dependable methods of preventing the birth of a child with a'
-p267
-aS'severe genetic abnormality by using prenatal embryo diagnosis; that is, for diagnosing'
-p268
-aS'the embryos. There are a couple of exceptions, which I think we will get to during this'
-p269
-aS"debate, such as mitochondrial disease. And we'll have more to say about that later."
-p270
-aS' Other than the exception, the only sensible rationale for engaging in genetic'
-p271
-aS'modification of the fertilized egg is for the enhancement of a child. Enhancement might'
-p272
-aS'include intelligence, resistance to disease, greater height, muscle strength, appealing'
-p273
-aS'personality, longevity, any number of things you could imagine.'
-p274
-aS'Now, engaging in genetic modification of human gametes, the human reproductive'
-p275
-aS'cells, for enhancement is where I find the greatest moral failure and the greatest'
-p276
-aS'scientific folly. I offer three reasons: first, whatever enhancement is sought, the only'
-p277
-aS'method for determining whether it would work would be to engage in a clinical trial'
-p278
-aS'where you would have dozens of fertilized eggs or embryos, genetically modify half of'
-p279
-aS'them, carry them all to term, follow the development of the children throughout their'
-p280
-aS'lives to determine whether the intervention worked and at what expense to their'
-p281
-aS'health. No set of animal studies can ensure the safety and efficacy of human prenatal'
-p282
-aS'genetic modification. It is unimaginable that any humane, democratic society would'
-p283
-aS'permit such a trial with public or private funds; the risk would so outweigh the societal'
-p284
-aS'benefits.'
-p285
-aS'My distinguished colleague, professor Winston, will address some of the risks,'
-p286
-aS'complexities, and uncertainties with procedures using a genetic scalpel in the early'
-p287
-aS'embryo. Of course, the genetic modification of a single fertilized egg can be done'
-p288
-aS'outside of civil society, at some island community, where evidence of success, risks, and'
-p289
-aS'knowledge gained are of no concern. So that certainly can always happen. This takes us'
-p290
-aS'to the second reason that babies should not be genetically engineered for'
-p291
-aS'enhancement: from a biological and developmental standpoint, the so-called traits'
-p292
-aS'under consideration cannot remotely be enhanced by the modification of a gene or two.'
-p293
-aS'Traits like intelligence, personality, muscle tone, musicianship and -- are complex and'
-p294
-aS'not only involve dozens if not hundreds of genes but are the result of nutrition, social'
-p295
-aS'and environmental factors, genetic switches that are outside of the DNA and the gene-'
-p296
-aS'gene interactions that occur in human cells. Scientists and the so-called trans-'
-p297
-aS'humanists who believe that it is possible think of the human genome as a Lego set,'
-p298
-aS'where pieces of DNA can be plugged in or out without interfering with the other parts of'
-p299
-aS'the system. Actually, the human genome is more like an ecosystem where all the parts'
-p300
-aS'interrelate and are in mutual balance.'
-p301
-aS'Even for height, one of the most heritable traits known, scientists have found at least 50'
-p302
-aS'genes that can account for only 2 to 3 percent of the variance of the samples. So there'
-p303
-aS'could be hundreds of genes associated with height. If you want a child, a tall child,'
-p304
-aS'marry tall.'
-p305
-aS'Finally, the idea of genetic enhancement grows out of a eugenic ideology that human'
-p306
-aS'perfection can be directed by genetics. The danger is not so much that it will work, but'
-p307
-aS'as a myth, it will have social power that can be used by those who have wealth and'
-p308
-aS'resources to make others believe that to be prenatally genetically modified makes you'
-p309
-aS'better.'
-p310
-aS'It would be as much a myth as believing that the sperm of a Nobel laureate will give you'
-p311
-aS'a genius child. I am all for human enhancement, but it must start after an egg is'
-p312
-aS'fertilized, beginning in utero by protecting the fetus from toxic chemicals and continuing'
-p313
-aS'postnatally through environmental, nutritional and cognitive enhancement and moral'
-p314
-aS"education. Enhancement through genetic engineering of human germ plasm is a fool's"
-p315
-aS'paradise and will lead to no good. Thank you.'
-p316
-asg16
-(dp317
-I35
-S'19:03:07'
-p318
-sI5
-S'18:59:56'
-p319
-sI43
-S'19:04:06'
-p320
-sI16
-S'19:01:08'
-p321
-sI52
-S'19:05:00'
-p322
-sI27
-S'19:02:15'
-p323
-ssa(dp324
-g20
-(dp325
+p411
+ssa(dp412
+g22
+(dp413
 I5
 S'[applause]'
-p326
+p414
 ssg8
+(lp415
+S'Thank you, Sheldon Krimsky.'
+p416
+aS'Our motion is, "Prohibit genetically engineered babies.'
+p417
+aS'"And here to argue against this motion, Nita Farahany.'
+p418
+aS"She holds a joint appointment at-- as professor of law and philosophy at Duke Law and as a research professor at Duke'sinstitute for genome sciences and policy."
+p419
+aS'She is also a member of the presidentialcommission for the study of bioethical issues.'
+p420
+aS'Ladies and gentlemen, Nita Faranany.'
+p421
+asg11
 S'JOHN DONVAN'
-p327
-sg13
-(lp328
-S'Thank you, Sheldon Krimsky. Our motion is, "Prohibit genetically engineered babies."'
-p329
-aS'And here to argue against this motion, Nita Farahany. She holds a joint appointment at'
-p330
-aS"-- as professor of law and philosophy at Duke Law and as a research professor at Duke's"
-p331
-aS'institute for genome sciences and policy. She is also a member of the presidential'
-p332
-aS'commission for the study of bioethical issues. Ladies and gentlemen, Nita Faranany.'
-p333
-asg16
-(dp334
-I5
+p422
+sg16
+(lp423
+S'Thank you, Sheldon Krimsky.'
+p424
+aS'Our motion is, "Prohibit genetically engineered babies.'
+p425
+aS'" And here to argue against this motion, Nita Farahany.'
+p426
+aS"She holds a joint appointment at -- as professor of law and philosophy at Duke Law and as a research professor at Duke's institute for genome sciences and policy."
+p427
+aS'She is also a member of the presidential commission for the study of bioethical issues.'
+p428
+aS'Ladies and gentlemen, Nita Faranany.'
+p429
+asg18
+(dp430
 S'19:06:12'
-p335
-ssa(dp336
+p431
+I5
+ssa(dp432
 g8
+(lp433
+S'Good evening.'
+p434
+aS"I'd like to thank the Rosenkranz Foundation for airing this importantdebate, our moderate for John Donvan and my esteemed colleagues in this debate."
+p435
+aS"Iam here tonight to represent my personal views, and not the President's Commission onBioethics of which I am a member, about why we should not prohibit geneticallyengineered babies."
+p436
+aS"In a little while, you'll hear from my debate partner, Lee Silver, whowill debunk many of the scientific claims against genetic engineering."
+p437
+aS'But first I want toconvince of you two things: that we already can and have safely genetically engineeredbabies and that a middle ground of prudent vigilance, public oversight and debate aboutgenetic engineering is better than prohibition.I also want to call your attention to the resolution this evening.'
+p438
+aS'It calls for an outrightand complete ban on genetic engineering of babies.'
+p439
+aS'If Lee and I can convince you of anyinstance in which genetic engineering of babies is legitimate, then you should voteagainst the resolution.'
+p440
+aS"Throughout the evening, I'll defend why genetic engineering isno different in kind from the many ways that we already engineer our children, from thepartners we choose to prenatal screening to the supplements we take that impact ourchildren and their fates."
+p441
+aS'Recently new research shows the powerful effect of takingfolate during pregnancy and how it reduces the incidence of autism in children.'
+p442
+aS'And yetno one thinks that we should ban folate.'
+p443
+aS"But I want to convince you that we already canand have taken the next step of genetic engineering of babies and that we would take adrastic step backwards to ban outright that technology.I'm going to tell you about inherited mitochondrial disorders, which are progressive andcause tragic health consequences."
+p444
+aS'A little biology 101 should help frame the debate.About 98 percent of your DNA is nuclear DNA.'
+p445
+aS'It codes for much of who you are.'
+p446
+aS'Butabout 2 percent of your DNA is mitochondrial which supplies the energy to your cells.To understand this, visualize a cell with its small nucleus and a little bundle inside of thecell and the mitochondrial DNA and the fluid that surrounds it.'
+p447
+aS'The nucleus of the cell iswhere 99.9 percent of the action is, but only in the mitochondria functions properly.About one in 5,000 babies born have problems with their mitochondrial DNA that causerare but incredibly serious disease, including heart failure, dementia, blindness, severesuffering and death.'
+p448
+aS'There is no way to treat the condition once it is acquired, and it isextremely difficult to predict how severely a child will be affected.'
+p449
+aS'With geneticengineering of babies, we can altogether avoid this suffering.Professors Winston and Krimsky will argue that we can just screen out and abort thedefective fetuses or destroy the embryos in the lab.'
+p450
+aS'But mitochondrial DNA, which issolely inherited from the mother, is often passed on to every child of an afflictedmother.'
+p451
+aS'Only genetic engineering can safeguard a woman against these difficult choicesand altogether eliminate the risk of a child being born with mitochondrial disease.'
+p452
+aS'Take,for example, Sharon, a woman who had a healthy pregnancy and who gave birth to abeautiful, healthy girl.'
+p453
+aS"Twenty-eight hours later, that baby died of an unknown disease.This tragic tale repeated itself five times as each of Sharon's babies lived for just a fewhours."
+p454
+aS'Only her son, Edward survived.'
+p455
+aS'And by age four, he started falling overrepeatedly.'
+p456
+aS"He'll spend the rest of his life in a wheelchair with little control over hismuscles.You see, Sharon has Lee's syndrome, a rare mitochondrial disease, and she passed it onto all six of her children."
+p457
+aS'The only way that Sharon or any woman with a high level ofmitochondrial abnormality will have her own healthy genetic children is through geneticengineering of the babies.'
+p458
+aS"We'll talk about two techniques to do so: Pronucleartransfer and maternal spindle transfer that safely eliminate the risk of these diseases."
+p459
+aS'At least 30 children have already been born in the United States using an earlier versionof mitochondrial transfer.'
+p460
+aS'All of these children were born free of mitochondrial disease.And these newer techniques have even fewer risks than those earlier ones and promiseeven better outcomes for future generations.The United Kingdom, notoriously conservative about reproductive technologies, hasgiven the green light in the use of these technologies.'
+p461
+aS'A ban by the U.S. would make usan outlier, a country standing in the way of scientific progress, at odds with the scientificand ethical consensus that mitochondrial transfer, a form of genetic engineering ofbabies, is permissible.'
+p462
+aS'But mitochondrial genetic engineering proves my larger pointthat I want to convince you of this evening, that a middle ground approach is betterthan an outright ban.'
+p463
+aS"You'll hear my opponents talking about opening floodgates to adystopia of designing perfect babies."
+p464
+aS'But technology itself is not evil.'
+p465
+aS'Only misuse andmisapplication of it is.'
+p466
+aS'The public can and should decide what limits if any there shouldbe on the uses of genetic engineering.'
+p467
+aS'But a complete ban would just drive the practiceinto back alleys or overseas.'
+p468
+aS'Criminalizing genetic engineering will make the practicehidden from public view so that we will have no idea whether Sharon and women likeher are using unsafe and unsavory practitioners to carry out genetic engineering.Reproductive tourism is already rampant, where women and couples are traveling toforeign countries to gain access to reproductive technologies banned in their owncountries.'
+p469
+aS"You can be sure that women like Sharon, afflicted with terrible Lee'ssyndrome, will travel great distances to safeguard their children."
+p470
+aS'Now imagine just for amoment how we would enforce the outright ban that the resolution calls for.'
+p471
+aS'Would weforcibly genetically test all babies?'
+p472
+aS"Would they -- would the government appear inSharon's hospital room or at airports with handcuffs to arrest her or her child?"
+p473
+aS'Wouldwe forcibly sterilize Sharon and her baby?'
+p474
+aS'Is this the kind of society that you want tolive in?'
+p475
+aS'Some of the worst examples of abuses of government power in the last centuryhave involved the government trying to control our reproduction.'
+p476
+aS"This grim history ofeugenics and of laws against interracial marriage, of programs of forced sterilization andabortion, provide a strong reason to reject the resolution.We aren't here to defend every type of genetic engineering."
+p477
+aS"We're here to urge you tovote in favor of a middle ground, to allow parents and private citizens to make privatechoices about one of the most intimate decisions they will ever make, to bring a healthychild into the world."
+p478
+asg11
 S'NITA FARAHANY'
-p337
-sg10
-(dp338
+p479
+sg13
+(dp480
 I73
 S'11'
-p339
+p481
 sI3
 S'9'
-p340
+p482
 sI38
 S'10'
-p341
-ssg13
-(lp342
-S"Good evening. I'd like to thank the Rosenkranz Foundation for airing this important"
-p343
-aS'debate, our moderate for John Donvan and my esteemed colleagues in this debate. I'
-p344
-aS"am here tonight to represent my personal views, and not the President's Commission on"
-p345
-aS'Bioethics of which I am a member, about why we should not prohibit genetically'
-p346
-aS"engineered babies. In a little while, you'll hear from my debate partner, Lee Silver, who"
-p347
-aS'will debunk many of the scientific claims against genetic engineering. But first I want to'
-p348
-aS'convince of you two things: that we already can and have safely genetically engineered'
-p349
-aS'babies and that a middle ground of prudent vigilance, public oversight and debate about'
-p350
-aS'genetic engineering is better than prohibition.'
-p351
-aS'I also want to call your attention to the resolution this evening. It calls for an outright'
-p352
-aS'and complete ban on genetic engineering of babies. If Lee and I can convince you of any'
-p353
-aS'instance in which genetic engineering of babies is legitimate, then you should vote'
-p354
-aS"against the resolution. Throughout the evening, I'll defend why genetic engineering is"
-p355
-aS'no different in kind from the many ways that we already engineer our children, from the'
-p356
-aS'partners we choose to prenatal screening to the supplements we take that impact our'
-p357
-aS'children and their fates. Recently new research shows the powerful effect of taking'
-p358
-aS'folate during pregnancy and how it reduces the incidence of autism in children. And yet'
-p359
-aS'no one thinks that we should ban folate. But I want to convince you that we already can'
-p360
-aS'and have taken the next step of genetic engineering of babies and that we would take a'
-p361
-aS'drastic step backwards to ban outright that technology.'
-p362
-aS"I'm going to tell you about inherited mitochondrial disorders, which are progressive and"
-p363
-aS'cause tragic health consequences. A little biology 101 should help frame the debate.'
-p364
-aS'About 98 percent of your DNA is nuclear DNA. It codes for much of who you are. But'
-p365
-aS'about 2 percent of your DNA is mitochondrial which supplies the energy to your cells.'
-p366
-aS'To understand this, visualize a cell with its small nucleus and a little bundle inside of the'
-p367
-aS'cell and the mitochondrial DNA and the fluid that surrounds it. The nucleus of the cell is'
-p368
-aS'where 99.9 percent of the action is, but only in the mitochondria functions properly.'
-p369
-aS'About one in 5,000 babies born have problems with their mitochondrial DNA that cause'
-p370
-aS'rare but incredibly serious disease, including heart failure, dementia, blindness, severe'
-p371
-aS'suffering and death. There is no way to treat the condition once it is acquired, and it is'
-p372
-aS'extremely difficult to predict how severely a child will be affected. With genetic'
-p373
-aS'engineering of babies, we can altogether avoid this suffering.'
-p374
-aS'Professors Winston and Krimsky will argue that we can just screen out and abort the'
-p375
-aS'defective fetuses or destroy the embryos in the lab. But mitochondrial DNA, which is'
-p376
-aS'solely inherited from the mother, is often passed on to every child of an afflicted'
-p377
-aS'mother. Only genetic engineering can safeguard a woman against these difficult choices'
-p378
-aS'and altogether eliminate the risk of a child being born with mitochondrial disease. Take,'
-p379
-aS'for example, Sharon, a woman who had a healthy pregnancy and who gave birth to a'
-p380
-aS'beautiful, healthy girl. Twenty-eight hours later, that baby died of an unknown disease.'
-p381
-aS"This tragic tale repeated itself five times as each of Sharon's babies lived for just a few"
-p382
-aS'hours. Only her son, Edward survived. And by age four, he started falling over'
-p383
-aS"repeatedly. He'll spend the rest of his life in a wheelchair with little control over his"
-p384
-aS'muscles.'
-p385
-aS"You see, Sharon has Lee's syndrome, a rare mitochondrial disease, and she passed it on"
-p386
-aS'to all six of her children. The only way that Sharon or any woman with a high level of'
-p387
-aS'mitochondrial abnormality will have her own healthy genetic children is through genetic'
-p388
-aS"engineering of the babies. We'll talk about two techniques to do so: Pronuclear"
-p389
-aS'transfer and maternal spindle transfer that safely eliminate the risk of these diseases.'
-p390
-aS' At least 30 children have already been born in the United States using an earlier version'
-p391
-aS'of mitochondrial transfer. All of these children were born free of mitochondrial disease.'
-p392
-aS'And these newer techniques have even fewer risks than those earlier ones and promise'
-p393
-aS'even better outcomes for future generations.'
-p394
-aS'The United Kingdom, notoriously conservative about reproductive technologies, has'
-p395
-aS'given the green light in the use of these technologies. A ban by the U.S. would make us'
-p396
-aS'an outlier, a country standing in the way of scientific progress, at odds with the scientific'
-p397
-aS'and ethical consensus that mitochondrial transfer, a form of genetic engineering of'
-p398
-aS'babies, is permissible. But mitochondrial genetic engineering proves my larger point'
-p399
-aS'that I want to convince you of this evening, that a middle ground approach is better'
-p400
-aS"than an outright ban. You'll hear my opponents talking about opening floodgates to a"
-p401
-aS'dystopia of designing perfect babies. But technology itself is not evil. Only misuse and'
-p402
-aS'misapplication of it is. The public can and should decide what limits if any there should'
-p403
-aS'be on the uses of genetic engineering. But a complete ban would just drive the practice'
-p404
-aS'into back alleys or overseas. Criminalizing genetic engineering will make the practice'
-p405
-aS'hidden from public view so that we will have no idea whether Sharon and women like'
-p406
-aS'her are using unsafe and unsavory practitioners to carry out genetic engineering.'
-p407
-aS'Reproductive tourism is already rampant, where women and couples are traveling to'
-p408
-aS'foreign countries to gain access to reproductive technologies banned in their own'
-p409
-aS"countries. You can be sure that women like Sharon, afflicted with terrible Lee's"
-p410
-aS'syndrome, will travel great distances to safeguard their children. Now imagine just for a'
-p411
-aS'moment how we would enforce the outright ban that the resolution calls for. Would we'
-p412
-aS'forcibly genetically test all babies? Would they -- would the government appear in'
-p413
-aS"Sharon's hospital room or at airports with handcuffs to arrest her or her child? Would"
-p414
-aS'we forcibly sterilize Sharon and her baby? Is this the kind of society that you want to'
-p415
-aS'live in? Some of the worst examples of abuses of government power in the last century'
-p416
-aS'have involved the government trying to control our reproduction. This grim history of'
-p417
-aS'eugenics and of laws against interracial marriage, of programs of forced sterilization and'
-p418
-aS'abortion, provide a strong reason to reject the resolution.'
-p419
-aS"We aren't here to defend every type of genetic engineering. We're here to urge you to"
-p420
-aS'vote in favor of a middle ground, to allow parents and private citizens to make private'
-p421
-aS'choices about one of the most intimate decisions they will ever make, to bring a healthy'
-p422
-aS'child into the world.'
-p423
-asg16
-(dp424
-I32
-S'19:09:07'
-p425
-sI65
-S'19:11:59'
-p426
-sI9
+p483
+ssg16
+(lp484
+S'Good evening.'
+p485
+aS"I'd like to thank the Rosenkranz Foundation for airing this important debate, our moderate for John Donvan and my esteemed colleagues in this debate."
+p486
+aS"I am here tonight to represent my personal views, and not the President's Commission on Bioethics of which I am a member, about why we should not prohibit genetically engineered babies."
+p487
+aS"In a little while, you'll hear from my debate partner, Lee Silver, who will debunk many of the scientific claims against genetic engineering."
+p488
+aS'But first I want to convince of you two things: that we already can and have safely genetically engineered babies and that a middle ground of prudent vigilance, public oversight and debate about genetic engineering is better than prohibition.'
+p489
+aS'I also want to call your attention to the resolution this evening.'
+p490
+aS'It calls for an outright and complete ban on genetic engineering of babies.'
+p491
+aS'If Lee and I can convince you of any instance in which genetic engineering of babies is legitimate, then you should vote against the resolution.'
+p492
+aS"Throughout the evening, I'll defend why genetic engineering is no different in kind from the many ways that we already engineer our children, from the partners we choose to prenatal screening to the supplements we take that impact our children and their fates."
+p493
+aS'Recently new research shows the powerful effect of taking folate during pregnancy and how it reduces the incidence of autism in children.'
+p494
+aS'And yet no one thinks that we should ban folate.'
+p495
+aS'But I want to convince you that we already can and have taken the next step of genetic engineering of babies and that we would take a drastic step backwards to ban outright that technology.'
+p496
+aS"I'm going to tell you about inherited mitochondrial disorders, which are progressive and cause tragic health consequences."
+p497
+aS'A little biology 101 should help frame the debate.'
+p498
+aS'About 98 percent of your DNA is nuclear DNA.'
+p499
+aS'It codes for much of who you are.'
+p500
+aS'But about 2 percent of your DNA is mitochondrial which supplies the energy to your cells.'
+p501
+aS'To understand this, visualize a cell with its small nucleus and a little bundle inside of the cell and the mitochondrial DNA and the fluid that surrounds it.'
+p502
+aS'The nucleus of the cell is where 99.9 percent of the action is, but only in the mitochondria functions properly.'
+p503
+aS'About one in 5,000 babies born have problems with their mitochondrial DNA that cause rare but incredibly serious disease, including heart failure, dementia, blindness, severe suffering and death.'
+p504
+aS'There is no way to treat the condition once it is acquired, and it is extremely difficult to predict how severely a child will be affected.'
+p505
+aS'With genetic engineering of babies, we can altogether avoid this suffering.'
+p506
+aS'Professors Winston and Krimsky will argue that we can just screen out and abort the defective fetuses or destroy the embryos in the lab.'
+p507
+aS'But mitochondrial DNA, which is solely inherited from the mother, is often passed on to every child of an afflicted mother.'
+p508
+aS'Only genetic engineering can safeguard a woman against these difficult choices and altogether eliminate the risk of a child being born with mitochondrial disease.'
+p509
+aS'Take, for example, Sharon, a woman who had a healthy pregnancy and who gave birth to a beautiful, healthy girl.'
+p510
+aS'Twenty-eight hours later, that baby died of an unknown disease.'
+p511
+aS"This tragic tale repeated itself five times as each of Sharon's babies lived for just a few hours."
+p512
+aS'Only her son, Edward survived.'
+p513
+aS'And by age four, he started falling over repeatedly.'
+p514
+aS"He'll spend the rest of his life in a wheelchair with little control over his muscles."
+p515
+aS"You see, Sharon has Lee's syndrome, a rare mitochondrial disease, and she passed it on to all six of her children."
+p516
+aS'The only way that Sharon or any woman with a high level of mitochondrial abnormality will have her own healthy genetic children is through genetic engineering of the babies.'
+p517
+aS"We'll talk about two techniques to do so: Pronuclear transfer and maternal spindle transfer that safely eliminate the risk of these diseases."
+p518
+aS'At least 30 children have already been born in the United States using an earlier version of mitochondrial transfer.'
+p519
+aS'All of these children were born free of mitochondrial disease.'
+p520
+aS'And these newer techniques have even fewer risks than those earlier ones and promise even better outcomes for future generations.'
+p521
+aS'The United Kingdom, notoriously conservative about reproductive technologies, has given the green light in the use of these technologies.'
+p522
+aS'A ban by the U.S. would make us an outlier, a country standing in the way of scientific progress, at odds with the scientific and ethical consensus that mitochondrial transfer, a form of genetic engineering of babies, is permissible.'
+p523
+aS'But mitochondrial genetic engineering proves my larger point that I want to convince you of this evening, that a middle ground approach is better than an outright ban.'
+p524
+aS"You'll hear my opponents talking about opening floodgates to a dystopia of designing perfect babies."
+p525
+aS'But technology itself is not evil.'
+p526
+aS'Only misuse and misapplication of it is.'
+p527
+aS'The public can and should decide what limits if any there should be on the uses of genetic engineering.'
+p528
+aS'But a complete ban would just drive the practice into back alleys or overseas.'
+p529
+aS'Criminalizing genetic engineering will make the practice hidden from public view so that we will have no idea whether Sharon and women like her are using unsafe and unsavory practitioners to carry out genetic engineering.'
+p530
+aS'Reproductive tourism is already rampant, where women and couples are traveling to foreign countries to gain access to reproductive technologies banned in their own countries.'
+p531
+aS"You can be sure that women like Sharon, afflicted with terrible Lee's syndrome, will travel great distances to safeguard their children."
+p532
+aS'Now imagine just for a moment how we would enforce the outright ban that the resolution calls for.'
+p533
+aS'Would we forcibly genetically test all babies?'
+p534
+aS"Would they -- would the government appear in Sharon's hospital room or at airports with handcuffs to arrest her or her child?"
+p535
+aS'Would we forcibly sterilize Sharon and her baby?'
+p536
+aS'Is this the kind of society that you want to live in?'
+p537
+aS'Some of the worst examples of abuses of government power in the last century have involved the government trying to control our reproduction.'
+p538
+aS'This grim history of eugenics and of laws against interracial marriage, of programs of forced sterilization and abortion, provide a strong reason to reject the resolution.'
+p539
+aS"We aren't here to defend every type of genetic engineering."
+p540
+aS"We're here to urge you to vote in favor of a middle ground, to allow parents and private citizens to make private choices about one of the most intimate decisions they will ever make, to bring a healthy child into the world."
+p541
+asg18
+(dp542
 S'19:07:00'
-p427
-sI43
-S'19:10:03'
-p428
-sI77
-S'19:12:59'
-p429
-sI20
-S'19:07:56'
-p430
-sI52
-S'19:10:49'
-p431
-ssa(dp432
-g20
-(dp433
+p543
+I9
+sS'19:09:07'
+p544
+I32
+sS'19:10:03'
+p545
+I43
+sS'19:12:59'
+p546
+I77
+sS'19:11:59'
+p547
+I65
+sS'19:10:49'
+p548
+I52
+sS'19:07:56'
+p549
+I20
+ssa(dp550
+g22
+(dp551
 I1
 S'[applause]'
-p434
+p552
 sI6
 S'[applause]'
-p435
+p553
 ssg8
+(lp554
+S"Thank you, Nita Farahany.And a reminder of what's going on, we are halfway through the opening round of this [[applause]] babies."
+p555
+aS'" You have heard two of the opening statements.'
+p556
+aS'And now on to the third.'
+p557
+aS'Insupport of the motion to "Prohibit genetically engineered babies," I want to introduceagain Robert Winston.'
+p558
+aS'He is a professor of science and society and emeritus professorof fertility studies at Imperial College, London.'
+p559
+aS'Ladies and gentlemen, Robert Winston.'
+p560
+asg11
 S'JOHN DONVAN'
-p436
-sg13
-(lp437
+p561
+sg16
+(lp562
 S'Thank you, Nita Farahany.'
-p438
-aS"And a reminder of what's going on, we are halfway through the opening round of this"
-p439
-aS'babies." You have heard two of the opening statements. And now on to the third. In'
-p440
-aS'support of the motion to "Prohibit genetically engineered babies," I want to introduce'
-p441
-aS'again Robert Winston. He is a professor of science and society and emeritus professor'
-p442
-aS'of fertility studies at Imperial College, London. Ladies and gentlemen, Robert Winston.'
-p443
-asg16
-(dp444
-I6
+p563
+aS"And a reminder of what's going on, we are halfway through the opening round of this babies."
+p564
+aS'" You have heard two of the opening statements.'
+p565
+aS'And now on to the third.'
+p566
+aS'In support of the motion to "Prohibit genetically engineered babies," I want to introduce again Robert Winston.'
+p567
+aS'He is a professor of science and society and emeritus professor of fertility studies at Imperial College, London.'
+p568
+aS'Ladies and gentlemen, Robert Winston.'
+p569
+asg18
+(dp570
 S'19:13:55'
-p445
-ssa(dp446
-g20
-(dp447
+p571
+I6
+ssa(dp572
+g22
+(dp573
 I3
 S'[applause]'
-p448
+p574
 ssg8
+(lp575
+S"Well, Ladies and gentlemen, it's great to hear my partner, Sheldon Krimsky, talkingabout the sperm of Nobel prizewinners."
+p576
+aS"We've got Jim Watson in the audience, and it's---- lovely to see him there."
+p577
+aS'[[applause]] '
+p578
+asg11
 S'LORD ROBERT WINSTON'
-p449
-sg13
-(lp450
-S"Well, Ladies and gentlemen, it's great to hear my partner, Sheldon Krimsky, talking"
-p451
-aS"about the sperm of Nobel prizewinners. We've got Jim Watson in the audience, and it's"
-p452
-aS'--'
-p453
-aS'-- lovely to see him there.'
-p454
-asa(dp455
+p579
+sg16
+(lp580
+S"Well, Ladies and gentlemen, it's great to hear my partner, Sheldon Krimsky, talking about the sperm of Nobel prizewinners."
+p581
+aS"We've got Jim Watson in the audience, and it's -- -- lovely to see him there."
+p582
+asa(dp583
 g8
-S'JOHN DONVAN'
-p456
-sg13
-(lp457
+(lp584
 S'Well, I mean, we should tell the non-applauders who he is.'
-p458
-asa(dp459
-g8
-S'LORD ROBERT WINSTON'
-p460
-sg13
-(lp461
-S'Well, I know --'
-p462
-asa(dp463
-g8
+p585
+asg11
 S'JOHN DONVAN'
-p464
-sg10
-(dp465
+p586
+sg16
+(lp587
+g585
+asa(dp588
+g8
+(lp589
+S'Well, I know --'
+p590
+asg11
+S'LORD ROBERT WINSTON'
+p591
+sg16
+(lp592
+g590
+asa(dp593
+g8
+(lp594
+S"And we'll stop the clock for a second to do that."
+p595
+asg11
+S'JOHN DONVAN'
+p596
+sg13
+(dp597
 I1
 S'12'
-p466
-ssg13
-(lp467
-S"And we'll stop the clock for a second to do that."
-p468
-asa(dp469
+p598
+ssg16
+(lp599
+g595
+asa(dp600
 g8
-S'LORD ROBERT WINSTON'
-p470
-sg13
-(lp471
+(lp601
 S"I'm not going to ask whether he's banked any of his sperm."
-p472
-asa(dp473
+p602
+asg11
+S'LORD ROBERT WINSTON'
+p603
+sg16
+(lp604
+g602
+asa(dp605
 g8
-S'JOHN DONVAN'
-p474
-sg13
-(lp475
+(lp606
 S'What?'
-p476
-asa(dp477
-g20
-(dp478
+p607
+asg11
+S'JOHN DONVAN'
+p608
+sg16
+(lp609
+g607
+asa(dp610
+g22
+(dp611
 I1
 S'[laughter]'
-p479
+p612
 ssg8
-S'LORD ROBERT WINSTON'
-p480
-sg13
-(lp481
+(lp613
 S"I'm not going to ask him whether he's banked any of his sperm."
-p482
-asa(dp483
-g20
-(dp484
+p614
+asg11
+S'LORD ROBERT WINSTON'
+p615
+sg16
+(lp616
+g614
+asa(dp617
+g22
+(dp618
 I4
 S'[applause]'
-p485
+p619
 ssg8
+(lp620
+S"Jim Watson is one of the discoverers of the structure of the double helix DNA, if youread the book in high school in the '60s, he's the guy, and he's here."
+p621
+aS"We're reallypleased to have him."
+p622
+aS"Ladies and gentlemen, let's welcome him for doing that work."
+p623
+aS'Yeah.And the clock starts.'
+p624
+aS'[[applause]] '
+p625
+asg11
 S'JOHN DONVAN'
-p486
-sg13
-(lp487
-S'Jim Watson is one of the discoverers of the structure of the double helix DNA, if you'
-p488
-aS"read the book in high school in the '60s, he's the guy, and he's here. We're really"
-p489
-aS"pleased to have him. Ladies and gentlemen, let's welcome him for doing that work."
-p490
-aS' Yeah.'
-p491
+p626
+sg16
+(lp627
+S"Jim Watson is one of the discoverers of the structure of the double helix DNA, if you read the book in high school in the '60s, he's the guy, and he's here."
+p628
+aS"We're really pleased to have him."
+p629
+aS"Ladies and gentlemen, let's welcome him for doing that work."
+p630
+aS'Yeah.'
+p631
 aS'And the clock starts.'
-p492
-asa(dp493
+p632
+asa(dp633
 g8
+(lp634
+S"And it's the 60th anniversary of your paper coming up, isn't it, on the DNA structure,which is a remarkable landmark."
+p635
+aS'Ladies and gentlemen, this is actually quite a simpleproposition.'
+p636
+aS"And it's quite clear that what our opponents are recommending issomething which Americans shiver at, which is experimentation without the consent ofthe individual being experimented upon.It's worth looking very briefly at American history."
+p637
+aS'The history of eugenics, whichstarted probably in Britain, with Francis Galton back in the 1850s, is still a scar to someextent on genetics.'
+p638
+aS'And Davenport, of course, and other people who followed him, Ithink, had a great deal of responsibility for the sterilization of women without consent,with the prevention of people who might want to make love together because theywere different races were prevented by law in many states in the United States.'
+p639
+aS"Andthis is something, of course, which directly influenced the Nazi holocaust.And although it may seem farfetched, it's worth bearing in mind that the time when theplanet is oppressed by the risk of global warming, and by the risk of conflict, by the riskof all sorts of serious issues on the economy, it may well be that people might want tosee eugenics raising its ugly head again."
+p640
+aS'And the United States, in my view, as theleading biotechnological country in the world, has a major responsibility to lead it in thisethical issue.'
+p641
+aS'Now, as my partner has said, there are two concerns here.'
+p642
+aS'One is geneticengineering to change horrific genes such as these are mentioned, and the other, ofcourse, is to enhance individuals.'
+p643
+aS'The problem, of course, is that once you go from one,I think you go to the other as well.'
+p644
+aS"And mitochondrial disease, let's just knock that onthe head straightaway."
+p645
+aS"Mitochondrial disease, although it's a terrible thing to have, it isreally trivial in terms of its incidence."
+p646
+aS"It's a very, very uncommon disorder.And it is worrying to me that our opponents have got the numbers wrong."
+p647
+aS"It isn't 2percent of the DNA, it's 16,000 base pairs out 3 billion base pairs."
+p648
+aS"So it's a tiny amountof DNA, but we know already that even fiddling with the mitochondria may make amassive difference to what happens to the nuclear DNA."
+p649
+aS"It's still not clear."
+p650
+aS"And it'sworth bearing in mind that abnormal children have been born as a result ofmitochondrial transfer."
+p651
+aS'This has been completely unpredictable.'
+p652
+aS'Now, with regard toone of the issues about genetic engineering for enhancement, it will be permanent, itwill be irreversible, and it may impart values to a child that, that child might find is notvaluable in the society in which they are growing up.'
+p653
+aS"And, of course, with regard todisease, it is quite clear that screening embryos is a much better bet.If we take a cell away or the look at the biochemistry of an embryo, which you can nowdo, and detect the disease, we can simply substitute that embryo for another one in aclutch of eggs because, of course, a woman -- it's worth bearing in mind that theaverage childbearing woman watching this program will lose two eggs during the courseof the program, each genetically unique."
+p654
+aS'The males, meanwhile, have made some70,000 new sperm.'
+p655
+aS'Each of those are equally genetically unique, an every embryo isdifferent.'
+p656
+aS'And therefore, to screen embryos which have a clear disease, by thetechniques which are now being developed, is certainly possible and much safer thanmeddling with the genome.And, of course, what we have to understand is that we now know that theenvironmental influence on the embryo, the environmental influence on the fetus has amassive point, has a massive change, in how it grows up.'
+p657
+aS'And, in fact, really, what weshould be trying to do -- rather than trying to risk making abnormal babies, what weshould be trying to do is to improve the environment so that the DNA functions in thebest possible way.There is a lot of evidence to show that a woman can change the cognitive ability, theintelligence of her fetus, by what she eats in pregnancy, what happens to her stresshormones in pregnancy, and this research is burgeoning.'
+p658
+aS'And that is something whichwe should really recognize in a democratic society as something that science shouldreally concentrate on.Now, the big problem of course is that genetic engineering is unpredictable.'
+p659
+aS"And I'mgoing to give you two examples from the two biggest users of people who makegenetically modified animals."
+p660
+aS'The most common place for genetically modified animals,of course, is in the pharmaceutical industry.'
+p661
+aS'Pretty well every drug is now tested --nearly every drug will be tested on animals, where their genes have been modified tomake a model for human disease or to look at the action of that drug.'
+p662
+aS"And if you look atthe figures which are being published by two of the largest companies in the world, withvery large series of mass models, you can see the problem you'd have with geneticengineering.AstraZeneca published 51 different models, a vast number of mice in those models, 70percent, ladies and gentlemen, of those animals were abnormal and the abnormalitywas unpredictable."
+p663
+aS'Some of the abnormalities were trivial, others were not.'
+p664
+aS"Theanimals were not followed up for long term, they were simply discarded, so we don'tknow what would have happened to -- in old age."
+p665
+aS'We do know that changing geneticsmakes a difference to what happens to us in our old age, and certainly the fetal originsof adult disease are very important.'
+p666
+aS'We know, for example, that stroke, diabetes, somecancers, may be caused by what happens in the environment of an embryo early on.And Pfizer has gone even further.'
+p667
+aS"It's looked at 74 different tests on mice that are bredafter genetic modification, and 50 percent of the mice failed the phenotype test."
+p668
+aS"Andthis is without, of course, testing the very things for which we would want to enhancepeople, i.e., intelligence and their ability to solve a problem.So let's just say one other thing, if I may, and that is that one of the problems, of course,is that one may modify genes, but we don't even know whether they will continue tofunction in the way."
+p669
+aS'And there is a lot of evidence from the work we do in my ownlaboratory, which shows that gene expression in a modified animal stops after a whileduring development.'
+p670
+aS'Ladies and gentlemen, as I say, you have a responsibility here.You have a duty to lead the world to make certain that your medicine is ethical.'
+p671
+aS'Thankyou.'
+p672
+asg11
 S'LORD ROBERT WINSTON'
-p494
-sg10
-(dp495
+p673
+sg13
+(dp674
 I48
 S'14'
-p496
+p675
 sI15
 S'13'
-p497
-ssg13
-(lp498
-S"And it's the 60th anniversary of your paper coming up, isn't it, on the DNA structure,"
-p499
-aS'which is a remarkable landmark. Ladies and gentlemen, this is actually quite a simple'
-p500
-aS"proposition. And it's quite clear that what our opponents are recommending is"
-p501
-aS'something which Americans shiver at, which is experimentation without the consent of'
-p502
-aS'the individual being experimented upon.'
-p503
-aS"It's worth looking very briefly at American history. The history of eugenics, which"
-p504
-aS'started probably in Britain, with Francis Galton back in the 1850s, is still a scar to some'
-p505
-aS'extent on genetics. And Davenport, of course, and other people who followed him, I'
-p506
-aS'think, had a great deal of responsibility for the sterilization of women without consent,'
-p507
-aS'with the prevention of people who might want to make love together because they'
-p508
-aS'were different races were prevented by law in many states in the United States. And'
-p509
-aS'this is something, of course, which directly influenced the Nazi holocaust.'
-p510
-aS"And although it may seem farfetched, it's worth bearing in mind that the time when the"
-p511
-aS'planet is oppressed by the risk of global warming, and by the risk of conflict, by the risk'
-p512
-aS'of all sorts of serious issues on the economy, it may well be that people might want to'
-p513
-aS'see eugenics raising its ugly head again. And the United States, in my view, as the'
-p514
-aS'leading biotechnological country in the world, has a major responsibility to lead it in this'
-p515
-aS'ethical issue. Now, as my partner has said, there are two concerns here. One is genetic'
-p516
-aS'engineering to change horrific genes such as these are mentioned, and the other, of'
-p517
-aS'course, is to enhance individuals. The problem, of course, is that once you go from one,'
-p518
-aS"I think you go to the other as well. And mitochondrial disease, let's just knock that on"
-p519
-aS"the head straightaway. Mitochondrial disease, although it's a terrible thing to have, it is"
-p520
-aS"really trivial in terms of its incidence. It's a very, very uncommon disorder."
-p521
-aS"And it is worrying to me that our opponents have got the numbers wrong. It isn't 2"
-p522
-aS"percent of the DNA, it's 16,000 base pairs out 3 billion base pairs. So it's a tiny amount"
-p523
-aS'of DNA, but we know already that even fiddling with the mitochondria may make a'
-p524
-aS"massive difference to what happens to the nuclear DNA. It's still not clear. And it's"
-p525
-aS'worth bearing in mind that abnormal children have been born as a result of'
-p526
-aS'mitochondrial transfer. This has been completely unpredictable. Now, with regard to'
-p527
-aS'one of the issues about genetic engineering for enhancement, it will be permanent, it'
-p528
-aS'will be irreversible, and it may impart values to a child that, that child might find is not'
-p529
-aS'valuable in the society in which they are growing up. And, of course, with regard to'
-p530
-aS'disease, it is quite clear that screening embryos is a much better bet.'
-p531
-aS'If we take a cell away or the look at the biochemistry of an embryo, which you can now'
-p532
-aS'do, and detect the disease, we can simply substitute that embryo for another one in a'
-p533
-aS"clutch of eggs because, of course, a woman -- it's worth bearing in mind that the"
-p534
-aS'average childbearing woman watching this program will lose two eggs during the course'
-p535
-aS'of the program, each genetically unique. The males, meanwhile, have made some'
-p536
-aS'70,000 new sperm. Each of those are equally genetically unique, an every embryo is'
-p537
-aS'different. And therefore, to screen embryos which have a clear disease, by the'
-p538
-aS'techniques which are now being developed, is certainly possible and much safer than'
-p539
-aS'meddling with the genome.'
-p540
-aS'And, of course, what we have to understand is that we now know that the'
-p541
-aS'environmental influence on the embryo, the environmental influence on the fetus has a'
-p542
-aS'massive point, has a massive change, in how it grows up. And, in fact, really, what we'
-p543
-aS'should be trying to do -- rather than trying to risk making abnormal babies, what we'
-p544
-aS'should be trying to do is to improve the environment so that the DNA functions in the'
-p545
-aS'best possible way.'
-p546
-aS'There is a lot of evidence to show that a woman can change the cognitive ability, the'
-p547
-aS'intelligence of her fetus, by what she eats in pregnancy, what happens to her stress'
-p548
-aS'hormones in pregnancy, and this research is burgeoning. And that is something which'
-p549
-aS'we should really recognize in a democratic society as something that science should'
-p550
-aS'really concentrate on.'
-p551
-aS"Now, the big problem of course is that genetic engineering is unpredictable. And I'm"
-p552
-aS'going to give you two examples from the two biggest users of people who make'
-p553
-aS'genetically modified animals. The most common place for genetically modified animals,'
-p554
-aS'of course, is in the pharmaceutical industry. Pretty well every drug is now tested --'
-p555
-aS'nearly every drug will be tested on animals, where their genes have been modified to'
-p556
-aS'make a model for human disease or to look at the action of that drug. And if you look at'
-p557
-aS'the figures which are being published by two of the largest companies in the world, with'
-p558
-aS"very large series of mass models, you can see the problem you'd have with genetic"
-p559
-aS'engineering.'
-p560
-aS'AstraZeneca published 51 different models, a vast number of mice in those models, 70'
-p561
-aS'percent, ladies and gentlemen, of those animals were abnormal and the abnormality'
-p562
-aS'was unpredictable. Some of the abnormalities were trivial, others were not. The'
-p563
-aS"animals were not followed up for long term, they were simply discarded, so we don't"
-p564
-aS'know what would have happened to -- in old age. We do know that changing genetics'
-p565
-aS'makes a difference to what happens to us in our old age, and certainly the fetal origins'
-p566
-aS'of adult disease are very important. We know, for example, that stroke, diabetes, some'
-p567
-aS'cancers, may be caused by what happens in the environment of an embryo early on.'
-p568
-aS"And Pfizer has gone even further. It's looked at 74 different tests on mice that are bred"
-p569
-aS'after genetic modification, and 50 percent of the mice failed the phenotype test. And'
-p570
-aS'this is without, of course, testing the very things for which we would want to enhance'
-p571
-aS'people, i.e., intelligence and their ability to solve a problem.'
-p572
-aS"So let's just say one other thing, if I may, and that is that one of the problems, of course,"
-p573
-aS"is that one may modify genes, but we don't even know whether they will continue to"
-p574
-aS'function in the way. And there is a lot of evidence from the work we do in my own'
-p575
-aS'laboratory, which shows that gene expression in a modified animal stops after a while'
-p576
-aS'during development. Ladies and gentlemen, as I say, you have a responsibility here.'
-p577
-aS'You have a duty to lead the world to make certain that your medicine is ethical. Thank'
-p578
-aS'you.'
-p579
-asg16
-(dp580
-I33
-S'19:17:48'
-p581
-sI5
-S'19:15:13'
-p582
-sI74
-S'19:21:01'
-p583
-sI12
-S'19:15:54'
-p584
-sI48
-S'19:18:55'
-p585
-sI23
+p676
+ssg16
+(lp677
+S"And it's the 60th anniversary of your paper coming up, isn't it, on the DNA structure, which is a remarkable landmark."
+p678
+aS'Ladies and gentlemen, this is actually quite a simple proposition.'
+p679
+aS"And it's quite clear that what our opponents are recommending is something which Americans shiver at, which is experimentation without the consent of the individual being experimented upon."
+p680
+aS"It's worth looking very briefly at American history."
+p681
+aS'The history of eugenics, which started probably in Britain, with Francis Galton back in the 1850s, is still a scar to some extent on genetics.'
+p682
+aS'And Davenport, of course, and other people who followed him, I think, had a great deal of responsibility for the sterilization of women without consent, with the prevention of people who might want to make love together because they were different races were prevented by law in many states in the United States.'
+p683
+aS'And this is something, of course, which directly influenced the Nazi holocaust.'
+p684
+aS"And although it may seem farfetched, it's worth bearing in mind that the time when the planet is oppressed by the risk of global warming, and by the risk of conflict, by the risk of all sorts of serious issues on the economy, it may well be that people might want to see eugenics raising its ugly head again."
+p685
+aS'And the United States, in my view, as the leading biotechnological country in the world, has a major responsibility to lead it in this ethical issue.'
+p686
+aS'Now, as my partner has said, there are two concerns here.'
+p687
+aS'One is genetic engineering to change horrific genes such as these are mentioned, and the other, of course, is to enhance individuals.'
+p688
+aS'The problem, of course, is that once you go from one, I think you go to the other as well.'
+p689
+aS"And mitochondrial disease, let's just knock that on the head straightaway."
+p690
+aS"Mitochondrial disease, although it's a terrible thing to have, it is really trivial in terms of its incidence."
+p691
+aS"It's a very, very uncommon disorder."
+p692
+aS'And it is worrying to me that our opponents have got the numbers wrong.'
+p693
+aS"It isn't 2 percent of the DNA, it's 16,000 base pairs out 3 billion base pairs."
+p694
+aS"So it's a tiny amount of DNA, but we know already that even fiddling with the mitochondria may make a massive difference to what happens to the nuclear DNA."
+p695
+aS"It's still not clear."
+p696
+aS"And it's worth bearing in mind that abnormal children have been born as a result of mitochondrial transfer."
+p697
+aS'This has been completely unpredictable.'
+p698
+aS'Now, with regard to one of the issues about genetic engineering for enhancement, it will be permanent, it will be irreversible, and it may impart values to a child that, that child might find is not valuable in the society in which they are growing up.'
+p699
+aS'And, of course, with regard to disease, it is quite clear that screening embryos is a much better bet.'
+p700
+aS"If we take a cell away or the look at the biochemistry of an embryo, which you can now do, and detect the disease, we can simply substitute that embryo for another one in a clutch of eggs because, of course, a woman -- it's worth bearing in mind that the average childbearing woman watching this program will lose two eggs during the course of the program, each genetically unique."
+p701
+aS'The males, meanwhile, have made some 70,000 new sperm.'
+p702
+aS'Each of those are equally genetically unique, an every embryo is different.'
+p703
+aS'And therefore, to screen embryos which have a clear disease, by the techniques which are now being developed, is certainly possible and much safer than meddling with the genome.'
+p704
+aS'And, of course, what we have to understand is that we now know that the environmental influence on the embryo, the environmental influence on the fetus has a massive point, has a massive change, in how it grows up.'
+p705
+aS'And, in fact, really, what we should be trying to do -- rather than trying to risk making abnormal babies, what we should be trying to do is to improve the environment so that the DNA functions in the best possible way.'
+p706
+aS'There is a lot of evidence to show that a woman can change the cognitive ability, the intelligence of her fetus, by what she eats in pregnancy, what happens to her stress hormones in pregnancy, and this research is burgeoning.'
+p707
+aS'And that is something which we should really recognize in a democratic society as something that science should really concentrate on.'
+p708
+aS'Now, the big problem of course is that genetic engineering is unpredictable.'
+p709
+aS"And I'm going to give you two examples from the two biggest users of people who make genetically modified animals."
+p710
+aS'The most common place for genetically modified animals, of course, is in the pharmaceutical industry.'
+p711
+aS'Pretty well every drug is now tested -- nearly every drug will be tested on animals, where their genes have been modified to make a model for human disease or to look at the action of that drug.'
+p712
+aS"And if you look at the figures which are being published by two of the largest companies in the world, with very large series of mass models, you can see the problem you'd have with genetic engineering."
+p713
+aS'AstraZeneca published 51 different models, a vast number of mice in those models, 70 percent, ladies and gentlemen, of those animals were abnormal and the abnormality was unpredictable.'
+p714
+aS'Some of the abnormalities were trivial, others were not.'
+p715
+aS"The animals were not followed up for long term, they were simply discarded, so we don't know what would have happened to -- in old age."
+p716
+aS'We do know that changing genetics makes a difference to what happens to us in our old age, and certainly the fetal origins of adult disease are very important.'
+p717
+aS'We know, for example, that stroke, diabetes, some cancers, may be caused by what happens in the environment of an embryo early on.'
+p718
+aS'And Pfizer has gone even further.'
+p719
+aS"It's looked at 74 different tests on mice that are bred after genetic modification, and 50 percent of the mice failed the phenotype test."
+p720
+aS'And this is without, of course, testing the very things for which we would want to enhance people, i.e., intelligence and their ability to solve a problem.'
+p721
+aS"So let's just say one other thing, if I may, and that is that one of the problems, of course, is that one may modify genes, but we don't even know whether they will continue to function in the way."
+p722
+aS'And there is a lot of evidence from the work we do in my own laboratory, which shows that gene expression in a modified animal stops after a while during development.'
+p723
+aS'Ladies and gentlemen, as I say, you have a responsibility here.'
+p724
+aS'You have a duty to lead the world to make certain that your medicine is ethical.'
+p725
+aS'Thank you.'
+p726
+asg18
+(dp727
 S'19:16:56'
-p586
-sI62
-S'19:19:57'
-p587
-ssa(dp588
-g20
-(dp589
+p728
+I23
+sS'19:18:55'
+p729
+I48
+sS'19:19:57'
+p730
+I62
+sS'19:15:13'
+p731
+I5
+sS'19:21:01'
+p732
+I74
+sS'19:17:48'
+p733
+I33
+sS'19:15:54'
+p734
+I12
+ssa(dp735
+g22
+(dp736
 I1
 S'[applause]'
-p590
+p737
 sI5
 S'[applause]'
-p591
-ssg8
+p738
+ssg11
 S'JOHN DONVAN'
-p592
-sg10
-(dp593
+p739
+sg16
+(lp740
+S'Thank you, Robert Winston.'
+p741
+aS'And our final debater against the motion "prohibit genetically engineered babies," he is against prohibition; I\'d like to introduce Lee Silver.'
+p742
+aS'He is professor of molecular biology and public policy at Princeton.'
+p743
+aS'He is also founder and principal science advisor of GenePeeks, a personal genomics company.'
+p744
+aS'Ladies and gentlemen, Lee Silver.'
+p745
+asg18
+(dp746
+S'19:21:56'
+p747
+I5
+ssg8
+(lp748
+S'Thank you, Robert Winston.And our final debater against the motion "prohibit genetically engineered babies," he is [[applause]] against prohibition; I\'d like to introduce Lee Silver.'
+p749
+aS'He is professor of molecular biologyand public policy at Princeton.'
+p750
+aS'He is also founder and principal science advisor ofGenePeeks, a personal genomics company.'
+p751
+aS'Ladies and gentlemen, Lee Silver.'
+p752
+asg13
+(dp753
 I0
 S'15'
-p594
-ssg13
-(lp595
-S'Thank you, Robert Winston.'
-p596
-aS'And our final debater against the motion "prohibit genetically engineered babies," he is'
-p597
-aS"against prohibition; I'd like to introduce Lee Silver. He is professor of molecular biology"
-p598
-aS'and public policy at Princeton. He is also founder and principal science advisor of'
-p599
-aS'GenePeeks, a personal genomics company. Ladies and gentlemen, Lee Silver.'
-p600
-asg16
-(dp601
-I5
-S'19:21:56'
-p602
-ssa(dp603
-g20
-(dp604
+p754
+ssa(dp755
+g22
+(dp756
 I8
 S'[laughter]'
-p605
-ssg8
+p757
+ssg11
 S'LEE SILVER'
-p606
-sg10
-(dp607
+p758
+sg16
+(lp759
+S'Thank you.'
+p760
+aS'The proposition this evening is "prohibit genetically engineered babies.'
+p761
+aS'" Prohibit even if the purpose is to promote health; prohibit even if the recipients understand precisely the actual risk; prohibit even if it\'s safe; prohibit even if the technology is safer than doing nothing.'
+p762
+aS'I just need to convince you of one example of acceptability and you should vote to oppose the proposition.'
+p763
+aS"And my colleague has already talked very eloquently about mitochondrial DNA deficiency, and I'm going to go beyond that, because I hope to convince my opponents here to vote for my side of this proposition."
+p764
+aS"They've both written and talked quite eloquently about the use of genetics to prevent disease."
+p765
+aS'So what are we talking about here tonight when we talk about genetic engineering?'
+p766
+aS"Conceptually, it's very simple: genetic engineering will allow perspective parents to give their child genetic information that they themselves do not carry."
+p767
+aS"That's how genetic engineering will first be used, not soon, but that's the way it's first going to be applied."
+p768
+aS'And to understand what parents might want to give their children, we should examine the facts of genetics that have become available to us over the last five to ten years, have given us a very different perspective on the human genome than we had previously.'
+p769
+aS'And it revealed some unpleasant facts.'
+p770
+aS'I want you to look at the person sitting to the right of you.'
+p771
+aS"And if there's no one on the right, look at the person sitting to the left."
+p772
+aS'That person and you differ at over a million locations in your DNA.'
+p773
+aS"Most of those differences don't do anything."
+p774
+aS"But even if you're a healthy adult, at least 100 of those genetic variance can cause deadly childhood disease."
+p775
+aS"Not in you, of course, because you're sitting in the audience."
+p776
+aS'But in your grandchildren or their grandchildren.'
+p777
+aS'You carry thousands of other genetic variants, every one of you in this room, that impact your health and risk to thousands of diseases in different ways, including cancer and heart disease and neurological disease.'
+p778
+aS'And some of the variants that you carry are better than those of your neighbor to the right.'
+p779
+aS'Some are worse than those of your neighbor.'
+p780
+aS'And all in all, some of us are born with better health genes, and some are not.'
+p781
+aS'Now, if you have made a decision, you or a daughter, granddaughter, have made a decision to have a child, what do you hope for the most in that child?'
+p782
+aS'And Dr. Winston has spoken eloquently to this question many, many times.'
+p783
+aS'You hope for a healthy child.'
+p784
+aS"You'll love any child, but you hope for a healthy child."
+p785
+aS'And Dr. Winston has also said, and I agree, in pluralistic societies like yours and mine, genetic selection against diseased embryos is a matter for the individuals concerned.'
+p786
+aS'If you agree with Dr. Winston on this point, it follows that you should be willing to accept genetic engineering when needed to accomplish the same goal.'
+p787
+aS"But, you might worry, doesn't this violate Mother Nature?"
+p788
+aS"Well, I'm here to tell you that Mother Nature doesn't care at all about you or your baby."
+p789
+aS'Throughout the history of the human species, Mother Nature has engaged in all-out warfare against us with infectious diseases caused by viruses and bacteria.'
+p790
+aS"And it's only in the last century that we gained the knowledge and power to fight back with vaccines and antibiotics and other medicines."
+p791
+aS'Now, do some people abuse pharmaceutical drugs?'
+p792
+aS'Of course there is abuse out there.'
+p793
+aS"But that doesn't mean that we should prohibit medicine."
+p794
+aS"With infectious diseases essentially vanquished in our society, although not everywhere in the world, the next target in our sights is Mother Nature's genetic wrath."
+p795
+aS"Unfortunately, if you're in the audience, it's too late to do anything about the genome and the hundreds of trillions of cells in your body."
+p796
+aS'But we can think about the future.'
+p797
+aS"You can think about your children's children and their children's children, because the expansive amount of knowledge we are gaining about the genome has flabbergasted even those of us who are most optimistic about this science."
+p798
+aS"So let's think about the next generation or the generation after that."
+p799
+aS"Now, Mother Nature is a metaphor, and it's a really bad metaphor because in reality, inheritance is a game of craps."
+p800
+aS'You throw the dice, you hold your breath, you hope your child is healthy.'
+p801
+aS"It won't have to be that way in the future when we learn how to take the genetic dice, place them on the table in the way that is going to promote health most likely for the child to be."
+p802
+aS'What about the risks?'
+p803
+aS"We've heard about the risks from both of the proponents of this proposition, the precautionary principle is often mentioned."
+p804
+aS"You shouldn't deploy a technology until all of the unknowable risks are known."
+p805
+aS"And we can't possibly understand how genes work because the whole system of life is very complex."
+p806
+aS'And if we put a new gene in, it might have unattended consequences.'
+p807
+aS'And I agree with the proponents of the proposition.'
+p808
+aS"We don't understand genetics."
+p809
+aS"It's very complex, and it's more complex the more we understand it."
+p810
+aS'But what society and people can do in the future is consider genetic information that already exists in some people but not others.'
+p811
+aS'I want to focus your mind on the fact, as I said a moment ago, we all carry thousands of genetic variants, some of which are promoting health and some of which are not.'
+p812
+aS'And even if a variant is in just 1 percent of the population out there, we can study the effects of that genetic variant in the people who carry that variant.'
+p813
+aS'And we can see the benefits or not of that variant.'
+p814
+aS'So the precautionary principle is not in effect here.'
+p815
+aS'I want to conclude that if you are thinking about voting for this proposition, you\'ll need to explain why you did so when your daughter or granddaughter comes to you with the following question: "Dad, grandpa, why can\'t I give my child health-promoting, disease- preventing genes that other children get naturally?'
+p816
+aS'" If you can\'t answer that question, you must vote no on this proposition.'
+p817
+asg18
+(dp818
+S'19:25:58'
+p819
+I42
+sS'19:29:09'
+p820
+I76
+sS'19:23:15'
+p821
+I14
+sS'19:27:01'
+p822
+I54
+sS'19:24:08'
+p823
+I23
+sS'19:24:55'
+p824
+I31
+sS'19:27:59'
+p825
+I64
+ssg8
+(lp826
+S'Thank you.'
+p827
+aS'The proposition this evening is "prohibit genetically engineered babies.'
+p828
+aS'"Prohibit even if the purpose is to promote health; prohibit even if the recipientsunderstand precisely the actual risk; prohibit even if it\'s safe; prohibit even if thetechnology is safer than doing nothing.'
+p829
+aS'I just need to convince you of one example ofacceptability and you should vote to oppose the proposition.'
+p830
+aS"And my colleague hasalready talked very eloquently about mitochondrial DNA deficiency, and I'm going to gobeyond that, because I hope to convince my opponents here to vote for my side of thisproposition.They've both written and talked quite eloquently about the use of genetics to prevent [[laughter]] disease."
+p831
+aS'So what are we talking about here tonight when we talk about geneticengineering?'
+p832
+aS"Conceptually, it's very simple: genetic engineering will allow perspectiveparents to give their child genetic information that they themselves do not carry."
+p833
+aS"That'show genetic engineering will first be used, not soon, but that's the way it's first going tobe applied.And to understand what parents might want to give their children, we should examinethe facts of genetics that have become available to us over the last five to ten years,have given us a very different perspective on the human genome than we hadpreviously."
+p834
+aS'And it revealed some unpleasant facts.'
+p835
+aS'I want you to look at the personsitting to the right of you.'
+p836
+aS"And if there's no one on the right, look at the person sittingto the left."
+p837
+aS'That person and you differ at over a million locations in your DNA.'
+p838
+aS"Most ofthose differences don't do anything."
+p839
+aS"But even if you're a healthy adult, at least 100 ofthose genetic variance can cause deadly childhood disease."
+p840
+aS"Not in you, of course,because you're sitting in the audience."
+p841
+aS'But in your grandchildren or their grandchildren.You carry thousands of other genetic variants, every one of you in this room, thatimpact your health and risk to thousands of diseases in different ways, including cancerand heart disease and neurological disease.'
+p842
+aS'And some of the variants that you carry arebetter than those of your neighbor to the right.'
+p843
+aS'Some are worse than those of yourneighbor.'
+p844
+aS'And all in all, some of us are born with better health genes, and some are not.Now, if you have made a decision, you or a daughter, granddaughter, have made adecision to have a child, what do you hope for the most in that child?'
+p845
+aS'And Dr. Winstonhas spoken eloquently to this question many, many times.You hope for a healthy child.'
+p846
+aS"You'll love any child, but you hope for a healthy child."
+p847
+aS'AndDr.'
+p848
+aS'Winston has also said, and I agree, in pluralistic societies like yours and mine, geneticselection against diseased embryos is a matter for the individuals concerned.'
+p849
+aS"If youagree with Dr. Winston on this point, it follows that you should be willing to acceptgenetic engineering when needed to accomplish the same goal.But, you might worry, doesn't this violate Mother Nature?"
+p850
+aS"Well, I'm here to tell you thatMother Nature doesn't care at all about you or your baby."
+p851
+aS'Throughout the history ofthe human species, Mother Nature has engaged in all-out warfare against us withinfectious diseases caused by viruses and bacteria.'
+p852
+aS"And it's only in the last century thatwe gained the knowledge and power to fight back with vaccines and antibiotics andother medicines.Now, do some people abuse pharmaceutical drugs?"
+p853
+aS"Of course there is abuse out there.But that doesn't mean that we should prohibit medicine."
+p854
+aS"With infectious diseasesessentially vanquished in our society, although not everywhere in the world, the nexttarget in our sights is Mother Nature's genetic wrath."
+p855
+aS"Unfortunately, if you're in theaudience, it's too late to do anything about the genome and the hundreds of trillions ofcells in your body."
+p856
+aS'But we can think about the future.'
+p857
+aS"You can think about yourchildren's children and their children's children, because the expansive amount ofknowledge we are gaining about the genome has flabbergasted even those of us whoare most optimistic about this science.So let's think about the next generation or the generation after that."
+p858
+aS"Now, MotherNature is a metaphor, and it's a really bad metaphor because in reality, inheritance is agame of craps.You throw the dice, you hold your breath, you hope your child is healthy."
+p859
+aS"It won't haveto be that way in the future when we learn how to take the genetic dice, place them onthe table in the way that is going to promote health most likely for the child to be.What about the risks?"
+p860
+aS"We've heard about the risks from both of the proponents of thisproposition, the precautionary principle is often mentioned."
+p861
+aS"You shouldn't deploy atechnology until all of the unknowable risks are known."
+p862
+aS"And we can't possiblyunderstand how genes work because the whole system of life is very complex."
+p863
+aS'And ifwe put a new gene in, it might have unattended consequences.'
+p864
+aS'And I agree with theproponents of the proposition.'
+p865
+aS"We don't understand genetics."
+p866
+aS"It's very complex, andit's more complex the more we understand it.But what society and people can do in the future is consider genetic information thatalready exists in some people but not others."
+p867
+aS'I want to focus your mind on the fact, as Isaid a moment ago, we all carry thousands of genetic variants, some of which arepromoting health and some of which are not.'
+p868
+aS'And even if a variant is in just 1 percent ofthe population out there, we can study the effects of that genetic variant in the peoplewho carry that variant.'
+p869
+aS'And we can see the benefits or not of that variant.'
+p870
+aS'So theprecautionary principle is not in effect here.I want to conclude that if you are thinking about voting for this proposition, you\'ll needto explain why you did so when your daughter or granddaughter comes to you with thefollowing question: "Dad, grandpa, why can\'t I give my child health-promoting, disease-preventing genes that other children get naturally?'
+p871
+aS'" If you can\'t answer that question,you must vote no on this proposition.'
+p872
+asg13
+(dp873
 I54
 S'17'
-p608
+p874
 sI23
 S'16'
-p609
-ssg13
-(lp610
-S'Thank you. The proposition this evening is "prohibit genetically engineered babies."'
-p611
-aS'Prohibit even if the purpose is to promote health; prohibit even if the recipients'
-p612
-aS"understand precisely the actual risk; prohibit even if it's safe; prohibit even if the"
-p613
-aS'technology is safer than doing nothing. I just need to convince you of one example of'
-p614
-aS'acceptability and you should vote to oppose the proposition. And my colleague has'
-p615
-aS"already talked very eloquently about mitochondrial DNA deficiency, and I'm going to go"
-p616
-aS'beyond that, because I hope to convince my opponents here to vote for my side of this'
-p617
-aS'proposition.'
-p618
-aS"They've both written and talked quite eloquently about the use of genetics to prevent"
-p619
-aS'disease. So what are we talking about here tonight when we talk about genetic'
-p620
-aS"engineering? Conceptually, it's very simple: genetic engineering will allow perspective"
-p621
-aS"parents to give their child genetic information that they themselves do not carry. That's"
-p622
-aS"how genetic engineering will first be used, not soon, but that's the way it's first going to"
-p623
-aS'be applied.'
-p624
-aS'And to understand what parents might want to give their children, we should examine'
-p625
-aS'the facts of genetics that have become available to us over the last five to ten years,'
-p626
-aS'have given us a very different perspective on the human genome than we had'
-p627
-aS'previously. And it revealed some unpleasant facts. I want you to look at the person'
-p628
-aS"sitting to the right of you. And if there's no one on the right, look at the person sitting"
-p629
-aS'to the left. That person and you differ at over a million locations in your DNA. Most of'
-p630
-aS"those differences don't do anything. But even if you're a healthy adult, at least 100 of"
-p631
-aS'those genetic variance can cause deadly childhood disease. Not in you, of course,'
-p632
-aS"because you're sitting in the audience. But in your grandchildren or their grandchildren."
-p633
-aS'You carry thousands of other genetic variants, every one of you in this room, that'
-p634
-aS'impact your health and risk to thousands of diseases in different ways, including cancer'
-p635
-aS'and heart disease and neurological disease. And some of the variants that you carry are'
-p636
-aS'better than those of your neighbor to the right. Some are worse than those of your'
-p637
-aS'neighbor. And all in all, some of us are born with better health genes, and some are not.'
-p638
-aS'Now, if you have made a decision, you or a daughter, granddaughter, have made a'
-p639
-aS'decision to have a child, what do you hope for the most in that child? And Dr. Winston'
-p640
-aS'has spoken eloquently to this question many, many times.'
-p641
-aS"You hope for a healthy child. You'll love any child, but you hope for a healthy child. And"
-p642
-aS'Dr. Winston has also said, and I agree, in pluralistic societies like yours and mine, genetic'
-p643
-aS'selection against diseased embryos is a matter for the individuals concerned. If you'
-p644
-aS'agree with Dr. Winston on this point, it follows that you should be willing to accept'
-p645
-aS'genetic engineering when needed to accomplish the same goal.'
-p646
-aS"But, you might worry, doesn't this violate Mother Nature? Well, I'm here to tell you that"
-p647
-aS"Mother Nature doesn't care at all about you or your baby. Throughout the history of"
-p648
-aS'the human species, Mother Nature has engaged in all-out warfare against us with'
-p649
-aS"infectious diseases caused by viruses and bacteria. And it's only in the last century that"
-p650
-aS'we gained the knowledge and power to fight back with vaccines and antibiotics and'
-p651
-aS'other medicines.'
-p652
-aS'Now, do some people abuse pharmaceutical drugs? Of course there is abuse out there.'
-p653
-aS"But that doesn't mean that we should prohibit medicine. With infectious diseases"
-p654
-aS'essentially vanquished in our society, although not everywhere in the world, the next'
-p655
-aS"target in our sights is Mother Nature's genetic wrath. Unfortunately, if you're in the"
-p656
-aS"audience, it's too late to do anything about the genome and the hundreds of trillions of"
-p657
-aS'cells in your body. But we can think about the future. You can think about your'
-p658
-aS"children's children and their children's children, because the expansive amount of"
-p659
-aS'knowledge we are gaining about the genome has flabbergasted even those of us who'
-p660
-aS'are most optimistic about this science.'
-p661
-aS"So let's think about the next generation or the generation after that. Now, Mother"
-p662
-aS"Nature is a metaphor, and it's a really bad metaphor because in reality, inheritance is a"
-p663
-aS'game of craps.'
-p664
-aS"You throw the dice, you hold your breath, you hope your child is healthy. It won't have"
-p665
-aS'to be that way in the future when we learn how to take the genetic dice, place them on'
-p666
-aS'the table in the way that is going to promote health most likely for the child to be.'
-p667
-aS"What about the risks? We've heard about the risks from both of the proponents of this"
-p668
-aS"proposition, the precautionary principle is often mentioned. You shouldn't deploy a"
-p669
-aS"technology until all of the unknowable risks are known. And we can't possibly"
-p670
-aS'understand how genes work because the whole system of life is very complex. And if'
-p671
-aS'we put a new gene in, it might have unattended consequences. And I agree with the'
-p672
-aS"proponents of the proposition. We don't understand genetics. It's very complex, and"
-p673
-aS"it's more complex the more we understand it."
-p674
-aS'But what society and people can do in the future is consider genetic information that'
-p675
-aS'already exists in some people but not others. I want to focus your mind on the fact, as I'
-p676
-aS'said a moment ago, we all carry thousands of genetic variants, some of which are'
-p677
-aS'promoting health and some of which are not. And even if a variant is in just 1 percent of'
-p678
-aS'the population out there, we can study the effects of that genetic variant in the people'
-p679
-aS'who carry that variant. And we can see the benefits or not of that variant. So the'
-p680
-aS'precautionary principle is not in effect here.'
-p681
-aS"I want to conclude that if you are thinking about voting for this proposition, you'll need"
-p682
-aS'to explain why you did so when your daughter or granddaughter comes to you with the'
-p683
-aS'following question: "Dad, grandpa, why can\'t I give my child health-promoting, disease-'
-p684
-aS'preventing genes that other children get naturally?" If you can\'t answer that question,'
-p685
-aS'you must vote no on this proposition.'
-p686
-asg16
-(dp687
-I64
-S'19:27:59'
-p688
-sI42
-S'19:25:58'
-p689
-sI76
-S'19:29:09'
-p690
-sI14
-S'19:23:15'
-p691
-sI54
-S'19:27:01'
-p692
-sI23
-S'19:24:08'
-p693
-sI31
-S'19:24:55'
-p694
-ssa(dp695
+p875
+ssa(dp876
 g8
+(lp877
+S'Thank you, Lee Silver.'
+p878
+aS'And that concludes round one of this Intelligence Squared U.S.debate where our motion is, prohibit genetically engineered babies.And now we move on to round two.'
+p879
+aS'Round two is where the debaters address eachother and take questions from me and you in the audience.'
+p880
+aS'Our motion is "prohibitgenetically engineered babies.'
+p881
+aS'" We have two teams of two arguing it.'
+p882
+aS'The teamarguing for the prohibition include Sheldon Krimsky and Robert Winston.'
+p883
+aS'They havemade an argument, as I hear it, that goes both scientifically and morally.'
+p884
+aS'The scientificargument boiled down is that genetics is an enormously complex field.'
+p885
+aS'It is not yet wellunderstood, that there is enormous potential for horrendous mistakes to be made.The crux of their moral argument is that the pursuit of a myth of human perfection isimmoral and ultimately corrosive.'
+p886
+aS'The Nazis fell for it with calamitous results.'
+p887
+aS"They'retalking about a slippery slope that we're just at the beginning of now.The team arguing against the prohibition says, No."
+p888
+aS'1, it would be -- the immoral thing isto ignore the opportunity to use genetics as a tool to correct and avoid enormoussituations of pain and suffering, that the United States will be left behind in somethingthat has already begun to happen.'
+p889
+aS"And in terms of the complexity, we just heard that infact there is a way to find a road map through this forest by studying what is knownalready, what is observed in the population, that it's not -- that there's not a way intothis -- into this forest and a way out of it again.So I want to put questions to each of the sides in turn."
+p890
+aS'And I want to begin with just thisbroad notion of the U.S. being left behind.'
+p891
+aS"Since we're talking about a prohibition,we're talking about, in that sense, something legal or regulatory."
+p892
+aS'The side arguingagainst prohibition says the net result of that would be to leave the U.S. behind insomething that is happening already, that this train has left the station.'
+p893
+aS'SheldonKrimsky, can you respond to that?'
+p894
+asg11
 S'JOHN DONVAN'
-p696
-sg10
-(dp697
+p895
+sg13
+(dp896
 I9
 S'18'
-p698
-ssg13
-(lp699
-S'Thank you, Lee Silver. And that concludes round one of this Intelligence Squared U.S.'
-p700
-aS'debate where our motion is, prohibit genetically engineered babies.'
-p701
-aS'And now we move on to round two. Round two is where the debaters address each'
-p702
-aS'other and take questions from me and you in the audience. Our motion is "prohibit'
-p703
-aS'genetically engineered babies." We have two teams of two arguing it. The team'
-p704
-aS'arguing for the prohibition include Sheldon Krimsky and Robert Winston. They have'
-p705
-aS'made an argument, as I hear it, that goes both scientifically and morally. The scientific'
-p706
-aS'argument boiled down is that genetics is an enormously complex field. It is not yet well'
-p707
-aS'understood, that there is enormous potential for horrendous mistakes to be made.'
-p708
-aS'The crux of their moral argument is that the pursuit of a myth of human perfection is'
-p709
-aS"immoral and ultimately corrosive. The Nazis fell for it with calamitous results. They're"
-p710
-aS"talking about a slippery slope that we're just at the beginning of now."
-p711
-aS'The team arguing against the prohibition says, No. 1, it would be -- the immoral thing is'
-p712
-aS'to ignore the opportunity to use genetics as a tool to correct and avoid enormous'
-p713
-aS'situations of pain and suffering, that the United States will be left behind in something'
-p714
-aS'that has already begun to happen. And in terms of the complexity, we just heard that in'
-p715
-aS'fact there is a way to find a road map through this forest by studying what is known'
-p716
-aS"already, what is observed in the population, that it's not -- that there's not a way into"
-p717
-aS'this -- into this forest and a way out of it again.'
-p718
-aS'So I want to put questions to each of the sides in turn. And I want to begin with just this'
-p719
-aS"broad notion of the U.S. being left behind. Since we're talking about a prohibition,"
-p720
-aS"we're talking about, in that sense, something legal or regulatory. The side arguing"
-p721
-aS'against prohibition says the net result of that would be to leave the U.S. behind in'
-p722
-aS'something that is happening already, that this train has left the station. Sheldon'
-p723
-aS'Krimsky, can you respond to that?'
-p724
-asg16
-(dp725
-I9
-S'19:29:58'
-p726
-sI19
+p897
+ssg16
+(lp898
+S'Thank you, Lee Silver.'
+p899
+aS'And that concludes round one of this Intelligence Squared U.S. debate where our motion is, prohibit genetically engineered babies.'
+p900
+aS'And now we move on to round two.'
+p901
+aS'Round two is where the debaters address each other and take questions from me and you in the audience.'
+p902
+aS'Our motion is "prohibit genetically engineered babies.'
+p903
+aS'" We have two teams of two arguing it.'
+p904
+aS'The team arguing for the prohibition include Sheldon Krimsky and Robert Winston.'
+p905
+aS'They have made an argument, as I hear it, that goes both scientifically and morally.'
+p906
+aS'The scientific argument boiled down is that genetics is an enormously complex field.'
+p907
+aS'It is not yet well understood, that there is enormous potential for horrendous mistakes to be made.'
+p908
+aS'The crux of their moral argument is that the pursuit of a myth of human perfection is immoral and ultimately corrosive.'
+p909
+aS'The Nazis fell for it with calamitous results.'
+p910
+aS"They're talking about a slippery slope that we're just at the beginning of now."
+p911
+aS'The team arguing against the prohibition says, No.'
+p912
+aS'1, it would be -- the immoral thing is to ignore the opportunity to use genetics as a tool to correct and avoid enormous situations of pain and suffering, that the United States will be left behind in something that has already begun to happen.'
+p913
+aS"And in terms of the complexity, we just heard that in fact there is a way to find a road map through this forest by studying what is known already, what is observed in the population, that it's not -- that there's not a way into this -- into this forest and a way out of it again."
+p914
+aS'So I want to put questions to each of the sides in turn.'
+p915
+aS'And I want to begin with just this broad notion of the U.S. being left behind.'
+p916
+aS"Since we're talking about a prohibition, we're talking about, in that sense, something legal or regulatory."
+p917
+aS'The side arguing against prohibition says the net result of that would be to leave the U.S. behind in something that is happening already, that this train has left the station.'
+p918
+aS'Sheldon Krimsky, can you respond to that?'
+p919
+asg18
+(dp920
 S'19:30:52'
-p727
-ssa(dp728
+p921
+I19
+sS'19:29:58'
+p922
+I9
+ssa(dp923
 g8
+(lp924
+S"Well, that's an all-purpose argument that you can apply for many things."
+p925
+aS'We have allkind of moral provisions in the United States.'
+p926
+aS"We don't allow the sale of organs."
+p927
+aS'Werestrict certain types of uses of viruses in research.'
+p928
+aS'We prohibit certain experimentswith animals that are considered immoral.'
+p929
+aS'We can always use that argument and saysomebody will be left behind, but we have to establish moral principles and safetyprinciples that make sense to our scientific community and our general society.'
+p930
+asg11
 S'SHELDON KRIMSKY'
-p729
-sg13
-(lp730
-S"Well, that's an all-purpose argument that you can apply for many things. We have all"
-p731
-aS"kind of moral provisions in the United States. We don't allow the sale of organs. We"
-p732
-aS'restrict certain types of uses of viruses in research. We prohibit certain experiments'
-p733
-aS'with animals that are considered immoral. We can always use that argument and say'
-p734
-aS'somebody will be left behind, but we have to establish moral principles and safety'
-p735
-aS'principles that make sense to our scientific community and our general society.'
-p736
-asg16
-(dp737
-I6
+p931
+sg16
+(lp932
+S"Well, that's an all-purpose argument that you can apply for many things."
+p933
+aS'We have all kind of moral provisions in the United States.'
+p934
+aS"We don't allow the sale of organs."
+p935
+aS'We restrict certain types of uses of viruses in research.'
+p936
+aS'We prohibit certain experiments with animals that are considered immoral.'
+p937
+aS'We can always use that argument and say somebody will be left behind, but we have to establish moral principles and safety principles that make sense to our scientific community and our general society.'
+p938
+asg18
+(dp939
 S'19:31:59'
-p738
-ssa(dp739
+p940
+I6
+ssa(dp941
 g8
+(lp942
+S'Thank you, Sheldon.'
+p943
+aS'And I just want to ask the panelists not to hold the mic, because ofvibrations are picked up.'
+p944
+aS'Nita Farahany, your response.'
+p945
+asg11
 S'JOHN DONVAN'
-p740
-sg13
-(lp741
-S'Thank you, Sheldon. And I just want to ask the panelists not to hold the mic, because of'
-p742
-aS'vibrations are picked up. Nita Farahany, your response.'
-p743
-asa(dp744
+p946
+sg16
+(lp947
+S'Thank you, Sheldon.'
+p948
+aS'And I just want to ask the panelists not to hold the mic, because of vibrations are picked up.'
+p949
+aS'Nita Farahany, your response.'
+p950
+asa(dp951
 g8
+(lp952
+S"It's true that this is an argument one could make in nearly any area, but it's different inthis one because this isn't just that other countries are doing it."
+p953
+aS"It's that other countrieshave studied it, they have found it to be scientifically and ethically valid."
+p954
+aS'The U.K. hasthe human fertilization and embryology authority.'
+p955
+aS'Unlike the U.S., things happen therewith oversight, public oversight.'
+p956
+aS'This organization held a long inquiry inviting scientificand ethical input.'
+p957
+aS'The Nuffield Council on Bioethics likewise in the U.K. looked intomitochondrial DNA transfer.'
+p958
+aS'What they urged the U.K. to do is to green light thistechnology and go ahead.'
+p959
+aS'We are not saying all genetic engineering.'
+p960
+aS'This particulartype has the green light.'
+p961
+aS'We would be left behind if we decide to prohibit it.'
+p962
+asg11
 S'NITA FARAHANY'
-p745
-sg10
-(dp746
+p963
+sg13
+(dp964
 I7
 S'19'
-p747
-ssg13
-(lp748
-S"It's true that this is an argument one could make in nearly any area, but it's different in"
-p749
-aS"this one because this isn't just that other countries are doing it. It's that other countries"
-p750
-aS'have studied it, they have found it to be scientifically and ethically valid. The U.K. has'
-p751
-aS'the human fertilization and embryology authority. Unlike the U.S., things happen there'
-p752
-aS'with oversight, public oversight. This organization held a long inquiry inviting scientific'
-p753
-aS'and ethical input. The Nuffield Council on Bioethics likewise in the U.K. looked into'
-p754
-aS'mitochondrial DNA transfer. What they urged the U.K. to do is to green light this'
-p755
-aS'technology and go ahead. We are not saying all genetic engineering. This particular'
-p756
-aS'type has the green light. We would be left behind if we decide to prohibit it.'
-p757
-asa(dp758
+p965
+ssg16
+(lp966
+S"It's true that this is an argument one could make in nearly any area, but it's different in this one because this isn't just that other countries are doing it."
+p967
+aS"It's that other countries have studied it, they have found it to be scientifically and ethically valid."
+p968
+aS'The U.K. has the human fertilization and embryology authority.'
+p969
+aS'Unlike the U.S., things happen there with oversight, public oversight.'
+p970
+aS'This organization held a long inquiry inviting scientific and ethical input.'
+p971
+aS'The Nuffield Council on Bioethics likewise in the U.K. looked into mitochondrial DNA transfer.'
+p972
+aS'What they urged the U.K. to do is to green light this technology and go ahead.'
+p973
+aS'We are not saying all genetic engineering.'
+p974
+aS'This particular type has the green light.'
+p975
+aS'We would be left behind if we decide to prohibit it.'
+p976
+asa(dp977
 g8
-S'JOHN DONVAN'
-p759
-sg13
-(lp760
+(lp978
 S'Robert Winston, your opponent.'
-p761
-asg16
-(dp762
-I1
+p979
+asg11
+S'JOHN DONVAN'
+p980
+sg16
+(lp981
+g979
+asg18
+(dp982
 S'19:33:00'
-p763
-ssa(dp764
+p983
+I1
+ssa(dp984
 g8
+(lp985
+S"Well, it's nice to be able to answer Nita firsthand, because, of course, I happen to be amember of the British Parliament, the upper house, and we voted overwhelmingly toabolish the Human Fertilisation and Embryology Authority because it's useless."
+p986
+aS"Andactually it's inhibited research."
+p987
+aS"It's not a very good way of regulating."
+p988
+aS"So I don't thinkyou should hold up the British model."
+p989
+aS'What is needed actually -- what I think is neededis a consensus amongst all of us that we act as far as we can ethically and in the bestinterest of patients, whatever that might mean.'
+p990
+asg11
 S'LORD ROBERT WINSTON'
-p765
-sg13
-(lp766
-S"Well, it's nice to be able to answer Nita firsthand, because, of course, I happen to be a"
-p767
-aS'member of the British Parliament, the upper house, and we voted overwhelmingly to'
-p768
-aS"abolish the Human Fertilisation and Embryology Authority because it's useless. And"
-p769
-aS"actually it's inhibited research. It's not a very good way of regulating. So I don't think"
-p770
-aS'you should hold up the British model. What is needed actually -- what I think is needed'
-p771
-aS'is a consensus amongst all of us that we act as far as we can ethically and in the best'
-p772
-aS'interest of patients, whatever that might mean.'
-p773
-asa(dp774
+p991
+sg16
+(lp992
+S"Well, it's nice to be able to answer Nita firsthand, because, of course, I happen to be a member of the British Parliament, the upper house, and we voted overwhelmingly to abolish the Human Fertilisation and Embryology Authority because it's useless."
+p993
+aS"And actually it's inhibited research."
+p994
+aS"It's not a very good way of regulating."
+p995
+aS"So I don't think you should hold up the British model."
+p996
+aS'What is needed actually -- what I think is needed is a consensus amongst all of us that we act as far as we can ethically and in the best interest of patients, whatever that might mean.'
+p997
+asa(dp998
 g8
-S'JOHN DONVAN'
-p775
-sg13
-(lp776
+(lp999
 S'Nita, do you want to respond?'
-p777
-asa(dp778
-g8
-S'NITA FARAHANY'
-p779
-sg13
-(lp780
-S'Sure, yeah, I also agree, we should act ethically. And the most ethical thing to do in'
-p781
-aS'circumstances where the only way to prevent a particular type of disease where we'
-p782
-aS'readily have a technology available that people will avail themselves of either in this'
-p783
-aS'country or another one is to give the green light to proceed.'
-p784
-aS'The ethical way to proceed is to study a technology, to have an open public debate'
-p785
-aS'about a technology, to have scientific valid -- scientifically valid studies that are allowed'
-p786
-aS'to proceed. This technology is proceeding. This technology can save lives. It has saved'
-p787
-aS'lives. We would be taking a drastic step backward.'
-p788
-asg16
-(dp789
-I4
-S'19:33:53'
-p790
-ssa(dp791
-g8
+p1000
+asg11
 S'JOHN DONVAN'
-p792
-sg13
-(lp793
-S'Sheldon Krimsky.'
-p794
-asa(dp795
+p1001
+sg16
+(lp1002
+g1000
+asa(dp1003
 g8
+(lp1004
+S'Sure, yeah, I also agree, we should act ethically.'
+p1005
+aS'And the most ethical thing to do incircumstances where the only way to prevent a particular type of disease where wereadily have a technology available that people will avail themselves of either in thiscountry or another one is to give the green light to proceed.The ethical way to proceed is to study a technology, to have an open public debateabout a technology, to have scientific valid -- scientifically valid studies that are allowedto proceed.'
+p1006
+aS'This technology is proceeding.'
+p1007
+aS'This technology can save lives.'
+p1008
+aS'It has savedlives.'
+p1009
+aS'We would be taking a drastic step backward.'
+p1010
+asg11
+S'NITA FARAHANY'
+p1011
+sg16
+(lp1012
+S'Sure, yeah, I also agree, we should act ethically.'
+p1013
+aS'And the most ethical thing to do in circumstances where the only way to prevent a particular type of disease where we readily have a technology available that people will avail themselves of either in this country or another one is to give the green light to proceed.'
+p1014
+aS'The ethical way to proceed is to study a technology, to have an open public debate about a technology, to have scientific valid -- scientifically valid studies that are allowed to proceed.'
+p1015
+aS'This technology is proceeding.'
+p1016
+aS'This technology can save lives.'
+p1017
+aS'It has saved lives.'
+p1018
+aS'We would be taking a drastic step backward.'
+p1019
+asg18
+(dp1020
+S'19:33:53'
+p1021
+I4
+ssa(dp1022
+g8
+(lp1023
+S'Sheldon Krimsky.'
+p1024
+asg11
+S'JOHN DONVAN'
+p1025
+sg16
+(lp1026
+g1024
+asa(dp1027
+g8
+(lp1028
+S'Sharon was mentioned.'
+p1029
+aS"I don't know her personally."
+p1030
+aS"And I'm so happy that she had asuccessful pregnancy."
+p1031
+aS'But she had choices.'
+p1032
+aS"One of her choices was to adopt someoneelse's egg and have a baby."
+p1033
+aS"She -- it wouldn't be her DNA but it would be somebodyelse's DNA."
+p1034
+aS'Another choice would be for her to adopt a child, which, you know, iscertainly a desirable thing to do in a world where there are children who need adoption.What is the urgency of people to have their DNA in their child?'
+p1035
+aS'In fact, most of thethings that our children get do not get from our DNA, they get from all theenhancement that we give them, so there\'s this obsession that "My child has to have myDNA.'
+p1036
+aS'" She did have some other choices.'
+p1037
+aS'The risks that she took were real.'
+p1038
+asg11
 S'SHELDON KRIMSKY'
-p796
-sg10
-(dp797
+p1039
+sg13
+(dp1040
 I5
 S'20'
-p798
-ssg13
-(lp799
-S"Sharon was mentioned. I don't know her personally. And I'm so happy that she had a"
-p800
-aS'successful pregnancy. But she had choices. One of her choices was to adopt someone'
-p801
-aS"else's egg and have a baby. She -- it wouldn't be her DNA but it would be somebody"
-p802
-aS"else's DNA. Another choice would be for her to adopt a child, which, you know, is"
-p803
-aS'certainly a desirable thing to do in a world where there are children who need adoption.'
-p804
-aS'What is the urgency of people to have their DNA in their child? In fact, most of the'
-p805
-aS'things that our children get do not get from our DNA, they get from all the'
-p806
-aS'enhancement that we give them, so there\'s this obsession that "My child has to have my'
-p807
-aS'DNA." She did have some other choices. The risks that she took were real.'
-p808
-asg16
-(dp809
-I5
-S'19:34:51'
-p810
-ssa(dp811
-g8
-S'JOHN DONVAN'
-p812
-sg13
-(lp813
-S'Lee Silver.'
-p814
-asa(dp815
-g8
-S'LEE SILVER'
-p816
-sg13
-(lp817
-S'Well, Professor Krimsky and I both have children here in the audience, so we --'
-p818
-asa(dp819
-g8
-S'JOHN DONVAN'
-p820
-sg13
-(lp821
-S'I want to point out also that you two live in the same apartment building.'
-p822
-asa(dp823
-g20
-(dp824
-I1
-S'[laughter]'
-p825
-ssg8
-S'LEE SILVER'
-p826
-sg13
-(lp827
-S'We live in the same building --'
-p828
-asa(dp829
-g8
-S'JOHN DONVAN'
-p830
-sg13
-(lp831
-S'And that sometimes you meet up for coffee downstairs in the shop, and you have this'
-p832
-aS'out quite a bit.'
-p833
-asa(dp834
-g20
-(dp835
-I1
-S'[laughter]'
-p836
-sI2
-S'[laughter]'
-p837
-ssg8
-S'LEE SILVER'
-p838
-sg10
-(dp839
-I9
-S'21'
-p840
-ssg13
-(lp841
-S"We have coffee at Jack's, the best coffee in the city."
-p842
-aS'And I have no conflict there.'
-p843
-aS"And we both have children in the audience, so we've used our ability to reproduce to"
-p844
-aS"have our children who I'm sure that you love your children as much as I love mine."
-p845
-aS"I don't think we should discriminate against those people who, for whatever reason, are"
-p846
-aS'unable to reproduce and say, "Well, they don\'t have the ability, therefore, they should'
-p847
-aS'be adopting or solving other societal problems." I don\'t think that\'s fair because we'
-p848
-aS"don't ask ourselves to adopt, although a very, very few people do, so I question the"
-p849
-aS'alternative here.'
-p850
-asg16
-(dp851
-I4
-S'19:35:56'
-p852
-ssa(dp853
-g8
-S'JOHN DONVAN'
-p854
-sg13
-(lp855
-S'Sheldon, I want to put a question to you, or Robert, whoever wants to take it, that your'
-p856
-aS'opponents in their opening statements focused primarily on enhancement that'
-p857
-aS'ameliorates negatives. They mostly talked about helping produce children who'
-p858
-aS"wouldn't have dreaded illnesses, conditions, and diseases. Before we get on to the"
-p859
-aS'other side of it about enhancing -- you know, to create pretty people and tall people, do'
-p860
-aS'you see the distinction between a genetic intervention to avoid pain and suffering as'
-p861
-aS'opposed to making a superman?'
-p862
-asa(dp863
-g8
-S'LORD ROBERT WINSTON'
-p864
-sg13
-(lp865
-S'I --'
-p866
-asa(dp867
-g8
-S'JOHN DONVAN'
-p868
-sg13
-(lp869
-S'Robert Winston.'
-p870
-asg16
-(dp871
-I1
-S'19:37:01'
-p872
-ssa(dp873
-g8
-S'LORD ROBERT WINSTON'
-p874
-sg13
-(lp875
-S'I think it was a very clear distinction, and I think the other side are absolutely right to'
-p876
-aS'concentrate on genetic abnormalities because, of course, gene defects are appalling.'
-p877
-aS'They are amongst the worst kinds of diseases that people have. Children in the main die'
-p878
-aS"of genetic defects. A few of them like mitochondrial diseases don't always kill people"
-p879
-aS"but they often have major effects on the central nervous system. They're deeply"
-p880
-aS"unpleasant, and there's no question that if we could avoid these diseases, if we could"
-p881
-aS'prevent them or treat them more effectively, we should do so.'
-p882
-asa(dp883
-g8
-S'JOHN DONVAN'
-p884
-sg13
-(lp885
-S'So do you concede that point to them?'
-p886
-asa(dp887
-g8
-S'LORD ROBERT WINSTON'
-p888
-sg13
-(lp889
-S'But I think the problem really is that, first of all, there will be enhancement. And I think'
-p890
-aS"that's risky. And the difficulty really is that in preventing one genetic disease, you're"
-p891
-aS'likely, very likely, to cause another genetic disease.'
-p892
-aS'The fact, of course, is that we now know that there are only 20,000 genes in the human'
-p893
-aS"genome, but there's a huge amount happening outside the genome which is of vital"
-p894
-aS'importance. The ENCODE data which has just been published show that there are not'
-p895
-aS'just 20,000 genes, but literally 3- or 4 million sequences already known in the'
-p896
-aS'messenger RNA, for example, which have an effect --'
-p897
-asg16
-(dp898
-I3
-S'19:37:52'
-p899
-ssa(dp900
-g8
-S'JOHN DONVAN'
-p901
-sg10
-(dp902
-I1
-S'22'
-p903
-ssg13
-(lp904
-S'So you are not conceding the point that intervention --'
-p905
-asa(dp906
-g20
-(dp907
-I3
-S'[laughter]'
-p908
-ssg8
-S'LORD ROBERT WINSTON'
-p909
-sg13
-(lp910
-S"No, I'm not -- I'm not conceding the point, but I can --- what I'm saying is it's a seductive"
-p911
-aS"point and I can understand why they're concentrating on it, because the rest of the"
-p912
-aS'argument is bound to be very weak.'
-p913
-asa(dp914
-g8
-S'JOHN DONVAN'
-p915
-sg13
-(lp916
-S'Nita Farahany.'
-p917
-asa(dp918
-g8
-S'LEE SILVER'
-p919
-sg13
-(lp920
-S'There is no rest to the argument. Our argument is that people all differ, we have genes'
-p921
-aS'that are different from each other in promoting or preventing disease and we think that,'
-p922
-aS'on that ground, parents should have the right to be able to promote health.'
-p923
-asa(dp924
-g8
-S'JOHN DONVAN'
-p925
-sg13
-(lp926
-S'But I also think -- the reason I was looking for clarity, I thought that I heard Robert'
-p927
-aS"Winston say that it's just not practical, realistic, to do these interventions to prevent"
-p928
-aS"disease because you don't know enough. And you specifically said this sort of"
-p929
-aS'intervention can actually promote other genetic outcomes.'
-p930
-asg16
-(dp931
-I4
-S'19:39:09'
-p932
-ssa(dp933
-g20
-(dp934
-I4
-S'[applause]'
-p935
-ssg8
-S'NITA FARAHANY'
-p936
-sg13
-(lp937
-S"Let's talk about that, the idea that if there is uncertainty we shouldn't proceed. Well, I"
-p938
-aS"mean, I have news for you, which is every single time we choose to reproduce there's"
-p939
-aS'uncertainty. We have no idea how this unique combination of individuals is going to'
-p940
-aS'result.'
-p941
-aS"And we certainly aren't going to say that we're going to ban natural reproduction, which"
-p942
-aS"is no more sex and no more kids. That's not going to happen. Instead, what we're going"
-p943
-aS"to do is we're going to ensure the scientific safety and efficacy of technologies before"
-p944
-aS'we allow them to proceed, and with mitochondrial transfer, which is a major form of'
-p945
-aS'genetic engineering, we have already had major scientific studies and an emerging'
-p946
-aS"scientific consensus that shows it's safe, it works, it eliminates massive childhood"
-p947
-aS'suffering. One out of 5,000 babies who have mitochondrial --'
-p948
-asg16
-(dp949
-I11
-S'19:39:59'
-p950
-ssa(dp951
-g8
-S'LORD ROBERT WINSTON'
-p952
-sg10
-(dp953
-I1
-S'23'
-p954
-ssg13
-(lp955
-S'Hey, Nita. Nita, just bear in mind that the children that were born after mitochondrial'
-p956
-aS'transfer are still children. And the real problem, of course, is what happens to them'
-p957
-aS"when they're adults. We don't know. We don't --"
-p958
-asa(dp959
-g20
-(dp960
-I1
-S'[applause]'
-p961
-ssg8
-S'NITA FARAHANY'
-p962
-sg13
-(lp963
-S"Well, happily they get to become adults. They won't become adults without this option."
-p964
-asa(dp965
-g8
-S'LORD ROBERT WINSTON'
-p966
-sg13
-(lp967
-S'Well, what we -- what we do know is that there is a huge amount of evidence that adult'
-p968
-aS'disease is caused by what happens to the genome very early on, either at the time of'
-p969
-aS'conception, or shortly afterwards, or during pregnancy. And so, for example, diseases'
-p970
-aS'like stroke, heart disease, cancer, and so on are things which we may be imprinting on'
-p971
-aS"those -- I'm using imprinting in a --"
-p972
-asa(dp973
-g8
-S'JOHN DONVAN'
-p974
-sg13
-(lp975
-S'Right. But let me -- let me interrupt a second and to ask you a somewhat'
-p976
-aS"hypothetical question. But we're having a relatively hypothetical debate, so I would like"
-p977
-aS'you to entertain it.'
-p978
-asa(dp979
-g8
-S'LORD ROBERT WINSTON'
-p980
-sg13
-(lp981
-S"Well, it's not hypothetical when abnormal babies are being born."
-p982
-asa(dp983
-g8
-S'JOHN DONVAN'
-p984
-sg13
-(lp985
-S"No, no. The question I'm asking is going to be hypothetical. If, in fact, the scientific"
-p986
-aS'problems could be solved, if, in fact, after years or decades of investigation these'
-p987
-aS'unwanted side effects of genetic intervention could happen, would that change your'
-p988
-aS'point of view?'
-p989
-asg16
-(dp990
-I4
-S'19:41:09'
-p991
-ssa(dp992
-g8
-S'LORD ROBERT WINSTON'
-p993
-sg13
-(lp994
-S'In June 2000, President Clinton announced, in the White House, the sequencing of the'
-p995
-aS"human genome. We now know that, actually, it's hugely more complicated than was"
-p996
-aS"presented then; actually, it's getting more and more complicated. So, actually, the"
-p997
-aS"problem really is that it's becoming less and less --"
-p998
-asa(dp999
-g8
-S'JOHN DONVAN'
-p1000
-sg13
-(lp1001
-S"But that's why my question is hypothetical. Unless you're saying you think it will never"
-p1002
-aS'happen.'
-p1003
-asa(dp1004
-g8
-S'LORD ROBERT WINSTON'
-p1005
-sg10
-(dp1006
-I2
-S'24'
-p1007
-ssg13
-(lp1008
-S"I don't think we can answer a moral question on a hypothetical point. We have to"
-p1009
-aS'answer it on a practical point: are we prepared to cause damage to children which they'
-p1010
-aS"don't deserve?"
-p1011
-asa(dp1012
-g8
-S'JOHN DONVAN'
-p1013
-sg13
-(lp1014
-S'Lee Silver.'
-p1015
-asa(dp1016
-g8
-S'LEE SILVER'
-p1017
-sg13
-(lp1018
-S"Well, I think the point that we're trying to make here is that there's huge diversity in the"
-p1019
-aS'human genome among people, and if there are people in the world who have a'
-p1020
-aS'particular form of a gene which gives them a health advantage, we know what that is,'
-p1021
-aS'we can study that in those people. And that eliminates the experimentation part of this.'
-p1022
-asg16
-(dp1023
-I4
-S'19:42:09'
-p1024
-ssa(dp1025
-g8
-S'JOHN DONVAN'
-p1026
-sg13
-(lp1027
-S'Sheldon Krimsky.'
-p1028
-asa(dp1029
-g8
-S'SHELDON KRIMSKY'
-p1030
-sg13
-(lp1031
-S'We have a very -- we have a very elaborate system in this country of allowing or not'
-p1032
-aS'allowing people to be involved in clinical trials. The safety issues that have to be taking'
-p1033
-aS'care of this, institutional review boards. Now, if you were a woman who wanted such'
-p1034
-aS'procedures to be done, one of the first questions you would ask is has this been done'
-p1035
-aS"within a clinical trial setting, with the government's imprimatur, or is this being done at"
-p1036
-aS'a hospital that has, really, no accountability to any national bioethics system? In fact,'
-p1037
-aS'these experiments were done in violation of a de facto rule by the federal government,'
-p1038
-aS'because they used private funds.'
-p1039
-aS'So there is really not a good clinical trial that was used to suggest that these procedures'
-p1040
-aS'were safe. There are a lot of risks that these women took.'
 p1041
-asg16
-(dp1042
-I8
-S'19:42:56'
+ssg16
+(lp1042
+S'Sharon was mentioned.'
 p1043
-ssa(dp1044
-g8
-S'LORD ROBERT WINSTON'
+aS"I don't know her personally."
+p1044
+aS"And I'm so happy that she had a successful pregnancy."
 p1045
-sg13
-(lp1046
-S"There's one thing, of course, is the data also curiously changed halfway through. So we"
+aS'But she had choices.'
+p1046
+aS"One of her choices was to adopt someone else's egg and have a baby."
 p1047
-aS"don't actually know how many embryos really were abnormal. That's a big problem."
+aS"She -- it wouldn't be her DNA but it would be somebody else's DNA."
 p1048
-asa(dp1049
-g8
-S'JOHN DONVAN'
+aS'Another choice would be for her to adopt a child, which, you know, is certainly a desirable thing to do in a world where there are children who need adoption.'
+p1049
+aS'What is the urgency of people to have their DNA in their child?'
 p1050
-sg13
-(lp1051
-S"All right. Let's go to the other side. Nita Farahany."
+aS'In fact, most of the things that our children get do not get from our DNA, they get from all the enhancement that we give them, so there\'s this obsession that "My child has to have my DNA.'
+p1051
+aS'" She did have some other choices.'
 p1052
-asa(dp1053
-g8
-S'NITA FARAHANY'
-p1054
-sg10
-(dp1055
+aS'The risks that she took were real.'
+p1053
+asg18
+(dp1054
+S'19:34:51'
+p1055
 I5
-S'25'
-p1056
-ssg13
-(lp1057
-S"I'm so glad that you read the fact that there's no government funding for this, because"
-p1058
-aS"the best way that we can actually have public oversight and insight into what's"
-p1059
-aS"happening in science is by actually having transparency. It's true; most of the different"
-p1060
-aS'techniques that have been -- that have been studied in the U.S. have happened via'
-p1061
-aS"private companies. What that does is ensure that there's no opportunity for public"
-p1062
-aS'oversight. All we have to do is simply fund that research in order to have public'
-p1063
-aS'oversight. With public oversight, you ensure safety and efficacy. You ensure the ethical'
-p1064
-aS'process of science, and you ensure the ethical use of this technology.'
-p1065
-asg16
-(dp1066
-I8
-S'19:43:58'
-p1067
-ssa(dp1068
+ssa(dp1056
 g8
+(lp1057
+S'Lee Silver.'
+p1058
+asg11
+S'JOHN DONVAN'
+p1059
+sg16
+(lp1060
+g1058
+asa(dp1061
+g8
+(lp1062
+S'Well, Professor Krimsky and I both have children here in the audience, so we --'
+p1063
+asg11
+S'LEE SILVER'
+p1064
+sg16
+(lp1065
+g1063
+asa(dp1066
+g8
+(lp1067
+S'I want to point out also that you two live in the same apartment building.'
+p1068
+asg11
 S'JOHN DONVAN'
 p1069
-sg13
+sg16
 (lp1070
-S"All right. I want to put -- move this into this somewhat fanciful area, but I think it's"
-p1071
-aS"relevant, on just how good it can get in the world that you're talking about, Lee Silver,"
-p1072
-aS'where, as you put it before, parents can introduce to their children DNA that is not their'
-p1073
-aS'own.'
-p1074
-asa(dp1075
-g8
-S'LEE SILVER'
-p1076
-sg13
-(lp1077
-S"Well, that's the definition of ."
-p1078
-asa(dp1079
-g8
-S'JOHN DONVAN'
-p1080
-sg13
-(lp1081
-S"Yeah. And it's an excellent one, actually. It really is useful for this debate. But you both"
-p1082
-aS"have focused so far on, let's avoid bad situations. In your imagination, how far does this"
-p1083
-aS'go in the creation of smarter, taller, prettier children?'
-p1084
-asa(dp1085
-g8
-S'LEE SILVER'
-p1086
-sg13
-(lp1087
-S"Well, I don't know how far it goes."
-p1088
-asa(dp1089
-g8
-S'JOHN DONVAN'
-p1090
-sg13
-(lp1091
-S'How far do you want it to go? How far do you -- how far do you dream of it going?'
-p1092
-asa(dp1093
-g8
-S'LEE SILVER'
-p1094
-sg13
-(lp1095
-S"It doesn't matter what I want."
-p1096
-asa(dp1097
-g8
-S'JOHN DONVAN'
-p1098
-sg13
-(lp1099
-S'Well, I want -- and what would you do?'
-p1100
-asa(dp1101
-g8
-S'LEE SILVER'
-p1102
-sg13
-(lp1103
-S'What would I do for my children?'
-p1104
-asa(dp1105
-g8
-S'JOHN DONVAN'
-p1106
-sg13
-(lp1107
-S'Yeah.'
-p1108
-asa(dp1109
-g20
-(dp1110
+g1068
+asa(dp1071
+g22
+(dp1072
 I1
 S'[laughter]'
-p1111
+p1073
 ssg8
+(lp1074
+S'We live in the same building --'
+p1075
+asg11
 S'LEE SILVER'
+p1076
+sg16
+(lp1077
+g1075
+asa(dp1078
+g8
+(lp1079
+S'And that sometimes you meet up for coffee downstairs in the shop, and you have thisout quite a bit.'
+p1080
+asg11
+S'JOHN DONVAN'
+p1081
+sg16
+(lp1082
+S'And that sometimes you meet up for coffee downstairs in the shop, and you have this out quite a bit.'
+p1083
+asa(dp1084
+g22
+(dp1085
+I1
+S'[laughter]'
+p1086
+sI2
+S'[laughter]'
+p1087
+ssg11
+S'LEE SILVER'
+p1088
+sg16
+(lp1089
+S"We have coffee at Jack's, the best coffee in the city."
+p1090
+aS'And I have no conflict there.'
+p1091
+aS"And we both have children in the audience, so we've used our ability to reproduce to have our children who I'm sure that you love your children as much as I love mine."
+p1092
+aS'I don\'t think we should discriminate against those people who, for whatever reason, are unable to reproduce and say, "Well, they don\'t have the ability, therefore, they should be adopting or solving other societal problems.'
+p1093
+aS'" I don\'t think that\'s fair because we don\'t ask ourselves to adopt, although a very, very few people do, so I question the alternative here.'
+p1094
+asg18
+(dp1095
+S'19:35:56'
+p1096
+I4
+ssg8
+(lp1097
+S"We have coffee at Jack's, the best coffee in the city.And I have no conflict there."
+p1098
+aS'[[laughter]] And we both have children in the audience, so we\'ve used our ability to reproduce to [[laughter]] have our children who I\'m sure that you love your children as much as I love mine.I don\'t think we should discriminate against those people who, for whatever reason, areunable to reproduce and say, "Well, they don\'t have the ability, therefore, they shouldbe adopting or solving other societal problems.'
+p1099
+aS'" I don\'t think that\'s fair because wedon\'t ask ourselves to adopt, although a very, very few people do, so I question thealternative here.'
+p1100
+asg13
+(dp1101
+I9
+S'21'
+p1102
+ssa(dp1103
+g8
+(lp1104
+S'Sheldon, I want to put a question to you, or Robert, whoever wants to take it, that youropponents in their opening statements focused primarily on enhancement thatameliorates negatives.'
+p1105
+aS"They mostly talked about helping produce children whowouldn't have dreaded illnesses, conditions, and diseases."
+p1106
+aS'Before we get on to theother side of it about enhancing -- you know, to create pretty people and tall people, doyou see the distinction between a genetic intervention to avoid pain and suffering asopposed to making a superman?'
+p1107
+asg11
+S'JOHN DONVAN'
+p1108
+sg16
+(lp1109
+S'Sheldon, I want to put a question to you, or Robert, whoever wants to take it, that your opponents in their opening statements focused primarily on enhancement that ameliorates negatives.'
+p1110
+aS"They mostly talked about helping produce children who wouldn't have dreaded illnesses, conditions, and diseases."
+p1111
+aS'Before we get on to the other side of it about enhancing -- you know, to create pretty people and tall people, do you see the distinction between a genetic intervention to avoid pain and suffering as opposed to making a superman?'
 p1112
-sg13
-(lp1113
-S'I love my children the way they are.'
-p1114
-asa(dp1115
+asa(dp1113
 g8
-S'JOHN DONVAN'
+(lp1114
+S'I --'
+p1115
+asg11
+S'LORD ROBERT WINSTON'
 p1116
-sg10
-(dp1117
-I0
-S'26'
-p1118
-ssg13
+sg16
+(lp1117
+g1115
+asa(dp1118
+g8
 (lp1119
-S'Are you avoiding what, to me, seems like a really relevant question. Just what are you'
+S'Robert Winston.'
 p1120
-aS'talking about?'
+asg11
+S'JOHN DONVAN'
 p1121
-asg16
-(dp1122
-I2
-S'19:44:58'
-p1123
-ssa(dp1124
+sg16
+(lp1122
+g1120
+asg18
+(dp1123
+S'19:37:01'
+p1124
+I1
+ssa(dp1125
 g8
-S'LEE SILVER'
-p1125
-sg13
 (lp1126
-S"No, I don't think it's avoidance, because I don't think that's what parents care about the"
+S'I think it was a very clear distinction, and I think the other side are absolutely right toconcentrate on genetic abnormalities because, of course, gene defects are appalling.They are amongst the worst kinds of diseases that people have.'
 p1127
-aS'most. What parents care about the most is promoting the health during the lifetime of'
+aS'Children in the main dieof genetic defects.'
 p1128
-aS"their child. And that's what they're going to focus on."
+aS"A few of them like mitochondrial diseases don't always kill peoplebut they often have major effects on the central nervous system."
 p1129
-asa(dp1130
-g8
-S'JOHN DONVAN'
+aS"They're deeplyunpleasant, and there's no question that if we could avoid these diseases, if we couldprevent them or treat them more effectively, we should do so."
+p1130
+asg11
+S'LORD ROBERT WINSTON'
 p1131
-sg13
+sg16
 (lp1132
-S'So you don\'t -- there were intimations from this side when you used the term "the'
+S'I think it was a very clear distinction, and I think the other side are absolutely right to concentrate on genetic abnormalities because, of course, gene defects are appalling.'
 p1133
-aS'pursuit of human perfection."'
+aS'They are amongst the worst kinds of diseases that people have.'
 p1134
-asa(dp1135
-g8
-S'LEE SILVER'
+aS'Children in the main die of genetic defects.'
+p1135
+aS"A few of them like mitochondrial diseases don't always kill people but they often have major effects on the central nervous system."
 p1136
-sg13
-(lp1137
-S"There is no such thing as human perfection. It's not a scientific concept."
-p1138
-asa(dp1139
+aS"They're deeply unpleasant, and there's no question that if we could avoid these diseases, if we could prevent them or treat them more effectively, we should do so."
+p1137
+asa(dp1138
 g8
-S'JOHN DONVAN'
+(lp1139
+S'So do you concede that point to them?'
 p1140
-sg13
-(lp1141
-S"Well, if there's a pursuit of human perfection."
-p1142
+asg11
+S'JOHN DONVAN'
+p1141
+sg16
+(lp1142
+g1140
 asa(dp1143
 g8
-S'LEE SILVER'
-p1144
-sg13
-(lp1145
-S"No, I don't mean -- that's not what parents are trying to do. They're trying to just -- give"
+(lp1144
+S'But I think the problem really is that, first of all, there will be enhancement.'
+p1145
+aS"And I thinkthat's risky."
 p1146
-aS'their children whatever --'
+aS"And the difficulty really is that in preventing one genetic disease, you'relikely, very likely, to cause another genetic disease.The fact, of course, is that we now know that there are only 20,000 genes in the humangenome, but there's a huge amount happening outside the genome which is of vitalimportance."
 p1147
-asa(dp1148
-g8
-S'JOHN DONVAN'
+aS'The ENCODE data which has just been published show that there are notjust 20,000 genes, but literally 3- or 4 million sequences already known in themessenger RNA, for example, which have an effect --'
+p1148
+asg11
+S'LORD ROBERT WINSTON'
 p1149
-sg13
+sg16
 (lp1150
-S'Okay.'
+S'But I think the problem really is that, first of all, there will be enhancement.'
 p1151
-asa(dp1152
-g8
-S'LEE SILVER'
+aS"And I think that's risky."
+p1152
+aS"And the difficulty really is that in preventing one genetic disease, you're likely, very likely, to cause another genetic disease."
 p1153
-sg13
-(lp1154
-S"-- health advantage they can. That's not perfection. There is no perfection."
+aS"The fact, of course, is that we now know that there are only 20,000 genes in the human genome, but there's a huge amount happening outside the genome which is of vital importance."
+p1154
+aS'The ENCODE data which has just been published show that there are not just 20,000 genes, but literally 3- or 4 million sequences already known in the messenger RNA, for example, which have an effect --'
 p1155
-asa(dp1156
-g8
-S'JOHN DONVAN'
+asg18
+(dp1156
+S'19:37:52'
 p1157
-sg13
-(lp1158
-S"So you're basically saying that that slippery slope is -- is a red herring."
-p1159
-asa(dp1160
+I3
+ssa(dp1158
 g8
-S'LEE SILVER'
+(lp1159
+S'So you are not conceding the point that intervention --'
+p1160
+asg11
+S'JOHN DONVAN'
 p1161
 sg13
-(lp1162
-S"I just don't believe in perfection."
+(dp1162
+I1
+S'22'
 p1163
-asa(dp1164
-g8
-S'JOHN DONVAN'
-p1165
-sg13
-(lp1166
-S'Okay. I just want to put it to the other side then. Basically, I think your opponents are'
+ssg16
+(lp1164
+g1160
+asa(dp1165
+g22
+(dp1166
+I3
+S'[laughter]'
 p1167
-aS'saying that that particular concern is a little bit chicken little.'
-p1168
-asa(dp1169
-g8
+ssg8
+(lp1168
+S"No, I'm not -- I'm not conceding the point, but I can --- what I'm saying is it's a seductivepoint and I can understand why they're concentrating on it, because the rest of theargument is bound to be very weak."
+p1169
+asg11
 S'LORD ROBERT WINSTON'
 p1170
-sg13
+sg16
 (lp1171
-S"Well, I don't think either of us have --"
+S"No, I'm not -- I'm not conceding the point, but I can --- what I'm saying is it's a seductive point and I can understand why they're concentrating on it, because the rest of the argument is bound to be very weak."
 p1172
 asa(dp1173
 g8
-S'JOHN DONVAN'
-p1174
-sg10
-(dp1175
-I0
-S'27'
-p1176
-ssg13
-(lp1177
-S'Robert Winston.'
-p1178
-asa(dp1179
-g8
-S'LORD ROBERT WINSTON'
-p1180
-sg13
-(lp1181
-S"I don't think either of us said we were chasing perfection. Of course, we're not. I think"
-p1182
-aS'all of us on this panel, all four of us are sensible people. And the areas of disagreement'
-p1183
-aS'are perhaps quite narrow, but they are very, very important.'
-p1184
-aS'And I think the issue is not perfection but the fact is that really what you are proffering,'
-p1185
-aS"what you're offering is something which at the moment and for the foreseeable future"
-p1186
-aS"is entirely unpredictable. And it's dangerous to individuals where the unpredictability"
-p1187
-aS' .'
-p1188
-asg16
-(dp1189
-I3
-S'19:45:57'
-p1190
-ssa(dp1191
-g8
-S'JOHN DONVAN'
-p1192
-sg13
-(lp1193
-S"But, Robert, your partner did introduce that broader moral notion. You're -- the moral"
-p1194
-aS'concern that you raised, Sheldon Krimsky, was not simply the problem of the'
-p1195
-aS'unpredictability of the science. You talked about the larger vision of what we want to'
-p1196
-aS'be as a society when we have this technology more fully developed. Can you --'
-p1197
-asa(dp1198
-g8
-S'SHELDON KRIMSKY'
-p1199
-sg13
-(lp1200
-S'Exactly. I was going to leave that for my final comments because I truly was plagued by'
-p1201
-aS'the mitochondria problem. I think it is a problem for people who oppose genetically'
-p1202
-aS'engineering babies because on one hand you feel for people, and you want them to'
-p1203
-aS'have the best for their lives. So there has to be a response to the mitochondrial'
-p1204
-aS'problem or other problems where people have two copies of a diseased gene and'
-p1205
-aS'cannot use pre-implantation embryo or diagnosis.'
-p1206
-asg16
-(dp1207
-I6
-S'19:47:07'
-p1208
-ssa(dp1209
-g8
-S'JOHN DONVAN'
-p1210
-sg13
-(lp1211
+(lp1174
 S'Nita Farahany.'
-p1212
-asa(dp1213
-g8
-S'NITA FARAHANY'
-p1214
-sg10
-(dp1215
-I7
-S'28'
-p1216
-ssg13
-(lp1217
-S"I think what's important to realize is that with every slippery slope argument, the"
-p1218
-aS'question is, is a ban -- a ban outright better, or is there some middle ground? Is there'
-p1219
-aS'some way that we can trust society to have reasonable limitations on the advancement'
-p1220
-aS"of technology? We've offered one. Mitochondrial DNA has 2 percent of your DNA, but"
-p1221
-aS"it codes only for about .1 percent of what happens in an offspring. It's the essential"
-p1222
-aS'energy source. What if we stopped it there? What if we decided that that one step is'
-p1223
-aS'something we believe is safe and efficacious? It would still call for not an outright ban.'
-p1224
-aS'The next step would be nuclear DNA. And if we felt like nuclear DNA is off limits today'
-p1225
-aS'until we have better safety studies, that would be a reasonable approach forward, and'
-p1226
-aS'then we would say, what scientific evidence do we have? Given the scientific evidence'
-p1227
-aS'that we have, what ethical constraints do we as a society wish to put into place? We do'
-p1228
-aS"it all the time with every technology we have. We don't ban technologies. We have"
-p1229
-aS'public transparent debates about the best place to draw the line.'
-p1230
-asg16
-(dp1231
-I7
-S'19:47:50'
-p1232
-ssa(dp1233
-g8
+p1175
+asg11
 S'JOHN DONVAN'
-p1234
-sg13
-(lp1235
-S'In just a moment, I want to come to you in the audience to start taking your questions.'
-p1236
-aS'And I want to remind you again how it works. If you just raise your hand, a microphone'
-p1237
-aS'will be brought to you. If you can stand up, hold the microphone about as far away'
-p1238
-aS'from your mouth as this one is from me so that the radio broadcast can pick you up.'
-p1239
-aS" We'd appreciate it if you could state your name. And the hardest part of all is to be"
-p1240
-aS"really concise and to really make it a question. And you'll know because a question"
-p1241
-aS"mark goes right at the end of it. If that feels right, you've succeeded. I want to let"
-p1242
-aS'Robert Winston respond.'
-p1243
-asg16
-(dp1244
-I8
-S'19:48:52'
-p1245
-ssa(dp1246
-g20
-(dp1247
-I8
-S'[laughter]'
-p1248
-ssg8
-S'LORD ROBERT WINSTON'
-p1249
-sg13
-(lp1250
-S'Just a brief point about the mitochondrial thing, this extraordinarily rare situation where'
-p1251
-aS'mitochondria are abnormal. The very few experiments done in animals on'
-p1252
-aS'mitochondria, but one that stands out in my mind is a thing called the PEPCK mouse.'
-p1253
-aS' PEPCK mouse whose mitochondria have been modified, runs 20 times further than a'
-p1254
-aS'normal mouse and is much more athletic. It turned out completely unpredictable'
-p1255
-aS'because it has really strange fertility disorders. It has a very weird metabolism. And'
-p1256
-aS"above all, it's much more aggressive than other mice. It's not one that you'd want to"
-p1257
-aS'have in your kitchen.'
-p1258
-asa(dp1259
-g20
-(dp1260
-I1
-S'[laughter]'
-p1261
-ssg8
-S'JOHN DONVAN'
-p1262
-sg13
-(lp1263
-S'Lee Silver. Sounds like a bad mouse.'
-p1264
-asa(dp1265
+p1176
+sg16
+(lp1177
+g1175
+asa(dp1178
 g8
+(lp1179
+S'There is no rest to the argument.'
+p1180
+aS'Our argument is that people all differ, we have genesthat are different from each other in promoting or preventing disease and we think that,on that ground, parents should have the right to be able to promote health.'
+p1181
+asg11
 S'LEE SILVER'
-p1266
-sg10
-(dp1267
-I5
-S'29'
-p1268
-ssg13
-(lp1269
-S"Sounds like a good mouse to me. But we're not arguing that the safety and efficacy"
-p1270
-aS"exists right now for all of the possibilities of the future. I mean, we're talking about --"
-p1271
-aS"the mitochondria is one small case. In the larger sphere, we're talking about our"
-p1272
-aS"children's children and their children. And the advancements in genetics are happening"
-p1273
-aS"so fast that we can't prohibit forward advance if it's done safely and effectively."
-p1274
-asg16
-(dp1275
-I5
-S'19:50:05'
-p1276
-ssa(dp1277
+p1182
+sg16
+(lp1183
+S'There is no rest to the argument.'
+p1184
+aS'Our argument is that people all differ, we have genes that are different from each other in promoting or preventing disease and we think that, on that ground, parents should have the right to be able to promote health.'
+p1185
+asa(dp1186
 g8
-S'SHELDON KRIMSKY'
-p1278
-sg13
-(lp1279
-S'John, can I just tell the audience --'
-p1280
-asa(dp1281
-g8
+(lp1187
+S"But I also think -- the reason I was looking for clarity, I thought that I heard RobertWinston say that it's just not practical, realistic, to do these interventions to preventdisease because you don't know enough."
+p1188
+aS'And you specifically said this sort ofintervention can actually promote other genetic outcomes.'
+p1189
+asg11
 S'JOHN DONVAN'
-p1282
-sg13
-(lp1283
-S'Sheldon Krimsky.'
-p1284
-asa(dp1285
-g8
-S'SHELDON KRIMSKY'
-p1286
-sg13
-(lp1287
-S"-- what we're dealing with here with the mitochondrial case? The woman's egg has"
-p1288
-aS'abnormalities in the cytoplasm. And the mitochondria is in the cytoplasm. But her DNA'
-p1289
-aS"is perfectly normal. So there's several ways that they deal with it. They either take her"
-p1290
-aS'DNA out of her egg and put it into another egg where the DNA has been removed so'
-p1291
-aS"she'd operating with her DNA in somebody else's mitochondria. So you have then a"
-p1292
-aS'child born with the DNA of two women and then one man. And these interactions'
-p1293
-aS'between the nucleus DNA and the cytoplasm DNA are totally unknown.'
-p1294
-asa(dp1295
-g8
-S'ROBERT WINSTON'
-p1296
-sg13
-(lp1297
-S"That's right."
-p1298
-asg16
-(dp1299
-I1
-S'19:50:53'
-p1300
-ssa(dp1301
-g8
-S'SHELDON KRIMSKY'
-p1302
-sg13
-(lp1303
-S'There are other ways to do it. One way is if you have like rotten milk, you take the milk'
-p1304
-aS'and divide it in half and then put good milk into it. You take the cytoplasm from a'
-p1305
-aS'healthy egg, and you pump it into the abnormal cytoplasm of the abnormal cells so'
-p1306
-aS"you're pumping in somebody else's DNA into the woman's egg. And then you have the"
-p1307
-aS'child with that, hoping that --'
-p1308
-asa(dp1309
-g8
-S'JOHN DONVAN'
-p1310
-sg13
-(lp1311
-S'Okay. Let me -- let me take back to Nita Farahany because you talked about the'
-p1312
-aS'mitochondrial transfer in your opening statement quite extensively. And your opponent'
-p1313
-aS"has basically just said the whole premise of what you're talking about is actually its own"
-p1314
-aS'kind of crap shoot.'
-p1315
-asa(dp1316
-g8
+p1190
+sg16
+(lp1191
+S"But I also think -- the reason I was looking for clarity, I thought that I heard Robert Winston say that it's just not practical, realistic, to do these interventions to prevent disease because you don't know enough."
+p1192
+aS'And you specifically said this sort of intervention can actually promote other genetic outcomes.'
+p1193
+asg18
+(dp1194
+S'19:39:09'
+p1195
+I4
+ssa(dp1196
+g22
+(dp1197
+I4
+S'[applause]'
+p1198
+ssg8
+(lp1199
+S"Let's talk about that, the idea that if there is uncertainty we shouldn't proceed."
+p1200
+aS"Well, Imean, I have news for you, which is every single time we choose to reproduce there'suncertainty."
+p1201
+aS"We have no idea how this unique combination of individuals is going toresult.And we certainly aren't going to say that we're going to ban natural reproduction, which [[applause]] is no more sex and no more kids."
+p1202
+aS"That's not going to happen."
+p1203
+aS"Instead, what we're goingto do is we're going to ensure the scientific safety and efficacy of technologies beforewe allow them to proceed, and with mitochondrial transfer, which is a major form ofgenetic engineering, we have already had major scientific studies and an emergingscientific consensus that shows it's safe, it works, it eliminates massive childhoodsuffering."
+p1204
+aS'One out of 5,000 babies who have mitochondrial --'
+p1205
+asg11
 S'NITA FARAHANY'
+p1206
+sg16
+(lp1207
+S"Let's talk about that, the idea that if there is uncertainty we shouldn't proceed."
+p1208
+aS"Well, I mean, I have news for you, which is every single time we choose to reproduce there's uncertainty."
+p1209
+aS'We have no idea how this unique combination of individuals is going to result.'
+p1210
+aS"And we certainly aren't going to say that we're going to ban natural reproduction, which is no more sex and no more kids."
+p1211
+aS"That's not going to happen."
+p1212
+aS"Instead, what we're going to do is we're going to ensure the scientific safety and efficacy of technologies before we allow them to proceed, and with mitochondrial transfer, which is a major form of genetic engineering, we have already had major scientific studies and an emerging scientific consensus that shows it's safe, it works, it eliminates massive childhood suffering."
+p1213
+aS'One out of 5,000 babies who have mitochondrial --'
+p1214
+asg18
+(dp1215
+S'19:39:59'
+p1216
+I11
+ssa(dp1217
+g8
+(lp1218
+S'Hey, Nita.'
+p1219
+aS'Nita, just bear in mind that the children that were born after mitochondrialtransfer are still children.'
+p1220
+aS"And the real problem, of course, is what happens to themwhen they're adults."
+p1221
+aS"We don't know."
+p1222
+aS"We don't --"
+p1223
+asg11
+S'LORD ROBERT WINSTON'
+p1224
+sg13
+(dp1225
+I1
+S'23'
+p1226
+ssg16
+(lp1227
+S'Hey, Nita.'
+p1228
+aS'Nita, just bear in mind that the children that were born after mitochondrial transfer are still children.'
+p1229
+aS"And the real problem, of course, is what happens to them when they're adults."
+p1230
+aS"We don't know."
+p1231
+aS"We don't --"
+p1232
+asa(dp1233
+g22
+(dp1234
+I1
+S'[applause]'
+p1235
+ssg8
+(lp1236
+S'Well, happily they get to become adults.'
+p1237
+aS"They won't become adults without this option."
+p1238
+asg11
+S'NITA FARAHANY'
+p1239
+sg16
+(lp1240
+S'Well, happily they get to become adults.'
+p1241
+aS"They won't become adults without this option."
+p1242
+asa(dp1243
+g8
+(lp1244
+S'Well, what we -- what we do know is that there is a huge amount of evidence that adultdisease is caused by what happens to the genome very early on, either at the time ofconception, or shortly afterwards, or during pregnancy.'
+p1245
+aS"And so, for example, diseaseslike stroke, heart disease, cancer, and so on are things which we may be imprinting onthose -- I'm using imprinting in a --"
+p1246
+asg11
+S'LORD ROBERT WINSTON'
+p1247
+sg16
+(lp1248
+S'Well, what we -- what we do know is that there is a huge amount of evidence that adult disease is caused by what happens to the genome very early on, either at the time of conception, or shortly afterwards, or during pregnancy.'
+p1249
+aS"And so, for example, diseases like stroke, heart disease, cancer, and so on are things which we may be imprinting on those -- I'm using imprinting in a --"
+p1250
+asa(dp1251
+g8
+(lp1252
+S'Right.'
+p1253
+aS'But let me -- let me interrupt a second and to ask you a somewhathypothetical question.'
+p1254
+aS"But we're having a relatively hypothetical debate, so I would likeyou to entertain it."
+p1255
+asg11
+S'JOHN DONVAN'
+p1256
+sg16
+(lp1257
+S'Right.'
+p1258
+aS'But let me -- let me interrupt a second and to ask you a somewhat hypothetical question.'
+p1259
+aS"But we're having a relatively hypothetical debate, so I would like you to entertain it."
+p1260
+asa(dp1261
+g8
+(lp1262
+S"Well, it's not hypothetical when abnormal babies are being born."
+p1263
+asg11
+S'LORD ROBERT WINSTON'
+p1264
+sg16
+(lp1265
+g1263
+asa(dp1266
+g8
+(lp1267
+S'No, no.'
+p1268
+aS"The question I'm asking is going to be hypothetical."
+p1269
+aS'If, in fact, the scientificproblems could be solved, if, in fact, after years or decades of investigation theseunwanted side effects of genetic intervention could happen, would that change yourpoint of view?'
+p1270
+asg11
+S'JOHN DONVAN'
+p1271
+sg16
+(lp1272
+S'No, no.'
+p1273
+aS"The question I'm asking is going to be hypothetical."
+p1274
+aS'If, in fact, the scientific problems could be solved, if, in fact, after years or decades of investigation these unwanted side effects of genetic intervention could happen, would that change your point of view?'
+p1275
+asg18
+(dp1276
+S'19:41:09'
+p1277
+I4
+ssa(dp1278
+g8
+(lp1279
+S'In June 2000, President Clinton announced, in the White House, the sequencing of thehuman genome.'
+p1280
+aS"We now know that, actually, it's hugely more complicated than waspresented then; actually, it's getting more and more complicated."
+p1281
+aS"So, actually, theproblem really is that it's becoming less and less --"
+p1282
+asg11
+S'LORD ROBERT WINSTON'
+p1283
+sg16
+(lp1284
+S'In June 2000, President Clinton announced, in the White House, the sequencing of the human genome.'
+p1285
+aS"We now know that, actually, it's hugely more complicated than was presented then; actually, it's getting more and more complicated."
+p1286
+aS"So, actually, the problem really is that it's becoming less and less --"
+p1287
+asa(dp1288
+g8
+(lp1289
+S"But that's why my question is hypothetical."
+p1290
+aS"Unless you're saying you think it will neverhappen."
+p1291
+asg11
+S'JOHN DONVAN'
+p1292
+sg16
+(lp1293
+S"But that's why my question is hypothetical."
+p1294
+aS"Unless you're saying you think it will never happen."
+p1295
+asa(dp1296
+g8
+(lp1297
+S"I don't think we can answer a moral question on a hypothetical point."
+p1298
+aS"We have toanswer it on a practical point: are we prepared to cause damage to children which theydon't deserve?"
+p1299
+asg11
+S'LORD ROBERT WINSTON'
+p1300
+sg13
+(dp1301
+I2
+S'24'
+p1302
+ssg16
+(lp1303
+S"I don't think we can answer a moral question on a hypothetical point."
+p1304
+aS"We have to answer it on a practical point: are we prepared to cause damage to children which they don't deserve?"
+p1305
+asa(dp1306
+g8
+(lp1307
+S'Lee Silver.'
+p1308
+asg11
+S'JOHN DONVAN'
+p1309
+sg16
+(lp1310
+g1308
+asa(dp1311
+g8
+(lp1312
+S"Well, I think the point that we're trying to make here is that there's huge diversity in thehuman genome among people, and if there are people in the world who have aparticular form of a gene which gives them a health advantage, we know what that is,we can study that in those people."
+p1313
+aS'And that eliminates the experimentation part of this.'
+p1314
+asg11
+S'LEE SILVER'
+p1315
+sg16
+(lp1316
+S"Well, I think the point that we're trying to make here is that there's huge diversity in the human genome among people, and if there are people in the world who have a particular form of a gene which gives them a health advantage, we know what that is, we can study that in those people."
 p1317
-sg10
-(dp1318
-I7
-S'30'
-p1319
-ssg13
-(lp1320
-S"So let me add one technology that my opponent didn't talk about, which is -- which"
-p1321
-aS"answers his issue. There's a technology for mitochondrial transfer that's going to clinical"
-p1322
-aS"trials from a company in Boston this year. And in that technology, what they've"
+aS'And that eliminates the experimentation part of this.'
+p1318
+asg18
+(dp1319
+S'19:42:09'
+p1320
+I4
+ssa(dp1321
+g8
+(lp1322
+S'Sheldon Krimsky.'
 p1323
-aS'discovered is that women have precursor cells before their egg cells. And those'
+asg11
+S'JOHN DONVAN'
 p1324
-aS'precursor cells can be used to develop their own mitochondria, healthy mitochondria.'
-p1325
-aS' And they can take their own healthy mitochondria, fuse it with their own nuclear DNA,'
-p1326
-aS'and they can end up with a healthy offspring, free from mitochondrial disease.'
-p1327
-aS'Already in clinical trials, already ready to enroll human subjects, already with the green'
+sg16
+(lp1325
+g1323
+asa(dp1326
+g8
+(lp1327
+S'We have a very -- we have a very elaborate system in this country of allowing or notallowing people to be involved in clinical trials.'
 p1328
-aS'light to go ahead. You would be banning that technology and preventing women who'
+aS'The safety issues that have to be takingcare of this, institutional review boards.'
 p1329
-aS'have abnormal mitochondrial DNA from being able to have the choice to have their own'
+aS"Now, if you were a woman who wanted suchprocedures to be done, one of the first questions you would ask is has this been donewithin a clinical trial setting, with the government's imprimatur, or is this being done ata hospital that has, really, no accountability to any national bioethics system?"
 p1330
-aS'genetic children.'
+aS'In fact,these experiments were done in violation of a de facto rule by the federal government,because they used private funds.So there is really not a good clinical trial that was used to suggest that these procedureswere safe.'
 p1331
-asg16
-(dp1332
-I7
-S'19:52:10'
+aS'There are a lot of risks that these women took.'
+p1332
+asg11
+S'SHELDON KRIMSKY'
 p1333
-ssa(dp1334
-g8
-S'JOHN DONVAN'
+sg16
+(lp1334
+S'We have a very -- we have a very elaborate system in this country of allowing or not allowing people to be involved in clinical trials.'
 p1335
-sg13
-(lp1336
-S'Response from the other side, or shall we go to questions from the audience?'
+aS'The safety issues that have to be taking care of this, institutional review boards.'
+p1336
+aS"Now, if you were a woman who wanted such procedures to be done, one of the first questions you would ask is has this been done within a clinical trial setting, with the government's imprimatur, or is this being done at a hospital that has, really, no accountability to any national bioethics system?"
 p1337
-asa(dp1338
-g8
-S'LORD ROBERT WINSTON'
+aS'In fact, these experiments were done in violation of a de facto rule by the federal government, because they used private funds.'
+p1338
+aS'So there is really not a good clinical trial that was used to suggest that these procedures were safe.'
 p1339
-sg13
-(lp1340
-S"Well, let's wait and see the results of the trial, shall we? I suspect that we might find"
-p1341
-aS'some surprises as we have with every one of these other trials. You could argue too'
+aS'There are a lot of risks that these women took.'
+p1340
+asg18
+(dp1341
+S'19:42:56'
 p1342
-aS"that you're not genetically modifying anybody because you're using the DNA that's"
-p1343
-aS"already there in the person. It's rather like pre-implantation genetic diagnosis."
-p1344
-asa(dp1345
+I8
+ssa(dp1343
 g8
-S'JOHN DONVAN'
+(lp1344
+S"There's one thing, of course, is the data also curiously changed halfway through."
+p1345
+aS"So wedon't actually know how many embryos really were abnormal."
 p1346
-sg13
-(lp1347
-S"Actually, by -- by Lee's definition -- by Lee's definition, that does not --"
-p1348
-asa(dp1349
-g8
+aS"That's a big problem."
+p1347
+asg11
 S'LORD ROBERT WINSTON'
+p1348
+sg16
+(lp1349
+S"There's one thing, of course, is the data also curiously changed halfway through."
 p1350
-sg13
-(lp1351
-S"I think it's a spurious argument."
+aS"So we don't actually know how many embryos really were abnormal."
+p1351
+aS"That's a big problem."
 p1352
 asa(dp1353
 g8
-S'NITA FARAHANY'
-p1354
-sg13
-(lp1355
-S"And I think Lee's definition is too -- it's modifying genetic offspring. Surely you would"
+(lp1354
+S'All right.'
+p1355
+aS"Let's go to the other side."
 p1356
-aS"also agree that that is genetic engineering, and you wouldn't"
+aS'Nita Farahany.'
 p1357
-asa(dp1358
-g8
-S'ROBERT WINSTON'
-p1359
-sg13
-(lp1360
-S'You keep on --'
-p1361
-asa(dp1362
-g8
-S'NITA FARAHANY'
-p1363
-sg13
-(lp1364
-S'-- try to claim mitochondrial DNA now is your own.'
-p1365
-asg16
-(dp1366
-I1
-S'19:53:03'
-p1367
-ssa(dp1368
-g8
-S'LORD ROBERT WINSTON'
-p1369
-sg13
-(lp1370
-S"Forgive me. You keep on talking about 2 percent of the DNA. It's not. It's a tiny, tiny"
-p1371
-aS"proportion. It's a miniscule fraction of DNA."
-p1372
-asa(dp1373
-g8
-S'LEE SILVER'
-p1374
-sg13
-(lp1375
-S'Tiny proportion of the information, yes.'
-p1376
-asa(dp1377
-g8
-S'NITA FARAHANY'
-p1378
-sg10
-(dp1379
-I1
-S'31'
-p1380
-ssg13
-(lp1381
-S"That's right. That's still two percent of DNA."
-p1382
-asa(dp1383
-g8
+asg11
 S'JOHN DONVAN'
-p1384
-sg13
-(lp1385
-S"Let's go to some -- let's go to some questions right here on the aisle, sir. And if you"
-p1386
-aS'could stand up, and tell us your name, and hold the mike pretty close to your mouth'
-p1387
-asa(dp1388
+p1358
+sg16
+(lp1359
+S'All right.'
+p1360
+aS"Let's go to the other side."
+p1361
+aS'Nita Farahany.'
+p1362
+asa(dp1363
 g8
-S'ROBERT KLITZMAN'
-p1389
+(lp1364
+S"I'm so glad that you read the fact that there's no government funding for this, becausethe best way that we can actually have public oversight and insight into what'shappening in science is by actually having transparency."
+p1365
+aS"It's true; most of the differenttechniques that have been -- that have been studied in the U.S. have happened viaprivate companies."
+p1366
+aS"What that does is ensure that there's no opportunity for publicoversight."
+p1367
+aS'All we have to do is simply fund that research in order to have publicoversight.'
+p1368
+aS'With public oversight, you ensure safety and efficacy.'
+p1369
+aS'You ensure the ethicalprocess of science, and you ensure the ethical use of this technology.'
+p1370
+asg11
+S'NITA FARAHANY'
+p1371
 sg13
-(lp1390
-S"I'm Robert Klitzman from Columbia University. Great debate. Question for the"
-p1391
-aS"opponents, I'm wondering if we should be allowed to enhance children genetically, not"
-p1392
-aS"perfect them, but, for instance, many parents say they'd like to have kids who are"
+(dp1372
+I5
+S'25'
+p1373
+ssg16
+(lp1374
+S"I'm so glad that you read the fact that there's no government funding for this, because the best way that we can actually have public oversight and insight into what's happening in science is by actually having transparency."
+p1375
+aS"It's true; most of the different techniques that have been -- that have been studied in the U.S. have happened via private companies."
+p1376
+aS"What that does is ensure that there's no opportunity for public oversight."
+p1377
+aS'All we have to do is simply fund that research in order to have public oversight.'
+p1378
+aS'With public oversight, you ensure safety and efficacy.'
+p1379
+aS'You ensure the ethical process of science, and you ensure the ethical use of this technology.'
+p1380
+asg18
+(dp1381
+S'19:43:58'
+p1382
+I8
+ssa(dp1383
+g8
+(lp1384
+S'All right.'
+p1385
+aS"I want to put -- move this into this somewhat fanciful area, but I think it'srelevant, on just how good it can get in the world that you're talking about, Lee Silver,where, as you put it before, parents can introduce to their children DNA that is not theirown."
+p1386
+asg11
+S'JOHN DONVAN'
+p1387
+sg16
+(lp1388
+S'All right.'
+p1389
+aS"I want to put -- move this into this somewhat fanciful area, but I think it's relevant, on just how good it can get in the world that you're talking about, Lee Silver, where, as you put it before, parents can introduce to their children DNA that is not their own."
+p1390
+asa(dp1391
+g8
+(lp1392
+S"Well, that's the definition of ."
 p1393
-aS'blonde haired, blue eyed. Should that be allowed? Should there be a line drawn'
+asg11
+S'LEE SILVER'
 p1394
-aS'anywhere in terms of enhancement, and, if so, where?'
-p1395
+sg16
+(lp1395
+g1393
 asa(dp1396
 g8
-S'LEE SILVER'
-p1397
-sg13
-(lp1398
-S'Well --'
+(lp1397
+S'Yeah.'
+p1398
+aS"And it's an excellent one, actually."
 p1399
-asa(dp1400
-g8
-S'JOHN DONVAN'
+aS'It really is useful for this debate.'
+p1400
+aS"But you bothhave focused so far on, let's avoid bad situations."
 p1401
-sg13
-(lp1402
-S'Lee Silver.'
-p1403
-asa(dp1404
-g20
-(dp1405
-I3
-S'[laughter]'
-p1406
-ssg8
-S'LEE SILVER'
-p1407
-sg13
-(lp1408
-S"-- in fact, we've actually done a poll where parents, in fact, don't believe that. What"
-p1409
-aS'most parents want are children that resemble themselves, just a little bit prettier and a'
-p1410
-aS"little bit smarter. That's what parents want."
-p1411
-aS'The blonde haired blue eyed thing is fiction.'
-p1412
-asa(dp1413
-g8
-S'NITA FARAHANY'
-p1414
-sg13
-(lp1415
-S'Let me just add to that --'
-p1416
-asa(dp1417
-g8
+aS'In your imagination, how far does thisgo in the creation of smarter, taller, prettier children?'
+p1402
+asg11
 S'JOHN DONVAN'
-p1418
-sg13
-(lp1419
-S'Nita Farahany.'
-p1420
-asg16
-(dp1421
-I1
-S'19:54:03'
-p1422
-ssa(dp1423
+p1403
+sg16
+(lp1404
+S'Yeah.'
+p1405
+aS"And it's an excellent one, actually."
+p1406
+aS'It really is useful for this debate.'
+p1407
+aS"But you both have focused so far on, let's avoid bad situations."
+p1408
+aS'In your imagination, how far does this go in the creation of smarter, taller, prettier children?'
+p1409
+asa(dp1410
 g8
-S'NITA FARAHANY'
-p1424
-sg10
-(dp1425
-I9
-S'32'
+(lp1411
+S"Well, I don't know how far it goes."
+p1412
+asg11
+S'LEE SILVER'
+p1413
+sg16
+(lp1414
+g1412
+asa(dp1415
+g8
+(lp1416
+S'How far do you want it to go?'
+p1417
+aS'How far do you -- how far do you dream of it going?'
+p1418
+asg11
+S'JOHN DONVAN'
+p1419
+sg16
+(lp1420
+S'How far do you want it to go?'
+p1421
+aS'How far do you -- how far do you dream of it going?'
+p1422
+asa(dp1423
+g8
+(lp1424
+S"It doesn't matter what I want."
+p1425
+asg11
+S'LEE SILVER'
 p1426
-ssg13
+sg16
 (lp1427
-S'-- is that the enhancement versus therapy distinction is really just a red herring. So if I'
-p1428
-aS"improve somebody's health, have I enhanced them? And the truth is, every"
-p1429
-aS"improvement that we've had in our health over the past century and more has been an"
+g1425
+asa(dp1428
+g8
+(lp1429
+S'Well, I want -- and what would you do?'
 p1430
-aS'enhancement. So do parents want to enhance their children? Of course, they do. They'
+asg11
+S'JOHN DONVAN'
 p1431
-aS'give them better education. They give them prenatal vitamins. They, you know, do'
-p1432
-aS'prenatal yoga and every other type of thing to try to, you know, make things better.'
-p1433
-aS' They take headphones and play music for their children during, you know, the'
-p1434
-aS'gestational period. So do parents want to enhance their children? Yes. Do they already'
+sg16
+(lp1432
+g1430
+asa(dp1433
+g8
+(lp1434
+S'What would I do for my children?'
 p1435
-aS'do it? Yes. Should genetic engineering that enhances their health be permitted to go'
+asg11
+S'LEE SILVER'
 p1436
-aS'forward? Yes.'
-p1437
+sg16
+(lp1437
+g1435
 asa(dp1438
 g8
-S'LEE SILVER'
-p1439
-sg13
-(lp1440
-S"And I would just add, it's not --"
-p1441
-asa(dp1442
-g8
+(lp1439
+S'Yeah.'
+p1440
+asg11
 S'JOHN DONVAN'
-p1443
-sg13
-(lp1444
-S'Lee Silver.'
+p1441
+sg16
+(lp1442
+g1440
+asa(dp1443
+g22
+(dp1444
+I1
+S'[laughter]'
 p1445
-asa(dp1446
-g8
-S'LEE SILVER'
+ssg8
+(lp1446
+S'I love my children the way they are.'
 p1447
-sg13
-(lp1448
-S'-- an either/or. We all agree that environment is important, but the genes are also'
-p1449
-aS'important.'
-p1450
-asg16
-(dp1451
-I2
-S'19:54:56'
-p1452
-ssa(dp1453
+asg11
+S'LEE SILVER'
+p1448
+sg16
+(lp1449
+g1447
+asa(dp1450
 g8
+(lp1451
+S'Are you avoiding what, to me, seems like a really relevant question.'
+p1452
+aS'Just what are youtalking about?'
+p1453
+asg11
 S'JOHN DONVAN'
 p1454
 sg13
-(lp1455
-S'The other side want to respond to that? What I found interesting in what Nita said is'
+(dp1455
+I0
+S'26'
 p1456
-aS'she said the difference between intervening so that your child will not be -- will not have'
-p1457
-aS"a heart problem, say, in his 60s is a form of enhancement. It does make the child's life"
+ssg16
+(lp1457
+S'Are you avoiding what, to me, seems like a really relevant question.'
 p1458
-aS"better, and maybe it's not so different from giving the child a little bit of a intelligence"
+aS'Just what are you talking about?'
 p1459
-aS"boost as well, that once you're making things better, you're making things better. You --"
-p1460
-aS'earlier -- you said there was a distinction between those two things, and I just want to'
+asg18
+(dp1460
+S'19:44:58'
 p1461
-aS'see if you can respond to what I think her point was. Sheldon.'
-p1462
-asa(dp1463
-g8
-S'LORD ROBERT WINSTON'
-p1464
-sg13
-(lp1465
-S'I mean --'
-p1466
-asa(dp1467
-g8
-S'JOHN DONVAN'
-p1468
-sg13
-(lp1469
-S'Robert Winston.'
-p1470
-asa(dp1471
-g8
-S'LORD ROBERT WINSTON'
-p1472
-sg13
-(lp1473
-S'You know --'
-p1474
-asa(dp1475
-g20
-(dp1476
 I2
-S'[laughter]'
-p1477
-ssg8
+ssa(dp1462
+g8
+(lp1463
+S"No, I don't think it's avoidance, because I don't think that's what parents care about themost."
+p1464
+aS'What parents care about the most is promoting the health during the lifetime oftheir child.'
+p1465
+aS"And that's what they're going to focus on."
+p1466
+asg11
+S'LEE SILVER'
+p1467
+sg16
+(lp1468
+S"No, I don't think it's avoidance, because I don't think that's what parents care about the most."
+p1469
+aS'What parents care about the most is promoting the health during the lifetime of their child.'
+p1470
+aS"And that's what they're going to focus on."
+p1471
+asa(dp1472
+g8
+(lp1473
+S'So you don\'t -- there were intimations from this side when you used the term "thepursuit of human perfection.'
+p1474
+aS'"'
+p1475
+asg11
 S'JOHN DONVAN'
+p1476
+sg16
+(lp1477
+S'So you don\'t -- there were intimations from this side when you used the term "the pursuit of human perfection.'
 p1478
-sg13
-(lp1479
-S"Do you mind if Sheldon takes it -- because we just haven't heard from him in a while -- if"
-p1480
-aS'you have an answer to that, Sheldon.'
+ag1475
+asa(dp1479
+g8
+(lp1480
+S'There is no such thing as human perfection.'
 p1481
-asa(dp1482
-g20
-(dp1483
-I0
-S'[inaudible]'
-p1484
-ssg8
-S'SHELDON KRIMSKY'
+aS"It's not a scientific concept."
+p1482
+asg11
+S'LEE SILVER'
+p1483
+sg16
+(lp1484
+S'There is no such thing as human perfection.'
 p1485
-sg13
-(lp1486
-sa(dp1487
+aS"It's not a scientific concept."
+p1486
+asa(dp1487
 g8
+(lp1488
+S"Well, if there's a pursuit of human perfection."
+p1489
+asg11
 S'JOHN DONVAN'
-p1488
-sg10
-(dp1489
-I1
-S'33'
 p1490
-ssg13
+sg16
 (lp1491
-S'Just in the interest of fairness.'
-p1492
-asa(dp1493
+g1489
+asa(dp1492
 g8
-S'SHELDON KRIMSKY'
+(lp1493
+S"No, I don't mean -- that's not what parents are trying to do."
 p1494
-sg13
-(lp1495
-S'I think my argument was that any of the factors we think about enhancement are so'
+aS"They're trying to just -- givetheir children whatever --"
+p1495
+asg11
+S'LEE SILVER'
 p1496
-aS'complex, they involve so many genes, that it would just be unrealistic to think that you'
-p1497
-aS'can enhance a person by manipulating a few genes here or there.'
+sg16
+(lp1497
+S"No, I don't mean -- that's not what parents are trying to do."
 p1498
-aS"And, plus, we haven't even discussed the epigenome, which are all the switches that"
+aS"They're trying to just -- give their children whatever --"
 p1499
-aS'turn genes on and off, which are so complex --'
-p1500
-asg16
-(dp1501
-I3
-S'19:56:00'
+asa(dp1500
+g8
+(lp1501
+S'Okay.'
 p1502
-ssa(dp1503
-g8
+asg11
 S'JOHN DONVAN'
-p1504
-sg13
-(lp1505
-S"But that doesn't get to the point that she was making. She was making the point that"
-p1506
-aS"fixing something a little bit is not all so different from pushing something that's not fixed"
+p1503
+sg16
+(lp1504
+g1502
+asa(dp1505
+g8
+(lp1506
+S'-- health advantage they can.'
 p1507
-aS'into a better place, not broken, into a better place.'
+aS"That's not perfection."
 p1508
-asa(dp1509
-g8
-S'SHELDON KRIMSKY'
+aS'There is no perfection.'
+p1509
+asg11
+S'LEE SILVER'
 p1510
-sg13
+sg16
 (lp1511
-S"If she's saying that there isn't a clear distinction between a medical improvement or"
+S'-- health advantage they can.'
 p1512
-aS'medical -- or therapy and enhancement, I actually agree --'
+aS"That's not perfection."
 p1513
-asa(dp1514
+aS'There is no perfection.'
+p1514
+asa(dp1515
 g8
-S'JOHN DONVAN'
-p1515
-sg13
 (lp1516
-S'Okay.'
+S"So you're basically saying that that slippery slope is -- is a red herring."
 p1517
-asa(dp1518
-g8
-S'SHELDON KRIMSKY'
-p1519
-sg13
-(lp1520
-S'-- that there is a fuzzy line between enhancement and therapy.'
-p1521
-asa(dp1522
-g8
+asg11
 S'JOHN DONVAN'
+p1518
+sg16
+(lp1519
+g1517
+asa(dp1520
+g8
+(lp1521
+S"I just don't believe in perfection."
+p1522
+asg11
+S'LEE SILVER'
 p1523
-sg13
+sg16
 (lp1524
-S'Right in the very center.'
-p1525
-asg16
-(dp1526
-I1
-S'19:56:50'
-p1527
-ssa(dp1528
+g1522
+asa(dp1525
 g8
-S'GERRY OHRSTROM'
-p1529
-sg13
-(lp1530
-S'Thank you, this is great. My name is Gerry Ohrstrom, and my question is for Professor'
-p1531
-aS'Krimsky. Professor, your debating opponent Lee Silver mentioned that "Mother Nature'
-p1532
-aS'doesn\'t care." In contrast, if I infer correctly, when you briefly introduce the concept of'
-p1533
-aS'balance in your remarks, you seem to be saying that the genome has evolved as some'
-p1534
-aS"idealized natural balance and shouldn't be messed with. My question is whether this"
-p1535
-aS'concept of balance is actually valid, given that evolution operates through randomness'
-p1536
-aS'and through natural selection in ever-changing random contexts.'
-p1537
-asa(dp1538
-g8
-S'JOHN DONVAN'
-p1539
-sg13
-(lp1540
-S"You're saying nature --"
-p1541
-asa(dp1542
-g8
-S'GERRY OHRSTROM'
-p1543
-sg10
-(dp1544
-I1
-S'34'
-p1545
-ssg13
-(lp1546
-S'Is there really a place for this notion of balance or --'
-p1547
-asa(dp1548
-g8
-S'SHELDON KRIMSKY'
-p1549
-sg13
-(lp1550
-S'Well, yeah.'
-p1551
-asa(dp1552
-g8
-S'JOHN DONVAN'
-p1553
-sg13
-(lp1554
-S'That nature could have done a much better job if this was -- if nature was so good at it,'
-p1555
-aS'we would be a lot better than this?'
-p1556
-asa(dp1557
-g8
-S'GERRY OHRSTROM'
-p1558
-sg13
-(lp1559
-S'Well, that might -- my question is whether the professor perceives our evolved genome'
-p1560
-aS'as something that should be. Or is this --'
-p1561
-asa(dp1562
-g8
-S'JOHN DONVAN'
-p1563
-sg13
-(lp1564
+(lp1526
 S'Okay.'
-p1565
-asa(dp1566
-g8
-S'GERRY OHRSTROM'
-p1567
-sg13
-(lp1568
-S'-- Humes fallacy?'
-p1569
-asa(dp1570
-g8
+p1527
+aS'I just want to put it to the other side then.'
+p1528
+aS'Basically, I think your opponents aresaying that that particular concern is a little bit chicken little.'
+p1529
+asg11
 S'JOHN DONVAN'
-p1571
-sg13
-(lp1572
-S'Right.'
-p1573
-asa(dp1574
+p1530
+sg16
+(lp1531
+S'Okay.'
+p1532
+aS'I just want to put it to the other side then.'
+p1533
+aS'Basically, I think your opponents are saying that that particular concern is a little bit chicken little.'
+p1534
+asa(dp1535
 g8
-S'SHELDON KRIMSKY'
-p1575
-sg13
-(lp1576
-S'I think that --'
-p1577
-asa(dp1578
+(lp1536
+S"Well, I don't think either of us have --"
+p1537
+asg11
+S'LORD ROBERT WINSTON'
+p1538
+sg16
+(lp1539
+g1537
+asa(dp1540
 g8
-S'JOHN DONVAN'
-p1579
-sg13
-(lp1580
-S'Sheldon Krimsky.'
-p1581
-asa(dp1582
-g8
-S'SHELDON KRIMSKY'
-p1583
-sg13
-(lp1584
-S"-- over millions of years, mistakes have been bred out to a great extent. And it's"
-p1585
-aS'remarkable how many children are born normally with the billions and billions of'
-p1586
-aS'biochemical actions that take place from the fertilized egg until the child is born.'
-p1587
-aS"So a lot of mistakes were bred out of the system, and it's taken millions of years before"
-p1588
-aS"the human genome has evolved. Now we're saying, okay, we can get a few"
-p1589
-aS'technologists to tinker with that and do a better job at the balancing the homeostasis of'
-p1590
-aS'what I consider an ecosystem, a genetic ecosystem. And my colleague here has pointed'
-p1591
-aS'out how many abnormalities occur when these genetic mice are manipulated.'
-p1592
-asg16
-(dp1593
-I3
-S'19:58:09'
-p1594
-ssa(dp1595
-g8
-S'JOHN DONVAN'
-p1596
-sg13
-(lp1597
-S'Lee Silver.'
-p1598
-asa(dp1599
-g8
-S'LEE SILVER'
-p1600
-sg10
-(dp1601
-I0
-S'35'
-p1602
-ssg13
-(lp1603
-S"Well, I think we've learned something very important about the genome in the last five"
-p1604
-aS'to 10 years, which is that every member of this audience has hundreds of mutations'
-p1605
-aS"that can kill a child if they're in the same embryo as a mutation from the other partner,"
-p1606
-aS"so it's not so pleasant."
-p1607
-asg16
-(dp1608
-I4
-S'19:59:03'
-p1609
-ssa(dp1610
-g8
-S'JOHN DONVAN'
-p1611
-sg13
-(lp1612
-S'Okay, another question, right down in the front here. Or, actually, I like to do a little'
-p1613
-aS"gender balance, so forgive me, but, ma'am? I'll come back to you -- If you would stand"
-p1614
-aS'up, please. Thanks.'
-p1615
-asa(dp1616
-g8
-S'JANE GABRET'
-p1617
-sg13
-(lp1618
-S'Yes, my name is Jane Gabret . This question is really for both sides'
-p1619
-aS"of the motion. There has been so much in vitro fertilization that's gone on, and I know"
-p1620
-aS'that there are many studies now that are linking a possible link autism to in vitro'
-p1621
-aS'fertilization. And is that an example of seeing something after the fact -- a good thing, in'
-p1622
-aS"vitro has produced many, many babies but now they're thinking that the big, huge spike"
-p1623
-aS'in autism could have some link to that.'
-p1624
-asg16
-(dp1625
-I6
-S'19:59:56'
-p1626
-ssa(dp1627
-g8
-S'JOHN DONVAN'
-p1628
-sg13
-(lp1629
+(lp1541
 S'Robert Winston.'
-p1630
-asa(dp1631
-g8
-S'LORD ROBERT WINSTON'
-p1632
-sg10
-(dp1633
-I14
-S'36'
-p1634
-ssg13
-(lp1635
-S"Well, I think it's fair to say that we certainly will find some rather unusual occasions"
-p1636
-aS'when there are abnormalities which are a result of the broad aspect of in vitro'
-p1637
-aS'fertilization. There are particular issues which do change gene function; we know, for'
-p1638
-aS'example, that embryo freezing on rare occasions changes gene function. We published'
-p1639
-aS'that from my own laboratory, demonstrating that a cancer suppressing gene is'
-p1640
-aS'suppressed in its action after routine freezing. We also know from animal studies in'
-p1641
-aS'mice and rats, that there may be an increased risk of demyelination; that is, a form of'
-p1642
-aS'ME in the brain in some animals that have had a cell removed. Now, I have to say that'
-p1643
-aS'these things have to be much more carefully validated.'
-p1644
-aS"The problem really is, with in vitro fertilization, it's probably rather like meddling with a"
-p1645
-aS'genome: most of the time, it might well be quite safe. And I would not want people to'
-p1646
-aS"go away from here thinking that IVF is a horrible thing to do for a child, it clearly isn't."
-p1647
-aS' But the full consequences of in vitro fertilization cannot be known for a very long time'
-p1648
-aS"ahead. It's well worth putting your --"
-p1649
-asg16
-(dp1650
-I9
-S'20:00:51'
-p1651
-ssa(dp1652
-g8
+p1542
+asg11
 S'JOHN DONVAN'
-p1653
+p1543
 sg13
-(lp1654
-S"So you're -- so you're not saying that -- you're not --"
-p1655
-asa(dp1656
-g8
-S'LORD ROBERT WINSTON'
-p1657
-sg13
-(lp1658
-S'Just one point. It was 50 years before we fully understood the effect of ionizing'
-p1659
-aS"radiation, and even now we can't quantify it exactly."
-p1660
-asa(dp1661
-g8
-S'JOHN DONVAN'
-p1662
-sg13
-(lp1663
-S'Okay. So you are not saying that you see an autism link; you are more broadly saying'
-p1664
-aS"you don't know where things are going to go. And I want to take that part of the"
-p1665
-aS'question back to the other side. Nita Farahany.'
-p1666
-asa(dp1667
-g8
-S'NITA FARAHANY'
-p1668
-sg13
-(lp1669
-S'Well, quite nicely, he makes the point for us, which is there are still uncertainties with'
-p1670
-aS"IVF and yet he's in favor of going ahead with IVF. And why is that? Because we have to"
-p1671
-aS'act in the face of uncertainty in life. I agree, there has not been a strong showing of any'
-p1672
-aS'link between autism, maybe it has something with age of mothers who are undergoing'
-p1673
-aS"IVF, we don't know. But I think the much more important question to ask is, we've been"
-p1674
-aS'using technologies that have some uncertain risks, are the lives worth living that have'
-p1675
-aS'resulted from those technologies?'
-p1676
-aS'And the answer is yes, those are lives worth living. The children believe those are lives'
-p1677
-aS'worth living, the parents believe that those were lives that were worth bringing into life.'
-p1678
-aS"That's what these technologies have enabled people to do, is to bring into life a life"
-p1679
-aS'worth living. There may be some risks, there may be some uncertainties, but that'
-p1680
-aS"doesn't mean it's not worth proceeding."
-p1681
-asg16
-(dp1682
-I7
-S'20:02:07'
-p1683
-ssa(dp1684
-g8
-S'JOHN DONVAN'
-p1685
-sg13
-(lp1686
-S'Another question?'
-p1687
-asa(dp1688
-g8
-S'LEE SILVER'
-p1689
-sg13
-(lp1690
-S'I just want to raise the point --'
-p1691
-asa(dp1692
-g8
-S'JOHN DONVAN'
-p1693
-sg13
-(lp1694
-S'Okay, very quickly.'
-p1695
-asa(dp1696
-g8
-S'LEE SILVER'
-p1697
-sg13
-(lp1698
-S"-- we don't stop people who are both carriers for the same mutation at reproducing,"
-p1699
-aS'even though they have 25 percent risk of having a child with a serious disease. We'
-p1700
-aS"shouldn't discriminate against people just because they're infertile."
-p1701
-asa(dp1702
-g8
-S'JOHN DONVAN'
-p1703
-sg10
-(dp1704
+(dp1544
 I0
-S'37'
-p1705
-ssg13
-(lp1706
-S"Four rows from the back, you're wearing a black and white striped shirt, thanks."
-p1707
-asg16
-(dp1708
-I1
-S'20:02:53'
-p1709
-ssa(dp1710
+S'27'
+p1545
+ssg16
+(lp1546
+g1542
+asa(dp1547
 g8
-S'MARIA'
-p1711
-sg13
-(lp1712
-S'My name is Maria . So science is science, and science will always have its'
-p1713
-aS'uncertainties, but at the end of the day this is a very emotional issue, and prohibition,'
-p1714
-aS'what we know from history, is that people do dire things when they really want to, coat'
-p1715
-aS'hanger abortions or bootleggers. So to the team against -- or to the team arguing for'
-p1716
-aS"prohibition, what do you tell the woman who's about to go get the equivalent of a coat"
-p1717
-aS"hanger abortion? So if you can't do this, what do you tell her?"
-p1718
-asa(dp1719
+(lp1548
+S"I don't think either of us said we were chasing perfection."
+p1549
+aS"Of course, we're not."
+p1550
+aS'I thinkall of us on this panel, all four of us are sensible people.'
+p1551
+aS"And the areas of disagreementare perhaps quite narrow, but they are very, very important.And I think the issue is not perfection but the fact is that really what you are proffering,what you're offering is something which at the moment and for the foreseeable futureis entirely unpredictable."
+p1552
+aS"And it's dangerous to individuals where the unpredictability ."
+p1553
+asg11
+S'LORD ROBERT WINSTON'
+p1554
+sg16
+(lp1555
+S"I don't think either of us said we were chasing perfection."
+p1556
+aS"Of course, we're not."
+p1557
+aS'I think all of us on this panel, all four of us are sensible people.'
+p1558
+aS'And the areas of disagreement are perhaps quite narrow, but they are very, very important.'
+p1559
+aS"And I think the issue is not perfection but the fact is that really what you are proffering, what you're offering is something which at the moment and for the foreseeable future is entirely unpredictable."
+p1560
+aS"And it's dangerous to individuals where the unpredictability ."
+p1561
+asg18
+(dp1562
+S'19:45:57'
+p1563
+I3
+ssa(dp1564
 g8
-S'MALE SPEAKER'
-p1720
-sg13
-(lp1721
-S'Well --'
-p1722
-asa(dp1723
-g8
-S'NITA FARAHANY'
-p1724
-sg13
-(lp1725
-S'I think the point is a good one, which is, in the years before abortion, 1.2 million women'
-p1726
-aS"per year had illegal abortions. Do we really think this technology won't exist?"
-p1727
-asa(dp1728
-g8
+(lp1565
+S'But, Robert, your partner did introduce that broader moral notion.'
+p1566
+aS"You're -- the moralconcern that you raised, Sheldon Krimsky, was not simply the problem of theunpredictability of the science."
+p1567
+aS'You talked about the larger vision of what we want tobe as a society when we have this technology more fully developed.'
+p1568
+aS'Can you --'
+p1569
+asg11
 S'JOHN DONVAN'
-p1729
+p1570
+sg16
+(lp1571
+S'But, Robert, your partner did introduce that broader moral notion.'
+p1572
+aS"You're -- the moral concern that you raised, Sheldon Krimsky, was not simply the problem of the unpredictability of the science."
+p1573
+aS'You talked about the larger vision of what we want to be as a society when we have this technology more fully developed.'
+p1574
+aS'Can you --'
+p1575
+asa(dp1576
+g8
+(lp1577
+S'Exactly.'
+p1578
+aS'I was going to leave that for my final comments because I truly was plagued bythe mitochondria problem.'
+p1579
+aS'I think it is a problem for people who oppose geneticallyengineering babies because on one hand you feel for people, and you want them tohave the best for their lives.'
+p1580
+aS'So there has to be a response to the mitochondrialproblem or other problems where people have two copies of a diseased gene andcannot use pre-implantation embryo or diagnosis.'
+p1581
+asg11
+S'SHELDON KRIMSKY'
+p1582
+sg16
+(lp1583
+S'Exactly.'
+p1584
+aS'I was going to leave that for my final comments because I truly was plagued by the mitochondria problem.'
+p1585
+aS'I think it is a problem for people who oppose genetically engineering babies because on one hand you feel for people, and you want them to have the best for their lives.'
+p1586
+aS'So there has to be a response to the mitochondrial problem or other problems where people have two copies of a diseased gene and cannot use pre-implantation embryo or diagnosis.'
+p1587
+asg18
+(dp1588
+S'19:47:07'
+p1589
+I6
+ssa(dp1590
+g8
+(lp1591
+S'Nita Farahany.'
+p1592
+asg11
+S'JOHN DONVAN'
+p1593
+sg16
+(lp1594
+g1592
+asa(dp1595
+g8
+(lp1596
+S"I think what's important to realize is that with every slippery slope argument, thequestion is, is a ban -- a ban outright better, or is there some middle ground?"
+p1597
+aS'Is theresome way that we can trust society to have reasonable limitations on the advancementof technology?'
+p1598
+aS"We've offered one."
+p1599
+aS'Mitochondrial DNA has 2 percent of your DNA, butit codes only for about .1 percent of what happens in an offspring.'
+p1600
+aS"It's the essentialenergy source."
+p1601
+aS'What if we stopped it there?'
+p1602
+aS'What if we decided that that one step issomething we believe is safe and efficacious?'
+p1603
+aS'It would still call for not an outright ban.The next step would be nuclear DNA.'
+p1604
+aS'And if we felt like nuclear DNA is off limits todayuntil we have better safety studies, that would be a reasonable approach forward, andthen we would say, what scientific evidence do we have?'
+p1605
+aS'Given the scientific evidencethat we have, what ethical constraints do we as a society wish to put into place?'
+p1606
+aS'We doit all the time with every technology we have.'
+p1607
+aS"We don't ban technologies."
+p1608
+aS'We havepublic transparent debates about the best place to draw the line.'
+p1609
+asg11
+S'NITA FARAHANY'
+p1610
 sg13
-(lp1730
-S'I think the -- I think the -- I just want to say with respect that I think you kind confused'
-p1731
-aS'the issue by the linkage to a coat hanger abortion, when in the case of seeking a'
-p1732
-aS'therapy, it might be the situation that people will go offshore or that the wealthy will go'
-p1733
-aS'offshore which was a point that was brought up earlier.'
-p1734
-aS'So would you be willing to rephrase your question to say, what are you going to say to'
-p1735
-aS"women who can't get this while other women can? Because I -- I don't know that"
-p1736
-aS"there's going to be a back alley, you know, geneticist working this."
-p1737
-asg16
-(dp1738
-I4
-S'20:03:57'
-p1739
-ssa(dp1740
-g20
-(dp1741
+(dp1611
+I7
+S'28'
+p1612
+ssg16
+(lp1613
+S"I think what's important to realize is that with every slippery slope argument, the question is, is a ban -- a ban outright better, or is there some middle ground?"
+p1614
+aS'Is there some way that we can trust society to have reasonable limitations on the advancement of technology?'
+p1615
+aS"We've offered one."
+p1616
+aS'Mitochondrial DNA has 2 percent of your DNA, but it codes only for about .1 percent of what happens in an offspring.'
+p1617
+aS"It's the essential energy source."
+p1618
+aS'What if we stopped it there?'
+p1619
+aS'What if we decided that that one step is something we believe is safe and efficacious?'
+p1620
+aS'It would still call for not an outright ban.'
+p1621
+aS'The next step would be nuclear DNA.'
+p1622
+aS'And if we felt like nuclear DNA is off limits today until we have better safety studies, that would be a reasonable approach forward, and then we would say, what scientific evidence do we have?'
+p1623
+aS'Given the scientific evidence that we have, what ethical constraints do we as a society wish to put into place?'
+p1624
+aS'We do it all the time with every technology we have.'
+p1625
+aS"We don't ban technologies."
+p1626
+aS'We have public transparent debates about the best place to draw the line.'
+p1627
+asg18
+(dp1628
+S'19:47:50'
+p1629
+I7
+ssa(dp1630
+g8
+(lp1631
+S'In just a moment, I want to come to you in the audience to start taking your questions.And I want to remind you again how it works.'
+p1632
+aS'If you just raise your hand, a microphonewill be brought to you.'
+p1633
+aS'If you can stand up, hold the microphone about as far awayfrom your mouth as this one is from me so that the radio broadcast can pick you up.'
+p1634
+aS"We'd appreciate it if you could state your name."
+p1635
+aS'And the hardest part of all is to bereally concise and to really make it a question.'
+p1636
+aS"And you'll know because a questionmark goes right at the end of it."
+p1637
+aS"If that feels right, you've succeeded."
+p1638
+aS'I want to letRobert Winston respond.'
+p1639
+asg11
+S'JOHN DONVAN'
+p1640
+sg16
+(lp1641
+S'In just a moment, I want to come to you in the audience to start taking your questions.'
+p1642
+aS'And I want to remind you again how it works.'
+p1643
+aS'If you just raise your hand, a microphone will be brought to you.'
+p1644
+aS'If you can stand up, hold the microphone about as far away from your mouth as this one is from me so that the radio broadcast can pick you up.'
+p1645
+aS"We'd appreciate it if you could state your name."
+p1646
+aS'And the hardest part of all is to be really concise and to really make it a question.'
+p1647
+aS"And you'll know because a question mark goes right at the end of it."
+p1648
+aS"If that feels right, you've succeeded."
+p1649
+aS'I want to let Robert Winston respond.'
+p1650
+asg18
+(dp1651
+S'19:48:52'
+p1652
+I8
+ssa(dp1653
+g22
+(dp1654
+I8
+S'[laughter]'
+p1655
+ssg8
+(lp1656
+S'Just a brief point about the mitochondrial thing, this extraordinarily rare situation wheremitochondria are abnormal.'
+p1657
+aS'The very few experiments done in animals onmitochondria, but one that stands out in my mind is a thing called the PEPCK mouse.'
+p1658
+aS'PEPCK mouse whose mitochondria have been modified, runs 20 times further than anormal mouse and is much more athletic.'
+p1659
+aS'It turned out completely unpredictablebecause it has really strange fertility disorders.'
+p1660
+aS'It has a very weird metabolism.'
+p1661
+aS"Andabove all, it's much more aggressive than other mice."
+p1662
+aS"It's not one that you'd want tohave in your kitchen."
+p1663
+asg11
+S'LORD ROBERT WINSTON'
+p1664
+sg16
+(lp1665
+S'Just a brief point about the mitochondrial thing, this extraordinarily rare situation where mitochondria are abnormal.'
+p1666
+aS'The very few experiments done in animals on mitochondria, but one that stands out in my mind is a thing called the PEPCK mouse.'
+p1667
+aS'PEPCK mouse whose mitochondria have been modified, runs 20 times further than a normal mouse and is much more athletic.'
+p1668
+aS'It turned out completely unpredictable because it has really strange fertility disorders.'
+p1669
+aS'It has a very weird metabolism.'
+p1670
+aS"And above all, it's much more aggressive than other mice."
+p1671
+aS"It's not one that you'd want to have in your kitchen."
+p1672
+asa(dp1673
+g22
+(dp1674
 I1
 S'[laughter]'
-p1742
+p1675
 ssg8
-S'MARIA'
-p1743
-sg13
-(lp1744
-S'Well, I --'
-p1745
-asa(dp1746
-g20
-(dp1747
-I1
-S'[applause]'
-p1748
-ssg8
+(lp1676
+S'Lee Silver.'
+p1677
+aS'Sounds like a bad mouse.'
+p1678
+asg11
 S'JOHN DONVAN'
-p1749
-sg10
-(dp1750
-I4
-S'38'
-p1751
-ssg13
-(lp1752
-S"So I'd like --"
-p1753
-aS"I'd like to rephrase the question. I'd like to rephrase the question to this side, that if in --"
-p1754
-aS'if the technology in particular, as Nita Farahany had said in the U.S. being left behind, if'
-p1755
-aS"it's going to be available overseas in safe clinical settings, but you have to be rich to get"
-p1756
-aS"there or connected, what are you going to say to the women who can't get there? And"
-p1757
-aS"I'll put that to Sheldon Krimsky."
-p1758
-asa(dp1759
+p1679
+sg16
+(lp1680
+S'Lee Silver.'
+p1681
+aS'Sounds like a bad mouse.'
+p1682
+asa(dp1683
 g8
+(lp1684
+S'Sounds like a good mouse to me.'
+p1685
+aS"But we're not arguing that the safety and efficacyexists right now for all of the possibilities of the future."
+p1686
+aS"I mean, we're talking about --the mitochondria is one small case."
+p1687
+aS"In the larger sphere, we're talking about ourchildren's children and their children."
+p1688
+aS"And the advancements in genetics are happeningso fast that we can't prohibit forward advance if it's done safely and effectively."
+p1689
+asg11
+S'LEE SILVER'
+p1690
+sg13
+(dp1691
+I5
+S'29'
+p1692
+ssg16
+(lp1693
+S'Sounds like a good mouse to me.'
+p1694
+aS"But we're not arguing that the safety and efficacy exists right now for all of the possibilities of the future."
+p1695
+aS"I mean, we're talking about -- the mitochondria is one small case."
+p1696
+aS"In the larger sphere, we're talking about our children's children and their children."
+p1697
+aS"And the advancements in genetics are happening so fast that we can't prohibit forward advance if it's done safely and effectively."
+p1698
+asg18
+(dp1699
+S'19:50:05'
+p1700
+I5
+ssa(dp1701
+g8
+(lp1702
+S'John, can I just tell the audience --'
+p1703
+asg11
 S'SHELDON KRIMSKY'
-p1760
-sg13
-(lp1761
-S'To the women who cannot get the genetic engineering for this problem?'
-p1762
-asa(dp1763
+p1704
+sg16
+(lp1705
+g1703
+asa(dp1706
 g8
+(lp1707
+S'Sheldon Krimsky.'
+p1708
+asg11
 S'JOHN DONVAN'
-p1764
-sg13
-(lp1765
-S"In a world -- in a world where it's already -- where the train's left the station."
-p1766
-asa(dp1767
+p1709
+sg16
+(lp1710
+g1708
+asa(dp1711
 g8
-S'FEMALE SPEAKER'
+(lp1712
+S"-- what we're dealing with here with the mitochondrial case?"
+p1713
+aS"The woman's egg hasabnormalities in the cytoplasm."
+p1714
+aS'And the mitochondria is in the cytoplasm.'
+p1715
+aS'But her DNAis perfectly normal.'
+p1716
+aS"So there's several ways that they deal with it."
+p1717
+aS"They either take herDNA out of her egg and put it into another egg where the DNA has been removed soshe'd operating with her DNA in somebody else's mitochondria."
+p1718
+aS'So you have then achild born with the DNA of two women and then one man.'
+p1719
+aS'And these interactionsbetween the nucleus DNA and the cytoplasm DNA are totally unknown.'
+p1720
+asg11
+S'SHELDON KRIMSKY'
+p1721
+sg16
+(lp1722
+S"-- what we're dealing with here with the mitochondrial case?"
+p1723
+aS"The woman's egg has abnormalities in the cytoplasm."
+p1724
+aS'And the mitochondria is in the cytoplasm.'
+p1725
+aS'But her DNA is perfectly normal.'
+p1726
+aS"So there's several ways that they deal with it."
+p1727
+aS"They either take her DNA out of her egg and put it into another egg where the DNA has been removed so she'd operating with her DNA in somebody else's mitochondria."
+p1728
+aS'So you have then a child born with the DNA of two women and then one man.'
+p1729
+aS'And these interactions between the nucleus DNA and the cytoplasm DNA are totally unknown.'
+p1730
+asa(dp1731
+g8
+(lp1732
+S"That's right."
+p1733
+asg11
+S'ROBERT WINSTON'
+p1734
+sg16
+(lp1735
+g1733
+asg18
+(dp1736
+S'19:50:53'
+p1737
+I1
+ssa(dp1738
+g8
+(lp1739
+S'There are other ways to do it.'
+p1740
+aS'One way is if you have like rotten milk, you take the milkand divide it in half and then put good milk into it.'
+p1741
+aS"You take the cytoplasm from ahealthy egg, and you pump it into the abnormal cytoplasm of the abnormal cells soyou're pumping in somebody else's DNA into the woman's egg."
+p1742
+aS'And then you have thechild with that, hoping that --'
+p1743
+asg11
+S'SHELDON KRIMSKY'
+p1744
+sg16
+(lp1745
+S'There are other ways to do it.'
+p1746
+aS'One way is if you have like rotten milk, you take the milk and divide it in half and then put good milk into it.'
+p1747
+aS"You take the cytoplasm from a healthy egg, and you pump it into the abnormal cytoplasm of the abnormal cells so you're pumping in somebody else's DNA into the woman's egg."
+p1748
+aS'And then you have the child with that, hoping that --'
+p1749
+asa(dp1750
+g8
+(lp1751
+S'Okay.'
+p1752
+aS'Let me -- let me take back to Nita Farahany because you talked about themitochondrial transfer in your opening statement quite extensively.'
+p1753
+aS"And your opponenthas basically just said the whole premise of what you're talking about is actually its ownkind of crap shoot."
+p1754
+asg11
+S'JOHN DONVAN'
+p1755
+sg16
+(lp1756
+S'Okay.'
+p1757
+aS'Let me -- let me take back to Nita Farahany because you talked about the mitochondrial transfer in your opening statement quite extensively.'
+p1758
+aS"And your opponent has basically just said the whole premise of what you're talking about is actually its own kind of crap shoot."
+p1759
+asa(dp1760
+g8
+(lp1761
+S"So let me add one technology that my opponent didn't talk about, which is -- whichanswers his issue."
+p1762
+aS"There's a technology for mitochondrial transfer that's going to clinicaltrials from a company in Boston this year."
+p1763
+aS"And in that technology, what they'vediscovered is that women have precursor cells before their egg cells."
+p1764
+aS'And thoseprecursor cells can be used to develop their own mitochondria, healthy mitochondria.'
+p1765
+aS'And they can take their own healthy mitochondria, fuse it with their own nuclear DNA,and they can end up with a healthy offspring, free from mitochondrial disease.Already in clinical trials, already ready to enroll human subjects, already with the greenlight to go ahead.'
+p1766
+aS'You would be banning that technology and preventing women whohave abnormal mitochondrial DNA from being able to have the choice to have their owngenetic children.'
+p1767
+asg11
+S'NITA FARAHANY'
 p1768
 sg13
-(lp1769
-S'In a world where just the wealthy can get it.'
+(dp1769
+I7
+S'30'
 p1770
-asa(dp1771
-g8
-S'SHELDON KRIMSKY'
+ssg16
+(lp1771
+S"So let me add one technology that my opponent didn't talk about, which is -- which answers his issue."
 p1772
-sg13
-(lp1773
-S'Genetic -- genetically modifying human reproductive cells is a totally new frontier. It has'
+aS"There's a technology for mitochondrial transfer that's going to clinical trials from a company in Boston this year."
+p1773
+aS"And in that technology, what they've discovered is that women have precursor cells before their egg cells."
 p1774
-aS'lots of risks, and its risks are not only to the individuals who are involved in it. Its risks'
+aS'And those precursor cells can be used to develop their own mitochondria, healthy mitochondria.'
 p1775
-aS'are to the society as a whole or to other societies, a new Hitlerian society that arises.'
+aS'And they can take their own healthy mitochondria, fuse it with their own nuclear DNA, and they can end up with a healthy offspring, free from mitochondrial disease.'
 p1776
-aS'The last thing you want to do is to provide a technology that could be misused by'
+aS'Already in clinical trials, already ready to enroll human subjects, already with the green light to go ahead.'
 p1777
-aS'authoritarian societies for their own functions. And this is a totally novel frontier that'
+aS'You would be banning that technology and preventing women who have abnormal mitochondrial DNA from being able to have the choice to have their own genetic children.'
 p1778
-aS'we should be extraordinarily cautious about in trying to break through. We have never'
-p1779
-aS"done this before. Those examples that she gave us are very tentative. They're full of"
+asg18
+(dp1779
+S'19:52:10'
 p1780
-aS'risks. And if we produce the child that was abnormal, then society would have to deal'
-p1781
-aS'with it.'
-p1782
-asg16
-(dp1783
-I3
-S'20:04:59'
+I7
+ssa(dp1781
+g8
+(lp1782
+S'Response from the other side, or shall we go to questions from the audience?'
+p1783
+asg11
+S'JOHN DONVAN'
 p1784
-ssa(dp1785
+sg16
+(lp1785
+g1783
+asa(dp1786
 g8
-S'JOHN DONVAN'
-p1786
-sg13
 (lp1787
-S'Okay. I want to remind you that we are in the question and answer section of this'
+S"Well, let's wait and see the results of the trial, shall we?"
 p1788
-aS'debaters arguing out this motion: prohibit genetically engineered babies. Nita'
+aS'I suspect that we might findsome surprises as we have with every one of these other trials.'
 p1789
-aS"Farahany, do you want to respond to the questioner's point?"
+aS"You could argue toothat you're not genetically modifying anybody because you're using the DNA that'salready there in the person."
 p1790
-asg16
-(dp1791
-I3
-S'20:05:49'
+aS"It's rather like pre-implantation genetic diagnosis."
+p1791
+asg11
+S'LORD ROBERT WINSTON'
 p1792
-ssa(dp1793
-g8
-S'NITA FARAHANY'
+sg16
+(lp1793
+S"Well, let's wait and see the results of the trial, shall we?"
 p1794
-sg10
-(dp1795
-I9
-S'39'
+aS'I suspect that we might find some surprises as we have with every one of these other trials.'
+p1795
+aS"You could argue too that you're not genetically modifying anybody because you're using the DNA that's already there in the person."
 p1796
-ssg13
-(lp1797
-S'I think that the answer was not particularly forthcoming in addressing what happens'
-p1798
-aS'when people who are desperate, particularly women, for example, who have'
-p1799
-aS'mitochondrial disease, who are going to pass it on to every one of their children and'
+aS"It's rather like pre-implantation genetic diagnosis."
+p1797
+asa(dp1798
+g8
+(lp1799
+S"Actually, by -- by Lee's definition -- by Lee's definition, that does not --"
 p1800
-aS'want to have a choice to have a genetic child. What are they going to do? Well, they'
-p1801
-aS'will go abroad. The technology will go abroad. And what does the prohibition then look'
-p1802
-aS'like in this country? Does it mean that we show up with handcuffs at the airport, and'
-p1803
-aS'we arrest the person? Does it mean that we forcibly test everyone? Because what'
-p1804
-aS"we're arguing for here is not adding in genomes outside of the human genome, into"
-p1805
-aS"children. We're arguing that the babies would look identical to ones that are already in"
-p1806
-aS'our population. So how are we going to detect those differences? And what is the'
-p1807
-aS'society that prohibits it like going to look like? Is it forcible sterilizations? Is it forcible'
-p1808
-aS'genetic testing? How are we going to detect it? How are we going to enforce it? And is'
-p1809
-aS'that a kind of society that we want where we intrude that deeply into our private lives?'
-p1810
-asg16
-(dp1811
-I13
-S'20:06:53'
-p1812
-ssa(dp1813
-g8
+asg11
 S'JOHN DONVAN'
-p1814
-sg13
-(lp1815
-S'Do you want to --'
-p1816
-asa(dp1817
+p1801
+sg16
+(lp1802
+g1800
+asa(dp1803
 g8
-S'LEE SILVER'
+(lp1804
+S"I think it's a spurious argument."
+p1805
+asg11
+S'LORD ROBERT WINSTON'
+p1806
+sg16
+(lp1807
+g1805
+asa(dp1808
+g8
+(lp1809
+S"And I think Lee's definition is too -- it's modifying genetic offspring."
+p1810
+aS"Surely you wouldalso agree that that is genetic engineering, and you wouldn't"
+p1811
+asg11
+S'NITA FARAHANY'
+p1812
+sg16
+(lp1813
+S"And I think Lee's definition is too -- it's modifying genetic offspring."
+p1814
+aS"Surely you would also agree that that is genetic engineering, and you wouldn't"
+p1815
+asa(dp1816
+g8
+(lp1817
+S'You keep on --'
 p1818
-sg13
-(lp1819
-S'I want to respond directly --'
-p1820
+asg11
+S'ROBERT WINSTON'
+p1819
+sg16
+(lp1820
+g1818
 asa(dp1821
 g8
-S'JOHN DONVAN'
-p1822
-sg13
-(lp1823
-S'Lee Silver, go ahead.'
+(lp1822
+S'-- try to claim mitochondrial DNA now is your own.'
+p1823
+asg11
+S'NITA FARAHANY'
 p1824
-asa(dp1825
+sg16
+(lp1825
+g1823
+asg18
+(dp1826
+S'19:53:03'
+p1827
+I1
+ssa(dp1828
 g8
-S'LEE SILVER'
-p1826
-sg13
-(lp1827
-S'-- to the point that you made, Sheldon, which is that the children are going to be born'
-p1828
-aS'and society is not going to take care of them. Every year 4 percent of children born'
-p1829
-aS'from natural reproduction have birth defects. Some children are abandoned by their'
+(lp1829
+S'Forgive me.'
 p1830
-aS"parents. And an ethical society takes care of those children. I don't see why it would be"
+aS'You keep on talking about 2 percent of the DNA.'
 p1831
-aS'any different in the future, no matter how children come into conception.'
+aS"It's not."
 p1832
-asa(dp1833
-g8
-S'JOHN DONVAN'
+aS"It's a tiny, tinyproportion."
+p1833
+aS"It's a miniscule fraction of DNA."
 p1834
-sg13
-(lp1835
-S'Sir, down in the front here. And a mic will come to you.'
-p1836
-asa(dp1837
-g8
-S'HARLON MILLCOVE'
-p1838
-sg13
-(lp1839
-S'Hi. My name is Harlon Millcove , and my question is, is there a'
-p1840
-aS"concern that through genetic engineering a defect in DNA could be introduced that isn't"
-p1841
-aS'known until several generations later, by which point there is, you know, potential'
-p1842
-aS'damage to the gene pool that might affect --'
-p1843
-asa(dp1844
-g8
-S'JOHN DONVAN'
-p1845
-sg13
-(lp1846
-S'This side has actually said that it has that concern, so let me have you put your question'
-p1847
-aS'to this side. And did everyone hear the question clearly? Okay. Sheldon -- Lee Silver.'
-p1848
-asg16
-(dp1849
-I2
-S'20:07:55'
-p1850
-ssa(dp1851
-g8
-S'LEE SILVER'
-p1852
-sg10
-(dp1853
-I5
-S'40'
-p1854
-ssg13
-(lp1855
-S' the questions whether the defects can be introduced into the genome,'
-p1856
-aS"let's compare what already exists. In your genome, there are defects right now. You"
-p1857
-aS'have a hundred mutations that could have caused childhood disease. You have'
-p1858
-aS'deletions of genetic information. So you have all sorts of defects in your genome right'
-p1859
-aS"now. We're talking about technology which we all think should be done only when it's"
-p1860
-aS'proven safe and effective.'
-p1861
-asa(dp1862
-g8
-S'JOHN DONVAN'
-p1863
-sg13
-(lp1864
-S'Sir, down in front here.'
-p1865
-asa(dp1866
-g8
-S'JAMIE METZL'
-p1867
-sg13
-(lp1868
-S'Jamie Metzl. First, thanks to Intelligence Squared for this incredible debate. I believe,'
-p1869
-aS'as many of us here, this is one of the most important issues that our species will face in'
-p1870
-aS"our future, so it's great that we're having this important conversation. The arguments"
-p1871
-aS'of both sides seem to rely on pre-implantation genetic diagnosis process. In the case of'
-p1872
-aS'the affirmative for screening and in the negative for engineering. My question is, does'
-p1873
-aS'this mean that by both of your arguments, in the future, sex will be a form of recreation,'
-p1874
-aS'but IVF will be the preferred form of procreation for advantaged people?'
-p1875
-asg16
-(dp1876
-I7
-S'20:09:08'
-p1877
-ssa(dp1878
-g8
-S'SHELDON KRIMSKY'
-p1879
-sg13
-(lp1880
-S'Sex is already a form of recreation.'
-p1881
-asa(dp1882
-g20
-(dp1883
-I1
-S'[laughter]'
-p1884
-ssg8
-S'JOHN DONVAN'
-p1885
-sg13
-(lp1886
-S'Yeah.'
-p1887
-asa(dp1888
-g20
-(dp1889
-I1
-S'[laughter]'
-p1890
-ssg8
-S'NITA FARAHANY'
-p1891
-sg13
-(lp1892
-S'Good answer.'
-p1893
-asa(dp1894
-g8
-S'JOHN DONVAN'
-p1895
-sg13
-(lp1896
-S"We're all looking at the British guy."
-p1897
-asa(dp1898
-g20
-(dp1899
-I1
-S'[laughter]'
-p1900
-ssg8
-S'NITA FARAHANY'
-p1901
-sg13
-(lp1902
-S'Well, you just heard it from our side already.'
-p1903
-asa(dp1904
-g8
+asg11
 S'LORD ROBERT WINSTON'
-p1905
+p1835
+sg16
+(lp1836
+S'Forgive me.'
+p1837
+aS'You keep on talking about 2 percent of the DNA.'
+p1838
+aS"It's not."
+p1839
+aS"It's a tiny, tiny proportion."
+p1840
+aS"It's a miniscule fraction of DNA."
+p1841
+asa(dp1842
+g8
+(lp1843
+S'Tiny proportion of the information, yes.'
+p1844
+asg11
+S'LEE SILVER'
+p1845
+sg16
+(lp1846
+g1844
+asa(dp1847
+g8
+(lp1848
+S"That's right."
+p1849
+aS"That's still two percent of DNA."
+p1850
+asg11
+S'NITA FARAHANY'
+p1851
 sg13
-(lp1906
-S'I got the impression it was a rhetorical question.'
-p1907
+(dp1852
+I1
+S'31'
+p1853
+ssg16
+(lp1854
+S"That's right."
+p1855
+aS"That's still two percent of DNA."
+p1856
+asa(dp1857
+g8
+(lp1858
+S"Let's go to some -- let's go to some questions right here on the aisle, sir."
+p1859
+aS'And if youcould stand up, and tell us your name, and hold the mike pretty close to your mouth'
+p1860
+asg11
+S'JOHN DONVAN'
+p1861
+sg16
+(lp1862
+S"Let's go to some -- let's go to some questions right here on the aisle, sir."
+p1863
+aS'And if you could stand up, and tell us your name, and hold the mike pretty close to your mouth'
+p1864
+asa(dp1865
+g8
+(lp1866
+S"I'm Robert Klitzman from Columbia University."
+p1867
+aS'Great debate.'
+p1868
+aS"Question for theopponents, I'm wondering if we should be allowed to enhance children genetically, notperfect them, but, for instance, many parents say they'd like to have kids who areblonde haired, blue eyed."
+p1869
+aS'Should that be allowed?'
+p1870
+aS'Should there be a line drawnanywhere in terms of enhancement, and, if so, where?'
+p1871
+asg11
+S'ROBERT KLITZMAN'
+p1872
+sg16
+(lp1873
+S"I'm Robert Klitzman from Columbia University."
+p1874
+aS'Great debate.'
+p1875
+aS"Question for the opponents, I'm wondering if we should be allowed to enhance children genetically, not perfect them, but, for instance, many parents say they'd like to have kids who are blonde haired, blue eyed."
+p1876
+aS'Should that be allowed?'
+p1877
+aS'Should there be a line drawn anywhere in terms of enhancement, and, if so, where?'
+p1878
+asa(dp1879
+g8
+(lp1880
+S'Well --'
+p1881
+asg11
+S'LEE SILVER'
+p1882
+sg16
+(lp1883
+g1881
+asa(dp1884
+g8
+(lp1885
+S'Lee Silver.'
+p1886
+asg11
+S'JOHN DONVAN'
+p1887
+sg16
+(lp1888
+g1886
+asa(dp1889
+g22
+(dp1890
+I3
+S'[laughter]'
+p1891
+ssg8
+(lp1892
+S"-- in fact, we've actually done a poll where parents, in fact, don't believe that."
+p1893
+aS'Whatmost parents want are children that resemble themselves, just a little bit prettier and alittle bit smarter.'
+p1894
+aS"That's what parents want.The blonde haired blue eyed thing is fiction."
+p1895
+aS'[[laughter]] '
+p1896
+asg11
+S'LEE SILVER'
+p1897
+sg16
+(lp1898
+S"-- in fact, we've actually done a poll where parents, in fact, don't believe that."
+p1899
+aS'What most parents want are children that resemble themselves, just a little bit prettier and a little bit smarter.'
+p1900
+aS"That's what parents want."
+p1901
+aS'The blonde haired blue eyed thing is fiction.'
+p1902
+asa(dp1903
+g8
+(lp1904
+S'Let me just add to that --'
+p1905
+asg11
+S'NITA FARAHANY'
+p1906
+sg16
+(lp1907
+g1905
 asa(dp1908
 g8
-S'JOHN DONVAN'
-p1909
-sg10
-(dp1910
-I3
-S'41'
-p1911
-ssg13
-(lp1912
-S"I think it was a rhetorical question, and it got a good laugh. Ma'am, on the aisle there."
-p1913
-aS" You've had your hand up a long time, and a mic's coming from -- yeah. Oh, no, no. I'm"
-p1914
-aS"sorry. I meant the woman who's standing. I'm sorry to disappoint you. And I will come"
-p1915
-aS'back to you.'
-p1916
-asa(dp1917
-g8
-S'MICHELLE BOARDMAN'
-p1918
-sg13
-(lp1919
-S'Thank you. My name is Michelle Boardman. The debate is focused properly I think on'
-p1920
-aS'ethical and practical questions. But I have a question about rights. So what right, if any,'
-p1921
-aS'does a potential parent have to access these technologies, such that a ban would violate'
-p1922
-aS'those rights?'
-p1923
-asa(dp1924
-g8
-S'JOHN DONVAN'
-p1925
-sg13
-(lp1926
-S'Nita Farahany, do you believe in a rights issue?'
-p1927
-asg16
-(dp1928
-I1
-S'20:10:00'
-p1929
-ssa(dp1930
-g8
-S'NITA FARAHANY'
-p1931
-sg13
-(lp1932
-S'I think the question about procreative rights and liberties is a very difficult question. If'
-p1933
-aS"your question is, is there a constitutional right to access technologies, I'd say no. If the"
-p1934
-aS'question is, is there a natural right that people should have over procreative liberties,'
-p1935
-aS'over the choices that they make about having children and who they meet with and'
-p1936
-aS'whether or not they bring a healthy child into the world, I think that that is the most'
-p1937
-aS'fundamental of rights that a person has. And an outright ban threatens to intrude upon'
-p1938
-aS'that in so many different ways, not the least of which is the method of enforcement that'
-p1939
-aS'you would have to use.'
-p1940
-asa(dp1941
-g8
-S'JOHN DONVAN'
-p1942
-sg13
-(lp1943
-S'We are being live streamed on fora.tv, and people who are watching us are sending in'
-p1944
-aS"questions. And I want to read one that's just been handed to me. And it's for Lee Silver."
-p1945
-aS"And we've touched on this broadly, but this makes it more specific."
-p1946
-aS'"What about a scenario where employers would only hire enhanced people because'
-p1947
-aS"they will be less prone to issues? Isn't there a potential to create a fragmented society"
-p1948
-aS'where only privileged populations can afford it?" Lee Silver.'
-p1949
-asg16
-(dp1950
-I3
-S'20:10:54'
-p1951
-ssa(dp1952
-g8
-S'LEE SILVER'
-p1953
-sg13
-(lp1954
-S'Well, that\'s the "Gattaca" scenario of people being evaluated solely on their genes. I'
-p1955
-aS"don't think it's realistic because an employer is always going to look at the productivity"
-p1956
-aS"and the past performance of a person when they hire because that's much more --"
-p1957
-aS'much stronger than whatever genetic predisposition they might have.'
-p1958
-asa(dp1959
-g8
-S'NITA FARAHANY'
-p1960
-sg13
-(lp1961
-S'I just want to add a quick thought on that, which is --'
-p1962
-asa(dp1963
-g8
-S'JOHN DONVAN'
-p1964
-sg10
-(dp1965
-I1
-S'42'
-p1966
-ssg13
-(lp1967
+(lp1909
 S'Nita Farahany.'
-p1968
-asa(dp1969
-g8
-S'NITA FARAHANY'
-p1970
-sg13
-(lp1971
-S'-- we want to be careful to not convey the idea of genetic determinism, that there is a'
-p1972
-aS'one-to-one relationship between genes and behavior and identity, because there simply'
-p1973
-aS"isn't. We know far too much about the interaction of the environment and so many"
-p1974
-aS'other things that give rise to our behaviors and our identities.'
-p1975
-aS'So the idea that genetic engineering will result in a particular type of behavior that'
-p1976
-aS'employers can then screen for simply belies an earlier conception of genetic'
-p1977
-aS'determinism that we have rejected, and we should continue to reject.'
-p1978
-asg16
-(dp1979
-I4
-S'20:11:55'
-p1980
-ssa(dp1981
-g8
+p1910
+asg11
 S'JOHN DONVAN'
-p1982
+p1911
+sg16
+(lp1912
+g1910
+asg18
+(dp1913
+S'19:54:03'
+p1914
+I1
+ssa(dp1915
+g8
+(lp1916
+S'-- is that the enhancement versus therapy distinction is really just a red herring.'
+p1917
+aS"So if Iimprove somebody's health, have I enhanced them?"
+p1918
+aS"And the truth is, everyimprovement that we've had in our health over the past century and more has been anenhancement."
+p1919
+aS'So do parents want to enhance their children?'
+p1920
+aS'Of course, they do.'
+p1921
+aS'Theygive them better education.'
+p1922
+aS'They give them prenatal vitamins.'
+p1923
+aS'They, you know, doprenatal yoga and every other type of thing to try to, you know, make things better.'
+p1924
+aS'They take headphones and play music for their children during, you know, thegestational period.'
+p1925
+aS'So do parents want to enhance their children?'
+p1926
+aS'Yes.'
+p1927
+aS'Do they alreadydo it?'
+p1928
+aS'Yes.'
+p1929
+aS'Should genetic engineering that enhances their health be permitted to goforward?'
+p1930
+aS'Yes.'
+p1931
+asg11
+S'NITA FARAHANY'
+p1932
 sg13
-(lp1983
-S'Robert Winston, your opponent.'
+(dp1933
+I9
+S'32'
+p1934
+ssg16
+(lp1935
+S'-- is that the enhancement versus therapy distinction is really just a red herring.'
+p1936
+aS"So if I improve somebody's health, have I enhanced them?"
+p1937
+aS"And the truth is, every improvement that we've had in our health over the past century and more has been an enhancement."
+p1938
+aS'So do parents want to enhance their children?'
+p1939
+aS'Of course, they do.'
+p1940
+aS'They give them better education.'
+p1941
+aS'They give them prenatal vitamins.'
+p1942
+aS'They, you know, do prenatal yoga and every other type of thing to try to, you know, make things better.'
+p1943
+aS'They take headphones and play music for their children during, you know, the gestational period.'
+p1944
+aS'So do parents want to enhance their children?'
+p1945
+aS'Yes.'
+p1946
+aS'Do they already do it?'
+p1947
+aS'Yes.'
+p1948
+aS'Should genetic engineering that enhances their health be permitted to go forward?'
+p1949
+aS'Yes.'
+p1950
+asa(dp1951
+g8
+(lp1952
+S"And I would just add, it's not --"
+p1953
+asg11
+S'LEE SILVER'
+p1954
+sg16
+(lp1955
+g1953
+asa(dp1956
+g8
+(lp1957
+S'Lee Silver.'
+p1958
+asg11
+S'JOHN DONVAN'
+p1959
+sg16
+(lp1960
+g1958
+asa(dp1961
+g8
+(lp1962
+S'-- an either/or.'
+p1963
+aS'We all agree that environment is important, but the genes are alsoimportant.'
+p1964
+asg11
+S'LEE SILVER'
+p1965
+sg16
+(lp1966
+S'-- an either/or.'
+p1967
+aS'We all agree that environment is important, but the genes are also important.'
+p1968
+asg18
+(dp1969
+S'19:54:56'
+p1970
+I2
+ssa(dp1971
+g8
+(lp1972
+S'The other side want to respond to that?'
+p1973
+aS'What I found interesting in what Nita said isshe said the difference between intervening so that your child will not be -- will not havea heart problem, say, in his 60s is a form of enhancement.'
+p1974
+aS"It does make the child's lifebetter, and maybe it's not so different from giving the child a little bit of a intelligenceboost as well, that once you're making things better, you're making things better."
+p1975
+aS'You --earlier -- you said there was a distinction between those two things, and I just want tosee if you can respond to what I think her point was.'
+p1976
+aS'Sheldon.'
+p1977
+asg11
+S'JOHN DONVAN'
+p1978
+sg16
+(lp1979
+S'The other side want to respond to that?'
+p1980
+aS'What I found interesting in what Nita said is she said the difference between intervening so that your child will not be -- will not have a heart problem, say, in his 60s is a form of enhancement.'
+p1981
+aS"It does make the child's life better, and maybe it's not so different from giving the child a little bit of a intelligence boost as well, that once you're making things better, you're making things better."
+p1982
+aS'You -- earlier -- you said there was a distinction between those two things, and I just want to see if you can respond to what I think her point was.'
+p1983
+aS'Sheldon.'
 p1984
 asa(dp1985
 g8
+(lp1986
+S'I mean --'
+p1987
+asg11
 S'LORD ROBERT WINSTON'
-p1986
-sg13
-(lp1987
-S'112 years ago, one of the most famous British scientists ever, Lord Calvin, said, "You can'
 p1988
-aS'take it from me, heavier than air flight is impossible." Two years later, Orville Wright'
-p1989
-aS"flew his biplane. I would strongly recommend that you don't ask scientists at all ever for"
-p1990
-aS'predictions. We are no more cable of predicting where we will be in five years than'
-p1991
-aS"anybody else. It's a massive mistake. That's why we have to act responsibly now."
+sg16
+(lp1989
+g1987
+asa(dp1990
+g8
+(lp1991
+S'Robert Winston.'
 p1992
-asa(dp1993
-g20
-(dp1994
-I1
-S'[applause]'
-p1995
-ssg8
+asg11
 S'JOHN DONVAN'
-p1996
-sg13
-(lp1997
-S'Going to come to another question.'
+p1993
+sg16
+(lp1994
+g1992
+asa(dp1995
+g8
+(lp1996
+S'You know --'
+p1997
+asg11
+S'LORD ROBERT WINSTON'
 p1998
-aS"I'm sorry. I don't see a hand up anywhere. Oh, right down in front, please. Thanks."
-p1999
-asg16
-(dp2000
+sg16
+(lp1999
+g1997
+asa(dp2000
+g22
+(dp2001
 I2
-S'20:12:58'
-p2001
-ssa(dp2002
-g8
-S'TRUDY LEVINE'
-p2003
-sg13
-(lp2004
-S"My name's Trudy Levine. What we do have now is genetically engineered food. And"
-p2005
-aS'this started off with the idea that it was going to enhance food production, it was going'
-p2006
-aS"to enhance food all over the world. There are many countries that have said, as you're"
-p2007
-aS"saying, that they didn't know what would happen. And they decided to not do it. We've"
-p2008
-aS'now seen that it is affecting production of non-genetically engineered food.'
-p2009
-asa(dp2010
-g8
+S'[laughter]'
+p2002
+ssg8
+(lp2003
+S"Do you mind if Sheldon takes it -- because we just haven't heard from him in a while -- ifyou have an answer to that, Sheldon."
+p2004
+asg11
 S'JOHN DONVAN'
-p2011
-sg13
-(lp2012
-S'Can you end this question in relation to humans?'
-p2013
+p2005
+sg16
+(lp2006
+S"Do you mind if Sheldon takes it -- because we just haven't heard from him in a while -- if you have an answer to that, Sheldon."
+p2007
+asa(dp2008
+g22
+(dp2009
+I0
+S'[inaudible]'
+p2010
+ssg8
+(lp2011
+g109
+asg11
+S'SHELDON KRIMSKY'
+p2012
+sg16
+(lp2013
+g109
 asa(dp2014
 g8
-S'TRUDY LEVINE'
-p2015
-sg10
-(dp2016
-I1
-S'43'
+(lp2015
+S'Just in the interest of fairness.'
+p2016
+asg11
+S'JOHN DONVAN'
 p2017
-ssg13
-(lp2018
-S"Yeah, and I'm wondering, you know, you seem to be willing to go ahead and say that the"
+sg13
+(dp2018
+I1
+S'33'
 p2019
-aS'risks are worth taking, and if we look at where the risks have taken us so far --'
-p2020
+ssg16
+(lp2020
+g2016
 asa(dp2021
 g8
-S'JOHN DONVAN'
-p2022
-sg13
-(lp2023
-S'Your question to decide arguing against prohibition.'
+(lp2022
+S"I think my argument was that any of the factors we think about enhancement are socomplex, they involve so many genes, that it would just be unrealistic to think that youcan enhance a person by manipulating a few genes here or there.And, plus, we haven't even discussed the epigenome, which are all the switches thatturn genes on and off, which are so complex --"
+p2023
+asg11
+S'SHELDON KRIMSKY'
 p2024
-asa(dp2025
-g8
-S'TRUDY LEVINE'
+sg16
+(lp2025
+S'I think my argument was that any of the factors we think about enhancement are so complex, they involve so many genes, that it would just be unrealistic to think that you can enhance a person by manipulating a few genes here or there.'
 p2026
-sg13
-(lp2027
-S"-- problems, so I'd like you to address that."
-p2028
-asa(dp2029
+aS"And, plus, we haven't even discussed the epigenome, which are all the switches that turn genes on and off, which are so complex --"
+p2027
+asg18
+(dp2028
+S'19:56:00'
+p2029
+I3
+ssa(dp2030
 g8
-S'JOHN DONVAN'
-p2030
-sg13
 (lp2031
-S'Thanks. Lee Silver.'
+S"But that doesn't get to the point that she was making."
 p2032
-asa(dp2033
-g8
-S'LEE SILVER'
+aS"She was making the point thatfixing something a little bit is not all so different from pushing something that's not fixedinto a better place, not broken, into a better place."
+p2033
+asg11
+S'JOHN DONVAN'
 p2034
-sg13
+sg16
 (lp2035
-S"We've been genetically engineering food for 10,000 years. That's the basis for"
+S"But that doesn't get to the point that she was making."
 p2036
-aS'civilization. When it comes to --'
+aS"She was making the point that fixing something a little bit is not all so different from pushing something that's not fixed into a better place, not broken, into a better place."
 p2037
-asg16
-(dp2038
-I2
-S'20:13:56'
-p2039
-ssa(dp2040
+asa(dp2038
 g8
-S'JOHN DONVAN'
+(lp2039
+S"If she's saying that there isn't a clear distinction between a medical improvement ormedical -- or therapy and enhancement, I actually agree --"
+p2040
+asg11
+S'SHELDON KRIMSKY'
 p2041
-sg13
+sg16
 (lp2042
-S'No, Lee, but genetic -- I mean, the genetic -- the modified food is the actual mixture of'
+S"If she's saying that there isn't a clear distinction between a medical improvement or medical -- or therapy and enhancement, I actually agree --"
 p2043
-aS"species, it's not the same thing as crossing species."
-p2044
-asa(dp2045
+asa(dp2044
 g8
-S'LEE SILVER'
+(lp2045
+S'Okay.'
 p2046
-sg13
-(lp2047
-S"Well, we've been mixing species, too, actually. Cows come from different species, and"
-p2048
-aS'the --'
-p2049
-asa(dp2050
-g8
+asg11
 S'JOHN DONVAN'
+p2047
+sg16
+(lp2048
+g2046
+asa(dp2049
+g8
+(lp2050
+S'-- that there is a fuzzy line between enhancement and therapy.'
 p2051
-sg13
-(lp2052
-S'All right.'
-p2053
+asg11
+S'SHELDON KRIMSKY'
+p2052
+sg16
+(lp2053
+g2051
 asa(dp2054
 g8
-S'LEE SILVER'
-p2055
-sg13
-(lp2056
-S'-- the llama comes from different species. People understood this --'
+(lp2055
+S'Right in the very center.'
+p2056
+asg11
+S'JOHN DONVAN'
 p2057
-asa(dp2058
-g8
-S'JOHN DONVAN'
-p2059
-sg13
-(lp2060
-S'Absolutely right.'
-p2061
-asa(dp2062
-g8
-S'LEE SILVER'
-p2063
-sg13
-(lp2064
-S'-- thousands of years ago. But what I am talking about supporting is the case where'
-p2065
-aS'there are already people in the world, some people, who have certain genetic variants'
-p2066
-aS'that provide health advantages, promote health. So we understand how those genes'
-p2067
-aS"work because we see the empirical evidence. That's what I am suggesting, that we"
-p2068
-aS"should allow parents to choose for their own children. Why can't they give the genes"
-p2069
-aS"that have already been present in other children and promote health, why can't they"
-p2070
-aS'give those to their own children?'
-p2071
-asa(dp2072
-g8
-S'JOHN DONVAN'
-p2073
-sg10
-(dp2074
-I0
-S'44'
-p2075
-ssg13
-(lp2076
-S'Response from the other side, or do you want to pass?'
-p2077
-asa(dp2078
-g8
-S'LORD ROBERT WINSTON'
-p2079
-sg13
-(lp2080
-S"Genetically modified foods don't go to school or make love, whole range of things they"
-p2081
-aS"don't do."
-p2082
-aS"I've got no problem with genetically modified plants. I think actually it would be an"
-p2083
-aS'important technology for the world, given the problems with water supply. I think we'
-p2084
-aS'have to differentiate very substantially from what happens in genetically modified crops'
-p2085
-aS'from what happens actually in human beings.'
-p2086
-asg16
-(dp2087
-I2
-S'20:14:55'
-p2088
-ssa(dp2089
-g20
-(dp2090
-I8
-S'[applause]'
-p2091
-sI3
-S'[applause]'
-p2092
-ssg8
-S'SHELDON KRIMSKY'
-p2093
-sg13
-(lp2094
-S"The actual -- the issue of genetically modified food's an interesting one because it shows"
-p2095
-aS'you how you can develop a technology, patent it, and then control it through monopoly'
-p2096
-aS"control like some of the companies do, so that farmers can't --"
-p2097
-aS"-- farmers cannot even own the seeds or replant the seeds. I mean, we've seen a"
-p2098
-aS"system of capitalistic control over seeds that we've never seen before in history. I don't"
-p2099
-aS"think this is very desirable for a diverse agricultural system, but we're waiting to see"
-p2100
-aS'what happens in the future. No parent of any child will ever control that child. Take it'
-p2101
-aS'from me.'
-p2102
-asa(dp2103
-g20
-(dp2104
+sg16
+(lp2058
+g2056
+asg18
+(dp2059
+S'19:56:50'
+p2060
 I1
-S'[laughter]'
-p2105
-ssg8
-S'JOHN DONVAN'
-p2106
-sg13
-(lp2107
-S'And speaking of children, young man.'
-p2108
-aS"I hope you won't think it condescending for me to ask you what grade you're in?"
-p2109
-asg16
-(dp2110
-I2
-S'20:16:02'
-p2111
-ssa(dp2112
+ssa(dp2061
 g8
-S'PHILIP SCHNEIDER'
-p2113
+(lp2062
+S'Thank you, this is great.'
+p2063
+aS'My name is Gerry Ohrstrom, and my question is for ProfessorKrimsky.'
+p2064
+aS'Professor, your debating opponent Lee Silver mentioned that "Mother Naturedoesn\'t care.'
+p2065
+aS'" In contrast, if I infer correctly, when you briefly introduce the concept ofbalance in your remarks, you seem to be saying that the genome has evolved as someidealized natural balance and shouldn\'t be messed with.'
+p2066
+aS'My question is whether thisconcept of balance is actually valid, given that evolution operates through randomnessand through natural selection in ever-changing random contexts.'
+p2067
+asg11
+S'GERRY OHRSTROM'
+p2068
+sg16
+(lp2069
+S'Thank you, this is great.'
+p2070
+aS'My name is Gerry Ohrstrom, and my question is for Professor Krimsky.'
+p2071
+aS'Professor, your debating opponent Lee Silver mentioned that "Mother Nature doesn\'t care.'
+p2072
+aS'" In contrast, if I infer correctly, when you briefly introduce the concept of balance in your remarks, you seem to be saying that the genome has evolved as some idealized natural balance and shouldn\'t be messed with.'
+p2073
+aS'My question is whether this concept of balance is actually valid, given that evolution operates through randomness and through natural selection in ever-changing random contexts.'
+p2074
+asa(dp2075
+g8
+(lp2076
+S"You're saying nature --"
+p2077
+asg11
+S'JOHN DONVAN'
+p2078
+sg16
+(lp2079
+g2077
+asa(dp2080
+g8
+(lp2081
+S'Is there really a place for this notion of balance or --'
+p2082
+asg11
+S'GERRY OHRSTROM'
+p2083
 sg13
-(lp2114
-S'Seventh grade.'
-p2115
+(dp2084
+I1
+S'34'
+p2085
+ssg16
+(lp2086
+g2082
+asa(dp2087
+g8
+(lp2088
+S'Well, yeah.'
+p2089
+asg11
+S'SHELDON KRIMSKY'
+p2090
+sg16
+(lp2091
+g2089
+asa(dp2092
+g8
+(lp2093
+S'That nature could have done a much better job if this was -- if nature was so good at it,we would be a lot better than this?'
+p2094
+asg11
+S'JOHN DONVAN'
+p2095
+sg16
+(lp2096
+S'That nature could have done a much better job if this was -- if nature was so good at it, we would be a lot better than this?'
+p2097
+asa(dp2098
+g8
+(lp2099
+S'Well, that might -- my question is whether the professor perceives our evolved genomeas something that should be.'
+p2100
+aS'Or is this --'
+p2101
+asg11
+S'GERRY OHRSTROM'
+p2102
+sg16
+(lp2103
+S'Well, that might -- my question is whether the professor perceives our evolved genome as something that should be.'
+p2104
+aS'Or is this --'
+p2105
+asa(dp2106
+g8
+(lp2107
+S'Okay.'
+p2108
+asg11
+S'JOHN DONVAN'
+p2109
+sg16
+(lp2110
+g2108
+asa(dp2111
+g8
+(lp2112
+S'-- Humes fallacy?'
+p2113
+asg11
+S'GERRY OHRSTROM'
+p2114
+sg16
+(lp2115
+g2113
 asa(dp2116
 g8
+(lp2117
+S'Right.'
+p2118
+asg11
 S'JOHN DONVAN'
-p2117
-sg10
-(dp2118
-I0
-S'45'
 p2119
-ssg13
+sg16
 (lp2120
-S'All right, good for you for being here.'
-p2121
-asa(dp2122
-g20
-(dp2123
-I1
-S'[applause]'
+g2118
+asa(dp2121
+g8
+(lp2122
+S'I think that --'
+p2123
+asg11
+S'SHELDON KRIMSKY'
 p2124
-ssg8
-S'PHILIP SCHNEIDER'
-p2125
-sg13
-(lp2126
-S'Thank you.'
-p2127
-aS'This question is directed towards Mr. Silver. And you just touched on the topic of safety'
-p2128
-aS'when --'
-p2129
-asa(dp2130
+sg16
+(lp2125
+g2123
+asa(dp2126
 g8
-S'JOHN DONVAN'
-p2131
-sg13
-(lp2132
-S"Oh, what's your name, by the way?"
-p2133
-asa(dp2134
-g8
-S'PHILIP SCHNEIDER'
-p2135
-sg13
-(lp2136
-S'Philip Schneider .'
-p2137
-asa(dp2138
-g8
-S'JOHN DONVAN'
-p2139
-sg13
-(lp2140
-S'Okay.'
-p2141
-asa(dp2142
-g8
-S'PHILIP SCHNEIDER'
-p2143
-sg13
-(lp2144
-S'And I was wondering to what extent does safety mean for this thing to go into effect?'
-p2145
-asa(dp2146
-g8
-S'LEE SILVER'
-p2147
-sg13
-(lp2148
-S"Safety's very important."
-p2149
-asa(dp2150
-g8
-S'PHILIP SCHNEIDER'
-p2151
-sg13
-(lp2152
-S'But what does "safety" mean?'
-p2153
-asa(dp2154
-g8
-S'LEE SILVER'
-p2155
-sg13
-(lp2156
-S'What does "safety" mean?'
-p2157
-asa(dp2158
-g8
-S'PHILIP SCHNEIDER'
-p2159
-sg13
-(lp2160
-S'Yeah.'
-p2161
-asa(dp2162
-g8
-S'LEE SILVER'
-p2163
-sg13
-(lp2164
-S"Safety is relative, and I think that's the most important point. And reproduction is"
-p2165
-aS'dangerous. If a technology can come along that can make reproduction less dangerous,'
-p2166
-aS"that's a technology we should embrace."
-p2167
-asg16
-(dp2168
-I3
-S'20:16:51'
-p2169
-ssa(dp2170
-g8
-S'SHELDON KRIMSKY'
-p2171
-sg10
-(dp2172
-I1
-S'46'
-p2173
-ssg13
-(lp2174
-S'You know, we have --'
-p2175
-asa(dp2176
-g8
-S'JOHN DONVAN'
-p2177
-sg13
-(lp2178
+(lp2127
 S'Sheldon Krimsky.'
-p2179
-asa(dp2180
+p2128
+asg11
+S'JOHN DONVAN'
+p2129
+sg16
+(lp2130
+g2128
+asa(dp2131
 g8
+(lp2132
+S'-- over millions of years, mistakes have been bred out to a great extent.'
+p2133
+aS"And it'sremarkable how many children are born normally with the billions and billions ofbiochemical actions that take place from the fertilized egg until the child is born.So a lot of mistakes were bred out of the system, and it's taken millions of years beforethe human genome has evolved."
+p2134
+aS"Now we're saying, okay, we can get a fewtechnologists to tinker with that and do a better job at the balancing the homeostasis ofwhat I consider an ecosystem, a genetic ecosystem."
+p2135
+aS'And my colleague here has pointedout how many abnormalities occur when these genetic mice are manipulated.'
+p2136
+asg11
 S'SHELDON KRIMSKY'
-p2181
-sg13
-(lp2182
-S"-- a system of safety on drug safety, for example, in the United States, and you wouldn't"
-p2183
-aS'expect people to just be taking drugs that have not gone through clinical trials and a'
-p2184
-aS'government regulatory agency. And you cannot just go to a company and say, "I\'ll be'
-p2185
-aS'part of your clinical trial," unless there\'s been some approval for that. Otherwise, their'
-p2186
-aS"drug would not be accepted by the government. But yet we've heard that there were"
-p2187
-aS'these experiments that were done without any government imprimatur. We have no'
-p2188
-aS'idea what the safety controls were in those experiments or how far along in the lifecycle'
-p2189
-aS'of the child that was born that we have to investigate. So I think safety is very'
-p2190
-aS'important, and any society has to set up the standards of safety before they do any kind'
-p2191
-aS'of test.'
-p2192
-asa(dp2193
-g20
-(dp2194
-I2
-S'[laughter]'
-p2195
-ssg8
-S'JOHN DONVAN'
-p2196
-sg13
-(lp2197
-S"We have time for one more question. I said I'd get back to you. Make it"
-p2198
-aS'great.'
-p2199
-asa(dp2200
-g20
-(dp2201
+p2137
+sg16
+(lp2138
+S'-- over millions of years, mistakes have been bred out to a great extent.'
+p2139
+aS"And it's remarkable how many children are born normally with the billions and billions of biochemical actions that take place from the fertilized egg until the child is born."
+p2140
+aS"So a lot of mistakes were bred out of the system, and it's taken millions of years before the human genome has evolved."
+p2141
+aS"Now we're saying, okay, we can get a few technologists to tinker with that and do a better job at the balancing the homeostasis of what I consider an ecosystem, a genetic ecosystem."
+p2142
+aS'And my colleague here has pointed out how many abnormalities occur when these genetic mice are manipulated.'
+p2143
+asg18
+(dp2144
+S'19:58:09'
+p2145
 I3
-S'[applause]'
-p2202
-ssg8
-S'KATE MCCLOUD'
-p2203
-sg13
-(lp2204
-S'My name is Kate McCloud . If we permit this technology, it sounds'
-p2205
-aS'very expensive to me, so who will it be available to, and who will be restricted from'
-p2206
-aS'having access to the technology?'
-p2207
-asg16
-(dp2208
-I3
-S'20:18:08'
-p2209
-ssa(dp2210
+ssa(dp2146
 g8
+(lp2147
+S'Lee Silver.'
+p2148
+asg11
 S'JOHN DONVAN'
-p2211
-sg13
-(lp2212
-S"Sheldon Krimsky, do you want to take that on your side? I'm going to go to the other"
-p2213
-aS'side, as well. Or Robert?'
-p2214
-asa(dp2215
-g20
-(dp2216
-I1
-S'[laughter]'
-p2217
-sI2
-S'[applause]'
-p2218
-ssg8
-S'LORD ROBERT WINSTON'
-p2219
-sg10
-(dp2220
-I2
-S'47'
-p2221
-ssg13
-(lp2222
-S'Well, let me speak for the other side, because --'
-p2223
-aS'-- because, actually, poor things, I think they need a bit of support. Actually --'
-p2224
-aS"There really -- there really is an issue. You're quite right, this technology is expensive, it"
-p2225
-aS'would cost tens of thousands of dollars, perhaps even -- maybe even $100,000 to start'
-p2226
-aS"with. But actually caring for a child that's got a serious genetic disorder is far more"
-p2227
-aS'expensive. And, of course, the expense of that care is not only the expense, the money,'
-p2228
-aS'but also the tragedy, the distress, the pain, and all the rest of it. So I think we have to be'
-p2229
-aS"careful and cautious about the financial arguments, and I'm sure that Lee and Nita"
-p2230
-aS'would agree with me.'
-p2231
-asg16
-(dp2232
-I9
-S'20:19:03'
-p2233
-ssa(dp2234
+p2149
+sg16
+(lp2150
+g2148
+asa(dp2151
 g8
+(lp2152
+S"Well, I think we've learned something very important about the genome in the last fiveto 10 years, which is that every member of this audience has hundreds of mutationsthat can kill a child if they're in the same embryo as a mutation from the other partner,so it's not so pleasant."
+p2153
+asg11
 S'LEE SILVER'
-p2235
+p2154
 sg13
-(lp2236
-S'You spoke for me.'
-p2237
-asa(dp2238
+(dp2155
+I0
+S'35'
+p2156
+ssg16
+(lp2157
+S"Well, I think we've learned something very important about the genome in the last five to 10 years, which is that every member of this audience has hundreds of mutations that can kill a child if they're in the same embryo as a mutation from the other partner, so it's not so pleasant."
+p2158
+asg18
+(dp2159
+S'19:59:03'
+p2160
+I4
+ssa(dp2161
 g8
-S'NITA FARAHANY'
-p2239
+(lp2162
+S'Okay, another question, right down in the front here.'
+p2163
+aS"Or, actually, I like to do a littlegender balance, so forgive me, but, ma'am?"
+p2164
+aS"I'll come back to you -- If you would standup, please."
+p2165
+aS'Thanks.'
+p2166
+asg11
+S'JOHN DONVAN'
+p2167
+sg16
+(lp2168
+S'Okay, another question, right down in the front here.'
+p2169
+aS"Or, actually, I like to do a little gender balance, so forgive me, but, ma'am?"
+p2170
+aS"I'll come back to you -- If you would stand up, please."
+p2171
+aS'Thanks.'
+p2172
+asa(dp2173
+g8
+(lp2174
+S'Yes, my name is Jane Gabret .'
+p2175
+aS'This question is really for both sidesof the motion.'
+p2176
+aS"There has been so much in vitro fertilization that's gone on, and I knowthat there are many studies now that are linking a possible link autism to in vitrofertilization."
+p2177
+aS"And is that an example of seeing something after the fact -- a good thing, invitro has produced many, many babies but now they're thinking that the big, huge spikein autism could have some link to that."
+p2178
+asg11
+S'JANE GABRET'
+p2179
+sg16
+(lp2180
+S'Yes, my name is Jane Gabret .'
+p2181
+aS'This question is really for both sides of the motion.'
+p2182
+aS"There has been so much in vitro fertilization that's gone on, and I know that there are many studies now that are linking a possible link autism to in vitro fertilization."
+p2183
+aS"And is that an example of seeing something after the fact -- a good thing, in vitro has produced many, many babies but now they're thinking that the big, huge spike in autism could have some link to that."
+p2184
+asg18
+(dp2185
+S'19:59:56'
+p2186
+I6
+ssa(dp2187
+g8
+(lp2188
+S'Robert Winston.'
+p2189
+asg11
+S'JOHN DONVAN'
+p2190
+sg16
+(lp2191
+g2189
+asa(dp2192
+g8
+(lp2193
+S"Well, I think it's fair to say that we certainly will find some rather unusual occasionswhen there are abnormalities which are a result of the broad aspect of in vitrofertilization."
+p2194
+aS'There are particular issues which do change gene function; we know, forexample, that embryo freezing on rare occasions changes gene function.'
+p2195
+aS'We publishedthat from my own laboratory, demonstrating that a cancer suppressing gene issuppressed in its action after routine freezing.'
+p2196
+aS'We also know from animal studies inmice and rats, that there may be an increased risk of demyelination; that is, a form ofME in the brain in some animals that have had a cell removed.'
+p2197
+aS"Now, I have to say thatthese things have to be much more carefully validated.The problem really is, with in vitro fertilization, it's probably rather like meddling with agenome: most of the time, it might well be quite safe."
+p2198
+aS"And I would not want people togo away from here thinking that IVF is a horrible thing to do for a child, it clearly isn't."
+p2199
+aS'But the full consequences of in vitro fertilization cannot be known for a very long timeahead.'
+p2200
+aS"It's well worth putting your --"
+p2201
+asg11
+S'LORD ROBERT WINSTON'
+p2202
 sg13
-(lp2240
-S"We're so glad we've convinced you to join our side."
+(dp2203
+I14
+S'36'
+p2204
+ssg16
+(lp2205
+S"Well, I think it's fair to say that we certainly will find some rather unusual occasions when there are abnormalities which are a result of the broad aspect of in vitro fertilization."
+p2206
+aS'There are particular issues which do change gene function; we know, for example, that embryo freezing on rare occasions changes gene function.'
+p2207
+aS'We published that from my own laboratory, demonstrating that a cancer suppressing gene is suppressed in its action after routine freezing.'
+p2208
+aS'We also know from animal studies in mice and rats, that there may be an increased risk of demyelination; that is, a form of ME in the brain in some animals that have had a cell removed.'
+p2209
+aS'Now, I have to say that these things have to be much more carefully validated.'
+p2210
+aS"The problem really is, with in vitro fertilization, it's probably rather like meddling with a genome: most of the time, it might well be quite safe."
+p2211
+aS"And I would not want people to go away from here thinking that IVF is a horrible thing to do for a child, it clearly isn't."
+p2212
+aS'But the full consequences of in vitro fertilization cannot be known for a very long time ahead.'
+p2213
+aS"It's well worth putting your --"
+p2214
+asg18
+(dp2215
+S'20:00:51'
+p2216
+I9
+ssa(dp2217
+g8
+(lp2218
+S"So you're -- so you're not saying that -- you're not --"
+p2219
+asg11
+S'JOHN DONVAN'
+p2220
+sg16
+(lp2221
+g2219
+asa(dp2222
+g8
+(lp2223
+S'Just one point.'
+p2224
+aS"It was 50 years before we fully understood the effect of ionizingradiation, and even now we can't quantify it exactly."
+p2225
+asg11
+S'LORD ROBERT WINSTON'
+p2226
+sg16
+(lp2227
+S'Just one point.'
+p2228
+aS"It was 50 years before we fully understood the effect of ionizing radiation, and even now we can't quantify it exactly."
+p2229
+asa(dp2230
+g8
+(lp2231
+S'Okay.'
+p2232
+aS"So you are not saying that you see an autism link; you are more broadly sayingyou don't know where things are going to go."
+p2233
+aS'And I want to take that part of thequestion back to the other side.'
+p2234
+aS'Nita Farahany.'
+p2235
+asg11
+S'JOHN DONVAN'
+p2236
+sg16
+(lp2237
+S'Okay.'
+p2238
+aS"So you are not saying that you see an autism link; you are more broadly saying you don't know where things are going to go."
+p2239
+aS'And I want to take that part of the question back to the other side.'
+p2240
+aS'Nita Farahany.'
 p2241
 asa(dp2242
 g8
-S'LEE SILVER'
-p2243
-sg13
-(lp2244
-S'Technology start out being very expensive become more optimized over time and'
+(lp2243
+S"Well, quite nicely, he makes the point for us, which is there are still uncertainties withIVF and yet he's in favor of going ahead with IVF."
+p2244
+aS'And why is that?'
 p2245
-aS'become cheap. Everybody thought computer technology was too expensive 20 or 30'
+aS'Because we have toact in the face of uncertainty in life.'
 p2246
-aS'years ago and now everybody has computers on their desk.'
+aS"I agree, there has not been a strong showing of anylink between autism, maybe it has something with age of mothers who are undergoingIVF, we don't know."
 p2247
-asa(dp2248
-g8
-S'JOHN DONVAN'
+aS"But I think the much more important question to ask is, we've beenusing technologies that have some uncertain risks, are the lives worth living that haveresulted from those technologies?And the answer is yes, those are lives worth living."
+p2248
+aS"The children believe those are livesworth living, the parents believe that those were lives that were worth bringing into life.That's what these technologies have enabled people to do, is to bring into life a lifeworth living."
 p2249
-sg13
-(lp2250
-S'And that concludes Round 2 of this Intelligence Squared U.S. debate, where our motion'
+aS"There may be some risks, there may be some uncertainties, but thatdoesn't mean it's not worth proceeding."
+p2250
+asg11
+S'NITA FARAHANY'
 p2251
-aS'is, "Prohibit genetically engineered babies." And now you are about to hear brief closing'
-p2252
-aS'statements from each debater in turn. They will be two minutes each and these are'
+sg16
+(lp2252
+S"Well, quite nicely, he makes the point for us, which is there are still uncertainties with IVF and yet he's in favor of going ahead with IVF."
 p2253
-aS'their last chances to change your mind. Remember you were asked to vote once before'
+aS'And why is that?'
 p2254
-aS"the arguments and you'll be asked to vote immediately afterwards, and then we'll very"
+aS'Because we have to act in the face of uncertainty in life.'
 p2255
-aS'quickly have the results.'
+aS"I agree, there has not been a strong showing of any link between autism, maybe it has something with age of mothers who are undergoing IVF, we don't know."
 p2256
-aS'On to Round 3, closing statements. Our motion is "prohibit genetically engineered'
+aS"But I think the much more important question to ask is, we've been using technologies that have some uncertain risks, are the lives worth living that have resulted from those technologies?"
 p2257
-aS'babies," and here to summarize his position against the motion, Lee Silver, he is'
+aS'And the answer is yes, those are lives worth living.'
 p2258
-aS'professor of molecular biology at Princeton and author of the book "Challenging'
+aS'The children believe those are lives worth living, the parents believe that those were lives that were worth bringing into life.'
 p2259
-aS'Nature."'
+aS"That's what these technologies have enabled people to do, is to bring into life a life worth living."
 p2260
-asg16
-(dp2261
-I10
-S'20:20:05'
-p2262
-ssa(dp2263
+aS"There may be some risks, there may be some uncertainties, but that doesn't mean it's not worth proceeding."
+p2261
+asg18
+(dp2262
+S'20:02:07'
+p2263
+I7
+ssa(dp2264
 g8
-S'LEE SILVER'
-p2264
-sg10
-(dp2265
-I6
-S'48'
+(lp2265
+S'Another question?'
 p2266
-ssg13
-(lp2267
-S'A friend of mine here was introduced to me by another friend of mine here, who had a'
-p2268
-aS"baby with a sperm donor, I met her in 2009. And a few days after her child's birth she"
-p2269
-aS'got a call from her doctor, who told her to go into the bedroom to check on her sleeping'
-p2270
-aS'baby to see if he was still alive. The baby had been born with MCAD deficiency; he had'
-p2271
-aS'inherited this mutation from both my friend and the sperm donor who contributed to'
-p2272
-aS'the conception. And the mutation was in her genome, and it had been in the genome of'
-p2273
-aS'her family for hundreds of years, at least, and it was silent; nobody knew about this'
-p2274
-aS'mutation.'
-p2275
-aS"With a particular dietary plan, my friend's son is now a healthy five-year-old boy, happy"
-p2276
-aS'ending to that story. And she and her wife decided to have another child with a sperm'
-p2277
-aS'donor. So they went to the sperm bank and tested the new donor that they were going'
-p2278
-aS'to use for mutations in the MCAD gene, and they found the donor was free of mutations'
-p2279
-aS'in the MCAD gene, which the genetic counselor said should ease her mind. But, in fact,'
-p2280
-aS"that shouldn't have eased her mind, because MCAD is just one of the hundreds of"
-p2281
-aS'mutations that she actually has in her genome, so even if the sperm donor had not had'
-p2282
-aS"MCAD mutation, it's just as possible that he had another mutation that was not"
-p2283
-aS'compatible with her DNA.'
-p2284
-aS"So that's the important point that I want to make here that is very important for all of us"
-p2285
-aS"to remember: there's no perfect baby, there's no perfect person, there's no perfect"
-p2286
-aS"genome, there's no one human genome. We are all just a combination of many"
-p2287
-aS'different genetic variants that makes us different from each other for better and for'
-p2288
-aS'worse.'
-p2289
-asg16
-(dp2290
-I8
-S'20:20:56'
-p2291
-sI17
-S'20:21:51'
-p2292
-ssa(dp2293
-g8
+asg11
 S'JOHN DONVAN'
-p2294
-sg13
-(lp2295
-S'Thank you, Lee Silver. The motion is, "Prohibit genetically engineered babies," and here'
-p2296
-aS'to summarize his position in support of prohibition, Sheldon Krimsky. He is a professor'
-p2297
-aS'at Tufts University and chair of the Council for Responsible Genetics.'
-p2298
-asa(dp2299
+p2267
+sg16
+(lp2268
+g2266
+asa(dp2269
 g8
-S'SHELDON KRIMSKY'
+(lp2270
+S'I just want to raise the point --'
+p2271
+asg11
+S'LEE SILVER'
+p2272
+sg16
+(lp2273
+g2271
+asa(dp2274
+g8
+(lp2275
+S'Okay, very quickly.'
+p2276
+asg11
+S'JOHN DONVAN'
+p2277
+sg16
+(lp2278
+g2276
+asa(dp2279
+g8
+(lp2280
+S"-- we don't stop people who are both carriers for the same mutation at reproducing,even though they have 25 percent risk of having a child with a serious disease."
+p2281
+aS"Weshouldn't discriminate against people just because they're infertile."
+p2282
+asg11
+S'LEE SILVER'
+p2283
+sg16
+(lp2284
+S"-- we don't stop people who are both carriers for the same mutation at reproducing, even though they have 25 percent risk of having a child with a serious disease."
+p2285
+aS"We shouldn't discriminate against people just because they're infertile."
+p2286
+asa(dp2287
+g8
+(lp2288
+S"Four rows from the back, you're wearing a black and white striped shirt, thanks."
+p2289
+asg11
+S'JOHN DONVAN'
+p2290
+sg13
+(dp2291
+I0
+S'37'
+p2292
+ssg16
+(lp2293
+g2289
+asg18
+(dp2294
+S'20:02:53'
+p2295
+I1
+ssa(dp2296
+g8
+(lp2297
+S'My name is Maria .'
+p2298
+aS'So science is science, and science will always have itsuncertainties, but at the end of the day this is a very emotional issue, and prohibition,what we know from history, is that people do dire things when they really want to, coathanger abortions or bootleggers.'
+p2299
+aS"So to the team against -- or to the team arguing forprohibition, what do you tell the woman who's about to go get the equivalent of a coathanger abortion?"
 p2300
-sg10
-(dp2301
-I12
-S'49'
+aS"So if you can't do this, what do you tell her?"
+p2301
+asg11
+S'MARIA'
 p2302
-ssg13
+sg16
 (lp2303
-S'So it is perfectly understandable why parents would want to provide as much'
+S'My name is Maria .'
 p2304
-aS'enrichment to their child as possible to ensure their success in life. But prenatal genetic'
+aS'So science is science, and science will always have its uncertainties, but at the end of the day this is a very emotional issue, and prohibition, what we know from history, is that people do dire things when they really want to, coat hanger abortions or bootleggers.'
 p2305
-aS'engineering is not enrichment of a newborn, it is an effort to redesign the human'
+aS"So to the team against -- or to the team arguing for prohibition, what do you tell the woman who's about to go get the equivalent of a coat hanger abortion?"
 p2306
-aS'genome. Science has succeeded in applying genetic modification for enhancement to'
+aS"So if you can't do this, what do you tell her?"
 p2307
-aS'animals and crops, some would say successfully, others would say the jury is still out.'
-p2308
-aS'But in the hundreds and thousands of trials that failed. We simply discard the results of'
-p2309
-aS'the unwanted crop or animal. Is this the model that civilized humane society wishes to'
+asa(dp2308
+g8
+(lp2309
+S'Well --'
 p2310
-aS'apply to humans? Make pinpoint genetic alterations in the human germ plasm and'
+asg11
+S'MALE SPEAKER'
 p2311
-aS"discard the results when they don't work out. It is sheer hubris to think that"
-p2312
-aS'manipulating the human germ plasm for enhancement will not produce mistakes.'
-p2313
-aS' Under our current laws and civil morality, society must bear the expense to care for my'
-p2314
-aS'severely disabled individual produce the reproductive genetic engineering.'
+sg16
+(lp2312
+g2310
+asa(dp2313
+g8
+(lp2314
+S'I think the point is a good one, which is, in the years before abortion, 1.2 million womenper year had illegal abortions.'
 p2315
-aS"I'll leave you with one story. A little over ten years ago, scientists discovered that by"
+aS"Do we really think this technology won't exist?"
 p2316
-aS"modifying a mouse's gene, it greatly improved the mouse's memory. Subsequently,"
+asg11
+S'NITA FARAHANY'
 p2317
-aS'they also learned that modification produced a mouse that increased sensitivity to pain.'
-p2318
-aS' I want to say a word about the mitochondrial disease problem. Some decisions appear'
+sg16
+(lp2318
+S'I think the point is a good one, which is, in the years before abortion, 1.2 million women per year had illegal abortions.'
 p2319
-aS"ethical from a pinpoint perspective, but they're clearly unethical from a wider lens. For"
+aS"Do we really think this technology won't exist?"
 p2320
-aS'this, we have to look at the wider lens of genetic engineering and not at the pinpoint'
-p2321
-aS'perspective in order to understand its ethics to society. Thank you.'
-p2322
-asg16
-(dp2323
-I12
-S'20:23:51'
+asa(dp2321
+g8
+(lp2322
+S"I think the -- I think the -- I just want to say with respect that I think you kind confusedthe issue by the linkage to a coat hanger abortion, when in the case of seeking atherapy, it might be the situation that people will go offshore or that the wealthy will gooffshore which was a point that was brought up earlier.So would you be willing to rephrase your question to say, what are you going to say towomen who can't get this while other women can?"
+p2323
+aS"Because I -- I don't know thatthere's going to be a back alley, you know, geneticist working this."
 p2324
-sI5
-S'20:23:03'
+asg11
+S'JOHN DONVAN'
 p2325
-ssa(dp2326
-g20
-(dp2327
+sg16
+(lp2326
+S'I think the -- I think the -- I just want to say with respect that I think you kind confused the issue by the linkage to a coat hanger abortion, when in the case of seeking a therapy, it might be the situation that people will go offshore or that the wealthy will go offshore which was a point that was brought up earlier.'
+p2327
+aS"So would you be willing to rephrase your question to say, what are you going to say to women who can't get this while other women can?"
+p2328
+aS"Because I -- I don't know that there's going to be a back alley, you know, geneticist working this."
+p2329
+asg18
+(dp2330
+S'20:03:57'
+p2331
+I4
+ssa(dp2332
+g22
+(dp2333
+I1
+S'[laughter]'
+p2334
+ssg8
+(lp2335
+S'Well, I --'
+p2336
+asg11
+S'MARIA'
+p2337
+sg16
+(lp2338
+g2336
+asa(dp2339
+g22
+(dp2340
 I1
 S'[applause]'
-p2328
+p2341
 ssg8
+(lp2342
+S"So I'd like --I'd like to rephrase the question."
+p2343
+aS"I'd like to rephrase the question to this side, that if in -- [[applause]] if the technology in particular, as Nita Farahany had said in the U.S. being left behind, ifit's going to be available overseas in safe clinical settings, but you have to be rich to getthere or connected, what are you going to say to the women who can't get there?"
+p2344
+aS"AndI'll put that to Sheldon Krimsky."
+p2345
+asg11
 S'JOHN DONVAN'
-p2329
+p2346
 sg13
-(lp2330
-S'Thank you, Sheldon Krimsky.'
-p2331
-aS'Our motion is, prohibit genetically engineered babies. And here to summarize their'
-p2332
-aS'position against this motion, against prohibition, Nita Farahany. She is a professor at'
-p2333
-aS"Duke Law and a reach professor at Duke's Institute for Genome Sciences and Policy."
-p2334
-asg16
-(dp2335
+(dp2347
 I4
+S'38'
+p2348
+ssg16
+(lp2349
+S"So I'd like -- I'd like to rephrase the question."
+p2350
+aS"I'd like to rephrase the question to this side, that if in -- if the technology in particular, as Nita Farahany had said in the U.S. being left behind, if it's going to be available overseas in safe clinical settings, but you have to be rich to get there or connected, what are you going to say to the women who can't get there?"
+p2351
+aS"And I'll put that to Sheldon Krimsky."
+p2352
+asa(dp2353
+g8
+(lp2354
+S'To the women who cannot get the genetic engineering for this problem?'
+p2355
+asg11
+S'SHELDON KRIMSKY'
+p2356
+sg16
+(lp2357
+g2355
+asa(dp2358
+g8
+(lp2359
+S"In a world -- in a world where it's already -- where the train's left the station."
+p2360
+asg11
+S'JOHN DONVAN'
+p2361
+sg16
+(lp2362
+g2360
+asa(dp2363
+g8
+(lp2364
+S'In a world where just the wealthy can get it.'
+p2365
+asg11
+S'FEMALE SPEAKER'
+p2366
+sg16
+(lp2367
+g2365
+asa(dp2368
+g8
+(lp2369
+S'Genetic -- genetically modifying human reproductive cells is a totally new frontier.'
+p2370
+aS'It haslots of risks, and its risks are not only to the individuals who are involved in it.'
+p2371
+aS'Its risksare to the society as a whole or to other societies, a new Hitlerian society that arises.The last thing you want to do is to provide a technology that could be misused byauthoritarian societies for their own functions.'
+p2372
+aS'And this is a totally novel frontier thatwe should be extraordinarily cautious about in trying to break through.'
+p2373
+aS'We have neverdone this before.'
+p2374
+aS'Those examples that she gave us are very tentative.'
+p2375
+aS"They're full ofrisks."
+p2376
+aS'And if we produce the child that was abnormal, then society would have to dealwith it.'
+p2377
+asg11
+S'SHELDON KRIMSKY'
+p2378
+sg16
+(lp2379
+S'Genetic -- genetically modifying human reproductive cells is a totally new frontier.'
+p2380
+aS'It has lots of risks, and its risks are not only to the individuals who are involved in it.'
+p2381
+aS'Its risks are to the society as a whole or to other societies, a new Hitlerian society that arises.'
+p2382
+aS'The last thing you want to do is to provide a technology that could be misused by authoritarian societies for their own functions.'
+p2383
+aS'And this is a totally novel frontier that we should be extraordinarily cautious about in trying to break through.'
+p2384
+aS'We have never done this before.'
+p2385
+aS'Those examples that she gave us are very tentative.'
+p2386
+aS"They're full of risks."
+p2387
+aS'And if we produce the child that was abnormal, then society would have to deal with it.'
+p2388
+asg18
+(dp2389
+S'20:04:59'
+p2390
+I3
+ssa(dp2391
+g8
+(lp2392
+S'Okay.'
+p2393
+aS'I want to remind you that we are in the question and answer section of thisdebaters arguing out this motion: prohibit genetically engineered babies.'
+p2394
+aS"NitaFarahany, do you want to respond to the questioner's point?"
+p2395
+asg11
+S'JOHN DONVAN'
+p2396
+sg16
+(lp2397
+S'Okay.'
+p2398
+aS'I want to remind you that we are in the question and answer section of this debaters arguing out this motion: prohibit genetically engineered babies.'
+p2399
+aS"Nita Farahany, do you want to respond to the questioner's point?"
+p2400
+asg18
+(dp2401
+S'20:05:49'
+p2402
+I3
+ssa(dp2403
+g8
+(lp2404
+S'I think that the answer was not particularly forthcoming in addressing what happenswhen people who are desperate, particularly women, for example, who havemitochondrial disease, who are going to pass it on to every one of their children andwant to have a choice to have a genetic child.'
+p2405
+aS'What are they going to do?'
+p2406
+aS'Well, theywill go abroad.'
+p2407
+aS'The technology will go abroad.'
+p2408
+aS'And what does the prohibition then looklike in this country?'
+p2409
+aS'Does it mean that we show up with handcuffs at the airport, andwe arrest the person?'
+p2410
+aS'Does it mean that we forcibly test everyone?'
+p2411
+aS"Because whatwe're arguing for here is not adding in genomes outside of the human genome, intochildren."
+p2412
+aS"We're arguing that the babies would look identical to ones that are already inour population."
+p2413
+aS'So how are we going to detect those differences?'
+p2414
+aS'And what is thesociety that prohibits it like going to look like?'
+p2415
+aS'Is it forcible sterilizations?'
+p2416
+aS'Is it forciblegenetic testing?'
+p2417
+aS'How are we going to detect it?'
+p2418
+aS'How are we going to enforce it?'
+p2419
+aS'And isthat a kind of society that we want where we intrude that deeply into our private lives?'
+p2420
+asg11
+S'NITA FARAHANY'
+p2421
+sg13
+(dp2422
+I9
+S'39'
+p2423
+ssg16
+(lp2424
+S'I think that the answer was not particularly forthcoming in addressing what happens when people who are desperate, particularly women, for example, who have mitochondrial disease, who are going to pass it on to every one of their children and want to have a choice to have a genetic child.'
+p2425
+aS'What are they going to do?'
+p2426
+aS'Well, they will go abroad.'
+p2427
+aS'The technology will go abroad.'
+p2428
+aS'And what does the prohibition then look like in this country?'
+p2429
+aS'Does it mean that we show up with handcuffs at the airport, and we arrest the person?'
+p2430
+aS'Does it mean that we forcibly test everyone?'
+p2431
+aS"Because what we're arguing for here is not adding in genomes outside of the human genome, into children."
+p2432
+aS"We're arguing that the babies would look identical to ones that are already in our population."
+p2433
+aS'So how are we going to detect those differences?'
+p2434
+aS'And what is the society that prohibits it like going to look like?'
+p2435
+aS'Is it forcible sterilizations?'
+p2436
+aS'Is it forcible genetic testing?'
+p2437
+aS'How are we going to detect it?'
+p2438
+aS'How are we going to enforce it?'
+p2439
+aS'And is that a kind of society that we want where we intrude that deeply into our private lives?'
+p2440
+asg18
+(dp2441
+S'20:06:53'
+p2442
+I13
+ssa(dp2443
+g8
+(lp2444
+S'Do you want to --'
+p2445
+asg11
+S'JOHN DONVAN'
+p2446
+sg16
+(lp2447
+g2445
+asa(dp2448
+g8
+(lp2449
+S'I want to respond directly --'
+p2450
+asg11
+S'LEE SILVER'
+p2451
+sg16
+(lp2452
+g2450
+asa(dp2453
+g8
+(lp2454
+S'Lee Silver, go ahead.'
+p2455
+asg11
+S'JOHN DONVAN'
+p2456
+sg16
+(lp2457
+g2455
+asa(dp2458
+g8
+(lp2459
+S'-- to the point that you made, Sheldon, which is that the children are going to be bornand society is not going to take care of them.'
+p2460
+aS'Every year 4 percent of children bornfrom natural reproduction have birth defects.'
+p2461
+aS'Some children are abandoned by theirparents.'
+p2462
+aS'And an ethical society takes care of those children.'
+p2463
+aS"I don't see why it would beany different in the future, no matter how children come into conception."
+p2464
+asg11
+S'LEE SILVER'
+p2465
+sg16
+(lp2466
+S'-- to the point that you made, Sheldon, which is that the children are going to be born and society is not going to take care of them.'
+p2467
+aS'Every year 4 percent of children born from natural reproduction have birth defects.'
+p2468
+aS'Some children are abandoned by their parents.'
+p2469
+aS'And an ethical society takes care of those children.'
+p2470
+aS"I don't see why it would be any different in the future, no matter how children come into conception."
+p2471
+asa(dp2472
+g8
+(lp2473
+S'Sir, down in the front here.'
+p2474
+aS'And a mic will come to you.'
+p2475
+asg11
+S'JOHN DONVAN'
+p2476
+sg16
+(lp2477
+S'Sir, down in the front here.'
+p2478
+aS'And a mic will come to you.'
+p2479
+asa(dp2480
+g8
+(lp2481
+S'Hi.'
+p2482
+aS"My name is Harlon Millcove , and my question is, is there aconcern that through genetic engineering a defect in DNA could be introduced that isn'tknown until several generations later, by which point there is, you know, potentialdamage to the gene pool that might affect --"
+p2483
+asg11
+S'HARLON MILLCOVE'
+p2484
+sg16
+(lp2485
+S'Hi.'
+p2486
+aS"My name is Harlon Millcove , and my question is, is there a concern that through genetic engineering a defect in DNA could be introduced that isn't known until several generations later, by which point there is, you know, potential damage to the gene pool that might affect --"
+p2487
+asa(dp2488
+g8
+(lp2489
+S'This side has actually said that it has that concern, so let me have you put your questionto this side.'
+p2490
+aS'And did everyone hear the question clearly?'
+p2491
+aS'Okay.'
+p2492
+aS'Sheldon -- Lee Silver.'
+p2493
+asg11
+S'JOHN DONVAN'
+p2494
+sg16
+(lp2495
+S'This side has actually said that it has that concern, so let me have you put your question to this side.'
+p2496
+aS'And did everyone hear the question clearly?'
+p2497
+aS'Okay.'
+p2498
+aS'Sheldon -- Lee Silver.'
+p2499
+asg18
+(dp2500
+S'20:07:55'
+p2501
+I2
+ssa(dp2502
+g8
+(lp2503
+S" the questions whether the defects can be introduced into the genome,let's compare what already exists."
+p2504
+aS'In your genome, there are defects right now.'
+p2505
+aS'Youhave a hundred mutations that could have caused childhood disease.'
+p2506
+aS'You havedeletions of genetic information.'
+p2507
+aS'So you have all sorts of defects in your genome rightnow.'
+p2508
+aS"We're talking about technology which we all think should be done only when it'sproven safe and effective."
+p2509
+asg11
+S'LEE SILVER'
+p2510
+sg13
+(dp2511
+I5
+S'40'
+p2512
+ssg16
+(lp2513
+S" the questions whether the defects can be introduced into the genome, let's compare what already exists."
+p2514
+aS'In your genome, there are defects right now.'
+p2515
+aS'You have a hundred mutations that could have caused childhood disease.'
+p2516
+aS'You have deletions of genetic information.'
+p2517
+aS'So you have all sorts of defects in your genome right now.'
+p2518
+aS"We're talking about technology which we all think should be done only when it's proven safe and effective."
+p2519
+asa(dp2520
+g8
+(lp2521
+S'Sir, down in front here.'
+p2522
+asg11
+S'JOHN DONVAN'
+p2523
+sg16
+(lp2524
+g2522
+asa(dp2525
+g8
+(lp2526
+S'Jamie Metzl.'
+p2527
+aS'First, thanks to Intelligence Squared for this incredible debate.'
+p2528
+aS"I believe,as many of us here, this is one of the most important issues that our species will face inour future, so it's great that we're having this important conversation."
+p2529
+aS'The argumentsof both sides seem to rely on pre-implantation genetic diagnosis process.'
+p2530
+aS'In the case ofthe affirmative for screening and in the negative for engineering.'
+p2531
+aS'My question is, doesthis mean that by both of your arguments, in the future, sex will be a form of recreation,but IVF will be the preferred form of procreation for advantaged people?'
+p2532
+asg11
+S'JAMIE METZL'
+p2533
+sg16
+(lp2534
+S'Jamie Metzl.'
+p2535
+aS'First, thanks to Intelligence Squared for this incredible debate.'
+p2536
+aS"I believe, as many of us here, this is one of the most important issues that our species will face in our future, so it's great that we're having this important conversation."
+p2537
+aS'The arguments of both sides seem to rely on pre-implantation genetic diagnosis process.'
+p2538
+aS'In the case of the affirmative for screening and in the negative for engineering.'
+p2539
+aS'My question is, does this mean that by both of your arguments, in the future, sex will be a form of recreation, but IVF will be the preferred form of procreation for advantaged people?'
+p2540
+asg18
+(dp2541
+S'20:09:08'
+p2542
+I7
+ssa(dp2543
+g8
+(lp2544
+S'Sex is already a form of recreation.'
+p2545
+asg11
+S'SHELDON KRIMSKY'
+p2546
+sg16
+(lp2547
+g2545
+asa(dp2548
+g22
+(dp2549
+I1
+S'[laughter]'
+p2550
+ssg8
+(lp2551
+S'Yeah.'
+p2552
+asg11
+S'JOHN DONVAN'
+p2553
+sg16
+(lp2554
+g2552
+asa(dp2555
+g22
+(dp2556
+I1
+S'[laughter]'
+p2557
+ssg8
+(lp2558
+S'Good answer.'
+p2559
+asg11
+S'NITA FARAHANY'
+p2560
+sg16
+(lp2561
+g2559
+asa(dp2562
+g8
+(lp2563
+S"We're all looking at the British guy."
+p2564
+asg11
+S'JOHN DONVAN'
+p2565
+sg16
+(lp2566
+g2564
+asa(dp2567
+g22
+(dp2568
+I1
+S'[laughter]'
+p2569
+ssg8
+(lp2570
+S'Well, you just heard it from our side already.'
+p2571
+asg11
+S'NITA FARAHANY'
+p2572
+sg16
+(lp2573
+g2571
+asa(dp2574
+g8
+(lp2575
+S'I got the impression it was a rhetorical question.'
+p2576
+asg11
+S'LORD ROBERT WINSTON'
+p2577
+sg16
+(lp2578
+g2576
+asa(dp2579
+g8
+(lp2580
+S'I think it was a rhetorical question, and it got a good laugh.'
+p2581
+aS"Ma'am, on the aisle there."
+p2582
+aS"You've had your hand up a long time, and a mic's coming from -- yeah."
+p2583
+aS'Oh, no, no.'
+p2584
+aS"I'msorry."
+p2585
+aS"I meant the woman who's standing."
+p2586
+aS"I'm sorry to disappoint you."
+p2587
+aS'And I will comeback to you.'
+p2588
+asg11
+S'JOHN DONVAN'
+p2589
+sg13
+(dp2590
+I3
+S'41'
+p2591
+ssg16
+(lp2592
+S'I think it was a rhetorical question, and it got a good laugh.'
+p2593
+aS"Ma'am, on the aisle there."
+p2594
+aS"You've had your hand up a long time, and a mic's coming from -- yeah."
+p2595
+aS'Oh, no, no.'
+p2596
+aS"I'm sorry."
+p2597
+aS"I meant the woman who's standing."
+p2598
+aS"I'm sorry to disappoint you."
+p2599
+aS'And I will come back to you.'
+p2600
+asa(dp2601
+g8
+(lp2602
+S'Thank you.'
+p2603
+aS'My name is Michelle Boardman.'
+p2604
+aS'The debate is focused properly I think onethical and practical questions.'
+p2605
+aS'But I have a question about rights.'
+p2606
+aS'So what right, if any,does a potential parent have to access these technologies, such that a ban would violatethose rights?'
+p2607
+asg11
+S'MICHELLE BOARDMAN'
+p2608
+sg16
+(lp2609
+S'Thank you.'
+p2610
+aS'My name is Michelle Boardman.'
+p2611
+aS'The debate is focused properly I think on ethical and practical questions.'
+p2612
+aS'But I have a question about rights.'
+p2613
+aS'So what right, if any, does a potential parent have to access these technologies, such that a ban would violate those rights?'
+p2614
+asa(dp2615
+g8
+(lp2616
+S'Nita Farahany, do you believe in a rights issue?'
+p2617
+asg11
+S'JOHN DONVAN'
+p2618
+sg16
+(lp2619
+g2617
+asg18
+(dp2620
+S'20:10:00'
+p2621
+I1
+ssa(dp2622
+g8
+(lp2623
+S'I think the question about procreative rights and liberties is a very difficult question.'
+p2624
+aS"Ifyour question is, is there a constitutional right to access technologies, I'd say no."
+p2625
+aS'If thequestion is, is there a natural right that people should have over procreative liberties,over the choices that they make about having children and who they meet with andwhether or not they bring a healthy child into the world, I think that that is the mostfundamental of rights that a person has.'
+p2626
+aS'And an outright ban threatens to intrude uponthat in so many different ways, not the least of which is the method of enforcement thatyou would have to use.'
+p2627
+asg11
+S'NITA FARAHANY'
+p2628
+sg16
+(lp2629
+S'I think the question about procreative rights and liberties is a very difficult question.'
+p2630
+aS"If your question is, is there a constitutional right to access technologies, I'd say no."
+p2631
+aS'If the question is, is there a natural right that people should have over procreative liberties, over the choices that they make about having children and who they meet with and whether or not they bring a healthy child into the world, I think that that is the most fundamental of rights that a person has.'
+p2632
+aS'And an outright ban threatens to intrude upon that in so many different ways, not the least of which is the method of enforcement that you would have to use.'
+p2633
+asa(dp2634
+g8
+(lp2635
+S'We are being live streamed on fora.tv, and people who are watching us are sending inquestions.'
+p2636
+aS"And I want to read one that's just been handed to me."
+p2637
+aS"And it's for Lee Silver.And we've touched on this broadly, but this makes it more specific."
+p2638
+aS'"What about a scenario where employers would only hire enhanced people becausethey will be less prone to issues?'
+p2639
+aS"Isn't there a potential to create a fragmented societywhere only privileged populations can afford it?"
+p2640
+aS'" Lee Silver.'
+p2641
+asg11
+S'JOHN DONVAN'
+p2642
+sg16
+(lp2643
+S'We are being live streamed on fora.tv, and people who are watching us are sending in questions.'
+p2644
+aS"And I want to read one that's just been handed to me."
+p2645
+aS"And it's for Lee Silver."
+p2646
+aS"And we've touched on this broadly, but this makes it more specific."
+p2647
+aS'"What about a scenario where employers would only hire enhanced people because they will be less prone to issues?'
+p2648
+aS"Isn't there a potential to create a fragmented society where only privileged populations can afford it?"
+p2649
+aS'" Lee Silver.'
+p2650
+asg18
+(dp2651
+S'20:10:54'
+p2652
+I3
+ssa(dp2653
+g8
+(lp2654
+S'Well, that\'s the "Gattaca" scenario of people being evaluated solely on their genes.'
+p2655
+aS"Idon't think it's realistic because an employer is always going to look at the productivityand the past performance of a person when they hire because that's much more --much stronger than whatever genetic predisposition they might have."
+p2656
+asg11
+S'LEE SILVER'
+p2657
+sg16
+(lp2658
+S'Well, that\'s the "Gattaca" scenario of people being evaluated solely on their genes.'
+p2659
+aS"I don't think it's realistic because an employer is always going to look at the productivity and the past performance of a person when they hire because that's much more -- much stronger than whatever genetic predisposition they might have."
+p2660
+asa(dp2661
+g8
+(lp2662
+S'I just want to add a quick thought on that, which is --'
+p2663
+asg11
+S'NITA FARAHANY'
+p2664
+sg16
+(lp2665
+g2663
+asa(dp2666
+g8
+(lp2667
+S'Nita Farahany.'
+p2668
+asg11
+S'JOHN DONVAN'
+p2669
+sg13
+(dp2670
+I1
+S'42'
+p2671
+ssg16
+(lp2672
+g2668
+asa(dp2673
+g8
+(lp2674
+S"-- we want to be careful to not convey the idea of genetic determinism, that there is aone-to-one relationship between genes and behavior and identity, because there simplyisn't."
+p2675
+aS'We know far too much about the interaction of the environment and so manyother things that give rise to our behaviors and our identities.So the idea that genetic engineering will result in a particular type of behavior thatemployers can then screen for simply belies an earlier conception of geneticdeterminism that we have rejected, and we should continue to reject.'
+p2676
+asg11
+S'NITA FARAHANY'
+p2677
+sg16
+(lp2678
+S"-- we want to be careful to not convey the idea of genetic determinism, that there is a one-to-one relationship between genes and behavior and identity, because there simply isn't."
+p2679
+aS'We know far too much about the interaction of the environment and so many other things that give rise to our behaviors and our identities.'
+p2680
+aS'So the idea that genetic engineering will result in a particular type of behavior that employers can then screen for simply belies an earlier conception of genetic determinism that we have rejected, and we should continue to reject.'
+p2681
+asg18
+(dp2682
+S'20:11:55'
+p2683
+I4
+ssa(dp2684
+g8
+(lp2685
+S'Robert Winston, your opponent.'
+p2686
+asg11
+S'JOHN DONVAN'
+p2687
+sg16
+(lp2688
+g2686
+asa(dp2689
+g8
+(lp2690
+S'112 years ago, one of the most famous British scientists ever, Lord Calvin, said, "You cantake it from me, heavier than air flight is impossible.'
+p2691
+aS'" Two years later, Orville Wrightflew his biplane.'
+p2692
+aS"I would strongly recommend that you don't ask scientists at all ever forpredictions."
+p2693
+aS'We are no more cable of predicting where we will be in five years thananybody else.'
+p2694
+aS"It's a massive mistake."
+p2695
+aS"That's why we have to act responsibly now."
+p2696
+asg11
+S'LORD ROBERT WINSTON'
+p2697
+sg16
+(lp2698
+S'112 years ago, one of the most famous British scientists ever, Lord Calvin, said, "You can take it from me, heavier than air flight is impossible.'
+p2699
+aS'" Two years later, Orville Wright flew his biplane.'
+p2700
+aS"I would strongly recommend that you don't ask scientists at all ever for predictions."
+p2701
+aS'We are no more cable of predicting where we will be in five years than anybody else.'
+p2702
+aS"It's a massive mistake."
+p2703
+aS"That's why we have to act responsibly now."
+p2704
+asa(dp2705
+g22
+(dp2706
+I1
+S'[applause]'
+p2707
+ssg8
+(lp2708
+S"Going to come to another question.I'm sorry."
+p2709
+aS"I don't see a hand up anywhere."
+p2710
+aS'Oh, right down in front, please.'
+p2711
+aS'Thanks.'
+p2712
+aS'[[applause]] '
+p2713
+asg11
+S'JOHN DONVAN'
+p2714
+sg16
+(lp2715
+S'Going to come to another question.'
+p2716
+aS"I'm sorry."
+p2717
+aS"I don't see a hand up anywhere."
+p2718
+aS'Oh, right down in front, please.'
+p2719
+aS'Thanks.'
+p2720
+asg18
+(dp2721
+S'20:12:58'
+p2722
+I2
+ssa(dp2723
+g8
+(lp2724
+S"My name's Trudy Levine."
+p2725
+aS'What we do have now is genetically engineered food.'
+p2726
+aS'Andthis started off with the idea that it was going to enhance food production, it was goingto enhance food all over the world.'
+p2727
+aS"There are many countries that have said, as you'resaying, that they didn't know what would happen."
+p2728
+aS'And they decided to not do it.'
+p2729
+aS"We'venow seen that it is affecting production of non-genetically engineered food."
+p2730
+asg11
+S'TRUDY LEVINE'
+p2731
+sg16
+(lp2732
+S"My name's Trudy Levine."
+p2733
+aS'What we do have now is genetically engineered food.'
+p2734
+aS'And this started off with the idea that it was going to enhance food production, it was going to enhance food all over the world.'
+p2735
+aS"There are many countries that have said, as you're saying, that they didn't know what would happen."
+p2736
+aS'And they decided to not do it.'
+p2737
+aS"We've now seen that it is affecting production of non-genetically engineered food."
+p2738
+asa(dp2739
+g8
+(lp2740
+S'Can you end this question in relation to humans?'
+p2741
+asg11
+S'JOHN DONVAN'
+p2742
+sg16
+(lp2743
+g2741
+asa(dp2744
+g8
+(lp2745
+S"Yeah, and I'm wondering, you know, you seem to be willing to go ahead and say that therisks are worth taking, and if we look at where the risks have taken us so far --"
+p2746
+asg11
+S'TRUDY LEVINE'
+p2747
+sg13
+(dp2748
+I1
+S'43'
+p2749
+ssg16
+(lp2750
+S"Yeah, and I'm wondering, you know, you seem to be willing to go ahead and say that the risks are worth taking, and if we look at where the risks have taken us so far --"
+p2751
+asa(dp2752
+g8
+(lp2753
+S'Your question to decide arguing against prohibition.'
+p2754
+asg11
+S'JOHN DONVAN'
+p2755
+sg16
+(lp2756
+g2754
+asa(dp2757
+g8
+(lp2758
+S"-- problems, so I'd like you to address that."
+p2759
+asg11
+S'TRUDY LEVINE'
+p2760
+sg16
+(lp2761
+g2759
+asa(dp2762
+g8
+(lp2763
+S'Thanks.'
+p2764
+aS'Lee Silver.'
+p2765
+asg11
+S'JOHN DONVAN'
+p2766
+sg16
+(lp2767
+S'Thanks.'
+p2768
+aS'Lee Silver.'
+p2769
+asa(dp2770
+g8
+(lp2771
+S"We've been genetically engineering food for 10,000 years."
+p2772
+aS"That's the basis forcivilization."
+p2773
+aS'When it comes to --'
+p2774
+asg11
+S'LEE SILVER'
+p2775
+sg16
+(lp2776
+S"We've been genetically engineering food for 10,000 years."
+p2777
+aS"That's the basis for civilization."
+p2778
+aS'When it comes to --'
+p2779
+asg18
+(dp2780
+S'20:13:56'
+p2781
+I2
+ssa(dp2782
+g8
+(lp2783
+S"No, Lee, but genetic -- I mean, the genetic -- the modified food is the actual mixture ofspecies, it's not the same thing as crossing species."
+p2784
+asg11
+S'JOHN DONVAN'
+p2785
+sg16
+(lp2786
+S"No, Lee, but genetic -- I mean, the genetic -- the modified food is the actual mixture of species, it's not the same thing as crossing species."
+p2787
+asa(dp2788
+g8
+(lp2789
+S"Well, we've been mixing species, too, actually."
+p2790
+aS'Cows come from different species, andthe --'
+p2791
+asg11
+S'LEE SILVER'
+p2792
+sg16
+(lp2793
+S"Well, we've been mixing species, too, actually."
+p2794
+aS'Cows come from different species, and the --'
+p2795
+asa(dp2796
+g8
+(lp2797
+S'All right.'
+p2798
+asg11
+S'JOHN DONVAN'
+p2799
+sg16
+(lp2800
+g2798
+asa(dp2801
+g8
+(lp2802
+S'-- the llama comes from different species.'
+p2803
+aS'People understood this --'
+p2804
+asg11
+S'LEE SILVER'
+p2805
+sg16
+(lp2806
+S'-- the llama comes from different species.'
+p2807
+aS'People understood this --'
+p2808
+asa(dp2809
+g8
+(lp2810
+S'Absolutely right.'
+p2811
+asg11
+S'JOHN DONVAN'
+p2812
+sg16
+(lp2813
+g2811
+asa(dp2814
+g8
+(lp2815
+S'-- thousands of years ago.'
+p2816
+aS'But what I am talking about supporting is the case wherethere are already people in the world, some people, who have certain genetic variantsthat provide health advantages, promote health.'
+p2817
+aS'So we understand how those geneswork because we see the empirical evidence.'
+p2818
+aS"That's what I am suggesting, that weshould allow parents to choose for their own children."
+p2819
+aS"Why can't they give the genesthat have already been present in other children and promote health, why can't theygive those to their own children?"
+p2820
+asg11
+S'LEE SILVER'
+p2821
+sg16
+(lp2822
+S'-- thousands of years ago.'
+p2823
+aS'But what I am talking about supporting is the case where there are already people in the world, some people, who have certain genetic variants that provide health advantages, promote health.'
+p2824
+aS'So we understand how those genes work because we see the empirical evidence.'
+p2825
+aS"That's what I am suggesting, that we should allow parents to choose for their own children."
+p2826
+aS"Why can't they give the genes that have already been present in other children and promote health, why can't they give those to their own children?"
+p2827
+asa(dp2828
+g8
+(lp2829
+S'Response from the other side, or do you want to pass?'
+p2830
+asg11
+S'JOHN DONVAN'
+p2831
+sg13
+(dp2832
+I0
+S'44'
+p2833
+ssg16
+(lp2834
+g2830
+asa(dp2835
+g8
+(lp2836
+S"Genetically modified foods don't go to school or make love, whole range of things theydon't do.I've got no problem with genetically modified plants."
+p2837
+aS'I think actually it would be animportant technology for the world, given the problems with water supply.'
+p2838
+aS'I think wehave to differentiate very substantially from what happens in genetically modified cropsfrom what happens actually in human beings.'
+p2839
+asg11
+S'LORD ROBERT WINSTON'
+p2840
+sg16
+(lp2841
+S"Genetically modified foods don't go to school or make love, whole range of things they don't do."
+p2842
+aS"I've got no problem with genetically modified plants."
+p2843
+aS'I think actually it would be an important technology for the world, given the problems with water supply.'
+p2844
+aS'I think we have to differentiate very substantially from what happens in genetically modified crops from what happens actually in human beings.'
+p2845
+asg18
+(dp2846
+S'20:14:55'
+p2847
+I2
+ssa(dp2848
+g22
+(dp2849
+I8
+S'[applause]'
+p2850
+sI3
+S'[applause]'
+p2851
+ssg8
+(lp2852
+S"The actual -- the issue of genetically modified food's an interesting one because it showsyou how you can develop a technology, patent it, and then control it through monopolycontrol like some of the companies do, so that farmers can't ---- farmers cannot even own the seeds or replant the seeds."
+p2853
+aS"I mean, we've seen a [[applause]] system of capitalistic control over seeds that we've never seen before in history."
+p2854
+aS"I don'tthink this is very desirable for a diverse agricultural system, but we're waiting to seewhat happens in the future."
+p2855
+aS'No parent of any child will ever control that child.'
+p2856
+aS'Take itfrom me.'
+p2857
+asg11
+S'SHELDON KRIMSKY'
+p2858
+sg16
+(lp2859
+S"The actual -- the issue of genetically modified food's an interesting one because it shows you how you can develop a technology, patent it, and then control it through monopoly control like some of the companies do, so that farmers can't -- -- farmers cannot even own the seeds or replant the seeds."
+p2860
+aS"I mean, we've seen a system of capitalistic control over seeds that we've never seen before in history."
+p2861
+aS"I don't think this is very desirable for a diverse agricultural system, but we're waiting to see what happens in the future."
+p2862
+aS'No parent of any child will ever control that child.'
+p2863
+aS'Take it from me.'
+p2864
+asa(dp2865
+g22
+(dp2866
+I1
+S'[laughter]'
+p2867
+ssg8
+(lp2868
+S"And speaking of children, young man.I hope you won't think it condescending for me to ask you what grade you're in?"
+p2869
+aS'[[laughter]] '
+p2870
+asg11
+S'JOHN DONVAN'
+p2871
+sg16
+(lp2872
+S'And speaking of children, young man.'
+p2873
+aS"I hope you won't think it condescending for me to ask you what grade you're in?"
+p2874
+asg18
+(dp2875
+S'20:16:02'
+p2876
+I2
+ssa(dp2877
+g8
+(lp2878
+S'Seventh grade.'
+p2879
+asg11
+S'PHILIP SCHNEIDER'
+p2880
+sg16
+(lp2881
+g2879
+asa(dp2882
+g8
+(lp2883
+S'All right, good for you for being here.'
+p2884
+asg11
+S'JOHN DONVAN'
+p2885
+sg13
+(dp2886
+I0
+S'45'
+p2887
+ssg16
+(lp2888
+g2884
+asa(dp2889
+g22
+(dp2890
+I1
+S'[applause]'
+p2891
+ssg8
+(lp2892
+S'Thank you.This question is directed towards Mr. Silver.'
+p2893
+aS'And you just touched on the topic of safety [[applause]] when --'
+p2894
+asg11
+S'PHILIP SCHNEIDER'
+p2895
+sg16
+(lp2896
+S'Thank you.'
+p2897
+aS'This question is directed towards Mr. Silver.'
+p2898
+aS'And you just touched on the topic of safety when --'
+p2899
+asa(dp2900
+g8
+(lp2901
+S"Oh, what's your name, by the way?"
+p2902
+asg11
+S'JOHN DONVAN'
+p2903
+sg16
+(lp2904
+g2902
+asa(dp2905
+g8
+(lp2906
+S'Philip Schneider .'
+p2907
+asg11
+S'PHILIP SCHNEIDER'
+p2908
+sg16
+(lp2909
+g2907
+asa(dp2910
+g8
+(lp2911
+S'Okay.'
+p2912
+asg11
+S'JOHN DONVAN'
+p2913
+sg16
+(lp2914
+g2912
+asa(dp2915
+g8
+(lp2916
+S'And I was wondering to what extent does safety mean for this thing to go into effect?'
+p2917
+asg11
+S'PHILIP SCHNEIDER'
+p2918
+sg16
+(lp2919
+g2917
+asa(dp2920
+g8
+(lp2921
+S"Safety's very important."
+p2922
+asg11
+S'LEE SILVER'
+p2923
+sg16
+(lp2924
+g2922
+asa(dp2925
+g8
+(lp2926
+S'But what does "safety" mean?'
+p2927
+asg11
+S'PHILIP SCHNEIDER'
+p2928
+sg16
+(lp2929
+g2927
+asa(dp2930
+g8
+(lp2931
+S'What does "safety" mean?'
+p2932
+asg11
+S'LEE SILVER'
+p2933
+sg16
+(lp2934
+g2932
+asa(dp2935
+g8
+(lp2936
+S'Yeah.'
+p2937
+asg11
+S'PHILIP SCHNEIDER'
+p2938
+sg16
+(lp2939
+g2937
+asa(dp2940
+g8
+(lp2941
+S"Safety is relative, and I think that's the most important point."
+p2942
+aS'And reproduction isdangerous.'
+p2943
+aS"If a technology can come along that can make reproduction less dangerous,that's a technology we should embrace."
+p2944
+asg11
+S'LEE SILVER'
+p2945
+sg16
+(lp2946
+S"Safety is relative, and I think that's the most important point."
+p2947
+aS'And reproduction is dangerous.'
+p2948
+aS"If a technology can come along that can make reproduction less dangerous, that's a technology we should embrace."
+p2949
+asg18
+(dp2950
+S'20:16:51'
+p2951
+I3
+ssa(dp2952
+g8
+(lp2953
+S'You know, we have --'
+p2954
+asg11
+S'SHELDON KRIMSKY'
+p2955
+sg13
+(dp2956
+I1
+S'46'
+p2957
+ssg16
+(lp2958
+g2954
+asa(dp2959
+g8
+(lp2960
+S'Sheldon Krimsky.'
+p2961
+asg11
+S'JOHN DONVAN'
+p2962
+sg16
+(lp2963
+g2961
+asa(dp2964
+g8
+(lp2965
+S"-- a system of safety on drug safety, for example, in the United States, and you wouldn'texpect people to just be taking drugs that have not gone through clinical trials and agovernment regulatory agency."
+p2966
+aS'And you cannot just go to a company and say, "I\'ll bepart of your clinical trial," unless there\'s been some approval for that.'
+p2967
+aS'Otherwise, theirdrug would not be accepted by the government.'
+p2968
+aS"But yet we've heard that there werethese experiments that were done without any government imprimatur."
+p2969
+aS'We have noidea what the safety controls were in those experiments or how far along in the lifecycleof the child that was born that we have to investigate.'
+p2970
+aS'So I think safety is veryimportant, and any society has to set up the standards of safety before they do any kindof test.'
+p2971
+asg11
+S'SHELDON KRIMSKY'
+p2972
+sg16
+(lp2973
+S"-- a system of safety on drug safety, for example, in the United States, and you wouldn't expect people to just be taking drugs that have not gone through clinical trials and a government regulatory agency."
+p2974
+aS'And you cannot just go to a company and say, "I\'ll be part of your clinical trial," unless there\'s been some approval for that.'
+p2975
+aS'Otherwise, their drug would not be accepted by the government.'
+p2976
+aS"But yet we've heard that there were these experiments that were done without any government imprimatur."
+p2977
+aS'We have no idea what the safety controls were in those experiments or how far along in the lifecycle of the child that was born that we have to investigate.'
+p2978
+aS'So I think safety is very important, and any society has to set up the standards of safety before they do any kind of test.'
+p2979
+asa(dp2980
+g22
+(dp2981
+I2
+S'[laughter]'
+p2982
+ssg8
+(lp2983
+S'We have time for one more question.'
+p2984
+aS"I said I'd get back to you."
+p2985
+aS'Make itgreat.'
+p2986
+asg11
+S'JOHN DONVAN'
+p2987
+sg16
+(lp2988
+S'We have time for one more question.'
+p2989
+aS"I said I'd get back to you."
+p2990
+aS'Make it great.'
+p2991
+asa(dp2992
+g22
+(dp2993
+I3
+S'[applause]'
+p2994
+ssg8
+(lp2995
+S'My name is Kate McCloud .'
+p2996
+aS'If we permit this technology, it soundsvery expensive to me, so who will it be available to, and who will be restricted fromhaving access to the technology?'
+p2997
+asg11
+S'KATE MCCLOUD'
+p2998
+sg16
+(lp2999
+S'My name is Kate McCloud .'
+p3000
+aS'If we permit this technology, it sounds very expensive to me, so who will it be available to, and who will be restricted from having access to the technology?'
+p3001
+asg18
+(dp3002
+S'20:18:08'
+p3003
+I3
+ssa(dp3004
+g8
+(lp3005
+S'Sheldon Krimsky, do you want to take that on your side?'
+p3006
+aS"I'm going to go to the otherside, as well."
+p3007
+aS'Or Robert?'
+p3008
+asg11
+S'JOHN DONVAN'
+p3009
+sg16
+(lp3010
+S'Sheldon Krimsky, do you want to take that on your side?'
+p3011
+aS"I'm going to go to the other side, as well."
+p3012
+aS'Or Robert?'
+p3013
+asa(dp3014
+g22
+(dp3015
+I1
+S'[laughter]'
+p3016
+sI2
+S'[applause]'
+p3017
+ssg11
+S'LORD ROBERT WINSTON'
+p3018
+sg16
+(lp3019
+S'Well, let me speak for the other side, because -- -- because, actually, poor things, I think they need a bit of support.'
+p3020
+aS'Actually -- There really -- there really is an issue.'
+p3021
+aS"You're quite right, this technology is expensive, it would cost tens of thousands of dollars, perhaps even -- maybe even $100,000 to start with."
+p3022
+aS"But actually caring for a child that's got a serious genetic disorder is far more expensive."
+p3023
+aS'And, of course, the expense of that care is not only the expense, the money, but also the tragedy, the distress, the pain, and all the rest of it.'
+p3024
+aS"So I think we have to be careful and cautious about the financial arguments, and I'm sure that Lee and Nita would agree with me."
+p3025
+asg18
+(dp3026
+S'20:19:03'
+p3027
+I9
+ssg8
+(lp3028
+S'Well, let me speak for the other side, because ---- because, actually, poor things, I think they need a bit of support.'
+p3029
+aS'Actually -- [[laughter]] There really -- there really is an issue.'
+p3030
+aS"You're quite right, this technology is expensive, it [[applause]] would cost tens of thousands of dollars, perhaps even -- maybe even $100,000 to startwith."
+p3031
+aS"But actually caring for a child that's got a serious genetic disorder is far moreexpensive."
+p3032
+aS'And, of course, the expense of that care is not only the expense, the money,but also the tragedy, the distress, the pain, and all the rest of it.'
+p3033
+aS"So I think we have to becareful and cautious about the financial arguments, and I'm sure that Lee and Nitawould agree with me."
+p3034
+asg13
+(dp3035
+I2
+S'47'
+p3036
+ssa(dp3037
+g8
+(lp3038
+S'You spoke for me.'
+p3039
+asg11
+S'LEE SILVER'
+p3040
+sg16
+(lp3041
+g3039
+asa(dp3042
+g8
+(lp3043
+S"We're so glad we've convinced you to join our side."
+p3044
+asg11
+S'NITA FARAHANY'
+p3045
+sg16
+(lp3046
+g3044
+asa(dp3047
+g8
+(lp3048
+S'Technology start out being very expensive become more optimized over time andbecome cheap.'
+p3049
+aS'Everybody thought computer technology was too expensive 20 or 30years ago and now everybody has computers on their desk.'
+p3050
+asg11
+S'LEE SILVER'
+p3051
+sg16
+(lp3052
+S'Technology start out being very expensive become more optimized over time and become cheap.'
+p3053
+aS'Everybody thought computer technology was too expensive 20 or 30 years ago and now everybody has computers on their desk.'
+p3054
+asa(dp3055
+g8
+(lp3056
+S'And that concludes Round 2 of this Intelligence Squared U.S. debate, where our motionis, "Prohibit genetically engineered babies.'
+p3057
+aS'" And now you are about to hear brief closingstatements from each debater in turn.'
+p3058
+aS'They will be two minutes each and these aretheir last chances to change your mind.'
+p3059
+aS"Remember you were asked to vote once beforethe arguments and you'll be asked to vote immediately afterwards, and then we'll veryquickly have the results.On to Round 3, closing statements."
+p3060
+aS'Our motion is "prohibit genetically engineeredbabies," and here to summarize his position against the motion, Lee Silver, he isprofessor of molecular biology at Princeton and author of the book "ChallengingNature.'
+p3061
+ag1475
+asg11
+S'JOHN DONVAN'
+p3062
+sg16
+(lp3063
+S'And that concludes Round 2 of this Intelligence Squared U.S. debate, where our motion is, "Prohibit genetically engineered babies.'
+p3064
+aS'" And now you are about to hear brief closing statements from each debater in turn.'
+p3065
+aS'They will be two minutes each and these are their last chances to change your mind.'
+p3066
+aS"Remember you were asked to vote once before the arguments and you'll be asked to vote immediately afterwards, and then we'll very quickly have the results."
+p3067
+aS'On to Round 3, closing statements.'
+p3068
+aS'Our motion is "prohibit genetically engineered babies," and here to summarize his position against the motion, Lee Silver, he is professor of molecular biology at Princeton and author of the book "Challenging Nature.'
+p3069
+ag1475
+asg18
+(dp3070
+S'20:20:05'
+p3071
+I10
+ssa(dp3072
+g8
+(lp3073
+S'A friend of mine here was introduced to me by another friend of mine here, who had ababy with a sperm donor, I met her in 2009.'
+p3074
+aS"And a few days after her child's birth shegot a call from her doctor, who told her to go into the bedroom to check on her sleepingbaby to see if he was still alive."
+p3075
+aS'The baby had been born with MCAD deficiency; he hadinherited this mutation from both my friend and the sperm donor who contributed tothe conception.'
+p3076
+aS"And the mutation was in her genome, and it had been in the genome ofher family for hundreds of years, at least, and it was silent; nobody knew about thismutation.With a particular dietary plan, my friend's son is now a healthy five-year-old boy, happyending to that story."
+p3077
+aS'And she and her wife decided to have another child with a spermdonor.'
+p3078
+aS'So they went to the sperm bank and tested the new donor that they were goingto use for mutations in the MCAD gene, and they found the donor was free of mutationsin the MCAD gene, which the genetic counselor said should ease her mind.'
+p3079
+aS"But, in fact,that shouldn't have eased her mind, because MCAD is just one of the hundreds ofmutations that she actually has in her genome, so even if the sperm donor had not hadMCAD mutation, it's just as possible that he had another mutation that was notcompatible with her DNA.So that's the important point that I want to make here that is very important for all of usto remember: there's no perfect baby, there's no perfect person, there's no perfectgenome, there's no one human genome."
+p3080
+aS'We are all just a combination of manydifferent genetic variants that makes us different from each other for better and forworse.'
+p3081
+asg11
+S'LEE SILVER'
+p3082
+sg13
+(dp3083
+I6
+S'48'
+p3084
+ssg16
+(lp3085
+S'A friend of mine here was introduced to me by another friend of mine here, who had a baby with a sperm donor, I met her in 2009.'
+p3086
+aS"And a few days after her child's birth she got a call from her doctor, who told her to go into the bedroom to check on her sleeping baby to see if he was still alive."
+p3087
+aS'The baby had been born with MCAD deficiency; he had inherited this mutation from both my friend and the sperm donor who contributed to the conception.'
+p3088
+aS'And the mutation was in her genome, and it had been in the genome of her family for hundreds of years, at least, and it was silent; nobody knew about this mutation.'
+p3089
+aS"With a particular dietary plan, my friend's son is now a healthy five-year-old boy, happy ending to that story."
+p3090
+aS'And she and her wife decided to have another child with a sperm donor.'
+p3091
+aS'So they went to the sperm bank and tested the new donor that they were going to use for mutations in the MCAD gene, and they found the donor was free of mutations in the MCAD gene, which the genetic counselor said should ease her mind.'
+p3092
+aS"But, in fact, that shouldn't have eased her mind, because MCAD is just one of the hundreds of mutations that she actually has in her genome, so even if the sperm donor had not had MCAD mutation, it's just as possible that he had another mutation that was not compatible with her DNA."
+p3093
+aS"So that's the important point that I want to make here that is very important for all of us to remember: there's no perfect baby, there's no perfect person, there's no perfect genome, there's no one human genome."
+p3094
+aS'We are all just a combination of many different genetic variants that makes us different from each other for better and for worse.'
+p3095
+asg18
+(dp3096
+S'20:20:56'
+p3097
+I8
+sS'20:21:51'
+p3098
+I17
+ssa(dp3099
+g8
+(lp3100
+S'Thank you, Lee Silver.'
+p3101
+aS'The motion is, "Prohibit genetically engineered babies," and hereto summarize his position in support of prohibition, Sheldon Krimsky.'
+p3102
+aS'He is a professorat Tufts University and chair of the Council for Responsible Genetics.'
+p3103
+asg11
+S'JOHN DONVAN'
+p3104
+sg16
+(lp3105
+S'Thank you, Lee Silver.'
+p3106
+aS'The motion is, "Prohibit genetically engineered babies," and here to summarize his position in support of prohibition, Sheldon Krimsky.'
+p3107
+aS'He is a professor at Tufts University and chair of the Council for Responsible Genetics.'
+p3108
+asa(dp3109
+g8
+(lp3110
+S'So it is perfectly understandable why parents would want to provide as muchenrichment to their child as possible to ensure their success in life.'
+p3111
+aS'But prenatal geneticengineering is not enrichment of a newborn, it is an effort to redesign the humangenome.'
+p3112
+aS'Science has succeeded in applying genetic modification for enhancement toanimals and crops, some would say successfully, others would say the jury is still out.But in the hundreds and thousands of trials that failed.'
+p3113
+aS'We simply discard the results ofthe unwanted crop or animal.'
+p3114
+aS'Is this the model that civilized humane society wishes toapply to humans?'
+p3115
+aS"Make pinpoint genetic alterations in the human germ plasm anddiscard the results when they don't work out."
+p3116
+aS'It is sheer hubris to think thatmanipulating the human germ plasm for enhancement will not produce mistakes.'
+p3117
+aS"Under our current laws and civil morality, society must bear the expense to care for myseverely disabled individual produce the reproductive genetic engineering.I'll leave you with one story."
+p3118
+aS"A little over ten years ago, scientists discovered that bymodifying a mouse's gene, it greatly improved the mouse's memory."
+p3119
+aS'Subsequently,they also learned that modification produced a mouse that increased sensitivity to pain.'
+p3120
+aS'I want to say a word about the mitochondrial disease problem.'
+p3121
+aS"Some decisions appearethical from a pinpoint perspective, but they're clearly unethical from a wider lens."
+p3122
+aS'Forthis, we have to look at the wider lens of genetic engineering and not at the pinpointperspective in order to understand its ethics to society.'
+p3123
+aS'Thank you.'
+p3124
+asg11
+S'SHELDON KRIMSKY'
+p3125
+sg13
+(dp3126
+I12
+S'49'
+p3127
+ssg16
+(lp3128
+S'So it is perfectly understandable why parents would want to provide as much enrichment to their child as possible to ensure their success in life.'
+p3129
+aS'But prenatal genetic engineering is not enrichment of a newborn, it is an effort to redesign the human genome.'
+p3130
+aS'Science has succeeded in applying genetic modification for enhancement to animals and crops, some would say successfully, others would say the jury is still out.'
+p3131
+aS'But in the hundreds and thousands of trials that failed.'
+p3132
+aS'We simply discard the results of the unwanted crop or animal.'
+p3133
+aS'Is this the model that civilized humane society wishes to apply to humans?'
+p3134
+aS"Make pinpoint genetic alterations in the human germ plasm and discard the results when they don't work out."
+p3135
+aS'It is sheer hubris to think that manipulating the human germ plasm for enhancement will not produce mistakes.'
+p3136
+aS'Under our current laws and civil morality, society must bear the expense to care for my severely disabled individual produce the reproductive genetic engineering.'
+p3137
+aS"I'll leave you with one story."
+p3138
+aS"A little over ten years ago, scientists discovered that by modifying a mouse's gene, it greatly improved the mouse's memory."
+p3139
+aS'Subsequently, they also learned that modification produced a mouse that increased sensitivity to pain.'
+p3140
+aS'I want to say a word about the mitochondrial disease problem.'
+p3141
+aS"Some decisions appear ethical from a pinpoint perspective, but they're clearly unethical from a wider lens."
+p3142
+aS'For this, we have to look at the wider lens of genetic engineering and not at the pinpoint perspective in order to understand its ethics to society.'
+p3143
+aS'Thank you.'
+p3144
+asg18
+(dp3145
+S'20:23:03'
+p3146
+I5
+sS'20:23:51'
+p3147
+I12
+ssa(dp3148
+g22
+(dp3149
+I1
+S'[applause]'
+p3150
+ssg8
+(lp3151
+S'Thank you, Sheldon Krimsky.Our motion is, prohibit genetically engineered babies.'
+p3152
+aS'And here to summarize their [[applause]] position against this motion, against prohibition, Nita Farahany.'
+p3153
+aS"She is a professor atDuke Law and a reach professor at Duke's Institute for Genome Sciences and Policy."
+p3154
+asg11
+S'JOHN DONVAN'
+p3155
+sg16
+(lp3156
+S'Thank you, Sheldon Krimsky.'
+p3157
+aS'Our motion is, prohibit genetically engineered babies.'
+p3158
+aS'And here to summarize their position against this motion, against prohibition, Nita Farahany.'
+p3159
+aS"She is a professor at Duke Law and a reach professor at Duke's Institute for Genome Sciences and Policy."
+p3160
+asg18
+(dp3161
 S'20:24:51'
-p2336
-ssa(dp2337
-g20
-(dp2338
+p3162
+I4
+ssa(dp3163
+g22
+(dp3164
 I18
 S'[applause]'
-p2339
-ssg8
+p3165
+ssg11
 S'NITA FARAHANY'
-p2340
-sg10
-(dp2341
+p3166
+sg16
+(lp3167
+S"This debate is quite personal to me, and I'd like to share why with you."
+p3168
+aS'In 2001, I attended the wedding of a dear friend.'
+p3169
+aS'Two years later, she developed thyroid cancer, and she underwent radioactive iodine treatment.'
+p3170
+aS'The next year, when she and her husband started to try to have children, she learned that she had substantial mitochondrial abnormalities that she would pass on to each and every one of her children.'
+p3171
+aS'She underwent mitochondrial transfer and now has a beautiful and healthy son, made possible by this technology.'
+p3172
+aS"We don't know if the radioactive iodine caused those abnormalities."
+p3173
+aS'What we do know is that she now has a child -- healthy, active and bright -- from a technology that is available, and we have already used.'
+p3174
+aS'In 2010, I also received radioactive iodine therapy for thyroid cancer.'
+p3175
+aS"When I'm ready to have children, I hope that I also have the option of having a healthy child with whatever the best technology is that we have available to us today."
+p3176
+aS"I'm not here to defend every type of genetic engineering."
+p3177
+aS"And I don't think we're ready as a society to embrace it all."
+p3178
+aS'But we already know that there are certain forms of genetic engineering that are safe and effective to use.'
+p3179
+aS'And what I urge you to do is vote against the resolution, to vote in favor of scientific progress, to vote to enable each of us as private citizens to make private choices and the most intimate choice we will ever make in life, to bring healthy children into this world.'
+p3180
+aS'Thank you.'
+p3181
+asg18
+(dp3182
+S'20:25:54'
+p3183
+I9
+sS'20:26:51'
+p3184
+I18
+ssg8
+(lp3185
+S"This debate is quite personal to me, and I'd like to share why with you."
+p3186
+aS'In 2001, Iattended the wedding of a dear friend.'
+p3187
+aS'Two years later, she developed thyroid cancer,and she underwent radioactive iodine treatment.'
+p3188
+aS'The next year, when she and herhusband started to try to have children, she learned that she had substantialmitochondrial abnormalities that she would pass on to each and every one of herchildren.'
+p3189
+aS'She underwent mitochondrial transfer and now has a beautiful and healthyson, made possible by this technology.'
+p3190
+aS"We don't know if the radioactive iodine causedthose abnormalities."
+p3191
+aS'What we do know is that she now has a child -- healthy, active andbright -- from a technology that is available, and we have already used.In 2010, I also received radioactive iodine therapy for thyroid cancer.'
+p3192
+aS"When I'm ready tohave children, I hope that I also have the option of having a healthy child with whateverthe best technology is that we have available to us today."
+p3193
+aS"I'm not here to defend everytype of genetic engineering."
+p3194
+aS"And I don't think we're ready as a society to embrace it all.But we already know that there are certain forms of genetic engineering that are safeand effective to use."
+p3195
+aS'And what I urge you to do is vote against the resolution, to vote infavor of scientific progress, to vote to enable each of us as private citizens to makeprivate choices and the most intimate choice we will ever make in life, to bring healthychildren into this world.'
+p3196
+aS'Thank you.'
+p3197
+asg13
+(dp3198
 I18
 S'50'
-p2342
-ssg13
-(lp2343
-S"This debate is quite personal to me, and I'd like to share why with you. In 2001, I"
-p2344
-aS'attended the wedding of a dear friend. Two years later, she developed thyroid cancer,'
-p2345
-aS'and she underwent radioactive iodine treatment. The next year, when she and her'
-p2346
-aS'husband started to try to have children, she learned that she had substantial'
-p2347
-aS'mitochondrial abnormalities that she would pass on to each and every one of her'
-p2348
-aS'children. She underwent mitochondrial transfer and now has a beautiful and healthy'
-p2349
-aS"son, made possible by this technology. We don't know if the radioactive iodine caused"
-p2350
-aS'those abnormalities. What we do know is that she now has a child -- healthy, active and'
-p2351
-aS'bright -- from a technology that is available, and we have already used.'
-p2352
-aS"In 2010, I also received radioactive iodine therapy for thyroid cancer. When I'm ready to"
-p2353
-aS'have children, I hope that I also have the option of having a healthy child with whatever'
-p2354
-aS"the best technology is that we have available to us today. I'm not here to defend every"
-p2355
-aS"type of genetic engineering. And I don't think we're ready as a society to embrace it all."
-p2356
-aS'But we already know that there are certain forms of genetic engineering that are safe'
-p2357
-aS'and effective to use. And what I urge you to do is vote against the resolution, to vote in'
-p2358
-aS'favor of scientific progress, to vote to enable each of us as private citizens to make'
-p2359
-aS'private choices and the most intimate choice we will ever make in life, to bring healthy'
-p2360
-aS'children into this world. Thank you.'
-p2361
-asg16
-(dp2362
-I9
-S'20:25:54'
-p2363
-sI18
-S'20:26:51'
-p2364
-ssa(dp2365
+p3199
+ssa(dp3200
 g8
+(lp3201
+S'Thanks Nita Farahany.'
+p3202
+aS'Our motion is, prohibit genetically engineered babies.'
+p3203
+aS'And hereto summaries his position in support of the motion to prohibit, Robert Winston.'
+p3204
+aS'He is aprofessor of science and society and emeritus professor of fertility studies at ImperialCollege London.'
+p3205
+asg11
 S'JOHN DONVAN'
-p2366
-sg13
-(lp2367
-S'Thanks Nita Farahany. Our motion is, prohibit genetically engineered babies. And here'
-p2368
-aS'to summaries his position in support of the motion to prohibit, Robert Winston. He is a'
-p2369
-aS'professor of science and society and emeritus professor of fertility studies at Imperial'
-p2370
-aS'College London.'
-p2371
-asa(dp2372
+p3206
+sg16
+(lp3207
+S'Thanks Nita Farahany.'
+p3208
+aS'Our motion is, prohibit genetically engineered babies.'
+p3209
+aS'And here to summaries his position in support of the motion to prohibit, Robert Winston.'
+p3210
+aS'He is a professor of science and society and emeritus professor of fertility studies at Imperial College London.'
+p3211
+asa(dp3212
 g8
+(lp3213
+S"Ladies and gentlemen, don't be seduced by a single, very heartrending story."
+p3214
+aS'That isreally not at issue here.'
+p3215
+aS"There's a big issue for the whole of our society and for people ingeneral."
+p3216
+aS"I regret to say that I'm saddened to see the simplistic argument aboutmitochondrial DNA from the other side."
+p3217
+aS"We don't understand the interactions with themitochondria."
+p3218
+aS"And already we've seen a number of horrid mishaps."
+p3219
+aS'So, of course,maybe a particular individual was lucky, but they might have been unlucky.'
+p3220
+aS'Howdifferent we would have been then.'
+p3221
+aS'We heard that people have a right to have ahealthy child.'
+p3222
+aS"Of course, they don't have a right, sadly, to have a healthy child."
+p3223
+aS'Whatwe do have a right to, though, in a democratic society, surely, is to have access to thebest and the safest treatment.'
+p3224
+aS'And at the moment, the safest treatment is certainly notmeddling with the genome.'
+p3225
+aS'It is not meddling with the mitochondrial DNA.It is actually to look at every other way of dealing with these terrible diseases.'
+p3226
+aS"We'renot ready for it."
+p3227
+aS'Of course, at the moment, I have no doubt it shall be banned.'
+p3228
+aS"Bans canalways be lifted if there's more research done to show that it is worth doing."
+p3229
+aS"And it'sworth bearing in mind too that we're not going to eradicate genetic defects by doingthis, not remotely."
+p3230
+aS'New defects occur all the time as Lee Silver rightly points out.'
+p3231
+aS'All ofus have defective DNA.'
+p3232
+aS'30 percent of boys born with the male form of musculardystrophy have this as a new mutation, as he well knows.'
+p3233
+aS'No amount of pre-implantation diagnosis will have changed that.'
+p3234
+aS'It is a particular problem.'
+p3235
+aS'And that isalways going to be the issue here.'
+p3236
+aS"The question is how we deal with these diseasesactually when we have them.And finally, can I just say, on a very personal note, it really is -- and I don't mean thispatronizingly."
+p3237
+aS"It's wonderful to see young people in the audience, and it's great to seeyou here."
+p3238
+aS'Thank you very much for sitting so patiently during these arguments.'
+p3239
+aS'What Ithink is important to understand is that this technology is something that you will haveto deal with in time.'
+p3240
+aS'And I --'
+p3241
+asg11
 S'LORD ROBERT WINSTON'
-p2373
-sg10
-(dp2374
+p3242
+sg13
+(dp3243
 I26
 S'51'
-p2375
-ssg13
-(lp2376
-S"Ladies and gentlemen, don't be seduced by a single, very heartrending story. That is"
-p2377
-aS"really not at issue here. There's a big issue for the whole of our society and for people in"
-p2378
-aS"general. I regret to say that I'm saddened to see the simplistic argument about"
-p2379
-aS"mitochondrial DNA from the other side. We don't understand the interactions with the"
-p2380
-aS"mitochondria. And already we've seen a number of horrid mishaps. So, of course,"
-p2381
-aS'maybe a particular individual was lucky, but they might have been unlucky. How'
-p2382
-aS'different we would have been then. We heard that people have a right to have a'
-p2383
-aS"healthy child. Of course, they don't have a right, sadly, to have a healthy child. What"
-p2384
-aS'we do have a right to, though, in a democratic society, surely, is to have access to the'
-p2385
-aS'best and the safest treatment. And at the moment, the safest treatment is certainly not'
-p2386
-aS'meddling with the genome. It is not meddling with the mitochondrial DNA.'
-p2387
-aS"It is actually to look at every other way of dealing with these terrible diseases. We're"
-p2388
-aS'not ready for it. Of course, at the moment, I have no doubt it shall be banned. Bans can'
-p2389
-aS"always be lifted if there's more research done to show that it is worth doing. And it's"
-p2390
-aS"worth bearing in mind too that we're not going to eradicate genetic defects by doing"
-p2391
-aS'this, not remotely. New defects occur all the time as Lee Silver rightly points out. All of'
-p2392
-aS'us have defective DNA. 30 percent of boys born with the male form of muscular'
-p2393
-aS'dystrophy have this as a new mutation, as he well knows. No amount of pre-'
-p2394
-aS'implantation diagnosis will have changed that. It is a particular problem. And that is'
-p2395
-aS'always going to be the issue here. The question is how we deal with these diseases'
-p2396
-aS'actually when we have them.'
-p2397
-aS"And finally, can I just say, on a very personal note, it really is -- and I don't mean this"
-p2398
-aS"patronizingly. It's wonderful to see young people in the audience, and it's great to see"
-p2399
-aS'you here. Thank you very much for sitting so patiently during these arguments. What I'
-p2400
-aS'think is important to understand is that this technology is something that you will have'
-p2401
-aS'to deal with in time. And I --'
-p2402
-asg16
-(dp2403
-I11
-S'20:28:05'
-p2404
-sI21
+p3244
+ssg16
+(lp3245
+S"Ladies and gentlemen, don't be seduced by a single, very heartrending story."
+p3246
+aS'That is really not at issue here.'
+p3247
+aS"There's a big issue for the whole of our society and for people in general."
+p3248
+aS"I regret to say that I'm saddened to see the simplistic argument about mitochondrial DNA from the other side."
+p3249
+aS"We don't understand the interactions with the mitochondria."
+p3250
+aS"And already we've seen a number of horrid mishaps."
+p3251
+aS'So, of course, maybe a particular individual was lucky, but they might have been unlucky.'
+p3252
+aS'How different we would have been then.'
+p3253
+aS'We heard that people have a right to have a healthy child.'
+p3254
+aS"Of course, they don't have a right, sadly, to have a healthy child."
+p3255
+aS'What we do have a right to, though, in a democratic society, surely, is to have access to the best and the safest treatment.'
+p3256
+aS'And at the moment, the safest treatment is certainly not meddling with the genome.'
+p3257
+aS'It is not meddling with the mitochondrial DNA.'
+p3258
+aS'It is actually to look at every other way of dealing with these terrible diseases.'
+p3259
+aS"We're not ready for it."
+p3260
+aS'Of course, at the moment, I have no doubt it shall be banned.'
+p3261
+aS"Bans can always be lifted if there's more research done to show that it is worth doing."
+p3262
+aS"And it's worth bearing in mind too that we're not going to eradicate genetic defects by doing this, not remotely."
+p3263
+aS'New defects occur all the time as Lee Silver rightly points out.'
+p3264
+aS'All of us have defective DNA.'
+p3265
+aS'30 percent of boys born with the male form of muscular dystrophy have this as a new mutation, as he well knows.'
+p3266
+aS'No amount of pre- implantation diagnosis will have changed that.'
+p3267
+aS'It is a particular problem.'
+p3268
+aS'And that is always going to be the issue here.'
+p3269
+aS'The question is how we deal with these diseases actually when we have them.'
+p3270
+aS"And finally, can I just say, on a very personal note, it really is -- and I don't mean this patronizingly."
+p3271
+aS"It's wonderful to see young people in the audience, and it's great to see you here."
+p3272
+aS'Thank you very much for sitting so patiently during these arguments.'
+p3273
+aS'What I think is important to understand is that this technology is something that you will have to deal with in time.'
+p3274
+aS'And I --'
+p3275
+asg18
+(dp3276
 S'20:28:53'
-p2405
-ssa(dp2406
+p3277
+I21
+sS'20:28:05'
+p3278
+I11
+ssa(dp3279
 g8
+(lp3280
+S'Thank you, Robert Winston.'
+p3281
+aS"I'm sorry."
+p3282
+aS'Your time is up.'
+p3283
+asg11
 S'JOHN DONVAN'
-p2407
-sg13
-(lp2408
-S"Thank you, Robert Winston. I'm sorry. Your time is up."
-p2409
-asa(dp2410
+p3284
+sg16
+(lp3285
+S'Thank you, Robert Winston.'
+p3286
+aS"I'm sorry."
+p3287
+aS'Your time is up.'
+p3288
+asa(dp3289
 g8
+(lp3290
+S"I hope -- I hope they show the same responsibility that we're trying to show thisevening."
+p3291
+asg11
 S'LORD ROBERT WINSTON'
-p2411
-sg13
-(lp2412
-S"I hope -- I hope they show the same responsibility that we're trying to show this"
-p2413
-aS'evening.'
-p2414
+p3292
+sg16
+(lp3293
+S"I hope -- I hope they show the same responsibility that we're trying to show this evening."
+p3294
 asasS'after'
-p2415
-(lp2416
+p3295
+(lp3296
 S'41%-FOR'
-p2417
+p3297
 aS'49%-AGAINST'
-p2418
+p3298
 aS'10%-UNDECIDED'
-p2419
+p3299
 asS'against'
-p2420
-(lp2421
+p3300
+(lp3301
 S'NITA FARAHANY'
-p2422
+p3302
 aS'LEE SILVER'
-p2423
+p3303
 asS'moderator'
-p2424
-(lp2425
+p3304
+(lp3305
 S'JOHN DONVAN'
-p2426
+p3306
 asS'date'
-p2427
-(dp2428
+p3307
+(dp3308
 S'year'
-p2429
+p3309
 S'2013'
-p2430
+p3310
 sS'day'
-p2431
+p3311
 S'13'
-p2432
+p3312
 sS'month'
-p2433
+p3313
 S'February'
-p2434
+p3314
 ssS'before'
-p2435
-(lp2436
+p3315
+(lp3316
 S'24%-FOR'
-p2437
+p3317
 aS'30%-AGAINST'
-p2438
+p3318
 aS'46%-UNDECIDED'
-p2439
+p3319
 as.

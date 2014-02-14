@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>i2US | Data View</title>
+        <link rel='icon' type='image/png' href='/http/img/cornell.png'></link>
+        <script type="text/javascript" src="/http/js/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript" src="/http/js/jquery-migrate-1.2.1.min.js"></script>
+        <script type="text/javascript" src="/http/js/d3.v3.min.js"></script>
+        <script type="text/javascript" src="/http/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/http/js/i2us.js"></script>
+        <link rel='stylesheet' href='/http/css/bootstrap.min.css'></link>
+        <link rel='stylesheet' href='/http/css/bootstrap-theme.min.css'></link>
+        <link rel='stylesheet' href='/http/css/style.css'></link>
+    </head>
+    <body>
+        <nav class="navbar navbar-default" role="navigation">
+          <div class="container-fluid">
+            <div class="navbar-header">
+                <a href="#"><span class="navbar-brand">i<sup>2</sup>US | Data View</span></a>
+            </div>
+          </div>
+        </nav>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h1><span>i<sup>2</sup>US | Data View</span></h1>
+                    <p>
+                        The objective of this simple web-application is to provide
+                        a clean interface for users of various skill levels to support
+                        analysis of the <span class="link-github">Intelligence Squared US</span>
+                        debate data.
+                    </p>
+                    <form class='form' role='form'>
+                        <div class="form-group">
+                            <label for="select-debate">Select a debate file</label>
+                            <select class="form-control" id='select-debate'>
+                                <option></option>
+                            </select>
+                        </div>
+                    </form>
+                </div>
+            </div>            
+            <div class="row">
+                <div id="debate-description" class="col-md-8 col-md-offset-2">
+                    <h3></h3>
+                    <p></p>
+                    
+    <!-- Will work on this...
+                    <form class='form-inline' role='form'>
+                        <div class="form-group">
+                            <label for="select-debate">Select a tag</label>
+                            <select class="form-control" id='select-tag'>
+                                <option>Title</option>
+                                <option>For</option>
+                                <option>Against</option>
+                                <option>Description</option>
+                            </select>
+                        </div>
+                    </form>
+    -->
+                </div>
+            </div>
+            <div class="row">
+                <div id="svg-contain" class="col-md-8 col-md-offset-2">
+                    <svg id="debateChart"></svg>                    
+                </div>
+            </div>
+            <div class="row">
+                <div id="full-text" class="col-md-8 col-md-offset-2">
+                    <h3></h3>
+                    <small><em class="text-right"></em></small>
+                    <blockquote></blockquote>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <small>Created By <span class="link-cuis-bjm">Brian McInnis</span> at <span class="link-cuis">Cornell University, Information Science</span></small>                        
+                    </div>
+                </div>                
+            </div>
+        </footer>
+    </body>
+</html>

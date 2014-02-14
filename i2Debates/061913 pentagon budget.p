@@ -10,4483 +10,6635 @@ asS'text'
 p5
 (lp6
 (dp7
-S'SPEAKER'
+S'FULL-TEXT'
 p8
-S'PREAMBLE'
-p9
-sS'PAGE'
+(lp9
+S'Cutting the Pentagons budget is a gift to our enemies'
 p10
-(dp11
+asS'SPEAKER'
+p11
+S'PREAMBLE'
+p12
+sS'PAGE'
+p13
+(dp14
 I0
 S'1'
-p12
-ssS'STATEMENT'
-p13
-(lp14
-S'Cutting the Pentagons budget is a gift to our enemies'
 p15
-asS'TIME'
+ssS'STATEMENT'
 p16
-(dp17
-I1
-S'17:33:29'
+(lp17
+g10
+asS'TIME'
 p18
-ssa(dp19
-S'BREAK'
+(dp19
+S'17:33:29'
 p20
-(dp21
+I1
+ssa(dp21
+S'BREAK'
+p22
+(dp23
 I8
 S'[applause]'
-p22
+p24
 ssg8
-S'JOHN DONVAN'
-p23
-sg13
-(lp24
-S'So we are, as I said before, delighted for the first time ever for Intelligence Squared U.S.'
-p25
-aS'to be partnering with the McCain Institute for International Leadership. We started'
+(lp25
+S'So we are, as I said before, delighted for the first time ever for Intelligence Squared U.S.to be partnering with the McCain Institute for International Leadership.'
 p26
-aS'talking about this months ago. We worked through a lot of topics. We found out -- we'
+aS'We startedtalking about this months ago.'
 p27
-aS'came to the conclusion that this was the one that was really going to be the one that fit'
+aS'We worked through a lot of topics.'
 p28
-aS'both our sets of values and agendas for the kinds of things that we need to be out there'
+aS'We found out -- wecame to the conclusion that this was the one that was really going to be the one that fitboth our sets of values and agendas for the kinds of things that we need to be out therein the public discourse.'
 p29
-aS'in the public discourse. And for that reason, at this point, I would like to bring to the'
+aS'And for that reason, at this point, I would like to bring to thestage, representing the McCain Institute, Ambassador Kurt Volker.'
 p30
-aS"stage, representing the McCain Institute, Ambassador Kurt Volker. Let's welcome him"
+aS"Let's welcome himto the stage."
 p31
-aS'to the stage.'
+asg11
+S'JOHN DONVAN'
 p32
-asa(dp33
-g20
-(dp34
+sg16
+(lp33
+S'So we are, as I said before, delighted for the first time ever for Intelligence Squared U.S. to be partnering with the McCain Institute for International Leadership.'
+p34
+aS'We started talking about this months ago.'
+p35
+aS'We worked through a lot of topics.'
+p36
+aS'We found out -- we came to the conclusion that this was the one that was really going to be the one that fit both our sets of values and agendas for the kinds of things that we need to be out there in the public discourse.'
+p37
+aS'And for that reason, at this point, I would like to bring to the stage, representing the McCain Institute, Ambassador Kurt Volker.'
+p38
+aS"Let's welcome him to the stage."
+p39
+asa(dp40
+g22
+(dp41
 I16
 S'[applause]'
-p35
-ssg8
+p42
+ssg11
 S'KURT VOLKER'
-p36
-sg10
-(dp37
+p43
+sg16
+(lp44
+S'Thank you very much.'
+p45
+aS'As you heard, my name is Kurt Volker.'
+p46
+aS"I'm the executive director of the McCain Institute."
+p47
+aS'We are a part of Arizona State University, and this event is not only on radio but being live streamed back to Arizona, watched by students there on ASU TV, among other things.'
+p48
+aS'One of the missions that the McCain Institute set for itself as we established ourselves over a year ago was to bring back a culture of reasoned structured debate about the core challenges facing our country.'
+p49
+aS'We embarked on a series of debates.'
+p50
+aS'One on Syria, should we intervene or not; one on Afghanistan, should we be getting out or not; what do we do about Iran?'
+p51
+aS'And this was the first time that we are partnering with Intelligence Squared.'
+p52
+aS'And we are delighted to be able to do so.'
+p53
+aS'It should be a very lively debate about a critical issue that is, again, facing our country: What do we do about our defense budget?'
+p54
+aS"We'll be doing more of these in the fall as well."
+p55
+aS'Senator McCain wishes that he could be here for this debate at the beginning, but as you may know theyre dealing with immigration issues on Capitol Hill this evening, and so hes over there for that.'
+p56
+aS'We do hope that he would be able to join and say a few words by the end.'
+p57
+aS'With that, I want to turn it back to our Intelligence Squared organizers and thank you all very much for coming.'
+p58
+asg18
+(dp59
+S'17:34:33'
+p60
+I6
+sS'17:35:23'
+p61
+I16
+ssg8
+(lp62
+S'Thank you very much.'
+p63
+aS'As you heard, my name is Kurt Volker.'
+p64
+aS"I'm the executive directorof the McCain Institute."
+p65
+aS'We are a part of Arizona State University, and this event is notonly on radio but being live streamed back to Arizona, watched by students there onASU TV, among other things.'
+p66
+aS'One of the missions that the McCain Institute set for itselfas we established ourselves over a year ago was to bring back a culture of reasonedstructured debate about the core challenges facing our country.We embarked on a series of debates.'
+p67
+aS'One on Syria, should we intervene or not; one onAfghanistan, should we be getting out or not; what do we do about Iran?'
+p68
+aS'And this wasthe first time that we are partnering with Intelligence Squared.'
+p69
+aS'And we are delighted tobe able to do so.'
+p70
+aS'It should be a very lively debate about a critical issue that is, again,facing our country: What do we do about our defense budget?'
+p71
+aS"We'll be doing more ofthese in the fall as well."
+p72
+aS'Senator McCain wishes that he could be here for this debate atthe beginning, but as you may know theyre dealing with immigration issues on CapitolHill this evening, and so hes over there for that.'
+p73
+aS'We do hope that he would be able tojoin and say a few words by the end.'
+p74
+aS'With that, I want to turn it back to our IntelligenceSquared organizers and thank you all very much for coming.'
+p75
+asg13
+(dp76
 I6
 S'2'
-p38
-ssg13
-(lp39
-S"Thank you very much. As you heard, my name is Kurt Volker. I'm the executive director"
-p40
-aS'of the McCain Institute. We are a part of Arizona State University, and this event is not'
-p41
-aS'only on radio but being live streamed back to Arizona, watched by students there on'
-p42
-aS'ASU TV, among other things. One of the missions that the McCain Institute set for itself'
-p43
-aS'as we established ourselves over a year ago was to bring back a culture of reasoned'
-p44
-aS'structured debate about the core challenges facing our country.'
-p45
-aS'We embarked on a series of debates. One on Syria, should we intervene or not; one on'
-p46
-aS'Afghanistan, should we be getting out or not; what do we do about Iran? And this was'
-p47
-aS'the first time that we are partnering with Intelligence Squared. And we are delighted to'
-p48
-aS'be able to do so. It should be a very lively debate about a critical issue that is, again,'
-p49
-aS"facing our country: What do we do about our defense budget? We'll be doing more of"
-p50
-aS'these in the fall as well. Senator McCain wishes that he could be here for this debate at'
-p51
-aS'the beginning, but as you may know theyre dealing with immigration issues on Capitol'
-p52
-aS'Hill this evening, and so hes over there for that. We do hope that he would be able to'
-p53
-aS'join and say a few words by the end. With that, I want to turn it back to our Intelligence'
-p54
-aS'Squared organizers and thank you all very much for coming.'
-p55
-asg16
-(dp56
-I16
-S'17:35:23'
-p57
-sI6
-S'17:34:33'
-p58
-ssa(dp59
-g20
-(dp60
+p77
+ssa(dp78
+g22
+(dp79
 I5
 S'[applause]'
-p61
+p80
 ssg8
+(lp81
+S'Thank you, and normally what we do in New York at this point is I invite to this stage theperson who brought Intelligence Squared US to New York and increasingly to the nation,and he helps frame whats a hit for us in terms of the debate and the timing, why weregoing to this topic now.'
+p82
+aS"So I would like to welcome to the state, warmly, Mr. RobertRosenkranz.So, Bob, we've been around the country in the past year."
+p83
+aS"We've been to Chicago, we've [[applause]] been to Aspen."
+p84
+aS"A lot of the time we're in New York City."
+p85
+aS"We're back in Washington forthe second time this year."
+p86
+aS'I just want to very briefly touch on the notion of bringing tothis process the kind of very structured debate with rules and rounds and timing and awinner and a loser.'
+p87
+aS'What does that bring to the discourse?'
+p88
+asg11
 S'JOHN DONVAN'
-p62
-sg13
-(lp63
-S'Thank you, and normally what we do in New York at this point is I invite to this stage the'
-p64
-aS'person who brought Intelligence Squared US to New York and increasingly to the nation,'
-p65
-aS'and he helps frame whats a hit for us in terms of the debate and the timing, why were'
-p66
-aS'going to this topic now. So I would like to welcome to the state, warmly, Mr. Robert'
-p67
-aS'Rosenkranz.'
-p68
-aS"So, Bob, we've been around the country in the past year. We've been to Chicago, we've"
-p69
-aS"been to Aspen. A lot of the time we're in New York City. We're back in Washington for"
-p70
-aS'the second time this year. I just want to very briefly touch on the notion of bringing to'
-p71
-aS'this process the kind of very structured debate with rules and rounds and timing and a'
-p72
-aS'winner and a loser. What does that bring to the discourse?'
-p73
-asa(dp74
-g20
-(dp75
+p89
+sg16
+(lp90
+S'Thank you, and normally what we do in New York at this point is I invite to this stage the person who brought Intelligence Squared US to New York and increasingly to the nation, and he helps frame whats a hit for us in terms of the debate and the timing, why were going to this topic now.'
+p91
+aS'So I would like to welcome to the state, warmly, Mr. Robert Rosenkranz.'
+p92
+aS"So, Bob, we've been around the country in the past year."
+p93
+aS"We've been to Chicago, we've been to Aspen."
+p94
+aS"A lot of the time we're in New York City."
+p95
+aS"We're back in Washington for the second time this year."
+p96
+aS'I just want to very briefly touch on the notion of bringing to this process the kind of very structured debate with rules and rounds and timing and a winner and a loser.'
+p97
+aS'What does that bring to the discourse?'
+p98
+asa(dp99
+g22
+(dp100
 I5
 S'[laughter]'
-p76
+p101
 ssg8
+(lp102
+S'Well, I think the point, really, is that the debaters are forced to listen to the argumentson both sides.'
+p103
+aS"They're forced to respond in real time to challenges."
+p104
+aS"They're forced torespond to facts that either support or undercut their positions."
+p105
+aS"And they're trying to persuade an open-minded audience to change their minds."
+p106
+aS"So inmany ways, it's reminiscent of the debates on the floors of Congress."
+p107
+asg11
 S'ROBERT ROSENKRANZ'
-p77
-sg13
-(lp78
-S'Well, I think the point, really, is that the debaters are forced to listen to the arguments'
-p79
-aS"on both sides. They're forced to respond in real time to challenges. They're forced to"
-p80
-aS'respond to facts that either support or undercut their positions.'
-p81
-aS" And they're trying to persuade an open-minded audience to change their minds. So in"
-p82
-aS"many ways, it's reminiscent of the debates on the floors of Congress."
-p83
-asg16
-(dp84
-I3
+p108
+sg16
+(lp109
+S'Well, I think the point, really, is that the debaters are forced to listen to the arguments on both sides.'
+p110
+aS"They're forced to respond in real time to challenges."
+p111
+aS"They're forced to respond to facts that either support or undercut their positions."
+p112
+aS"And they're trying to persuade an open-minded audience to change their minds."
+p113
+aS"So in many ways, it's reminiscent of the debates on the floors of Congress."
+p114
+asg18
+(dp115
 S'17:36:32'
-p85
-ssa(dp86
+p116
+I3
+ssa(dp117
 g8
+(lp118
+S'Exactly like the debates on the floors of Congress.'
+p119
+aS"So let's talk a little bit about thisdebate that we're having right now in this era of mandatory cuts coming for thePentagon budget."
+p120
+aS'The team that\'s arguing for this motion -- and the "for" side is sayingthat the cuts really are a threat to national security, or a gift to our enemies, as we\'reputting it.'
+p121
+aS'What do they have going for them in this argument?'
+p122
+asg11
 S'JOHN DONVAN'
-p87
-sg10
-(dp88
+p123
+sg13
+(dp124
 I0
 S'3'
-p89
-ssg13
-(lp90
-S"Exactly like the debates on the floors of Congress. So let's talk a little bit about this"
-p91
-aS"debate that we're having right now in this era of mandatory cuts coming for the"
-p92
-aS'Pentagon budget. The team that\'s arguing for this motion -- and the "for" side is saying'
-p93
-aS"that the cuts really are a threat to national security, or a gift to our enemies, as we're"
-p94
-aS'putting it. What do they have going for them in this argument?'
-p95
-asa(dp96
+p125
+ssg16
+(lp126
+S'Exactly like the debates on the floors of Congress.'
+p127
+aS"So let's talk a little bit about this debate that we're having right now in this era of mandatory cuts coming for the Pentagon budget."
+p128
+aS'The team that\'s arguing for this motion -- and the "for" side is saying that the cuts really are a threat to national security, or a gift to our enemies, as we\'re putting it.'
+p129
+aS'What do they have going for them in this argument?'
+p130
+asa(dp131
 g8
+(lp132
+S'Well, I think what they have going for them is the fact that we live in a very dangerousworld.'
+p133
+aS"We live in a world where we're facing a much more assertive China."
+p134
+aS'We live in aworld where radical Islam seems to be in the ascendancy, and many countries in theMiddle East.'
+p135
+aS"We live in a world where a lot of people who really wish us ill are trying toget their hands on nuclear weapons and other weapons of mass destruction.So we're in a very dangerous environment, and we need a very strong defense in orderto be secure at home and exercise leadership abroad."
+p136
+asg11
 S'ROBERT ROSENKRANZ'
-p97
-sg13
-(lp98
-S'Well, I think what they have going for them is the fact that we live in a very dangerous'
-p99
-aS"world. We live in a world where we're facing a much more assertive China. We live in a"
-p100
-aS'world where radical Islam seems to be in the ascendancy, and many countries in the'
-p101
-aS'Middle East. We live in a world where a lot of people who really wish us ill are trying to'
-p102
-aS'get their hands on nuclear weapons and other weapons of mass destruction.'
-p103
-aS"So we're in a very dangerous environment, and we need a very strong defense in order"
-p104
-aS'to be secure at home and exercise leadership abroad.'
-p105
-asg16
-(dp106
-I5
+p137
+sg16
+(lp138
+S'Well, I think what they have going for them is the fact that we live in a very dangerous world.'
+p139
+aS"We live in a world where we're facing a much more assertive China."
+p140
+aS'We live in a world where radical Islam seems to be in the ascendancy, and many countries in the Middle East.'
+p141
+aS'We live in a world where a lot of people who really wish us ill are trying to get their hands on nuclear weapons and other weapons of mass destruction.'
+p142
+aS"So we're in a very dangerous environment, and we need a very strong defense in order to be secure at home and exercise leadership abroad."
+p143
+asg18
+(dp144
 S'17:37:37'
-p107
-ssa(dp108
+p145
+I5
+ssa(dp146
 g8
-S'JOHN DONVAN'
-p109
-sg13
-(lp110
+(lp147
 S'And the team on the other side?'
-p111
-asa(dp112
+p148
+asg11
+S'JOHN DONVAN'
+p149
+sg16
+(lp150
+g148
+asa(dp151
 g8
+(lp152
+S'Team on the other side will say, well, even with these cuts, we are spending more than,I think, the next 13 countries combined on national defense.'
+p153
+aS'And that there is a lot ofwaste and inefficiency in the defense department.'
+p154
+aS"They're going to point to the factthat civilian employees in a bureaucratic kind of capacity have grown in numbers farfaster than deployable forces."
+p155
+aS"They're going to point to the fact that in a lot ofprocurement programs they're really driven by politics and job creation more than byany kind of strategic thought or necessity."
+p156
+asg11
 S'ROBERT ROSENKRANZ'
-p113
-sg13
-(lp114
-S'Team on the other side will say, well, even with these cuts, we are spending more than,'
-p115
-aS'I think, the next 13 countries combined on national defense. And that there is a lot of'
-p116
-aS"waste and inefficiency in the defense department. They're going to point to the fact"
-p117
-aS'that civilian employees in a bureaucratic kind of capacity have grown in numbers far'
-p118
-aS"faster than deployable forces. They're going to point to the fact that in a lot of"
-p119
-aS"procurement programs they're really driven by politics and job creation more than by"
-p120
-aS'any kind of strategic thought or necessity.'
-p121
-asg16
-(dp122
-I7
+p157
+sg16
+(lp158
+S'Team on the other side will say, well, even with these cuts, we are spending more than, I think, the next 13 countries combined on national defense.'
+p159
+aS'And that there is a lot of waste and inefficiency in the defense department.'
+p160
+aS"They're going to point to the fact that civilian employees in a bureaucratic kind of capacity have grown in numbers far faster than deployable forces."
+p161
+aS"They're going to point to the fact that in a lot of procurement programs they're really driven by politics and job creation more than by any kind of strategic thought or necessity."
+p162
+asg18
+(dp163
 S'17:38:31'
-p123
-ssa(dp124
-g20
-(dp125
+p164
+I7
+ssa(dp165
+g22
+(dp166
 I1
 S'[applause]'
-p126
+p167
 sI12
 S'[applause]'
-p127
+p168
 sI29
 S'[applause]'
-p128
+p169
 sI6
 S'[laughter]'
-p129
-ssg8
+p170
+ssg11
 S'JOHN DONVAN'
-p130
-sg10
-(dp131
+p171
+sg16
+(lp172
+S'All right.'
+p173
+aS'A little bit of a preview.'
+p174
+aS"And let's now welcome our debaters to the stage."
+p175
+aS"So we're about to begin."
+p176
+aS"And, as I mentioned, for the sake of the radio broadcast, there may be points in the broadcast where I repeat certain things over and over again like telling you that my name is John Donvan; that would be because we're coming back from breaks."
+p177
+aS"And also it will be helpful when we come back from breaks if I could encourage you to applaud spontaneously -- -- at that moment, and I'll just let you know that this is the time when I really need you to do that."
+p178
+aS"So the two times when that's the case, we'll be coming back from these breaks, and I'll raise my hand like that."
+p179
+aS'And the other will be in a moment whether I introduce each of the debaters, when I mention their names for the first and then the second time.'
+p180
+aS'It would also be terrific if you can applaud.'
+p181
+aS'So -- 6,768.'
+p182
+aS'That is the number of war ships in the U.S. Navy in the waning days of the second World War.'
+p183
+aS'288 ships.'
+p184
+aS'That is the number of ships in the U.S. Navy in the opening days of 2013.'
+p185
+aS"And it's about 25 fewer than the Navy says that it thinks it needs."
+p186
+aS'215.'
+p187
+aS'That is what a Secretary of Defense warns that the Navy will shrink to because of budget cuts from the so-called sequester.'
+p188
+aS"And the Navy hasn't had a Navy that small since 1915 when our war ships burned coal to get around."
+p189
+aS'Obviously, times change.'
+p190
+aS'Military strategies change.'
+p191
+aS'Budget constraints change.'
+p192
+aS'But will more cuts now compromise the common defense?'
+p193
+aS'Or might we already have all of the defense we need and not just ships?'
+p194
+aS'Well, it sounds like a debate.'
+p195
+aS"So let's have it."
+p196
+aS"Yes or no to this statement: Cutting the Pentagon's budget is a gift to our enemies."
+p197
+aS'A debate from Intelligence Squared U.S. in partnership with the McCain Institute for International Leadership.'
+p198
+aS"I'm John Donvan."
+p199
+aS'We have four superbly qualified debaters, two against two.'
+p200
+aS'They will argue for and against this motion.'
+p201
+aS'Our debate goes, as always, in three rounds, and then the audience votes to choose a winner, and only one side wins.'
+p202
+aS"Our motion is, Cutting the Pentagon's budget is a gift to our enemies."
+p203
+aS'" Let\'s meet the team arguing for the motion.'
+p204
+aS'First, ladies and gentlemen, Thomas Donnelly.'
+p205
+aS'And, Thomas Donnelly, you are a co-director of the Marilyn Ware Center for Security Studies at the American Enterprise Institute.'
+p206
+aS"You actually took part in an exercise, a kind of game, hosted, in fact, by your partner at the table, there at his think tank, where you were asked to rebalance the Defense Department's portfolio of weapons and capabilities on a reduced budget."
+p207
+aS'And when you began your presentation, you said, "All I can offer you are roads to failure.'
+p208
+aS'" So does that mean you\'re just a pessimist or'
+p209
+asg18
+(dp210
+S'17:39:31'
+p211
+I11
+sS'17:40:30'
+p212
+I20
+sS'17:41:33'
+p213
+I31
+ssg8
+(lp214
+S'All right.'
+p215
+aS'A little bit of a preview.'
+p216
+aS"And let's now welcome our debaters to the stage.So we're about to begin."
+p217
+aS"And, as I mentioned, for the sake of the radio broadcast, there [[applause]] may be points in the broadcast where I repeat certain things over and over again liketelling you that my name is John Donvan; that would be because we're coming backfrom breaks."
+p218
+aS"And also it will be helpful when we come back from breaks if I couldencourage you to applaud spontaneously ---- at that moment, and I'll just let you know that this is the time when I really need you [[laughter]] to do that."
+p219
+aS"So the two times when that's the case, we'll be coming back from thesebreaks, and I'll raise my hand like that."
+p220
+aS'And the other will be in a moment whether Iintroduce each of the debaters, when I mention their names for the first and then thesecond time.It would also be terrific if you can applaud.'
+p221
+aS'So --6,768.'
+p222
+aS'That is the number of war ships in the U.S. Navy in the waning days of the [[applause]] second World War.'
+p223
+aS'288 ships.'
+p224
+aS'That is the number of ships in the U.S. Navy in theopening days of 2013.'
+p225
+aS"And it's about 25 fewer than the Navy says that it thinks it needs."
+p226
+aS'215.'
+p227
+aS'That is what a Secretary of Defense warns that the Navy will shrink to because ofbudget cuts from the so-called sequester.'
+p228
+aS"And the Navy hasn't had a Navy that smallsince 1915 when our war ships burned coal to get around."
+p229
+aS'Obviously, times change.'
+p230
+aS'Military strategies change.'
+p231
+aS'Budget constraints change.'
+p232
+aS'But will more cuts nowcompromise the common defense?Or might we already have all of the defense we need and not just ships?'
+p233
+aS'Well, it soundslike a debate.'
+p234
+aS"So let's have it."
+p235
+aS"Yes or no to this statement: Cutting the Pentagon'sbudget is a gift to our enemies."
+p236
+aS'A debate from Intelligence Squared U.S. in partnershipwith the McCain Institute for International Leadership.'
+p237
+aS"I'm John Donvan."
+p238
+aS'We have foursuperbly qualified debaters, two against two.'
+p239
+aS'They will argue for and against thismotion.'
+p240
+aS'Our debate goes, as always, in three rounds, and then the audience votes tochoose a winner, and only one side wins.'
+p241
+aS"Our motion is, Cutting the Pentagon's budgetis a gift to our enemies."
+p242
+aS'" Let\'s meet the team arguing for the motion.'
+p243
+aS"First, ladies andgentlemen, Thomas Donnelly.And, Thomas Donnelly, you are a co-director of the Marilyn Ware Center for Security [[applause]] Studies at the American Enterprise Institute.You actually took part in an exercise, a kind of game, hosted, in fact, by your partner atthe table, there at his think tank, where you were asked to rebalance the DefenseDepartment's portfolio of weapons and capabilities on a reduced budget."
+p244
+aS'And whenyou began your presentation, you said, "All I can offer you are roads to failure.'
+p245
+aS'" So doesthat mean you\'re just a pessimist or'
+p246
+asg13
+(dp247
 I6
 S'4'
-p132
-ssg13
-(lp133
-S"All right. A little bit of a preview. And let's now welcome our debaters to the stage."
-p134
-aS"So we're about to begin. And, as I mentioned, for the sake of the radio broadcast, there"
-p135
-aS'may be points in the broadcast where I repeat certain things over and over again like'
-p136
-aS"telling you that my name is John Donvan; that would be because we're coming back"
-p137
-aS'from breaks. And also it will be helpful when we come back from breaks if I could'
-p138
-aS'encourage you to applaud spontaneously --'
-p139
-aS"-- at that moment, and I'll just let you know that this is the time when I really need you"
-p140
-aS"to do that. So the two times when that's the case, we'll be coming back from these"
-p141
-aS"breaks, and I'll raise my hand like that. And the other will be in a moment whether I"
-p142
-aS'introduce each of the debaters, when I mention their names for the first and then the'
-p143
-aS'second time.'
-p144
-aS'It would also be terrific if you can applaud. So --'
-p145
-aS'6,768. That is the number of war ships in the U.S. Navy in the waning days of the'
-p146
-aS'second World War. 288 ships. That is the number of ships in the U.S. Navy in the'
-p147
-aS"opening days of 2013. And it's about 25 fewer than the Navy says that it thinks it needs."
-p148
-aS' 215. That is what a Secretary of Defense warns that the Navy will shrink to because of'
-p149
-aS"budget cuts from the so-called sequester. And the Navy hasn't had a Navy that small"
-p150
-aS'since 1915 when our war ships burned coal to get around. Obviously, times change.'
-p151
-aS' Military strategies change. Budget constraints change. But will more cuts now'
-p152
-aS'compromise the common defense?'
-p153
-aS'Or might we already have all of the defense we need and not just ships? Well, it sounds'
-p154
-aS"like a debate. So let's have it. Yes or no to this statement: Cutting the Pentagon's"
-p155
-aS'budget is a gift to our enemies. A debate from Intelligence Squared U.S. in partnership'
-p156
-aS"with the McCain Institute for International Leadership. I'm John Donvan. We have four"
-p157
-aS'superbly qualified debaters, two against two. They will argue for and against this'
-p158
-aS'motion. Our debate goes, as always, in three rounds, and then the audience votes to'
-p159
-aS"choose a winner, and only one side wins. Our motion is, Cutting the Pentagon's budget"
-p160
-aS'is a gift to our enemies." Let\'s meet the team arguing for the motion. First, ladies and'
-p161
-aS'gentlemen, Thomas Donnelly.'
-p162
-aS'And, Thomas Donnelly, you are a co-director of the Marilyn Ware Center for Security'
-p163
-aS'Studies at the American Enterprise Institute.'
-p164
-aS'You actually took part in an exercise, a kind of game, hosted, in fact, by your partner at'
-p165
-aS'the table, there at his think tank, where you were asked to rebalance the Defense'
-p166
-aS"Department's portfolio of weapons and capabilities on a reduced budget. And when"
-p167
-aS'you began your presentation, you said, "All I can offer you are roads to failure." So does'
-p168
-aS"that mean you're just a pessimist or"
-p169
-asg16
-(dp170
-I11
-S'17:39:31'
-p171
-sI20
-S'17:40:30'
-p172
-sI31
-S'17:41:33'
-p173
-ssa(dp174
+p248
+ssa(dp249
 g8
+(lp250
+S'I think that makes me a realist, honestly.'
+p251
+aS'We face a pretty bleak road, particularly if wecontinue to cut as proposed under sequestration and .'
+p252
+asg11
 S'THOMAS DONNELLY'
-p175
-sg10
-(dp176
+p253
+sg13
+(dp254
 I0
 S'5'
-p177
-ssg13
-(lp178
-S'I think that makes me a realist, honestly. We face a pretty bleak road, particularly if we'
-p179
-aS'continue to cut as proposed under sequestration and .'
-p180
-asa(dp181
-g20
-(dp182
+p255
+ssg16
+(lp256
+S'I think that makes me a realist, honestly.'
+p257
+aS'We face a pretty bleak road, particularly if we continue to cut as proposed under sequestration and .'
+p258
+asa(dp259
+g22
+(dp260
 I1
 S'[applause]'
-p183
+p261
 ssg8
+(lp262
+S"And we'll hear that from your argument."
+p263
+aS'Ladies and gentlemen, Thomas Donnelly.And, Thomas, your partner tonight is -- [[applause]] '
+p264
+asg11
 S'JOHN DONVAN'
-p184
-sg13
-(lp185
-S"And we'll hear that from your argument. Ladies and gentlemen, Thomas Donnelly."
-p186
+p265
+sg16
+(lp266
+S"And we'll hear that from your argument."
+p267
+aS'Ladies and gentlemen, Thomas Donnelly.'
+p268
 aS'And, Thomas, your partner tonight is --'
-p187
-asa(dp188
+p269
+asa(dp270
 g8
+(lp271
+S'My partner is Andy Krepinevich.'
+p272
+aS'Probably much to his astonishment, a former teacherof mine, but one of the most astute defense analysts who I know.'
+p273
+asg11
 S'THOMAS DONNELLY'
-p189
-sg13
-(lp190
-S'My partner is Andy Krepinevich. Probably much to his astonishment, a former teacher'
-p191
-aS'of mine, but one of the most astute defense analysts who I know.'
-p192
-asa(dp193
-g20
-(dp194
+p274
+sg16
+(lp275
+S'My partner is Andy Krepinevich.'
+p276
+aS'Probably much to his astonishment, a former teacher of mine, but one of the most astute defense analysts who I know.'
+p277
+asa(dp278
+g22
+(dp279
 I1
 S'[applause]'
-p195
+p280
 sI6
 S'[laughter]'
-p196
+p281
 ssg8
+(lp282
+S'Ladies and gentlemen, Andrew Krepinevich.Andrew, you are also arguing for the motion, "Cutting the Pentagon\'s budget is a gift to [[applause]] our enemies.'
+p283
+aS'" You are the president for the Center for Strategic and BudgetaryAssessments.'
+p284
+aS'You spent 21 years in the U.S. Army.'
+p285
+aS'And the journalist, Tom Ricks, oncewrote of you, "I will read anything by Andrew Krepinevich, the fine strategic thinker whobears a strong resemblance to Dwight Eisenhower around 1939.'
+p286
+aS'"Is he talking looks or military mind?'
+p287
+aS'[[laughter]] '
+p288
+asg11
 S'JOHN DONVAN'
-p197
-sg13
-(lp198
+p289
+sg16
+(lp290
 S'Ladies and gentlemen, Andrew Krepinevich.'
-p199
-aS'Andrew, you are also arguing for the motion, "Cutting the Pentagon\'s budget is a gift to'
-p200
-aS'our enemies." You are the president for the Center for Strategic and Budgetary'
-p201
-aS'Assessments. You spent 21 years in the U.S. Army. And the journalist, Tom Ricks, once'
-p202
-aS'wrote of you, "I will read anything by Andrew Krepinevich, the fine strategic thinker who'
-p203
-aS'bears a strong resemblance to Dwight Eisenhower around 1939."'
-p204
-aS'Is he talking looks or military mind?'
-p205
-asg16
-(dp206
-I1
+p291
+aS'Andrew, you are also arguing for the motion, "Cutting the Pentagon\'s budget is a gift to our enemies.'
+p292
+aS'" You are the president for the Center for Strategic and Budgetary Assessments.'
+p293
+aS'You spent 21 years in the U.S. Army.'
+p294
+aS'And the journalist, Tom Ricks, once wrote of you, "I will read anything by Andrew Krepinevich, the fine strategic thinker who bears a strong resemblance to Dwight Eisenhower around 1939.'
+p295
+aS'" Is he talking looks or military mind?'
+p296
+asg18
+(dp297
 S'17:42:31'
-p207
-ssa(dp208
-g20
-(dp209
+p298
+I1
+ssa(dp299
+g22
+(dp300
 I2
 S'[laughter]'
-p210
+p301
 ssg8
+(lp302
+S"Well, since Eisenhower retired as a five-star general and I retired as a lieutenant colonel,I think he's probably going on looks."
+p303
+asg11
 S'ANDREW KREPINEVICH'
-p211
-sg13
-(lp212
-S'Well, since Eisenhower retired as a five-star general and I retired as a lieutenant colonel,'
-p213
-aS"I think he's probably going on looks."
-p214
-asa(dp215
-g20
-(dp216
+p304
+sg16
+(lp305
+S"Well, since Eisenhower retired as a five-star general and I retired as a lieutenant colonel, I think he's probably going on looks."
+p306
+asa(dp307
+g22
+(dp308
 I1
 S'[applause]'
-p217
+p309
 sI4
 S'[applause]'
-p218
-ssg8
+p310
+ssg11
 S'JOHN DONVAN'
-p219
-sg10
-(dp220
+p311
+sg16
+(lp312
+S'Ladies and gentlemen, Andrew Krepinevich.'
+p313
+aS'Our motion is, "Cutting the Pentagon\'s budget is a gift to our enemies.'
+p314
+aS'" Two debaters are arguing against this motion.'
+p315
+aS"First, ladies and gentlemen, let's welcome Benjamin Friedman."
+p316
+aS"Ben, you're a research fellow in defense and homeland security studies at the Cato Institute."
+p317
+aS'You would like us to have a lighter military footprint around the world.'
+p318
+aS"And while you don't like the method necessarily, you think sequestration can be a good thing."
+p319
+aS"Does that mean you are the sequester's only friend in this town?"
+p320
+asg18
+(dp321
+S'17:43:27'
+p322
+I4
+ssg8
+(lp323
+S'Ladies and gentlemen, Andrew Krepinevich.Our motion is, "Cutting the Pentagon\'s budget is a gift to our enemies.'
+p324
+aS'" Two debaters [[applause]] are arguing against this motion.'
+p325
+aS"First, ladies and gentlemen, let's welcome BenjaminFriedman.Ben, you're a research fellow in defense and homeland security studies at the Cato [[applause]] Institute."
+p326
+aS'You would like us to have a lighter military footprint around the world.'
+p327
+aS"Andwhile you don't like the method necessarily, you think sequestration can be a goodthing."
+p328
+aS"Does that mean you are the sequester's only friend in this town?"
+p329
+asg13
+(dp330
 I1
 S'6'
-p221
-ssg13
-(lp222
-S'Ladies and gentlemen, Andrew Krepinevich.'
-p223
-aS'Our motion is, "Cutting the Pentagon\'s budget is a gift to our enemies." Two debaters'
-p224
-aS"are arguing against this motion. First, ladies and gentlemen, let's welcome Benjamin"
-p225
-aS'Friedman.'
-p226
-aS"Ben, you're a research fellow in defense and homeland security studies at the Cato"
-p227
-aS'Institute. You would like us to have a lighter military footprint around the world. And'
-p228
-aS"while you don't like the method necessarily, you think sequestration can be a good"
-p229
-aS"thing. Does that mean you are the sequester's only friend in this town?"
-p230
-asg16
-(dp231
-I4
-S'17:43:27'
-p232
-ssa(dp233
+p331
+ssa(dp332
 g8
+(lp333
+S"No, I can't really stand up for sequestration, lonely as it is, but I think the law's okay butit's a dumb way to cut defense."
+p334
+asg11
 S'BENJAMIN FRIEDMAN'
-p234
-sg13
-(lp235
-S"No, I can't really stand up for sequestration, lonely as it is, but I think the law's okay but"
-p236
-aS"it's a dumb way to cut defense."
-p237
-asa(dp238
-g20
-(dp239
+p335
+sg16
+(lp336
+S"No, I can't really stand up for sequestration, lonely as it is, but I think the law's okay but it's a dumb way to cut defense."
+p337
+asa(dp338
+g22
+(dp339
 I1
 S'[applause]'
-p240
+p340
 ssg8
+(lp341
+S'All right.'
+p342
+aS'Ladies and gentlemen, Ben Friedman.And, Ben, your partner is -- [[applause]] '
+p343
+asg11
 S'JOHN DONVAN'
-p241
-sg13
-(lp242
-S'All right. Ladies and gentlemen, Ben Friedman.'
-p243
+p344
+sg16
+(lp345
+S'All right.'
+p346
+aS'Ladies and gentlemen, Ben Friedman.'
+p347
 aS'And, Ben, your partner is --'
-p244
-asa(dp245
-g20
-(dp246
+p348
+asa(dp349
+g22
+(dp350
 I2
 S'[laughter]'
-p247
+p351
 ssg8
+(lp352
+S"My partner is Kori Schake, who you can't tell by looking at her but she's actually olderand wiser than I am."
+p353
+asg11
 S'BENJAMIN FRIEDMAN'
-p248
-sg13
-(lp249
-S"My partner is Kori Schake, who you can't tell by looking at her but she's actually older"
-p250
-aS'and wiser than I am.'
-p251
-asa(dp252
-g20
-(dp253
+p354
+sg16
+(lp355
+S"My partner is Kori Schake, who you can't tell by looking at her but she's actually older and wiser than I am."
+p356
+asa(dp357
+g22
+(dp358
 I1
 S'[applause]'
-p254
+p359
 sI6
 S'[laughter]'
-p255
-ssg8
+p360
+ssg11
 S'JOHN DONVAN'
-p256
-sg10
-(dp257
+p361
+sg16
+(lp362
+S"Ladies and gentlemen, let's welcome Kori Schake."
+p363
+aS"Kori, you are also arguing against this motion that cutting the Pentagon's budget is a gift to our enemies."
+p364
+aS'" You were director for defense strategy and requirements on the National Security Council under President Bush.'
+p365
+aS'You were also, during the 2008 presidential campaign, a senior policy advisor to Senator McCain.'
+p366
+aS'Your sister, Kristina, however, is communications director to First Lady Michelle Obama.'
+p367
+aS"So if she were here -- I understand she's traveling, but if she were here would you automatically get her vote or would you automatically not get her vote?"
+p368
+asg18
+(dp369
+S'17:44:31'
+p370
+I6
+ssg8
+(lp371
+S"Ladies and gentlemen, let's welcome Kori Schake.Kori, you are also arguing against this motion that cutting the Pentagon's budget is a gift [[applause]] to our enemies."
+p372
+aS'" You were director for defense strategy and requirements on theNational Security Council under President Bush.'
+p373
+aS'You were also, during the 2008presidential campaign, a senior policy advisor to Senator McCain.'
+p374
+aS"Your sister, Kristina,however, is communications director to First Lady Michelle Obama.So if she were here -- I understand she's traveling, but if she were here would you [[laughter]] automatically get her vote or would you automatically not get her vote?"
+p375
+asg13
+(dp376
 I6
 S'7'
-p258
-ssg13
-(lp259
-S"Ladies and gentlemen, let's welcome Kori Schake."
-p260
-aS"Kori, you are also arguing against this motion that cutting the Pentagon's budget is a gift"
-p261
-aS'to our enemies." You were director for defense strategy and requirements on the'
-p262
-aS'National Security Council under President Bush. You were also, during the 2008'
-p263
-aS'presidential campaign, a senior policy advisor to Senator McCain. Your sister, Kristina,'
-p264
-aS'however, is communications director to First Lady Michelle Obama.'
-p265
-aS"So if she were here -- I understand she's traveling, but if she were here would you"
-p266
-aS'automatically get her vote or would you automatically not get her vote?'
-p267
-asg16
-(dp268
-I6
-S'17:44:31'
-p269
-ssa(dp270
-g20
-(dp271
+p377
+ssa(dp378
+g22
+(dp379
 I1
 S'[laughter]'
-p272
+p380
 ssg8
-S'KORI SCHAKE'
-p273
-sg13
-(lp274
+(lp381
 S"I'd unquestionably get her vote even if I had their side of the argument."
-p275
-asa(dp276
-g20
-(dp277
+p382
+asg11
+S'KORI SCHAKE'
+p383
+sg16
+(lp384
+g382
+asa(dp385
+g22
+(dp386
 I1
 S'[applause]'
-p278
+p387
 sI20
 S'[applause]'
-p279
+p388
 ssg8
+(lp389
+S'Ladies and gentlemen, Kori Schake.So this is a debate.'
+p390
+aS"It's a verbal joust, an intellectual competition in which you, our live [[applause]] audience, listens to the arguments and then picks the winners."
+p391
+aS'And the way we haveyou do that is by registering your vote before and again after the debate.'
+p392
+aS'By the timethe debate has ended, you will have voted twice, once before and once after, and theteam that has moved the most of you in terms of percentage points will be declared ourwinner.'
+p393
+aS"Let's go on to the preliminary vote now, the first vote."
+p394
+aS'And if you go to thekeypads at your seat, the motion is, "Cutting the Pentagon\'s budget is a gift to ourenemies.'
+p395
+aS'"If you agree with this, push number one on your keypad.'
+p396
+aS'If you disagree, push numbertwo.'
+p397
+aS"If you're undecided, which is a perfectly reasonable position to hold, push numberthree."
+p398
+aS'You can ignore the other keys.'
+p399
+aS'And if you push the wrong key, just correctyourself and the system will lock in your last vote.'
+p400
+aS"And again, at the end of the debate,after you've heard three rounds, we'll have you vote again."
+p401
+aS'The team who has movedthe most, in terms of percentage points, will be declared our winner.So onto Round 1.'
+p402
+aS"The -- our motion is, Cutting the Pentagon's budget is a gift to ourenemies."
+p403
+aS'And up to speak first for the motion, Andrew Krepinevich, president of theCenter for Strategic and Budgetary Assessment.'
+p404
+aS"He has served in the Department ofDefense's Office of Net Assessment and on the personal staff of three secretaries ofdefense."
+p405
+aS'He gets six minutes.'
+p406
+aS'Ladies and gentlemen, Andrew Krepinevich.'
+p407
+asg11
 S'JOHN DONVAN'
-p280
-sg13
-(lp281
+p408
+sg16
+(lp409
 S'Ladies and gentlemen, Kori Schake.'
-p282
-aS"So this is a debate. It's a verbal joust, an intellectual competition in which you, our live"
-p283
-aS'audience, listens to the arguments and then picks the winners. And the way we have'
-p284
-aS'you do that is by registering your vote before and again after the debate. By the time'
-p285
-aS'the debate has ended, you will have voted twice, once before and once after, and the'
-p286
-aS'team that has moved the most of you in terms of percentage points will be declared our'
-p287
-aS"winner. Let's go on to the preliminary vote now, the first vote. And if you go to the"
-p288
-aS'keypads at your seat, the motion is, "Cutting the Pentagon\'s budget is a gift to our'
-p289
-aS'enemies."'
-p290
-aS'If you agree with this, push number one on your keypad. If you disagree, push number'
-p291
-aS"two. If you're undecided, which is a perfectly reasonable position to hold, push number"
-p292
-aS'three. You can ignore the other keys. And if you push the wrong key, just correct'
-p293
-aS'yourself and the system will lock in your last vote. And again, at the end of the debate,'
-p294
-aS"after you've heard three rounds, we'll have you vote again. The team who has moved"
-p295
-aS'the most, in terms of percentage points, will be declared our winner.'
-p296
-aS"So onto Round 1. The -- our motion is, Cutting the Pentagon's budget is a gift to our"
-p297
-aS'enemies. And up to speak first for the motion, Andrew Krepinevich, president of the'
-p298
-aS'Center for Strategic and Budgetary Assessment. He has served in the Department of'
-p299
-aS"Defense's Office of Net Assessment and on the personal staff of three secretaries of"
-p300
-aS'defense. He gets six minutes. Ladies and gentlemen, Andrew Krepinevich.'
-p301
-asg16
-(dp302
-I9
-S'17:45:29'
-p303
-sI20
+p410
+aS'So this is a debate.'
+p411
+aS"It's a verbal joust, an intellectual competition in which you, our live audience, listens to the arguments and then picks the winners."
+p412
+aS'And the way we have you do that is by registering your vote before and again after the debate.'
+p413
+aS'By the time the debate has ended, you will have voted twice, once before and once after, and the team that has moved the most of you in terms of percentage points will be declared our winner.'
+p414
+aS"Let's go on to the preliminary vote now, the first vote."
+p415
+aS'And if you go to the keypads at your seat, the motion is, "Cutting the Pentagon\'s budget is a gift to our enemies.'
+p416
+aS'" If you agree with this, push number one on your keypad.'
+p417
+aS'If you disagree, push number two.'
+p418
+aS"If you're undecided, which is a perfectly reasonable position to hold, push number three."
+p419
+aS'You can ignore the other keys.'
+p420
+aS'And if you push the wrong key, just correct yourself and the system will lock in your last vote.'
+p421
+aS"And again, at the end of the debate, after you've heard three rounds, we'll have you vote again."
+p422
+aS'The team who has moved the most, in terms of percentage points, will be declared our winner.'
+p423
+aS'So onto Round 1.'
+p424
+aS"The -- our motion is, Cutting the Pentagon's budget is a gift to our enemies."
+p425
+aS'And up to speak first for the motion, Andrew Krepinevich, president of the Center for Strategic and Budgetary Assessment.'
+p426
+aS"He has served in the Department of Defense's Office of Net Assessment and on the personal staff of three secretaries of defense."
+p427
+aS'He gets six minutes.'
+p428
+aS'Ladies and gentlemen, Andrew Krepinevich.'
+p429
+asg18
+(dp430
 S'17:46:32'
-p304
-ssa(dp305
-g20
-(dp306
+p431
+I20
+sS'17:45:29'
+p432
+I9
+ssa(dp433
+g22
+(dp434
 I56
 S'[applause]'
-p307
-ssg8
+p435
+ssg11
 S'ANDREW KREPINEVICH'
-p308
-sg10
-(dp309
+p436
+sg16
+(lp437
+S'Thank you, John.'
+p438
+aS"And behalf of my partner, Tom Donnelly, I'd also like to thank compliment our worthy adversaries, without whom we could not have a debate here tonight."
+p439
+aS'Tom and I, in terms of this proposition, believe that further cuts in our defenses will encourage our adversaries, and at the same time, increase the risks to our security, our economic well-being, and the security and economic well-being of our allies and partners around the world.'
+p440
+aS"In terms of the overall perspective -- but let's take a look at the big view."
+p441
+aS'At the end of the Cold War, 20 years ago, we were spending, on average, 6 percent of our GDP every year on our defenses.'
+p442
+aS'Six percent.'
+p443
+aS'Okay?'
+p444
+aS"In the span of 20 years, this year, we're down to three percent of our GDP being spent on defense."
+p445
+aS'So we have cut in half the amount of our national wealth that we have devoted to our defenses, okay?'
+p446
+aS"I don't think you can find another major part of the federal budget where you have this kind of cut."
+p447
+aS"So, that's point number one."
+p448
+aS'Point number two is if you look at the defense budget, you see several, I think, important things.'
+p449
+aS'One is 30 days ago this year, we decided -- we made a social choice, to adopt a volunteer military.'
+p450
+aS'And we never really fully paid the price of that choice until after 9/11, when we engaged in a protracted conflict in Afghanistan and then in Iraq.'
+p451
+aS"In order to recruit and retain sufficient members of -- service members to conduct those operations, we've had to increase personnel spending by over 50 percent, after inflation, since 9/11."
+p452
+aS"So that's a dramatic increase."
+p453
+aS'On top of that, the Obama Administration has set forth a revised defense plan which looks to cut nearly half a trillion dollars out of our defenses over the next 10 years.'
+p454
+aS'So what do you get?'
+p455
+aS'You get a shrinking defense pie, number one.'
+p456
+aS'Number two, within that shrinking pie, you get an expanded slice for personnel costs.'
+p457
+aS'What does that mean?'
+p458
+aS"That means in the coming years, we're going to see a lot less funding for training, a lot less funding for maintaining our equipment, and a lot less money for replacing all the worn out equipment."
+p459
+aS"I've been to this movie before."
+p460
+aS'This is the equation for a hollow military.'
+p461
+aS'This is the equation for a military that gradually loses its effectiveness and capability.'
+p462
+aS'Now, how will our enemies react to this?'
+p463
+aS'Is this a gift to them?'
+p464
+aS"I don't know."
+p465
+aS"I'm not -- I'm not privy to their thoughts."
+p466
+aS'What I can tell you is that the silence is deafening.'
+p467
+aS"And as Napoleon once said, When your enemy is in the middle of making a great mistake, don't interrupt them."
+p468
+aS'And again -- so you have this particular situation.'
+p469
+aS'Now, some people say, Well, gee.'
+p470
+aS"We're pulling out of Afghanistan."
+p471
+aS"We're out of Iraq."
+p472
+aS"Let's reduce defense spending."
+p473
+aS'After all, the threat is diminishing.'
+p474
+aS'Well, first of all, our operations in those conflicts were funded by something called OCOB, the Overseas Contingency Operation Budget.'
+p475
+aS'And those budgets are coming down and will go down to zero.'
+p476
+aS'But the base defense budget --- typically, when you draw down that budget, that is when the threat is declining.'
+p477
+aS"And as Robert Rosenkranz mentioned, we're in a situation right now where the threat is not declining."
+p478
+aS"He had a pretty good short list, but there's a longer list we can go through."
+p479
+aS'John mentioned that we brought together four think tanks, from the moderate liberal to the moderate conservative, a few weeks ago to look at the sequestration cuts.'
+p480
+aS"And these are cuts -- let's -- hey, let's cut another half trillion dollars out of defense over the next decade."
+p481
+aS"Despite the fact that there's a fair part of the political spectrum that was covered, there are two conclusions that the four think tanks agreed upon: The first is that cuts of the magnitude that are discussed and put forth in sequestration will be a disaster in terms of our military readiness and capability."
+p482
+aS'Second, there is a belief -- again all four think tanks -- belief that the dangers to our security, the dangers to our economic well-being are increasing over time.'
+p483
+aS"We've cut our budget since the end of World War II in the past, it's been when the threat's been declining, not when the threat's been increasing."
+p484
+aS'So to sum up, those who advocate further cuts to our defenses as a way to put the fear of God into our enemies, kind of remind me of what the duke of Wellington once said about his own troops.'
+p485
+aS'He said, "I don\'t know if they scare the enemies, but by God, these people scare the hell out of me.'
+p486
+aS'" Thank you.'
+p487
+asg18
+(dp488
+S'17:47:34'
+p489
+I9
+sS'17:49:29'
+p490
+I29
+sS'17:51:28'
+p491
+I50
+sS'17:50:30'
+p492
+I40
+sS'17:48:38'
+p493
+I20
+ssg8
+(lp494
+S'Thank you, John.'
+p495
+aS"And behalf of my partner, Tom Donnelly, I'd also like to thankcompliment our worthy adversaries, without whom we could not have a debate heretonight.Tom and I, in terms of this proposition, believe that further cuts in our defenses willencourage our adversaries, and at the same time, increase the risks to our security, oureconomic well-being, and the security and economic well-being of our allies andpartners around the world."
+p496
+aS"In terms of the overall perspective -- but let's take a look atthe big view."
+p497
+aS'At the end of the Cold War, 20 years ago, we were spending, on average, 6percent of our GDP every year on our defenses.'
+p498
+aS'Six percent.'
+p499
+aS"Okay?In the span of 20 years, this year, we're down to three percent of our GDP being spenton defense."
+p500
+aS'So we have cut in half the amount of our national wealth that we havedevoted to our defenses, okay?'
+p501
+aS"I don't think you can find another major part of thefederal budget where you have this kind of cut."
+p502
+aS"So, that's point number one.Point number two is if you look at the defense budget, you see several, I think,important things."
+p503
+aS'One is 30 days ago this year, we decided -- we made a social choice,to adopt a volunteer military.'
+p504
+aS'And we never really fully paid the price of that choiceuntil after 9/11, when we engaged in a protracted conflict in Afghanistan and then inIraq.'
+p505
+aS"In order to recruit and retain sufficient members of -- service members to conductthose operations, we've had to increase personnel spending by over 50 percent, afterinflation, since 9/11.So that's a dramatic increase."
+p506
+aS'On top of that, the Obama Administration has set forth arevised defense plan which looks to cut nearly half a trillion dollars out of our defensesover the next 10 years.'
+p507
+aS'So what do you get?'
+p508
+aS'You get a shrinking defense pie, numberone.'
+p509
+aS'Number two, within that shrinking pie, you get an expanded slice for personnelcosts.'
+p510
+aS'What does that mean?'
+p511
+aS"That means in the coming years, we're going to see a lotless funding for training, a lot less funding for maintaining our equipment, and a lot lessmoney for replacing all the worn out equipment."
+p512
+aS"I've been to this movie before."
+p513
+aS'This isthe equation for a hollow military.'
+p514
+aS'This is the equation for a military that gradually losesits effectiveness and capability.Now, how will our enemies react to this?'
+p515
+aS'Is this a gift to them?'
+p516
+aS"I don't know."
+p517
+aS"I'm not --I'm not privy to their thoughts."
+p518
+aS'What I can tell you is that the silence is deafening.'
+p519
+aS"Andas Napoleon once said, When your enemy is in the middle of making a great mistake,don't interrupt them."
+p520
+aS'And again -- so you have this particular situation.'
+p521
+aS'Now, somepeople say, Well, gee.'
+p522
+aS"We're pulling out of Afghanistan."
+p523
+aS"We're out of Iraq."
+p524
+aS"Let'sreduce defense spending."
+p525
+aS'After all, the threat is diminishing.'
+p526
+aS'Well, first of all, ouroperations in those conflicts were funded by something called OCOB, the OverseasContingency Operation Budget.'
+p527
+aS'And those budgets are coming down and will go downto zero.'
+p528
+aS'But the base defense budget --- typically, when you draw down that budget,that is when the threat is declining.'
+p529
+aS"And as Robert Rosenkranz mentioned, we're in asituation right now where the threat is not declining.He had a pretty good short list, but there's a longer list we can go through."
+p530
+aS'Johnmentioned that we brought together four think tanks, from the moderate liberal to themoderate conservative, a few weeks ago to look at the sequestration cuts.'
+p531
+aS"And theseare cuts -- let's -- hey, let's cut another half trillion dollars out of defense over the nextdecade."
+p532
+aS"Despite the fact that there's a fair part of the political spectrum that wascovered, there are two conclusions that the four think tanks agreed upon: The first isthat cuts of the magnitude that are discussed and put forth in sequestration will be adisaster in terms of our military readiness and capability."
+p533
+aS"Second, there is a belief --again all four think tanks -- belief that the dangers to our security, the dangers to oureconomic well-being are increasing over time.We've cut our budget since the end of World War II in the past, it's been when thethreat's been declining, not when the threat's been increasing."
+p534
+aS'So to sum up, those whoadvocate further cuts to our defenses as a way to put the fear of God into our enemies,kind of remind me of what the duke of Wellington once said about his own troops.'
+p535
+aS'Hesaid, "I don\'t know if they scare the enemies, but by God, these people scare the hell outof me.'
+p536
+aS'" Thank you.'
+p537
+asg13
+(dp538
 I2
 S'8'
-p310
+p539
 sI38
 S'9'
-p311
-ssg13
-(lp312
-S"Thank you, John. And behalf of my partner, Tom Donnelly, I'd also like to thank"
-p313
-aS'compliment our worthy adversaries, without whom we could not have a debate here'
-p314
-aS'tonight.'
-p315
-aS'Tom and I, in terms of this proposition, believe that further cuts in our defenses will'
-p316
-aS'encourage our adversaries, and at the same time, increase the risks to our security, our'
-p317
-aS'economic well-being, and the security and economic well-being of our allies and'
-p318
-aS"partners around the world. In terms of the overall perspective -- but let's take a look at"
-p319
-aS'the big view. At the end of the Cold War, 20 years ago, we were spending, on average, 6'
-p320
-aS'percent of our GDP every year on our defenses. Six percent. Okay?'
-p321
-aS"In the span of 20 years, this year, we're down to three percent of our GDP being spent"
-p322
-aS'on defense. So we have cut in half the amount of our national wealth that we have'
-p323
-aS"devoted to our defenses, okay? I don't think you can find another major part of the"
-p324
-aS"federal budget where you have this kind of cut. So, that's point number one."
-p325
-aS'Point number two is if you look at the defense budget, you see several, I think,'
-p326
-aS'important things. One is 30 days ago this year, we decided -- we made a social choice,'
-p327
-aS'to adopt a volunteer military. And we never really fully paid the price of that choice'
-p328
-aS'until after 9/11, when we engaged in a protracted conflict in Afghanistan and then in'
-p329
-aS'Iraq. In order to recruit and retain sufficient members of -- service members to conduct'
-p330
-aS"those operations, we've had to increase personnel spending by over 50 percent, after"
-p331
-aS'inflation, since 9/11.'
-p332
-aS"So that's a dramatic increase. On top of that, the Obama Administration has set forth a"
-p333
-aS'revised defense plan which looks to cut nearly half a trillion dollars out of our defenses'
-p334
-aS'over the next 10 years. So what do you get? You get a shrinking defense pie, number'
-p335
-aS'one. Number two, within that shrinking pie, you get an expanded slice for personnel'
-p336
-aS"costs. What does that mean? That means in the coming years, we're going to see a lot"
-p337
-aS'less funding for training, a lot less funding for maintaining our equipment, and a lot less'
-p338
-aS"money for replacing all the worn out equipment. I've been to this movie before. This is"
-p339
-aS'the equation for a hollow military. This is the equation for a military that gradually loses'
-p340
-aS'its effectiveness and capability.'
-p341
-aS"Now, how will our enemies react to this? Is this a gift to them? I don't know. I'm not --"
-p342
-aS"I'm not privy to their thoughts. What I can tell you is that the silence is deafening. And"
-p343
-aS'as Napoleon once said, When your enemy is in the middle of making a great mistake,'
-p344
-aS"don't interrupt them. And again -- so you have this particular situation. Now, some"
-p345
-aS"people say, Well, gee. We're pulling out of Afghanistan. We're out of Iraq. Let's"
-p346
-aS'reduce defense spending. After all, the threat is diminishing. Well, first of all, our'
-p347
-aS'operations in those conflicts were funded by something called OCOB, the Overseas'
-p348
-aS'Contingency Operation Budget. And those budgets are coming down and will go down'
-p349
-aS'to zero. But the base defense budget --- typically, when you draw down that budget,'
-p350
-aS"that is when the threat is declining. And as Robert Rosenkranz mentioned, we're in a"
-p351
-aS'situation right now where the threat is not declining.'
-p352
-aS"He had a pretty good short list, but there's a longer list we can go through. John"
-p353
-aS'mentioned that we brought together four think tanks, from the moderate liberal to the'
-p354
-aS'moderate conservative, a few weeks ago to look at the sequestration cuts. And these'
-p355
-aS"are cuts -- let's -- hey, let's cut another half trillion dollars out of defense over the next"
-p356
-aS"decade. Despite the fact that there's a fair part of the political spectrum that was"
-p357
-aS'covered, there are two conclusions that the four think tanks agreed upon: The first is'
-p358
-aS'that cuts of the magnitude that are discussed and put forth in sequestration will be a'
-p359
-aS'disaster in terms of our military readiness and capability. Second, there is a belief --'
-p360
-aS'again all four think tanks -- belief that the dangers to our security, the dangers to our'
-p361
-aS'economic well-being are increasing over time.'
-p362
-aS"We've cut our budget since the end of World War II in the past, it's been when the"
-p363
-aS"threat's been declining, not when the threat's been increasing. So to sum up, those who"
-p364
-aS'advocate further cuts to our defenses as a way to put the fear of God into our enemies,'
-p365
-aS'kind of remind me of what the duke of Wellington once said about his own troops. He'
-p366
-aS'said, "I don\'t know if they scare the enemies, but by God, these people scare the hell out'
-p367
-aS'of me." Thank you.'
-p368
-asg16
-(dp369
-I40
-S'17:50:30'
-p370
-sI9
-S'17:47:34'
-p371
-sI50
-S'17:51:28'
-p372
-sI20
-S'17:48:38'
-p373
-sI29
-S'17:49:29'
-p374
-ssa(dp375
-g20
-(dp376
+p540
+ssa(dp541
+g22
+(dp542
 I4
 S'[applause]'
-p377
+p543
 ssg8
+(lp544
+S'Thank you.'
+p545
+aS'Andrew Krepinevich.'
+p546
+aS"Our motion is, Cutting the Pentagon's budget is a giftto our enemies."
+p547
+aS'And here to speak against the motion, Benjamin Friedman.'
+p548
+aS'He is aresearch fellow in defense and Homeland Security studies at the Cato Institute.'
+p549
+aS'Ladiesand gentlemen, Ben Friedman.'
+p550
+asg11
 S'JOHN DONVAN'
-p378
-sg13
-(lp379
-S"Thank you. Andrew Krepinevich. Our motion is, Cutting the Pentagon's budget is a gift"
-p380
-aS'to our enemies. And here to speak against the motion, Benjamin Friedman. He is a'
-p381
-aS'research fellow in defense and Homeland Security studies at the Cato Institute. Ladies'
-p382
-aS'and gentlemen, Ben Friedman.'
-p383
-asa(dp384
-g20
-(dp385
+p551
+sg16
+(lp552
+S'Thank you.'
+p553
+aS'Andrew Krepinevich.'
+p554
+aS"Our motion is, Cutting the Pentagon's budget is a gift to our enemies."
+p555
+aS'And here to speak against the motion, Benjamin Friedman.'
+p556
+aS'He is a research fellow in defense and Homeland Security studies at the Cato Institute.'
+p557
+aS'Ladies and gentlemen, Ben Friedman.'
+p558
+asa(dp559
+g22
+(dp560
 I14
 S'[laughter]'
-p386
-ssg8
+p561
+ssg11
 S'BENJAMIN FRIEDMAN'
-p387
-sg10
-(dp388
+p562
+sg16
+(lp563
+S"Andrew, it's a great honor to be able to frighten you."
+p564
+aS"That's one of my more impressive achievements."
+p565
+aS'I think if we cut the Pentagon budget to zero, sure, that would be a gift.'
+p566
+aS'But the cuts that are on offer in our political system are a different story.'
+p567
+aS"The president right now wants to spend roughly $550 billion on defense, including -- that's national defense, budget function 050."
+p568
+aS"That doesn't include the wars."
+p569
+aS"Under sequestration, under the cap that we have in place for this coming fiscal year, that'd have to come down about 50 billion."
+p570
+aS"And over the decade, we'd spend 4.8 trillion on defense instead of 5.3 trillion."
+p571
+aS"We'd still account for over 40 percent of global military spending and spend more than we did at most points during the Cold War in real terms."
+p572
+aS"GDP measures -- the percentage of GDP measures what percentage of wealth we're spending."
+p573
+aS"But, of course, our economy's been growing that whole time."
+p574
+aS"We spend -- we're seven times wealthier than we were in 1950 or something like that."
+p575
+aS"So if that amount of spending is a gift to our enemies, it's sort of a crappy first night of Hanukkah type gift, like sweat socks or toothpaste."
+p576
+aS'I think our enemies are too far behind for it to matter much.'
+p577
+aS"They're sort of small potatoes, historically speaking, especially when you consider our wealth, our technological prowess, and our geographic advantage; these oceans around us and our weak and peaceful neighbors."
+p578
+aS'Our biggest threat right now, according to pretty much everyone, is a scattered and increasingly pathetic remnant of the al-Qaeda terrorist movement thats failed to do much since 2001 except scare us into terrorizing ourselves.'
+p579
+aS"And even if you don't buy that take, you ought to recognize that aggressive counterterrorism operations with drones, with special operations forces, intelligence galore requires only a tiny fraction of our military budget."
+p580
+aS"And our state enemies, North Korea, Iran, Syria, they're brutal regimes that pose little threat here."
+p581
+aS'They lack the capacity to conquer their neighbors, let alone come over here and harm us.'
+p582
+aS"Russia, if you want to consider that an enemy, of course, has a lot of nuclear weapons, but with a dwindling population, a rusty conventional military dependent on an economy that's about equal to the Iberian Peninsula's, its days of threatening Western Europe are long gone, whatever we do."
+p583
+aS'Now, China is a bigger issue.'
+p584
+aS"I'm sure it will come up a bunch here."
+p585
+aS'But they spend about a third of what we do on defense, on the military.'
+p586
+aS'And most of that goes to ground forces that are largely irrelevant to a naval and air war that we might have with them if we had any war.'
+p587
+aS'We have 11 carriers.'
+p588
+aS'They have one that they practice on.'
+p589
+aS'Their much heralded anti-ship, ballistic missile capability which is supposed to be a threat to our ships, at the moment remains quite vulnerable to various countermeasures that we have.'
+p590
+aS'And I think maintaining that edge is not a problem of absolute resources.'
+p591
+aS"More important, China's a trading partner, not a real enemy, that we have no good reason to threaten unless were eager to fight a war over disputed Pacific rocks which we're not."
+p592
+aS"I think we should hedge against China's rise not by surrounding it with our forces, which likely encourages its military buildup, but by staying rich and avoiding debt and keeping a technological edge to allow a buildup later if need be."
+p593
+aS"I think the real question, when it comes to military spending is what's best not for our enemies, or worse for our enemies, but what's best for us."
+p594
+aS'And I think what we want is the cheapest possible military that can defend our shores, that can keep trade routes open in times of duress.'
+p595
+aS'And fulfill the balancing function, that long guided British and then U.S. military policy for a long time.'
+p596
+aS'It is to prevent a big rival from emerging overseas that can conquer our friends and threaten us.'
+p597
+aS'And I think we can do that quite easily with very little overseas military presence right now.'
+p598
+aS'What the other side wants from our military is global dominance, which I think is not really possible.'
+p599
+aS"They'll say that current or greater spending is necessary to our military strategy which is primacy, which is to be a sort of globe girdling policeman."
+p600
+aS'And that strategy is necessary to global stability.'
+p601
+aS'And I think both parts of that statement are wrong.'
+p602
+aS'First, we could do essentially what we do in the world now in terms of our alliances, naval patrols, bases, at a substantially cheaper cost.'
+p603
+aS'I think you could trim at least 50 billion off the defense budget and do all the stuff we do now.'
+p604
+aS"I can't explain the details of how you get there, but a good place to start, if you're interested, is Dr. Krepinevich's Foreign Affairs article from I think it was February this year that says we'll shift a bunch of money out of the army into the Navy."
+p605
+aS"I think that's a good idea."
+p606
+aS'I think you could also look at the joint letter that those -- a number of think tanks signed on to that had a bunch of efficiency savings, including another round and personnel cost reform.'
+p607
+aS"We're not destined to spend what we do right now on personnel."
+p608
+aS'And both my opponents signed that letter.'
+p609
+aS"Second, global peace and trade I think would be fine if we adopted a more of a restrained strategy, and we'd be safer for it by staying out of avoidable trouble."
+p610
+aS'You know, the -- this argument sort of reinterprets the Cold War.'
+p611
+aS'We didnt get into the Cold War to make global stability or secure international system.'
+p612
+aS'We were defending Europe against communism.'
+p613
+aS'We were defending some of our Asian allies against communism.'
+p614
+aS'And then our allies got rich.'
+p615
+aS"And we invented a new rationale for what we're doing."
+p616
+aS'And so the new story is we agree to defend them, and they agree to let us.'
+p617
+aS'But I think our allies now have the capacity to defend themselves, and we ought to let them do that.'
+p618
+aS"And I think what we'll see that happens is a stable balance of power in Asia."
+p619
+aS"And in Europe, there's basically no threats, so that's not a problem."
+p620
+aS"But we'll see a stable balance of power."
+p621
+aS"And as for trade, trade routes, we don't really defend them now."
+p622
+aS"There's very little military protection of them."
+p623
+asg18
+(dp624
+S'17:55:42'
+p625
+I42
+sS'17:53:27'
+p626
+I14
+sS'17:52:30'
+p627
+I2
+sS'17:54:41'
+p628
+I29
+sS'17:56:32'
+p629
+I52
+sS'17:57:37'
+p630
+I65
+ssg8
+(lp631
+S"Andrew, it's a great honor to be able to frighten you."
+p632
+aS"That's one of my more impressiveachievements."
+p633
+aS'I think if we cut the Pentagon budget to zero, sure, that would be a gift.But the cuts that are on offer in our political system are a different story.'
+p634
+aS"The presidentright now wants to spend roughly $550 billion on defense, including -- that's nationaldefense, budget function 050."
+p635
+aS"That doesn't include the wars."
+p636
+aS"Under sequestration,under the cap that we have in place for this coming fiscal year, that'd have to comedown about 50 billion."
+p637
+aS"And over the decade, we'd spend 4.8 trillion on defense insteadof 5.3 trillion."
+p638
+aS"We'd still account for over 40 percent of global military spending andspend more than we did at most points during the Cold War in real terms."
+p639
+aS"GDPmeasures -- the percentage of GDP measures what percentage of wealth we'respending."
+p640
+aS"But, of course, our economy's been growing that whole time."
+p641
+aS"We spend --we're seven times wealthier than we were in 1950 or something like that."
+p642
+aS"So if thatamount of spending is a gift to our enemies, it's sort of a crappy first night of Hanukkahtype gift, like sweat socks or toothpaste.I think our enemies are too far behind for it to matter much."
+p643
+aS"They're sort of small [[laughter]] potatoes, historically speaking, especially when you consider our wealth, ourtechnological prowess, and our geographic advantage; these oceans around us and ourweak and peaceful neighbors."
+p644
+aS'Our biggest threat right now, according to pretty mucheveryone, is a scattered and increasingly pathetic remnant of the al-Qaeda terroristmovement thats failed to do much since 2001 except scare us into terrorizing ourselves.'
+p645
+aS"And even if you don't buy that take, you ought to recognize that aggressivecounterterrorism operations with drones, with special operations forces, intelligencegalore requires only a tiny fraction of our military budget."
+p646
+aS"And our state enemies, NorthKorea, Iran, Syria, they're brutal regimes that pose little threat here."
+p647
+aS'They lack thecapacity to conquer their neighbors, let alone come over here and harm us.'
+p648
+aS"Russia, ifyou want to consider that an enemy, of course, has a lot of nuclear weapons, but with adwindling population, a rusty conventional military dependent on an economy that'sabout equal to the Iberian Peninsula's, its days of threatening Western Europe are longgone, whatever we do.Now, China is a bigger issue."
+p649
+aS"I'm sure it will come up a bunch here."
+p650
+aS'But they spendabout a third of what we do on defense, on the military.'
+p651
+aS'And most of that goes toground forces that are largely irrelevant to a naval and air war that we might have withthem if we had any war.'
+p652
+aS'We have 11 carriers.'
+p653
+aS'They have one that they practice on.'
+p654
+aS'Their much heralded anti-ship, ballistic missile capability which is supposed to be athreat to our ships, at the moment remains quite vulnerable to variouscountermeasures that we have.'
+p655
+aS'And I think maintaining that edge is not a problem ofabsolute resources.'
+p656
+aS"More important, China's a trading partner, not a real enemy, thatwe have no good reason to threaten unless were eager to fight a war over disputedPacific rocks which we're not."
+p657
+aS"I think we should hedge against China's rise not bysurrounding it with our forces, which likely encourages its military buildup, but bystaying rich and avoiding debt and keeping a technological edge to allow a buildup laterif need be.I think the real question, when it comes to military spending is what's best not for ourenemies, or worse for our enemies, but what's best for us."
+p658
+aS'And I think what we want isthe cheapest possible military that can defend our shores, that can keep trade routesopen in times of duress.'
+p659
+aS'And fulfill the balancing function, that long guided British andthen U.S. military policy for a long time.'
+p660
+aS'It is to prevent a big rival from emergingoverseas that can conquer our friends and threaten us.'
+p661
+aS'And I think we can do that quiteeasily with very little overseas military presence right now.'
+p662
+aS'What the other side wantsfrom our military is global dominance, which I think is not really possible.'
+p663
+aS"They'll saythat current or greater spending is necessary to our military strategy which is primacy,which is to be a sort of globe girdling policeman.And that strategy is necessary to global stability."
+p664
+aS'And I think both parts of thatstatement are wrong.'
+p665
+aS'First, we could do essentially what we do in the world now interms of our alliances, naval patrols, bases, at a substantially cheaper cost.'
+p666
+aS'I think youcould trim at least 50 billion off the defense budget and do all the stuff we do now.'
+p667
+aS"Ican't explain the details of how you get there, but a good place to start, if you'reinterested, is Dr. Krepinevich's Foreign Affairs article from I think it was February thisyear that says we'll shift a bunch of money out of the army into the Navy."
+p668
+aS"I think that'sa good idea."
+p669
+aS'I think you could also look at the joint letter that those -- a number of thinktanks signed on to that had a bunch of efficiency savings, including another round and personnel cost reform.'
+p670
+aS"We're not destined to spend what wedo right now on personnel."
+p671
+aS'And both my opponents signed that letter.'
+p672
+aS"Second, globalpeace and trade I think would be fine if we adopted a more of a restrained strategy, andwe'd be safer for it by staying out of avoidable trouble.You know, the -- this argument sort of reinterprets the Cold War."
+p673
+aS'We didnt get into theCold War to make global stability or secure international system.'
+p674
+aS'We were defendingEurope against communism.'
+p675
+aS'We were defending some of our Asian allies againstcommunism.'
+p676
+aS'And then our allies got rich.'
+p677
+aS"And we invented a new rationale for whatwe're doing."
+p678
+aS'And so the new story is we agree to defend them, and they agree to let us.'
+p679
+aS'But I think our allies now have the capacity to defend themselves, and we ought to letthem do that.'
+p680
+aS"And I think what we'll see that happens is a stable balance of power inAsia."
+p681
+aS"And in Europe, there's basically no threats, so that's not a problem."
+p682
+aS"But we'll see astable balance of power."
+p683
+aS"And as for trade, trade routes, we don't really defend themnow."
+p684
+aS"There's very little military protection of them."
+p685
+asg13
+(dp686
 I8
 S'10'
-p389
+p687
 sI44
 S'11'
-p390
-ssg13
-(lp391
-S"Andrew, it's a great honor to be able to frighten you. That's one of my more impressive"
-p392
-aS'achievements. I think if we cut the Pentagon budget to zero, sure, that would be a gift.'
-p393
-aS'But the cuts that are on offer in our political system are a different story. The president'
-p394
-aS"right now wants to spend roughly $550 billion on defense, including -- that's national"
-p395
-aS"defense, budget function 050. That doesn't include the wars. Under sequestration,"
-p396
-aS"under the cap that we have in place for this coming fiscal year, that'd have to come"
-p397
-aS"down about 50 billion. And over the decade, we'd spend 4.8 trillion on defense instead"
-p398
-aS"of 5.3 trillion. We'd still account for over 40 percent of global military spending and"
-p399
-aS'spend more than we did at most points during the Cold War in real terms. GDP'
-p400
-aS"measures -- the percentage of GDP measures what percentage of wealth we're"
-p401
-aS"spending. But, of course, our economy's been growing that whole time. We spend --"
-p402
-aS"we're seven times wealthier than we were in 1950 or something like that. So if that"
-p403
-aS"amount of spending is a gift to our enemies, it's sort of a crappy first night of Hanukkah"
-p404
-aS'type gift, like sweat socks or toothpaste.'
-p405
-aS"I think our enemies are too far behind for it to matter much. They're sort of small"
-p406
-aS'potatoes, historically speaking, especially when you consider our wealth, our'
-p407
-aS'technological prowess, and our geographic advantage; these oceans around us and our'
-p408
-aS'weak and peaceful neighbors. Our biggest threat right now, according to pretty much'
-p409
-aS'everyone, is a scattered and increasingly pathetic remnant of the al-Qaeda terrorist'
-p410
-aS'movement thats failed to do much since 2001 except scare us into terrorizing ourselves.'
-p411
-aS" And even if you don't buy that take, you ought to recognize that aggressive"
-p412
-aS'counterterrorism operations with drones, with special operations forces, intelligence'
-p413
-aS'galore requires only a tiny fraction of our military budget. And our state enemies, North'
-p414
-aS"Korea, Iran, Syria, they're brutal regimes that pose little threat here. They lack the"
-p415
-aS'capacity to conquer their neighbors, let alone come over here and harm us. Russia, if'
-p416
-aS'you want to consider that an enemy, of course, has a lot of nuclear weapons, but with a'
-p417
-aS"dwindling population, a rusty conventional military dependent on an economy that's"
-p418
-aS"about equal to the Iberian Peninsula's, its days of threatening Western Europe are long"
-p419
-aS'gone, whatever we do.'
-p420
-aS"Now, China is a bigger issue. I'm sure it will come up a bunch here. But they spend"
-p421
-aS'about a third of what we do on defense, on the military. And most of that goes to'
-p422
-aS'ground forces that are largely irrelevant to a naval and air war that we might have with'
-p423
-aS'them if we had any war. We have 11 carriers. They have one that they practice on.'
-p424
-aS' Their much heralded anti-ship, ballistic missile capability which is supposed to be a'
-p425
-aS'threat to our ships, at the moment remains quite vulnerable to various'
-p426
-aS'countermeasures that we have. And I think maintaining that edge is not a problem of'
-p427
-aS"absolute resources. More important, China's a trading partner, not a real enemy, that"
-p428
-aS'we have no good reason to threaten unless were eager to fight a war over disputed'
-p429
-aS"Pacific rocks which we're not. I think we should hedge against China's rise not by"
-p430
-aS'surrounding it with our forces, which likely encourages its military buildup, but by'
-p431
-aS'staying rich and avoiding debt and keeping a technological edge to allow a buildup later'
-p432
-aS'if need be.'
-p433
-aS"I think the real question, when it comes to military spending is what's best not for our"
-p434
-aS"enemies, or worse for our enemies, but what's best for us. And I think what we want is"
-p435
-aS'the cheapest possible military that can defend our shores, that can keep trade routes'
-p436
-aS'open in times of duress. And fulfill the balancing function, that long guided British and'
-p437
-aS'then U.S. military policy for a long time. It is to prevent a big rival from emerging'
-p438
-aS'overseas that can conquer our friends and threaten us. And I think we can do that quite'
-p439
-aS'easily with very little overseas military presence right now. What the other side wants'
-p440
-aS"from our military is global dominance, which I think is not really possible. They'll say"
-p441
-aS'that current or greater spending is necessary to our military strategy which is primacy,'
-p442
-aS'which is to be a sort of globe girdling policeman.'
-p443
-aS'And that strategy is necessary to global stability. And I think both parts of that'
-p444
-aS'statement are wrong. First, we could do essentially what we do in the world now in'
-p445
-aS'terms of our alliances, naval patrols, bases, at a substantially cheaper cost. I think you'
-p446
-aS'could trim at least 50 billion off the defense budget and do all the stuff we do now. I'
-p447
-aS"can't explain the details of how you get there, but a good place to start, if you're"
-p448
-aS"interested, is Dr. Krepinevich's Foreign Affairs article from I think it was February this"
-p449
-aS"year that says we'll shift a bunch of money out of the army into the Navy. I think that's"
-p450
-aS'a good idea. I think you could also look at the joint letter that those -- a number of think'
-p451
-aS'tanks signed on to that had a bunch of efficiency savings, including another'
-p452
-aS" round and personnel cost reform. We're not destined to spend what we"
-p453
-aS'do right now on personnel. And both my opponents signed that letter. Second, global'
-p454
-aS'peace and trade I think would be fine if we adopted a more of a restrained strategy, and'
-p455
-aS"we'd be safer for it by staying out of avoidable trouble."
-p456
-aS'You know, the -- this argument sort of reinterprets the Cold War. We didnt get into the'
-p457
-aS'Cold War to make global stability or secure international system. We were defending'
-p458
-aS'Europe against communism. We were defending some of our Asian allies against'
-p459
-aS'communism. And then our allies got rich. And we invented a new rationale for what'
-p460
-aS"we're doing. And so the new story is we agree to defend them, and they agree to let us."
-p461
-aS' But I think our allies now have the capacity to defend themselves, and we ought to let'
-p462
-aS"them do that. And I think what we'll see that happens is a stable balance of power in"
-p463
-aS"Asia. And in Europe, there's basically no threats, so that's not a problem. But we'll see a"
-p464
-aS"stable balance of power. And as for trade, trade routes, we don't really defend them"
-p465
-aS"now. There's very little military protection of them."
-p466
-asg16
-(dp467
-I65
-S'17:57:37'
-p468
-sI2
-S'17:52:30'
-p469
-sI42
-S'17:55:42'
-p470
-sI14
-S'17:53:27'
-p471
-sI52
-S'17:56:32'
-p472
-sI29
-S'17:54:41'
-p473
-ssa(dp474
+p688
+ssa(dp689
 g8
+(lp690
+S"Ben Friedman, I'm sorry."
+p691
+aS'Your time is up.'
+p692
+asg11
 S'JOHN DONVAN'
-p475
-sg13
-(lp476
-S"Ben Friedman, I'm sorry. Your time is up."
-p477
-asa(dp478
+p693
+sg16
+(lp694
+S"Ben Friedman, I'm sorry."
+p695
+aS'Your time is up.'
+p696
+asa(dp697
 g8
+(lp698
+S'Yep.'
+p699
+aS"I'll finish right up."
+p700
+asg11
 S'BENJAMIN FRIEDMAN'
-p479
-sg13
-(lp480
-S"Yep. I'll finish right up."
-p481
-asa(dp482
+p701
+sg16
+(lp702
+S'Yep.'
+p703
+aS"I'll finish right up."
+p704
+asa(dp705
 g8
+(lp706
+S"No, no, I'm sorry."
+p707
+aS"That's the rule."
+p708
+aS'I got to -- you can bring it up in the middle of thedebate.'
+p709
+asg11
 S'JOHN DONVAN'
-p483
-sg10
-(dp484
+p710
+sg13
+(dp711
 I0
 S'12'
-p485
-ssg13
-(lp486
-S"No, no, I'm sorry. That's the rule. I got to -- you can bring it up in the middle of the"
-p487
-aS'debate.'
-p488
-asg16
-(dp489
-I2
+p712
+ssg16
+(lp713
+S"No, no, I'm sorry."
+p714
+aS"That's the rule."
+p715
+aS'I got to -- you can bring it up in the middle of the debate.'
+p716
+asg18
+(dp717
 S'17:58:31'
-p490
-ssa(dp491
+p718
+I2
+ssa(dp719
 g8
+(lp720
+S'Okay.'
+p721
+aS'All right.'
+p722
+asg11
 S'BENJAMIN FRIEDMAN'
-p492
-sg13
-(lp493
-S'Okay. All right.'
-p494
-asa(dp495
-g20
-(dp496
+p723
+sg16
+(lp724
+S'Okay.'
+p725
+aS'All right.'
+p726
+asa(dp727
+g22
+(dp728
 I1
 S'[applause]'
-p497
+p729
 sI9
 S'[applause]'
-p498
-ssg8
-S'JOHN DONVAN'
-p499
-sg13
-(lp500
-S'Thanks very much. Ladies and gentlemen, Ben Friedman.'
-p501
-aS"And here's a reminder of what's going on. We are halfway through the opening round"
-p502
-aS"of this Intelligence Squared U.S. debate. I'm John Donvan. We have four debaters, two"
-p503
-aS"teams of two fighting it out over this motion: Cutting the Pentagon's budget is a gift to"
-p504
-aS'our enemies. You have heard two of the opening statement and now onto the third.'
-p505
-aS" Debating in support of the motion that cutting the Pentagon's budget is a gift to our"
-p506
-aS'enemies, Thomas Donnelly. He is co-director of the Marilyn Ware Center for Security'
-p507
-aS'Studies and resident fellow at the American Enterprise Institute. Ladies and gentlemen,'
-p508
-aS'Tom Donnelly.'
-p509
-asa(dp510
-g20
-(dp511
-I52
-S'[applause]'
-p512
-sI4
-S'[laughter]'
-p513
-ssg8
-S'THOMAS DONNELLY'
-p514
-sg10
-(dp515
-I48
-S'14'
-p516
-sI14
-S'13'
-p517
-ssg13
-(lp518
-S"Thanks, John. I'd like to echo the thanks that my colleagues gave to the IQ people and"
-p519
-aS"the McCain Institute people. I'd like to thank the audience too. It's a beautiful day and"
-p520
-aS'coming in here and talking about defense budgets is perhaps not the way I would spend'
-p521
-aS'my afternoon if I had a choice.'
-p522
-aS'The smartest soldier of all time said that everything in war is simple, but the simple'
-p523
-aS"things are difficult. And this debate is a perfect example of why that's true. We're really"
-p524
-aS'talking about three things and how they relate to one another. We talk about money'
-p525
-aS"and budgets. And you've already heard a fog of numbers being thrown out and slices of"
-p526
-aS"pies being alluded to. It's a lot of money that we're talking about. But I would ask you"
-p527
-aS'to consider defense spending in a different way, as not just a cost proposition but a'
-p528
-aS"value proposition. Are we getting a return on our investment that's worth it as"
-p529
-aS'taxpayers and Americans? I would say absolutely. Andy says for 3 cents out of our'
-p530
-aS"dollar, whether we're getting the global dominance that Ben suggested or merely"
-p531
-aS'treading water, we have a remarkably peaceful world.'
-p532
-aS"There hasn't been a great power war since the end of World War II. And personally, I"
-p533
-aS"would like to keep it that way. That's something that I can't quite put a price tag on."
-p534
-aS" And what we're spending now is certainly affordable. So ask yourselves, is it worth the"
-p535
-aS"money we spend? That's the way I would ask you guys to consider the proposition."
-p536
-aS'Second part is even more unpleasant, the idea that we have enemies in the world. We'
-p537
-aS"don't like to think that as Americans. You know, we wish everybody loved us and we try"
-p538
-aS'to love them, but it is a dangerous world. Ben sort of downplayed all the threats that'
-p539
-aS"are out there. We're going to have a discussion about that. Reasonable people can"
-p540
-aS"differ over who's the biggest threat and what the size of the danger is, but, again, do"
-p541
-aS"you want to take a risk with this? If we're much stronger than our enemies, is that a bad"
-p542
-aS"thing? They're not all enemies. There're people who are sitting on the fence one way"
-p543
-aS'or the other.'
-p544
-aS'I would prefer to live in a world where we have fewer enemies and the ones that might'
-p545
-aS"be enemies don't want to mess with us. And, again, I think that's a great value"
-p546
-aS"proposition. The final part of the proposition is whether it's a gift to our enemies or not."
-p547
-aS' As Andy said, "We don\'t know whether it\'s a gift, but it is already, we can tell, a'
-p548
-aS'dangerous temptation," as we see in the Middle East today. As we have come home'
-p549
-aS"from Iraq and we're about to depart from Afghanistan, we see in Syria a war that's"
-p550
-aS"metastasizing, it's like the Iraq civil war that we saw in 2006, only on steroids, much"
-p551
-aS"more so. So is that a gift to our enemies? I don't know. It's not a gift. Going to war is"
-p552
-aS'never a gift. Our withdrawal from the world after World War I was not a gift to'
-p553
-aS'Germany and Japan but it was a dangerous temptation to Adolf Hitler and to the'
-p554
-aS'Imperial Japanese.'
-p555
-aS' World War II was a gift to nobody but it was a necessary thing to do and a temptation'
-p556
-aS'to evil people in the world, and there are evil people in the world. So well work'
-p557
-aS'through all these questions. I like it that we have allies. They provide the battlefield.'
-p558
-aS" That -- you can't put a price tag on that. It's better to fight over there than it is here at"
-p559
-aS'home. So having America be powerful as well as be engaged in the world out there in'
-p560
-aS"the world has created a world that's more prosperous, that's safer, and for Americans"
-p561
-aS'possibly the most important point is freer than it has ever been in human history. We'
-p562
-aS"should not give that up. You don't win prizes in war for being the guy who does it in the"
-p563
-aS"cheapest way. There are no style points. The outcome is what matters, and that's what"
-p564
-aS'we should be focusing on when we weigh this proposition. Is it a gift to our enemies?'
-p565
-aS' No.'
-p566
-aS"That is a temptation to them, it's a risk for our friends, and it could be a real danger to"
-p567
-aS'us. We send very few Americans -- we have -- the world is so peaceful, and our military'
-p568
-aS'is so good that it only takes less than 1 percent of us to maintain the peace. I think'
-p569
-aS"that's worth a priceless investment, almost. Vote for us."
-p570
-asg16
-(dp571
-I48
-S'18:03:30'
-p572
-sI26
-S'18:01:30'
-p573
-sI4
-S'17:59:35'
-p574
-sI37
-S'18:02:31'
-p575
-sI14
-S'18:00:31'
-p576
-ssa(dp577
-g20
-(dp578
-I5
-S'[applause]'
-p579
-ssg8
-S'JOHN DONVAN'
-p580
-sg13
-(lp581
-S"Thank you, Tom Donnelly. Our motion is, Cutting the Pentagon's budget is a gift to our"
-p582
-aS'enemies, and our final debater who will speak against the motion is Kori Schake. She is'
-p583
-aS'a research fellow at the Hoover Institution. She was a senior foreign policy advisor to'
-p584
-aS'the McCain-Palin campaign and has served in the state department and on the National'
-p585
-aS'Security Council. Ladies and gentlemen, Kori Schake.'
-p586
-asg16
-(dp587
-I5
-S'18:04:25'
-p588
-ssa(dp589
-g20
-(dp590
-I63
-S'[applause]'
-p591
-ssg8
-S'KORI SCHAKE'
-p592
-sg10
-(dp593
-I57
-S'16'
-p594
-sI21
-S'15'
-p595
-ssg13
-(lp596
-S'So I agree with everything Tom Donnelly just said, and I think you can still agree with'
-p597
-aS'Ben and me that cutting defense spending is not a gift to our enemies without'
-p598
-aS'compromising anything Tom just said. And let me try and walk you through why I think'
-p599
-aS"that's so. First, as most of you probably know, 31 cents of every dollar the United States"
-p600
-aS'government spends, it borrows. We may only spend 3 percent of it on defense, but 31'
-p601
-aS'percent of it, we have to borrow. Our national debt, the extent to which our spending is'
-p602
-aS"outpacing our revenue, that's the gift to America's enemies. We actually really need to"
-p603
-aS'bring our spending into alignment with our revenue, and the defense budget has'
-p604
-aS'doubled since 2001. The sequestration, the means by which we are further reducing it'
-p605
-aS'is damaging, but the reduction in the top line, the overall level of spending is'
-p606
-aS'manageable while maintaining a strong national defense, while retaining allies, while'
-p607
-aS'retaining the value proposition, and while frightening our enemies.'
-p608
-aS'The United States constitutes -- our own defense budget is 40 percent of global defense'
-p609
-aS'spending. 40 percent, all by itself. There are 21 aircraft carriers in the fleets of the'
-p610
-aS"world's navies. Eleven of those are in our navy. American dominance in the military"
-p611
-aS'realm is overwhelming. Of all the places you could cut spending -- in fact, the margin for'
-p612
-aS'error in national defense is enormous. As Tom said, the value proposition that the'
-p613
-aS'American military provides: we can do things that other militaries cannot do and that'
-p614
-aS'drives our enemies to radical, asymmetric strategies.'
-p615
-aS'It drives them to terrorism. It drives them to cyber warfare. It drives them to things --'
-p616
-aS"because they know they couldn't actually fight the American army and defeat it. It"
-p617
-aS'drives them to strategies of trying to erode our national will to fight the war, because if'
-p618
-aS"we fight it, we're going to win it."
-p619
-aS"In regard to the threat from China: China is rising. And we're smart to hedge against a"
-p620
-aS'rising China. But I would encourage you to remember that one of the most important'
-p621
-aS'strategic variables, one of the most important advantages you can have, is time. And'
-p622
-aS'we actually have a lot of time to figure out how to deal with a rising China. And our --'
-p623
-aS'the American military is one of many means for managing that rise and one in which we'
-p624
-aS'have a strong advantage.'
-p625
-aS"A second thing I'd like to ask you to consider is -- I agree with Tom about the value"
-p626
-aS'proposition.'
-p627
-aS'The American military is extraordinarily good at what it does. That does not mean that'
-p628
-aS'the money that we spend on our defense we spend well. Right? The Defense'
-p629
-aS"Department, in truth, actually doesn't know if we have enough money to spend on"
-p630
-aS'American defense, because they actually cannot pass an audit that every American'
-p631
-aS"business has to pass. They already told Congress they won't be able to pass an audit"
-p632
-aS'until 2017. Given that the budget has doubled in the last 10 years, and DOD cannot'
-p633
-aS'account for the money, that suggests to me that there are reasonable places in the'
-p634
-aS'budget from which we could wring greater effectiveness in our spending. The American'
-p635
-aS"military is terrific at the effectiveness of war-fighting. We're not cost effective. We're"
-p636
-aS'not particularly efficient at how we do it.'
-p637
-aS'And I would offer you the testimony of General Dempsey, the chairman of the Joint'
-p638
-aS'Chiefs of Staff, who said that if we forced ourselves to think, we could probably do this'
-p639
-aS'with less resources. He also said that because budgets have essentially been'
-p640
-aS'unconstrained for the last 10 years, the American military has gotten into a lot of bad'
-p641
-aS"habits. As Admiral Mullen, General Dempsey's predecessor, said, we have raised a"
-p642
-aS"generation of military leaders who don't know how to budget because they've never"
-p643
-aS'had to do it.'
-p644
-aS'Let me just point out to you some of the cost-drivers or how expensive American'
-p645
-aS'defense is. GAO determined the last year that we wasted $74 billion in the year 2012'
-p646
-aS'because of the procurement process, because of what Senator McCain has described as'
-p647
-aS'the political -- as the military industrial Congressional complex.'
-p648
-aS"The Pentagon's determined we have 20 percent more bases and facilities than we need"
-p649
-aS'and Congress will not permit them to close them. The military -- the Pentagon has tried'
-p650
-aS'to ramp down the expansion of the personnel account -- military raises, housing,'
-p651
-aS"funding, pensions -- and Congress won't do it. So even the Pentagon understands the"
-p652
-aS'resources to be saved here. In fact, the position that we are in is that we have the'
-p653
-aS"world's finest military and that all-volunteer force is becoming unaffordable. We have"
-p654
-aS'to better constrain the costs of our defense. And even within national security, there'
-p655
-aS'are things that need money even more than the American military, right? If you look at'
-p656
-aS'why were are not more decisively winning the wars in Iraq and Afghanistan, the wars we'
-p657
-aS"have fought in the last 10 years, the reason is we're underfunding diplomacy,"
-p658
-aS'development, other things we need to spend our money on.'
-p659
-asg16
-(dp660
-I41
-S'18:08:29'
-p661
-sI12
-S'18:05:43'
-p662
-sI19
-S'18:06:33'
-p663
-sI52
-S'18:09:29'
-p664
-sI31
-S'18:07:33'
-p665
-sI63
-S'18:10:31'
-p666
-ssa(dp667
-g8
-S'JOHN DONVAN'
-p668
-sg13
-(lp669
-S'Thank you, Kori. And that concludes Round 1 of this Intelligence Squared U.S. debate, in'
-p670
-aS'partnership with the McCain Institute for International Leadership, where our motion is,'
-p671
-aS"Cutting the Pentagon's budget is a gift to our enemies. We have two teams of two"
-p672
-aS'arguing over this motion. And now, we move on to Round 2. Two teams of two arguing'
-p673
-aS"this motion: Cutting the Pentagon's budget is a gift to our enemies. The team arguing"
-p674
-aS'for the motion, Andrew Krepinevich and Tom Donnelly have argued that budget cuts'
-p675
-aS'threatened -- threaten to make a dangerous world even more dangerous, that a weaker'
-p676
-aS'U.S. military would encourage our adversaries and create for us a hollow military. They'
-p677
-aS'say that the peace and security that comes in 3 cents of the dollar is a bargain'
-p678
-aS'considering what a peaceful world it has led to for so long in terms of wars among the'
-p679
-aS'great powers; that this is a dangerous world, and we have to take our enemies seriously,'
-p680
-aS'in their perception of this, as a weakness on our part.'
-p681
-aS'The team arguing against the motion, Kori Schake and Ben Friedman, say that the threat'
-p682
-aS'at this point is exaggerated. Number one, we are so dominant militarily, we have'
-p683
-aS'oceans protecting us, a technological advantage, and a dominance that makes it just too'
-p684
-aS'early to worry about a real threat to our existence. They say that the -- that their'
-p685
-aS'opponents are actually arguing for a global domination that is unnecessary to ensure'
-p686
-aS'the common defense. And they also point out that the cost of the military itself actually'
-p687
-aS"represents the real threat to our national security. I want to ask the team that's arguing"
-p688
-aS'for this motion, the team that is arguing that the cuts are a threat to our security and a'
-p689
-aS'gift to our enemies, to put to you a point that your opponent, Ben Friedman, has made,'
-p690
-aS'that your argument for a strong military -- military does not have to suffer these budget'
-p691
-aS"cuts is premised on a goal of global domination. He says that's really what your vision is."
-p692
-aS' Is that accurate? Do you cop to that, Tom Donnelly?'
-p693
-asg16
-(dp694
-I12
-S'18:11:32'
-p695
-ssa(dp696
-g8
-S'THOMAS DONNELLY'
-p697
-sg10
-(dp698
-I2
-S'17'
-p699
-ssg13
-(lp700
-S'Well, I like to do the crime before I do the time. So no.'
-p701
-aS'You know, dominance is a loaded term, no question.'
-p702
-asg16
-(dp703
-I1
-S'18:12:34'
-p704
-ssa(dp705
-g8
-S'JOHN DONVAN'
-p706
-sg13
-(lp707
-S"That's why I used it."
-p708
-asa(dp709
-g20
-(dp710
-I1
-S'[laughter]'
-p711
-ssg8
-S'THOMAS DONNELLY'
-p712
-sg13
-(lp713
-S'Yeah, no.'
-p714
-aS"I noted that. But I'll cop to it. You know, it doesn't bother me if America is stronger"
-p715
-aS"than everybody else times two or three. America's role in the world, from my"
-p716
-aS'perspective, has been pretty positive. And the use of American military power has'
-p717
-aS"made a better world, and so I'd rather be dominant than weak."
-p718
-asa(dp719
-g8
-S'JOHN DONVAN'
-p720
-sg13
-(lp721
-S"Andrew, let me come back to you because I'd like to just hear from the other side on"
-p722
-aS'that. Ben, it was your point. Can you respond to Tom --'
-p723
-asa(dp724
-g8
-S'BENJAMIN FRIEDMAN'
-p725
-sg13
-(lp726
-S"Well, that's a false dichotomy. My whole point is that we're incredibly strong now, vis-"
-p727
-aS"a-vis our enemies. So weakness is not something that's on the table in this debate. The"
-p728
-aS'argument is they say we need to try to have ten times the power of our enemies and'
-p729
-aS'basically guide history to be safe.'
 p730
-aS"And that's a massive overdefinition of our safety. The United States is incredibly safe"
-p731
-aS"from natural geographic reasons because of our economy. And most of what we're"
+ssg8
+(lp731
+S'Thanks very much.'
 p732
-aS"doing in the name of safety or defense is sort of a luxury that most states don't"
+aS"Ladies and gentlemen, Ben Friedman.And here's a reminder of what's going on."
 p733
-aS'endeavor to do. And I think it gets us into trouble that we could avoid. You know, a few'
+aS'We are halfway through the opening round [[applause]] of this Intelligence Squared U.S. debate.'
 p734
-aS'difference of percentage points in the defense budget is not going to make a difference.'
+aS"I'm John Donvan."
 p735
-aS" But if we really rethought our strategy, we could be a lot safer because we'd avoid"
+aS"We have four debaters, twoteams of two fighting it out over this motion: Cutting the Pentagon's budget is a gift toour enemies."
 p736
-aS'conflicts that we get into.'
+aS'You have heard two of the opening statement and now onto the third.'
 p737
-asg16
-(dp738
-I4
-S'18:13:33'
+aS"Debating in support of the motion that cutting the Pentagon's budget is a gift to ourenemies, Thomas Donnelly."
+p738
+aS'He is co-director of the Marilyn Ware Center for SecurityStudies and resident fellow at the American Enterprise Institute.'
 p739
-ssa(dp740
-g8
+aS'Ladies and gentlemen,Tom Donnelly.'
+p740
+asg11
 S'JOHN DONVAN'
 p741
-sg13
+sg16
 (lp742
-S'All right. Well get onto that in a bit. I want to let Andrew Krepinevich respond.'
+S'Thanks very much.'
 p743
-asa(dp744
-g8
-S'ANDREW KREPINEVICH'
+aS'Ladies and gentlemen, Ben Friedman.'
+p744
+aS"And here's a reminder of what's going on."
 p745
-sg10
-(dp746
-I6
-S'18'
+aS'We are halfway through the opening round of this Intelligence Squared U.S. debate.'
+p746
+aS"I'm John Donvan."
 p747
-ssg13
-(lp748
-S'Ben was kind enough to cite my Foreign Affairs article. In the article, even absent the'
+aS"We have four debaters, two teams of two fighting it out over this motion: Cutting the Pentagon's budget is a gift to our enemies."
+p748
+aS'You have heard two of the opening statement and now onto the third.'
 p749
-aS"sequestration cuts, I said we're going to have to really trim our sails. We're not going to"
+aS"Debating in support of the motion that cutting the Pentagon's budget is a gift to our enemies, Thomas Donnelly."
 p750
-aS'be able to fight or deal with threats in two different regions, even though there are'
+aS'He is co-director of the Marilyn Ware Center for Security Studies and resident fellow at the American Enterprise Institute.'
 p751
-aS"three regions in the world we consider to be vital interests. We're not -- maybe -- I think"
+aS'Ladies and gentlemen, Tom Donnelly.'
 p752
-aS"this is a good thing. We're not going to be able to threaten anybody with regime"
-p753
-aS'change.'
-p754
-aS"I think we're going to struggle just to maintain access to critical regions where we have"
-p755
-aS"trading partners and resource requirements. We haven't figured out a way to deter"
-p756
-aS"cyber attacks. And the cyber threat is growing. We haven't figured out a way to protect"
-p757
-aS'our assets in space. And I think the next big thing coming down the road is the undersea'
-p758
-aS'infrastructure which is huge. And with the spread of robotics, increasingly accessible'
-p759
-aS'even to non-state groups who can threaten the enormous energy infrastructure that in'
-p760
-aS'military parlance is comprised mostly of soft targets.'
-p761
-asg16
-(dp762
-I6
-S'18:14:29'
-p763
-ssa(dp764
-g8
-S'JOHN DONVAN'
-p765
-sg13
-(lp766
-S'Let me bring that to Kori Schake. The money argument, that just sounds like everything'
-p767
-aS'that was just outlined is important and will cost a lot. Kori Schake.'
-p768
-asa(dp769
-g8
-S'KORI SCHAKE'
-p770
-sg13
-(lp771
-S'Well, you know dont have to do things in the future the way we have done them in the'
-p772
-aS'past. And I think one of the important advantages of the American military is actually its'
-p773
-aS"adaptability, and its innovation. Our biggest advantage isn't our spending; it's the"
-p774
-aS'creativity and build a better mouse trap.'
-p775
-asa(dp776
-g8
-S'JOHN DONVAN'
-p777
-sg13
-(lp778
-S'But are you saying that -- is your point really that the U.S. military could do a lot more'
-p779
-aS'with a lot less, a lot more?'
-p780
-aS"I think both sides agree, and I don't think there's much debate to Kori's point that"
-p781
-aS"there's waste, and there could be more efficiency. I think they agree with that."
-p782
-asg16
-(dp783
-I2
-S'18:15:32'
-p784
-ssa(dp785
-g8
-S'KORI SCHAKE'
-p786
-sg13
-(lp787
-S"We can do it differently. We can drive innovation so that our enemies' advantages get"
-p788
-aS'matched up better against. One of the challenges that we have in the current defense'
-p789
-aS"budget is that the force structure doesn't match the strategy as both our colleagues"
-p790
-aS'across the aisle have --'
-p791
-asa(dp792
-g8
-S'BENJAMIN FRIEDMAN'
-p793
-sg13
-(lp794
-S'Yeah. We can make more choices. I think at least one of our opponents would agree'
-p795
-aS'that if we cut the ground forces a lot we could afford to do lots of things with the Navy,'
-p796
-aS'with a smaller budget than we have now.'
-p797
-asa(dp798
-g8
-S'ANDREW KREPINEVICH'
-p799
-sg13
-(lp800
-S'The problem --'
-p801
-asa(dp802
-g8
-S'JOHN DONVAN'
-p803
-sg10
-(dp804
-I1
-S'19'
-p805
-ssg13
-(lp806
-S'Andrew Krepinevich, go ahead.'
-p807
-asa(dp808
-g8
-S'ANDREW KREPINEVICH'
-p809
-sg13
-(lp810
-S"The problem is right now that, you know, efficiency is everybody's favorite solution, you"
-p811
-aS'know. We have efficiencies, magic happens, and then all of a sudden we save all this'
-p812
-aS'money. Weve been going to that movie for about 50 years now, and the result is'
-p813
-aS'always the same. We put the cart before the horse. You know, let Congress and the'
-p814
-aS'political leadership take on the responsibility, exercise the moral courage to make these'
-p815
-aS'changes before we saddle our soldiers, sailors, airmen and marines with the problem.'
-p816
-aS"I was talking to one -- in fact Secretary Panetta -- and if you dont already know, he's"
-p817
-aS'very fond of colorful language. And I raised the issue of efficiencies. And he said,'
-p818
-aS'That\'s a bunch of bologna, although he didn\'t use the word "bologna."'
-p819
-asg16
-(dp820
-I6
-S'18:16:35'
-p821
-ssa(dp822
-g8
-S'JOHN DONVAN'
-p823
-sg13
-(lp824
-S"This is a radio show, so I'm glad you censored."
-p825
-asa(dp826
-g8
-S'ANDREW KREPINEVICH'
-p827
-sg13
-(lp828
-S'And, you know, for those who say, Well, we spend more than others, well, as I'
-p829
-aS'mentioned earlier, we have a volunteer military. What kind of military do you think'
-p830
-aS"we'd have if we paid our soldiers, airmen, sailors, and marines what the Pakistanis pay"
-p831
-aS'theirs or what the Russians pay theirs or what the Chinese pay theirs? As Tom said, do'
-p832
-aS'you want to wait until the enemy is at your shores and then start figuring out how to'
-p833
-aS'deal with the threat?'
-p834
-asa(dp835
-g8
-S'JOHN DONVAN'
-p836
-sg13
-(lp837
-S'All right, let me -- let me put that very question to the other side: Do you want to wait'
-p838
-aS'until the enemies are at your shores and --'
-p839
-aS' '
-p840
-asa(dp841
-g8
-S'BENJAMIN FRIEDMAN'
-p842
-sg10
-(dp843
-I10
-S'20'
-p844
-ssg13
-(lp845
-S'-- we have a lot of straw men coming out now. You know, fight him over here, fight him'
-p846
-aS"-- I'm saying, don't fight him. Let's have fewer wars."
-p847
-aS'But, I mean, I think you guys both just signed a letter saying we should reform'
-p848
-aS"compensation for personnel. So we're not going to pay them like Pakistan or Russia."
-p849
-aS" We're going to pay them well. We're going to pay them what they would get in a"
-p850
-aS"regular market, I think, with those reforms. And I'm for that too. That's an efficiency."
-p851
-aS' So there are some -- a brack ; we do a lot of the same stuff with'
-p852
-aS"fewer bases. That's an efficiency. So there are -- I'm not a big efficiency guy. I basically"
-p853
-aS"agree with Panetta. But that's why I said, why don't we cut the size of the army? Which"
-p854
-aS'I think you might agree with. You know, we -- not going to occupy a country. We could'
-p855
-aS"have a smaller ground force. That's not an efficiency. That's a strategic choice. That's"
-p856
-aS"what I'm talking about, more strategic choices."
-p857
-asg16
-(dp858
-I2
-S'18:17:28'
-p859
-ssa(dp860
-g8
-S'JOHN DONVAN'
-p861
-sg13
-(lp862
-S'Tom Donnelly -- Tom Donnelly, is it accurate what Ben Friedman just said, that you also'
-p863
-aS'want to cut the size of the army?'
-p864
-asa(dp865
-g8
-S'THOMAS DONNELLY'
-p866
-sg13
-(lp867
-S'No, I mean, I think Ben laid it out very well.'
-p868
-asa(dp869
-g8
-S'JOHN DONVAN'
-p870
-sg13
-(lp871
-S'Okay.'
-p872
-asa(dp873
-g8
-S'THOMAS DONNELLY'
-p874
-sg13
-(lp875
-S'Its not an efficiency, it is a choice, a choice to have less power and to withdraw.'
-p876
-asa(dp877
-g20
-(dp878
-I1
-S'[laughter]'
-p879
-ssg8
-S'JOHN DONVAN'
-p880
-sg13
-(lp881
-S'All right. Landed that very well.'
-p882
-ag840
-aS'Is it an issue of having less power? Is it okay to be less powerful? Kori Schake.'
-p883
-asg16
-(dp884
-I3
-S'18:18:29'
-p885
-ssa(dp886
-g8
-S'KORI SCHAKE'
-p887
-sg13
-(lp888
-S"I'm not in favor of that, as a matter of fact. I agree with Tom on that. But it seems to"
-p889
-aS'me that maintaining American power in the international order is more affordable than'
-p890
-aS'our colleagues across the aisle suggest it is. And let me just give you one example --'
-p891
-asa(dp892
-g8
-S'JOHN DONVAN'
-p893
-sg13
-(lp894
-S"Isn't it more a matter of style? I believe your opponents are talking about not really"
-p895
-aS'wanting to do away with a lot of carrier groups. Am I right about that? You want the'
-p896
-aS'aircraft carriers there. You want them deployed around the world. You want them near'
-p897
-aS"other people's shores. You want troops stationed in NATO ally countries and in South"
-p898
-aS'Korea. Am I right about --'
-p899
-asa(dp900
-g8
-S'ANDREW KREPINEVICH'
-p901
-sg10
-(dp902
-I3
-S'21'
-p903
-ssg13
-(lp904
-S"I think Kori, I think, hit on a good point, which is we're going to need not to do more of"
-p905
-aS"the same. We're going to need to begin to think about things differently. As Robert"
-p906
-aS'Rosenkranz mentioned, the problem set is becoming quite a bit different than'
-p907
-aS"Afghanistan and Iraq. The problem is, as I mentioned before, that when you've got a"
-p908
-aS'shrinking budget and exploding personnel costs, what gets squeezed out are science'
-p909
-aS'and technology, research and development of new capabilities, training and exercise to'
-p910
-aS"test out these capabilities to find out what works and what doesn't."
-p911
-aS"And so you're stuck making a big bet, and you hope it'll work, but you really don't have"
-p912
-aS'the chance to test it out.'
-p913
-asg16
-(dp914
-I7
-S'18:19:37'
-p915
-ssa(dp916
-g20
-(dp917
-I2
-S'[laughter]'
-p918
-ssg8
-S'JOHN DONVAN'
-p919
-sg13
-(lp920
-S'Okay. Andrew, let me give the floor back to Kori because I took it away from her, and'
-p921
-aS'then you took it away from me. So --'
-p922
-aS"Well done. But it's not going to happen again."
-p923
-asa(dp924
-g8
-S'KORI SCHAKE'
-p925
-sg13
-(lp926
-S'I basically agree with what Andy just said. But the point is that, for example, take the'
-p927
-aS"army, right? You don't have to make one big bet by cutting the size of the army. The"
-p928
-aS'size of the army in the 1990s, before September 11th, was 490,000 soldiers. That was'
-p929
-aS'when you still had the planning construct that said we had to be able to fight two nearly'
-p930
-aS'simultaneous wars. It was before you had the revolution in communications and'
-p931
-aS'precision and battlefield awareness that has made American forces so much more'
-p932
-aS'effective than they were.'
-p933
-aS' It was before the defense guidance, which secretary Panetta brought into being in the'
-p934
-aS'Pentagon that said that we are not going to size our force to fight a large, sustained land'
-p935
-aS'war anymore. And yet, the size the army says it needs is 490,000, the exact same as in'
-p936
-aS'1990. The threats are different, the requirements are different. We need to find new'
-p937
-aS"ways to do stuff. The answer shouldn't be the exact same as it was in the 1990s."
-p938
-asg16
-(dp939
-I7
-S'18:20:30'
-p940
-ssa(dp941
-g20
-(dp942
-I1
+asa(dp753
+g22
+(dp754
+I52
 S'[applause]'
-p943
-ssg8
-S'JOHN DONVAN'
-p944
-sg13
-(lp945
-S'Tom Donnelly and then Ben Friedman. Tom Donnelly.'
-p946
-asa(dp947
-g8
+p755
+sI4
+S'[laughter]'
+p756
+ssg11
 S'THOMAS DONNELLY'
-p948
-sg10
-(dp949
+p757
+sg16
+(lp758
+S'Thanks, John.'
+p759
+aS"I'd like to echo the thanks that my colleagues gave to the IQ people and the McCain Institute people."
+p760
+aS"I'd like to thank the audience too."
+p761
+aS"It's a beautiful day and coming in here and talking about defense budgets is perhaps not the way I would spend my afternoon if I had a choice."
+p762
+aS'The smartest soldier of all time said that everything in war is simple, but the simple things are difficult.'
+p763
+aS"And this debate is a perfect example of why that's true."
+p764
+aS"We're really talking about three things and how they relate to one another."
+p765
+aS'We talk about money and budgets.'
+p766
+aS"And you've already heard a fog of numbers being thrown out and slices of pies being alluded to."
+p767
+aS"It's a lot of money that we're talking about."
+p768
+aS'But I would ask you to consider defense spending in a different way, as not just a cost proposition but a value proposition.'
+p769
+aS"Are we getting a return on our investment that's worth it as taxpayers and Americans?"
+p770
+aS'I would say absolutely.'
+p771
+aS"Andy says for 3 cents out of our dollar, whether we're getting the global dominance that Ben suggested or merely treading water, we have a remarkably peaceful world."
+p772
+aS"There hasn't been a great power war since the end of World War II."
+p773
+aS'And personally, I would like to keep it that way.'
+p774
+aS"That's something that I can't quite put a price tag on."
+p775
+aS"And what we're spending now is certainly affordable."
+p776
+aS'So ask yourselves, is it worth the money we spend?'
+p777
+aS"That's the way I would ask you guys to consider the proposition."
+p778
+aS'Second part is even more unpleasant, the idea that we have enemies in the world.'
+p779
+aS"We don't like to think that as Americans."
+p780
+aS'You know, we wish everybody loved us and we try to love them, but it is a dangerous world.'
+p781
+aS'Ben sort of downplayed all the threats that are out there.'
+p782
+aS"We're going to have a discussion about that."
+p783
+aS"Reasonable people can differ over who's the biggest threat and what the size of the danger is, but, again, do you want to take a risk with this?"
+p784
+aS"If we're much stronger than our enemies, is that a bad thing?"
+p785
+aS"They're not all enemies."
+p786
+aS"There're people who are sitting on the fence one way or the other."
+p787
+aS"I would prefer to live in a world where we have fewer enemies and the ones that might be enemies don't want to mess with us."
+p788
+aS"And, again, I think that's a great value proposition."
+p789
+aS"The final part of the proposition is whether it's a gift to our enemies or not."
+p790
+aS'As Andy said, "We don\'t know whether it\'s a gift, but it is already, we can tell, a dangerous temptation," as we see in the Middle East today.'
+p791
+aS"As we have come home from Iraq and we're about to depart from Afghanistan, we see in Syria a war that's metastasizing, it's like the Iraq civil war that we saw in 2006, only on steroids, much more so."
+p792
+aS'So is that a gift to our enemies?'
+p793
+aS"I don't know."
+p794
+aS"It's not a gift."
+p795
+aS'Going to war is never a gift.'
+p796
+aS'Our withdrawal from the world after World War I was not a gift to Germany and Japan but it was a dangerous temptation to Adolf Hitler and to the Imperial Japanese.'
+p797
+aS'World War II was a gift to nobody but it was a necessary thing to do and a temptation to evil people in the world, and there are evil people in the world.'
+p798
+aS'So well work through all these questions.'
+p799
+aS'I like it that we have allies.'
+p800
+aS'They provide the battlefield.'
+p801
+aS"That -- you can't put a price tag on that."
+p802
+aS"It's better to fight over there than it is here at home."
+p803
+aS"So having America be powerful as well as be engaged in the world out there in the world has created a world that's more prosperous, that's safer, and for Americans possibly the most important point is freer than it has ever been in human history."
+p804
+aS'We should not give that up.'
+p805
+aS"You don't win prizes in war for being the guy who does it in the cheapest way."
+p806
+aS'There are no style points.'
+p807
+aS"The outcome is what matters, and that's what we should be focusing on when we weigh this proposition."
+p808
+aS'Is it a gift to our enemies?'
+p809
+aS'No.'
+p810
+aS"That is a temptation to them, it's a risk for our friends, and it could be a real danger to us."
+p811
+aS'We send very few Americans -- we have -- the world is so peaceful, and our military is so good that it only takes less than 1 percent of us to maintain the peace.'
+p812
+aS"I think that's worth a priceless investment, almost."
+p813
+aS'Vote for us.'
+p814
+asg18
+(dp815
+S'18:02:31'
+p816
+I37
+sS'18:03:30'
+p817
+I48
+sS'18:01:30'
+p818
+I26
+sS'17:59:35'
+p819
 I4
-S'22'
+sS'18:00:31'
+p820
+I14
+ssg8
+(lp821
+S'Thanks, John.'
+p822
+aS"I'd like to echo the thanks that my colleagues gave to the IQ people andthe McCain Institute people."
+p823
+aS"I'd like to thank the audience too."
+p824
+aS"It's a beautiful day andcoming in here and talking about defense budgets is perhaps not the way I would spendmy afternoon if I had a choice.The smartest soldier of all time said that everything in war is simple, but the simple [[laughter]] things are difficult."
+p825
+aS"And this debate is a perfect example of why that's true."
+p826
+aS"We're reallytalking about three things and how they relate to one another."
+p827
+aS'We talk about moneyand budgets.'
+p828
+aS"And you've already heard a fog of numbers being thrown out and slices ofpies being alluded to."
+p829
+aS"It's a lot of money that we're talking about."
+p830
+aS'But I would ask youto consider defense spending in a different way, as not just a cost proposition but avalue proposition.'
+p831
+aS"Are we getting a return on our investment that's worth it astaxpayers and Americans?"
+p832
+aS'I would say absolutely.'
+p833
+aS"Andy says for 3 cents out of ourdollar, whether we're getting the global dominance that Ben suggested or merelytreading water, we have a remarkably peaceful world.There hasn't been a great power war since the end of World War II."
+p834
+aS'And personally, Iwould like to keep it that way.'
+p835
+aS"That's something that I can't quite put a price tag on."
+p836
+aS"And what we're spending now is certainly affordable."
+p837
+aS'So ask yourselves, is it worth themoney we spend?'
+p838
+aS"That's the way I would ask you guys to consider the proposition.Second part is even more unpleasant, the idea that we have enemies in the world."
+p839
+aS"Wedon't like to think that as Americans."
+p840
+aS'You know, we wish everybody loved us and we tryto love them, but it is a dangerous world.'
+p841
+aS'Ben sort of downplayed all the threats thatare out there.'
+p842
+aS"We're going to have a discussion about that."
+p843
+aS"Reasonable people candiffer over who's the biggest threat and what the size of the danger is, but, again, doyou want to take a risk with this?"
+p844
+aS"If we're much stronger than our enemies, is that a badthing?"
+p845
+aS"They're not all enemies."
+p846
+aS"There're people who are sitting on the fence one wayor the other.I would prefer to live in a world where we have fewer enemies and the ones that mightbe enemies don't want to mess with us."
+p847
+aS"And, again, I think that's a great valueproposition."
+p848
+aS"The final part of the proposition is whether it's a gift to our enemies or not."
+p849
+aS'As Andy said, "We don\'t know whether it\'s a gift, but it is already, we can tell, adangerous temptation," as we see in the Middle East today.'
+p850
+aS"As we have come homefrom Iraq and we're about to depart from Afghanistan, we see in Syria a war that'smetastasizing, it's like the Iraq civil war that we saw in 2006, only on steroids, muchmore so."
+p851
+aS'So is that a gift to our enemies?'
+p852
+aS"I don't know."
+p853
+aS"It's not a gift."
+p854
+aS'Going to war isnever a gift.'
+p855
+aS'Our withdrawal from the world after World War I was not a gift toGermany and Japan but it was a dangerous temptation to Adolf Hitler and to theImperial Japanese.'
+p856
+aS'World War II was a gift to nobody but it was a necessary thing to do and a temptationto evil people in the world, and there are evil people in the world.'
+p857
+aS'So well workthrough all these questions.'
+p858
+aS'I like it that we have allies.'
+p859
+aS'They provide the battlefield.'
+p860
+aS"That -- you can't put a price tag on that."
+p861
+aS"It's better to fight over there than it is here athome."
+p862
+aS"So having America be powerful as well as be engaged in the world out there inthe world has created a world that's more prosperous, that's safer, and for Americanspossibly the most important point is freer than it has ever been in human history."
+p863
+aS'Weshould not give that up.'
+p864
+aS"You don't win prizes in war for being the guy who does it in thecheapest way."
+p865
+aS'There are no style points.'
+p866
+aS"The outcome is what matters, and that's whatwe should be focusing on when we weigh this proposition."
+p867
+aS'Is it a gift to our enemies?'
+p868
+aS"No.That is a temptation to them, it's a risk for our friends, and it could be a real danger tous."
+p869
+aS'We send very few Americans -- we have -- the world is so peaceful, and our militaryis so good that it only takes less than 1 percent of us to maintain the peace.'
+p870
+aS"I thinkthat's worth a priceless investment, almost."
+p871
+aS'Vote for us.'
+p872
+asg13
+(dp873
+I48
+S'14'
+p874
+sI14
+S'13'
+p875
+ssa(dp876
+g22
+(dp877
+I5
+S'[applause]'
+p878
+ssg8
+(lp879
+S'Thank you, Tom Donnelly.'
+p880
+aS"Our motion is, Cutting the Pentagon's budget is a gift to ourenemies, and our final debater who will speak against the motion is Kori Schake."
+p881
+aS'She isa research fellow at the Hoover Institution.'
+p882
+aS'She was a senior foreign policy advisor tothe McCain-Palin campaign and has served in the state department and on the NationalSecurity Council.'
+p883
+aS'Ladies and gentlemen, Kori Schake.'
+p884
+asg11
+S'JOHN DONVAN'
+p885
+sg16
+(lp886
+S'Thank you, Tom Donnelly.'
+p887
+aS"Our motion is, Cutting the Pentagon's budget is a gift to our enemies, and our final debater who will speak against the motion is Kori Schake."
+p888
+aS'She is a research fellow at the Hoover Institution.'
+p889
+aS'She was a senior foreign policy advisor to the McCain-Palin campaign and has served in the state department and on the National Security Council.'
+p890
+aS'Ladies and gentlemen, Kori Schake.'
+p891
+asg18
+(dp892
+S'18:04:25'
+p893
+I5
+ssa(dp894
+g22
+(dp895
+I63
+S'[applause]'
+p896
+ssg11
+S'KORI SCHAKE'
+p897
+sg16
+(lp898
+S'So I agree with everything Tom Donnelly just said, and I think you can still agree with Ben and me that cutting defense spending is not a gift to our enemies without compromising anything Tom just said.'
+p899
+aS"And let me try and walk you through why I think that's so."
+p900
+aS'First, as most of you probably know, 31 cents of every dollar the United States government spends, it borrows.'
+p901
+aS'We may only spend 3 percent of it on defense, but 31 percent of it, we have to borrow.'
+p902
+aS"Our national debt, the extent to which our spending is outpacing our revenue, that's the gift to America's enemies."
+p903
+aS'We actually really need to bring our spending into alignment with our revenue, and the defense budget has doubled since 2001.'
+p904
+aS'The sequestration, the means by which we are further reducing it is damaging, but the reduction in the top line, the overall level of spending is manageable while maintaining a strong national defense, while retaining allies, while retaining the value proposition, and while frightening our enemies.'
+p905
+aS'The United States constitutes -- our own defense budget is 40 percent of global defense spending.'
+p906
+aS'40 percent, all by itself.'
+p907
+aS"There are 21 aircraft carriers in the fleets of the world's navies."
+p908
+aS'Eleven of those are in our navy.'
+p909
+aS'American dominance in the military realm is overwhelming.'
+p910
+aS'Of all the places you could cut spending -- in fact, the margin for error in national defense is enormous.'
+p911
+aS'As Tom said, the value proposition that the American military provides: we can do things that other militaries cannot do and that drives our enemies to radical, asymmetric strategies.'
+p912
+aS'It drives them to terrorism.'
+p913
+aS'It drives them to cyber warfare.'
+p914
+aS"It drives them to things -- because they know they couldn't actually fight the American army and defeat it."
+p915
+aS"It drives them to strategies of trying to erode our national will to fight the war, because if we fight it, we're going to win it."
+p916
+aS'In regard to the threat from China: China is rising.'
+p917
+aS"And we're smart to hedge against a rising China."
+p918
+aS'But I would encourage you to remember that one of the most important strategic variables, one of the most important advantages you can have, is time.'
+p919
+aS'And we actually have a lot of time to figure out how to deal with a rising China.'
+p920
+aS'And our -- the American military is one of many means for managing that rise and one in which we have a strong advantage.'
+p921
+aS"A second thing I'd like to ask you to consider is -- I agree with Tom about the value proposition."
+p922
+aS'The American military is extraordinarily good at what it does.'
+p923
+aS'That does not mean that the money that we spend on our defense we spend well.'
+p924
+aS'Right?'
+p925
+aS"The Defense Department, in truth, actually doesn't know if we have enough money to spend on American defense, because they actually cannot pass an audit that every American business has to pass."
+p926
+aS"They already told Congress they won't be able to pass an audit until 2017."
+p927
+aS'Given that the budget has doubled in the last 10 years, and DOD cannot account for the money, that suggests to me that there are reasonable places in the budget from which we could wring greater effectiveness in our spending.'
+p928
+aS'The American military is terrific at the effectiveness of war-fighting.'
+p929
+aS"We're not cost effective."
+p930
+aS"We're not particularly efficient at how we do it."
+p931
+aS'And I would offer you the testimony of General Dempsey, the chairman of the Joint Chiefs of Staff, who said that if we forced ourselves to think, we could probably do this with less resources.'
+p932
+aS'He also said that because budgets have essentially been unconstrained for the last 10 years, the American military has gotten into a lot of bad habits.'
+p933
+aS"As Admiral Mullen, General Dempsey's predecessor, said, we have raised a generation of military leaders who don't know how to budget because they've never had to do it."
+p934
+aS'Let me just point out to you some of the cost-drivers or how expensive American defense is.'
+p935
+aS'GAO determined the last year that we wasted $74 billion in the year 2012 because of the procurement process, because of what Senator McCain has described as the political -- as the military industrial Congressional complex.'
+p936
+aS"The Pentagon's determined we have 20 percent more bases and facilities than we need and Congress will not permit them to close them."
+p937
+aS"The military -- the Pentagon has tried to ramp down the expansion of the personnel account -- military raises, housing, funding, pensions -- and Congress won't do it."
+p938
+aS'So even the Pentagon understands the resources to be saved here.'
+p939
+aS"In fact, the position that we are in is that we have the world's finest military and that all-volunteer force is becoming unaffordable."
+p940
+aS'We have to better constrain the costs of our defense.'
+p941
+aS'And even within national security, there are things that need money even more than the American military, right?'
+p942
+aS"If you look at why were are not more decisively winning the wars in Iraq and Afghanistan, the wars we have fought in the last 10 years, the reason is we're underfunding diplomacy, development, other things we need to spend our money on."
+p943
+asg18
+(dp944
+S'18:05:43'
+p945
+I12
+sS'18:08:29'
+p946
+I41
+sS'18:06:33'
+p947
+I19
+sS'18:07:33'
+p948
+I31
+sS'18:09:29'
+p949
+I52
+sS'18:10:31'
 p950
-ssg13
+I63
+ssg8
 (lp951
-S'Well this is extraordinary reminiscent -- I mean, this is the kind of talk you heard out of'
+S'So I agree with everything Tom Donnelly just said, and I think you can still agree withBen and me that cutting defense spending is not a gift to our enemies withoutcompromising anything Tom just said.'
 p952
-aS'Donald Rumsfeld before 9/11. 490,000 was too small. We proved that by being unable'
+aS"And let me try and walk you through why I thinkthat's so."
 p953
-aS"to do Iraq and Afghanistan properly at the same time, so I don't think that was a good"
+aS'First, as most of you probably know, 31 cents of every dollar the United Statesgovernment spends, it borrows.'
 p954
-aS"experience. And I don't want to expect that the world is going to be technologically"
+aS'We may only spend 3 percent of it on defense, but 31percent of it, we have to borrow.'
 p955
-aS"transformed and that the art of war is going to be fundamentally different than it's ever"
+aS"Our national debt, the extent to which our spending isoutpacing our revenue, that's the gift to America's enemies."
 p956
-aS'been in human history.'
+aS'We actually really need tobring our spending into alignment with our revenue, and the defense budget hasdoubled since 2001.'
 p957
-aS'That seemed like a bit of a long shot to me, too. So numbers matter, and we have just'
+aS'The sequestration, the means by which we are further reducing itis damaging, but the reduction in the top line, the overall level of spending ismanageable while maintaining a strong national defense, while retaining allies, whileretaining the value proposition, and while frightening our enemies.The United States constitutes -- our own defense budget is 40 percent of global defensespending.'
 p958
-aS'proved that in spades over the last decade.'
+aS'40 percent, all by itself.'
 p959
-asg16
-(dp960
-I6
-S'18:21:32'
+aS"There are 21 aircraft carriers in the fleets of theworld's navies."
+p960
+aS'Eleven of those are in our navy.'
 p961
-ssa(dp962
-g8
-S'JOHN DONVAN'
+aS'American dominance in the militaryrealm is overwhelming.'
+p962
+aS'Of all the places you could cut spending -- in fact, the margin forerror in national defense is enormous.'
 p963
-sg13
-(lp964
-S"Meaning what? You need a lot of boots on the ground, is that what you're saying?"
+aS'As Tom said, the value proposition that theAmerican military provides: we can do things that other militaries cannot do and thatdrives our enemies to radical, asymmetric strategies.It drives them to terrorism.'
+p964
+aS'It drives them to cyber warfare.'
 p965
-asa(dp966
-g8
-S'THOMAS DONNELLY'
+aS"It drives them to things --because they know they couldn't actually fight the American army and defeat it."
+p966
+aS"Itdrives them to strategies of trying to erode our national will to fight the war, because ifwe fight it, we're going to win it.In regard to the threat from China: China is rising."
 p967
-sg13
-(lp968
-S'There are some things that you cannot do with technology. And we have actually, you'
+aS"And we're smart to hedge against arising China."
+p968
+aS'But I would encourage you to remember that one of the most importantstrategic variables, one of the most important advantages you can have, is time.'
 p969
-aS'know, fought irregular wars and counterinsurgencies in the most technologically'
+aS'Andwe actually have a lot of time to figure out how to deal with a rising China.'
 p970
-aS"sophisticated way ever, but I don't think the result was satisfactory."
+aS"And our --the American military is one of many means for managing that rise and one in which wehave a strong advantage.A second thing I'd like to ask you to consider is -- I agree with Tom about the valueproposition.The American military is extraordinarily good at what it does."
 p971
-asa(dp972
-g8
-S'JOHN DONVAN'
+aS'That does not mean thatthe money that we spend on our defense we spend well.'
+p972
+aS'Right?'
 p973
-sg13
-(lp974
-S'Ben Friedman.'
+aS"The DefenseDepartment, in truth, actually doesn't know if we have enough money to spend onAmerican defense, because they actually cannot pass an audit that every Americanbusiness has to pass."
+p974
+aS"They already told Congress they won't be able to pass an audituntil 2017."
 p975
-asa(dp976
-g8
-S'BENJAMIN FRIEDMAN'
+aS'Given that the budget has doubled in the last 10 years, and DOD cannotaccount for the money, that suggests to me that there are reasonable places in thebudget from which we could wring greater effectiveness in our spending.'
+p976
+aS'The Americanmilitary is terrific at the effectiveness of war-fighting.'
 p977
-sg13
-(lp978
-S"Again, I hear arguments being made for me that I don't make. I am not signing up for"
+aS"We're not cost effective."
+p978
+aS"We'renot particularly efficient at how we do it.And I would offer you the testimony of General Dempsey, the chairman of the JointChiefs of Staff, who said that if we forced ourselves to think, we could probably do thiswith less resources."
 p979
-aS'the Don Rumsfeld vision of anything in my argument. You know, occasionally we might'
+aS'He also said that because budgets have essentially beenunconstrained for the last 10 years, the American military has gotten into a lot of badhabits.'
 p980
-aS'agree on something, but my argument is not his. He liked war a lot more than I do, and'
+aS"As Admiral Mullen, General Dempsey's predecessor, said, we have raised ageneration of military leaders who don't know how to budget because they've neverhad to do it.Let me just point out to you some of the cost-drivers or how expensive Americandefense is."
 p981
-aS"the -- we're hearing a lot of assumptions about the changes that will be made if we -- or"
+aS"GAO determined the last year that we wasted $74 billion in the year 2012because of the procurement process, because of what Senator McCain has described asthe political -- as the military industrial Congressional complex.The Pentagon's determined we have 20 percent more bases and facilities than we needand Congress will not permit them to close them."
 p982
-aS"what will happen if we cut the defense budget -- personnel will get squeezed and we'll"
+aS"The military -- the Pentagon has triedto ramp down the expansion of the personnel account -- military raises, housing,funding, pensions -- and Congress won't do it."
 p983
-aS"cut the O&M budget, so we'll have a hollow force."
+aS'So even the Pentagon understands theresources to be saved here.'
 p984
-aS"If we did that, it would be a mistake. The -- so we don't endorse things that will lead to"
+aS"In fact, the position that we are in is that we have theworld's finest military and that all-volunteer force is becoming unaffordable."
 p985
-aS"a hollow force. The military of the '70s I'll grant was a bit of a hollow force. The"
+aS'We haveto better constrain the costs of our defense.'
 p986
-aS"personnel situation was bad, but that's because we didn't pay them enough. We --"
+aS'And even within national security, thereare things that need money even more than the American military, right?'
 p987
-aS'compensation is much better now by a mile. And we are making choices now to avoid'
+aS"If you look atwhy were are not more decisively winning the wars in Iraq and Afghanistan, the wars wehave fought in the last 10 years, the reason is we're underfunding diplomacy,development, other things we need to spend our money on."
 p988
-aS'cutting the O&M budget at the expense of procurement, so we can avoid that. And our'
-p989
-aS'argument doesnt entail doing all the bad things you say it does. And finally, I think,'
+asg13
+(dp989
+I57
+S'16'
 p990
-aS"since you asked, power -- power is our capacity to generate force. It's potential. It's not"
+sI21
+S'15'
 p991
-aS'standing military forces. There are powerful nations that have quite small militaries.'
-p992
-aS' The difference is they could -- with weak nations is they could change that if they'
-p993
-aS'wanted to. So our long term economic health, of course, is essential to our power.'
+ssa(dp992
+g8
+(lp993
+S'Thank you, Kori.'
 p994
-asg16
-(dp995
-I6
-S'18:22:30'
+aS"And that concludes Round 1 of this Intelligence Squared U.S. debate, inpartnership with the McCain Institute for International Leadership, where our motion is,Cutting the Pentagon's budget is a gift to our enemies."
+p995
+aS'We have two teams of twoarguing over this motion.'
 p996
-ssa(dp997
-g8
-S'JOHN DONVAN'
+aS'And now, we move on to Round 2.'
+p997
+aS"Two teams of two arguingthis motion: Cutting the Pentagon's budget is a gift to our enemies."
 p998
-sg10
-(dp999
-I3
-S'23'
+aS'The team arguingfor the motion, Andrew Krepinevich and Tom Donnelly have argued that budget cutsthreatened -- threaten to make a dangerous world even more dangerous, that a weakerU.S.'
+p999
+aS'military would encourage our adversaries and create for us a hollow military.'
 p1000
-ssg13
-(lp1001
-S'I -- question for this side, unless you want to respond, because I wanted to move it along'
+aS'Theysay that the peace and security that comes in 3 cents of the dollar is a bargainconsidering what a peaceful world it has led to for so long in terms of wars among thegreat powers; that this is a dangerous world, and we have to take our enemies seriously,in their perception of this, as a weakness on our part.The team arguing against the motion, Kori Schake and Ben Friedman, say that the threatat this point is exaggerated.'
+p1001
+aS'Number one, we are so dominant militarily, we haveoceans protecting us, a technological advantage, and a dominance that makes it just tooearly to worry about a real threat to our existence.'
 p1002
-aS'so we if you want to respond because --'
+aS'They say that the -- that theiropponents are actually arguing for a global domination that is unnecessary to ensurethe common defense.'
 p1003
-ag840
-asa(dp1004
-g8
-S'ANDREW KREPINEVICH'
+aS'And they also point out that the cost of the military itself actuallyrepresents the real threat to our national security.'
+p1004
+aS"I want to ask the team that's arguingfor this motion, the team that is arguing that the cuts are a threat to our security and agift to our enemies, to put to you a point that your opponent, Ben Friedman, has made,that your argument for a strong military -- military does not have to suffer these budgetcuts is premised on a goal of global domination."
 p1005
-sg13
-(lp1006
-S"I'm just saying that we are only at the dawn of sequestration, and all you have to do is"
+aS"He says that's really what your vision is."
+p1006
+aS'Is that accurate?'
 p1007
-aS'read the papers.'
+aS'Do you cop to that, Tom Donnelly?'
 p1008
-aS"The Air Force is cutting back on training, the Army's cutting back on training, the Air"
+asg11
+S'JOHN DONVAN'
 p1009
-aS"Force can't replace its aging aircraft in part because we screwed up over the last decade"
-p1010
-aS"or so in terms of the procurement approach. But, again, that's poor excuse for"
+sg16
+(lp1010
+S'Thank you, Kori.'
 p1011
-aS'compromising our security and punishing our service members. So yeah, were mistakes'
+aS"And that concludes Round 1 of this Intelligence Squared U.S. debate, in partnership with the McCain Institute for International Leadership, where our motion is, Cutting the Pentagon's budget is a gift to our enemies."
 p1012
-aS'made? Certainly they were. You know, does that mean we give up on our security'
+aS'We have two teams of two arguing over this motion.'
 p1013
-aS"because we didn't get it right or is that -- do we ignore what's going on now?"
+aS'And now, we move on to Round 2.'
 p1014
-asg16
-(dp1015
-I2
-S'18:23:32'
+aS"Two teams of two arguing this motion: Cutting the Pentagon's budget is a gift to our enemies."
+p1015
+aS'The team arguing for the motion, Andrew Krepinevich and Tom Donnelly have argued that budget cuts threatened -- threaten to make a dangerous world even more dangerous, that a weaker U.S. military would encourage our adversaries and create for us a hollow military.'
 p1016
-ssa(dp1017
-g8
-S'JOHN DONVAN'
+aS'They say that the peace and security that comes in 3 cents of the dollar is a bargain considering what a peaceful world it has led to for so long in terms of wars among the great powers; that this is a dangerous world, and we have to take our enemies seriously, in their perception of this, as a weakness on our part.'
+p1017
+aS'The team arguing against the motion, Kori Schake and Ben Friedman, say that the threat at this point is exaggerated.'
 p1018
-sg13
-(lp1019
-S'All right, do you want to respond, Ben?'
+aS'Number one, we are so dominant militarily, we have oceans protecting us, a technological advantage, and a dominance that makes it just too early to worry about a real threat to our existence.'
+p1019
+aS'They say that the -- that their opponents are actually arguing for a global domination that is unnecessary to ensure the common defense.'
 p1020
-asa(dp1021
-g8
-S'BENJAMIN FRIEDMAN'
+aS'And they also point out that the cost of the military itself actually represents the real threat to our national security.'
+p1021
+aS"I want to ask the team that's arguing for this motion, the team that is arguing that the cuts are a threat to our security and a gift to our enemies, to put to you a point that your opponent, Ben Friedman, has made, that your argument for a strong military -- military does not have to suffer these budget cuts is premised on a goal of global domination."
 p1022
-sg13
-(lp1023
-S'Well, I was going to say the sequestration -- we have one kind of sequestration in fiscal'
+aS"He says that's really what your vision is."
+p1023
+aS'Is that accurate?'
 p1024
-aS'year 2013 which said no matter what happens with the budget we cut across the board,'
+aS'Do you cop to that, Tom Donnelly?'
 p1025
-aS"we cut everything equally. And that wasn't quite as severe as the services made it out"
-p1026
-aS"to be, but it was dumb, and I'm against it. We're against it. But going forward, what we"
+asg18
+(dp1026
+S'18:11:32'
 p1027
-aS'have is budget caps, and if they get under the cap they can do whatever they want. So'
-p1028
-aS"we don't have to do all those foolish things with cutting back on training in '14, '15, '16,"
-p1029
-aS"'17. As long as they get under the cap, they can make choices."
+I12
+ssa(dp1028
+g8
+(lp1029
+S'Well, I like to do the crime before I do the time.'
 p1030
-aS"So sequestration in '13 was dumb, going forward as long as they get under the cap, it's"
+aS'So no.You know, dominance is a loaded term, no question.'
 p1031
-aS'okay.'
+asg11
+S'THOMAS DONNELLY'
 p1032
-asg16
+sg13
 (dp1033
-I7
-S'18:24:29'
+I2
+S'17'
 p1034
-ssa(dp1035
-g8
-S'ANDREW KREPINEVICH'
+ssg16
+(lp1035
+S'Well, I like to do the crime before I do the time.'
 p1036
-sg13
-(lp1037
-S'But then we still have the personnel problem. And part of the Budget Control Act, the'
+aS'So no.'
+p1037
+aS'You know, dominance is a loaded term, no question.'
 p1038
-aS'president was given the option of exempting personnel costs and personnel cuts, and so'
-p1039
-aS'again you have that situation where you have this personnel budget that is crowding out'
+asg18
+(dp1039
+S'18:12:34'
 p1040
-aS'everything else.'
-p1041
-asa(dp1042
+I1
+ssa(dp1041
 g8
-S'JOHN DONVAN'
+(lp1042
+S"That's why I used it."
 p1043
-sg13
-(lp1044
-S'But benefits are being cut.'
-p1045
-asa(dp1046
-g8
-S'ANDREW KREPINEVICH'
-p1047
-sg13
-(lp1048
-S"I'm sorry?"
-p1049
-asa(dp1050
-g8
+asg11
 S'JOHN DONVAN'
+p1044
+sg16
+(lp1045
+g1043
+asa(dp1046
+g22
+(dp1047
+I1
+S'[laughter]'
+p1048
+ssg8
+(lp1049
+S'Yeah, no.I noted that.'
+p1050
+aS"But I'll cop to it."
 p1051
-sg13
-(lp1052
-S'Benefits are being cut?'
+aS"You know, it doesn't bother me if America is stronger [[laughter]] than everybody else times two or three."
+p1052
+aS"America's role in the world, from myperspective, has been pretty positive."
 p1053
-asa(dp1054
-g8
-S'ANDREW KREPINEVICH'
+aS"And the use of American military power hasmade a better world, and so I'd rather be dominant than weak."
+p1054
+asg11
+S'THOMAS DONNELLY'
 p1055
-sg10
-(dp1056
-I0
-S'24'
+sg16
+(lp1056
+S'Yeah, no.'
 p1057
-ssg13
-(lp1058
-S'Benefits -- you know, the proposal right now is to scale back on some of the healthcare'
+aS'I noted that.'
+p1058
+aS"But I'll cop to it."
 p1059
-aS'benefits and so on, but the -- what the president can do is exempt -- what the -- as Ben'
+aS"You know, it doesn't bother me if America is stronger than everybody else times two or three."
 p1060
-aS'was saying, what you have is what the Pentagon calls a "haircut," everything get\'s cut.'
+aS"America's role in the world, from my perspective, has been pretty positive."
 p1061
-aS' And I think one thing we all agree on is this is a foolish way to run things.'
+aS"And the use of American military power has made a better world, and so I'd rather be dominant than weak."
 p1062
 asa(dp1063
-g20
-(dp1064
-I1
-S'[laughter]'
+g8
+(lp1064
+S"Andrew, let me come back to you because I'd like to just hear from the other side onthat."
 p1065
-ssg8
-S'JOHN DONVAN'
+aS'Ben, it was your point.'
 p1066
-sg13
-(lp1067
-S"I'm -- what I'm trying to figure out is what you all disagree on --"
+aS'Can you respond to Tom --'
+p1067
+asg11
+S'JOHN DONVAN'
 p1068
-aS'-- because I know you do. I know you do, and I think it goes to this issue of, "What are'
-p1069
-aS'our enemies thinking?" And all of you in your opening statements said, "I don\'t want to'
+sg16
+(lp1069
+S"Andrew, let me come back to you because I'd like to just hear from the other side on that."
 p1070
-aS'read my enemy\'s mind because it\'s unpleasant to be in there."'
+aS'Ben, it was your point.'
 p1071
-aS'But I think we want to talk about the notion, and this was alluded to by you, Tom, in'
+aS'Can you respond to Tom --'
 p1072
-aS'your opening statement, that this is -- a weaker U.S. military is a temptation not just for'
-p1073
-aS"China but for who knows to do things that right now they're just not going to bother"
-p1074
-aS"doing. It's also some freedom for our allies to not be militarized and to dampen down"
+asa(dp1073
+g8
+(lp1074
+S"Well, that's a false dichotomy."
 p1075
-aS"those ambitions. So what about that whole point of our enemies' perception of us"
+aS"My whole point is that we're incredibly strong now, vis-a-vis our enemies."
 p1076
-aS'being not dominant? Tom Donnelly.'
+aS"So weakness is not something that's on the table in this debate."
 p1077
-asg16
-(dp1078
-I4
-S'18:25:31'
+aS"Theargument is they say we need to try to have ten times the power of our enemies andbasically guide history to be safe.And that's a massive overdefinition of our safety."
+p1078
+aS'The United States is incredibly safefrom natural geographic reasons because of our economy.'
 p1079
-ssa(dp1080
-g8
-S'THOMAS DONNELLY'
+aS"And most of what we'redoing in the name of safety or defense is sort of a luxury that most states don'tendeavor to do."
+p1080
+aS'And I think it gets us into trouble that we could avoid.'
 p1081
-sg13
-(lp1082
-S'I think we -- as Andrew says, if you read the newspapers, or listen to NPR, or whatever --'
+aS'You know, a fewdifference of percentage points in the defense budget is not going to make a difference.'
+p1082
+aS"But if we really rethought our strategy, we could be a lot safer because we'd avoidconflicts that we get into."
 p1083
-asa(dp1084
-g8
-S'JOHN DONVAN'
-p1085
-sg13
-(lp1086
-S'Tom, I just want to -- for the radio, to ask you to state -- if you just walk toward the mic.'
-p1087
-aS'Thanks. Thanks.'
-p1088
-asa(dp1089
-g8
-S'THOMAS DONNELLY'
-p1090
-sg13
-(lp1091
-S'Again, I -- when I read the newspapers in the morning, or read the news online, or'
-p1092
-aS'however I get my news, what I see is people feeling for openings in weak spots. We see'
-p1093
-aS'that very much in Syria and Iraq. The war has spread to western Iraq, northern Jordan,'
-p1094
-aS'et cetera, et cetera.'
-p1095
-aS'We see that in the Pacific, in the South China Sea, where the Chinese, even without an'
-p1096
-aS'aircraft carrier, are nudging and pushing at what Ben calls the various rocks in the South'
-p1097
-aS'China Sea; the things that really matter to our allies, people who are our treaty allies,'
-p1098
-aS"like the Filipinos. I don't want there to be a war over a rock in the South China Sea. And"
-p1099
-aS'what we see is people feeling for how far they can go in the absence of an American'
-p1100
-aS'military presence.'
-p1101
-asg16
-(dp1102
-I4
-S'18:26:30'
-p1103
-ssa(dp1104
-g8
-S'JOHN DONVAN'
-p1105
-sg10
-(dp1106
-I0
-S'25'
-p1107
-ssg13
-(lp1108
-S'Okay. Let me take this to the other side. Very specifically stated that the perception'
-p1109
-aS'that our commitment to strong defense may be wavering is already resulting in people'
-p1110
-aS'putting up feelers to see what they can get away with. Sounds very logical. I want to'
-p1111
-aS'put that to Kori Schake.'
-p1112
-asa(dp1113
-g8
-S'KORI SCHAKE'
-p1114
-sg13
-(lp1115
-S'I --'
-p1116
-asa(dp1117
-g8
-S'JOHN DONVAN'
-p1118
-sg13
-(lp1119
-S'But -- Kori Schake.'
-p1120
-asa(dp1121
-g8
-S'KORI SCHAKE'
-p1122
-sg13
-(lp1123
-S"Because enemies always probe, like, for your weaknesses. That's what enemies do. The"
-p1124
-aS"Iranians aren't newly racing for a nuclear weapon. They've been doing it since before"
-p1125
-aS'we started cutting defense spending. The Chinese have been --'
-p1126
-asa(dp1127
-g8
-S'JOHN DONVAN'
-p1128
-sg13
-(lp1129
-S'But the logic of that is --'
-p1130
-asa(dp1131
-g8
-S'KORI SCHAKE'
-p1132
-sg13
-(lp1133
-S'-- before --'
-p1134
-asa(dp1135
-g8
-S'JOHN DONVAN'
-p1136
-sg13
-(lp1137
-S'-- theyre going to race even faster if they think -- if they were getting -- if our resolve is'
-p1138
-aS'wavering.'
-p1139
-asg16
-(dp1140
-I2
-S'18:27:33'
-p1141
-ssa(dp1142
-g8
-S'KORI SCHAKE'
-p1143
-sg13
-(lp1144
-S"Enemies don't play to your strong suit, right? Nobody can fight the American army in an"
-p1145
-aS"open-space tank battle, because they're going to lose. What enemies try and do is play"
-p1146
-aS"to your weaknesses. That's why they go for terrorism --"
-p1147
-asa(dp1148
-g8
-S'JOHN DONVAN'
-p1149
-sg13
-(lp1150
-S"But that's what he said -- they're saying. That's what they're saying."
-p1151
-asa(dp1152
-g8
-S'KORI SCHAKE'
-p1153
-sg10
-(dp1154
-I7
-S'26'
-p1155
-ssg13
-(lp1156
-S"-- but there's -- whether we have eight carrier groups or nine, I actually don't"
-p1157
-aS'think is going to make that much different to the Chinese calculation about whether'
-p1158
-aS'they want a Chinese dream that is their dominance of the Pacific. We need a'
-p1159
-aS'comprehensive sense of our strength. And right now, we are stronger in our military'
-p1160
-aS'capabilities than we are in our trade agreements, than we are in our diplomacy, than we'
-p1161
-aS'are in our development. We ought to hedge up what our actual weaknesses are, not'
-p1162
-aS'continue to reinforce our strengths.'
-p1163
-asa(dp1164
-g8
-S'JOHN DONVAN'
-p1165
-sg13
-(lp1166
-S'Andrew Krepinevich.'
-p1167
-asa(dp1168
-g8
-S'ANDREW KREPINEVICH'
-p1169
-sg13
-(lp1170
-S"We are being confronted by some strategic choices, to use Ben's term. There are three"
-p1171
-aS"agents of the world that we rely on for trade and for resources. We're part of the global"
-p1172
-aS'economy.'
-p1173
-aS'And we rely on the global common space, cyber space, the sea, and the undersea to link'
-p1174
-aS'us to those parts of the world. In the Far East, the Chinese, for over a decade now, have'
-p1175
-aS'been building up their military capabilities to try and push us out of the region. Just'
-p1176
-aS'listen to what the Japanese, the Taiwanese, the Koreans, and so on are saying. We have'
-p1177
-aS"a strategic choice. Now, it's not going to be a big army that we respond with. But we're"
-p1178
-aS'going to have to do something to maintain stability in that region, lest we encourage'
-p1179
-aS'Chinese adventurism. And you could see it in the paper, in terms of the trends in'
-p1180
-aS"Chinese behavior. Iran -- a nuclear armed Iran. Do you think they're more or less likely"
-p1181
-aS'to support Hezbollah, or to support Assad in Syria, or to try and undermine the Gulf'
-p1182
-aS'monarchies, and disrupt the flow of energy? Pakistan -- and again, you know, I dont'
-p1183
-aS'want to go on at length. But you look at cyber situation. Concerns that even non-state'
-p1184
-aS'entities will be able to inflict serious damage on us by cyber attacks.'
-p1185
-asg16
-(dp1186
-I3
-S'18:28:30'
-p1187
-sI15
-S'18:29:31'
-p1188
-ssa(dp1189
-g8
-S'JOHN DONVAN'
-p1190
-sg13
-(lp1191
-S'All right. Andrew, let me -- let Ben Friedman respond.'
-p1192
-asa(dp1193
-g20
-(dp1194
-I11
-S'[applause]'
-p1195
-sI14
-S'[laughter]'
-p1196
-ssg8
+asg11
 S'BENJAMIN FRIEDMAN'
-p1197
-sg10
-(dp1198
-I11
-S'27'
-p1199
-ssg13
-(lp1200
-S"Well, I mean, contrary to how it appears in Washington DC, the world actually doesn't"
-p1201
-aS'revolve around Washington DC. So what China does vis-a-vis its territorial claims -- this'
+p1084
+sg16
+(lp1085
+S"Well, that's a false dichotomy."
+p1086
+aS"My whole point is that we're incredibly strong now, vis- a-vis our enemies."
+p1087
+aS"So weakness is not something that's on the table in this debate."
+p1088
+aS'The argument is they say we need to try to have ten times the power of our enemies and basically guide history to be safe.'
+p1089
+aS"And that's a massive overdefinition of our safety."
+p1090
+aS'The United States is incredibly safe from natural geographic reasons because of our economy.'
+p1091
+aS"And most of what we're doing in the name of safety or defense is sort of a luxury that most states don't endeavor to do."
+p1092
+aS'And I think it gets us into trouble that we could avoid.'
+p1093
+aS'You know, a few difference of percentage points in the defense budget is not going to make a difference.'
+p1094
+aS"But if we really rethought our strategy, we could be a lot safer because we'd avoid conflicts that we get into."
+p1095
+asg18
+(dp1096
+S'18:13:33'
+p1097
+I4
+ssa(dp1098
+g8
+(lp1099
+S'All right.'
+p1100
+aS'Well get onto that in a bit.'
+p1101
+aS'I want to let Andrew Krepinevich respond.'
+p1102
+asg11
+S'JOHN DONVAN'
+p1103
+sg16
+(lp1104
+S'All right.'
+p1105
+aS'Well get onto that in a bit.'
+p1106
+aS'I want to let Andrew Krepinevich respond.'
+p1107
+asa(dp1108
+g8
+(lp1109
+S'Ben was kind enough to cite my Foreign Affairs article.'
+p1110
+aS"In the article, even absent thesequestration cuts, I said we're going to have to really trim our sails."
+p1111
+aS"We're not going tobe able to fight or deal with threats in two different regions, even though there arethree regions in the world we consider to be vital interests."
+p1112
+aS"We're not -- maybe -- I thinkthis is a good thing."
+p1113
+aS"We're not going to be able to threaten anybody with regimechange.I think we're going to struggle just to maintain access to critical regions where we havetrading partners and resource requirements."
+p1114
+aS"We haven't figured out a way to detercyber attacks."
+p1115
+aS'And the cyber threat is growing.'
+p1116
+aS"We haven't figured out a way to protectour assets in space."
+p1117
+aS'And I think the next big thing coming down the road is the underseainfrastructure which is huge.'
+p1118
+aS'And with the spread of robotics, increasingly accessibleeven to non-state groups who can threaten the enormous energy infrastructure that inmilitary parlance is comprised mostly of soft targets.'
+p1119
+asg11
+S'ANDREW KREPINEVICH'
+p1120
+sg13
+(dp1121
+I6
+S'18'
+p1122
+ssg16
+(lp1123
+S'Ben was kind enough to cite my Foreign Affairs article.'
+p1124
+aS"In the article, even absent the sequestration cuts, I said we're going to have to really trim our sails."
+p1125
+aS"We're not going to be able to fight or deal with threats in two different regions, even though there are three regions in the world we consider to be vital interests."
+p1126
+aS"We're not -- maybe -- I think this is a good thing."
+p1127
+aS"We're not going to be able to threaten anybody with regime change."
+p1128
+aS"I think we're going to struggle just to maintain access to critical regions where we have trading partners and resource requirements."
+p1129
+aS"We haven't figured out a way to deter cyber attacks."
+p1130
+aS'And the cyber threat is growing.'
+p1131
+aS"We haven't figured out a way to protect our assets in space."
+p1132
+aS'And I think the next big thing coming down the road is the undersea infrastructure which is huge.'
+p1133
+aS'And with the spread of robotics, increasingly accessible even to non-state groups who can threaten the enormous energy infrastructure that in military parlance is comprised mostly of soft targets.'
+p1134
+asg18
+(dp1135
+S'18:14:29'
+p1136
+I6
+ssa(dp1137
+g8
+(lp1138
+S'Let me bring that to Kori Schake.'
+p1139
+aS'The money argument, that just sounds like everythingthat was just outlined is important and will cost a lot.'
+p1140
+aS'Kori Schake.'
+p1141
+asg11
+S'JOHN DONVAN'
+p1142
+sg16
+(lp1143
+S'Let me bring that to Kori Schake.'
+p1144
+aS'The money argument, that just sounds like everything that was just outlined is important and will cost a lot.'
+p1145
+aS'Kori Schake.'
+p1146
+asa(dp1147
+g8
+(lp1148
+S'Well, you know dont have to do things in the future the way we have done them in thepast.'
+p1149
+aS'And I think one of the important advantages of the American military is actually itsadaptability, and its innovation.'
+p1150
+aS"Our biggest advantage isn't our spending; it's thecreativity and build a better mouse trap."
+p1151
+asg11
+S'KORI SCHAKE'
+p1152
+sg16
+(lp1153
+S'Well, you know dont have to do things in the future the way we have done them in the past.'
+p1154
+aS'And I think one of the important advantages of the American military is actually its adaptability, and its innovation.'
+p1155
+aS"Our biggest advantage isn't our spending; it's the creativity and build a better mouse trap."
+p1156
+asa(dp1157
+g8
+(lp1158
+S"But are you saying that -- is your point really that the U.S. military could do a lot morewith a lot less, a lot more?I think both sides agree, and I don't think there's much debate to Kori's point thatthere's waste, and there could be more efficiency."
+p1159
+aS'I think they agree with that.'
+p1160
+asg11
+S'JOHN DONVAN'
+p1161
+sg16
+(lp1162
+S'But are you saying that -- is your point really that the U.S. military could do a lot more with a lot less, a lot more?'
+p1163
+aS"I think both sides agree, and I don't think there's much debate to Kori's point that there's waste, and there could be more efficiency."
+p1164
+aS'I think they agree with that.'
+p1165
+asg18
+(dp1166
+S'18:15:32'
+p1167
+I2
+ssa(dp1168
+g8
+(lp1169
+S'We can do it differently.'
+p1170
+aS"We can drive innovation so that our enemies' advantages getmatched up better against."
+p1171
+aS"One of the challenges that we have in the current defensebudget is that the force structure doesn't match the strategy as both our colleaguesacross the aisle have --"
+p1172
+asg11
+S'KORI SCHAKE'
+p1173
+sg16
+(lp1174
+S'We can do it differently.'
+p1175
+aS"We can drive innovation so that our enemies' advantages get matched up better against."
+p1176
+aS"One of the challenges that we have in the current defense budget is that the force structure doesn't match the strategy as both our colleagues across the aisle have --"
+p1177
+asa(dp1178
+g8
+(lp1179
+S'Yeah.'
+p1180
+aS'We can make more choices.'
+p1181
+aS'I think at least one of our opponents would agreethat if we cut the ground forces a lot we could afford to do lots of things with the Navy,with a smaller budget than we have now.'
+p1182
+asg11
+S'BENJAMIN FRIEDMAN'
+p1183
+sg16
+(lp1184
+S'Yeah.'
+p1185
+aS'We can make more choices.'
+p1186
+aS'I think at least one of our opponents would agree that if we cut the ground forces a lot we could afford to do lots of things with the Navy, with a smaller budget than we have now.'
+p1187
+asa(dp1188
+g8
+(lp1189
+S'The problem --'
+p1190
+asg11
+S'ANDREW KREPINEVICH'
+p1191
+sg16
+(lp1192
+g1190
+asa(dp1193
+g8
+(lp1194
+S'Andrew Krepinevich, go ahead.'
+p1195
+asg11
+S'JOHN DONVAN'
+p1196
+sg13
+(dp1197
+I1
+S'19'
+p1198
+ssg16
+(lp1199
+g1195
+asa(dp1200
+g8
+(lp1201
+S"The problem is right now that, you know, efficiency is everybody's favorite solution, youknow."
 p1202
-aS'is shocking -- is not completely driven by conversations in Washington or small'
+aS'We have efficiencies, magic happens, and then all of a sudden we save all thismoney.'
 p1203
-aS'differences in our defense spending from year-to-year. What Iran does, in terms of'
+aS'Weve been going to that movie for about 50 years now, and the result isalways the same.'
 p1204
-aS'disrupting energy flows or funding Hezbollah, is not driven by small differences in U.S.'
+aS'We put the cart before the horse.'
 p1205
-aS"defense budget. They might have some minor preference but it really doesn't matter."
+aS"You know, let Congress and thepolitical leadership take on the responsibility, exercise the moral courage to make thesechanges before we saddle our soldiers, sailors, airmen and marines with the problem.I was talking to one -- in fact Secretary Panetta -- and if you dont already know, he'svery fond of colorful language."
 p1206
-aS"They're going to do what they're going to do for other reasons than a margin of"
+aS'And I raised the issue of efficiencies.'
 p1207
-aS"difference in our defense spending. If there's been any indication that the United States"
+aS'And he said,That\'s a bunch of bologna, although he didn\'t use the word "bologna.'
 p1208
-aS"is not as up for war as it was a while ago, it wasn't because we're spending a little less"
+aS'"'
 p1209
-aS"on the military, it's because we had bad wars that made the public less enthusiastic to"
+asg11
+S'ANDREW KREPINEVICH'
 p1210
-aS'go, which is a good thing. And maybe it cuts back on our credibility, but --'
-p1211
-aS"-- if you want lots of credibility to have wars, then don't have dumb ones all the time,"
+sg16
+(lp1211
+S"The problem is right now that, you know, efficiency is everybody's favorite solution, you know."
 p1212
-aS'you know?'
+aS'We have efficiencies, magic happens, and then all of a sudden we save all this money.'
 p1213
-aS'Save it for the -- save it for the -- for the good times. So --'
+aS'Weve been going to that movie for about 50 years now, and the result is always the same.'
 p1214
-aS"-- I'll leave it there."
+aS'We put the cart before the horse.'
 p1215
-asg16
-(dp1216
-I13
-S'18:30:33'
+aS'You know, let Congress and the political leadership take on the responsibility, exercise the moral courage to make these changes before we saddle our soldiers, sailors, airmen and marines with the problem.'
+p1216
+aS"I was talking to one -- in fact Secretary Panetta -- and if you dont already know, he's very fond of colorful language."
 p1217
-ssa(dp1218
-g8
-S'JOHN DONVAN'
+aS'And I raised the issue of efficiencies.'
+p1218
+aS'And he said, That\'s a bunch of bologna, although he didn\'t use the word "bologna.'
 p1219
-sg13
-(lp1220
-S'You guys want to pick up? Tom Donnelly.'
+ag1209
+asg18
+(dp1220
+S'18:16:35'
 p1221
-asa(dp1222
+I6
+ssa(dp1222
 g8
-S'ANDREW KREPINEVICH'
-p1223
-sg13
-(lp1224
-S'I would -- well, I would just say that --'
-p1225
-asa(dp1226
-g8
+(lp1223
+S"This is a radio show, so I'm glad you censored."
+p1224
+asg11
 S'JOHN DONVAN'
-p1227
-sg13
+p1225
+sg16
+(lp1226
+g1224
+asa(dp1227
+g8
 (lp1228
-S'Andrew Krepinevich.'
+S'And, you know, for those who say, Well, we spend more than others, well, as Imentioned earlier, we have a volunteer military.'
 p1229
-asa(dp1230
-g8
-S'ANDREW KREPINEVICH'
+aS"What kind of military do you thinkwe'd have if we paid our soldiers, airmen, sailors, and marines what the Pakistanis paytheirs or what the Russians pay theirs or what the Chinese pay theirs?"
+p1230
+aS'As Tom said, doyou want to wait until the enemy is at your shores and then start figuring out how todeal with the threat?'
 p1231
-sg13
-(lp1232
-S'-- take the Far East example. The purpose of trying to maintain a stable military balance'
-p1233
-aS'in the region and address the capabilities that the Chinese are building up -- the purpose'
+asg11
+S'ANDREW KREPINEVICH'
+p1232
+sg16
+(lp1233
+S'And, you know, for those who say, Well, we spend more than others, well, as I mentioned earlier, we have a volunteer military.'
 p1234
-aS'is to avoid war, not to fight war. You can get into a war because of the perception that'
+aS"What kind of military do you think we'd have if we paid our soldiers, airmen, sailors, and marines what the Pakistanis pay theirs or what the Russians pay theirs or what the Chinese pay theirs?"
 p1235
-aS"you're too weak to defend yourselves or that you're irresolute. And cutting a trillion"
+aS'As Tom said, do you want to wait until the enemy is at your shores and then start figuring out how to deal with the threat?'
 p1236
-aS'dollars additionally out of defense over the next decade certainly, I think, sends that'
-p1237
-aS'message as we withdraw from parts of the world.'
-p1238
-asa(dp1239
+asa(dp1237
 g8
+(lp1238
+S'All right, let me -- let me put that very question to the other side: Do you want to waituntil the enemies are at your shores and -- '
+p1239
+asg11
 S'JOHN DONVAN'
 p1240
-sg13
+sg16
 (lp1241
-S'Yeah. I just want to put to this. I mean, history -- 20th century has got some great'
+S'All right, let me -- let me put that very question to the other side: Do you want to wait until the enemies are at your shores and -- '
 p1242
-aS"examples of weakness being perceived as an opportunity for aggression. That's the"
-p1243
-aS"point the other side just made. Again, there's a logic to it, and there's a historical"
-p1244
-aS'precedent for it.'
+asa(dp1243
+g8
+(lp1244
+S'-- we have a lot of straw men coming out now.'
 p1245
-aS"It's not a ridiculous claim, so can you respond to that, Kori Schake?"
+aS"You know, fight him over here, fight him-- I'm saying, don't fight him."
 p1246
-asg16
-(dp1247
-I4
-S'18:31:30'
+aS"Let's have fewer wars.But, I mean, I think you guys both just signed a letter saying we should reformcompensation for personnel."
+p1247
+aS"So we're not going to pay them like Pakistan or Russia."
 p1248
-ssa(dp1249
-g8
-S'KORI SCHAKE'
+aS"We're going to pay them well."
+p1249
+aS"We're going to pay them what they would get in aregular market, I think, with those reforms."
 p1250
-sg13
-(lp1251
-S"It's a very strong claim. I agree with it. But it hinges on the belief that we are close to"
+aS"And I'm for that too."
+p1251
+aS"That's an efficiency."
 p1252
-aS'the margin at which another military believes they could defeat the United States'
+aS'So there are some -- a brack ; we do a lot of the same stuff withfewer bases.'
 p1253
-aS'militarily.'
+aS"That's an efficiency."
 p1254
-asa(dp1255
-g8
-S'JOHN DONVAN'
+aS"So there are -- I'm not a big efficiency guy."
+p1255
+aS'I basicallyagree with Panetta.'
 p1256
-sg10
-(dp1257
-I0
-S'28'
+aS"But that's why I said, why don't we cut the size of the army?"
+p1257
+aS'WhichI think you might agree with.'
 p1258
-ssg13
-(lp1259
-S"Well, the logic of what you're saying is that they only don't because we're so dominant."
+aS'You know, we -- not going to occupy a country.'
+p1259
+aS'We couldhave a smaller ground force.'
 p1260
-aS" So you're saying they won't -- they won't mess with us because we're so dominant,"
+aS"That's not an efficiency."
 p1261
-aS"therefore we don't have to be so dominant anymore."
+aS"That's a strategic choice."
 p1262
-asa(dp1263
-g8
-S'KORI SCHAKE'
+aS"That'swhat I'm talking about, more strategic choices."
+p1263
+asg11
+S'BENJAMIN FRIEDMAN'
 p1264
 sg13
-(lp1265
-S"Well, I'm saying it's a really wide margin. We're not close to the line at which --"
+(dp1265
+I10
+S'20'
 p1266
-asa(dp1267
-g8
-S'JOHN DONVAN'
+ssg16
+(lp1267
+S'-- we have a lot of straw men coming out now.'
 p1268
-sg13
-(lp1269
-S'Okay.'
+aS"You know, fight him over here, fight him -- I'm saying, don't fight him."
+p1269
+aS"Let's have fewer wars."
 p1270
-asa(dp1271
-g8
-S'KORI SCHAKE'
+aS'But, I mean, I think you guys both just signed a letter saying we should reform compensation for personnel.'
+p1271
+aS"So we're not going to pay them like Pakistan or Russia."
 p1272
-sg13
-(lp1273
-S'-- China thinks they can fight the American Navy --'
+aS"We're going to pay them well."
+p1273
+aS"We're going to pay them what they would get in a regular market, I think, with those reforms."
 p1274
-asa(dp1275
-g8
-S'JOHN DONVAN'
+aS"And I'm for that too."
+p1275
+aS"That's an efficiency."
 p1276
-sg13
-(lp1277
-S"So what you're saying is we can afford to be a lot less dominant, and we would still be"
+aS'So there are some -- a brack ; we do a lot of the same stuff with fewer bases.'
+p1277
+aS"That's an efficiency."
 p1278
-aS'pretty darn dominant.'
+aS"So there are -- I'm not a big efficiency guy."
 p1279
-asa(dp1280
-g8
-S'KORI SCHAKE'
+aS'I basically agree with Panetta.'
+p1280
+aS"But that's why I said, why don't we cut the size of the army?"
 p1281
-sg13
-(lp1282
-S'Yes, exactly.'
+aS'Which I think you might agree with.'
+p1282
+aS'You know, we -- not going to occupy a country.'
 p1283
-asa(dp1284
-g8
-S'JOHN DONVAN'
+aS'We could have a smaller ground force.'
+p1284
+aS"That's not an efficiency."
 p1285
-sg13
-(lp1286
-S'Okay.'
+aS"That's a strategic choice."
+p1286
+aS"That's what I'm talking about, more strategic choices."
 p1287
-asa(dp1288
-g20
-(dp1289
-I0
-S'[unintelligible]'
-p1290
-ssg8
-S'KORI SCHAKE'
-p1291
-sg13
-(lp1292
-sa(dp1293
+asg18
+(dp1288
+S'18:17:28'
+p1289
+I2
+ssa(dp1290
 g8
+(lp1291
+S'Tom Donnelly -- Tom Donnelly, is it accurate what Ben Friedman just said, that you alsowant to cut the size of the army?'
+p1292
+asg11
 S'JOHN DONVAN'
-p1294
-sg13
-(lp1295
-S'Let me take it to -- that point to the other side, that we have a lot of wiggle room is what'
-p1296
-aS'your opponents are saying. Tom Donnelly.'
-p1297
-asa(dp1298
+p1293
+sg16
+(lp1294
+S'Tom Donnelly -- Tom Donnelly, is it accurate what Ben Friedman just said, that you also want to cut the size of the army?'
+p1295
+asa(dp1296
 g8
+(lp1297
+S'No, I mean, I think Ben laid it out very well.'
+p1298
+asg11
 S'THOMAS DONNELLY'
 p1299
-sg13
+sg16
 (lp1300
-S'One of the things that technology has yet to solve is how to be in two places at once. As'
-p1301
-aS"advanced as our military and -- is -- pardon me -- you know, if it's not there, it's not"
-p1302
-aS'there. And what we see in the world now is the effect of us not being there.'
+g1298
+asa(dp1301
+g8
+(lp1302
+S'Okay.'
 p1303
-aS"China doesn't want to go to war with us. They probably want to go to war with us even"
+asg11
+S'JOHN DONVAN'
 p1304
-aS'less than we could ever possibly want to go to war with them. They want the benefits'
-p1305
-aS'of nibbling away, pushing the limits. They want to intimidate the Filipinos and the'
-p1306
-aS"Taiwanese. They don't want to mess with us. But if we're not there, there are going to"
-p1307
-aS'be consequences. And you see it every day.'
+sg16
+(lp1305
+g1303
+asa(dp1306
+g8
+(lp1307
+S'Its not an efficiency, it is a choice, a choice to have less power and to withdraw.'
 p1308
-asg16
-(dp1309
-I3
-S'18:32:31'
-p1310
-ssa(dp1311
-g8
-S'JOHN DONVAN'
-p1312
-sg10
-(dp1313
-I0
-S'29'
-p1314
-ssg13
-(lp1315
-S"All right. I'm going to go shortly to the audience for questions. And how that will work"
-p1316
-aS"is just raise your hand, and I'll call on you, and a mic will be brought to you. And if you"
-p1317
-aS'can just stand up, state your name --'
-p1318
-asa(dp1319
-g20
-(dp1320
-I0
-S'[unintelligible]'
-p1321
-ssg8
-S'BENJAMIN FRIEDMAN'
-p1322
-sg13
-(lp1323
-sa(dp1324
-g20
-(dp1325
-I3
-S'[laughter]'
-p1326
-ssg8
-S'JOHN DONVAN'
-p1327
-sg13
-(lp1328
-S"I will. I'm going to come back to it. This is all prelude. And a mic -- we're going to try it"
-p1329
-aS'a little bit more here. I just want to get you to get ready and get your questions really'
-p1330
-aS'perfect, really perfect.'
-p1331
-aS'And just stand up, tell us your name and ask the question. And the last thing I want to'
-p1332
-aS'just say is to keep the microphone as close to your mouth as this is to mine. Go ahead,'
-p1333
-aS'Ben Friedman.'
-p1334
-asg16
-(dp1335
-I6
-S'18:33:30'
-p1336
-ssa(dp1337
-g8
-S'BENJAMIN FRIEDMAN'
-p1338
-sg13
-(lp1339
-S'Weakness can be provocative, but, you know, a lot of us kept going to history class the'
-p1340
-aS'day after we talked about Munich and World War II. And strength can also be'
-p1341
-aS'provocative. States balance power. States design, build military capability in response'
-p1342
-aS"not necessarily to weakness but to being threatened by other states. States' decisions"
-p1343
-aS'to build nukes and to build armies are often driven by threats, including the ones that'
-p1344
-aS"the United States poses to their borders. So it's not so simple that our weakness"
-p1345
-aS'encourages buildups. And I really think we ought to talk more carefully about what'
-p1346
-aS"scenario would take place absent a larger U.S. commitment to Asia that's so nefarious. I"
-p1347
-aS'think, yeah, the Philippines and Taiwan and Japan might spend a little more on defense'
-p1348
-aS"and create a stronger alliance among them. But that's not a bad thing necessarily. We"
-p1349
-aS'can -- we can live with other states having geopolitical responsibilities.'
-p1350
-asa(dp1351
-g8
-S'JOHN DONVAN'
-p1352
-sg13
-(lp1353
-S"Let's have -- let this side respond to that and I'll come to questions. Andrew"
-p1354
-aS'Krepinevich.'
-p1355
-asa(dp1356
-g8
-S'ANDREW KREPINEVICH'
-p1357
-sg10
-(dp1358
-I3
-S'30'
-p1359
-ssg13
-(lp1360
-S"Those of you who recall the Melian Dialogue, and I'm not quite old enough to recall"
-p1361
-aS'that, but the famous phrase is, The strong do what they can; the weak do what they'
-p1362
-aS'must."'
-p1363
-aS"If you're weak, others will decide your fate. If you're strong, at least you have the"
-p1364
-aS'option of being smart or stupid. And hopefully we elect people who are the former and'
-p1365
-aS'not the latter.'
-p1366
-asg16
-(dp1367
-I3
-S'18:34:32'
-p1368
-ssa(dp1369
-g8
-S'BENJAMIN FRIEDMAN'
-p1370
-sg13
-(lp1371
-S" being Melians right now. We're the Athenians in the dialogue."
-p1372
-asa(dp1373
-g8
-S'ANDREW KREPINEVICH'
-p1374
-sg13
-(lp1375
-S"I'm sorry?"
-p1376
-asa(dp1377
-g8
-S'BENJAMIN FRIEDMAN'
-p1378
-sg13
-(lp1379
-S"We're the Athenians in the dialogue. We not going to be the weak, right? We're -- we'll"
-p1380
-aS'be --'
-p1381
-asa(dp1382
-g8
-S'ANDREW KREPINEVICH'
-p1383
-sg13
-(lp1384
-S'Again, getting back to the point we were discussing a little bit earlier -- and Kori kind of'
-p1385
-aS"set this up. Chinese are good strategists. Yeah, we have the world's best Air Force. But"
-p1386
-aS'our aircraft in the Far East are concentrated at two bases. What are the Chinese doing?'
-p1387
-aS" They're building lots of ballistic missiles to target those bases. We have the world's best"
-p1388
-aS'carriers, as Kori mentioned, and a lot of them. The Chinese are developing missiles to'
-p1389
-aS"target those carriers and they're building submarines to go after those carriers. So do"
-p1390
-aS'we cut the -- you know, do we need a big army for China, to maintain stability in that'
-p1391
-aS'region? Hardly.'
-p1392
-aS'But we are going to figure out -- or going to need to figure out a way to maintain'
-p1393
-aS"stability in that region. Otherwise, I don't think the Filipinos are going to say, You"
-p1394
-aS"know, the Americans are gone. Let's take on the Chinese. Now, the Japanese may say,"
-p1395
-aS"The Americans are gone, we need nuclear weapons. And let's see what that does to"
-p1396
-aS'the neighborhood.'
-p1397
-asg16
-(dp1398
-I8
-S'18:35:34'
-p1399
-ssa(dp1400
-g8
-S'JOHN DONVAN'
-p1401
-sg13
-(lp1402
-S"Let's take some questions. Sir, right down in the front, right in the middle. Yep. Sir."
-p1403
-aS" You gave me the nod, and I gave it back to you, and you're standing up. You have to"
-p1404
-aS"know how to do the nod. It's sort of one of these."
-p1405
-asa(dp1406
-g8
-S'JOHN SAX'
-p1407
-sg10
-(dp1408
-I6
-S'31'
-p1409
-ssg13
-(lp1410
-S'Hi. My name is Josh Sax . My question is for the affirmative side.'
-p1411
-aS" There's clearly waste in the defense budget I think you would agree on. There's stuff in"
-p1412
-aS"there that is really more of a jobs program than weapons, stuff the army doesn't even"
-p1413
-aS'want like additional Abrams tanks. Would you think that if we were to reduce spending'
-p1414
-aS'on those things that it would be better to reallocate that spending to additional military'
-p1415
-aS'priorities?'
-p1416
-aS'Or would it be better in our long-term interest to take those reductions and put it'
-p1417
-aS'towards reducing the national debt?'
-p1418
-asg16
-(dp1419
-I6
-S'18:36:37'
-p1420
-ssa(dp1421
-g8
-S'JOHN DONVAN'
-p1422
-sg13
-(lp1423
-S'Great question. Tom Donnelly.'
-p1424
-asa(dp1425
-g8
+asg11
 S'THOMAS DONNELLY'
-p1426
-sg13
-(lp1427
-S'Yeah. One thing, look, we need to get sort of the best bang for the buck that we can'
-p1428
-aS"under any circumstances, whether we're spending more or spending less. On the other"
-p1429
-aS'hand, compared to other forms of government, I would offer the Pentagon is actually,'
-p1430
-aS'again, a good value proposition. If the public education system educated my kids as well'
-p1431
-aS"as the military does its job, both my kids would have gone to Harvard, and they didn't."
-p1432
-aS' You know, if my doctor kept me as healthy as the military kept the world, I would live'
-p1433
-aS'forever. So as a government function for all the waste, fraud, and abuse that there may'
-p1434
-aS"be in the department -- and I wish it were zero -- it's relatively less."
-p1435
-aS"And the dollar amount is really trivial when we're talking about the size of the federal"
-p1436
-aS'debt or the deficit. Look, we spend as much per year almost -- and if interest rates'
-p1437
-aS'actually go up to a market rate, more on servicing our current debt than we do on'
-p1438
-aS"military power. So in the relative size of things, we're not talking about a lot of money."
-p1439
-aS" You know, trillions and trillions, and pretty soon you're talking about real money. But"
-p1440
-aS'compared to the rest of the economy or what the government spends, this is peanuts.'
-p1441
-asg16
-(dp1442
-I8
-S'18:37:34'
-p1443
-ssa(dp1444
-g8
-S'JOHN DONVAN'
-p1445
-sg13
-(lp1446
-S"Right down in the front here. And it's coming down the front aisle. I'm -- I have a bad"
-p1447
-aS"habit of sort of favoring people who are closer to me. It's totally unjustified. So if you're"
-p1448
-aS"in the back, be a little bit more aggressive to get my attention. Ma'am."
-p1449
-asa(dp1450
-g8
-S'ANNABELLE FISHER'
-p1451
-sg13
-(lp1452
-S'Excuse me. Thank you. My name is Annabelle Fisher. First I want to say all of us'
-p1453
-aS'support our military.'
-p1454
-aS"I don't think there's anyone here who does not support our men and women who are"
-p1455
-aS'protecting us. And I have worked for the military. This is a question for both sides.'
-p1456
-aS' Sunday, June 2nd in The Washington Post, costs and benefits for the military. And it'
-p1457
-aS'talks about 149 billion that will be spent by the military; pensions, salaries, military'
-p1458
-aS"making more than -- well, I've never made --"
-p1459
-asg16
-(dp1460
-I2
-S'18:38:28'
-p1461
-ssa(dp1462
-g8
-S'JOHN DONVAN'
-p1463
-sg10
-(dp1464
-I1
-S'32'
-p1465
-ssg13
-(lp1466
-S"So, ma'am, what is your question?"
-p1467
-asa(dp1468
-g8
-S'ANNABELLE FISHER'
-p1469
-sg13
-(lp1470
-S'So my question that -- both sides, if we can reduce some spending in the military, and'
-p1471
-aS"you're looking -- you talked about reduction in HR, in costs, pensions, healthcare, yes,"
-p1472
-aS'tri-care folks need to pay a little more money, is this appropriate? Will this impact our'
-p1473
-aS'military? And do we have a better -- does China have a better strategy than our'
-p1474
-aS'military? I think we have a pretty good strategy.'
-p1475
-asa(dp1476
-g8
-S'JOHN DONVAN'
-p1477
-sg13
-(lp1478
-S"Okay, ma'am, I -- I'm not sure what the -- you went through a lot of subordinate clauses,"
-p1479
-aS'and I lost the question.'
-p1480
-asg16
-(dp1481
-I2
-S'18:39:29'
-p1482
-ssa(dp1483
-g8
-S'ANNABELLE FISHER'
-p1484
-sg13
-(lp1485
-S"I'm really focusing really on this article in the Post that talked about ways --"
-p1486
-asa(dp1487
-g8
-S'JOHN DONVAN'
-p1488
-sg13
-(lp1489
-S"Okay, I'm going to --"
-p1490
-asa(dp1491
-g8
-S'ANNABELLE FISHER'
-p1492
-sg13
-(lp1493
-S'-- save money.'
-p1494
-asa(dp1495
-g8
-S'JOHN DONVAN'
-p1496
-sg13
-(lp1497
-S"I'm going to refer folks to the article and thanks very much. Sir in the back."
-p1498
-asa(dp1499
-g8
-S'MALE SPEAKER'
-p1500
-sg13
-(lp1501
-S'I think we agree that --'
-p1502
-asa(dp1503
-g8
-S'JOHN DONVAN'
-p1504
-sg13
-(lp1505
-S"Yeah, I think everybody does agree on that. We've covered it. Sir, right -- I'm pointing"
-p1506
-aS"right to the very center. You're -- yeah, yeah. If you stand up. Thanks. Okay."
-p1507
-asa(dp1508
-g8
-S'BERNIE WILLIAM'
-p1509
-sg10
-(dp1510
-I9
-S'33'
-p1511
-ssg13
-(lp1512
-S"Hi. My name is Bernie William. I'm a grad student at Seton Hill University, studying"
-p1513
-aS'diplomacy. My question is, first, to start off, the Carter Center for Peace has said that'
-p1514
-aS"since World War II, of the 50 major armed conflicts that have gone on, they've all been"
-p1515
-aS"about religion or ethnic conflict. And they've all been pretty much within borders. So --"
-p1516
-aS'and the actual occurrence of violence has gone down, and the number of people being'
-p1517
-aS'killed has gone down. So is the threat to the United States that much -- increasing so'
-p1518
-aS"much when we're using our military to go into these countries, essentially almost as our"
-p1519
-aS'diplomats, and saying, This is our brand of Americanism, and you have to -- and you'
-p1520
-aS'have to accept it?'
-p1521
-aS'Can the military be changed to be more of our diplomatic arm, or could that money be'
-p1522
-aS'better spent to diplomats, commerce, and improving trade?'
-p1523
-asg16
-(dp1524
-I9
-S'18:40:37'
-p1525
-ssa(dp1526
-g8
-S'JOHN DONVAN'
-p1527
-sg13
-(lp1528
-S"I'm trying to think if that actually addresses the issue of whether reductions in the"
-p1529
-aS"military threatens our security. And I don't think it quite gets there. Do you want to"
-p1530
-aS"take another run at it? Because I think you're close to it."
-p1531
-asa(dp1532
-g8
-S'KORI SCHAKE'
-p1533
-sg13
-(lp1534
-S'I can give an answer.'
-p1535
-asa(dp1536
-g20
-(dp1537
+p1309
+sg16
+(lp1310
+g1308
+asa(dp1311
+g22
+(dp1312
 I1
 S'[laughter]'
-p1538
+p1313
 ssg8
+(lp1314
+S'All right.'
+p1315
+aS'Landed that very well.'
+p1316
+aS'[[laughter]] Is it an issue of having less power?'
+p1317
+aS'Is it okay to be less powerful?'
+p1318
+aS'Kori Schake.'
+p1319
+asg11
 S'JOHN DONVAN'
-p1539
-sg13
-(lp1540
-S"I know you're all set for it, but I want the ."
-p1541
-aS'People are going to be listening on the radio and not understand that.'
-p1542
-asa(dp1543
+p1320
+sg16
+(lp1321
+S'All right.'
+p1322
+aS'Landed that very well.'
+p1323
+aS'Is it an issue of having less power?'
+p1324
+aS'Is it okay to be less powerful?'
+p1325
+aS'Kori Schake.'
+p1326
+asg18
+(dp1327
+S'18:18:29'
+p1328
+I3
+ssa(dp1329
 g8
-S'BERNIE WILLIAM'
-p1544
-sg13
-(lp1545
-S"I guess what I'm saying is that it seems that our military is creating more enemies by"
-p1546
-aS'being out there and doing stuff -- and doing what it does. And it -- and should the -- and'
-p1547
-aS"it seems like I'm following the against side in saying that the military needs to reshape"
-p1548
-aS"its force so that it's doing more diplomatic efforts, navy admirals going --"
-p1549
-asg16
-(dp1550
-I4
-S'18:41:33'
-p1551
-ssa(dp1552
+(lp1330
+S"I'm not in favor of that, as a matter of fact."
+p1331
+aS'I agree with Tom on that.'
+p1332
+aS'But it seems tome that maintaining American power in the international order is more affordable thanour colleagues across the aisle suggest it is.'
+p1333
+aS'And let me just give you one example --'
+p1334
+asg11
+S'KORI SCHAKE'
+p1335
+sg16
+(lp1336
+S"I'm not in favor of that, as a matter of fact."
+p1337
+aS'I agree with Tom on that.'
+p1338
+aS'But it seems to me that maintaining American power in the international order is more affordable than our colleagues across the aisle suggest it is.'
+p1339
+aS'And let me just give you one example --'
+p1340
+asa(dp1341
 g8
+(lp1342
+S"Isn't it more a matter of style?"
+p1343
+aS'I believe your opponents are talking about not reallywanting to do away with a lot of carrier groups.'
+p1344
+aS'Am I right about that?'
+p1345
+aS'You want theaircraft carriers there.'
+p1346
+aS'You want them deployed around the world.'
+p1347
+aS"You want them nearother people's shores."
+p1348
+aS'You want troops stationed in NATO ally countries and in SouthKorea.'
+p1349
+aS'Am I right about --'
+p1350
+asg11
 S'JOHN DONVAN'
-p1553
-sg13
-(lp1554
-S'But what about -- what if that costs a lot of money? Your premise is that it would --'
-p1555
-asa(dp1556
+p1351
+sg16
+(lp1352
+S"Isn't it more a matter of style?"
+p1353
+aS'I believe your opponents are talking about not really wanting to do away with a lot of carrier groups.'
+p1354
+aS'Am I right about that?'
+p1355
+aS'You want the aircraft carriers there.'
+p1356
+aS'You want them deployed around the world.'
+p1357
+aS"You want them near other people's shores."
+p1358
+aS'You want troops stationed in NATO ally countries and in South Korea.'
+p1359
+aS'Am I right about --'
+p1360
+asa(dp1361
 g8
-S'BERNIE WILLIAM'
-p1557
+(lp1362
+S"I think Kori, I think, hit on a good point, which is we're going to need not to do more ofthe same."
+p1363
+aS"We're going to need to begin to think about things differently."
+p1364
+aS'As RobertRosenkranz mentioned, the problem set is becoming quite a bit different thanAfghanistan and Iraq.'
+p1365
+aS"The problem is, as I mentioned before, that when you've got ashrinking budget and exploding personnel costs, what gets squeezed out are scienceand technology, research and development of new capabilities, training and exercise totest out these capabilities to find out what works and what doesn't.And so you're stuck making a big bet, and you hope it'll work, but you really don't havethe chance to test it out."
+p1366
+asg11
+S'ANDREW KREPINEVICH'
+p1367
 sg13
-(lp1558
-S"I'm saying -- well no, I'm agreeing that the ground forces be reduced and then we -- and"
-p1559
-aS'but is it better to --'
-p1560
-asa(dp1561
-g8
+(dp1368
+I3
+S'21'
+p1369
+ssg16
+(lp1370
+S"I think Kori, I think, hit on a good point, which is we're going to need not to do more of the same."
+p1371
+aS"We're going to need to begin to think about things differently."
+p1372
+aS'As Robert Rosenkranz mentioned, the problem set is becoming quite a bit different than Afghanistan and Iraq.'
+p1373
+aS"The problem is, as I mentioned before, that when you've got a shrinking budget and exploding personnel costs, what gets squeezed out are science and technology, research and development of new capabilities, training and exercise to test out these capabilities to find out what works and what doesn't."
+p1374
+aS"And so you're stuck making a big bet, and you hope it'll work, but you really don't have the chance to test it out."
+p1375
+asg18
+(dp1376
+S'18:19:37'
+p1377
+I7
+ssa(dp1378
+g22
+(dp1379
+I2
+S'[laughter]'
+p1380
+ssg8
+(lp1381
+S'Okay.'
+p1382
+aS'Andrew, let me give the floor back to Kori because I took it away from her, andthen you took it away from me.'
+p1383
+aS'So --Well done.'
+p1384
+aS"But it's not going to happen again."
+p1385
+aS'[[laughter]] '
+p1386
+asg11
 S'JOHN DONVAN'
-p1562
-sg13
-(lp1563
-S'Okay, can I phrase your question this way? Does the military have less expensive ways,'
-p1564
-aS'without using military force, to actually keep the nation safer?'
-p1565
-asa(dp1566
-g20
-(dp1567
+p1387
+sg16
+(lp1388
+S'Okay.'
+p1389
+aS'Andrew, let me give the floor back to Kori because I took it away from her, and then you took it away from me.'
+p1390
+aS'So -- Well done.'
+p1391
+aS"But it's not going to happen again."
+p1392
+asa(dp1393
+g8
+(lp1394
+S'I basically agree with what Andy just said.'
+p1395
+aS'But the point is that, for example, take thearmy, right?'
+p1396
+aS"You don't have to make one big bet by cutting the size of the army."
+p1397
+aS'Thesize of the army in the 1990s, before September 11th, was 490,000 soldiers.'
+p1398
+aS'That waswhen you still had the planning construct that said we had to be able to fight two nearlysimultaneous wars.'
+p1399
+aS'It was before you had the revolution in communications andprecision and battlefield awareness that has made American forces so much moreeffective than they were.'
+p1400
+aS'It was before the defense guidance, which secretary Panetta brought into being in thePentagon that said that we are not going to size our force to fight a large, sustained landwar anymore.'
+p1401
+aS'And yet, the size the army says it needs is 490,000, the exact same as in1990.'
+p1402
+aS'The threats are different, the requirements are different.'
+p1403
+aS'We need to find newways to do stuff.'
+p1404
+aS"The answer shouldn't be the exact same as it was in the 1990s."
+p1405
+asg11
+S'KORI SCHAKE'
+p1406
+sg16
+(lp1407
+S'I basically agree with what Andy just said.'
+p1408
+aS'But the point is that, for example, take the army, right?'
+p1409
+aS"You don't have to make one big bet by cutting the size of the army."
+p1410
+aS'The size of the army in the 1990s, before September 11th, was 490,000 soldiers.'
+p1411
+aS'That was when you still had the planning construct that said we had to be able to fight two nearly simultaneous wars.'
+p1412
+aS'It was before you had the revolution in communications and precision and battlefield awareness that has made American forces so much more effective than they were.'
+p1413
+aS'It was before the defense guidance, which secretary Panetta brought into being in the Pentagon that said that we are not going to size our force to fight a large, sustained land war anymore.'
+p1414
+aS'And yet, the size the army says it needs is 490,000, the exact same as in 1990.'
+p1415
+aS'The threats are different, the requirements are different.'
+p1416
+aS'We need to find new ways to do stuff.'
+p1417
+aS"The answer shouldn't be the exact same as it was in the 1990s."
+p1418
+asg18
+(dp1419
+S'18:20:30'
+p1420
+I7
+ssa(dp1421
+g22
+(dp1422
 I1
 S'[applause]'
-p1568
+p1423
 ssg8
-S'BERNIE WILLIAM'
-p1569
-sg10
-(dp1570
-I1
-S'34'
-p1571
-ssg13
-(lp1572
-S'Yes.'
-p1573
-asa(dp1574
-g20
-(dp1575
-I1
-S'[laughter]'
-p1576
-ssg8
+(lp1424
+S'Tom Donnelly and then Ben Friedman.'
+p1425
+aS'Tom Donnelly.'
+p1426
+asg11
 S'JOHN DONVAN'
-p1577
+p1427
+sg16
+(lp1428
+S'Tom Donnelly and then Ben Friedman.'
+p1429
+aS'Tom Donnelly.'
+p1430
+asa(dp1431
+g8
+(lp1432
+S'Well this is extraordinary reminiscent -- I mean, this is the kind of talk you heard out ofDonald Rumsfeld before 9/11.'
+p1433
+aS'490,000 was too small.'
+p1434
+aS"We proved that by being unableto do Iraq and Afghanistan properly at the same time, so I don't think that was a goodexperience."
+p1435
+aS"And I don't want to expect that the world is going to be technologicallytransformed and that the art of war is going to be fundamentally different than it's everbeen in human history.That seemed like a bit of a long shot to me, too."
+p1436
+aS'So numbers matter, and we have justproved that in spades over the last decade.'
+p1437
+asg11
+S'THOMAS DONNELLY'
+p1438
 sg13
+(dp1439
+I4
+S'22'
+p1440
+ssg16
+(lp1441
+S'Well this is extraordinary reminiscent -- I mean, this is the kind of talk you heard out of Donald Rumsfeld before 9/11.'
+p1442
+aS'490,000 was too small.'
+p1443
+aS"We proved that by being unable to do Iraq and Afghanistan properly at the same time, so I don't think that was a good experience."
+p1444
+aS"And I don't want to expect that the world is going to be technologically transformed and that the art of war is going to be fundamentally different than it's ever been in human history."
+p1445
+aS'That seemed like a bit of a long shot to me, too.'
+p1446
+aS'So numbers matter, and we have just proved that in spades over the last decade.'
+p1447
+asg18
+(dp1448
+S'18:21:32'
+p1449
+I6
+ssa(dp1450
+g8
+(lp1451
+S'Meaning what?'
+p1452
+aS"You need a lot of boots on the ground, is that what you're saying?"
+p1453
+asg11
+S'JOHN DONVAN'
+p1454
+sg16
+(lp1455
+S'Meaning what?'
+p1456
+aS"You need a lot of boots on the ground, is that what you're saying?"
+p1457
+asa(dp1458
+g8
+(lp1459
+S'There are some things that you cannot do with technology.'
+p1460
+aS"And we have actually, youknow, fought irregular wars and counterinsurgencies in the most technologicallysophisticated way ever, but I don't think the result was satisfactory."
+p1461
+asg11
+S'THOMAS DONNELLY'
+p1462
+sg16
+(lp1463
+S'There are some things that you cannot do with technology.'
+p1464
+aS"And we have actually, you know, fought irregular wars and counterinsurgencies in the most technologically sophisticated way ever, but I don't think the result was satisfactory."
+p1465
+asa(dp1466
+g8
+(lp1467
+S'Ben Friedman.'
+p1468
+asg11
+S'JOHN DONVAN'
+p1469
+sg16
+(lp1470
+g1468
+asa(dp1471
+g8
+(lp1472
+S"Again, I hear arguments being made for me that I don't make."
+p1473
+aS'I am not signing up forthe Don Rumsfeld vision of anything in my argument.'
+p1474
+aS'You know, occasionally we mightagree on something, but my argument is not his.'
+p1475
+aS"He liked war a lot more than I do, andthe -- we're hearing a lot of assumptions about the changes that will be made if we -- orwhat will happen if we cut the defense budget -- personnel will get squeezed and we'llcut the O&M budget, so we'll have a hollow force.If we did that, it would be a mistake."
+p1476
+aS"The -- so we don't endorse things that will lead toa hollow force."
+p1477
+aS"The military of the '70s I'll grant was a bit of a hollow force."
+p1478
+aS"Thepersonnel situation was bad, but that's because we didn't pay them enough."
+p1479
+aS'We --compensation is much better now by a mile.'
+p1480
+aS'And we are making choices now to avoidcutting the O&M budget at the expense of procurement, so we can avoid that.'
+p1481
+aS'And ourargument doesnt entail doing all the bad things you say it does.'
+p1482
+aS'And finally, I think,since you asked, power -- power is our capacity to generate force.'
+p1483
+aS"It's potential."
+p1484
+aS"It's notstanding military forces."
+p1485
+aS'There are powerful nations that have quite small militaries.'
+p1486
+aS'The difference is they could -- with weak nations is they could change that if theywanted to.'
+p1487
+aS'So our long term economic health, of course, is essential to our power.'
+p1488
+asg11
+S'BENJAMIN FRIEDMAN'
+p1489
+sg16
+(lp1490
+S"Again, I hear arguments being made for me that I don't make."
+p1491
+aS'I am not signing up for the Don Rumsfeld vision of anything in my argument.'
+p1492
+aS'You know, occasionally we might agree on something, but my argument is not his.'
+p1493
+aS"He liked war a lot more than I do, and the -- we're hearing a lot of assumptions about the changes that will be made if we -- or what will happen if we cut the defense budget -- personnel will get squeezed and we'll cut the O&M budget, so we'll have a hollow force."
+p1494
+aS'If we did that, it would be a mistake.'
+p1495
+aS"The -- so we don't endorse things that will lead to a hollow force."
+p1496
+aS"The military of the '70s I'll grant was a bit of a hollow force."
+p1497
+aS"The personnel situation was bad, but that's because we didn't pay them enough."
+p1498
+aS'We -- compensation is much better now by a mile.'
+p1499
+aS'And we are making choices now to avoid cutting the O&M budget at the expense of procurement, so we can avoid that.'
+p1500
+aS'And our argument doesnt entail doing all the bad things you say it does.'
+p1501
+aS'And finally, I think, since you asked, power -- power is our capacity to generate force.'
+p1502
+aS"It's potential."
+p1503
+aS"It's not standing military forces."
+p1504
+aS'There are powerful nations that have quite small militaries.'
+p1505
+aS'The difference is they could -- with weak nations is they could change that if they wanted to.'
+p1506
+aS'So our long term economic health, of course, is essential to our power.'
+p1507
+asg18
+(dp1508
+S'18:22:30'
+p1509
+I6
+ssa(dp1510
+g8
+(lp1511
+S'I -- question for this side, unless you want to respond, because I wanted to move it alongso we if you want to respond because -- '
+p1512
+asg11
+S'JOHN DONVAN'
+p1513
+sg13
+(dp1514
+I3
+S'23'
+p1515
+ssg16
+(lp1516
+S'I -- question for this side, unless you want to respond, because I wanted to move it along so we if you want to respond because -- '
+p1517
+asa(dp1518
+g8
+(lp1519
+S"I'm just saying that we are only at the dawn of sequestration, and all you have to do isread the papers.The Air Force is cutting back on training, the Army's cutting back on training, the AirForce can't replace its aging aircraft in part because we screwed up over the last decadeor so in terms of the procurement approach."
+p1520
+aS"But, again, that's poor excuse forcompromising our security and punishing our service members."
+p1521
+aS'So yeah, were mistakesmade?'
+p1522
+aS'Certainly they were.'
+p1523
+aS"You know, does that mean we give up on our securitybecause we didn't get it right or is that -- do we ignore what's going on now?"
+p1524
+asg11
+S'ANDREW KREPINEVICH'
+p1525
+sg16
+(lp1526
+S"I'm just saying that we are only at the dawn of sequestration, and all you have to do is read the papers."
+p1527
+aS"The Air Force is cutting back on training, the Army's cutting back on training, the Air Force can't replace its aging aircraft in part because we screwed up over the last decade or so in terms of the procurement approach."
+p1528
+aS"But, again, that's poor excuse for compromising our security and punishing our service members."
+p1529
+aS'So yeah, were mistakes made?'
+p1530
+aS'Certainly they were.'
+p1531
+aS"You know, does that mean we give up on our security because we didn't get it right or is that -- do we ignore what's going on now?"
+p1532
+asg18
+(dp1533
+S'18:23:32'
+p1534
+I2
+ssa(dp1535
+g8
+(lp1536
+S'All right, do you want to respond, Ben?'
+p1537
+asg11
+S'JOHN DONVAN'
+p1538
+sg16
+(lp1539
+g1537
+asa(dp1540
+g8
+(lp1541
+S'Well, I was going to say the sequestration -- we have one kind of sequestration in fiscalyear 2013 which said no matter what happens with the budget we cut across the board,we cut everything equally.'
+p1542
+aS"And that wasn't quite as severe as the services made it outto be, but it was dumb, and I'm against it."
+p1543
+aS"We're against it."
+p1544
+aS'But going forward, what wehave is budget caps, and if they get under the cap they can do whatever they want.'
+p1545
+aS"Sowe don't have to do all those foolish things with cutting back on training in '14, '15, '16,'17."
+p1546
+aS"As long as they get under the cap, they can make choices.So sequestration in '13 was dumb, going forward as long as they get under the cap, it'sokay."
+p1547
+asg11
+S'BENJAMIN FRIEDMAN'
+p1548
+sg16
+(lp1549
+S'Well, I was going to say the sequestration -- we have one kind of sequestration in fiscal year 2013 which said no matter what happens with the budget we cut across the board, we cut everything equally.'
+p1550
+aS"And that wasn't quite as severe as the services made it out to be, but it was dumb, and I'm against it."
+p1551
+aS"We're against it."
+p1552
+aS'But going forward, what we have is budget caps, and if they get under the cap they can do whatever they want.'
+p1553
+aS"So we don't have to do all those foolish things with cutting back on training in '14, '15, '16, '17."
+p1554
+aS'As long as they get under the cap, they can make choices.'
+p1555
+aS"So sequestration in '13 was dumb, going forward as long as they get under the cap, it's okay."
+p1556
+asg18
+(dp1557
+S'18:24:29'
+p1558
+I7
+ssa(dp1559
+g8
+(lp1560
+S'But then we still have the personnel problem.'
+p1561
+aS'And part of the Budget Control Act, thepresident was given the option of exempting personnel costs and personnel cuts, and soagain you have that situation where you have this personnel budget that is crowding outeverything else.'
+p1562
+asg11
+S'ANDREW KREPINEVICH'
+p1563
+sg16
+(lp1564
+S'But then we still have the personnel problem.'
+p1565
+aS'And part of the Budget Control Act, the president was given the option of exempting personnel costs and personnel cuts, and so again you have that situation where you have this personnel budget that is crowding out everything else.'
+p1566
+asa(dp1567
+g8
+(lp1568
+S'But benefits are being cut.'
+p1569
+asg11
+S'JOHN DONVAN'
+p1570
+sg16
+(lp1571
+g1569
+asa(dp1572
+g8
+(lp1573
+S"I'm sorry?"
+p1574
+asg11
+S'ANDREW KREPINEVICH'
+p1575
+sg16
+(lp1576
+g1574
+asa(dp1577
+g8
 (lp1578
-S"Now can you say that? I'm --"
+S'Benefits are being cut?'
 p1579
-aS'Kori Schake.'
+asg11
+S'JOHN DONVAN'
 p1580
-asa(dp1581
+sg16
+(lp1581
+g1579
+asa(dp1582
 g8
-S'MALE SPEAKER'
-p1582
-sg13
 (lp1583
-S'Give that man a microphone.'
+S'Benefits -- you know, the proposal right now is to scale back on some of the healthcarebenefits and so on, but the -- what the president can do is exempt -- what the -- as Benwas saying, what you have is what the Pentagon calls a "haircut," everything get\'s cut.'
 p1584
-asa(dp1585
-g8
-S'KORI SCHAKE'
+aS'And I think one thing we all agree on is this is a foolish way to run things.'
+p1585
+asg11
+S'ANDREW KREPINEVICH'
 p1586
 sg13
-(lp1587
-S'One of the things that has happened in the last -- with the wars of the last 12 years, is'
+(dp1587
+I0
+S'24'
 p1588
-aS'that things that have traditionally been diplomatic and development functions have'
-p1589
-aS"migrated into military space. And that's because we don't train our diplomats and our"
+ssg16
+(lp1589
+S'Benefits -- you know, the proposal right now is to scale back on some of the healthcare benefits and so on, but the -- what the president can do is exempt -- what the -- as Ben was saying, what you have is what the Pentagon calls a "haircut," everything get\'s cut.'
 p1590
-aS'development people to the same level of professional expertise that we train our'
+aS'And I think one thing we all agree on is this is a foolish way to run things.'
 p1591
-aS"military, and we need to do that. That's actually a better place to spend our money. It"
-p1592
-aS'matters to see diplomats doing diplomatic work, and we could spend our money that'
-p1593
-aS'way, we just choose not to.'
+asa(dp1592
+g22
+(dp1593
+I1
+S'[laughter]'
 p1594
-asg16
-(dp1595
-I7
-S'18:42:32'
+ssg8
+(lp1595
+S"I'm -- what I'm trying to figure out is what you all disagree on ---- because I know you do."
 p1596
-ssa(dp1597
-g20
-(dp1598
-I1
-S'[applause]'
+aS'I know you do, and I think it goes to this issue of, "What are [[laughter]] our enemies thinking?'
+p1597
+aS'" And all of you in your opening statements said, "I don\'t want toread my enemy\'s mind because it\'s unpleasant to be in there.'
+p1598
+aS'"But I think we want to talk about the notion, and this was alluded to by you, Tom, inyour opening statement, that this is -- a weaker U.S. military is a temptation not just forChina but for who knows to do things that right now they\'re just not going to botherdoing.'
 p1599
-ssg8
-S'BENJAMIN FRIEDMAN'
+aS"It's also some freedom for our allies to not be militarized and to dampen downthose ambitions."
 p1600
-sg13
-(lp1601
-S'The military --'
+aS"So what about that whole point of our enemies' perception of usbeing not dominant?"
+p1601
+aS'Tom Donnelly.'
 p1602
-asa(dp1603
-g8
+asg11
 S'JOHN DONVAN'
-p1604
-sg13
-(lp1605
-S'Let me go to the other side first and then come back to you. Tom Donnelly.'
+p1603
+sg16
+(lp1604
+S"I'm -- what I'm trying to figure out is what you all disagree on -- -- because I know you do."
+p1605
+aS'I know you do, and I think it goes to this issue of, "What are our enemies thinking?'
 p1606
-asa(dp1607
-g20
-(dp1608
-I4
-S'[applause]'
+aS'" And all of you in your opening statements said, "I don\'t want to read my enemy\'s mind because it\'s unpleasant to be in there.'
+p1607
+aS'" But I think we want to talk about the notion, and this was alluded to by you, Tom, in your opening statement, that this is -- a weaker U.S. military is a temptation not just for China but for who knows to do things that right now they\'re just not going to bother doing.'
+p1608
+aS"It's also some freedom for our allies to not be militarized and to dampen down those ambitions."
 p1609
-ssg8
-S'THOMAS DONNELLY'
+aS"So what about that whole point of our enemies' perception of us being not dominant?"
 p1610
-sg10
-(dp1611
-I9
-S'35'
-p1612
-ssg13
-(lp1613
-S'The original question posited a correlation between less war and less dying in recent'
-p1614
-aS"years. That correlates really strongly with the rise of American power. So, again, that's"
-p1615
-aS'what I was talking about originally. This has produced great benefits, not only to us, but'
+aS'Tom Donnelly.'
+p1611
+asg18
+(dp1612
+S'18:25:31'
+p1613
+I4
+ssa(dp1614
+g8
+(lp1615
+S'I think we -- as Andrew says, if you read the newspapers, or listen to NPR, or whatever --'
 p1616
-aS'to humanity --'
+asg11
+S'THOMAS DONNELLY'
 p1617
-aS"-- and there's -- and Kori will remember this from her own time in the White House. The"
-p1618
-aS'problem with diplomats is that if you want to send them to Afghanistan, at least until'
-p1619
-aS'recent years, they could say no. They could refuse to go. So we need all the tools in our'
-p1620
-aS"kit bag of all kinds, but we should not pretend that military power isn't part of what"
+sg16
+(lp1618
+g1616
+asa(dp1619
+g8
+(lp1620
+S'Tom, I just want to -- for the radio, to ask you to state -- if you just walk toward the mic.Thanks.'
 p1621
-aS'needs to be in that kit bag.'
+aS'Thanks.'
 p1622
-asg16
-(dp1623
-I9
-S'18:43:36'
-p1624
-ssa(dp1625
-g8
+asg11
 S'JOHN DONVAN'
+p1623
+sg16
+(lp1624
+S'Tom, I just want to -- for the radio, to ask you to state -- if you just walk toward the mic.'
+p1625
+aS'Thanks.'
 p1626
-sg13
-(lp1627
-S'Okay, one more round and --'
-p1628
-asa(dp1629
+aS'Thanks.'
+p1627
+asa(dp1628
 g8
-S'BENJAMIN FRIEDMAN'
+(lp1629
+S'Again, I -- when I read the newspapers in the morning, or read the news online, orhowever I get my news, what I see is people feeling for openings in weak spots.'
 p1630
-sg13
-(lp1631
-S"Well, I mean, look, let's not make the argument that if only the military would handle"
+aS'We seethat very much in Syria and Iraq.'
+p1631
+aS'The war has spread to western Iraq, northern Jordan,et cetera, et cetera.We see that in the Pacific, in the South China Sea, where the Chinese, even without anaircraft carrier, are nudging and pushing at what Ben calls the various rocks in the SouthChina Sea; the things that really matter to our allies, people who are our treaty allies,like the Filipinos.'
 p1632
-aS'diplomacy, diplomacy would be easy. I mean, diplomacy is really hard. We sort of have'
+aS"I don't want there to be a war over a rock in the South China Sea."
 p1633
-aS"this idea that because diplomats don't produce magical results in transforming societies"
+aS'Andwhat we see is people feeling for how far they can go in the absence of an Americanmilitary presence.'
 p1634
-aS'that are problems, that we should hand it over to the military, which is really good at'
+asg11
+S'THOMAS DONNELLY'
 p1635
-aS"destroying things but also doesn't have the tools to build society. So I'm certainly not in"
-p1636
-aS"favor of transforming the military's mission. The -- what Tom just said ignores a vast"
+sg16
+(lp1636
+S'Again, I -- when I read the newspapers in the morning, or read the news online, or however I get my news, what I see is people feeling for openings in weak spots.'
 p1637
-aS'social science literature on the causes of the long peace. This idea that peace in the'
+aS'We see that very much in Syria and Iraq.'
 p1638
-aS'world, this massive decline in violence which you referred to, which is not talked about'
+aS'The war has spread to western Iraq, northern Jordan, et cetera, et cetera.'
 p1639
-aS"enough -- everyone should read Steve Pinker's book about this -- civil wars are in"
+aS'We see that in the Pacific, in the South China Sea, where the Chinese, even without an aircraft carrier, are nudging and pushing at what Ben calls the various rocks in the South China Sea; the things that really matter to our allies, people who are our treaty allies, like the Filipinos.'
 p1640
-aS'massive decline, coups are in massive decline, genocide has been going away. Your'
+aS"I don't want there to be a war over a rock in the South China Sea."
 p1641
-aS'chances as a human of being killed in political violence have descended massively since'
+aS'And what we see is people feeling for how far they can go in the absence of an American military presence.'
 p1642
-aS"World War II. We don't talk about that in Washington."
-p1643
-aS"That's not due to the benevolence of the United States of America, I don't think. It has"
+asg18
+(dp1643
+S'18:26:30'
 p1644
-aS'to do with the spread of liberalism, maybe, the spread of capitalism, and the experience'
-p1645
-aS"of wars which cause societies to learn. And, again, this isn't just me talking, this is most"
-p1646
-aS'of the people who study this for a living. This idea that --'
+I4
+ssa(dp1645
+g8
+(lp1646
+S'Okay.'
 p1647
-ag840
-asg16
-(dp1648
-I12
-S'18:44:31'
+aS'Let me take this to the other side.'
+p1648
+aS'Very specifically stated that the perceptionthat our commitment to strong defense may be wavering is already resulting in peopleputting up feelers to see what they can get away with.'
 p1649
-ssa(dp1650
-g8
-S'JOHN DONVAN'
+aS'Sounds very logical.'
+p1650
+aS'I want toput that to Kori Schake.'
 p1651
+asg11
+S'JOHN DONVAN'
+p1652
 sg13
-(lp1652
-S"But Ben aren't your opponents arguing that, in fact, the -- American military dominance"
-p1653
-aS'is what created the conditions?'
+(dp1653
+I0
+S'25'
 p1654
-asa(dp1655
-g8
-S'BENJAMIN FRIEDMAN'
+ssg16
+(lp1655
+S'Okay.'
 p1656
-sg13
-(lp1657
-S"I'm arguing against that right now. I'm saying that there's all these other factors that are"
+aS'Let me take this to the other side.'
+p1657
+aS'Very specifically stated that the perception that our commitment to strong defense may be wavering is already resulting in people putting up feelers to see what they can get away with.'
 p1658
-aS'doing the work.'
+aS'Sounds very logical.'
 p1659
-asa(dp1660
+aS'I want to put that to Kori Schake.'
+p1660
+asa(dp1661
 g8
-S'JOHN DONVAN'
-p1661
-sg13
 (lp1662
-S"I don't know, but I think their point is that those -- that the American military dominance"
+S'I --'
 p1663
-aS'enabled those other factors to do all the work.'
+asg11
+S'KORI SCHAKE'
 p1664
-asa(dp1665
-g20
-(dp1666
-I2
-S'[laughter]'
-p1667
-ssg8
-S'BENJAMIN FRIEDMAN'
+sg16
+(lp1665
+g1663
+asa(dp1666
+g8
+(lp1667
+S'But -- Kori Schake.'
 p1668
-sg10
-(dp1669
-I2
-S'36'
-p1670
-ssg13
-(lp1671
-S"Well, if you think it's just pure magic, and it does everything in the world, then it's hard"
-p1672
-aS'to defeat that proposition, but --'
+asg11
+S'JOHN DONVAN'
+p1669
+sg16
+(lp1670
+g1668
+asa(dp1671
+g8
+(lp1672
+S'Because enemies always probe, like, for your weaknesses.'
 p1673
-aS'-- you look -- there are parts of the world where the American military is not very'
+aS"That's what enemies do."
 p1674
-aS'present, and we see I think a lot of the same results there, absent that, okay? So and if'
+aS"TheIranians aren't newly racing for a nuclear weapon."
 p1675
-aS"you read Pinker's book, he says this progression has been going on much longer, even"
+aS"They've been doing it since beforewe started cutting defense spending."
 p1676
-aS"prior to World War II, which is kind of hard to understand, but it's not a controversial"
+aS'The Chinese have been --'
 p1677
-aS'sentiment that violence is massively declining.'
+asg11
+S'KORI SCHAKE'
 p1678
-asg16
-(dp1679
-I7
-S'18:45:31'
+sg16
+(lp1679
+S'Because enemies always probe, like, for your weaknesses.'
 p1680
-ssa(dp1681
-g8
-S'JOHN DONVAN'
+aS"That's what enemies do."
+p1681
+aS"The Iranians aren't newly racing for a nuclear weapon."
 p1682
-sg13
-(lp1683
-S'Andrew, hang on one second. I want to remind you that we are in the question and'
+aS"They've been doing it since before we started cutting defense spending."
+p1683
+aS'The Chinese have been --'
 p1684
-aS"answer section of this Intelligence Squared U.S. Debate. I'm John Donovan, your"
-p1685
-aS'moderator. We have four debaters, two teams of two debating this motion, "Cutting'
-p1686
-aS'the Pentagon\'s budget is a gift to our enemies." Andrew Krepinevich.'
+asa(dp1685
+g8
+(lp1686
+S'But the logic of that is --'
 p1687
-asa(dp1688
+asg11
+S'JOHN DONVAN'
+p1688
+sg16
+(lp1689
+g1687
+asa(dp1690
 g8
-S'ANDREW KREPINEVICH'
-p1689
-sg13
-(lp1690
-S"There's a saying that hope and wishing is not a strategy. I would like to think that"
-p1691
-aS"diplomacy could solve all our problems, we wouldn't need militaries. Or that the global"
+(lp1691
+S'-- before --'
 p1692
-aS"economy's stupid, if we all just sit down and shut up, we're going to get rich. Fact of the"
+asg11
+S'KORI SCHAKE'
 p1693
-aS'matter is, in the absence of a stabilizing military force, you tend to get into trouble.'
-p1694
-aS'Look at the period from 1850 to 1914. The end of the Napoleonic wars. Britain emerges'
-p1695
-aS"as the world's dominant power. And the Pax Britannica exists for a century, until the"
-p1696
-aS"time that Britain's power began to wane, they began to cut back on their defenses."
+sg16
+(lp1694
+g1692
+asa(dp1695
+g8
+(lp1696
+S'-- theyre going to race even faster if they think -- if they were getting -- if our resolve iswavering.'
 p1697
-aS'They began to expand their social welfare programs, for better or worse. And Germany'
+asg11
+S'JOHN DONVAN'
 p1698
-aS'decided that they could win a war quickly, that they could defeat the Allies quickly. And'
-p1699
-aS'what you ended up with is World War I and carnage on an unparalleled scale. Again, it'
+sg16
+(lp1699
+S'-- theyre going to race even faster if they think -- if they were getting -- if our resolve is wavering.'
 p1700
-aS"wasn't because the British were too strong that Germany decided to go to war. It was"
-p1701
-aS'because they thought they had an opportunity to advance their aims at the expense of'
+asg18
+(dp1701
+S'18:27:33'
 p1702
-aS'others.'
-p1703
-asg16
-(dp1704
-I7
-S'18:46:33'
-p1705
-ssa(dp1706
-g20
-(dp1707
-I1
-S'[laughter]'
-p1708
-ssg8
-S'JOHN DONVAN'
-p1709
-sg13
-(lp1710
-S"Sir? Young man who was waving his iPad. I liked that move, so you're next."
-p1711
-aS'Back to you.'
-p1712
-asa(dp1713
-g8
-S'DOUG BROOKS'
-p1714
-sg10
-(dp1715
 I2
-S'37'
-p1716
-ssg13
-(lp1717
-S"Doug Brooks . I'm -- I used to run the trade association for"
+ssa(dp1703
+g8
+(lp1704
+S"Enemies don't play to your strong suit, right?"
+p1705
+aS"Nobody can fight the American army in anopen-space tank battle, because they're going to lose."
+p1706
+aS'What enemies try and do is playto your weaknesses.'
+p1707
+aS"That's why they go for terrorism --"
+p1708
+asg11
+S'KORI SCHAKE'
+p1709
+sg16
+(lp1710
+S"Enemies don't play to your strong suit, right?"
+p1711
+aS"Nobody can fight the American army in an open-space tank battle, because they're going to lose."
+p1712
+aS'What enemies try and do is play to your weaknesses.'
+p1713
+aS"That's why they go for terrorism --"
+p1714
+asa(dp1715
+g8
+(lp1716
+S"But that's what he said -- they're saying."
+p1717
+aS"That's what they're saying."
 p1718
-aS'companies that work in support of military operations abroad. But one thing that really'
+asg11
+S'JOHN DONVAN'
 p1719
-aS'strikes me is that we have -- we have come to the greatest commercial nation on earth,'
-p1720
-aS'and yet our military is still using sort of 19th procurement lines and we sort of ignore'
+sg16
+(lp1720
+S"But that's what he said -- they're saying."
 p1721
-aS'the sort of ability to essentially create a more effective military for a far cheaper price. I'
+aS"That's what they're saying."
 p1722
-aS"mean, shouldn't we be looking to the --"
-p1723
-asg16
-(dp1724
-I6
-S'18:47:32'
+asa(dp1723
+g8
+(lp1724
+S"-- but there's -- whether we have eight carrier groups or nine, I actually don'tthink is going to make that much different to the Chinese calculation about whetherthey want a Chinese dream that is their dominance of the Pacific."
 p1725
-ssa(dp1726
-g8
-S'JOHN DONVAN'
+aS'We need acomprehensive sense of our strength.'
+p1726
+aS'And right now, we are stronger in our militarycapabilities than we are in our trade agreements, than we are in our diplomacy, than weare in our development.'
 p1727
-sg13
-(lp1728
-S"You know, I think they both -- they've all conceded that we need to be better at"
+aS'We ought to hedge up what our actual weaknesses are, notcontinue to reinforce our strengths.'
+p1728
+asg11
+S'KORI SCHAKE'
 p1729
-aS"efficiency, so I'm going to respectfully --"
-p1730
-asa(dp1731
-g8
-S'DOUG WATTS'
-p1732
 sg13
-(lp1733
-S' --'
+(dp1730
+I7
+S'26'
+p1731
+ssg16
+(lp1732
+S"-- but there's -- whether we have eight carrier groups or nine, I actually don't think is going to make that much different to the Chinese calculation about whether they want a Chinese dream that is their dominance of the Pacific."
+p1733
+aS'We need a comprehensive sense of our strength.'
 p1734
-asa(dp1735
-g8
-S'JOHN DONVAN'
+aS'And right now, we are stronger in our military capabilities than we are in our trade agreements, than we are in our diplomacy, than we are in our development.'
+p1735
+aS'We ought to hedge up what our actual weaknesses are, not continue to reinforce our strengths.'
 p1736
-sg13
-(lp1737
-S'-- ask for another question.'
-p1738
-asa(dp1739
+asa(dp1737
 g8
-S'DOUG WATTS'
-p1740
-sg13
-(lp1741
-S"-- we can do the stuff and we can do it a lot cheaper. So we're actually -- by changing"
-p1742
-aS"the way we do things, it's -- makes it worse for our enemies. If the --"
-p1743
-asa(dp1744
-g8
-S'BENJAMIN FRIEDMAN'
-p1745
-sg13
-(lp1746
-S"But it's not -- its not the private sector. The public sector is different. It works"
-p1747
-aS'differently. The incentive structures are massively different. We keep shipyards'
-p1748
-aS"because they employ people. That's -- you know, if you're a senator for Maine, I think it"
-p1749
-aS'makes sense for you to keep that iron works open, even if you have excess overhead.'
-p1750
-aS"So I don't think there are that many lessons in that regard from the private sector; I"
-p1751
-aS'think we have to learn lessons from the public sector about how to be more efficient.'
-p1752
-asa(dp1753
-g8
+(lp1738
+S'Andrew Krepinevich.'
+p1739
+asg11
 S'JOHN DONVAN'
-p1754
-sg13
-(lp1755
-S'Sir? Andrew, did you -- you need to respond?'
-p1756
-asa(dp1757
+p1740
+sg16
+(lp1741
+g1739
+asa(dp1742
 g8
+(lp1743
+S"We are being confronted by some strategic choices, to use Ben's term."
+p1744
+aS'There are threeagents of the world that we rely on for trade and for resources.'
+p1745
+aS"We're part of the globaleconomy.And we rely on the global common space, cyber space, the sea, and the undersea to linkus to those parts of the world."
+p1746
+aS'In the Far East, the Chinese, for over a decade now, havebeen building up their military capabilities to try and push us out of the region.'
+p1747
+aS'Justlisten to what the Japanese, the Taiwanese, the Koreans, and so on are saying.'
+p1748
+aS'We havea strategic choice.'
+p1749
+aS"Now, it's not going to be a big army that we respond with."
+p1750
+aS"But we'regoing to have to do something to maintain stability in that region, lest we encourageChinese adventurism."
+p1751
+aS'And you could see it in the paper, in terms of the trends inChinese behavior.'
+p1752
+aS'Iran -- a nuclear armed Iran.'
+p1753
+aS"Do you think they're more or less likelyto support Hezbollah, or to support Assad in Syria, or to try and undermine the Gulfmonarchies, and disrupt the flow of energy?"
+p1754
+aS'Pakistan -- and again, you know, I dontwant to go on at length.'
+p1755
+aS'But you look at cyber situation.'
+p1756
+aS'Concerns that even non-stateentities will be able to inflict serious damage on us by cyber attacks.'
+p1757
+asg11
 S'ANDREW KREPINEVICH'
 p1758
-sg13
+sg16
 (lp1759
-S'I just wanted to say --'
+S"We are being confronted by some strategic choices, to use Ben's term."
 p1760
-asa(dp1761
-g8
-S'JOHN DONVAN'
+aS'There are three agents of the world that we rely on for trade and for resources.'
+p1761
+aS"We're part of the global economy."
 p1762
-sg13
-(lp1763
-S'Andrew Krepinevich.'
+aS'And we rely on the global common space, cyber space, the sea, and the undersea to link us to those parts of the world.'
+p1763
+aS'In the Far East, the Chinese, for over a decade now, have been building up their military capabilities to try and push us out of the region.'
 p1764
-asa(dp1765
-g8
-S'ANDREW KREPINEVICH'
+aS'Just listen to what the Japanese, the Taiwanese, the Koreans, and so on are saying.'
+p1765
+aS'We have a strategic choice.'
 p1766
-sg13
-(lp1767
-S"-- again, this is putting the cart before the horse. To say, Oh, let's cut a trillion dollars"
+aS"Now, it's not going to be a big army that we respond with."
+p1767
+aS"But we're going to have to do something to maintain stability in that region, lest we encourage Chinese adventurism."
 p1768
-aS"out of defense and all of a sudden, everything's going to be efficient, and we're going to"
+aS'And you could see it in the paper, in terms of the trends in Chinese behavior.'
 p1769
-aS'stop all this pork barreling -- I mean, again, that is the triumph of hope over experience.'
+aS'Iran -- a nuclear armed Iran.'
 p1770
-asa(dp1771
-g20
-(dp1772
-I3
-S'[laughter]'
+aS"Do you think they're more or less likely to support Hezbollah, or to support Assad in Syria, or to try and undermine the Gulf monarchies, and disrupt the flow of energy?"
+p1771
+aS'Pakistan -- and again, you know, I dont want to go on at length.'
+p1772
+aS'But you look at cyber situation.'
 p1773
-ssg8
-S'JOHN DONVAN'
+aS'Concerns that even non-state entities will be able to inflict serious damage on us by cyber attacks.'
 p1774
-sg10
+asg18
 (dp1775
-I0
-S'38'
+S'18:28:30'
 p1776
-ssg13
-(lp1777
-S"And the next question -- we haven't heard much from Kori or Tom for the last five"
-p1778
-aS'minutes.'
-p1779
-aS"So I'd like to hear those voices. So, with the iPad. Make it a great question."
-p1780
-aS'And could you stand, please? Thanks.'
-p1781
-asg16
-(dp1782
-I2
-S'18:48:31'
-p1783
-ssa(dp1784
-g20
-(dp1785
 I3
-S'[laughter]'
-p1786
-ssg8
-S'JAEDUK CHO'
-p1787
-sg13
-(lp1788
-S"Thank you for this wonderful debate. By I'm from South Korea. My name is Jaeduk Cho"
-p1789
-aS"and I'm -- yeah, I'm a student there. And I want to clearly state that my opinion has"
-p1790
-aS"nothing to do with my government's opinion."
-p1791
-aS'So my question --'
-p1792
-asa(dp1793
-g20
-(dp1794
-I1
+sS'18:29:31'
+p1777
+I15
+ssa(dp1778
+g8
+(lp1779
+S'All right.'
+p1780
+aS'Andrew, let me -- let Ben Friedman respond.'
+p1781
+asg11
+S'JOHN DONVAN'
+p1782
+sg16
+(lp1783
+S'All right.'
+p1784
+aS'Andrew, let me -- let Ben Friedman respond.'
+p1785
+asa(dp1786
+g22
+(dp1787
+I11
 S'[applause]'
+p1788
+sI14
+S'[laughter]'
+p1789
+ssg11
+S'BENJAMIN FRIEDMAN'
+p1790
+sg16
+(lp1791
+S"Well, I mean, contrary to how it appears in Washington DC, the world actually doesn't revolve around Washington DC."
+p1792
+aS'So what China does vis-a-vis its territorial claims -- this is shocking -- is not completely driven by conversations in Washington or small differences in our defense spending from year-to-year.'
+p1793
+aS'What Iran does, in terms of disrupting energy flows or funding Hezbollah, is not driven by small differences in U.S. defense budget.'
+p1794
+aS"They might have some minor preference but it really doesn't matter."
 p1795
-ssg8
-S'JOHN DONVAN'
+aS"They're going to do what they're going to do for other reasons than a margin of difference in our defense spending."
 p1796
-sg13
-(lp1797
-S'And with these people.'
+aS"If there's been any indication that the United States is not as up for war as it was a while ago, it wasn't because we're spending a little less on the military, it's because we had bad wars that made the public less enthusiastic to go, which is a good thing."
+p1797
+aS"And maybe it cuts back on our credibility, but -- -- if you want lots of credibility to have wars, then don't have dumb ones all the time, you know?"
 p1798
-asa(dp1799
-g8
-S'JAEDUK CHO'
+aS'Save it for the -- save it for the -- for the good times.'
+p1799
+aS"So -- -- I'll leave it there."
 p1800
-sg13
-(lp1801
-S'So I do believe that the United States has ridden to the top of the world because it was'
+asg18
+(dp1801
+S'18:30:33'
 p1802
-aS'economically stronger than any other nations at that point, at that time. But now,'
-p1803
-aS'remaining militarily strong but remaining economically weak, how can it be -- how can it'
+I13
+ssg8
+(lp1803
+S"Well, I mean, contrary to how it appears in Washington DC, the world actually doesn'trevolve around Washington DC."
 p1804
-aS'-- how can it maintain its position of the leader of the world?'
+aS'So what China does vis-a-vis its territorial claims -- thisis shocking -- is not completely driven by conversations in Washington or smalldifferences in our defense spending from year-to-year.'
 p1805
-aS'Because I do believe that Great Britain has gone down in flames because it has spent too'
+aS'What Iran does, in terms ofdisrupting energy flows or funding Hezbollah, is not driven by small differences in U.S.defense budget.'
 p1806
-aS"much. And it's as the name of England. So --"
+aS"They might have some minor preference but it really doesn't matter.They're going to do what they're going to do for other reasons than a margin ofdifference in our defense spending."
 p1807
-asg16
-(dp1808
-I4
-S'18:49:38'
+aS"If there's been any indication that the United Statesis not as up for war as it was a while ago, it wasn't because we're spending a little lesson the military, it's because we had bad wars that made the public less enthusiastic togo, which is a good thing."
+p1808
+aS"And maybe it cuts back on our credibility, but ---- if you want lots of credibility to have wars, then don't have dumb ones all the time, [[applause]] you know?Save it for the -- save it for the -- for the good times."
 p1809
-ssa(dp1810
-g8
-S'JOHN DONVAN'
+aS"So ---- I'll leave it there."
+p1810
+aS'[[laughter]] '
 p1811
-sg13
-(lp1812
-S'Can I rephrase you slightly?'
+asg13
+(dp1812
+I11
+S'27'
 p1813
-asa(dp1814
+ssa(dp1814
 g8
-S'DEREK CHO'
-p1815
-sg13
-(lp1816
-S'Right.'
+(lp1815
+S'You guys want to pick up?'
+p1816
+aS'Tom Donnelly.'
 p1817
-asa(dp1818
-g8
+asg11
 S'JOHN DONVAN'
-p1819
-sg10
-(dp1820
-I1
-S'39'
+p1818
+sg16
+(lp1819
+S'You guys want to pick up?'
+p1820
+aS'Tom Donnelly.'
 p1821
-ssg13
-(lp1822
-S'And maybe --'
-p1823
-asa(dp1824
+asa(dp1822
 g8
-S'DEREK CHO'
+(lp1823
+S'I would -- well, I would just say that --'
+p1824
+asg11
+S'ANDREW KREPINEVICH'
 p1825
-sg13
+sg16
 (lp1826
-S'Sure.'
-p1827
-asa(dp1828
+g1824
+asa(dp1827
 g8
-S'JOHN DONVAN'
+(lp1828
+S'Andrew Krepinevich.'
 p1829
-sg13
-(lp1830
-S"-- this is not your point, but I think you're saying that -- you're saying that a strong"
-p1831
-aS"American military is not enough, on its own, to ensure America's security. Is that what"
-p1832
-aS"you're saying?"
-p1833
-asa(dp1834
-g8
-S'DEREK CHO'
-p1835
-sg13
-(lp1836
-S'No. I mean, being economically strong is more important than being militarily strong.'
-p1837
-aS'That is my point.'
-p1838
-asa(dp1839
-g8
+asg11
 S'JOHN DONVAN'
+p1830
+sg16
+(lp1831
+g1829
+asa(dp1832
+g8
+(lp1833
+S'-- take the Far East example.'
+p1834
+aS'The purpose of trying to maintain a stable military balancein the region and address the capabilities that the Chinese are building up -- the purposeis to avoid war, not to fight war.'
+p1835
+aS"You can get into a war because of the perception thatyou're too weak to defend yourselves or that you're irresolute."
+p1836
+aS'And cutting a trilliondollars additionally out of defense over the next decade certainly, I think, sends thatmessage as we withdraw from parts of the world.'
+p1837
+asg11
+S'ANDREW KREPINEVICH'
+p1838
+sg16
+(lp1839
+S'-- take the Far East example.'
 p1840
-sg13
-(lp1841
-S"I know this side has already argued that point. And I'm not sure this side disagrees with"
+aS'The purpose of trying to maintain a stable military balance in the region and address the capabilities that the Chinese are building up -- the purpose is to avoid war, not to fight war.'
+p1841
+aS"You can get into a war because of the perception that you're too weak to defend yourselves or that you're irresolute."
 p1842
-aS'that. Tom Donnelly.'
+aS'And cutting a trillion dollars additionally out of defense over the next decade certainly, I think, sends that message as we withdraw from parts of the world.'
 p1843
 asa(dp1844
 g8
-S'THOMAS DONNELLY'
-p1845
-sg13
-(lp1846
-S"I don't think we -- no, we don't disagree with it. Again, we have to keep things in"
+(lp1845
+S'Yeah.'
+p1846
+aS'I just want to put to this.'
 p1847
-aS"perspective, as -- although I would add to that, we're not suffering from what, you"
+aS'I mean, history -- 20th century has got some greatexamples of weakness being perceived as an opportunity for aggression.'
 p1848
-aS'know, the historian Paul Kennedy called imperial overstretch.'
+aS"That's thepoint the other side just made."
 p1849
-aS"We're suffering from things like entitlement overstretch. The money that we're"
+aS"Again, there's a logic to it, and there's a historicalprecedent for it.It's not a ridiculous claim, so can you respond to that, Kori Schake?"
 p1850
-aS"spending that's impoverishing us is not going, for the most part, to buy military power."
-p1851
-aS"It's going to buy other things that the government does, like provide social services."
-p1852
-aS"Whether that's a good thing or bad thing or not, I -- you know, people can reasonably"
-p1853
-aS"disagree. But that's where the money is going. And if we want to reform both the"
-p1854
-aS"federal government's books and to boost economic productivity, we can't do it by"
-p1855
-aS'cutting the defense budget. We have to do it in other ways.'
-p1856
-asg16
-(dp1857
-I3
-S'18:50:33'
-p1858
-ssa(dp1859
-g8
-S'ANDREW KREPINEVICH'
-p1860
-sg13
-(lp1861
-S"Yeah, I would say -- just let me add something to what Tom said. The problem isn't"
-p1862
-aS"necessarily entitlements, per se. It's the fact that as a people we're not willing to pay for"
-p1863
-aS'the benefits we vote ourselves. Entitlements are up around 10 percent of GDP, not 3'
-p1864
-aS'percent. And they -- the slope line is going up dramatically. And as Robert Rubin said'
-p1865
-aS"not too long ago, if we don't get a handle, particularly on the medical entitlements, then"
-p1866
-aS"there's no way we can solve our economic problem."
-p1867
-asg16
-(dp1868
-I6
-S'18:51:29'
-p1869
-ssa(dp1870
-g8
+asg11
 S'JOHN DONVAN'
-p1871
-sg10
-(dp1872
+p1851
+sg16
+(lp1852
+S'Yeah.'
+p1853
+aS'I just want to put to this.'
+p1854
+aS'I mean, history -- 20th century has got some great examples of weakness being perceived as an opportunity for aggression.'
+p1855
+aS"That's the point the other side just made."
+p1856
+aS"Again, there's a logic to it, and there's a historical precedent for it."
+p1857
+aS"It's not a ridiculous claim, so can you respond to that, Kori Schake?"
+p1858
+asg18
+(dp1859
+S'18:31:30'
+p1860
+I4
+ssa(dp1861
+g8
+(lp1862
+S"It's a very strong claim."
+p1863
+aS'I agree with it.'
+p1864
+aS'But it hinges on the belief that we are close tothe margin at which another military believes they could defeat the United Statesmilitarily.'
+p1865
+asg11
+S'KORI SCHAKE'
+p1866
+sg16
+(lp1867
+S"It's a very strong claim."
+p1868
+aS'I agree with it.'
+p1869
+aS'But it hinges on the belief that we are close to the margin at which another military believes they could defeat the United States militarily.'
+p1870
+asa(dp1871
+g8
+(lp1872
+S"Well, the logic of what you're saying is that they only don't because we're so dominant."
+p1873
+aS"So you're saying they won't -- they won't mess with us because we're so dominant,therefore we don't have to be so dominant anymore."
+p1874
+asg11
+S'JOHN DONVAN'
+p1875
+sg13
+(dp1876
+I0
+S'28'
+p1877
+ssg16
+(lp1878
+S"Well, the logic of what you're saying is that they only don't because we're so dominant."
+p1879
+aS"So you're saying they won't -- they won't mess with us because we're so dominant, therefore we don't have to be so dominant anymore."
+p1880
+asa(dp1881
+g8
+(lp1882
+S"Well, I'm saying it's a really wide margin."
+p1883
+aS"We're not close to the line at which --"
+p1884
+asg11
+S'KORI SCHAKE'
+p1885
+sg16
+(lp1886
+S"Well, I'm saying it's a really wide margin."
+p1887
+aS"We're not close to the line at which --"
+p1888
+asa(dp1889
+g8
+(lp1890
+S'Okay.'
+p1891
+asg11
+S'JOHN DONVAN'
+p1892
+sg16
+(lp1893
+g1891
+asa(dp1894
+g8
+(lp1895
+S'-- China thinks they can fight the American Navy --'
+p1896
+asg11
+S'KORI SCHAKE'
+p1897
+sg16
+(lp1898
+g1896
+asa(dp1899
+g8
+(lp1900
+S"So what you're saying is we can afford to be a lot less dominant, and we would still bepretty darn dominant."
+p1901
+asg11
+S'JOHN DONVAN'
+p1902
+sg16
+(lp1903
+S"So what you're saying is we can afford to be a lot less dominant, and we would still be pretty darn dominant."
+p1904
+asa(dp1905
+g8
+(lp1906
+S'Yes, exactly.'
+p1907
+asg11
+S'KORI SCHAKE'
+p1908
+sg16
+(lp1909
+g1907
+asa(dp1910
+g8
+(lp1911
+S'Okay.'
+p1912
+asg11
+S'JOHN DONVAN'
+p1913
+sg16
+(lp1914
+g1912
+asa(dp1915
+g22
+(dp1916
+I0
+S'[unintelligible]'
+p1917
+ssg8
+(lp1918
+S''
+p1919
+asg11
+S'KORI SCHAKE'
+p1920
+sg16
+(lp1921
+g1919
+asa(dp1922
+g8
+(lp1923
+S'Let me take it to -- that point to the other side, that we have a lot of wiggle room is whatyour opponents are saying.'
+p1924
+aS'Tom Donnelly.'
+p1925
+asg11
+S'JOHN DONVAN'
+p1926
+sg16
+(lp1927
+S'Let me take it to -- that point to the other side, that we have a lot of wiggle room is what your opponents are saying.'
+p1928
+aS'Tom Donnelly.'
+p1929
+asa(dp1930
+g8
+(lp1931
+S'One of the things that technology has yet to solve is how to be in two places at once.'
+p1932
+aS"Asadvanced as our military and -- is -- pardon me -- you know, if it's not there, it's notthere."
+p1933
+aS"And what we see in the world now is the effect of us not being there.China doesn't want to go to war with us."
+p1934
+aS'They probably want to go to war with us evenless than we could ever possibly want to go to war with them.'
+p1935
+aS'They want the benefitsof nibbling away, pushing the limits.'
+p1936
+aS'They want to intimidate the Filipinos and theTaiwanese.'
+p1937
+aS"They don't want to mess with us."
+p1938
+aS"But if we're not there, there are going tobe consequences."
+p1939
+aS'And you see it every day.'
+p1940
+asg11
+S'THOMAS DONNELLY'
+p1941
+sg16
+(lp1942
+S'One of the things that technology has yet to solve is how to be in two places at once.'
+p1943
+aS"As advanced as our military and -- is -- pardon me -- you know, if it's not there, it's not there."
+p1944
+aS'And what we see in the world now is the effect of us not being there.'
+p1945
+aS"China doesn't want to go to war with us."
+p1946
+aS'They probably want to go to war with us even less than we could ever possibly want to go to war with them.'
+p1947
+aS'They want the benefits of nibbling away, pushing the limits.'
+p1948
+aS'They want to intimidate the Filipinos and the Taiwanese.'
+p1949
+aS"They don't want to mess with us."
+p1950
+aS"But if we're not there, there are going to be consequences."
+p1951
+aS'And you see it every day.'
+p1952
+asg18
+(dp1953
+S'18:32:31'
+p1954
+I3
+ssa(dp1955
+g8
+(lp1956
+S'All right.'
+p1957
+aS"I'm going to go shortly to the audience for questions."
+p1958
+aS"And how that will workis just raise your hand, and I'll call on you, and a mic will be brought to you."
+p1959
+aS'And if youcan just stand up, state your name --'
+p1960
+asg11
+S'JOHN DONVAN'
+p1961
+sg13
+(dp1962
+I0
+S'29'
+p1963
+ssg16
+(lp1964
+S'All right.'
+p1965
+aS"I'm going to go shortly to the audience for questions."
+p1966
+aS"And how that will work is just raise your hand, and I'll call on you, and a mic will be brought to you."
+p1967
+aS'And if you can just stand up, state your name --'
+p1968
+asa(dp1969
+g22
+(dp1970
+I0
+S'[unintelligible]'
+p1971
+ssg8
+(lp1972
+g1919
+asg11
+S'BENJAMIN FRIEDMAN'
+p1973
+sg16
+(lp1974
+g1919
+asa(dp1975
+g22
+(dp1976
+I3
+S'[laughter]'
+p1977
+ssg8
+(lp1978
+S'I will.'
+p1979
+aS"I'm going to come back to it."
+p1980
+aS'This is all prelude.'
+p1981
+aS"And a mic -- we're going to try ita little bit more here."
+p1982
+aS'I just want to get you to get ready and get your questions reallyperfect, really perfect.And just stand up, tell us your name and ask the question.'
+p1983
+aS'And the last thing I want to [[laughter]] just say is to keep the microphone as close to your mouth as this is to mine.'
+p1984
+aS'Go ahead,Ben Friedman.'
+p1985
+asg11
+S'JOHN DONVAN'
+p1986
+sg16
+(lp1987
+S'I will.'
+p1988
+aS"I'm going to come back to it."
+p1989
+aS'This is all prelude.'
+p1990
+aS"And a mic -- we're going to try it a little bit more here."
+p1991
+aS'I just want to get you to get ready and get your questions really perfect, really perfect.'
+p1992
+aS'And just stand up, tell us your name and ask the question.'
+p1993
+aS'And the last thing I want to just say is to keep the microphone as close to your mouth as this is to mine.'
+p1994
+aS'Go ahead, Ben Friedman.'
+p1995
+asg18
+(dp1996
+S'18:33:30'
+p1997
+I6
+ssa(dp1998
+g8
+(lp1999
+S'Weakness can be provocative, but, you know, a lot of us kept going to history class theday after we talked about Munich and World War II.'
+p2000
+aS'And strength can also beprovocative.'
+p2001
+aS'States balance power.'
+p2002
+aS'States design, build military capability in responsenot necessarily to weakness but to being threatened by other states.'
+p2003
+aS"States' decisionsto build nukes and to build armies are often driven by threats, including the ones thatthe United States poses to their borders."
+p2004
+aS"So it's not so simple that our weaknessencourages buildups."
+p2005
+aS"And I really think we ought to talk more carefully about whatscenario would take place absent a larger U.S. commitment to Asia that's so nefarious."
+p2006
+aS'Ithink, yeah, the Philippines and Taiwan and Japan might spend a little more on defenseand create a stronger alliance among them.'
+p2007
+aS"But that's not a bad thing necessarily."
+p2008
+aS'Wecan -- we can live with other states having geopolitical responsibilities.'
+p2009
+asg11
+S'BENJAMIN FRIEDMAN'
+p2010
+sg16
+(lp2011
+S'Weakness can be provocative, but, you know, a lot of us kept going to history class the day after we talked about Munich and World War II.'
+p2012
+aS'And strength can also be provocative.'
+p2013
+aS'States balance power.'
+p2014
+aS'States design, build military capability in response not necessarily to weakness but to being threatened by other states.'
+p2015
+aS"States' decisions to build nukes and to build armies are often driven by threats, including the ones that the United States poses to their borders."
+p2016
+aS"So it's not so simple that our weakness encourages buildups."
+p2017
+aS"And I really think we ought to talk more carefully about what scenario would take place absent a larger U.S. commitment to Asia that's so nefarious."
+p2018
+aS'I think, yeah, the Philippines and Taiwan and Japan might spend a little more on defense and create a stronger alliance among them.'
+p2019
+aS"But that's not a bad thing necessarily."
+p2020
+aS'We can -- we can live with other states having geopolitical responsibilities.'
+p2021
+asa(dp2022
+g8
+(lp2023
+S"Let's have -- let this side respond to that and I'll come to questions."
+p2024
+aS'AndrewKrepinevich.'
+p2025
+asg11
+S'JOHN DONVAN'
+p2026
+sg16
+(lp2027
+S"Let's have -- let this side respond to that and I'll come to questions."
+p2028
+aS'Andrew Krepinevich.'
+p2029
+asa(dp2030
+g8
+(lp2031
+S"Those of you who recall the Melian Dialogue, and I'm not quite old enough to recallthat, but the famous phrase is, The strong do what they can; the weak do what theymust."
+p2032
+aS'"If you\'re weak, others will decide your fate.'
+p2033
+aS"If you're strong, at least you have theoption of being smart or stupid."
+p2034
+aS'And hopefully we elect people who are the former andnot the latter.'
+p2035
+asg11
+S'ANDREW KREPINEVICH'
+p2036
+sg13
+(dp2037
+I3
+S'30'
+p2038
+ssg16
+(lp2039
+S"Those of you who recall the Melian Dialogue, and I'm not quite old enough to recall that, but the famous phrase is, The strong do what they can; the weak do what they must."
+p2040
+aS'" If you\'re weak, others will decide your fate.'
+p2041
+aS"If you're strong, at least you have the option of being smart or stupid."
+p2042
+aS'And hopefully we elect people who are the former and not the latter.'
+p2043
+asg18
+(dp2044
+S'18:34:32'
+p2045
+I3
+ssa(dp2046
+g8
+(lp2047
+S' being Melians right now.'
+p2048
+aS"We're the Athenians in the dialogue."
+p2049
+asg11
+S'BENJAMIN FRIEDMAN'
+p2050
+sg16
+(lp2051
+S' being Melians right now.'
+p2052
+aS"We're the Athenians in the dialogue."
+p2053
+asa(dp2054
+g8
+(lp2055
+S"I'm sorry?"
+p2056
+asg11
+S'ANDREW KREPINEVICH'
+p2057
+sg16
+(lp2058
+g2056
+asa(dp2059
+g8
+(lp2060
+S"We're the Athenians in the dialogue."
+p2061
+aS'We not going to be the weak, right?'
+p2062
+aS"We're -- we'llbe --"
+p2063
+asg11
+S'BENJAMIN FRIEDMAN'
+p2064
+sg16
+(lp2065
+S"We're the Athenians in the dialogue."
+p2066
+aS'We not going to be the weak, right?'
+p2067
+aS"We're -- we'll be --"
+p2068
+asa(dp2069
+g8
+(lp2070
+S'Again, getting back to the point we were discussing a little bit earlier -- and Kori kind ofset this up.'
+p2071
+aS'Chinese are good strategists.'
+p2072
+aS"Yeah, we have the world's best Air Force."
+p2073
+aS'Butour aircraft in the Far East are concentrated at two bases.'
+p2074
+aS'What are the Chinese doing?'
+p2075
+aS"They're building lots of ballistic missiles to target those bases."
+p2076
+aS"We have the world's bestcarriers, as Kori mentioned, and a lot of them."
+p2077
+aS"The Chinese are developing missiles totarget those carriers and they're building submarines to go after those carriers."
+p2078
+aS'So dowe cut the -- you know, do we need a big army for China, to maintain stability in thatregion?'
+p2079
+aS'Hardly.But we are going to figure out -- or going to need to figure out a way to maintainstability in that region.'
+p2080
+aS"Otherwise, I don't think the Filipinos are going to say, Youknow, the Americans are gone."
+p2081
+aS"Let's take on the Chinese."
+p2082
+aS'Now, the Japanese may say,The Americans are gone, we need nuclear weapons.'
+p2083
+aS"And let's see what that does tothe neighborhood."
+p2084
+asg11
+S'ANDREW KREPINEVICH'
+p2085
+sg16
+(lp2086
+S'Again, getting back to the point we were discussing a little bit earlier -- and Kori kind of set this up.'
+p2087
+aS'Chinese are good strategists.'
+p2088
+aS"Yeah, we have the world's best Air Force."
+p2089
+aS'But our aircraft in the Far East are concentrated at two bases.'
+p2090
+aS'What are the Chinese doing?'
+p2091
+aS"They're building lots of ballistic missiles to target those bases."
+p2092
+aS"We have the world's best carriers, as Kori mentioned, and a lot of them."
+p2093
+aS"The Chinese are developing missiles to target those carriers and they're building submarines to go after those carriers."
+p2094
+aS'So do we cut the -- you know, do we need a big army for China, to maintain stability in that region?'
+p2095
+aS'Hardly.'
+p2096
+aS'But we are going to figure out -- or going to need to figure out a way to maintain stability in that region.'
+p2097
+aS"Otherwise, I don't think the Filipinos are going to say, You know, the Americans are gone."
+p2098
+aS"Let's take on the Chinese."
+p2099
+aS'Now, the Japanese may say, The Americans are gone, we need nuclear weapons.'
+p2100
+aS"And let's see what that does to the neighborhood."
+p2101
+asg18
+(dp2102
+S'18:35:34'
+p2103
+I8
+ssa(dp2104
+g8
+(lp2105
+S"Let's take some questions."
+p2106
+aS'Sir, right down in the front, right in the middle.'
+p2107
+aS'Yep.'
+p2108
+aS'Sir.'
+p2109
+aS"You gave me the nod, and I gave it back to you, and you're standing up."
+p2110
+aS'You have toknow how to do the nod.'
+p2111
+aS"It's sort of one of these."
+p2112
+asg11
+S'JOHN DONVAN'
+p2113
+sg16
+(lp2114
+S"Let's take some questions."
+p2115
+aS'Sir, right down in the front, right in the middle.'
+p2116
+aS'Yep.'
+p2117
+aS'Sir.'
+p2118
+aS"You gave me the nod, and I gave it back to you, and you're standing up."
+p2119
+aS'You have to know how to do the nod.'
+p2120
+aS"It's sort of one of these."
+p2121
+asa(dp2122
+g8
+(lp2123
+S'Hi.'
+p2124
+aS'My name is Josh Sax .'
+p2125
+aS'My question is for the affirmative side.'
+p2126
+aS"There's clearly waste in the defense budget I think you would agree on."
+p2127
+aS"There's stuff inthere that is really more of a jobs program than weapons, stuff the army doesn't evenwant like additional Abrams tanks."
+p2128
+aS'Would you think that if we were to reduce spendingon those things that it would be better to reallocate that spending to additional militarypriorities?Or would it be better in our long-term interest to take those reductions and put ittowards reducing the national debt?'
+p2129
+asg11
+S'JOHN SAX'
+p2130
+sg13
+(dp2131
+I6
+S'31'
+p2132
+ssg16
+(lp2133
+S'Hi.'
+p2134
+aS'My name is Josh Sax .'
+p2135
+aS'My question is for the affirmative side.'
+p2136
+aS"There's clearly waste in the defense budget I think you would agree on."
+p2137
+aS"There's stuff in there that is really more of a jobs program than weapons, stuff the army doesn't even want like additional Abrams tanks."
+p2138
+aS'Would you think that if we were to reduce spending on those things that it would be better to reallocate that spending to additional military priorities?'
+p2139
+aS'Or would it be better in our long-term interest to take those reductions and put it towards reducing the national debt?'
+p2140
+asg18
+(dp2141
+S'18:36:37'
+p2142
+I6
+ssa(dp2143
+g8
+(lp2144
+S'Great question.'
+p2145
+aS'Tom Donnelly.'
+p2146
+asg11
+S'JOHN DONVAN'
+p2147
+sg16
+(lp2148
+S'Great question.'
+p2149
+aS'Tom Donnelly.'
+p2150
+asa(dp2151
+g8
+(lp2152
+S'Yeah.'
+p2153
+aS"One thing, look, we need to get sort of the best bang for the buck that we canunder any circumstances, whether we're spending more or spending less."
+p2154
+aS'On the otherhand, compared to other forms of government, I would offer the Pentagon is actually,again, a good value proposition.'
+p2155
+aS"If the public education system educated my kids as wellas the military does its job, both my kids would have gone to Harvard, and they didn't."
+p2156
+aS'You know, if my doctor kept me as healthy as the military kept the world, I would liveforever.'
+p2157
+aS"So as a government function for all the waste, fraud, and abuse that there maybe in the department -- and I wish it were zero -- it's relatively less.And the dollar amount is really trivial when we're talking about the size of the federaldebt or the deficit."
+p2158
+aS'Look, we spend as much per year almost -- and if interest ratesactually go up to a market rate, more on servicing our current debt than we do onmilitary power.'
+p2159
+aS"So in the relative size of things, we're not talking about a lot of money."
+p2160
+aS"You know, trillions and trillions, and pretty soon you're talking about real money."
+p2161
+aS'Butcompared to the rest of the economy or what the government spends, this is peanuts.'
+p2162
+asg11
+S'THOMAS DONNELLY'
+p2163
+sg16
+(lp2164
+S'Yeah.'
+p2165
+aS"One thing, look, we need to get sort of the best bang for the buck that we can under any circumstances, whether we're spending more or spending less."
+p2166
+aS'On the other hand, compared to other forms of government, I would offer the Pentagon is actually, again, a good value proposition.'
+p2167
+aS"If the public education system educated my kids as well as the military does its job, both my kids would have gone to Harvard, and they didn't."
+p2168
+aS'You know, if my doctor kept me as healthy as the military kept the world, I would live forever.'
+p2169
+aS"So as a government function for all the waste, fraud, and abuse that there may be in the department -- and I wish it were zero -- it's relatively less."
+p2170
+aS"And the dollar amount is really trivial when we're talking about the size of the federal debt or the deficit."
+p2171
+aS'Look, we spend as much per year almost -- and if interest rates actually go up to a market rate, more on servicing our current debt than we do on military power.'
+p2172
+aS"So in the relative size of things, we're not talking about a lot of money."
+p2173
+aS"You know, trillions and trillions, and pretty soon you're talking about real money."
+p2174
+aS'But compared to the rest of the economy or what the government spends, this is peanuts.'
+p2175
+asg18
+(dp2176
+S'18:37:34'
+p2177
+I8
+ssa(dp2178
+g8
+(lp2179
+S'Right down in the front here.'
+p2180
+aS"And it's coming down the front aisle."
+p2181
+aS"I'm -- I have a badhabit of sort of favoring people who are closer to me."
+p2182
+aS"It's totally unjustified."
+p2183
+aS"So if you'rein the back, be a little bit more aggressive to get my attention."
+p2184
+aS"Ma'am."
+p2185
+asg11
+S'JOHN DONVAN'
+p2186
+sg16
+(lp2187
+S'Right down in the front here.'
+p2188
+aS"And it's coming down the front aisle."
+p2189
+aS"I'm -- I have a bad habit of sort of favoring people who are closer to me."
+p2190
+aS"It's totally unjustified."
+p2191
+aS"So if you're in the back, be a little bit more aggressive to get my attention."
+p2192
+aS"Ma'am."
+p2193
+asa(dp2194
+g8
+(lp2195
+S'Excuse me.'
+p2196
+aS'Thank you.'
+p2197
+aS'My name is Annabelle Fisher.'
+p2198
+aS"First I want to say all of ussupport our military.I don't think there's anyone here who does not support our men and women who areprotecting us."
+p2199
+aS'And I have worked for the military.'
+p2200
+aS'This is a question for both sides.'
+p2201
+aS'Sunday, June 2nd in The Washington Post, costs and benefits for the military.'
+p2202
+aS"And ittalks about 149 billion that will be spent by the military; pensions, salaries, militarymaking more than -- well, I've never made --"
+p2203
+asg11
+S'ANNABELLE FISHER'
+p2204
+sg16
+(lp2205
+S'Excuse me.'
+p2206
+aS'Thank you.'
+p2207
+aS'My name is Annabelle Fisher.'
+p2208
+aS'First I want to say all of us support our military.'
+p2209
+aS"I don't think there's anyone here who does not support our men and women who are protecting us."
+p2210
+aS'And I have worked for the military.'
+p2211
+aS'This is a question for both sides.'
+p2212
+aS'Sunday, June 2nd in The Washington Post, costs and benefits for the military.'
+p2213
+aS"And it talks about 149 billion that will be spent by the military; pensions, salaries, military making more than -- well, I've never made --"
+p2214
+asg18
+(dp2215
+S'18:38:28'
+p2216
+I2
+ssa(dp2217
+g8
+(lp2218
+S"So, ma'am, what is your question?"
+p2219
+asg11
+S'JOHN DONVAN'
+p2220
+sg13
+(dp2221
+I1
+S'32'
+p2222
+ssg16
+(lp2223
+g2219
+asa(dp2224
+g8
+(lp2225
+S"So my question that -- both sides, if we can reduce some spending in the military, andyou're looking -- you talked about reduction in HR, in costs, pensions, healthcare, yes,tri-care folks need to pay a little more money, is this appropriate?"
+p2226
+aS'Will this impact ourmilitary?'
+p2227
+aS'And do we have a better -- does China have a better strategy than ourmilitary?'
+p2228
+aS'I think we have a pretty good strategy.'
+p2229
+asg11
+S'ANNABELLE FISHER'
+p2230
+sg16
+(lp2231
+S"So my question that -- both sides, if we can reduce some spending in the military, and you're looking -- you talked about reduction in HR, in costs, pensions, healthcare, yes, tri-care folks need to pay a little more money, is this appropriate?"
+p2232
+aS'Will this impact our military?'
+p2233
+aS'And do we have a better -- does China have a better strategy than our military?'
+p2234
+aS'I think we have a pretty good strategy.'
+p2235
+asa(dp2236
+g8
+(lp2237
+S"Okay, ma'am, I -- I'm not sure what the -- you went through a lot of subordinate clauses,and I lost the question."
+p2238
+asg11
+S'JOHN DONVAN'
+p2239
+sg16
+(lp2240
+S"Okay, ma'am, I -- I'm not sure what the -- you went through a lot of subordinate clauses, and I lost the question."
+p2241
+asg18
+(dp2242
+S'18:39:29'
+p2243
+I2
+ssa(dp2244
+g8
+(lp2245
+S"I'm really focusing really on this article in the Post that talked about ways --"
+p2246
+asg11
+S'ANNABELLE FISHER'
+p2247
+sg16
+(lp2248
+g2246
+asa(dp2249
+g8
+(lp2250
+S"Okay, I'm going to --"
+p2251
+asg11
+S'JOHN DONVAN'
+p2252
+sg16
+(lp2253
+g2251
+asa(dp2254
+g8
+(lp2255
+S'-- save money.'
+p2256
+asg11
+S'ANNABELLE FISHER'
+p2257
+sg16
+(lp2258
+g2256
+asa(dp2259
+g8
+(lp2260
+S"I'm going to refer folks to the article and thanks very much."
+p2261
+aS'Sir in the back.'
+p2262
+asg11
+S'JOHN DONVAN'
+p2263
+sg16
+(lp2264
+S"I'm going to refer folks to the article and thanks very much."
+p2265
+aS'Sir in the back.'
+p2266
+asa(dp2267
+g8
+(lp2268
+S'I think we agree that --'
+p2269
+asg11
+S'MALE SPEAKER'
+p2270
+sg16
+(lp2271
+g2269
+asa(dp2272
+g8
+(lp2273
+S'Yeah, I think everybody does agree on that.'
+p2274
+aS"We've covered it."
+p2275
+aS"Sir, right -- I'm pointingright to the very center."
+p2276
+aS"You're -- yeah, yeah."
+p2277
+aS'If you stand up.'
+p2278
+aS'Thanks.'
+p2279
+aS'Okay.'
+p2280
+asg11
+S'JOHN DONVAN'
+p2281
+sg16
+(lp2282
+S'Yeah, I think everybody does agree on that.'
+p2283
+aS"We've covered it."
+p2284
+aS"Sir, right -- I'm pointing right to the very center."
+p2285
+aS"You're -- yeah, yeah."
+p2286
+aS'If you stand up.'
+p2287
+aS'Thanks.'
+p2288
+aS'Okay.'
+p2289
+asa(dp2290
+g8
+(lp2291
+S'Hi.'
+p2292
+aS'My name is Bernie William.'
+p2293
+aS"I'm a grad student at Seton Hill University, studyingdiplomacy."
+p2294
+aS"My question is, first, to start off, the Carter Center for Peace has said thatsince World War II, of the 50 major armed conflicts that have gone on, they've all beenabout religion or ethnic conflict."
+p2295
+aS"And they've all been pretty much within borders."
+p2296
+aS'So --and the actual occurrence of violence has gone down, and the number of people beingkilled has gone down.'
+p2297
+aS"So is the threat to the United States that much -- increasing somuch when we're using our military to go into these countries, essentially almost as ourdiplomats, and saying, This is our brand of Americanism, and you have to -- and youhave to accept it?Can the military be changed to be more of our diplomatic arm, or could that money bebetter spent to diplomats, commerce, and improving trade?"
+p2298
+asg11
+S'BERNIE WILLIAM'
+p2299
+sg13
+(dp2300
+I9
+S'33'
+p2301
+ssg16
+(lp2302
+S'Hi.'
+p2303
+aS'My name is Bernie William.'
+p2304
+aS"I'm a grad student at Seton Hill University, studying diplomacy."
+p2305
+aS"My question is, first, to start off, the Carter Center for Peace has said that since World War II, of the 50 major armed conflicts that have gone on, they've all been about religion or ethnic conflict."
+p2306
+aS"And they've all been pretty much within borders."
+p2307
+aS'So -- and the actual occurrence of violence has gone down, and the number of people being killed has gone down.'
+p2308
+aS"So is the threat to the United States that much -- increasing so much when we're using our military to go into these countries, essentially almost as our diplomats, and saying, This is our brand of Americanism, and you have to -- and you have to accept it?"
+p2309
+aS'Can the military be changed to be more of our diplomatic arm, or could that money be better spent to diplomats, commerce, and improving trade?'
+p2310
+asg18
+(dp2311
+S'18:40:37'
+p2312
+I9
+ssa(dp2313
+g8
+(lp2314
+S"I'm trying to think if that actually addresses the issue of whether reductions in themilitary threatens our security."
+p2315
+aS"And I don't think it quite gets there."
+p2316
+aS'Do you want totake another run at it?'
+p2317
+aS"Because I think you're close to it."
+p2318
+asg11
+S'JOHN DONVAN'
+p2319
+sg16
+(lp2320
+S"I'm trying to think if that actually addresses the issue of whether reductions in the military threatens our security."
+p2321
+aS"And I don't think it quite gets there."
+p2322
+aS'Do you want to take another run at it?'
+p2323
+aS"Because I think you're close to it."
+p2324
+asa(dp2325
+g8
+(lp2326
+S'I can give an answer.'
+p2327
+asg11
+S'KORI SCHAKE'
+p2328
+sg16
+(lp2329
+g2327
+asa(dp2330
+g22
+(dp2331
+I1
+S'[laughter]'
+p2332
+ssg8
+(lp2333
+S"I know you're all set for it, but I want the .People are going to be listening on the radio and not understand that."
+p2334
+aS'[[laughter]] '
+p2335
+asg11
+S'JOHN DONVAN'
+p2336
+sg16
+(lp2337
+S"I know you're all set for it, but I want the ."
+p2338
+aS'People are going to be listening on the radio and not understand that.'
+p2339
+asa(dp2340
+g8
+(lp2341
+S"I guess what I'm saying is that it seems that our military is creating more enemies bybeing out there and doing stuff -- and doing what it does."
+p2342
+aS"And it -- and should the -- andit seems like I'm following the against side in saying that the military needs to reshapeits force so that it's doing more diplomatic efforts, navy admirals going --"
+p2343
+asg11
+S'BERNIE WILLIAM'
+p2344
+sg16
+(lp2345
+S"I guess what I'm saying is that it seems that our military is creating more enemies by being out there and doing stuff -- and doing what it does."
+p2346
+aS"And it -- and should the -- and it seems like I'm following the against side in saying that the military needs to reshape its force so that it's doing more diplomatic efforts, navy admirals going --"
+p2347
+asg18
+(dp2348
+S'18:41:33'
+p2349
+I4
+ssa(dp2350
+g8
+(lp2351
+S'But what about -- what if that costs a lot of money?'
+p2352
+aS'Your premise is that it would --'
+p2353
+asg11
+S'JOHN DONVAN'
+p2354
+sg16
+(lp2355
+S'But what about -- what if that costs a lot of money?'
+p2356
+aS'Your premise is that it would --'
+p2357
+asa(dp2358
+g8
+(lp2359
+S"I'm saying -- well no, I'm agreeing that the ground forces be reduced and then we -- andbut is it better to --"
+p2360
+asg11
+S'BERNIE WILLIAM'
+p2361
+sg16
+(lp2362
+S"I'm saying -- well no, I'm agreeing that the ground forces be reduced and then we -- and but is it better to --"
+p2363
+asa(dp2364
+g8
+(lp2365
+S'Okay, can I phrase your question this way?'
+p2366
+aS'Does the military have less expensive ways,without using military force, to actually keep the nation safer?'
+p2367
+asg11
+S'JOHN DONVAN'
+p2368
+sg16
+(lp2369
+S'Okay, can I phrase your question this way?'
+p2370
+aS'Does the military have less expensive ways, without using military force, to actually keep the nation safer?'
+p2371
+asa(dp2372
+g22
+(dp2373
+I1
+S'[applause]'
+p2374
+ssg8
+(lp2375
+S'Yes.'
+p2376
+asg11
+S'BERNIE WILLIAM'
+p2377
+sg13
+(dp2378
+I1
+S'34'
+p2379
+ssg16
+(lp2380
+g2376
+asa(dp2381
+g22
+(dp2382
+I1
+S'[laughter]'
+p2383
+ssg8
+(lp2384
+S'Now can you say that?'
+p2385
+aS"I'm --Kori Schake."
+p2386
+aS'[[laughter]] '
+p2387
+asg11
+S'JOHN DONVAN'
+p2388
+sg16
+(lp2389
+S'Now can you say that?'
+p2390
+aS"I'm -- Kori Schake."
+p2391
+asa(dp2392
+g8
+(lp2393
+S'Give that man a microphone.'
+p2394
+asg11
+S'MALE SPEAKER'
+p2395
+sg16
+(lp2396
+g2394
+asa(dp2397
+g8
+(lp2398
+S'One of the things that has happened in the last -- with the wars of the last 12 years, isthat things that have traditionally been diplomatic and development functions havemigrated into military space.'
+p2399
+aS"And that's because we don't train our diplomats and ourdevelopment people to the same level of professional expertise that we train ourmilitary, and we need to do that."
+p2400
+aS"That's actually a better place to spend our money."
+p2401
+aS'Itmatters to see diplomats doing diplomatic work, and we could spend our money thatway, we just choose not to.'
+p2402
+asg11
+S'KORI SCHAKE'
+p2403
+sg16
+(lp2404
+S'One of the things that has happened in the last -- with the wars of the last 12 years, is that things that have traditionally been diplomatic and development functions have migrated into military space.'
+p2405
+aS"And that's because we don't train our diplomats and our development people to the same level of professional expertise that we train our military, and we need to do that."
+p2406
+aS"That's actually a better place to spend our money."
+p2407
+aS'It matters to see diplomats doing diplomatic work, and we could spend our money that way, we just choose not to.'
+p2408
+asg18
+(dp2409
+S'18:42:32'
+p2410
+I7
+ssa(dp2411
+g22
+(dp2412
+I1
+S'[applause]'
+p2413
+ssg8
+(lp2414
+S'The military --'
+p2415
+asg11
+S'BENJAMIN FRIEDMAN'
+p2416
+sg16
+(lp2417
+g2415
+asa(dp2418
+g8
+(lp2419
+S'Let me go to the other side first and then come back to you.'
+p2420
+aS'Tom Donnelly.'
+p2421
+asg11
+S'JOHN DONVAN'
+p2422
+sg16
+(lp2423
+S'Let me go to the other side first and then come back to you.'
+p2424
+aS'Tom Donnelly.'
+p2425
+asa(dp2426
+g22
+(dp2427
+I4
+S'[applause]'
+p2428
+ssg11
+S'THOMAS DONNELLY'
+p2429
+sg16
+(lp2430
+S'The original question posited a correlation between less war and less dying in recent years.'
+p2431
+aS'That correlates really strongly with the rise of American power.'
+p2432
+aS"So, again, that's what I was talking about originally."
+p2433
+aS"This has produced great benefits, not only to us, but to humanity -- -- and there's -- and Kori will remember this from her own time in the White House."
+p2434
+aS'The problem with diplomats is that if you want to send them to Afghanistan, at least until recent years, they could say no.'
+p2435
+aS'They could refuse to go.'
+p2436
+aS"So we need all the tools in our kit bag of all kinds, but we should not pretend that military power isn't part of what needs to be in that kit bag."
+p2437
+asg18
+(dp2438
+S'18:43:36'
+p2439
+I9
+ssg8
+(lp2440
+S'The original question posited a correlation between less war and less dying in recentyears.'
+p2441
+aS'That correlates really strongly with the rise of American power.'
+p2442
+aS"So, again, that'swhat I was talking about originally."
+p2443
+aS"This has produced great benefits, not only to us, butto humanity ---- and there's -- and Kori will remember this from her own time in the White House."
+p2444
+aS'The [[applause]] problem with diplomats is that if you want to send them to Afghanistan, at least untilrecent years, they could say no.'
+p2445
+aS'They could refuse to go.'
+p2446
+aS"So we need all the tools in ourkit bag of all kinds, but we should not pretend that military power isn't part of whatneeds to be in that kit bag."
+p2447
+asg13
+(dp2448
+I9
+S'35'
+p2449
+ssa(dp2450
+g8
+(lp2451
+S'Okay, one more round and --'
+p2452
+asg11
+S'JOHN DONVAN'
+p2453
+sg16
+(lp2454
+g2452
+asa(dp2455
+g8
+(lp2456
+S"Well, I mean, look, let's not make the argument that if only the military would handlediplomacy, diplomacy would be easy."
+p2457
+aS'I mean, diplomacy is really hard.'
+p2458
+aS"We sort of havethis idea that because diplomats don't produce magical results in transforming societiesthat are problems, that we should hand it over to the military, which is really good atdestroying things but also doesn't have the tools to build society."
+p2459
+aS"So I'm certainly not infavor of transforming the military's mission."
+p2460
+aS'The -- what Tom just said ignores a vastsocial science literature on the causes of the long peace.'
+p2461
+aS"This idea that peace in theworld, this massive decline in violence which you referred to, which is not talked aboutenough -- everyone should read Steve Pinker's book about this -- civil wars are inmassive decline, coups are in massive decline, genocide has been going away."
+p2462
+aS'Yourchances as a human of being killed in political violence have descended massively sinceWorld War II.'
+p2463
+aS"We don't talk about that in Washington.That's not due to the benevolence of the United States of America, I don't think."
+p2464
+aS'It hasto do with the spread of liberalism, maybe, the spread of capitalism, and the experienceof wars which cause societies to learn.'
+p2465
+aS"And, again, this isn't just me talking, this is mostof the people who study this for a living."
+p2466
+aS'This idea that -- '
+p2467
+asg11
+S'BENJAMIN FRIEDMAN'
+p2468
+sg16
+(lp2469
+S"Well, I mean, look, let's not make the argument that if only the military would handle diplomacy, diplomacy would be easy."
+p2470
+aS'I mean, diplomacy is really hard.'
+p2471
+aS"We sort of have this idea that because diplomats don't produce magical results in transforming societies that are problems, that we should hand it over to the military, which is really good at destroying things but also doesn't have the tools to build society."
+p2472
+aS"So I'm certainly not in favor of transforming the military's mission."
+p2473
+aS'The -- what Tom just said ignores a vast social science literature on the causes of the long peace.'
+p2474
+aS"This idea that peace in the world, this massive decline in violence which you referred to, which is not talked about enough -- everyone should read Steve Pinker's book about this -- civil wars are in massive decline, coups are in massive decline, genocide has been going away."
+p2475
+aS'Your chances as a human of being killed in political violence have descended massively since World War II.'
+p2476
+aS"We don't talk about that in Washington."
+p2477
+aS"That's not due to the benevolence of the United States of America, I don't think."
+p2478
+aS'It has to do with the spread of liberalism, maybe, the spread of capitalism, and the experience of wars which cause societies to learn.'
+p2479
+aS"And, again, this isn't just me talking, this is most of the people who study this for a living."
+p2480
+aS'This idea that -- '
+p2481
+asg18
+(dp2482
+S'18:44:31'
+p2483
+I12
+ssa(dp2484
+g8
+(lp2485
+S"But Ben aren't your opponents arguing that, in fact, the -- American military dominanceis what created the conditions?"
+p2486
+asg11
+S'JOHN DONVAN'
+p2487
+sg16
+(lp2488
+S"But Ben aren't your opponents arguing that, in fact, the -- American military dominance is what created the conditions?"
+p2489
+asa(dp2490
+g8
+(lp2491
+S"I'm arguing against that right now."
+p2492
+aS"I'm saying that there's all these other factors that aredoing the work."
+p2493
+asg11
+S'BENJAMIN FRIEDMAN'
+p2494
+sg16
+(lp2495
+S"I'm arguing against that right now."
+p2496
+aS"I'm saying that there's all these other factors that are doing the work."
+p2497
+asa(dp2498
+g8
+(lp2499
+S"I don't know, but I think their point is that those -- that the American military dominanceenabled those other factors to do all the work."
+p2500
+asg11
+S'JOHN DONVAN'
+p2501
+sg16
+(lp2502
+S"I don't know, but I think their point is that those -- that the American military dominance enabled those other factors to do all the work."
+p2503
+asa(dp2504
+g22
+(dp2505
+I2
+S'[laughter]'
+p2506
+ssg11
+S'BENJAMIN FRIEDMAN'
+p2507
+sg16
+(lp2508
+S"Well, if you think it's just pure magic, and it does everything in the world, then it's hard to defeat that proposition, but -- -- you look -- there are parts of the world where the American military is not very present, and we see I think a lot of the same results there, absent that, okay?"
+p2509
+aS"So and if you read Pinker's book, he says this progression has been going on much longer, even prior to World War II, which is kind of hard to understand, but it's not a controversial sentiment that violence is massively declining."
+p2510
+asg18
+(dp2511
+S'18:45:31'
+p2512
+I7
+ssg8
+(lp2513
+S"Well, if you think it's just pure magic, and it does everything in the world, then it's hardto defeat that proposition, but ---- you look -- there are parts of the world where the American military is not very [[laughter]] present, and we see I think a lot of the same results there, absent that, okay?"
+p2514
+aS"So and ifyou read Pinker's book, he says this progression has been going on much longer, evenprior to World War II, which is kind of hard to understand, but it's not a controversialsentiment that violence is massively declining."
+p2515
+asg13
+(dp2516
+I2
+S'36'
+p2517
+ssa(dp2518
+g8
+(lp2519
+S'Andrew, hang on one second.'
+p2520
+aS'I want to remind you that we are in the question andanswer section of this Intelligence Squared U.S.'
+p2521
+aS'Debate.'
+p2522
+aS"I'm John Donovan, yourmoderator."
+p2523
+aS'We have four debaters, two teams of two debating this motion, "Cuttingthe Pentagon\'s budget is a gift to our enemies.'
+p2524
+aS'" Andrew Krepinevich.'
+p2525
+asg11
+S'JOHN DONVAN'
+p2526
+sg16
+(lp2527
+S'Andrew, hang on one second.'
+p2528
+aS'I want to remind you that we are in the question and answer section of this Intelligence Squared U.S.'
+p2529
+aS'Debate.'
+p2530
+aS"I'm John Donovan, your moderator."
+p2531
+aS'We have four debaters, two teams of two debating this motion, "Cutting the Pentagon\'s budget is a gift to our enemies.'
+p2532
+aS'" Andrew Krepinevich.'
+p2533
+asa(dp2534
+g8
+(lp2535
+S"There's a saying that hope and wishing is not a strategy."
+p2536
+aS"I would like to think thatdiplomacy could solve all our problems, we wouldn't need militaries."
+p2537
+aS"Or that the globaleconomy's stupid, if we all just sit down and shut up, we're going to get rich."
+p2538
+aS'Fact of thematter is, in the absence of a stabilizing military force, you tend to get into trouble.Look at the period from 1850 to 1914.'
+p2539
+aS'The end of the Napoleonic wars.'
+p2540
+aS"Britain emergesas the world's dominant power."
+p2541
+aS"And the Pax Britannica exists for a century, until thetime that Britain's power began to wane, they began to cut back on their defenses.They began to expand their social welfare programs, for better or worse."
+p2542
+aS'And Germanydecided that they could win a war quickly, that they could defeat the Allies quickly.'
+p2543
+aS'Andwhat you ended up with is World War I and carnage on an unparalleled scale.'
+p2544
+aS"Again, itwasn't because the British were too strong that Germany decided to go to war."
+p2545
+aS'It wasbecause they thought they had an opportunity to advance their aims at the expense ofothers.'
+p2546
+asg11
+S'ANDREW KREPINEVICH'
+p2547
+sg16
+(lp2548
+S"There's a saying that hope and wishing is not a strategy."
+p2549
+aS"I would like to think that diplomacy could solve all our problems, we wouldn't need militaries."
+p2550
+aS"Or that the global economy's stupid, if we all just sit down and shut up, we're going to get rich."
+p2551
+aS'Fact of the matter is, in the absence of a stabilizing military force, you tend to get into trouble.'
+p2552
+aS'Look at the period from 1850 to 1914.'
+p2553
+aS'The end of the Napoleonic wars.'
+p2554
+aS"Britain emerges as the world's dominant power."
+p2555
+aS"And the Pax Britannica exists for a century, until the time that Britain's power began to wane, they began to cut back on their defenses."
+p2556
+aS'They began to expand their social welfare programs, for better or worse.'
+p2557
+aS'And Germany decided that they could win a war quickly, that they could defeat the Allies quickly.'
+p2558
+aS'And what you ended up with is World War I and carnage on an unparalleled scale.'
+p2559
+aS"Again, it wasn't because the British were too strong that Germany decided to go to war."
+p2560
+aS'It was because they thought they had an opportunity to advance their aims at the expense of others.'
+p2561
+asg18
+(dp2562
+S'18:46:33'
+p2563
+I7
+ssa(dp2564
+g22
+(dp2565
+I1
+S'[laughter]'
+p2566
+ssg8
+(lp2567
+S'Sir?'
+p2568
+aS'Young man who was waving his iPad.'
+p2569
+aS"I liked that move, so you're next.Back to you."
+p2570
+aS'[[laughter]] '
+p2571
+asg11
+S'JOHN DONVAN'
+p2572
+sg16
+(lp2573
+S'Sir?'
+p2574
+aS'Young man who was waving his iPad.'
+p2575
+aS"I liked that move, so you're next."
+p2576
+aS'Back to you.'
+p2577
+asa(dp2578
+g8
+(lp2579
+S'Doug Brooks .'
+p2580
+aS"I'm -- I used to run the trade association forcompanies that work in support of military operations abroad."
+p2581
+aS'But one thing that reallystrikes me is that we have -- we have come to the greatest commercial nation on earth,and yet our military is still using sort of 19th procurement lines and we sort of ignorethe sort of ability to essentially create a more effective military for a far cheaper price.'
+p2582
+aS"Imean, shouldn't we be looking to the --"
+p2583
+asg11
+S'DOUG BROOKS'
+p2584
+sg13
+(dp2585
+I2
+S'37'
+p2586
+ssg16
+(lp2587
+S'Doug Brooks .'
+p2588
+aS"I'm -- I used to run the trade association for companies that work in support of military operations abroad."
+p2589
+aS'But one thing that really strikes me is that we have -- we have come to the greatest commercial nation on earth, and yet our military is still using sort of 19th procurement lines and we sort of ignore the sort of ability to essentially create a more effective military for a far cheaper price.'
+p2590
+aS"I mean, shouldn't we be looking to the --"
+p2591
+asg18
+(dp2592
+S'18:47:32'
+p2593
+I6
+ssa(dp2594
+g8
+(lp2595
+S"You know, I think they both -- they've all conceded that we need to be better atefficiency, so I'm going to respectfully --"
+p2596
+asg11
+S'JOHN DONVAN'
+p2597
+sg16
+(lp2598
+S"You know, I think they both -- they've all conceded that we need to be better at efficiency, so I'm going to respectfully --"
+p2599
+asa(dp2600
+g8
+(lp2601
+S' --'
+p2602
+asg11
+S'DOUG WATTS'
+p2603
+sg16
+(lp2604
+g2602
+asa(dp2605
+g8
+(lp2606
+S'-- ask for another question.'
+p2607
+asg11
+S'JOHN DONVAN'
+p2608
+sg16
+(lp2609
+g2607
+asa(dp2610
+g8
+(lp2611
+S'-- we can do the stuff and we can do it a lot cheaper.'
+p2612
+aS"So we're actually -- by changingthe way we do things, it's -- makes it worse for our enemies."
+p2613
+aS'If the --'
+p2614
+asg11
+S'DOUG WATTS'
+p2615
+sg16
+(lp2616
+S'-- we can do the stuff and we can do it a lot cheaper.'
+p2617
+aS"So we're actually -- by changing the way we do things, it's -- makes it worse for our enemies."
+p2618
+aS'If the --'
+p2619
+asa(dp2620
+g8
+(lp2621
+S"But it's not -- its not the private sector."
+p2622
+aS'The public sector is different.'
+p2623
+aS'It worksdifferently.'
+p2624
+aS'The incentive structures are massively different.'
+p2625
+aS'We keep shipyardsbecause they employ people.'
+p2626
+aS"That's -- you know, if you're a senator for Maine, I think itmakes sense for you to keep that iron works open, even if you have excess overhead.So I don't think there are that many lessons in that regard from the private sector; Ithink we have to learn lessons from the public sector about how to be more efficient."
+p2627
+asg11
+S'BENJAMIN FRIEDMAN'
+p2628
+sg16
+(lp2629
+S"But it's not -- its not the private sector."
+p2630
+aS'The public sector is different.'
+p2631
+aS'It works differently.'
+p2632
+aS'The incentive structures are massively different.'
+p2633
+aS'We keep shipyards because they employ people.'
+p2634
+aS"That's -- you know, if you're a senator for Maine, I think it makes sense for you to keep that iron works open, even if you have excess overhead."
+p2635
+aS"So I don't think there are that many lessons in that regard from the private sector; I think we have to learn lessons from the public sector about how to be more efficient."
+p2636
+asa(dp2637
+g8
+(lp2638
+S'Sir?'
+p2639
+aS'Andrew, did you -- you need to respond?'
+p2640
+asg11
+S'JOHN DONVAN'
+p2641
+sg16
+(lp2642
+S'Sir?'
+p2643
+aS'Andrew, did you -- you need to respond?'
+p2644
+asa(dp2645
+g8
+(lp2646
+S'I just wanted to say --'
+p2647
+asg11
+S'ANDREW KREPINEVICH'
+p2648
+sg16
+(lp2649
+g2647
+asa(dp2650
+g8
+(lp2651
+S'Andrew Krepinevich.'
+p2652
+asg11
+S'JOHN DONVAN'
+p2653
+sg16
+(lp2654
+g2652
+asa(dp2655
+g8
+(lp2656
+S'-- again, this is putting the cart before the horse.'
+p2657
+aS"To say, Oh, let's cut a trillion dollarsout of defense and all of a sudden, everything's going to be efficient, and we're going tostop all this pork barreling -- I mean, again, that is the triumph of hope over experience."
+p2658
+asg11
+S'ANDREW KREPINEVICH'
+p2659
+sg16
+(lp2660
+S'-- again, this is putting the cart before the horse.'
+p2661
+aS"To say, Oh, let's cut a trillion dollars out of defense and all of a sudden, everything's going to be efficient, and we're going to stop all this pork barreling -- I mean, again, that is the triumph of hope over experience."
+p2662
+asa(dp2663
+g22
+(dp2664
+I3
+S'[laughter]'
+p2665
+ssg11
+S'JOHN DONVAN'
+p2666
+sg16
+(lp2667
+S"And the next question -- we haven't heard much from Kori or Tom for the last five minutes."
+p2668
+aS"So I'd like to hear those voices."
+p2669
+aS'So, with the iPad.'
+p2670
+aS'Make it a great question.'
+p2671
+aS'And could you stand, please?'
+p2672
+aS'Thanks.'
+p2673
+asg18
+(dp2674
+S'18:48:31'
+p2675
+I2
+ssg8
+(lp2676
+S"And the next question -- we haven't heard much from Kori or Tom for the last fiveminutes.So I'd like to hear those voices."
+p2677
+aS'So, with the iPad.'
+p2678
+aS'Make it a great question.And could you stand, please?'
+p2679
+aS'Thanks.'
+p2680
+aS'[[laughter]] '
+p2681
+asg13
+(dp2682
+I0
+S'38'
+p2683
+ssa(dp2684
+g22
+(dp2685
+I3
+S'[laughter]'
+p2686
+ssg8
+(lp2687
+S'Thank you for this wonderful debate.'
+p2688
+aS"By I'm from South Korea."
+p2689
+aS"My name is Jaeduk Choand I'm -- yeah, I'm a student there."
+p2690
+aS"And I want to clearly state that my opinion hasnothing to do with my government's opinion.So my question -- [[laughter]] "
+p2691
+asg11
+S'JAEDUK CHO'
+p2692
+sg16
+(lp2693
+S'Thank you for this wonderful debate.'
+p2694
+aS"By I'm from South Korea."
+p2695
+aS"My name is Jaeduk Cho and I'm -- yeah, I'm a student there."
+p2696
+aS"And I want to clearly state that my opinion has nothing to do with my government's opinion."
+p2697
+aS'So my question --'
+p2698
+asa(dp2699
+g22
+(dp2700
+I1
+S'[applause]'
+p2701
+ssg8
+(lp2702
+S'And with these people.'
+p2703
+asg11
+S'JOHN DONVAN'
+p2704
+sg16
+(lp2705
+g2703
+asa(dp2706
+g8
+(lp2707
+S'So I do believe that the United States has ridden to the top of the world because it waseconomically stronger than any other nations at that point, at that time.'
+p2708
+aS'But now,remaining militarily strong but remaining economically weak, how can it be -- how can it-- how can it maintain its position of the leader of the world?Because I do believe that Great Britain has gone down in flames because it has spent toomuch.'
+p2709
+aS"And it's as the name of England."
+p2710
+aS'So --'
+p2711
+asg11
+S'JAEDUK CHO'
+p2712
+sg16
+(lp2713
+S'So I do believe that the United States has ridden to the top of the world because it was economically stronger than any other nations at that point, at that time.'
+p2714
+aS'But now, remaining militarily strong but remaining economically weak, how can it be -- how can it -- how can it maintain its position of the leader of the world?'
+p2715
+aS'Because I do believe that Great Britain has gone down in flames because it has spent too much.'
+p2716
+aS"And it's as the name of England."
+p2717
+aS'So --'
+p2718
+asg18
+(dp2719
+S'18:49:38'
+p2720
+I4
+ssa(dp2721
+g8
+(lp2722
+S'Can I rephrase you slightly?'
+p2723
+asg11
+S'JOHN DONVAN'
+p2724
+sg16
+(lp2725
+g2723
+asa(dp2726
+g8
+(lp2727
+S'Right.'
+p2728
+asg11
+S'DEREK CHO'
+p2729
+sg16
+(lp2730
+g2728
+asa(dp2731
+g8
+(lp2732
+S'And maybe --'
+p2733
+asg11
+S'JOHN DONVAN'
+p2734
+sg13
+(dp2735
+I1
+S'39'
+p2736
+ssg16
+(lp2737
+g2733
+asa(dp2738
+g8
+(lp2739
+S'Sure.'
+p2740
+asg11
+S'DEREK CHO'
+p2741
+sg16
+(lp2742
+g2740
+asa(dp2743
+g8
+(lp2744
+S"-- this is not your point, but I think you're saying that -- you're saying that a strongAmerican military is not enough, on its own, to ensure America's security."
+p2745
+aS"Is that whatyou're saying?"
+p2746
+asg11
+S'JOHN DONVAN'
+p2747
+sg16
+(lp2748
+S"-- this is not your point, but I think you're saying that -- you're saying that a strong American military is not enough, on its own, to ensure America's security."
+p2749
+aS"Is that what you're saying?"
+p2750
+asa(dp2751
+g8
+(lp2752
+S'No.'
+p2753
+aS'I mean, being economically strong is more important than being militarily strong.That is my point.'
+p2754
+asg11
+S'DEREK CHO'
+p2755
+sg16
+(lp2756
+S'No.'
+p2757
+aS'I mean, being economically strong is more important than being militarily strong.'
+p2758
+aS'That is my point.'
+p2759
+asa(dp2760
+g8
+(lp2761
+S'I know this side has already argued that point.'
+p2762
+aS"And I'm not sure this side disagrees withthat."
+p2763
+aS'Tom Donnelly.'
+p2764
+asg11
+S'JOHN DONVAN'
+p2765
+sg16
+(lp2766
+S'I know this side has already argued that point.'
+p2767
+aS"And I'm not sure this side disagrees with that."
+p2768
+aS'Tom Donnelly.'
+p2769
+asa(dp2770
+g8
+(lp2771
+S"I don't think we -- no, we don't disagree with it."
+p2772
+aS"Again, we have to keep things inperspective, as -- although I would add to that, we're not suffering from what, youknow, the historian Paul Kennedy called imperial overstretch.We're suffering from things like entitlement overstretch."
+p2773
+aS"The money that we'respending that's impoverishing us is not going, for the most part, to buy military power.It's going to buy other things that the government does, like provide social services.Whether that's a good thing or bad thing or not, I -- you know, people can reasonablydisagree."
+p2774
+aS"But that's where the money is going."
+p2775
+aS"And if we want to reform both thefederal government's books and to boost economic productivity, we can't do it bycutting the defense budget."
+p2776
+aS'We have to do it in other ways.'
+p2777
+asg11
+S'THOMAS DONNELLY'
+p2778
+sg16
+(lp2779
+S"I don't think we -- no, we don't disagree with it."
+p2780
+aS"Again, we have to keep things in perspective, as -- although I would add to that, we're not suffering from what, you know, the historian Paul Kennedy called imperial overstretch."
+p2781
+aS"We're suffering from things like entitlement overstretch."
+p2782
+aS"The money that we're spending that's impoverishing us is not going, for the most part, to buy military power."
+p2783
+aS"It's going to buy other things that the government does, like provide social services."
+p2784
+aS"Whether that's a good thing or bad thing or not, I -- you know, people can reasonably disagree."
+p2785
+aS"But that's where the money is going."
+p2786
+aS"And if we want to reform both the federal government's books and to boost economic productivity, we can't do it by cutting the defense budget."
+p2787
+aS'We have to do it in other ways.'
+p2788
+asg18
+(dp2789
+S'18:50:33'
+p2790
+I3
+ssa(dp2791
+g8
+(lp2792
+S'Yeah, I would say -- just let me add something to what Tom said.'
+p2793
+aS"The problem isn'tnecessarily entitlements, per se."
+p2794
+aS"It's the fact that as a people we're not willing to pay forthe benefits we vote ourselves."
+p2795
+aS'Entitlements are up around 10 percent of GDP, not 3percent.'
+p2796
+aS'And they -- the slope line is going up dramatically.'
+p2797
+aS"And as Robert Rubin saidnot too long ago, if we don't get a handle, particularly on the medical entitlements, thenthere's no way we can solve our economic problem."
+p2798
+asg11
+S'ANDREW KREPINEVICH'
+p2799
+sg16
+(lp2800
+S'Yeah, I would say -- just let me add something to what Tom said.'
+p2801
+aS"The problem isn't necessarily entitlements, per se."
+p2802
+aS"It's the fact that as a people we're not willing to pay for the benefits we vote ourselves."
+p2803
+aS'Entitlements are up around 10 percent of GDP, not 3 percent.'
+p2804
+aS'And they -- the slope line is going up dramatically.'
+p2805
+aS"And as Robert Rubin said not too long ago, if we don't get a handle, particularly on the medical entitlements, then there's no way we can solve our economic problem."
+p2806
+asg18
+(dp2807
+S'18:51:29'
+p2808
+I6
+ssa(dp2809
+g8
+(lp2810
+S"Ma'am."
+p2811
+aS'Red sweater.'
+p2812
+aS'This might be the last question, so make it a killer.'
+p2813
+asg11
+S'JOHN DONVAN'
+p2814
+sg13
+(dp2815
 I1
 S'40'
-p1873
-ssg13
-(lp1874
-S"Ma'am. Red sweater. This might be the last question, so make it a killer."
-p1875
-asa(dp1876
+p2816
+ssg16
+(lp2817
+S"Ma'am."
+p2818
+aS'Red sweater.'
+p2819
+aS'This might be the last question, so make it a killer.'
+p2820
+asa(dp2821
 g8
+(lp2822
+S'My name is Michelle Dikeman .'
+p2823
+aS'My question is really that theargument against has always been predicated on that we have this huge gap in ourtechnical capabilities over our enemies.'
+p2824
+aS"But yet I've seen how China and Russia arestealing our intellectual property and using that to make huge advances in theircapabilities."
+p2825
+aS"So how can you argue that by cutting the defense budget that we're simplygoing to be able to maintain our dominance when our enemies are using our technologyand our technical development against us?"
+p2826
+asg11
 S'MICHELLE DIKEMAN'
-p1877
-sg13
-(lp1878
-S'My name is Michelle Dikeman . My question is really that the'
-p1879
-aS'argument against has always been predicated on that we have this huge gap in our'
-p1880
-aS"technical capabilities over our enemies. But yet I've seen how China and Russia are"
-p1881
-aS'stealing our intellectual property and using that to make huge advances in their'
-p1882
-aS"capabilities. So how can you argue that by cutting the defense budget that we're simply"
-p1883
-aS'going to be able to maintain our dominance when our enemies are using our technology'
-p1884
-aS'and our technical development against us?'
-p1885
-asa(dp1886
-g20
-(dp1887
+p2827
+sg16
+(lp2828
+S'My name is Michelle Dikeman .'
+p2829
+aS'My question is really that the argument against has always been predicated on that we have this huge gap in our technical capabilities over our enemies.'
+p2830
+aS"But yet I've seen how China and Russia are stealing our intellectual property and using that to make huge advances in their capabilities."
+p2831
+aS"So how can you argue that by cutting the defense budget that we're simply going to be able to maintain our dominance when our enemies are using our technology and our technical development against us?"
+p2832
+asa(dp2833
+g22
+(dp2834
 I1
 S'[applause]'
-p1888
+p2835
 ssg8
+(lp2836
+S'Boy, that was a well-framed question.Kori Schake.'
+p2837
+aS'[[applause]] '
+p2838
+asg11
 S'JOHN DONVAN'
-p1889
-sg13
-(lp1890
+p2839
+sg16
+(lp2840
 S'Boy, that was a well-framed question.'
-p1891
+p2841
 aS'Kori Schake.'
-p1892
-asg16
-(dp1893
-I2
+p2842
+asg18
+(dp2843
 S'18:52:27'
-p1894
-ssa(dp1895
+p2844
+I2
+ssa(dp2845
 g8
+(lp2846
+S"Because I don't think our spending is the metric by which you should judge ourinnovation, our capacity to adapt to things."
+p2847
+aS"You're exactly right, the protection ofintellectual property is actually probably the most important thing the Americangovernment should be negotiating in our trade treaties, because that is the engine ofour economy."
+p2848
+aS'I live in Silicon Valley, and you can just feel the way that excitement andinteraction and people spurring off each others ideas.'
+p2849
+aS'We build better mouse traps.'
+p2850
+aS"And so I guess I am less concerned than you are because I'm pretty highly confidentthat we will continue to be an engine of innovation, of new ideas, and that having themsteal the design for the original iPod is a dangerous thing, but it's a lot less dangerouswhen we go on to the iPod 7."
+p2851
+asg11
 S'KORI SCHAKE'
-p1896
-sg13
-(lp1897
-S"Because I don't think our spending is the metric by which you should judge our"
-p1898
-aS"innovation, our capacity to adapt to things. You're exactly right, the protection of"
-p1899
-aS'intellectual property is actually probably the most important thing the American'
-p1900
-aS'government should be negotiating in our trade treaties, because that is the engine of'
-p1901
-aS'our economy. I live in Silicon Valley, and you can just feel the way that excitement and'
-p1902
-aS'interaction and people spurring off each others ideas. We build better mouse traps.'
-p1903
-aS" And so I guess I am less concerned than you are because I'm pretty highly confident"
-p1904
-aS'that we will continue to be an engine of innovation, of new ideas, and that having them'
-p1905
-aS"steal the design for the original iPod is a dangerous thing, but it's a lot less dangerous"
-p1906
-aS'when we go on to the iPod 7.'
-p1907
-asa(dp1908
-g20
-(dp1909
+p2852
+sg16
+(lp2853
+S"Because I don't think our spending is the metric by which you should judge our innovation, our capacity to adapt to things."
+p2854
+aS"You're exactly right, the protection of intellectual property is actually probably the most important thing the American government should be negotiating in our trade treaties, because that is the engine of our economy."
+p2855
+aS'I live in Silicon Valley, and you can just feel the way that excitement and interaction and people spurring off each others ideas.'
+p2856
+aS'We build better mouse traps.'
+p2857
+aS"And so I guess I am less concerned than you are because I'm pretty highly confident that we will continue to be an engine of innovation, of new ideas, and that having them steal the design for the original iPod is a dangerous thing, but it's a lot less dangerous when we go on to the iPod 7."
+p2858
+asa(dp2859
+g22
+(dp2860
 I1
 S'[applause]'
-p1910
+p2861
 sI10
 S'[applause]'
-p1911
-ssg8
+p2862
+ssg11
 S'JOHN DONVAN'
-p1912
-sg10
-(dp1913
+p2863
+sg16
+(lp2864
+S'And that concludes Round 2 of this debate.'
+p2865
+aS'I was late with my hand cue.'
+p2866
+aS"I'm sorry."
+p2867
+aS"Here's where we are."
+p2868
+aS'Were about to hear brief closing statements from each debater in turn.'
+p2869
+aS'These closing statements will be two minutes each.'
+p2870
+aS'Remember, you voted before the debate.'
+p2871
+aS"We're going to have you vote again immediately afterwards."
+p2872
+aS'And the team that has moved its numbers the most in percentage point terms will be declared our winner.'
+p2873
+aS'Onto Round 3, closing statements.'
+p2874
+aS"Our motion is, Cutting the Pentagon's budget is a gift to our enemies."
+p2875
+aS'Here to summarize -- we do all of -- the closing statements will all be seated, Kori, thanks.'
+p2876
+aS'Here to summarize her position against this motion, Kori Schake, a research fellow at the Hoover Institute.'
+p2877
+asg18
+(dp2878
+S'18:53:34'
+p2879
+I1
+ssg8
+(lp2880
+S'And that concludes Round 2 of this debate.I was late with my hand cue.'
+p2881
+aS"I'm sorry."
+p2882
+aS"Here's where we are."
+p2883
+aS'Were about to hear brief [[applause]] closing statements from each debater in turn.'
+p2884
+aS'These closing statements will be twominutes each.'
+p2885
+aS'Remember, you voted before the debate.'
+p2886
+aS"We're going to have you voteagain immediately afterwards."
+p2887
+aS'And the team that has moved its numbers the most inpercentage point terms will be declared our winner.'
+p2888
+aS'Onto Round 3, closing statements.'
+p2889
+aS"Our motion is, Cutting the Pentagon's budget is a gift to our enemies."
+p2890
+aS'Here tosummarize -- we do all of -- the closing statements will all be seated, Kori, thanks.'
+p2891
+aS'Hereto summarize her position against this motion, Kori Schake, a research fellow at theHoover Institute.'
+p2892
+asg13
+(dp2893
 I6
 S'41'
-p1914
-ssg13
-(lp1915
-S'And that concludes Round 2 of this debate.'
-p1916
-aS"I was late with my hand cue. I'm sorry. Here's where we are. Were about to hear brief"
-p1917
-aS'closing statements from each debater in turn. These closing statements will be two'
-p1918
-aS"minutes each. Remember, you voted before the debate. We're going to have you vote"
-p1919
-aS'again immediately afterwards. And the team that has moved its numbers the most in'
-p1920
-aS'percentage point terms will be declared our winner. Onto Round 3, closing statements.'
-p1921
-aS" Our motion is, Cutting the Pentagon's budget is a gift to our enemies. Here to"
-p1922
-aS'summarize -- we do all of -- the closing statements will all be seated, Kori, thanks. Here'
-p1923
-aS'to summarize her position against this motion, Kori Schake, a research fellow at the'
-p1924
-aS'Hoover Institute.'
-p1925
-asg16
-(dp1926
-I1
-S'18:53:34'
-p1927
-ssa(dp1928
+p2894
+ssa(dp2895
 g8
+(lp2896
+S'So spending is an input measure.'
+p2897
+aS"It's one thing you do to create an outcome that youwant.And to argue that constraining one element of why the United States is so dominant andso powerful and such a force for good in the world, that constraining that one elementwill in fact be a gift to our enemies dramatically understates all the other things that gointo America being a dominant power, the innovation that you talked about, theeconomic strengths that you talked about, the value of our ideas, the extent to whichwho we are and what we are willing to fight for in the world reshapes other people'ssense of the possibilities and their future."
+p2898
+aS'There are a lot of reasons the United States ispowerful and admired and feared in the world.'
+p2899
+aS'And defense spending, a small cut onthe margin of that, is actually not going to have a major perturbation of effect on it.But in fact, spending is much too crude a measure by which to determine whether ornot it -- that the United States is giving gifts to our enemies.'
+p2900
+aS"It's too small a factor in theoverall -- in the overall constellation of who the United States is and why it's powerfuland dominant in the international order."
+p2901
+aS"And that in order to accept our opponents'proposition, you would have to believe that a small change at the margin of a very largedefense budget of a very good military would, in fact, have a major influence on thecalculations of America's enemies in the world."
+p2902
+aS"And Ben and I are trying to arguethere's a more complicated calculation than that."
+p2903
+aS'More things go into it, and that weneed to think in a broader term.'
+p2904
+aS'And you can accept many of the very good argumentsthat Andy and Tom made --'
+p2905
+asg11
 S'KORI SCHAKE'
-p1929
-sg13
-(lp1930
-S"So spending is an input measure. It's one thing you do to create an outcome that you"
-p1931
-aS'want.'
-p1932
-aS'And to argue that constraining one element of why the United States is so dominant and'
-p1933
-aS'so powerful and such a force for good in the world, that constraining that one element'
-p1934
-aS'will in fact be a gift to our enemies dramatically understates all the other things that go'
-p1935
-aS'into America being a dominant power, the innovation that you talked about, the'
-p1936
-aS'economic strengths that you talked about, the value of our ideas, the extent to which'
-p1937
-aS"who we are and what we are willing to fight for in the world reshapes other people's"
-p1938
-aS'sense of the possibilities and their future. There are a lot of reasons the United States is'
-p1939
-aS'powerful and admired and feared in the world. And defense spending, a small cut on'
-p1940
-aS'the margin of that, is actually not going to have a major perturbation of effect on it.'
-p1941
-aS'But in fact, spending is much too crude a measure by which to determine whether or'
-p1942
-aS"not it -- that the United States is giving gifts to our enemies. It's too small a factor in the"
-p1943
-aS"overall -- in the overall constellation of who the United States is and why it's powerful"
-p1944
-aS"and dominant in the international order. And that in order to accept our opponents'"
-p1945
-aS'proposition, you would have to believe that a small change at the margin of a very large'
-p1946
-aS'defense budget of a very good military would, in fact, have a major influence on the'
-p1947
-aS"calculations of America's enemies in the world. And Ben and I are trying to argue"
-p1948
-aS"there's a more complicated calculation than that. More things go into it, and that we"
-p1949
-aS'need to think in a broader term. And you can accept many of the very good arguments'
-p1950
-aS'that Andy and Tom made --'
-p1951
-asg16
-(dp1952
-I2
-S'18:54:30'
-p1953
-sI11
+p2906
+sg16
+(lp2907
+S'So spending is an input measure.'
+p2908
+aS"It's one thing you do to create an outcome that you want."
+p2909
+aS"And to argue that constraining one element of why the United States is so dominant and so powerful and such a force for good in the world, that constraining that one element will in fact be a gift to our enemies dramatically understates all the other things that go into America being a dominant power, the innovation that you talked about, the economic strengths that you talked about, the value of our ideas, the extent to which who we are and what we are willing to fight for in the world reshapes other people's sense of the possibilities and their future."
+p2910
+aS'There are a lot of reasons the United States is powerful and admired and feared in the world.'
+p2911
+aS'And defense spending, a small cut on the margin of that, is actually not going to have a major perturbation of effect on it.'
+p2912
+aS'But in fact, spending is much too crude a measure by which to determine whether or not it -- that the United States is giving gifts to our enemies.'
+p2913
+aS"It's too small a factor in the overall -- in the overall constellation of who the United States is and why it's powerful and dominant in the international order."
+p2914
+aS"And that in order to accept our opponents' proposition, you would have to believe that a small change at the margin of a very large defense budget of a very good military would, in fact, have a major influence on the calculations of America's enemies in the world."
+p2915
+aS"And Ben and I are trying to argue there's a more complicated calculation than that."
+p2916
+aS'More things go into it, and that we need to think in a broader term.'
+p2917
+aS'And you can accept many of the very good arguments that Andy and Tom made --'
+p2918
+asg18
+(dp2919
 S'18:55:29'
-p1954
-sI21
-S'18:56:32'
-p1955
-ssa(dp1956
+p2920
+I11
+sS'18:56:32'
+p2921
+I21
+sS'18:54:30'
+p2922
+I2
+ssa(dp2923
 g8
+(lp2924
+S"Kori Schake, I'm sorry."
+p2925
+aS'Your time is up.'
+p2926
+aS'Thank you very much.'
+p2927
+asg11
 S'JOHN DONVAN'
-p1957
-sg13
-(lp1958
-S"Kori Schake, I'm sorry. Your time is up. Thank you very much."
-p1959
-asa(dp1960
-g20
-(dp1961
+p2928
+sg16
+(lp2929
+S"Kori Schake, I'm sorry."
+p2930
+aS'Your time is up.'
+p2931
+aS'Thank you very much.'
+p2932
+asa(dp2933
+g22
+(dp2934
 I1
 S'[applause]'
-p1962
+p2935
 ssg8
+(lp2936
+S'And still vote for our measure!'
+p2937
+asg11
 S'KORI SCHAKE'
-p1963
-sg10
-(dp1964
+p2938
+sg13
+(dp2939
 I1
 S'42'
-p1965
-ssg13
-(lp1966
-S'And still vote for our measure!'
-p1967
-asa(dp1968
-g20
-(dp1969
+p2940
+ssg16
+(lp2941
+g2937
+asa(dp2942
+g22
+(dp2943
 I4
 S'[applause]'
-p1970
+p2944
 ssg8
+(lp2945
+S"The motion is cutting the Pentagon's budget is a gift to our enemies."
+p2946
+aS'And here tosummarize his position in support of this motion, Thomas Donnelly.'
+p2947
+aS"He's co-director ofthe Marilyn Ware Center for Security Studies at the American Enterprise Institute."
+p2948
+aS'Ladies and gentlemen, Thomas Donnelly.'
+p2949
+asg11
 S'JOHN DONVAN'
-p1971
-sg13
-(lp1972
-S"The motion is cutting the Pentagon's budget is a gift to our enemies. And here to"
-p1973
-aS"summarize his position in support of this motion, Thomas Donnelly. He's co-director of"
-p1974
-aS'the Marilyn Ware Center for Security Studies at the American Enterprise Institute.'
-p1975
-aS' Ladies and gentlemen, Thomas Donnelly.'
-p1976
-asa(dp1977
+p2950
+sg16
+(lp2951
+S"The motion is cutting the Pentagon's budget is a gift to our enemies."
+p2952
+aS'And here to summarize his position in support of this motion, Thomas Donnelly.'
+p2953
+aS"He's co-director of the Marilyn Ware Center for Security Studies at the American Enterprise Institute."
+p2954
+aS'Ladies and gentlemen, Thomas Donnelly.'
+p2955
+asa(dp2956
 g8
+(lp2957
+S'Well, thanks to you all for listening to this sometimes unhappy and complex debate.'
+p2958
+aS'Istill think that the basic proposition is pretty simple and straightforward.'
+p2959
+aS"And I guessthat's why I'm not a political scientist and I'm more of a historian because that's theexperience that -- and the measures, the outputs by which I would judge thisproposition."
+p2960
+aS'Kori keeps talking about Americans building a better mouse trap.'
+p2961
+aS"Theworld that we have built over the last seven decades is a really good mouse trap.It's a complex mouse trap, as Kori suggested."
+p2962
+aS'There are lots of things that go intomaking a liberal peace.'
+p2963
+aS"But it's not a liberal peace that invented itself."
+p2964
+aS"The Europeansdidn't, after five centuries of slaughtering one another and slaughtering the rest of thepeoples in the world, decide -- get all together and say, you know, I think we should cutthis out."
+p2965
+aS'Not even the imperial Japanese.'
+p2966
+aS"They were defeated in war by the UnitedStates, and because of that, they've become liberal democracies and pretty peacefulones too."
+p2967
+aS"So I don't know what the marginal difference will be, but it's not anexperiment that I want to make."
+p2968
+aS"We've seen what's happened with the marginal cuts ofthe last couple of years."
+p2969
+aS"We see what's happening in Syria today."
+p2970
+aS'We see the Chinesemessing about in the South China Sea.'
+p2971
+aS'Are they coming to our shores tomorrow?'
+p2972
+aS'No.'
+p2973
+aS"But let's not let it come to that point.A marginal difference."
+p2974
+aS"We don't want to know where the last margin of safety is."
+p2975
+aS"It'sbetter to have more margins of safety than less."
+p2976
+aS"And that's really what this propositioncomes down to."
+p2977
+asg11
 S'THOMAS DONNELLY'
-p1978
-sg13
-(lp1979
-S'Well, thanks to you all for listening to this sometimes unhappy and complex debate. I'
-p1980
-aS'still think that the basic proposition is pretty simple and straightforward. And I guess'
-p1981
-aS"that's why I'm not a political scientist and I'm more of a historian because that's the"
-p1982
-aS'experience that -- and the measures, the outputs by which I would judge this'
-p1983
-aS'proposition. Kori keeps talking about Americans building a better mouse trap. The'
-p1984
-aS'world that we have built over the last seven decades is a really good mouse trap.'
-p1985
-aS"It's a complex mouse trap, as Kori suggested. There are lots of things that go into"
-p1986
-aS"making a liberal peace. But it's not a liberal peace that invented itself. The Europeans"
-p1987
-aS"didn't, after five centuries of slaughtering one another and slaughtering the rest of the"
-p1988
-aS'peoples in the world, decide -- get all together and say, you know, I think we should cut'
-p1989
-aS'this out. Not even the imperial Japanese. They were defeated in war by the United'
-p1990
-aS"States, and because of that, they've become liberal democracies and pretty peaceful"
-p1991
-aS"ones too. So I don't know what the marginal difference will be, but it's not an"
-p1992
-aS"experiment that I want to make. We've seen what's happened with the marginal cuts of"
-p1993
-aS"the last couple of years. We see what's happening in Syria today. We see the Chinese"
-p1994
-aS'messing about in the South China Sea. Are they coming to our shores tomorrow? No.'
-p1995
-aS" But let's not let it come to that point."
-p1996
-aS"A marginal difference. We don't want to know where the last margin of safety is. It's"
-p1997
-aS"better to have more margins of safety than less. And that's really what this proposition"
-p1998
-aS'comes down to.'
-p1999
-asg16
-(dp2000
-I17
+p2978
+sg16
+(lp2979
+S'Well, thanks to you all for listening to this sometimes unhappy and complex debate.'
+p2980
+aS'I still think that the basic proposition is pretty simple and straightforward.'
+p2981
+aS"And I guess that's why I'm not a political scientist and I'm more of a historian because that's the experience that -- and the measures, the outputs by which I would judge this proposition."
+p2982
+aS'Kori keeps talking about Americans building a better mouse trap.'
+p2983
+aS'The world that we have built over the last seven decades is a really good mouse trap.'
+p2984
+aS"It's a complex mouse trap, as Kori suggested."
+p2985
+aS'There are lots of things that go into making a liberal peace.'
+p2986
+aS"But it's not a liberal peace that invented itself."
+p2987
+aS"The Europeans didn't, after five centuries of slaughtering one another and slaughtering the rest of the peoples in the world, decide -- get all together and say, you know, I think we should cut this out."
+p2988
+aS'Not even the imperial Japanese.'
+p2989
+aS"They were defeated in war by the United States, and because of that, they've become liberal democracies and pretty peaceful ones too."
+p2990
+aS"So I don't know what the marginal difference will be, but it's not an experiment that I want to make."
+p2991
+aS"We've seen what's happened with the marginal cuts of the last couple of years."
+p2992
+aS"We see what's happening in Syria today."
+p2993
+aS'We see the Chinese messing about in the South China Sea.'
+p2994
+aS'Are they coming to our shores tomorrow?'
+p2995
+aS'No.'
+p2996
+aS"But let's not let it come to that point."
+p2997
+aS'A marginal difference.'
+p2998
+aS"We don't want to know where the last margin of safety is."
+p2999
+aS"It's better to have more margins of safety than less."
+p3000
+aS"And that's really what this proposition comes down to."
+p3001
+asg18
+(dp3002
 S'18:58:30'
-p2001
-sI6
-S'18:57:33'
-p2002
-ssa(dp2003
-g20
-(dp2004
+p3003
+I17
+sS'18:57:33'
+p3004
+I6
+ssa(dp3005
+g22
+(dp3006
 I1
 S'[applause]'
-p2005
+p3007
 sI4
 S'[applause]'
-p2006
+p3008
 ssg8
+(lp3009
+S"Thank you, Thomas Donnelly.Our motion is, Cutting the Pentagon's budget is a gift to our enemies."
+p3010
+aS'And here to [[applause]] support -- here to summarize his argument against this motion, Benjamin Friedman, aresearch fellow at the Cato Institute.'
+p3011
+asg11
 S'JOHN DONVAN'
-p2007
-sg10
-(dp2008
+p3012
+sg13
+(dp3013
 I4
 S'43'
-p2009
-ssg13
-(lp2010
+p3014
+ssg16
+(lp3015
 S'Thank you, Thomas Donnelly.'
-p2011
-aS"Our motion is, Cutting the Pentagon's budget is a gift to our enemies. And here to"
-p2012
-aS'support -- here to summarize his argument against this motion, Benjamin Friedman, a'
-p2013
-aS'research fellow at the Cato Institute.'
-p2014
-asa(dp2015
+p3016
+aS"Our motion is, Cutting the Pentagon's budget is a gift to our enemies."
+p3017
+aS'And here to support -- here to summarize his argument against this motion, Benjamin Friedman, a research fellow at the Cato Institute.'
+p3018
+asa(dp3019
 g8
+(lp3020
+S"For the record, I'm for World War II."
+p3021
+aS'I think that was a good move for us to fight that.'
+p3022
+aS"So let's not say that we oppose that."
+p3023
+aS'Look, my argument is -- it has two parts.'
+p3024
+aS'Numberone, we can do a lot -- we can save a lot of money while doing all the things we do in theworld.'
+p3025
+aS"If you think we're agents of history and everything in the world is great becauseof us, fine."
+p3026
+aS'Go listen to some of the recommendations out there on how to cut thedefense budget by 50 or 60 billion, and you can do it, okay?You can cut the defense budget and still have these alliances.'
+p3027
+aS"My own view is thesealliances and a lot of stuff we're doing in the world are actually bad for our security, sowe'd be even better off if we could get out of the business of trying to run everyoneelse's security for them."
+p3028
+aS'Pax Britannica, Pax Americana, a lot of other things werehappening in the world at that time.'
+p3029
+aS'A lot has changed.'
+p3030
+aS"There were -- it's a disservice tohistory to say that there's only one factor that matters, which is whether or not there's ahegemon that's trying to manage international affairs."
+p3031
+aS"There's a variety of reasons,changes in the international system that encourage peace, absent the benevolence ofthe United States of America."
+p3032
+aS'So I think what we have today is a luxury budget.'
+p3033
+aS"It's nota defense budget."
+p3034
+aS"It protects our safety in the same way a billionaire's restaurantchoices prevent his starvation."
+p3035
+aS"There's a lot of room -- there's a lot of room in there forus to be safe and cut.So I think cuts to the Pentagon are a gift to ourselves, will make us a bit richer."
+p3036
+aS"And inthe long term by inducing some choices that we've avoided in the defense budget, theymight make us reconsider some policies that actually erode our security and get us intotrouble."
+p3037
+aS"And that's why cutting the defense budget is not a gift to our enemies."
+p3038
+asg11
 S'BENJAMIN FRIEDMAN'
-p2016
-sg13
-(lp2017
-S"For the record, I'm for World War II. I think that was a good move for us to fight that."
-p2018
-aS" So let's not say that we oppose that. Look, my argument is -- it has two parts. Number"
-p2019
-aS'one, we can do a lot -- we can save a lot of money while doing all the things we do in the'
-p2020
-aS"world. If you think we're agents of history and everything in the world is great because"
-p2021
-aS'of us, fine. Go listen to some of the recommendations out there on how to cut the'
-p2022
-aS'defense budget by 50 or 60 billion, and you can do it, okay?'
-p2023
-aS'You can cut the defense budget and still have these alliances. My own view is these'
-p2024
-aS"alliances and a lot of stuff we're doing in the world are actually bad for our security, so"
-p2025
-aS"we'd be even better off if we could get out of the business of trying to run everyone"
-p2026
-aS"else's security for them. Pax Britannica, Pax Americana, a lot of other things were"
-p2027
-aS"happening in the world at that time. A lot has changed. There were -- it's a disservice to"
-p2028
-aS"history to say that there's only one factor that matters, which is whether or not there's a"
-p2029
-aS"hegemon that's trying to manage international affairs. There's a variety of reasons,"
-p2030
-aS'changes in the international system that encourage peace, absent the benevolence of'
-p2031
-aS"the United States of America. So I think what we have today is a luxury budget. It's not"
-p2032
-aS"a defense budget. It protects our safety in the same way a billionaire's restaurant"
-p2033
-aS"choices prevent his starvation. There's a lot of room -- there's a lot of room in there for"
-p2034
-aS'us to be safe and cut.'
-p2035
-aS'So I think cuts to the Pentagon are a gift to ourselves, will make us a bit richer. And in'
-p2036
-aS"the long term by inducing some choices that we've avoided in the defense budget, they"
-p2037
-aS'might make us reconsider some policies that actually erode our security and get us into'
-p2038
-aS"trouble. And that's why cutting the defense budget is not a gift to our enemies."
-p2039
-asg16
-(dp2040
-I18
+p3039
+sg16
+(lp3040
+S"For the record, I'm for World War II."
+p3041
+aS'I think that was a good move for us to fight that.'
+p3042
+aS"So let's not say that we oppose that."
+p3043
+aS'Look, my argument is -- it has two parts.'
+p3044
+aS'Number one, we can do a lot -- we can save a lot of money while doing all the things we do in the world.'
+p3045
+aS"If you think we're agents of history and everything in the world is great because of us, fine."
+p3046
+aS'Go listen to some of the recommendations out there on how to cut the defense budget by 50 or 60 billion, and you can do it, okay?'
+p3047
+aS'You can cut the defense budget and still have these alliances.'
+p3048
+aS"My own view is these alliances and a lot of stuff we're doing in the world are actually bad for our security, so we'd be even better off if we could get out of the business of trying to run everyone else's security for them."
+p3049
+aS'Pax Britannica, Pax Americana, a lot of other things were happening in the world at that time.'
+p3050
+aS'A lot has changed.'
+p3051
+aS"There were -- it's a disservice to history to say that there's only one factor that matters, which is whether or not there's a hegemon that's trying to manage international affairs."
+p3052
+aS"There's a variety of reasons, changes in the international system that encourage peace, absent the benevolence of the United States of America."
+p3053
+aS'So I think what we have today is a luxury budget.'
+p3054
+aS"It's not a defense budget."
+p3055
+aS"It protects our safety in the same way a billionaire's restaurant choices prevent his starvation."
+p3056
+aS"There's a lot of room -- there's a lot of room in there for us to be safe and cut."
+p3057
+aS'So I think cuts to the Pentagon are a gift to ourselves, will make us a bit richer.'
+p3058
+aS"And in the long term by inducing some choices that we've avoided in the defense budget, they might make us reconsider some policies that actually erode our security and get us into trouble."
+p3059
+aS"And that's why cutting the defense budget is not a gift to our enemies."
+p3060
+asg18
+(dp3061
 S'19:00:32'
-p2041
-sI6
-S'18:59:33'
-p2042
-ssa(dp2043
-g20
-(dp2044
+p3062
+I18
+sS'18:59:33'
+p3063
+I6
+ssa(dp3064
+g22
+(dp3065
 I3
 S'[applause]'
-p2045
+p3066
 ssg8
+(lp3067
+S'Thank you.'
+p3068
+aS'Benjamin Friedman.'
+p3069
+aS"Our motion is, Cutting the Pentagon's budget is a giftto our enemies."
+p3070
+aS'And here to summarize his position in support of this motion, AndrewKrepinevich, president of the Center for Strategic and Budgetary Assessments.'
+p3071
+asg11
 S'JOHN DONVAN'
-p2046
-sg13
-(lp2047
-S"Thank you. Benjamin Friedman. Our motion is, Cutting the Pentagon's budget is a gift"
-p2048
-aS'to our enemies. And here to summarize his position in support of this motion, Andrew'
-p2049
-aS'Krepinevich, president of the Center for Strategic and Budgetary Assessments.'
-p2050
-asa(dp2051
-g20
-(dp2052
+p3072
+sg16
+(lp3073
+S'Thank you.'
+p3074
+aS'Benjamin Friedman.'
+p3075
+aS"Our motion is, Cutting the Pentagon's budget is a gift to our enemies."
+p3076
+aS'And here to summarize his position in support of this motion, Andrew Krepinevich, president of the Center for Strategic and Budgetary Assessments.'
+p3077
+asa(dp3078
+g22
+(dp3079
 I2
 S'[applause]'
-p2053
+p3080
 sI20
 S'[applause]'
-p2054
-ssg8
+p3081
+ssg11
 S'ANDREW KREPINEVICH'
-p2055
-sg10
-(dp2056
+p3082
+sg16
+(lp3083
+S'One way to think about your vote is if Vladimir Putin were here tonight or the senior generals of the PLA or the Ayatollah Khomeini, how would they be voting, do you think?'
+p3084
+aS'The issue we debate here tonight is very real for me.'
+p3085
+aS'For 25 years I wore the uniform of a soldier, and in the 1973 Middle East war we were one order short of arming nuclear warheads.'
+p3086
+aS'But we were trained.'
+p3087
+aS'We were equipped.'
+p3088
+aS'We were ready.'
+p3089
+aS'Two years later in 1975 I was stationed on a militarized zone in Korea when the North Koreans were digging tunnels underneath us and trying to intercept the resupply ships we were sending out to some of the islands off the coast of South Korea.'
+p3090
+aS'But we had confidence in our equipment.'
+p3091
+aS'We had well-trained troops.'
+p3092
+aS"We weren't looking forward to a scrape but we were ready."
+p3093
+aS"Only two years later, after the results of Watergate and Vietnam and inflation and oil shocks really hit home, I was in a unit where we couldn't train, where our troops were hiding toilet paper because we couldn't get toilet paper for our troops, where some of my best soldiers were leaving the Army because they had no faith that the American people were willing to provide what was necessary for us to be a ready unit."
+p3094
+aS'And I say thankfully we were not put to the test.'
+p3095
+aS'We recovered, but it was a very expensive proposition in the early 1980s to put Humpty Dumpty back together again after the military was broken.'
+p3096
+aS'We were lucky.'
+p3097
+aS"I wouldn't want to risk our security or our economic well-being on luck, and certainly not the lives of our young men and women in uniform."
+p3098
+aS'Thank you.'
+p3099
+asg18
+(dp3100
+S'19:01:29'
+p3101
+I2
+sS'19:02:43'
+p3102
+I15
+ssg8
+(lp3103
+S'One way to think about your vote is if Vladimir Putin were here tonight or the seniorgenerals of the PLA or the Ayatollah Khomeini, how would they be voting, do you think?The issue we debate here tonight is very real for me.'
+p3104
+aS'For 25 years I wore the uniform of [[applause]] a soldier, and in the 1973 Middle East war we were one order short of arming nuclearwarheads.'
+p3105
+aS'But we were trained.'
+p3106
+aS'We were equipped.'
+p3107
+aS'We were ready.'
+p3108
+aS'Two years laterin 1975 I was stationed on a militarized zone in Korea when the North Koreans weredigging tunnels underneath us and trying to intercept the resupply ships we weresending out to some of the islands off the coast of South Korea.'
+p3109
+aS'But we had confidencein our equipment.'
+p3110
+aS'We had well-trained troops.'
+p3111
+aS"We weren't looking forward to a scrapebut we were ready."
+p3112
+aS"Only two years later, after the results of Watergate and Vietnamand inflation and oil shocks really hit home, I was in a unit where we couldn't train,where our troops were hiding toilet paper because we couldn't get toilet paper for ourtroops, where some of my best soldiers were leaving the Army because they had nofaith that the American people were willing to provide what was necessary for us to be aready unit.And I say thankfully we were not put to the test."
+p3113
+aS'We recovered, but it was a veryexpensive proposition in the early 1980s to put Humpty Dumpty back together againafter the military was broken.'
+p3114
+aS'We were lucky.'
+p3115
+aS"I wouldn't want to risk our security orour economic well-being on luck, and certainly not the lives of our young men andwomen in uniform."
+p3116
+aS'Thank you.'
+p3117
+asg13
+(dp3118
 I2
 S'44'
-p2057
-ssg13
-(lp2058
-S'One way to think about your vote is if Vladimir Putin were here tonight or the senior'
-p2059
-aS'generals of the PLA or the Ayatollah Khomeini, how would they be voting, do you think?'
-p2060
-aS'The issue we debate here tonight is very real for me. For 25 years I wore the uniform of'
-p2061
-aS'a soldier, and in the 1973 Middle East war we were one order short of arming nuclear'
-p2062
-aS'warheads. But we were trained. We were equipped. We were ready. Two years later'
-p2063
-aS'in 1975 I was stationed on a militarized zone in Korea when the North Koreans were'
-p2064
-aS'digging tunnels underneath us and trying to intercept the resupply ships we were'
-p2065
-aS'sending out to some of the islands off the coast of South Korea. But we had confidence'
-p2066
-aS"in our equipment. We had well-trained troops. We weren't looking forward to a scrape"
-p2067
-aS'but we were ready. Only two years later, after the results of Watergate and Vietnam'
-p2068
-aS"and inflation and oil shocks really hit home, I was in a unit where we couldn't train,"
-p2069
-aS"where our troops were hiding toilet paper because we couldn't get toilet paper for our"
-p2070
-aS'troops, where some of my best soldiers were leaving the Army because they had no'
-p2071
-aS'faith that the American people were willing to provide what was necessary for us to be a'
-p2072
-aS'ready unit.'
-p2073
-aS'And I say thankfully we were not put to the test. We recovered, but it was a very'
-p2074
-aS'expensive proposition in the early 1980s to put Humpty Dumpty back together again'
-p2075
-aS"after the military was broken. We were lucky. I wouldn't want to risk our security or"
-p2076
-aS'our economic well-being on luck, and certainly not the lives of our young men and'
-p2077
-aS'women in uniform. Thank you.'
-p2078
-asg16
-(dp2079
-I2
-S'19:01:29'
-p2080
-sI15
-S'19:02:43'
-p2081
-ssa(dp2082
-g20
-(dp2083
+p3119
+ssa(dp3120
+g22
+(dp3121
 I12
 S'[applause]'
-p2084
-ssg8
+p3122
+ssg11
 S'JOHN DONVAN'
-p2085
-sg10
-(dp2086
+p3123
+sg16
+(lp3124
+S'Thank you.'
+p3125
+aS'Andrew Krepinevich.'
+p3126
+aS"And that concludes our closing statements, and now it's time to see which side you feel has argued the best."
+p3127
+aS'We want to have you go again to the keypad at your seat to register your vote.'
+p3128
+aS"You voted before the debate, we're going to have you vote again now."
+p3129
+aS'And the team that has moved its numbers the most in percentage point terms will be declared our winner.'
+p3130
+aS'Press one if you are in support of the motion, two if you are against it, three if you are undecided.'
+p3131
+aS'The motion is, "Cutting the Pentagon\'s budget is a gift to our enemies.'
+p3132
+aS'" It looks like everybody\'s ready.'
+p3133
+aS"We're going to have the results -- I'm going to announce the results in about two minutes from now, but first, we regret that Senator McCain has a day job, that he -- we don't regret it, actually we're glad he's doing his day job -- he is there doing it now."
+p3134
+aS"He wasn't able to make it, sends his regrets, but we want to bring back to the stage in his place Ambassador Kurt Volker."
+p3135
+asg18
+(dp3136
+S'19:03:29'
+p3137
+I5
+ssg8
+(lp3138
+S'Thank you.'
+p3139
+aS'Andrew Krepinevich.'
+p3140
+aS"And that concludes our closing statements, and nowit's time to see which side you feel has argued the best."
+p3141
+aS'We want to have you go againto the keypad at your seat to register your vote.'
+p3142
+aS"You voted before the debate, we'regoing to have you vote again now."
+p3143
+aS'And the team that has moved its numbers the mostin percentage point terms will be declared our winner.Press one if you are in support of the motion, two if you are against it, three if you areundecided.'
+p3144
+aS'The motion is, "Cutting the Pentagon\'s budget is a gift to our enemies.'
+p3145
+aS'" Itlooks like everybody\'s ready.'
+p3146
+aS"We're going to have the results -- I'm going to announcethe results in about two minutes from now, but first, we regret that Senator McCain hasa day job, that he -- we don't regret it, actually we're glad he's doing his day job -- he isthere doing it now."
+p3147
+aS"He wasn't able to make it, sends his regrets, but we want to bringback to the stage in his place Ambassador Kurt Volker."
+p3148
+asg13
+(dp3149
 I12
 S'45'
-p2087
-ssg13
-(lp2088
-S'Thank you. Andrew Krepinevich. And that concludes our closing statements, and now'
-p2089
-aS"it's time to see which side you feel has argued the best. We want to have you go again"
-p2090
-aS"to the keypad at your seat to register your vote. You voted before the debate, we're"
-p2091
-aS'going to have you vote again now. And the team that has moved its numbers the most'
-p2092
-aS'in percentage point terms will be declared our winner.'
-p2093
-aS'Press one if you are in support of the motion, two if you are against it, three if you are'
-p2094
-aS'undecided. The motion is, "Cutting the Pentagon\'s budget is a gift to our enemies." It'
-p2095
-aS"looks like everybody's ready. We're going to have the results -- I'm going to announce"
-p2096
-aS'the results in about two minutes from now, but first, we regret that Senator McCain has'
-p2097
-aS"a day job, that he -- we don't regret it, actually we're glad he's doing his day job -- he is"
-p2098
-aS"there doing it now. He wasn't able to make it, sends his regrets, but we want to bring"
-p2099
-aS'back to the stage in his place Ambassador Kurt Volker.'
-p2100
-asg16
-(dp2101
-I5
-S'19:03:29'
-p2102
-ssa(dp2103
-g20
-(dp2104
+p3150
+ssa(dp3151
+g22
+(dp3152
 I4
 S'[applause]'
-p2105
+p3153
 sI5
 S'[applause]'
-p2106
+p3154
 sI13
 S'[applause]'
-p2107
+p3155
 ssg8
+(lp3156
+S'Thank you.'
+p3157
+aS"So before we get the results of the voting, I just want to raise one questionof my own.Was this the best most illuminating discussion of our defense budget cuts that you haveheard in this town in a long time?And also is John Donvan the best moderator you've seen do this in -- [[applause]] Now, when we got here there were a lot of the issues that were going to come out."
+p3158
+aS"The [[applause]] fact is we are cutting our defense budgets, and the fact is we're going to have to face alot of choices about what that means and how we manage it."
+p3159
+aS"And I think you heardtonight a lot of the things that we're going to be thinking about in the months ahead aswe have to work through that process."
+p3160
+aS'So I want to thank all of you again for comingthis evening and I want to apologize on behalf of Senator McCain that indeed he doeshave a day job.'
+p3161
+aS'I was going to say, "Unfortunately, he\'s stuck working on immigration,but actually I think I feel fortunately he\'s working on immigration.'
+p3162
+aS'So thank you all.'
+p3163
+asg11
 S'KURT VOLKER'
-p2108
-sg13
-(lp2109
-S'Thank you. So before we get the results of the voting, I just want to raise one question'
-p2110
-aS'of my own.'
-p2111
-aS'Was this the best most illuminating discussion of our defense budget cuts that you have'
-p2112
-aS'heard in this town in a long time?'
-p2113
-aS"And also is John Donvan the best moderator you've seen do this in --"
-p2114
-aS'Now, when we got here there were a lot of the issues that were going to come out. The'
-p2115
-aS"fact is we are cutting our defense budgets, and the fact is we're going to have to face a"
-p2116
-aS'lot of choices about what that means and how we manage it. And I think you heard'
-p2117
-aS"tonight a lot of the things that we're going to be thinking about in the months ahead as"
-p2118
-aS'we have to work through that process. So I want to thank all of you again for coming'
-p2119
-aS'this evening and I want to apologize on behalf of Senator McCain that indeed he does'
-p2120
-aS'have a day job. I was going to say, "Unfortunately, he\'s stuck working on immigration,'
-p2121
-aS"but actually I think I feel fortunately he's working on immigration. So thank you all."
-p2122
-asg16
-(dp2123
-I2
+p3164
+sg16
+(lp3165
+S'Thank you.'
+p3166
+aS'So before we get the results of the voting, I just want to raise one question of my own.'
+p3167
+aS'Was this the best most illuminating discussion of our defense budget cuts that you have heard in this town in a long time?'
+p3168
+aS"And also is John Donvan the best moderator you've seen do this in -- Now, when we got here there were a lot of the issues that were going to come out."
+p3169
+aS"The fact is we are cutting our defense budgets, and the fact is we're going to have to face a lot of choices about what that means and how we manage it."
+p3170
+aS"And I think you heard tonight a lot of the things that we're going to be thinking about in the months ahead as we have to work through that process."
+p3171
+aS'So I want to thank all of you again for coming this evening and I want to apologize on behalf of Senator McCain that indeed he does have a day job.'
+p3172
+aS'I was going to say, "Unfortunately, he\'s stuck working on immigration, but actually I think I feel fortunately he\'s working on immigration.'
+p3173
+aS'So thank you all.'
+p3174
+asg18
+(dp3175
 S'19:04:30'
-p2124
+p3176
+I2
 ssasS'after'
-p2125
-(lp2126
+p3177
+(lp3178
 S'29%-FOR'
-p2127
+p3179
 aS'65%-AGAINST'
-p2128
+p3180
 aS'6%-UNDECIDED'
-p2129
+p3181
 asS'against'
-p2130
-(lp2131
+p3182
+(lp3183
 S'KORI SCHAKE'
-p2132
+p3184
 aS'BENJAMIN FRIEDMAN'
-p2133
+p3185
 asS'moderator'
-p2134
-(lp2135
+p3186
+(lp3187
 S'JOHN DONVAN'
-p2136
+p3188
 asS'date'
-p2137
-(dp2138
+p3189
+(dp3190
 S'year'
-p2139
+p3191
 S'2013'
-p2140
+p3192
 sS'day'
-p2141
+p3193
 S'19'
-p2142
+p3194
 sS'month'
-p2143
+p3195
 S'June'
-p2144
+p3196
 ssS'before'
-p2145
-(lp2146
+p3197
+(lp3198
 S'22%-FOR'
-p2147
+p3199
 aS'57%-AGAINST'
-p2148
+p3200
 aS'21%-UNDECIDED'
-p2149
+p3201
 as.
