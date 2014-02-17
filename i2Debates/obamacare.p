@@ -1185,5091 +1185,5095 @@ p573
 ssa(dp574
 g113
 (dp575
-I120
+I1
 S'[applause]'
 p576
-sI1
-S'[applause]'
-p577
-sI19
-S'[laughter]'
-p578
-sI23
-S'[applause]'
-p579
 ssg11
 S'JOHN DONVAN'
-p580
+p577
 sg16
-(lp581
+(lp578
 S'Sir, your time is up.'
-p582
+p579
 aS'Thank you very much.'
-p583
+p580
 aS'We are halfway through the opening round of this Intelligence Squared U.S. debate.'
-p584
+p581
 aS'Im John Donvan of ABC News.'
-p585
+p582
 aS'We have four debaters, two teams of two, who are fighting it out over this motion, Repeal Obamacare.'
-p586
+p583
 aS'You have heard from the first two debaters and now on to the third.'
-p587
+p584
 aS'To argue for the motion, to argue for the repeal of Obamacare, Id like to introduce Douglas Holtz-Eakin, who is president of the American Action Forum.'
-p588
+p585
 aS'He was with the McCain campaign as an adviser and in his critiques of the Obama health plan, came up with the telling phrase, fantasy in, fantasy out.'
-p589
+p586
 aS'I believe thats yours.'
-p590
+p587
 aS'You own that.'
-p591
-aS'You also -- Douglas Holtz-Eakin: Not very profitable but I own it.'
-p592
-aS'Yes.'
-p593
-aS'I also learned through Google another delicious fact -- you were a good sport about it -- but after leaving the McCain campaign, you couldnt get health insurance for some time.'
-p594
-aS'Douglas Holtz-Eakin: Not exactly right but I have a pre-existing condition.'
-p595
-aS'Actually, I have two kidneys on my left side from some extensive work before the 21st Century and I was left on COBRA coverage and the solution, of course, is to start your own employer so I started a think tank to get insurance.'
-p596
-aS'So youre covered.'
-p597
-aS'Douglas Holtz-Eakin: I am covered.'
-p598
-aS'You took it the hard way.'
-p599
-aS'Ladies and gentlemen, Douglas Holtz-Eakin.'
-p600
-aS'Thank you.'
-p601
-aS'Douglas Holtz-Eakin: So thank you very much for the chance to be here tonight to our sponsors and to our opponents.'
-p602
-aS'You know, Im going to ask you to support the motion but in the end, youve all realized that what were debating tonight is about getting healthcare reform in the United States because there is no dispute about the need for healthcare reform.'
-p603
-aS'My own history, Johns history, probably the histories on the other side of the table of which Im unaware are stark tribute to the need to do things better in the United States.'
-p604
-aS'Real healthcare reform has two pieces.'
-p605
-aS'Number one, it extends healthcare coverage to Americans, gives them options for insurance and insurance is a product which shifts around the cost of your healthcare.'
-p606
-aS'In the end, an insurance system takes the nations health care bill and shifts around who picks up the ultimate cost, moving it from some people who are unable to shoulder the full burden of the cost of their care to some others who may be able to.'
-p607
-aS'The second piece, the piece that drives everything, is the overall healthcare bill.'
-p608
-aS'And the United States has a health care bill which is far too large and certainly far too large for what we get.'
-p609
-aS'At one-sixth of our economy, its one of the most inefficient pieces of economics that one could imagine.'
-p610
-aS'And the key fact to remember in thinking about this debate is that over the past four decades.'
-p611
-aS'If you look at income per person in the United States and healthcare spending per person, the resources versus the costs, costs have been winning at two to two and a half percentage points every year for four decades.'
-p612
-aS'Republicans, Democrats alike.'
-p613
-aS'It is the costs and the spending on healthcare that ultimately has to be covered by insurance premiums.'
-p614
-aS"And if you don't control costs, you cannot control insurance premiums, and you cannot deal with extending coverage to Americans, which is ultimately what real healthcare reform is about."
-p615
-aS'I favor repeal because this reform flunks the test of healthcare reform.'
-p616
-aS'It does not deal with the cost problem.'
-p617
-aS"Now, I don't need to say so."
-p618
-aS'Many people, far more qualified than I, have said so.'
-p619
-aS'The Congressional Budget Office, in the aftermath of passage of the Affordable Care Act, put out its new long-term care -- or its new long-term budget projections.'
-p620
-aS'Did health spending in the federal budget grow more slowly as a result of this?'
-p621
-aS'No, it does not.'
-p622
-aS"You can look at the CMS actuary, the administration, the Obama administration's own chief actuary, Richard Foster, who estimates that the affordable care actually will raise national healthcare spending, not lower it, and will actually endanger the future of Medicare, not make it more solid."
-p623
-aS'You can ask Jonathan Gruber.'
-p624
-aS'Jonathan Gruber is one of the architects of Obamacare.'
-p625
-aS"He's one of the architects of the Massachusetts reform on which Obamacare was founded."
-p626
-aS"And in his article in the Journal of Policy Analysis and Management, he says, This isn't about cost reform."
-p627
-aS'This is health insurance reform.'
-p628
-aS"There's nothing in it."
-p629
-aS"Much like Massachusetts, it's just about covering people."
-p630
-aS"It doesn't control costs."
-p631
-aS'And you can look at the experience in Massachusetts where, prior to reform, Massachusetts had costs that were 25 percent higher than the national average.'
-p632
-aS'And after reform, they were at 30 percent higher than the national average, no improvement in the fundamental requirement of healthcare reform.'
-p633
-aS'So we need to get the healthcare reform.'
-p634
-aS'And without that, we will never control the budgetary costs that threaten our nation.'
-p635
-aS"Now, I'm a former CBO director."
-p636
-aS'It is my obligation to stand up in public and say apocalyptic things about the budgetary future.'
-p637
-aS"I'll spare you the numbers tonight because I like you more than my children."
-p638
-aS'But the bottom line is this nation, looking forward -- forget re-litigating the past.'
-p639
-aS'Mr. Starr is good at that.'
-p640
-aS'But looking forward in the administrations budget 10 years from now, after the financial crisis is in memory, after were soon to be out of Iraq, out of Iran, after the economy is back at five percent unemployment, we are running a deficit of a trillion dollars.'
-p641
-aS"Nine hundred billion of it's to pay interest on previous borrowing."
-p642
-aS"We are headed to that magical position where we're borrowing to pay previous borrowing and nothing else."
-p643
-aS'Along the road, we will pass the criteria for downgrade as a sovereign nation.'
-p644
-aS'We will no longer be a top- rated borrower.'
-p645
-aS'This act makes that situation worse, not better.'
-p646
-aS'It says that two new open-ended entitlement programs that will grow, according to CBO, at eight percent a year, as far as the eye can see, the economy is not going to grow at eight percent.'
-p647
-aS"Revenue's not going to grow at eight percent."
-p648
-aS'The only way you could make that kind of a move add up budgetarily is smoke, mirrors and gimmicks.'
-p649
-aS"And that's what the Affordable Care Act is riddled with, in which the CBO was forced to acknowledge in its score."
-p650
-aS"If you give them handcuffs, they'll come up with any answer that you might want."
-p651
-aS"So we can't afford this as a nation."
-p652
-aS"It is dangerous because it doesn't control costs."
-p653
-aS"It's not really healthcare reform."
-p654
-aS'You need to vote for healthcare reform, not Obamacare.'
-p655
-aS'One sixth of our economy is underperforming.'
-p656
-aS'If we care about economic performance, we should repeal Obamacare.'
-p657
-aS'Forget the mandates, forget the taxes.'
-p658
-aS'We had a system that was broken to begin with.'
-p659
-aS'One-sixth of our economy is broken.'
-p660
-aS'Why not fix it instead of writing checks and papering over it?'
-p661
-aS'But you hear some other arguments from the other side, the popular ones, now, the issues of fairness.'
-p662
-aS'Let us stipulate this is one of the most unfair pieces of legislation ever passed.'
-p663
-aS'There are the inequities between two people similarly situated, making $70,000.'
-p664
-aS"One's going to get $7,000 in federal subsidies, 10 percent of their income."
-p665
-aS"The other's going to get zip."
-p666
-aS'That is grotesquely unfair.'
-p667
-aS"And if any future Congress acts pass one, it'll get solved in a nanosecond."
-p668
-aS"They'll give everybody the money."
-p669
-aS'And my first problem will blow up even worse.'
-p670
-aS'Terrible idea.'
-p671
-aS'And for every young person in this audience, this is a disaster.'
-p672
-aS"Through the individual mandate you'll be obligated to be in the pool."
-p673
-aS'The purpose is to put you in there to pay the healthcare bills of people who are older and sicker than you.'
-p674
-aS"And at the end of your life, you get to pick up the debt that's been incurred through Obamacare."
-p675
-aS"You'll get it at the front end."
-p676
-aS"You'll get it at the back end."
-p677
-aS'It is one of the most inter-generationally unfair things that has ever been scripted by the United States Congress.'
-p678
-aS'Should be repealed on those grounds alone.'
-p679
-aS'There are other sort of detours along the way.'
-p680
-aS"The insurance companies, that's where all the costs come from."
-p681
-aS'Oh, my God, there are administrative costs.'
-p682
-aS'There are profits.'
-p683
-aS'The top 10 insurance companies in 2009 made $260 billion.'
-p684
-aS"That's a lot of money."
-p685
-aS"I'd like to have it."
-p686
-aS'The cost growth problem every year is $175 billion.'
-p687
-aS'So go for it.'
-p688
-aS'Nationalize the insurance companies, confiscate their profits.'
-p689
-aS"You get about a year and a half's worth of relief, and we're right back where we were."
-p690
-aS"This isn't about insurance companies."
-p691
-aS'This is about fundamental changes to the delivery system so that we coordinate care so that we deliver high quality care at lower costs.'
-p692
-aS'And the greatest missed opportunity here was the chance to fix Medicare, which is at the root of our problems.'
-p693
-aS'Medicare pays doctors.'
-p694
-aS'It pays hospitals.'
-p695
-aS'It pays some insurance companies, and it pays drug companies.'
-p696
-aS'And it has silos to pay them all.'
-p697
-aS'And nowhere in there can you find a beneficiary.'
-p698
-aS'Nowhere in there can you get coordination of care.'
-p699
-aS'Nowhere in there is the kind of healthcare Americans deserve.'
-p700
-aS'We should fix that first.'
-p701
-aS'We should repeal this now.'
-p702
-aS'Thank you.'
-p703
-aS'Thank you, Douglas Holtz-Eakin.'
-p704
-aS'Our motion, "Repeal Obamacare" and our final speaker in opening statements to speak against the motion, Jonathan Cohn who is a senior editor at the New Republic.'
-p705
-aS"He wrote a book called Sick: The Untold Story of America's Healthcare Crisis, which in some ways explains his evolution from pure journalist into advocate with these scores and scores of stories of people in dire straits that he reported and is very passionate about."
-p706
-aS'You also had a blog throughout the debate called The Treatment.'
-p707
-aS'And you signed off, after the legislation passed, saying, and I quote you, "The debate has ended.'
-p708
-aS'" So why are we here?'
-p709
+p588
+aS'You also --'
+p589
 asg25
-(dp710
-S'19:20:25'
-p711
-I110
-sS'19:15:34'
-p712
-I43
-sS'19:17:22'
-p713
-I68
-sS'19:13:27'
-p714
+(dp590
+S'19:13:27'
+p591
 I8
-sS'19:21:21'
-p715
-I123
-sS'19:16:22'
-p716
-I53
-sS'19:19:21'
-p717
-I96
-sS'19:18:23'
-p718
-I83
-sS'19:14:26'
-p719
-I28
 ssg8
-(lp720
+(lp592
 S'Sir, your time is up.'
-p721
+p593
 aS'Thank you very much.We are halfway through the opening round of this Intelligence Squared U.S. debate.'
-p722
+p594
 aS'Im [[applause]] John Donvan of ABC News.'
-p723
+p595
 aS'We have four debaters, two teams of two, who are fightingit out over this motion, Repeal Obamacare.'
-p724
+p596
 aS'You have heard from the first two debatersand now on to the third.'
-p725
+p597
 aS'To argue for the motion, to argue for the repeal of Obamacare,Id like to introduce Douglas Holtz-Eakin, who is president of the American ActionForum.'
-p726
+p598
 aS'He was with the McCain campaign as an adviser and in his critiques of theObama health plan, came up with the telling phrase, fantasy in, fantasy out.I believe thats yours.'
-p727
+p599
 aS'You own that.'
-p728
-aS'You also --Douglas Holtz-Eakin:Not very profitable but I own it.Yes.'
-p729
-aS'I also learned through Google another delicious fact -- you were a good sport aboutit -- but after leaving the McCain campaign, you couldnt get health insurance for sometime.Douglas Holtz-Eakin:Not exactly right but I have a pre-existing condition.'
-p730
-aS'Actually, I have two kidneys on myleft side from some extensive work before the 21st Century and I was left on COBRAcoverage and the solution, of course, is to start your own employer so I started a thinktank to get insurance.So youre covered.'
-p731
-aS'[[laughter]] Douglas Holtz-Eakin:I am covered.You took it the hard way.'
-p732
-aS'Ladies and gentlemen, Douglas Holtz-Eakin.'
-p733
-aS'Thank you.Douglas Holtz-Eakin: [[applause]] So thank you very much for the chance to be here tonight to our sponsors and to ouropponents.'
-p734
-aS'You know, Im going to ask you to support the motion but in the end, youveall realized that what were debating tonight is about getting healthcare reform in theUnited States because there is no dispute about the need for healthcare reform.My own history, Johns history, probably the histories on the other side of the table ofwhich Im unaware are stark tribute to the need to do things better in the United States.Real healthcare reform has two pieces.'
-p735
-aS'Number one, it extends healthcare coverage toAmericans, gives them options for insurance and insurance is a product which shiftsaround the cost of your healthcare.'
-p736
-aS'In the end, an insurance system takes the nationshealth care bill and shifts around who picks up the ultimate cost, moving it from somepeople who are unable to shoulder the full burden of the cost of their care to some otherswho may be able to.'
-p737
-aS'The second piece, the piece that drives everything, is the overallhealthcare bill.'
-p738
-aS'And the United States has a health care bill which is far too large andcertainly far too large for what we get.'
-p739
-aS'At one-sixth of our economy, its one of the mostinefficient pieces of economics that one could imagine.'
-p740
-aS'And the key fact to remember inthinking about this debate is that over the past four decades.'
-p741
-aS'If you look at income perperson in the United States and healthcare spending per person, the resources versus thecosts, costs have been winning at two to two and a half percentage points every year forfour decades.Republicans, Democrats alike.'
-p742
-aS'It is the costs and the spending on healthcare thatultimately has to be covered by insurance premiums.'
-p743
-aS"And if you don't control costs, youcannot control insurance premiums, and you cannot deal with extending coverage toAmericans, which is ultimately what real healthcare reform is about."
-p744
-aS'I favor repealbecause this reform flunks the test of healthcare reform.'
-p745
-aS"It does not deal with the costproblem.Now, I don't need to say so."
-p746
-aS'Many people, far more qualified than I, have said so.'
-p747
-aS'TheCongressional Budget Office, in the aftermath of passage of the Affordable Care Act, putout its new long-term care -- or its new long-term budget projections.'
-p748
-aS'Did healthspending in the federal budget grow more slowly as a result of this?'
-p749
-aS"No, it does not.You can look at the CMS actuary, the administration, the Obama administration's ownchief actuary, Richard Foster, who estimates that the affordable care actually will raisenational healthcare spending, not lower it, and will actually endanger the future ofMedicare, not make it more solid.You can ask Jonathan Gruber."
-p750
-aS"Jonathan Gruber is one of the architects of Obamacare.He's one of the architects of the Massachusetts reform on which Obamacare was founded.And in his article in the Journal of Policy Analysis and Management, he says, This isn'tabout cost reform."
-p751
-aS'This is health insurance reform.'
-p752
-aS"There's nothing in it."
-p753
-aS"Much likeMassachusetts, it's just about covering people."
-p754
-aS"It doesn't control costs.And you can look at the experience in Massachusetts where, prior to reform,Massachusetts had costs that were 25 percent higher than the national average."
-p755
-aS'And afterreform, they were at 30 percent higher than the national average, no improvement in thefundamental requirement of healthcare reform.So we need to get the healthcare reform.'
-p756
-aS"And without that, we will never control thebudgetary costs that threaten our nation.Now, I'm a former CBO director."
-p757
-aS'It is my obligation to stand up in public and sayapocalyptic things about the budgetary future.'
-p758
-aS"I'll spare you the numbers tonight becauseI like you more than my children."
-p759
-aS'But the bottom line is this nation, looking forward --forget re-litigating the past.'
-p760
-aS'Mr. Starr is good at that.'
-p761
-aS'But looking forward in theadministrations budget 10 years from now, after the financial crisis is in memory, afterwere soon to be out of Iraq, out of Iran, after the economy is back at fivepercent unemployment, we are running a deficit of a trillion dollars.'
-p762
-aS"Nine hundred billionof it's to pay interest on previous borrowing."
-p763
-aS"We are headed to that magical positionwhere we're borrowing to pay previous borrowing and nothing else."
-p764
-aS'Along the road, wewill pass the criteria for downgrade as a sovereign nation.'
-p765
-aS'We will no longer be a top-rated borrower.This act makes that situation worse, not better.'
-p766
-aS'It says that two new open-endedentitlement programs that will grow, according to CBO, at eight percent a year, as far asthe eye can see, the economy is not going to grow at eight percent.'
-p767
-aS"Revenue's not goingto grow at eight percent.The only way you could make that kind of a move add up budgetarily is smoke, mirrorsand gimmicks."
-p768
-aS"And that's what the Affordable Care Act is riddled with, in which theCBO was forced to acknowledge in its score."
-p769
-aS"If you give them handcuffs, they'll comeup with any answer that you might want.So we can't afford this as a nation."
-p770
-aS"It is dangerous because it doesn't control costs."
-p771
-aS"It'snot really healthcare reform."
-p772
-aS'You need to vote for healthcare reform, not Obamacare.One sixth of our economy is underperforming.'
-p773
-aS'If we care about economic performance,we should repeal Obamacare.'
-p774
-aS'Forget the mandates, forget the taxes.'
-p775
-aS'We had a systemthat was broken to begin with.'
-p776
-aS'One-sixth of our economy is broken.'
-p777
-aS'Why not fix itinstead of writing checks and papering over it?But you hear some other arguments from the other side, the popular ones, now, the issuesof fairness.'
-p778
-aS'Let us stipulate this is one of the most unfair pieces of legislation everpassed.'
-p779
-aS"There are the inequities between two people similarly situated, making $70,000.One's going to get $7,000 in federal subsidies, 10 percent of their income."
-p780
-aS"The other'sgoing to get zip."
-p781
-aS'That is grotesquely unfair.'
-p782
-aS"And if any future Congress acts pass one, it'll get solved in a nanosecond."
-p783
-aS"They'll give everybody themoney."
-p784
-aS'And my first problem will blow up even worse.'
-p785
-aS'Terrible idea.'
-p786
-aS'And for everyyoung person in this audience, this is a disaster.'
-p787
-aS"Through the individual mandate you'll beobligated to be in the pool."
-p788
-aS'The purpose is to put you in there to pay the healthcare billsof people who are older and sicker than you.'
-p789
-aS"And at the end of your life, you get to pickup the debt that's been incurred through Obamacare."
-p790
-aS"You'll get it at the front end."
-p791
-aS"You'llget it at the back end."
-p792
-aS'It is one of the most inter-generationally unfair things that has everbeen scripted by the United States Congress.'
-p793
-aS'Should be repealed on those grounds alone.There are other sort of detours along the way.'
-p794
-aS"The insurance companies, that's where allthe costs come from."
-p795
-aS'Oh, my God, there are administrative costs.'
-p796
-aS'There are profits.'
-p797
-aS'Thetop 10 insurance companies in 2009 made $260 billion.'
-p798
-aS"That's a lot of money."
-p799
-aS"I'd like tohave it."
-p800
-aS'The cost growth problem every year is $175 billion.'
-p801
-aS'So go for it.Nationalize the insurance companies, confiscate their profits.'
-p802
-aS"You get about a year and ahalf's worth of relief, and we're right back where we were."
-p803
-aS"This isn't about insurancecompanies."
-p804
-aS'This is about fundamental changes to the delivery system so that wecoordinate care so that we deliver high quality care at lower costs.'
-p805
-aS'And the greatestmissed opportunity here was the chance to fix Medicare, which is at the root of ourproblems.'
-p806
-aS'Medicare pays doctors.'
-p807
-aS'It pays hospitals.'
-p808
-aS'It pays some insurance companies,and it pays drug companies.'
-p809
-aS'And it has silos to pay them all.'
-p810
-aS'And nowhere in there canyou find a beneficiary.'
-p811
-aS'Nowhere in there can you get coordination of care.'
-p812
-aS'Nowhere inthere is the kind of healthcare Americans deserve.'
-p813
-aS'We should fix that first.'
-p814
-aS'We shouldrepeal this now.'
-p815
-aS'Thank you.Thank you, Douglas Holtz-Eakin.'
-p816
-aS'Our motion, "Repeal Obamacare" and our final [[applause]] speaker in opening statements to speak against the motion, Jonathan Cohn who is a senioreditor at the New Republic.He wrote a book called Sick: The Untold Story of America\'s Healthcare Crisis, whichin some ways explains his evolution from pure journalist into advocate with these scoresand scores of stories of people in dire straits that he reported and is very passionate about.You also had a blog throughout the debate called The Treatment.'
-p817
-aS'And you signed off,after the legislation passed, saying, and I quote you, "The debate has ended.'
-p818
-aS'" So why arewe here?'
-p819
+p600
+aS'You also --'
+p601
 asg13
-(dp820
-I96
-S'13'
-p821
-sI1
-S'10'
-p822
-sI28
-S'11'
-p823
-sI62
-S'12'
-p824
-sI129
-S'14'
-p825
-ssa(dp826
-g8
-(lp827
-S"I like to think it's been a full employment act for people like me who write abouthealthcare."
-p828
-asg11
-S'JONATHAN COHN'
-p829
-sg16
-(lp830
-S"I like to think it's been a full employment act for people like me who write about healthcare."
-p831
-asa(dp832
-g113
-(dp833
+(dp602
 I1
-S'[applause]'
-p834
-ssg8
-(lp835
-S'Ladies and gentlemen, Jonathan Cohn.'
-p836
+S'10'
+p603
+ssa(dp604
+g8
+(lp605
+S'Not very profitable but I own it.'
+p606
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p607
+sg16
+(lp608
+g606
+asa(dp609
+g8
+(lp610
+S'Yes.'
+p611
+aS'I also learned through Google another delicious fact -- you were a good sport aboutit -- but after leaving the McCain campaign, you couldnt get health insurance for sometime.'
+p612
 asg11
 S'JOHN DONVAN'
-p837
+p613
 sg16
-(lp838
-g836
-asa(dp839
+(lp614
+S'Yes.'
+p615
+aS'I also learned through Google another delicious fact -- you were a good sport about it -- but after leaving the McCain campaign, you couldnt get health insurance for some time.'
+p616
+asa(dp617
+g113
+(dp618
+I4
+S'[laughter]'
+p619
+ssg8
+(lp620
+S'Not exactly right but I have a pre-existing condition.'
+p621
+aS'Actually, I have two kidneys on myleft side from some extensive work before the 21st Century and I was left on COBRAcoverage and the solution, of course, is to start your own employer so I started a thinktank to get insurance.'
+p622
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p623
+sg16
+(lp624
+S'Not exactly right but I have a pre-existing condition.'
+p625
+aS'Actually, I have two kidneys on my left side from some extensive work before the 21st Century and I was left on COBRA coverage and the solution, of course, is to start your own employer so I started a think tank to get insurance.'
+p626
+asa(dp627
 g8
-(lp840
-S'Thank you.'
+(lp628
+S'So youre covered.'
+p629
+asg11
+S'JOHN DONVAN'
+p630
+sg16
+(lp631
+g629
+asa(dp632
+g8
+(lp633
+S'I am covered.'
+p634
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p635
+sg16
+(lp636
+g634
+asa(dp637
+g113
+(dp638
+I1
+S'[applause]'
+p639
+ssg8
+(lp640
+S'You took it the hard way.'
+p641
+aS'Ladies and gentlemen, Douglas Holtz-Eakin.'
+p642
+aS'Thank you.'
+p643
+asg11
+S'JOHN DONVAN'
+p644
+sg16
+(lp645
+S'You took it the hard way.'
+p646
+aS'Ladies and gentlemen, Douglas Holtz-Eakin.'
+p647
+aS'Thank you.'
+p648
+asa(dp649
+g113
+(dp650
+I96
+S'[applause]'
+p651
+ssg11
+S'DOUGLAS HOLTZ-EAKIN'
+p652
+sg16
+(lp653
+S'So thank you very much for the chance to be here tonight to our sponsors and to our opponents.'
+p654
+aS'You know, Im going to ask you to support the motion but in the end, youve all realized that what were debating tonight is about getting healthcare reform in the United States because there is no dispute about the need for healthcare reform.'
+p655
+aS'My own history, Johns history, probably the histories on the other side of the table of which Im unaware are stark tribute to the need to do things better in the United States.'
+p656
+aS'Real healthcare reform has two pieces.'
+p657
+aS'Number one, it extends healthcare coverage to Americans, gives them options for insurance and insurance is a product which shifts around the cost of your healthcare.'
+p658
+aS'In the end, an insurance system takes the nations health care bill and shifts around who picks up the ultimate cost, moving it from some people who are unable to shoulder the full burden of the cost of their care to some others who may be able to.'
+p659
+aS'The second piece, the piece that drives everything, is the overall healthcare bill.'
+p660
+aS'And the United States has a health care bill which is far too large and certainly far too large for what we get.'
+p661
+aS'At one-sixth of our economy, its one of the most inefficient pieces of economics that one could imagine.'
+p662
+aS'And the key fact to remember in thinking about this debate is that over the past four decades.'
+p663
+aS'If you look at income per person in the United States and healthcare spending per person, the resources versus the costs, costs have been winning at two to two and a half percentage points every year for four decades.'
+p664
+aS'Republicans, Democrats alike.'
+p665
+aS'It is the costs and the spending on healthcare that ultimately has to be covered by insurance premiums.'
+p666
+aS"And if you don't control costs, you cannot control insurance premiums, and you cannot deal with extending coverage to Americans, which is ultimately what real healthcare reform is about."
+p667
+aS'I favor repeal because this reform flunks the test of healthcare reform.'
+p668
+aS'It does not deal with the cost problem.'
+p669
+aS"Now, I don't need to say so."
+p670
+aS'Many people, far more qualified than I, have said so.'
+p671
+aS'The Congressional Budget Office, in the aftermath of passage of the Affordable Care Act, put out its new long-term care -- or its new long-term budget projections.'
+p672
+aS'Did health spending in the federal budget grow more slowly as a result of this?'
+p673
+aS'No, it does not.'
+p674
+aS"You can look at the CMS actuary, the administration, the Obama administration's own chief actuary, Richard Foster, who estimates that the affordable care actually will raise national healthcare spending, not lower it, and will actually endanger the future of Medicare, not make it more solid."
+p675
+aS'You can ask Jonathan Gruber.'
+p676
+aS'Jonathan Gruber is one of the architects of Obamacare.'
+p677
+aS"He's one of the architects of the Massachusetts reform on which Obamacare was founded."
+p678
+aS"And in his article in the Journal of Policy Analysis and Management, he says, This isn't about cost reform."
+p679
+aS'This is health insurance reform.'
+p680
+aS"There's nothing in it."
+p681
+aS"Much like Massachusetts, it's just about covering people."
+p682
+aS"It doesn't control costs."
+p683
+aS'And you can look at the experience in Massachusetts where, prior to reform, Massachusetts had costs that were 25 percent higher than the national average.'
+p684
+aS'And after reform, they were at 30 percent higher than the national average, no improvement in the fundamental requirement of healthcare reform.'
+p685
+aS'So we need to get the healthcare reform.'
+p686
+aS'And without that, we will never control the budgetary costs that threaten our nation.'
+p687
+aS"Now, I'm a former CBO director."
+p688
+aS'It is my obligation to stand up in public and say apocalyptic things about the budgetary future.'
+p689
+aS"I'll spare you the numbers tonight because I like you more than my children."
+p690
+aS'But the bottom line is this nation, looking forward -- forget re-litigating the past.'
+p691
+aS'Mr. Starr is good at that.'
+p692
+aS'But looking forward in the administrations budget 10 years from now, after the financial crisis is in memory, after were soon to be out of Iraq, out of Iran, after the economy is back at five percent unemployment, we are running a deficit of a trillion dollars.'
+p693
+aS"Nine hundred billion of it's to pay interest on previous borrowing."
+p694
+aS"We are headed to that magical position where we're borrowing to pay previous borrowing and nothing else."
+p695
+aS'Along the road, we will pass the criteria for downgrade as a sovereign nation.'
+p696
+aS'We will no longer be a top- rated borrower.'
+p697
+aS'This act makes that situation worse, not better.'
+p698
+aS'It says that two new open-ended entitlement programs that will grow, according to CBO, at eight percent a year, as far as the eye can see, the economy is not going to grow at eight percent.'
+p699
+aS"Revenue's not going to grow at eight percent."
+p700
+aS'The only way you could make that kind of a move add up budgetarily is smoke, mirrors and gimmicks.'
+p701
+aS"And that's what the Affordable Care Act is riddled with, in which the CBO was forced to acknowledge in its score."
+p702
+aS"If you give them handcuffs, they'll come up with any answer that you might want."
+p703
+aS"So we can't afford this as a nation."
+p704
+aS"It is dangerous because it doesn't control costs."
+p705
+aS"It's not really healthcare reform."
+p706
+aS'You need to vote for healthcare reform, not Obamacare.'
+p707
+aS'One sixth of our economy is underperforming.'
+p708
+aS'If we care about economic performance, we should repeal Obamacare.'
+p709
+aS'Forget the mandates, forget the taxes.'
+p710
+aS'We had a system that was broken to begin with.'
+p711
+aS'One-sixth of our economy is broken.'
+p712
+aS'Why not fix it instead of writing checks and papering over it?'
+p713
+aS'But you hear some other arguments from the other side, the popular ones, now, the issues of fairness.'
+p714
+aS'Let us stipulate this is one of the most unfair pieces of legislation ever passed.'
+p715
+aS'There are the inequities between two people similarly situated, making $70,000.'
+p716
+aS"One's going to get $7,000 in federal subsidies, 10 percent of their income."
+p717
+aS"The other's going to get zip."
+p718
+aS'That is grotesquely unfair.'
+p719
+aS"And if any future Congress acts pass one, it'll get solved in a nanosecond."
+p720
+aS"They'll give everybody the money."
+p721
+aS'And my first problem will blow up even worse.'
+p722
+aS'Terrible idea.'
+p723
+aS'And for every young person in this audience, this is a disaster.'
+p724
+aS"Through the individual mandate you'll be obligated to be in the pool."
+p725
+aS'The purpose is to put you in there to pay the healthcare bills of people who are older and sicker than you.'
+p726
+aS"And at the end of your life, you get to pick up the debt that's been incurred through Obamacare."
+p727
+aS"You'll get it at the front end."
+p728
+aS"You'll get it at the back end."
+p729
+aS'It is one of the most inter-generationally unfair things that has ever been scripted by the United States Congress.'
+p730
+aS'Should be repealed on those grounds alone.'
+p731
+aS'There are other sort of detours along the way.'
+p732
+aS"The insurance companies, that's where all the costs come from."
+p733
+aS'Oh, my God, there are administrative costs.'
+p734
+aS'There are profits.'
+p735
+aS'The top 10 insurance companies in 2009 made $260 billion.'
+p736
+aS"That's a lot of money."
+p737
+aS"I'd like to have it."
+p738
+aS'The cost growth problem every year is $175 billion.'
+p739
+aS'So go for it.'
+p740
+aS'Nationalize the insurance companies, confiscate their profits.'
+p741
+aS"You get about a year and a half's worth of relief, and we're right back where we were."
+p742
+aS"This isn't about insurance companies."
+p743
+aS'This is about fundamental changes to the delivery system so that we coordinate care so that we deliver high quality care at lower costs.'
+p744
+aS'And the greatest missed opportunity here was the chance to fix Medicare, which is at the root of our problems.'
+p745
+aS'Medicare pays doctors.'
+p746
+aS'It pays hospitals.'
+p747
+aS'It pays some insurance companies, and it pays drug companies.'
+p748
+aS'And it has silos to pay them all.'
+p749
+aS'And nowhere in there can you find a beneficiary.'
+p750
+aS'Nowhere in there can you get coordination of care.'
+p751
+aS'Nowhere in there is the kind of healthcare Americans deserve.'
+p752
+aS'We should fix that first.'
+p753
+aS'We should repeal this now.'
+p754
+aS'Thank you.'
+p755
+asg25
+(dp756
+S'19:20:25'
+p757
+I86
+sS'19:15:34'
+p758
+I19
+sS'19:17:22'
+p759
+I44
+sS'19:16:22'
+p760
+I29
+sS'19:14:26'
+p761
+I4
+sS'19:18:23'
+p762
+I59
+sS'19:19:21'
+p763
+I72
+ssg8
+(lp764
+S'So thank you very much for the chance to be here tonight to our sponsors and to ouropponents.'
+p765
+aS'You know, Im going to ask you to support the motion but in the end, youveall realized that what were debating tonight is about getting healthcare reform in theUnited States because there is no dispute about the need for healthcare reform.My own history, Johns history, probably the histories on the other side of the table ofwhich Im unaware are stark tribute to the need to do things better in the United States.Real healthcare reform has two pieces.'
+p766
+aS'Number one, it extends healthcare coverage toAmericans, gives them options for insurance and insurance is a product which shiftsaround the cost of your healthcare.'
+p767
+aS'In the end, an insurance system takes the nationshealth care bill and shifts around who picks up the ultimate cost, moving it from somepeople who are unable to shoulder the full burden of the cost of their care to some otherswho may be able to.'
+p768
+aS'The second piece, the piece that drives everything, is the overallhealthcare bill.'
+p769
+aS'And the United States has a health care bill which is far too large andcertainly far too large for what we get.'
+p770
+aS'At one-sixth of our economy, its one of the mostinefficient pieces of economics that one could imagine.'
+p771
+aS'And the key fact to remember inthinking about this debate is that over the past four decades.'
+p772
+aS'If you look at income perperson in the United States and healthcare spending per person, the resources versus thecosts, costs have been winning at two to two and a half percentage points every year forfour decades.Republicans, Democrats alike.'
+p773
+aS'It is the costs and the spending on healthcare thatultimately has to be covered by insurance premiums.'
+p774
+aS"And if you don't control costs, youcannot control insurance premiums, and you cannot deal with extending coverage toAmericans, which is ultimately what real healthcare reform is about."
+p775
+aS'I favor repealbecause this reform flunks the test of healthcare reform.'
+p776
+aS"It does not deal with the costproblem.Now, I don't need to say so."
+p777
+aS'Many people, far more qualified than I, have said so.'
+p778
+aS'TheCongressional Budget Office, in the aftermath of passage of the Affordable Care Act, putout its new long-term care -- or its new long-term budget projections.'
+p779
+aS'Did healthspending in the federal budget grow more slowly as a result of this?'
+p780
+aS"No, it does not.You can look at the CMS actuary, the administration, the Obama administration's ownchief actuary, Richard Foster, who estimates that the affordable care actually will raisenational healthcare spending, not lower it, and will actually endanger the future ofMedicare, not make it more solid.You can ask Jonathan Gruber."
+p781
+aS"Jonathan Gruber is one of the architects of Obamacare.He's one of the architects of the Massachusetts reform on which Obamacare was founded.And in his article in the Journal of Policy Analysis and Management, he says, This isn'tabout cost reform."
+p782
+aS'This is health insurance reform.'
+p783
+aS"There's nothing in it."
+p784
+aS"Much likeMassachusetts, it's just about covering people."
+p785
+aS"It doesn't control costs.And you can look at the experience in Massachusetts where, prior to reform,Massachusetts had costs that were 25 percent higher than the national average."
+p786
+aS'And afterreform, they were at 30 percent higher than the national average, no improvement in thefundamental requirement of healthcare reform.So we need to get the healthcare reform.'
+p787
+aS"And without that, we will never control thebudgetary costs that threaten our nation.Now, I'm a former CBO director."
+p788
+aS'It is my obligation to stand up in public and sayapocalyptic things about the budgetary future.'
+p789
+aS"I'll spare you the numbers tonight becauseI like you more than my children."
+p790
+aS'But the bottom line is this nation, looking forward --forget re-litigating the past.'
+p791
+aS'Mr. Starr is good at that.'
+p792
+aS'But looking forward in theadministrations budget 10 years from now, after the financial crisis is in memory, afterwere soon to be out of Iraq, out of Iran, after the economy is back at fivepercent unemployment, we are running a deficit of a trillion dollars.'
+p793
+aS"Nine hundred billionof it's to pay interest on previous borrowing."
+p794
+aS"We are headed to that magical positionwhere we're borrowing to pay previous borrowing and nothing else."
+p795
+aS'Along the road, wewill pass the criteria for downgrade as a sovereign nation.'
+p796
+aS'We will no longer be a top-rated borrower.This act makes that situation worse, not better.'
+p797
+aS'It says that two new open-endedentitlement programs that will grow, according to CBO, at eight percent a year, as far asthe eye can see, the economy is not going to grow at eight percent.'
+p798
+aS"Revenue's not goingto grow at eight percent.The only way you could make that kind of a move add up budgetarily is smoke, mirrorsand gimmicks."
+p799
+aS"And that's what the Affordable Care Act is riddled with, in which theCBO was forced to acknowledge in its score."
+p800
+aS"If you give them handcuffs, they'll comeup with any answer that you might want.So we can't afford this as a nation."
+p801
+aS"It is dangerous because it doesn't control costs."
+p802
+aS"It'snot really healthcare reform."
+p803
+aS'You need to vote for healthcare reform, not Obamacare.One sixth of our economy is underperforming.'
+p804
+aS'If we care about economic performance,we should repeal Obamacare.'
+p805
+aS'Forget the mandates, forget the taxes.'
+p806
+aS'We had a systemthat was broken to begin with.'
+p807
+aS'One-sixth of our economy is broken.'
+p808
+aS'Why not fix itinstead of writing checks and papering over it?But you hear some other arguments from the other side, the popular ones, now, the issuesof fairness.'
+p809
+aS'Let us stipulate this is one of the most unfair pieces of legislation everpassed.'
+p810
+aS"There are the inequities between two people similarly situated, making $70,000.One's going to get $7,000 in federal subsidies, 10 percent of their income."
+p811
+aS"The other'sgoing to get zip."
+p812
+aS'That is grotesquely unfair.'
+p813
+aS"And if any future Congress acts pass one, it'll get solved in a nanosecond."
+p814
+aS"They'll give everybody themoney."
+p815
+aS'And my first problem will blow up even worse.'
+p816
+aS'Terrible idea.'
+p817
+aS'And for everyyoung person in this audience, this is a disaster.'
+p818
+aS"Through the individual mandate you'll beobligated to be in the pool."
+p819
+aS'The purpose is to put you in there to pay the healthcare billsof people who are older and sicker than you.'
+p820
+aS"And at the end of your life, you get to pickup the debt that's been incurred through Obamacare."
+p821
+aS"You'll get it at the front end."
+p822
+aS"You'llget it at the back end."
+p823
+aS'It is one of the most inter-generationally unfair things that has everbeen scripted by the United States Congress.'
+p824
+aS'Should be repealed on those grounds alone.There are other sort of detours along the way.'
+p825
+aS"The insurance companies, that's where allthe costs come from."
+p826
+aS'Oh, my God, there are administrative costs.'
+p827
+aS'There are profits.'
+p828
+aS'Thetop 10 insurance companies in 2009 made $260 billion.'
+p829
+aS"That's a lot of money."
+p830
+aS"I'd like tohave it."
+p831
+aS'The cost growth problem every year is $175 billion.'
+p832
+aS'So go for it.Nationalize the insurance companies, confiscate their profits.'
+p833
+aS"You get about a year and ahalf's worth of relief, and we're right back where we were."
+p834
+aS"This isn't about insurancecompanies."
+p835
+aS'This is about fundamental changes to the delivery system so that wecoordinate care so that we deliver high quality care at lower costs.'
+p836
+aS'And the greatestmissed opportunity here was the chance to fix Medicare, which is at the root of ourproblems.'
+p837
+aS'Medicare pays doctors.'
+p838
+aS'It pays hospitals.'
+p839
+aS'It pays some insurance companies,and it pays drug companies.'
+p840
+aS'And it has silos to pay them all.'
 p841
-aS'I want to thank the audience.'
+aS'And nowhere in there canyou find a beneficiary.'
 p842
-aS'I want to thank the foundation.'
+aS'Nowhere in there can you get coordination of care.'
 p843
-aS'I want to thankmy opponents.'
+aS'Nowhere inthere is the kind of healthcare Americans deserve.'
 p844
-aS"I want to thank Doug Holtz-Eakin in particular for some of the commentshe just made about the dire fiscal straits of the country, the importance of trying to gethealthcare costs under control because if we don't get healthcare costs under control,we're not only going to bankrupt our government, we're going to bankrupt our entiresociety."
+aS'We should fix that first.'
 p845
-aS'And you know, I agree with all of that.'
+aS'We shouldrepeal this now.'
 p846
-aS'I do.Where we differ you may -- as you may imagine, is that I happen to think the AffordableCare Act, Obamacare, helps us in that regard.'
+aS'Thank you.'
 p847
-aS"Now, you listened to this team over here.You've listened to their argument."
-p848
-aS"And they painted a very dire picture of a program outof control that's going to cost more than anybody thinks."
+asg13
+(dp848
+I72
+S'13'
 p849
-aS"It's going to leave us all payingtons in insurance premiums."
+sI4
+S'11'
 p850
-aS"And you know, they have to paint an apocalyptic picturebecause I think the honest truth is most of us, when we hear that -- about the benefits ofthe plan, that we'll be able to guarantee coverage for people who have pre-existingconditions, the right to appeal treatments when their insurance company turns it down,subsidies for people who can't buy coverage now."
+sI38
+S'12'
 p851
-aS'People like that.'
-p852
-aS'They think that is agood idea.'
-p853
-aS'So they focus on this cost question.'
+ssa(dp852
+g8
+(lp853
+S'Thank you, Douglas Holtz-Eakin.'
 p854
-aS"And, you know, during the healthcaredebate, we had all this scare talk about death panels and other things that just were simplynot in the -- with all due respect to my -- to our debating opponents herewho I know have spent a lot of time talking about it, I think they're giving you, well, Idon't want so say they're making things up out of whole costs , but Ithink they're giving you a slightly, let's say, one-sided picture of things.So I did two things here."
+aS'Our motion, "Repeal Obamacare" and our finalspeaker in opening statements to speak against the motion, Jonathan Cohn who is a senioreditor at the New Republic.He wrote a book called Sick: The Untold Story of America\'s Healthcare Crisis, whichin some ways explains his evolution from pure journalist into advocate with these scoresand scores of stories of people in dire straits that he reported and is very passionate about.You also had a blog throughout the debate called The Treatment.'
 p855
-aS'First, I want to explain why I have faith that the Obamahealthcare bill will in fact reduce costs.'
+aS'And you signed off,after the legislation passed, saying, and I quote you, "The debate has ended.'
 p856
-aS'And I want to specifically go through some ofthe arguments they have made and tell you why they are misleading.Now, why do I have faith that this healthcare bill will save money?'
+aS'" So why arewe here?'
 p857
-aS"I mean isn't --Congressman Shadegg said, isn't it common sense that it won't?"
+asg11
+S'JOHN DONVAN'
 p858
-aS"I don't think it's commonsense."
-p859
-aS'I look around the world.'
+sg13
+(dp859
+I9
+S'14'
 p860
-aS'I look at countries like France and Germany andSwitzerland and Japan, countries that get just as good healthcare as we do or better,people who have easier access to healthcare, and yet they spend less than we do.'
-p861
-aS"Now, isthere something about the United States that we're not capable?"
+ssg16
+(lp861
+S'Thank you, Douglas Holtz-Eakin.'
 p862
-aS"We're not innovativeenough?"
+aS'Our motion, "Repeal Obamacare" and our final speaker in opening statements to speak against the motion, Jonathan Cohn who is a senior editor at the New Republic.'
 p863
-aS"We can't do that?"
+aS"He wrote a book called Sick: The Untold Story of America's Healthcare Crisis, which in some ways explains his evolution from pure journalist into advocate with these scores and scores of stories of people in dire straits that he reported and is very passionate about."
 p864
-aS"I don't think so."
+aS'You also had a blog throughout the debate called The Treatment.'
 p865
-aS'Certainly it is possible, certainly, to getexcellent healthcare, cover everybody and save money.'
+aS'And you signed off, after the legislation passed, saying, and I quote you, "The debate has ended.'
 p866
-aS'So the question is, will this billdo it?'
+aS'" So why are we here?'
 p867
-aS'And I believe it will.Let me take a second to explain how the bill is designed to do that.'
-p868
-aS'It has three basicapproaches.'
+asg25
+(dp868
+S'19:21:21'
 p869
-aS'One is to get the low-hanging fruit of healthcare, the waste.'
-p870
-aS"A lot of it'scorporate welfare."
-p871
-aS"Right now, for example, insurance companies that provide benefitsthrough Medicare, study after study has shown that we pay them too much.They're making too much in profits."
+I3
+ssa(dp870
+g8
+(lp871
+S"I like to think it's been a full employment act for people like me who write abouthealthcare."
 p872
-aS"So we say we're going to take some of that back.We're going to take back that corporate welfare.Another source of offsetting revenue for the healthcare program is to go and ask peoplewho have benefited the most from our economy, the people who are the very wealthiestin our society, to pay back a little more in taxes."
-p873
-aS'And we get money from there.'
-p874
-aS"Now, Idon't think either of those propositions are in dispute in terms of that those things willgenerate money to offset the costs of the healthcare plan."
-p875
-aS'Now, they may not like thoseideas.'
-p876
-aS"And that's fine."
-p877
-aS'And maybe in the question and answer period they can tell uswhy they think we need to keep giving insurance companies corporate welfare.'
-p878
-aS"Why therichest people in this country, who are enjoying far lower tax rates than they had duringthe Clinton administration, can't afford to pay a little more.But it's the third part of healthcare reform, the third part of cost control that's the mostimportant."
-p879
-aS'And this is where we really look at the way the American medical care systemworks.'
-p880
-aS"Everybody who is -- every expert left and right says we waste a ton of money inour medical care system.Some of this is administrative waste because everyone's dealing with 10 differentinsurance companies."
-p881
-aS"Some of this is duplicative treatments because Dr. A doesn't knowwhat Dr. B is doing to patient C. Some of this is the fact that we pay tons of money fortreatments that don't work."
-p882
-aS"The Obama healthcare bill, what it does is it tries to attackthose, and it tries dozens of different approaches, and it's not a liberal takeover, it is notsomething crazy extremists cooked up on one side, it's actually the best ideas of the leftand the right."
-p883
-aS"It's ideas like not paying hospitals if they run high rates of in-hospitalinfection."
-p884
-aS"It's things like developing electronic medical records so we can keep track ofwhat patients are getting as they move through the medical system."
-p885
-aS"It's about givingfinancial incentives to doctors and hospitals that coordinate care and focus on prevention,and efforts like this that together, the smartest people have stated this, all believe willhelp control healthcare costs."
-p886
-aS'Now, Douglas Holtz-Eakin got up here and said thesenumbers are crazy, that of course this is going to explode the deficit, and again, commonsense, well, the most reliable authority we have on this is the Congressional BudgetOffice.Congressional Budget Office is the gold standard of accounting.'
-p887
-aS'The CBO -- my readingof the CBO report is that they looked at the healthcare bill and they said, "You knowwhat?'
-p888
-aS'This bill will reduce the deficit.'
-p889
-aS'It will reduce the deficit in the first 10 years, itwill reduce it by a lot more afterwards.'
-p890
-aS'" And by the way, the rate of growth in healthcarespending is going to start to slow down.'
-p891
-aS'Now, it is true that the CBO, you can say,"Well, the CBO ought to use these rules," or whatever.'
-p892
-aS'Well, what the CBO rules meanis that we are assuming that the laws that we have passed are going to be implemented,and that is the way -- and that is the way the government accounting system works.Douglas Holtz-Eakin says, "Well, that never works because we\'ve never seen it happen.'
-p893
-aS'"Well, you know what?'
-p894
-aS"It's happened before."
-p895
-aS'During the late 1990s we tried to controlcosts in Medicare and we did for a while.'
-p896
-aS'We passed very large cuts to Medicare duringthe Balanced Budget Act.It was the late 1990s, and you know what?'
-p897
-aS'Those cuts stuck, and we were able to reducethe growth of Medicare from where it wouldve been otherwise.'
-p898
-aS'Its entirely possible todo this.'
-p899
-aS'Now, in order to do this you have to actually stick with a program.'
-p900
-aS'As mycolleague mentioned, during the Bush administration they passed a different -- they triedto approach healthcare in a different way.'
-p901
-aS"They said, All right, lets try a differentapproach, and lets have a healthcare bill, let's not pay the cost for it."
-p902
-aS'Well, that didincrease the deficit, and that is the sort of choice were talking about facing here.'
-p903
-aS'Now,my colleague -- my opponent, Mr. Holtz-Eakin, cited a number of authorities he believed,and he said, Well, John Gruber of MIT says this is not good, or he said, The CMSactuary said this.'
-p904
-aS'" Well, in fact, if you look at the written record, the people -- the list ofexperts who have endorsed this, its not just the Congressional Budget Office, its peoplelike David Cutler, a professor at Harvard University, who won the John Base ClarkMedal for the most accomplished economist under 40.It\'s people like Jonathan Gruber from MIT -- I know he quoted Jonathan Gruber --Jonathan Gruber has said many times he endorses this bill.'
-p905
-aS"He thinks it's our best shotright now to get healthcare costs under control."
-p906
-aS"It's people like Mark McClellan, whohasn said that he believes the Affordable Care Act will start to reduce healthcarespending, and why do we care about Mark McClellan?"
-p907
-aS'Because Mark McClellan ranMedicare in the Bush administration, and its people like the Simpson-BowlesCommission, the bipartisan fiscal commission said, "The cost control in the AffordableCare Act will be affected, and we need if anything to double down on it.'
-p908
-aS'" This is not myopinion, its not some crazy opinion, it is in fact the opinion of the best experts of left andright.'
-p909
 asg11
 S'JONATHAN COHN'
+p873
+sg16
+(lp874
+S"I like to think it's been a full employment act for people like me who write about healthcare."
+p875
+asa(dp876
+g113
+(dp877
+I1
+S'[applause]'
+p878
+ssg8
+(lp879
+S'Ladies and gentlemen, Jonathan Cohn.'
+p880
+asg11
+S'JOHN DONVAN'
+p881
+sg16
+(lp882
+g880
+asa(dp883
+g8
+(lp884
+S'Thank you.'
+p885
+aS'I want to thank the audience.'
+p886
+aS'I want to thank the foundation.'
+p887
+aS'I want to thankmy opponents.'
+p888
+aS"I want to thank Doug Holtz-Eakin in particular for some of the commentshe just made about the dire fiscal straits of the country, the importance of trying to gethealthcare costs under control because if we don't get healthcare costs under control,we're not only going to bankrupt our government, we're going to bankrupt our entiresociety."
+p889
+aS'And you know, I agree with all of that.'
+p890
+aS'I do.Where we differ you may -- as you may imagine, is that I happen to think the AffordableCare Act, Obamacare, helps us in that regard.'
+p891
+aS"Now, you listened to this team over here.You've listened to their argument."
+p892
+aS"And they painted a very dire picture of a program outof control that's going to cost more than anybody thinks."
+p893
+aS"It's going to leave us all payingtons in insurance premiums."
+p894
+aS"And you know, they have to paint an apocalyptic picturebecause I think the honest truth is most of us, when we hear that -- about the benefits ofthe plan, that we'll be able to guarantee coverage for people who have pre-existingconditions, the right to appeal treatments when their insurance company turns it down,subsidies for people who can't buy coverage now."
+p895
+aS'People like that.'
+p896
+aS'They think that is agood idea.'
+p897
+aS'So they focus on this cost question.'
+p898
+aS"And, you know, during the healthcaredebate, we had all this scare talk about death panels and other things that just were simplynot in the -- with all due respect to my -- to our debating opponents herewho I know have spent a lot of time talking about it, I think they're giving you, well, Idon't want so say they're making things up out of whole costs , but Ithink they're giving you a slightly, let's say, one-sided picture of things.So I did two things here."
+p899
+aS'First, I want to explain why I have faith that the Obamahealthcare bill will in fact reduce costs.'
+p900
+aS'And I want to specifically go through some ofthe arguments they have made and tell you why they are misleading.Now, why do I have faith that this healthcare bill will save money?'
+p901
+aS"I mean isn't --Congressman Shadegg said, isn't it common sense that it won't?"
+p902
+aS"I don't think it's commonsense."
+p903
+aS'I look around the world.'
+p904
+aS'I look at countries like France and Germany andSwitzerland and Japan, countries that get just as good healthcare as we do or better,people who have easier access to healthcare, and yet they spend less than we do.'
+p905
+aS"Now, isthere something about the United States that we're not capable?"
+p906
+aS"We're not innovativeenough?"
+p907
+aS"We can't do that?"
+p908
+aS"I don't think so."
+p909
+aS'Certainly it is possible, certainly, to getexcellent healthcare, cover everybody and save money.'
 p910
+aS'So the question is, will this billdo it?'
+p911
+aS'And I believe it will.Let me take a second to explain how the bill is designed to do that.'
+p912
+aS'It has three basicapproaches.'
+p913
+aS'One is to get the low-hanging fruit of healthcare, the waste.'
+p914
+aS"A lot of it'scorporate welfare."
+p915
+aS"Right now, for example, insurance companies that provide benefitsthrough Medicare, study after study has shown that we pay them too much.They're making too much in profits."
+p916
+aS"So we say we're going to take some of that back.We're going to take back that corporate welfare.Another source of offsetting revenue for the healthcare program is to go and ask peoplewho have benefited the most from our economy, the people who are the very wealthiestin our society, to pay back a little more in taxes."
+p917
+aS'And we get money from there.'
+p918
+aS"Now, Idon't think either of those propositions are in dispute in terms of that those things willgenerate money to offset the costs of the healthcare plan."
+p919
+aS'Now, they may not like thoseideas.'
+p920
+aS"And that's fine."
+p921
+aS'And maybe in the question and answer period they can tell uswhy they think we need to keep giving insurance companies corporate welfare.'
+p922
+aS"Why therichest people in this country, who are enjoying far lower tax rates than they had duringthe Clinton administration, can't afford to pay a little more.But it's the third part of healthcare reform, the third part of cost control that's the mostimportant."
+p923
+aS'And this is where we really look at the way the American medical care systemworks.'
+p924
+aS"Everybody who is -- every expert left and right says we waste a ton of money inour medical care system.Some of this is administrative waste because everyone's dealing with 10 differentinsurance companies."
+p925
+aS"Some of this is duplicative treatments because Dr. A doesn't knowwhat Dr. B is doing to patient C. Some of this is the fact that we pay tons of money fortreatments that don't work."
+p926
+aS"The Obama healthcare bill, what it does is it tries to attackthose, and it tries dozens of different approaches, and it's not a liberal takeover, it is notsomething crazy extremists cooked up on one side, it's actually the best ideas of the leftand the right."
+p927
+aS"It's ideas like not paying hospitals if they run high rates of in-hospitalinfection."
+p928
+aS"It's things like developing electronic medical records so we can keep track ofwhat patients are getting as they move through the medical system."
+p929
+aS"It's about givingfinancial incentives to doctors and hospitals that coordinate care and focus on prevention,and efforts like this that together, the smartest people have stated this, all believe willhelp control healthcare costs."
+p930
+aS'Now, Douglas Holtz-Eakin got up here and said thesenumbers are crazy, that of course this is going to explode the deficit, and again, commonsense, well, the most reliable authority we have on this is the Congressional BudgetOffice.Congressional Budget Office is the gold standard of accounting.'
+p931
+aS'The CBO -- my readingof the CBO report is that they looked at the healthcare bill and they said, "You knowwhat?'
+p932
+aS'This bill will reduce the deficit.'
+p933
+aS'It will reduce the deficit in the first 10 years, itwill reduce it by a lot more afterwards.'
+p934
+aS'" And by the way, the rate of growth in healthcarespending is going to start to slow down.'
+p935
+aS'Now, it is true that the CBO, you can say,"Well, the CBO ought to use these rules," or whatever.'
+p936
+aS'Well, what the CBO rules meanis that we are assuming that the laws that we have passed are going to be implemented,and that is the way -- and that is the way the government accounting system works.Douglas Holtz-Eakin says, "Well, that never works because we\'ve never seen it happen.'
+p937
+aS'"Well, you know what?'
+p938
+aS"It's happened before."
+p939
+aS'During the late 1990s we tried to controlcosts in Medicare and we did for a while.'
+p940
+aS'We passed very large cuts to Medicare duringthe Balanced Budget Act.It was the late 1990s, and you know what?'
+p941
+aS'Those cuts stuck, and we were able to reducethe growth of Medicare from where it wouldve been otherwise.'
+p942
+aS'Its entirely possible todo this.'
+p943
+aS'Now, in order to do this you have to actually stick with a program.'
+p944
+aS'As mycolleague mentioned, during the Bush administration they passed a different -- they triedto approach healthcare in a different way.'
+p945
+aS"They said, All right, lets try a differentapproach, and lets have a healthcare bill, let's not pay the cost for it."
+p946
+aS'Well, that didincrease the deficit, and that is the sort of choice were talking about facing here.'
+p947
+aS'Now,my colleague -- my opponent, Mr. Holtz-Eakin, cited a number of authorities he believed,and he said, Well, John Gruber of MIT says this is not good, or he said, The CMSactuary said this.'
+p948
+aS'" Well, in fact, if you look at the written record, the people -- the list ofexperts who have endorsed this, its not just the Congressional Budget Office, its peoplelike David Cutler, a professor at Harvard University, who won the John Base ClarkMedal for the most accomplished economist under 40.It\'s people like Jonathan Gruber from MIT -- I know he quoted Jonathan Gruber --Jonathan Gruber has said many times he endorses this bill.'
+p949
+aS"He thinks it's our best shotright now to get healthcare costs under control."
+p950
+aS"It's people like Mark McClellan, whohasn said that he believes the Affordable Care Act will start to reduce healthcarespending, and why do we care about Mark McClellan?"
+p951
+aS'Because Mark McClellan ranMedicare in the Bush administration, and its people like the Simpson-BowlesCommission, the bipartisan fiscal commission said, "The cost control in the AffordableCare Act will be affected, and we need if anything to double down on it.'
+p952
+aS'" This is not myopinion, its not some crazy opinion, it is in fact the opinion of the best experts of left andright.'
+p953
+asg11
+S'JONATHAN COHN'
+p954
 sg13
-(dp911
+(dp955
 I65
 S'16'
-p912
+p956
 sI28
 S'15'
-p913
+p957
 sI102
 S'17'
-p914
-ssg16
-(lp915
-S'Thank you.'
-p916
-aS'I want to thank the audience.'
-p917
-aS'I want to thank the foundation.'
-p918
-aS'I want to thank my opponents.'
-p919
-aS"I want to thank Doug Holtz-Eakin in particular for some of the comments he just made about the dire fiscal straits of the country, the importance of trying to get healthcare costs under control because if we don't get healthcare costs under control, we're not only going to bankrupt our government, we're going to bankrupt our entire society."
-p920
-aS'And you know, I agree with all of that.'
-p921
-aS'I do.'
-p922
-aS'Where we differ you may -- as you may imagine, is that I happen to think the Affordable Care Act, Obamacare, helps us in that regard.'
-p923
-aS'Now, you listened to this team over here.'
-p924
-aS"You've listened to their argument."
-p925
-aS"And they painted a very dire picture of a program out of control that's going to cost more than anybody thinks."
-p926
-aS"It's going to leave us all paying tons in insurance premiums."
-p927
-aS"And you know, they have to paint an apocalyptic picture because I think the honest truth is most of us, when we hear that -- about the benefits of the plan, that we'll be able to guarantee coverage for people who have pre-existing conditions, the right to appeal treatments when their insurance company turns it down, subsidies for people who can't buy coverage now."
-p928
-aS'People like that.'
-p929
-aS'They think that is a good idea.'
-p930
-aS'So they focus on this cost question.'
-p931
-aS"And, you know, during the healthcare debate, we had all this scare talk about death panels and other things that just were simply not in the -- with all due respect to my -- to our debating opponents here who I know have spent a lot of time talking about it, I think they're giving you, well, I don't want so say they're making things up out of whole costs , but I think they're giving you a slightly, let's say, one-sided picture of things."
-p932
-aS'So I did two things here.'
-p933
-aS'First, I want to explain why I have faith that the Obama healthcare bill will in fact reduce costs.'
-p934
-aS'And I want to specifically go through some of the arguments they have made and tell you why they are misleading.'
-p935
-aS'Now, why do I have faith that this healthcare bill will save money?'
-p936
-aS"I mean isn't -- Congressman Shadegg said, isn't it common sense that it won't?"
-p937
-aS"I don't think it's common sense."
-p938
-aS'I look around the world.'
-p939
-aS'I look at countries like France and Germany and Switzerland and Japan, countries that get just as good healthcare as we do or better, people who have easier access to healthcare, and yet they spend less than we do.'
-p940
-aS"Now, is there something about the United States that we're not capable?"
-p941
-aS"We're not innovative enough?"
-p942
-aS"We can't do that?"
-p943
-aS"I don't think so."
-p944
-aS'Certainly it is possible, certainly, to get excellent healthcare, cover everybody and save money.'
-p945
-aS'So the question is, will this bill do it?'
-p946
-aS'And I believe it will.'
-p947
-aS'Let me take a second to explain how the bill is designed to do that.'
-p948
-aS'It has three basic approaches.'
-p949
-aS'One is to get the low-hanging fruit of healthcare, the waste.'
-p950
-aS"A lot of it's corporate welfare."
-p951
-aS'Right now, for example, insurance companies that provide benefits through Medicare, study after study has shown that we pay them too much.'
-p952
-aS"They're making too much in profits."
-p953
-aS"So we say we're going to take some of that back."
-p954
-aS"We're going to take back that corporate welfare."
-p955
-aS'Another source of offsetting revenue for the healthcare program is to go and ask people who have benefited the most from our economy, the people who are the very wealthiest in our society, to pay back a little more in taxes.'
-p956
-aS'And we get money from there.'
-p957
-aS"Now, I don't think either of those propositions are in dispute in terms of that those things will generate money to offset the costs of the healthcare plan."
 p958
-aS'Now, they may not like those ideas.'
-p959
-aS"And that's fine."
+ssg16
+(lp959
+S'Thank you.'
 p960
-aS'And maybe in the question and answer period they can tell us why they think we need to keep giving insurance companies corporate welfare.'
+aS'I want to thank the audience.'
 p961
-aS"Why the richest people in this country, who are enjoying far lower tax rates than they had during the Clinton administration, can't afford to pay a little more."
+aS'I want to thank the foundation.'
 p962
-aS"But it's the third part of healthcare reform, the third part of cost control that's the most important."
+aS'I want to thank my opponents.'
 p963
-aS'And this is where we really look at the way the American medical care system works.'
+aS"I want to thank Doug Holtz-Eakin in particular for some of the comments he just made about the dire fiscal straits of the country, the importance of trying to get healthcare costs under control because if we don't get healthcare costs under control, we're not only going to bankrupt our government, we're going to bankrupt our entire society."
 p964
-aS'Everybody who is -- every expert left and right says we waste a ton of money in our medical care system.'
+aS'And you know, I agree with all of that.'
 p965
-aS"Some of this is administrative waste because everyone's dealing with 10 different insurance companies."
+aS'I do.'
 p966
-aS"Some of this is duplicative treatments because Dr. A doesn't know what Dr. B is doing to patient C. Some of this is the fact that we pay tons of money for treatments that don't work."
+aS'Where we differ you may -- as you may imagine, is that I happen to think the Affordable Care Act, Obamacare, helps us in that regard.'
 p967
-aS"The Obama healthcare bill, what it does is it tries to attack those, and it tries dozens of different approaches, and it's not a liberal takeover, it is not something crazy extremists cooked up on one side, it's actually the best ideas of the left and the right."
+aS'Now, you listened to this team over here.'
 p968
-aS"It's ideas like not paying hospitals if they run high rates of in-hospital infection."
+aS"You've listened to their argument."
 p969
-aS"It's things like developing electronic medical records so we can keep track of what patients are getting as they move through the medical system."
+aS"And they painted a very dire picture of a program out of control that's going to cost more than anybody thinks."
 p970
-aS"It's about giving financial incentives to doctors and hospitals that coordinate care and focus on prevention, and efforts like this that together, the smartest people have stated this, all believe will help control healthcare costs."
+aS"It's going to leave us all paying tons in insurance premiums."
 p971
-aS'Now, Douglas Holtz-Eakin got up here and said these numbers are crazy, that of course this is going to explode the deficit, and again, common sense, well, the most reliable authority we have on this is the Congressional Budget Office.'
+aS"And you know, they have to paint an apocalyptic picture because I think the honest truth is most of us, when we hear that -- about the benefits of the plan, that we'll be able to guarantee coverage for people who have pre-existing conditions, the right to appeal treatments when their insurance company turns it down, subsidies for people who can't buy coverage now."
 p972
-aS'Congressional Budget Office is the gold standard of accounting.'
+aS'People like that.'
 p973
-aS'The CBO -- my reading of the CBO report is that they looked at the healthcare bill and they said, "You know what?'
+aS'They think that is a good idea.'
 p974
-aS'This bill will reduce the deficit.'
+aS'So they focus on this cost question.'
 p975
-aS'It will reduce the deficit in the first 10 years, it will reduce it by a lot more afterwards.'
+aS"And, you know, during the healthcare debate, we had all this scare talk about death panels and other things that just were simply not in the -- with all due respect to my -- to our debating opponents here who I know have spent a lot of time talking about it, I think they're giving you, well, I don't want so say they're making things up out of whole costs , but I think they're giving you a slightly, let's say, one-sided picture of things."
 p976
-aS'" And by the way, the rate of growth in healthcare spending is going to start to slow down.'
+aS'So I did two things here.'
 p977
-aS'Now, it is true that the CBO, you can say, "Well, the CBO ought to use these rules," or whatever.'
+aS'First, I want to explain why I have faith that the Obama healthcare bill will in fact reduce costs.'
 p978
-aS'Well, what the CBO rules mean is that we are assuming that the laws that we have passed are going to be implemented, and that is the way -- and that is the way the government accounting system works.'
+aS'And I want to specifically go through some of the arguments they have made and tell you why they are misleading.'
 p979
-aS'Douglas Holtz-Eakin says, "Well, that never works because we\'ve never seen it happen.'
+aS'Now, why do I have faith that this healthcare bill will save money?'
 p980
-aS'" Well, you know what?'
+aS"I mean isn't -- Congressman Shadegg said, isn't it common sense that it won't?"
 p981
-aS"It's happened before."
+aS"I don't think it's common sense."
 p982
-aS'During the late 1990s we tried to control costs in Medicare and we did for a while.'
+aS'I look around the world.'
 p983
-aS'We passed very large cuts to Medicare during the Balanced Budget Act.'
+aS'I look at countries like France and Germany and Switzerland and Japan, countries that get just as good healthcare as we do or better, people who have easier access to healthcare, and yet they spend less than we do.'
 p984
-aS'It was the late 1990s, and you know what?'
+aS"Now, is there something about the United States that we're not capable?"
 p985
-aS'Those cuts stuck, and we were able to reduce the growth of Medicare from where it wouldve been otherwise.'
+aS"We're not innovative enough?"
 p986
-aS'Its entirely possible to do this.'
+aS"We can't do that?"
 p987
-aS'Now, in order to do this you have to actually stick with a program.'
+aS"I don't think so."
 p988
-aS'As my colleague mentioned, during the Bush administration they passed a different -- they tried to approach healthcare in a different way.'
+aS'Certainly it is possible, certainly, to get excellent healthcare, cover everybody and save money.'
 p989
-aS"They said, All right, lets try a different approach, and lets have a healthcare bill, let's not pay the cost for it."
+aS'So the question is, will this bill do it?'
 p990
-aS'Well, that did increase the deficit, and that is the sort of choice were talking about facing here.'
+aS'And I believe it will.'
 p991
-aS'Now, my colleague -- my opponent, Mr. Holtz-Eakin, cited a number of authorities he believed, and he said, Well, John Gruber of MIT says this is not good, or he said, The CMS actuary said this.'
+aS'Let me take a second to explain how the bill is designed to do that.'
 p992
-aS'" Well, in fact, if you look at the written record, the people -- the list of experts who have endorsed this, its not just the Congressional Budget Office, its people like David Cutler, a professor at Harvard University, who won the John Base Clark Medal for the most accomplished economist under 40.'
+aS'It has three basic approaches.'
 p993
-aS"It's people like Jonathan Gruber from MIT -- I know he quoted Jonathan Gruber -- Jonathan Gruber has said many times he endorses this bill."
+aS'One is to get the low-hanging fruit of healthcare, the waste.'
 p994
-aS"He thinks it's our best shot right now to get healthcare costs under control."
+aS"A lot of it's corporate welfare."
 p995
-aS"It's people like Mark McClellan, who hasn said that he believes the Affordable Care Act will start to reduce healthcare spending, and why do we care about Mark McClellan?"
+aS'Right now, for example, insurance companies that provide benefits through Medicare, study after study has shown that we pay them too much.'
 p996
-aS'Because Mark McClellan ran Medicare in the Bush administration, and its people like the Simpson-Bowles Commission, the bipartisan fiscal commission said, "The cost control in the Affordable Care Act will be affected, and we need if anything to double down on it.'
+aS"They're making too much in profits."
 p997
-aS'" This is not my opinion, its not some crazy opinion, it is in fact the opinion of the best experts of left and right.'
+aS"So we say we're going to take some of that back."
 p998
-asg25
-(dp999
-S'19:26:31'
+aS"We're going to take back that corporate welfare."
+p999
+aS'Another source of offsetting revenue for the healthcare program is to go and ask people who have benefited the most from our economy, the people who are the very wealthiest in our society, to pay back a little more in taxes.'
 p1000
+aS'And we get money from there.'
+p1001
+aS"Now, I don't think either of those propositions are in dispute in terms of that those things will generate money to offset the costs of the healthcare plan."
+p1002
+aS'Now, they may not like those ideas.'
+p1003
+aS"And that's fine."
+p1004
+aS'And maybe in the question and answer period they can tell us why they think we need to keep giving insurance companies corporate welfare.'
+p1005
+aS"Why the richest people in this country, who are enjoying far lower tax rates than they had during the Clinton administration, can't afford to pay a little more."
+p1006
+aS"But it's the third part of healthcare reform, the third part of cost control that's the most important."
+p1007
+aS'And this is where we really look at the way the American medical care system works.'
+p1008
+aS'Everybody who is -- every expert left and right says we waste a ton of money in our medical care system.'
+p1009
+aS"Some of this is administrative waste because everyone's dealing with 10 different insurance companies."
+p1010
+aS"Some of this is duplicative treatments because Dr. A doesn't know what Dr. B is doing to patient C. Some of this is the fact that we pay tons of money for treatments that don't work."
+p1011
+aS"The Obama healthcare bill, what it does is it tries to attack those, and it tries dozens of different approaches, and it's not a liberal takeover, it is not something crazy extremists cooked up on one side, it's actually the best ideas of the left and the right."
+p1012
+aS"It's ideas like not paying hospitals if they run high rates of in-hospital infection."
+p1013
+aS"It's things like developing electronic medical records so we can keep track of what patients are getting as they move through the medical system."
+p1014
+aS"It's about giving financial incentives to doctors and hospitals that coordinate care and focus on prevention, and efforts like this that together, the smartest people have stated this, all believe will help control healthcare costs."
+p1015
+aS'Now, Douglas Holtz-Eakin got up here and said these numbers are crazy, that of course this is going to explode the deficit, and again, common sense, well, the most reliable authority we have on this is the Congressional Budget Office.'
+p1016
+aS'Congressional Budget Office is the gold standard of accounting.'
+p1017
+aS'The CBO -- my reading of the CBO report is that they looked at the healthcare bill and they said, "You know what?'
+p1018
+aS'This bill will reduce the deficit.'
+p1019
+aS'It will reduce the deficit in the first 10 years, it will reduce it by a lot more afterwards.'
+p1020
+aS'" And by the way, the rate of growth in healthcare spending is going to start to slow down.'
+p1021
+aS'Now, it is true that the CBO, you can say, "Well, the CBO ought to use these rules," or whatever.'
+p1022
+aS'Well, what the CBO rules mean is that we are assuming that the laws that we have passed are going to be implemented, and that is the way -- and that is the way the government accounting system works.'
+p1023
+aS'Douglas Holtz-Eakin says, "Well, that never works because we\'ve never seen it happen.'
+p1024
+aS'" Well, you know what?'
+p1025
+aS"It's happened before."
+p1026
+aS'During the late 1990s we tried to control costs in Medicare and we did for a while.'
+p1027
+aS'We passed very large cuts to Medicare during the Balanced Budget Act.'
+p1028
+aS'It was the late 1990s, and you know what?'
+p1029
+aS'Those cuts stuck, and we were able to reduce the growth of Medicare from where it wouldve been otherwise.'
+p1030
+aS'Its entirely possible to do this.'
+p1031
+aS'Now, in order to do this you have to actually stick with a program.'
+p1032
+aS'As my colleague mentioned, during the Bush administration they passed a different -- they tried to approach healthcare in a different way.'
+p1033
+aS"They said, All right, lets try a different approach, and lets have a healthcare bill, let's not pay the cost for it."
+p1034
+aS'Well, that did increase the deficit, and that is the sort of choice were talking about facing here.'
+p1035
+aS'Now, my colleague -- my opponent, Mr. Holtz-Eakin, cited a number of authorities he believed, and he said, Well, John Gruber of MIT says this is not good, or he said, The CMS actuary said this.'
+p1036
+aS'" Well, in fact, if you look at the written record, the people -- the list of experts who have endorsed this, its not just the Congressional Budget Office, its people like David Cutler, a professor at Harvard University, who won the John Base Clark Medal for the most accomplished economist under 40.'
+p1037
+aS"It's people like Jonathan Gruber from MIT -- I know he quoted Jonathan Gruber -- Jonathan Gruber has said many times he endorses this bill."
+p1038
+aS"He thinks it's our best shot right now to get healthcare costs under control."
+p1039
+aS"It's people like Mark McClellan, who hasn said that he believes the Affordable Care Act will start to reduce healthcare spending, and why do we care about Mark McClellan?"
+p1040
+aS'Because Mark McClellan ran Medicare in the Bush administration, and its people like the Simpson-Bowles Commission, the bipartisan fiscal commission said, "The cost control in the Affordable Care Act will be affected, and we need if anything to double down on it.'
+p1041
+aS'" This is not my opinion, its not some crazy opinion, it is in fact the opinion of the best experts of left and right.'
+p1042
+asg25
+(dp1043
+S'19:26:31'
+p1044
 I67
 sS'19:22:20'
-p1001
+p1045
 I6
 sS'19:23:22'
-p1002
+p1046
 I21
 sS'19:28:26'
-p1003
+p1047
 I92
 sS'19:27:22'
-p1004
+p1048
 I79
 sS'19:24:24'
-p1005
+p1049
 I37
 sS'19:25:22'
-p1006
+p1050
 I52
-ssa(dp1007
+ssa(dp1051
 g8
-(lp1008
+(lp1052
 S'Jonathan Cohn, your time is up.'
-p1009
+p1053
 asg11
 S'JOHN DONVAN'
-p1010
+p1054
 sg16
-(lp1011
-g1009
-asa(dp1012
+(lp1055
+g1053
+asa(dp1056
 g8
-(lp1013
+(lp1057
 S'Thank you.'
-p1014
+p1058
 asg11
 S'JONATHAN COHN'
-p1015
+p1059
 sg16
-(lp1016
-g1014
-asa(dp1017
+(lp1060
+g1058
+asa(dp1061
 g113
-(dp1018
+(dp1062
 I1
 S'[applause]'
-p1019
+p1063
 ssg8
-(lp1020
+(lp1064
 S'Thank you very much.And that concludes round one of this Intelligence Squared U.S. debate, where the motion [[applause]] being argued is "Repeal Obamacare.'
-p1021
+p1065
 aS'" Now, keep in mind how you voted at the top of theevening, because youre going to be asked to vote again at the conclusion, and I want toremind you that the team that changes the most minds will be declared our winner.So, now, on to round two where the debaters can address one another directly, and alsotake questions from me and you in the audience.'
-p1022
+p1066
 aS'Im John Donvan of "ABC News.'
-p1023
+p1067
 aS'" Weare at the Skirball Center for the Performing Arts at New York University.'
-p1024
+p1068
 aS'We have twoteams of debaters, two against two, who are arguing over this motion, "RepealObamacare.'
-p1025
+p1069
 aS'" On one side, a former Congressman and former aide to John McCain arearguing that the plan passed by the Obama administration is going to blow up financiallyand will hurt America and is headed for the dust bin.'
-p1026
+p1070
 aS'Arguing against them, a formeradvisor to the Clinton administration and a journalist who has written extensively abouthealthcare, arguing that this act -- that this law should be preserved, and not onlypreserved, but built upon.'
-p1027
+p1071
 aS'I want to ask a question about philosophy.'
-p1028
+p1072
 aS'Both sides agreethat the system weve lived with for the last 30 years, particularly in its last 15 or 20years, is broken.'
-p1029
+p1073
 aS'You agree that something needs to be done.'
-p1030
+p1074
 aS"You're arguing over thesolutions.Your opposition on one side to the presidents program and youre supporting the otherside says what fundamentally about what you think we are as a nation, as Americans."
-p1031
+p1075
 aS'Iwant to put that question first to you, John Shadegg, former congressman.'
-p1032
+p1076
 asg11
 S'JOHN DONVAN'
-p1033
+p1077
 sg16
-(lp1034
+(lp1078
 S'Thank you very much.'
-p1035
+p1079
 aS'And that concludes round one of this Intelligence Squared U.S. debate, where the motion being argued is "Repeal Obamacare.'
-p1036
+p1080
 aS'" Now, keep in mind how you voted at the top of the evening, because youre going to be asked to vote again at the conclusion, and I want to remind you that the team that changes the most minds will be declared our winner.'
-p1037
+p1081
 aS'So, now, on to round two where the debaters can address one another directly, and also take questions from me and you in the audience.'
-p1038
+p1082
 aS'Im John Donvan of "ABC News.'
-p1039
+p1083
 aS'" We are at the Skirball Center for the Performing Arts at New York University.'
-p1040
+p1084
 aS'We have two teams of debaters, two against two, who are arguing over this motion, "Repeal Obamacare.'
-p1041
+p1085
 aS'" On one side, a former Congressman and former aide to John McCain are arguing that the plan passed by the Obama administration is going to blow up financially and will hurt America and is headed for the dust bin.'
-p1042
+p1086
 aS'Arguing against them, a former advisor to the Clinton administration and a journalist who has written extensively about healthcare, arguing that this act -- that this law should be preserved, and not only preserved, but built upon.'
-p1043
+p1087
 aS'I want to ask a question about philosophy.'
-p1044
+p1088
 aS'Both sides agree that the system weve lived with for the last 30 years, particularly in its last 15 or 20 years, is broken.'
-p1045
+p1089
 aS'You agree that something needs to be done.'
-p1046
+p1090
 aS"You're arguing over the solutions."
-p1047
+p1091
 aS'Your opposition on one side to the presidents program and youre supporting the other side says what fundamentally about what you think we are as a nation, as Americans.'
-p1048
+p1092
 aS'I want to put that question first to you, John Shadegg, former congressman.'
-p1049
+p1093
 asg25
-(dp1050
+(dp1094
 S'19:30:24'
-p1051
+p1095
 I18
 sS'19:29:26'
-p1052
-I5
-ssa(dp1053
-g8
-(lp1054
-S'Im thrilled to have that question because I think its vitally important.'
-p1055
-aS'I think werealready -- were a nation that does support taking care of those who cant care forthemselves.'
-p1056
-aS'Were a nation -- and my legislation covers every single American -- were anation that thinks its outrageous that anybody would lose coverage because there arepre-existing condition like my heart condition or my sisters breast cancer.'
-p1057
-aS'But werealso a nation that honors limited government and honors individual choice.'
-p1058
-aS'I think on theone hand what you hear from the other side is that the government can manage this issuebetter.'
-p1059
-aS'And what I would suggest to you is we are in this problem because thegovernment made changes that took you and I out of the equation.'
-p1060
-aS'The government saidhealth insurance is available only if your employer buys it and you get a tax deduction.But if you go out and buy it, its one-third more expensive.'
-p1061
-aS'If you cant hire and firesomebodys who delivering a service to you, you cant hold it accountable including itscosts.'
-p1062
-asg11
-S'JOHN SHADEGG'
-p1063
-sg13
-(dp1064
-I6
-S'18'
-p1065
-ssg16
-(lp1066
-S'Im thrilled to have that question because I think its vitally important.'
-p1067
-aS'I think were already -- were a nation that does support taking care of those who cant care for themselves.'
-p1068
-aS'Were a nation -- and my legislation covers every single American -- were a nation that thinks its outrageous that anybody would lose coverage because there are pre-existing condition like my heart condition or my sisters breast cancer.'
-p1069
-aS'But were also a nation that honors limited government and honors individual choice.'
-p1070
-aS'I think on the one hand what you hear from the other side is that the government can manage this issue better.'
-p1071
-aS'And what I would suggest to you is we are in this problem because the government made changes that took you and I out of the equation.'
-p1072
-aS'The government said health insurance is available only if your employer buys it and you get a tax deduction.'
-p1073
-aS'But if you go out and buy it, its one-third more expensive.'
-p1074
-aS'If you cant hire and fire somebodys who delivering a service to you, you cant hold it accountable including its costs.'
-p1075
-asg25
-(dp1076
-S'19:31:24'
-p1077
-I10
-ssa(dp1078
-g8
-(lp1079
-S'John, youre saying theres an issue of individual freedom here '
-p1080
-asg11
-S'JOHN DONVAN'
-p1081
-sg16
-(lp1082
-g1080
-asa(dp1083
-g8
-(lp1084
-S'Absolutely.'
-p1085
-aS'The individual freedom is tied back to the cost of the service and because wecant control it, you are controlling its cost.'
-p1086
-asg11
-S'JOHN SHADEGG'
-p1087
-sg16
-(lp1088
-S'Absolutely.'
-p1089
-aS'The individual freedom is tied back to the cost of the service and because we cant control it, you are controlling its cost.'
-p1090
-asa(dp1091
-g8
-(lp1092
-S'Let me take your response to the other side, Paul Starr who worked for the Clintonadministration.'
-p1093
-asg11
-S'JOHN DONVAN'
-p1094
-sg16
-(lp1095
-S'Let me take your response to the other side, Paul Starr who worked for the Clinton administration.'
 p1096
-asa(dp1097
+I5
+ssa(dp1097
 g8
 (lp1098
-S'I do think this is a question of our public philosophy and the obligations that we owe toone another.'
+S'Im thrilled to have that question because I think its vitally important.'
 p1099
-aS'And it is, I think, a sad commentary on us that we remain the only advancedcountry that doesnt provide protection to all of our citizens.'
+aS'I think werealready -- were a nation that does support taking care of those who cant care forthemselves.'
 p1100
-aS'Now the reason that wehave -- lets go back to why we have this employer-based system.'
+aS'Were a nation -- and my legislation covers every single American -- were anation that thinks its outrageous that anybody would lose coverage because there arepre-existing condition like my heart condition or my sisters breast cancer.'
 p1101
-aS'If you dont havegovernment share, spread the costs of healthcare, there needs to be some organizationthat serves as the pool for risk.And the employer is the most convenient way to do it.'
+aS'But werealso a nation that honors limited government and honors individual choice.'
 p1102
-aS'Thats actually why this firstdeveloped in the 1930s and 40s before we had the tax advantages.'
+aS'I think on theone hand what you hear from the other side is that the government can manage this issuebetter.'
 p1103
-aS'Its simply going todefault from the government to employers.'
+aS'And what I would suggest to you is we are in this problem because thegovernment made changes that took you and I out of the equation.'
 p1104
-aS'Its not as though the government took thisaway from individuals.'
+aS'The government saidhealth insurance is available only if your employer buys it and you get a tax deduction.But if you go out and buy it, its one-third more expensive.'
 p1105
-aS'That individual market that the Congressman loves isphenomenally inefficient.'
+aS'If you cant hire and firesomebodys who delivering a service to you, you cant hold it accountable including itscosts.'
 p1106
 asg11
-S'PAUL STARR'
+S'JOHN SHADEGG'
 p1107
-sg16
-(lp1108
-S'I do think this is a question of our public philosophy and the obligations that we owe to one another.'
-p1109
-aS'And it is, I think, a sad commentary on us that we remain the only advanced country that doesnt provide protection to all of our citizens.'
-p1110
-aS'Now the reason that we have -- lets go back to why we have this employer-based system.'
-p1111
-aS'If you dont have government share, spread the costs of healthcare, there needs to be some organization that serves as the pool for risk.'
-p1112
-aS'And the employer is the most convenient way to do it.'
-p1113
-aS'Thats actually why this first developed in the 1930s and 40s before we had the tax advantages.'
-p1114
-aS'Its simply going to default from the government to employers.'
-p1115
-aS'Its not as though the government took this away from individuals.'
-p1116
-aS'That individual market that the Congressman loves is phenomenally inefficient.'
-p1117
-asg25
-(dp1118
-S'19:32:30'
-p1119
+sg13
+(dp1108
 I6
-ssa(dp1120
+S'18'
+p1109
+ssg16
+(lp1110
+S'Im thrilled to have that question because I think its vitally important.'
+p1111
+aS'I think were already -- were a nation that does support taking care of those who cant care for themselves.'
+p1112
+aS'Were a nation -- and my legislation covers every single American -- were a nation that thinks its outrageous that anybody would lose coverage because there are pre-existing condition like my heart condition or my sisters breast cancer.'
+p1113
+aS'But were also a nation that honors limited government and honors individual choice.'
+p1114
+aS'I think on the one hand what you hear from the other side is that the government can manage this issue better.'
+p1115
+aS'And what I would suggest to you is we are in this problem because the government made changes that took you and I out of the equation.'
+p1116
+aS'The government said health insurance is available only if your employer buys it and you get a tax deduction.'
+p1117
+aS'But if you go out and buy it, its one-third more expensive.'
+p1118
+aS'If you cant hire and fire somebodys who delivering a service to you, you cant hold it accountable including its costs.'
+p1119
+asg25
+(dp1120
+S'19:31:24'
+p1121
+I10
+ssa(dp1122
 g8
-(lp1121
-S'But Paul, what about your opponents point that as a nation, philosophically as a nation,were defined by a commitment to limited government and that this program actuallyassaults that notion?'
-p1122
+(lp1123
+S'John, youre saying theres an issue of individual freedom here '
+p1124
 asg11
 S'JOHN DONVAN'
-p1123
-sg16
-(lp1124
-S'But Paul, what about your opponents point that as a nation, philosophically as a nation, were defined by a commitment to limited government and that this program actually assaults that notion?'
 p1125
-asa(dp1126
+sg16
+(lp1126
+g1124
+asa(dp1127
 g8
-(lp1127
-S'But it is a program, as I said before, that is trying to create a functioning market, a betterfunctioning market than the one that currently exists.'
-p1128
-aS'Those exchanges will give peoplechoices that they dont now have. '
+(lp1128
+S'Absolutely.'
 p1129
+aS'The individual freedom is tied back to the cost of the service and because wecant control it, you are controlling its cost.'
+p1130
+asg11
+S'JOHN SHADEGG'
+p1131
+sg16
+(lp1132
+S'Absolutely.'
+p1133
+aS'The individual freedom is tied back to the cost of the service and because we cant control it, you are controlling its cost.'
+p1134
+asa(dp1135
+g8
+(lp1136
+S'Let me take your response to the other side, Paul Starr who worked for the Clintonadministration.'
+p1137
+asg11
+S'JOHN DONVAN'
+p1138
+sg16
+(lp1139
+S'Let me take your response to the other side, Paul Starr who worked for the Clinton administration.'
+p1140
+asa(dp1141
+g8
+(lp1142
+S'I do think this is a question of our public philosophy and the obligations that we owe toone another.'
+p1143
+aS'And it is, I think, a sad commentary on us that we remain the only advancedcountry that doesnt provide protection to all of our citizens.'
+p1144
+aS'Now the reason that wehave -- lets go back to why we have this employer-based system.'
+p1145
+aS'If you dont havegovernment share, spread the costs of healthcare, there needs to be some organizationthat serves as the pool for risk.And the employer is the most convenient way to do it.'
+p1146
+aS'Thats actually why this firstdeveloped in the 1930s and 40s before we had the tax advantages.'
+p1147
+aS'Its simply going todefault from the government to employers.'
+p1148
+aS'Its not as though the government took thisaway from individuals.'
+p1149
+aS'That individual market that the Congressman loves isphenomenally inefficient.'
+p1150
 asg11
 S'PAUL STARR'
-p1130
+p1151
+sg16
+(lp1152
+S'I do think this is a question of our public philosophy and the obligations that we owe to one another.'
+p1153
+aS'And it is, I think, a sad commentary on us that we remain the only advanced country that doesnt provide protection to all of our citizens.'
+p1154
+aS'Now the reason that we have -- lets go back to why we have this employer-based system.'
+p1155
+aS'If you dont have government share, spread the costs of healthcare, there needs to be some organization that serves as the pool for risk.'
+p1156
+aS'And the employer is the most convenient way to do it.'
+p1157
+aS'Thats actually why this first developed in the 1930s and 40s before we had the tax advantages.'
+p1158
+aS'Its simply going to default from the government to employers.'
+p1159
+aS'Its not as though the government took this away from individuals.'
+p1160
+aS'That individual market that the Congressman loves is phenomenally inefficient.'
+p1161
+asg25
+(dp1162
+S'19:32:30'
+p1163
+I6
+ssa(dp1164
+g8
+(lp1165
+S'But Paul, what about your opponents point that as a nation, philosophically as a nation,were defined by a commitment to limited government and that this program actuallyassaults that notion?'
+p1166
+asg11
+S'JOHN DONVAN'
+p1167
+sg16
+(lp1168
+S'But Paul, what about your opponents point that as a nation, philosophically as a nation, were defined by a commitment to limited government and that this program actually assaults that notion?'
+p1169
+asa(dp1170
+g8
+(lp1171
+S'But it is a program, as I said before, that is trying to create a functioning market, a betterfunctioning market than the one that currently exists.'
+p1172
+aS'Those exchanges will give peoplechoices that they dont now have. '
+p1173
+asg11
+S'PAUL STARR'
+p1174
 sg13
-(dp1131
+(dp1175
 I0
 S'19'
-p1132
+p1176
 ssg16
-(lp1133
+(lp1177
 S'But it is a program, as I said before, that is trying to create a functioning market, a better functioning market than the one that currently exists.'
-p1134
+p1178
 aS'Those exchanges will give people choices that they dont now have. '
-p1135
-asa(dp1136
+p1179
+asa(dp1180
 g8
-(lp1137
+(lp1181
 S'All the Republicans are arguing is that you ought to give that choice to people.I do not favor individual purchase.'
-p1138
+p1182
 aS'That was the attack made against Senator McCainthroughout the campaign and it was absolutely unfair.'
-p1139
+p1183
 aS'I favor a plan which says I as anindividual can buy an individual plan, I can take my employers plan or I can buy from awhole group of expanded choices.'
-p1140
+p1184
 aS'We could have my social club.'
-p1141
+p1185
 aS'The Kiwanis Club canoffer a plan.'
-p1142
+p1186
 aS'My university alumni can offer a plan.'
-p1143
+p1187
 aS'Give me that choice, force thoseinsurance companies to compete.'
-p1144
+p1188
 aS'They dont compete right now.'
-p1145
+p1189
 aS'They dont care whatyou and I pay for health insurance and they dont, quite frankly, care whether it treats uswell.'
-p1146
+p1190
 aS'They only care that our employer bought the plan.'
-p1147
+p1191
 asg11
 S'JOHN SHADEGG'
-p1148
+p1192
 sg16
-(lp1149
+(lp1193
 S'All the Republicans are arguing is that you ought to give that choice to people.'
-p1150
+p1194
 aS'I do not favor individual purchase.'
-p1151
+p1195
 aS'That was the attack made against Senator McCain throughout the campaign and it was absolutely unfair.'
-p1152
+p1196
 aS'I favor a plan which says I as an individual can buy an individual plan, I can take my employers plan or I can buy from a whole group of expanded choices.'
-p1153
+p1197
 aS'We could have my social club.'
-p1154
+p1198
 aS'The Kiwanis Club can offer a plan.'
-p1155
+p1199
 aS'My university alumni can offer a plan.'
-p1156
+p1200
 aS'Give me that choice, force those insurance companies to compete.'
-p1157
+p1201
 aS'They dont compete right now.'
-p1158
+p1202
 aS'They dont care what you and I pay for health insurance and they dont, quite frankly, care whether it treats us well.'
-p1159
+p1203
 aS'They only care that our employer bought the plan.'
-p1160
+p1204
 asg25
-(dp1161
+(dp1205
 S'19:33:27'
-p1162
+p1206
 I1
-ssa(dp1163
+ssa(dp1207
 g113
-(dp1164
+(dp1208
 I1
 S'[applause]'
-p1165
+p1209
 ssg8
-(lp1166
+(lp1210
 S'Jonathan Cohn.Jonathan Cohn, arguing against repeal.'
-p1167
+p1211
 aS'[[applause]] '
-p1168
+p1212
 asg11
 S'JOHN DONVAN'
-p1169
+p1213
 sg16
-(lp1170
+(lp1214
 S'Jonathan Cohn.'
-p1171
+p1215
 aS'Jonathan Cohn, arguing against repeal.'
-p1172
-asa(dp1173
+p1216
+asa(dp1217
 g8
-(lp1174
+(lp1218
 S'Well, I would say I think all of us favor choice.'
-p1175
+p1219
 aS'Choice is a wonderful thing.'
-p1176
+p1220
 aS'We want togive choice.'
-p1177
+p1221
 aS'People who buy, I mean, we need to realize that the employer -- people whoare getting private insurance are now divided into two groups.'
-p1178
+p1222
 aS'There are people who getit from their employers and there are people who buy it on their own.'
-p1179
+p1223
 aS'Neither of themhas choices right now.'
-p1180
+p1224
 aS'Youre buying insurance on your own?'
-p1181
+p1225
 aS'Good luck buying acoverage policy.Youre going to have trouble finding one, particularly if you have pre-existing conditions.'
-p1182
+p1226
 asg11
 S'JONATHAN COHN'
-p1183
+p1227
 sg16
-(lp1184
+(lp1228
 S'Well, I would say I think all of us favor choice.'
-p1185
+p1229
 aS'Choice is a wonderful thing.'
-p1186
+p1230
 aS'We want to give choice.'
-p1187
+p1231
 aS'People who buy, I mean, we need to realize that the employer -- people who are getting private insurance are now divided into two groups.'
-p1188
+p1232
 aS'There are people who get it from their employers and there are people who buy it on their own.'
-p1189
+p1233
 aS'Neither of them has choices right now.'
-p1190
+p1234
 aS'Youre buying insurance on your own?'
-p1191
+p1235
 aS'Good luck buying a coverage policy.'
-p1192
+p1236
 aS'Youre going to have trouble finding one, particularly if you have pre-existing conditions.'
-p1193
+p1237
 asg25
-(dp1194
+(dp1238
 S'19:34:24'
-p1195
+p1239
 I6
-ssa(dp1196
+ssa(dp1240
 g8
-(lp1197
+(lp1241
 S'Youve got to shop across state lines.'
-p1198
+p1242
 asg11
 S'JOHN SHADEGG'
-p1199
+p1243
 sg16
-(lp1200
-g1198
-asa(dp1201
+(lp1244
+g1242
+asa(dp1245
 g8
-(lp1202
+(lp1246
 S'Well talk about that in a second.'
-p1203
+p1247
 aS'This Affordable Care Plan, what it does is it says, allright, lets create a market, a real market, a place -- kind of like Expedia, like they have inMassachusetts now where everybody whos buying one actually gets a choice ofinsurance programs, a set of plans that they know they can afford that will be madeavailable to them regardless if theyre a cancer survivor and let all of those people shop.Meanwhile, employers who have insurance for their employees will continue to providethat.'
-p1204
+p1248
 aS'Look, at some point it is very easy to say we want to open up exchanges foreverybody and let everybody shop.'
-p1205
+p1249
 aS'You can build on this system to do that.'
-p1206
+p1250
 aS'You can dothat.'
-p1207
+p1251
 aS'But youre never going to get to that system youre talking about.'
-p1208
+p1252
 aS'You will neverget to a system where people have choice and a choice of actual plans that are availableto everybody, that cover what they need, until you build these exchanges that are in theaffordable care act.'
-p1209
+p1253
 asg11
 S'JONATHAN COHN'
-p1210
+p1254
 sg13
-(dp1211
+(dp1255
 I3
 S'20'
-p1212
-ssg16
-(lp1213
-S'Well talk about that in a second.'
-p1214
-aS'This Affordable Care Plan, what it does is it says, all right, lets create a market, a real market, a place -- kind of like Expedia, like they have in Massachusetts now where everybody whos buying one actually gets a choice of insurance programs, a set of plans that they know they can afford that will be made available to them regardless if theyre a cancer survivor and let all of those people shop.'
-p1215
-aS'Meanwhile, employers who have insurance for their employees will continue to provide that.'
-p1216
-aS'Look, at some point it is very easy to say we want to open up exchanges for everybody and let everybody shop.'
-p1217
-aS'You can build on this system to do that.'
-p1218
-aS'You can do that.'
-p1219
-aS'But youre never going to get to that system youre talking about.'
-p1220
-aS'You will never get to a system where people have choice and a choice of actual plans that are available to everybody, that cover what they need, until you build these exchanges that are in the affordable care act.'
-p1221
-asa(dp1222
-g113
-(dp1223
-I32
-S'[applause]'
-p1224
-sI10
-S'[laughter]'
-p1225
-ssg11
-S'JOHN DONVAN'
-p1226
-sg16
-(lp1227
-S'Douglas Holtz-Eaken.'
-p1228
-aS'Youre against the plan.'
-p1229
-aS'I want to ask you, what -- what do you think the public actually wants?'
-p1230
-aS'Douglas Holtz-Eakin: I have no idea.'
-p1231
-aS'Let me just -- I would never speak for 300 million Americans.'
-p1232
-aS"And that's one of the beautiful things about this country."
-p1233
-aS'And I think the -- you know, I agree, obviously, with a lot of what Jon has said.'
-p1234
-aS'Go back to the beginning of the evening when we were asked to think about end of life care.'
-p1235
-aS'Now, do you really think that Americans want an insurance company making decisions about the end of life care?'
-p1236
-aS'No.'
-p1237
-aS"They've already seen that model and rejected it -- So you are telling us what Americans want, or not."
-p1238
-aS"Douglas Holtz-Eakin: That you can't do that."
-p1239
-aS'They told us, Ill read that evidence.'
-p1240
-aS"I don't think they want the government making those decisions."
-p1241
-aS'I think we know who makes those decisions.'
-p1242
-aS"It's the family."
-p1243
-aS"It's -- those are the only people who are ethically well situated to make those tough calls."
-p1244
-aS'And so we must, in the end, invest in families, the authority to make decisions, invest in them, their insurance.'
-p1245
-aS'Invest in them the information and the ability to make those decisions and center this system around families and Americans, not around these large government entities.'
-p1246
-aS'What does that mean in practice?'
-p1247
-aS"I'm an economist."
-p1248
-aS'I mean, economists are practical people.'
-p1249
-aS'You follow your nose and incentives.'
-p1250
-aS"If I have an insurance policy when I'm 21, and then I develop an odd thing where I have to have my kidneys transplanted, I'm still on that insurance policy."
-p1251
-aS"Any insurance company now has to recognize they've got me for life."
-p1252
-aS"It's not a one-year sign-up proposition where they can minimize on preventive care or they can try to cut off covering some things."
-p1253
-aS'They have to deal with the right lifetime incentives.'
-p1254
-aS'Pay for the cheap prevention up front.'
-p1255
-aS'A lot of them eventually want to do that.'
 p1256
-aS'And align the insurance and the medical incentives to transform the way we deliver medicine in America.'
-p1257
-aS"That's what we need."
+ssg16
+(lp1257
+S'Well talk about that in a second.'
 p1258
-aS'And in the process, guess what?'
+aS'This Affordable Care Plan, what it does is it says, all right, lets create a market, a real market, a place -- kind of like Expedia, like they have in Massachusetts now where everybody whos buying one actually gets a choice of insurance programs, a set of plans that they know they can afford that will be made available to them regardless if theyre a cancer survivor and let all of those people shop.'
 p1259
-aS'My insurance goes with me from job to job, job to home when I stayed home with my kids.'
+aS'Meanwhile, employers who have insurance for their employees will continue to provide that.'
 p1260
-aS"You don't have to spend the whole time fighting over who works full time to get the insurance."
+aS'Look, at some point it is very easy to say we want to open up exchanges for everybody and let everybody shop.'
 p1261
-aS"It's madness."
+aS'You can build on this system to do that.'
 p1262
-aS'Americans are rearranging their lives for the insurance.'
+aS'You can do that.'
 p1263
-aS"Let's rearrange the insurance so it fits American lives."
+aS'But youre never going to get to that system youre talking about.'
 p1264
-aS"That's what this system will be."
+aS'You will never get to a system where people have choice and a choice of actual plans that are available to everybody, that cover what they need, until you build these exchanges that are in the affordable care act.'
 p1265
-aS'Jonathan Cohn, you said in your opening remarks -- Jonathan Cohn, you have said that the Obama plan took the best from both left and right.'
-p1266
-aS'Give me one idea from the right that your opponents will recognize as an idea that is from their side, that they just love.'
-p1267
-asg25
-(dp1268
-S'19:37:25'
-p1269
-I31
-sS'19:36:22'
-p1270
-I17
-sS'19:35:23'
-p1271
-I1
-ssg8
-(lp1272
+asa(dp1266
+g8
+(lp1267
 S'Douglas Holtz-Eaken.'
-p1273
-aS'Youre against the plan.I want to ask you, what -- what do you think the public actually wants?Douglas Holtz-Eakin:I have no idea.'
-p1274
-aS'Let me just -- I would never speak for 300 million Americans.'
-p1275
-aS"And that'sone of the beautiful things about this country."
-p1276
-aS'And I think the -- you know, I agree,obviously, with a lot of what Jon has said.'
-p1277
-aS'Go back to the beginning of the evening whenwe were asked to think about end of life care.'
-p1278
-aS'Now, do you really think that Americanswant an insurance company making decisions about the end of life care?'
-p1279
-aS'No.'
-p1280
-aS"They'vealready seen that model and rejected it --So you are telling us what Americans want, or not."
-p1281
-aS"[[laughter]] Douglas Holtz-Eakin:That you can't do that."
-p1282
-aS'They told us, Ill read that evidence.'
-p1283
-aS"I don't think they want thegovernment making those decisions."
-p1284
-aS'I think we know who makes those decisions.'
-p1285
-aS"It'sthe family."
-p1286
-aS"It's -- those are the only people who are ethically well situated to make thosetough calls."
-p1287
-aS'And so we must, in the end, invest in families, the authority to makedecisions, invest in them, their insurance.Invest in them the information and the ability to make those decisions and center thissystem around families and Americans, not around these large government entities.What does that mean in practice?'
-p1288
-aS"I'm an economist."
-p1289
-aS'I mean, economists are practicalpeople.'
-p1290
-aS'You follow your nose and incentives.'
-p1291
-aS"If I have an insurance policy when I'm 21,and then I develop an odd thing where I have to have my kidneys transplanted, I'm stillon that insurance policy."
-p1292
-aS"Any insurance company now has to recognize they've got mefor life."
-p1293
-aS"It's not a one-year sign-up proposition where they can minimize on preventivecare or they can try to cut off covering some things."
-p1294
-aS'They have to deal with the rightlifetime incentives.'
-p1295
-aS'Pay for the cheap prevention up front.'
-p1296
-aS'A lot of them eventually wantto do that.'
-p1297
-aS'And align the insurance and the medical incentives to transform the way wedeliver medicine in America.'
-p1298
-aS"That's what we need."
-p1299
-aS'And in the process, guess what?'
-p1300
-aS"Myinsurance goes with me from job to job, job to home when I stayed home with my kids.You don't have to spend the whole time fighting over who works full time to get theinsurance."
-p1301
-aS"It's madness."
-p1302
-aS"Americans are rearranging their lives for the insurance.Let's rearrange the insurance so it fits American lives."
-p1303
-aS"That's what this system will be.Jonathan Cohn, you said in your opening remarks -- Jonathan Cohn, you have said that [[applause]] the Obama plan took the best from both left and right."
-p1304
-aS'Give me one idea from the rightthat your opponents will recognize as an idea that is from their side, that they just love.'
-p1305
-asg13
-(dp1306
-I22
-S'21'
-p1307
-ssa(dp1308
-g8
-(lp1309
-S'Sure, absolutely.'
-p1310
-aS"Well, first of all, to start, there's a pilot program funding formalpractice reform."
-p1311
-aS'You know, believe it or not, people who wrote the Affordable CareAct, and I would include myself among this, actually believe that there is some money tobe saved by reforming the malpractice system.'
-p1312
-aS"So there's money out there for --"
-p1313
-asg11
-S'JONATHAN COHN'
-p1314
-sg16
-(lp1315
-S'Sure, absolutely.'
-p1316
-aS"Well, first of all, to start, there's a pilot program funding for malpractice reform."
-p1317
-aS'You know, believe it or not, people who wrote the Affordable Care Act, and I would include myself among this, actually believe that there is some money to be saved by reforming the malpractice system.'
-p1318
-aS"So there's money out there for --"
-p1319
-asa(dp1320
-g8
-(lp1321
-S'Let me just take that to this side.'
-p1322
-aS'Do you recognize that as one of your ideas?Douglas Holtz-Eakin:Can I just say the big problem --Douglas Holtz-Eakin.Douglas Holtz-Eakin:I will stipulate late one thing I want to get very clear on the table.'
-p1323
-aS'I support exchanges.'
-p1324
-aS'Isupport -- I always support good competitive markets.'
-p1325
-aS'And you can build exchanges thatenhance competition left to do that.'
-p1326
-aS'There is a lot in the bill that is bipartisan.'
-p1327
-aS"It's in thedelivery system reforms, not in the coverage expansions which are madness."
-p1328
-aS"But they'reall tiny.They're pilots."
-p1329
-aS'Pilots have a terrible track record of actually turning into real policy.'
-p1330
-aS'Infact the road to healthcare hell is paved with pilots and demonstrations.'
-p1331
-aS"And that's a pilotand a demonstration for a known problem."
-p1332
-aS"If you've got a problem, fix it."
-p1333
-aS"The problemwith this bill, it doesn't fix what we know is the issue, healthcare costs."
-p1334
-aS"Instead, it's got abunch of pilots that Congress will never actually implement."
-p1335
-aS"And it doesn't fix thebiggest source of our problem, which is the Medicare system which pays forfragmentation, pays for overuse."
-p1336
-aS"It's a fee for service system."
-p1337
-aS'We have more problemscreated by those programs than this could ever solve.'
-p1338
-aS"So what's the point of the program. "
-p1339
+p1268
+aS'Youre against the plan.I want to ask you, what -- what do you think the public actually wants?'
+p1269
 asg11
 S'JOHN DONVAN'
-p1340
-sg13
-(dp1341
-I10
-S'22'
-p1342
-ssg16
-(lp1343
-S'Let me just take that to this side.'
-p1344
-aS'Do you recognize that as one of your ideas?'
-p1345
-aS'Douglas Holtz-Eakin: Can I just say the big problem -- Douglas Holtz-Eakin.'
-p1346
-aS'Douglas Holtz-Eakin: I will stipulate late one thing I want to get very clear on the table.'
-p1347
-aS'I support exchanges.'
-p1348
-aS'I support -- I always support good competitive markets.'
-p1349
-aS'And you can build exchanges that enhance competition left to do that.'
-p1350
-aS'There is a lot in the bill that is bipartisan.'
-p1351
-aS"It's in the delivery system reforms, not in the coverage expansions which are madness."
-p1352
-aS"But they're all tiny."
-p1353
-aS"They're pilots."
-p1354
-aS'Pilots have a terrible track record of actually turning into real policy.'
-p1355
-aS'In fact the road to healthcare hell is paved with pilots and demonstrations.'
-p1356
-aS"And that's a pilot and a demonstration for a known problem."
-p1357
-aS"If you've got a problem, fix it."
-p1358
-aS"The problem with this bill, it doesn't fix what we know is the issue, healthcare costs."
-p1359
-aS"Instead, it's got a bunch of pilots that Congress will never actually implement."
-p1360
-aS"And it doesn't fix the biggest source of our problem, which is the Medicare system which pays for fragmentation, pays for overuse."
-p1361
-aS"It's a fee for service system."
-p1362
-aS'We have more problems created by those programs than this could ever solve.'
-p1363
-aS"So what's the point of the program. "
-p1364
+p1270
+sg16
+(lp1271
+S'Douglas Holtz-Eaken.'
+p1272
+aS'Youre against the plan.'
+p1273
+aS'I want to ask you, what -- what do you think the public actually wants?'
+p1274
 asg25
+(dp1275
+S'19:35:23'
+p1276
+I1
+ssa(dp1277
+g8
+(lp1278
+S'I have no idea.'
+p1279
+aS'Let me just -- I would never speak for 300 million Americans.'
+p1280
+aS"And that'sone of the beautiful things about this country."
+p1281
+aS'And I think the -- you know, I agree,obviously, with a lot of what Jon has said.'
+p1282
+aS'Go back to the beginning of the evening whenwe were asked to think about end of life care.'
+p1283
+aS'Now, do you really think that Americanswant an insurance company making decisions about the end of life care?'
+p1284
+aS'No.'
+p1285
+aS"They'vealready seen that model and rejected it --"
+p1286
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p1287
+sg16
+(lp1288
+S'I have no idea.'
+p1289
+aS'Let me just -- I would never speak for 300 million Americans.'
+p1290
+aS"And that's one of the beautiful things about this country."
+p1291
+aS'And I think the -- you know, I agree, obviously, with a lot of what Jon has said.'
+p1292
+aS'Go back to the beginning of the evening when we were asked to think about end of life care.'
+p1293
+aS'Now, do you really think that Americans want an insurance company making decisions about the end of life care?'
+p1294
+aS'No.'
+p1295
+aS"They've already seen that model and rejected it --"
+p1296
+asa(dp1297
+g113
+(dp1298
+I1
+S'[laughter]'
+p1299
+ssg8
+(lp1300
+S'So you are telling us what Americans want, or not.'
+p1301
+aS'[[laughter]] '
+p1302
+asg11
+S'JOHN DONVAN'
+p1303
+sg16
+(lp1304
+S'So you are telling us what Americans want, or not. '
+p1305
+asa(dp1306
+g113
+(dp1307
+I20
+S'[applause]'
+p1308
+ssg11
+S'DOUGLAS HOLTZ-EAKIN'
+p1309
+sg16
+(lp1310
+S"That you can't do that."
+p1311
+aS'They told us, Ill read that evidence.'
+p1312
+aS"I don't think they want the government making those decisions."
+p1313
+aS'I think we know who makes those decisions.'
+p1314
+aS"It's the family."
+p1315
+aS"It's -- those are the only people who are ethically well situated to make those tough calls."
+p1316
+aS'And so we must, in the end, invest in families, the authority to make decisions, invest in them, their insurance.'
+p1317
+aS'Invest in them the information and the ability to make those decisions and center this system around families and Americans, not around these large government entities.'
+p1318
+aS'What does that mean in practice?'
+p1319
+aS"I'm an economist."
+p1320
+aS'I mean, economists are practical people.'
+p1321
+aS'You follow your nose and incentives.'
+p1322
+aS"If I have an insurance policy when I'm 21, and then I develop an odd thing where I have to have my kidneys transplanted, I'm still on that insurance policy."
+p1323
+aS"Any insurance company now has to recognize they've got me for life."
+p1324
+aS"It's not a one-year sign-up proposition where they can minimize on preventive care or they can try to cut off covering some things."
+p1325
+aS'They have to deal with the right lifetime incentives.'
+p1326
+aS'Pay for the cheap prevention up front.'
+p1327
+aS'A lot of them eventually want to do that.'
+p1328
+aS'And align the insurance and the medical incentives to transform the way we deliver medicine in America.'
+p1329
+aS"That's what we need."
+p1330
+aS'And in the process, guess what?'
+p1331
+aS'My insurance goes with me from job to job, job to home when I stayed home with my kids.'
+p1332
+aS"You don't have to spend the whole time fighting over who works full time to get the insurance."
+p1333
+aS"It's madness."
+p1334
+aS'Americans are rearranging their lives for the insurance.'
+p1335
+aS"Let's rearrange the insurance so it fits American lives."
+p1336
+aS"That's what this system will be."
+p1337
+asg25
+(dp1338
+S'19:36:22'
+p1339
+I5
+sS'19:37:25'
+p1340
+I19
+ssg8
+(lp1341
+S"That you can't do that."
+p1342
+aS'They told us, Ill read that evidence.'
+p1343
+aS"I don't think they want thegovernment making those decisions."
+p1344
+aS'I think we know who makes those decisions.'
+p1345
+aS"It'sthe family."
+p1346
+aS"It's -- those are the only people who are ethically well situated to make thosetough calls."
+p1347
+aS'And so we must, in the end, invest in families, the authority to makedecisions, invest in them, their insurance.Invest in them the information and the ability to make those decisions and center thissystem around families and Americans, not around these large government entities.What does that mean in practice?'
+p1348
+aS"I'm an economist."
+p1349
+aS'I mean, economists are practicalpeople.'
+p1350
+aS'You follow your nose and incentives.'
+p1351
+aS"If I have an insurance policy when I'm 21,and then I develop an odd thing where I have to have my kidneys transplanted, I'm stillon that insurance policy."
+p1352
+aS"Any insurance company now has to recognize they've got mefor life."
+p1353
+aS"It's not a one-year sign-up proposition where they can minimize on preventivecare or they can try to cut off covering some things."
+p1354
+aS'They have to deal with the rightlifetime incentives.'
+p1355
+aS'Pay for the cheap prevention up front.'
+p1356
+aS'A lot of them eventually wantto do that.'
+p1357
+aS'And align the insurance and the medical incentives to transform the way wedeliver medicine in America.'
+p1358
+aS"That's what we need."
+p1359
+aS'And in the process, guess what?'
+p1360
+aS"Myinsurance goes with me from job to job, job to home when I stayed home with my kids.You don't have to spend the whole time fighting over who works full time to get theinsurance."
+p1361
+aS"It's madness."
+p1362
+aS"Americans are rearranging their lives for the insurance.Let's rearrange the insurance so it fits American lives."
+p1363
+aS"That's what this system will be."
+p1364
+asg13
 (dp1365
-S'19:38:24'
-p1366
 I10
+S'21'
+p1366
 ssa(dp1367
 g8
 (lp1368
-S"I have to respond to this because really, you know, that's amazing for you to say about theMedicare program."
+S'Jonathan Cohn, you said in your opening remarks -- Jonathan Cohn, you have said thatthe Obama plan took the best from both left and right.'
 p1369
-aS'We had legislation under the Republicans to reform Medicare, tointroduce private insurance plans into Medicare.'
+aS'Give me one idea from the rightthat your opponents will recognize as an idea that is from their side, that they just love.'
 p1370
-aS'And what is the result?We now know that those plans cost Medicare an extra $1,000 per beneficiary compared to what it would have cost Medicare just to deal with them in atraditional program.'
+asg11
+S'JOHN DONVAN'
 p1371
-aS'So. '
-p1372
-asg11
-S'PAUL STARR'
+sg16
+(lp1372
+S'Jonathan Cohn, you said in your opening remarks -- Jonathan Cohn, you have said that the Obama plan took the best from both left and right.'
 p1373
-sg16
-(lp1374
-S"I have to respond to this because really, you know, that's amazing for you to say about the Medicare program."
-p1375
-aS'We had legislation under the Republicans to reform Medicare, to introduce private insurance plans into Medicare.'
-p1376
-aS'And what is the result?'
-p1377
-aS'We now know that those plans cost Medicare an extra $1,000 per beneficiary compared to what it would have cost Medicare just to deal with them in a traditional program.'
-p1378
-aS'So. '
-p1379
-asg25
-(dp1380
-S'19:39:20'
-p1381
-I3
-ssa(dp1382
+aS'Give me one idea from the right that your opponents will recognize as an idea that is from their side, that they just love.'
+p1374
+asa(dp1375
 g8
-(lp1383
-S'-- this is a very important point.'
-p1384
+(lp1376
+S'Sure, absolutely.'
+p1377
+aS"Well, first of all, to start, there's a pilot program funding formalpractice reform."
+p1378
+aS'You know, believe it or not, people who wrote the Affordable CareAct, and I would include myself among this, actually believe that there is some money tobe saved by reforming the malpractice system.'
+p1379
+aS"So there's money out there for --"
+p1380
 asg11
-S'MALE SPEAKER'
-p1385
+S'JONATHAN COHN'
+p1381
 sg16
-(lp1386
-g1384
+(lp1382
+S'Sure, absolutely.'
+p1383
+aS"Well, first of all, to start, there's a pilot program funding for malpractice reform."
+p1384
+aS'You know, believe it or not, people who wrote the Affordable Care Act, and I would include myself among this, actually believe that there is some money to be saved by reforming the malpractice system.'
+p1385
+aS"So there's money out there for --"
+p1386
 asa(dp1387
 g8
 (lp1388
-S'John .'
+S'Let me just take that to this side.'
 p1389
-aS'You want to share some time with your --Douglas Holtz-Eakin:No.'
+aS'Do you recognize that as one of your ideas?'
 p1390
-aS"I'd like to -- Douglas Holtz-Eakin:-- 30 seconds of getting facts straight."
+asg11
+S'JOHN DONVAN'
 p1391
-aS'The problem is the healthcare bill.'
-p1392
-aS'MedicareAdvantage is one way to shift it from one person to another.'
+sg16
+(lp1392
+S'Let me just take that to this side.'
 p1393
-aS"Tax policy, which he saidwould save us money, doesn't."
+aS'Do you recognize that as one of your ideas?'
 p1394
-aS'It just shifts the bill around from one person to another.The problem is the bill.'
-p1395
-aS'This law does not change our healthcare bill.'
-p1396
-aS"That's its issue."
+asa(dp1395
+g8
+(lp1396
+S'Can I just say the big problem --'
 p1397
 asg11
-S'JOHN DONVAN'
+S'DOUGLAS HOLTZ-EAKIN'
 p1398
-sg13
-(dp1399
-I9
-S'23'
-p1400
-ssg16
-(lp1401
-S'John .'
-p1402
-aS'You want to share some time with your -- Douglas Holtz-Eakin: No.'
-p1403
-aS"I'd like to -- Douglas Holtz-Eakin: -- 30 seconds of getting facts straight."
-p1404
-aS'The problem is the healthcare bill.'
-p1405
-aS'Medicare Advantage is one way to shift it from one person to another.'
-p1406
-aS"Tax policy, which he said would save us money, doesn't."
-p1407
-aS'It just shifts the bill around from one person to another.'
-p1408
-aS'The problem is the bill.'
-p1409
-aS'This law does not change our healthcare bill.'
-p1410
-aS"That's its issue."
-p1411
-asa(dp1412
-g8
-(lp1413
-S'Can I just say --'
-p1414
-asg11
-S'JONATHAN COHN'
-p1415
 sg16
-(lp1416
-g1414
-asa(dp1417
+(lp1399
+g1397
+asa(dp1400
 g8
-(lp1418
-S'Jonathan Cohn.'
-p1419
+(lp1401
+S'Douglas Holtz-Eakin.'
+p1402
 asg11
 S'JOHN DONVAN'
+p1403
+sg16
+(lp1404
+g1402
+asa(dp1405
+g8
+(lp1406
+S'I will stipulate late one thing I want to get very clear on the table.'
+p1407
+aS'I support exchanges.'
+p1408
+aS'Isupport -- I always support good competitive markets.'
+p1409
+aS'And you can build exchanges thatenhance competition left to do that.'
+p1410
+aS'There is a lot in the bill that is bipartisan.'
+p1411
+aS"It's in thedelivery system reforms, not in the coverage expansions which are madness."
+p1412
+aS"But they'reall tiny.They're pilots."
+p1413
+aS'Pilots have a terrible track record of actually turning into real policy.'
+p1414
+aS'Infact the road to healthcare hell is paved with pilots and demonstrations.'
+p1415
+aS"And that's a pilotand a demonstration for a known problem."
+p1416
+aS"If you've got a problem, fix it."
+p1417
+aS"The problemwith this bill, it doesn't fix what we know is the issue, healthcare costs."
+p1418
+aS"Instead, it's got abunch of pilots that Congress will never actually implement."
+p1419
+aS"And it doesn't fix thebiggest source of our problem, which is the Medicare system which pays forfragmentation, pays for overuse."
 p1420
-sg16
-(lp1421
-g1419
-asa(dp1422
-g8
-(lp1423
-S'With all due -- did you read the bill?'
-p1424
-aS'I mean, I -- is.'
+aS"It's a fee for service system."
+p1421
+aS'We have more problemscreated by those programs than this could ever solve. '
+p1422
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p1423
+sg13
+(dp1424
+I5
+S'22'
 p1425
-aS"And did you read the-- I know you've cited CBO reports."
-p1426
-aS"There are page -- I mean, we all know it's athousand-page bill."
+ssg16
+(lp1426
+S'I will stipulate late one thing I want to get very clear on the table.'
 p1427
-aS'Let me tell you --'
+aS'I support exchanges.'
 p1428
-asg11
-S'JONATHAN COHN'
+aS'I support -- I always support good competitive markets.'
 p1429
-sg16
-(lp1430
-S'With all due -- did you read the bill?'
+aS'And you can build exchanges that enhance competition left to do that.'
+p1430
+aS'There is a lot in the bill that is bipartisan.'
 p1431
-aS'I mean, I -- is.'
+aS"It's in the delivery system reforms, not in the coverage expansions which are madness."
 p1432
-aS"And did you read the -- I know you've cited CBO reports."
+aS"But they're all tiny."
 p1433
-aS"There are page -- I mean, we all know it's a thousand-page bill."
+aS"They're pilots."
 p1434
-aS'Let me tell you --'
+aS'Pilots have a terrible track record of actually turning into real policy.'
 p1435
-asa(dp1436
-g8
-(lp1437
-S"No, no, it's not a thousand page bill."
+aS'In fact the road to healthcare hell is paved with pilots and demonstrations.'
+p1436
+aS"And that's a pilot and a demonstration for a known problem."
+p1437
+aS"If you've got a problem, fix it."
 p1438
-aS"It's $2800."
+aS"The problem with this bill, it doesn't fix what we know is the issue, healthcare costs."
 p1439
-aS'2800 pages. '
+aS"Instead, it's got a bunch of pilots that Congress will never actually implement."
 p1440
-asg11
-S'MALE SPEAKER'
+aS"And it doesn't fix the biggest source of our problem, which is the Medicare system which pays for fragmentation, pays for overuse."
 p1441
-sg16
-(lp1442
-S"No, no, it's not a thousand page bill."
+aS"It's a fee for service system."
+p1442
+aS'We have more problems created by those programs than this could ever solve. '
 p1443
-aS"It's $2800."
-p1444
-aS'2800 pages. '
+asg25
+(dp1444
+S'19:38:24'
 p1445
-asa(dp1446
+I5
+ssa(dp1446
 g8
 (lp1447
-S'Okay.'
+S"So what's the point of the program. "
 p1448
-aS"Well, the type's very big.That's how they do congressional --"
+asg11
+S'JOHN DONVAN'
 p1449
+sg16
+(lp1450
+S"So what's the point of the program. "
+p1451
+asa(dp1452
+g8
+(lp1453
+S"I have to respond to this because really, you know, that's amazing for you to say about theMedicare program."
+p1454
+aS'We had legislation under the Republicans to reform Medicare, tointroduce private insurance plans into Medicare.'
+p1455
+aS'And what is the result?We now know that those plans cost Medicare an extra $1,000 per beneficiary compared to what it would have cost Medicare just to deal with them in atraditional program.'
+p1456
+aS'So. '
+p1457
+asg11
+S'PAUL STARR'
+p1458
+sg16
+(lp1459
+S"I have to respond to this because really, you know, that's amazing for you to say about the Medicare program."
+p1460
+aS'We had legislation under the Republicans to reform Medicare, to introduce private insurance plans into Medicare.'
+p1461
+aS'And what is the result?'
+p1462
+aS'We now know that those plans cost Medicare an extra $1,000 per beneficiary compared to what it would have cost Medicare just to deal with them in a traditional program.'
+p1463
+aS'So. '
+p1464
+asg25
+(dp1465
+S'19:39:20'
+p1466
+I3
+ssa(dp1467
+g8
+(lp1468
+S'-- this is a very important point.'
+p1469
+asg11
+S'MALE SPEAKER'
+p1470
+sg16
+(lp1471
+g1469
+asa(dp1472
+g8
+(lp1473
+S'John .'
+p1474
+aS'You want to share some time with your --'
+p1475
+asg11
+S'JOHN DONVAN'
+p1476
+sg16
+(lp1477
+S'John .'
+p1478
+aS'You want to share some time with your --'
+p1479
+asa(dp1480
+g8
+(lp1481
+S'No.'
+p1482
+aS"I'd like to -- -- 30 seconds of getting facts straight."
+p1483
+aS'The problem is the healthcare bill.'
+p1484
+aS'MedicareAdvantage is one way to shift it from one person to another.'
+p1485
+aS"Tax policy, which he saidwould save us money, doesn't."
+p1486
+aS'It just shifts the bill around from one person to another.The problem is the bill.'
+p1487
+aS'This law does not change our healthcare bill.'
+p1488
+aS"That's its issue."
+p1489
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p1490
+sg13
+(dp1491
+I6
+S'23'
+p1492
+ssg16
+(lp1493
+S'No.'
+p1494
+aS"I'd like to -- -- 30 seconds of getting facts straight."
+p1495
+aS'The problem is the healthcare bill.'
+p1496
+aS'Medicare Advantage is one way to shift it from one person to another.'
+p1497
+aS"Tax policy, which he said would save us money, doesn't."
+p1498
+aS'It just shifts the bill around from one person to another.'
+p1499
+aS'The problem is the bill.'
+p1500
+aS'This law does not change our healthcare bill.'
+p1501
+aS"That's its issue."
+p1502
+asa(dp1503
+g8
+(lp1504
+S'Can I just say --'
+p1505
 asg11
 S'JONATHAN COHN'
-p1450
+p1506
 sg16
-(lp1451
+(lp1507
+g1505
+asa(dp1508
+g8
+(lp1509
+S'Jonathan Cohn.'
+p1510
+asg11
+S'JOHN DONVAN'
+p1511
+sg16
+(lp1512
+g1510
+asa(dp1513
+g8
+(lp1514
+S'With all due -- did you read the bill?'
+p1515
+aS'I mean, I -- is.'
+p1516
+aS"And did you read the-- I know you've cited CBO reports."
+p1517
+aS"There are page -- I mean, we all know it's athousand-page bill."
+p1518
+aS'Let me tell you --'
+p1519
+asg11
+S'JONATHAN COHN'
+p1520
+sg16
+(lp1521
+S'With all due -- did you read the bill?'
+p1522
+aS'I mean, I -- is.'
+p1523
+aS"And did you read the -- I know you've cited CBO reports."
+p1524
+aS"There are page -- I mean, we all know it's a thousand-page bill."
+p1525
+aS'Let me tell you --'
+p1526
+asa(dp1527
+g8
+(lp1528
+S"No, no, it's not a thousand page bill."
+p1529
+aS"It's $2800."
+p1530
+aS'2800 pages. '
+p1531
+asg11
+S'MALE SPEAKER'
+p1532
+sg16
+(lp1533
+S"No, no, it's not a thousand page bill."
+p1534
+aS"It's $2800."
+p1535
+aS'2800 pages. '
+p1536
+asa(dp1537
+g8
+(lp1538
 S'Okay.'
-p1452
+p1539
+aS"Well, the type's very big.That's how they do congressional --"
+p1540
+asg11
+S'JONATHAN COHN'
+p1541
+sg16
+(lp1542
+S'Okay.'
+p1543
 aS"Well, the type's very big."
-p1453
+p1544
 aS"That's how they do congressional --"
-p1454
+p1545
 asg25
-(dp1455
+(dp1546
 S'19:40:24'
-p1456
+p1547
 I1
-ssa(dp1457
+ssa(dp1548
 g113
-(dp1458
+(dp1549
 I1
 S'[laughter]'
-p1459
+p1550
 ssg8
-(lp1460
+(lp1551
 S'There you go.'
-p1461
+p1552
 asg11
 S'MALE SPEAKER'
-p1462
+p1553
 sg16
-(lp1463
-g1461
-asa(dp1464
+(lp1554
+g1552
+asa(dp1555
 g8
-(lp1465
+(lp1556
 S'Okay.'
-p1466
+p1557
 aS'Whatever.'
-p1467
+p1558
 aS'You know, I think if you condense it -- true story, if you condense it, itactually comes down to about 300 pages, which you know, is less than a John Grishambook so take that into account.'
-p1468
+p1559
 asg11
 S'JONATHAN COHN'
-p1469
+p1560
 sg16
-(lp1470
+(lp1561
 S'Okay.'
-p1471
+p1562
 aS'Whatever.'
-p1472
+p1563
 aS'You know, I think if you condense it -- true story, if you condense it, it actually comes down to about 300 pages, which you know, is less than a John Grisham book so take that into account.'
-p1473
-asa(dp1474
+p1564
+asa(dp1565
 g8
-(lp1475
+(lp1566
 S'But not nearly as good, right?'
-p1476
+p1567
 aS'Not nearly as good.'
-p1477
+p1568
 asg11
 S'JOHN DONVAN'
-p1478
+p1569
 sg16
-(lp1479
+(lp1570
 S'But not nearly as good, right?'
-p1480
+p1571
 aS'Not nearly as good.'
-p1481
-asa(dp1482
+p1572
+asa(dp1573
 g8
-(lp1483
+(lp1574
 S"I'm actually not a John Grisham fan."
-p1484
+p1575
 aS'But your mileage may vary.'
-p1485
+p1576
 aS"But I mean there are -- and you yourself admitted the delivery reforms in there--you thinkthey're not big enough, okay?"
-p1486
+p1577
 aS'And you know what?'
-p1487
+p1578
 aS'I would agree with you.'
-p1488
+p1579
 aS'I wouldlike those delivery reforms to be stronger.'
-p1489
+p1580
 aS'So here is a proposition.'
-p1490
+p1581
 aS"You're talking aboutrepealing Obamacare."
-p1491
+p1582
 asg11
 S'JONATHAN COHN'
-p1492
+p1583
 sg13
-(dp1493
+(dp1584
 I6
 S'24'
-p1494
-ssg16
-(lp1495
-S"I'm actually not a John Grisham fan."
-p1496
-aS'But your mileage may vary.'
-p1497
-aS"But I mean there are -- and you yourself admitted the delivery reforms in there--you think they're not big enough, okay?"
-p1498
-aS'And you know what?'
-p1499
-aS'I would agree with you.'
-p1500
-aS'I would like those delivery reforms to be stronger.'
-p1501
-aS'So here is a proposition.'
-p1502
-aS"You're talking about repealing Obamacare."
-p1503
-asa(dp1504
-g8
-(lp1505
-S'Yes.'
-p1506
-asg11
-S'MALE SPEAKER'
-p1507
-sg16
-(lp1508
-g1506
-asa(dp1509
-g113
-(dp1510
-I1
-S'[applause]'
-p1511
-ssg8
-(lp1512
-S"How about let's reinforce it."
-p1513
-aS"Let's make those bigger.Why do you want to go back and start from scratch?"
-p1514
-aS'[[applause]] '
-p1515
-asg11
-S'JONATHAN COHN'
-p1516
-sg16
-(lp1517
-S"How about let's reinforce it."
-p1518
-aS"Let's make those bigger."
-p1519
-aS'Why do you want to go back and start from scratch?'
-p1520
-asa(dp1521
-g8
-(lp1522
-S'John Shadegg.'
-p1523
-asg11
-S'JOHN DONVAN'
-p1524
-sg16
-(lp1525
-g1523
-asa(dp1526
-g8
-(lp1527
-S'I have to raise an issue which your side has raised, and that is you say it gives peoplechoices.'
-p1528
-aS'It takes a lot of gall to say that it gives people choices.'
-p1529
-aS'For example, inMedicare Advantage, it repeals Medicare Advantage for millions of Americans and takesthem off.'
-p1530
-asg11
-S'JOHN SHADEGG'
-p1531
-sg16
-(lp1532
-S'I have to raise an issue which your side has raised, and that is you say it gives people choices.'
-p1533
-aS'It takes a lot of gall to say that it gives people choices.'
-p1534
-aS'For example, in Medicare Advantage, it repeals Medicare Advantage for millions of Americans and takes them off.'
-p1535
-asa(dp1536
-g8
-(lp1537
-S'It reduces subsidies that are .'
-p1538
-asg11
-S'PAUL STARR'
-p1539
-sg16
-(lp1540
-g1538
-asa(dp1541
-g8
-(lp1542
-S'No, no.'
-p1543
-aS'It takes -- it will drive people off of Medicare Advantage.'
-p1544
-aS'Every expert agreeson that.Two, you say that people will have choice of plans.'
-p1545
-aS"There is one plan prescribed by thegovernment, actually has three different components, but that's it."
-p1546
-aS'Three.'
-p1547
-aS'SecretarySebelius can grant exemptions.'
-p1548
-aS'She already has too many companies.'
-p1549
-aS'She has the abilityto impose new benefit mandates.'
-p1550
-aS'She has ability to say what premium increase iseffective or not effective.'
-p1551
-aS'The notion that this bill gives the average American morechoice is ridiculous.'
-p1552
-aS"It's going to take away the choices Americans have now, and it'sgoing to force them into essentially a one-size-fits-all plan."
-p1553
-aS"When you say, for example,to employers, that your costs are going to up, such as AT&T, to the tune where you couldpay the fine for not insuring every one of your employees and still save $2 billion, they'regoing to have no choice but to drop their coverage and put people into the government-run plan."
-p1554
-asg11
-S'JOHN SHADEGG'
-p1555
-sg16
-(lp1556
-S'No, no.'
-p1557
-aS'It takes -- it will drive people off of Medicare Advantage.'
-p1558
-aS'Every expert agrees on that.'
-p1559
-aS'Two, you say that people will have choice of plans.'
-p1560
-aS"There is one plan prescribed by the government, actually has three different components, but that's it."
-p1561
-aS'Three.'
-p1562
-aS'Secretary Sebelius can grant exemptions.'
-p1563
-aS'She already has too many companies.'
-p1564
-aS'She has the ability to impose new benefit mandates.'
-p1565
-aS'She has ability to say what premium increase is effective or not effective.'
-p1566
-aS'The notion that this bill gives the average American more choice is ridiculous.'
-p1567
-aS"It's going to take away the choices Americans have now, and it's going to force them into essentially a one-size-fits-all plan."
-p1568
-aS"When you say, for example, to employers, that your costs are going to up, such as AT&T, to the tune where you could pay the fine for not insuring every one of your employees and still save $2 billion, they're going to have no choice but to drop their coverage and put people into the government- run plan."
-p1569
-asg25
-(dp1570
-S'19:41:22'
-p1571
-I2
-ssa(dp1572
-g8
-(lp1573
-S"Can I just respond to this because this is the second time that you've mentioned this."
-p1574
-asg11
-S'PAUL STARR'
-p1575
-sg16
-(lp1576
-g1574
-asa(dp1577
-g8
-(lp1578
-S'Let me finish.'
-p1579
-aS'Let me finish.'
-p1580
-asg11
-S'JOHN SHADEGG'
-p1581
-sg13
-(dp1582
-I0
-S'25'
-p1583
-ssg16
-(lp1584
-S'Let me finish.'
 p1585
-aS'Let me finish.'
-p1586
-asa(dp1587
-g8
-(lp1588
-S'Let him finish, Paul, because I do want to hear the response to this.'
+ssg16
+(lp1586
+S"I'm actually not a John Grisham fan."
+p1587
+aS'But your mileage may vary.'
+p1588
+aS"But I mean there are -- and you yourself admitted the delivery reforms in there--you think they're not big enough, okay?"
 p1589
-aS'John Shadegg.'
+aS'And you know what?'
 p1590
-asg11
-S'JOHN DONVAN'
+aS'I would agree with you.'
 p1591
-sg16
-(lp1592
-S'Let him finish, Paul, because I do want to hear the response to this.'
+aS'I would like those delivery reforms to be stronger.'
+p1592
+aS'So here is a proposition.'
 p1593
-aS'John Shadegg.'
+aS"You're talking about repealing Obamacare."
 p1594
 asa(dp1595
 g8
 (lp1596
-S'If AT&T or any of these other companies wanted to drop coverage now --'
+S'Yes.'
 p1597
 asg11
-S'PAUL STARR'
+S'MALE SPEAKER'
 p1598
 sg16
 (lp1599
 g1597
-asg25
-(dp1600
-S'19:42:26'
-p1601
+asa(dp1600
+g113
+(dp1601
 I1
-ssa(dp1602
-g8
+S'[applause]'
+p1602
+ssg8
 (lp1603
-S'Hold on just one minute.'
+S"How about let's reinforce it."
 p1604
-aS'And you get 15 more seconds to finish your point.'
+aS"Let's make those bigger.Why do you want to go back and start from scratch?"
 p1605
-aS'Sit thisthing down.'
+aS'[[applause]] '
 p1606
 asg11
-S'JOHN DONVAN'
+S'JONATHAN COHN'
 p1607
 sg16
 (lp1608
-S'Hold on just one minute.'
+S"How about let's reinforce it."
 p1609
-aS'And you get 15 more seconds to finish your point.'
+aS"Let's make those bigger."
 p1610
-aS'Sit this thing down.'
+aS'Why do you want to go back and start from scratch?'
 p1611
 asa(dp1612
 g8
 (lp1613
-S'No, he can go.'
+S'John Shadegg.'
 p1614
-aS"That's fine."
+asg11
+S'JOHN DONVAN'
 p1615
-asg11
-S'JOHN SHADEGG'
-p1616
 sg16
-(lp1617
-S'No, he can go.'
-p1618
-aS"That's fine."
+(lp1616
+g1614
+asa(dp1617
+g8
+(lp1618
+S'I have to raise an issue which your side has raised, and that is you say it gives peoplechoices.'
 p1619
-asa(dp1620
-g8
-(lp1621
-S'Oh, I give you 15 seconds, and you throw it away.'
-p1622
-asg11
-S'JOHN DONVAN'
-p1623
-sg16
-(lp1624
-g1622
-asa(dp1625
-g8
-(lp1626
-S'I mean --'
-p1627
+aS'It takes a lot of gall to say that it gives people choices.'
+p1620
+aS'For example, inMedicare Advantage, it repeals Medicare Advantage for millions of Americans and takesthem off.'
+p1621
 asg11
 S'JOHN SHADEGG'
-p1628
+p1622
 sg16
-(lp1629
-g1627
-asa(dp1630
-g113
-(dp1631
-I1
-S'[laughter]'
-p1632
-ssg8
-(lp1633
-S'Okay.'
-p1634
-aS'Paul.'
-p1635
-asg11
-S'JOHN DONVAN'
-p1636
-sg16
-(lp1637
-S'Okay.'
-p1638
-aS'Paul.'
-p1639
-asa(dp1640
+(lp1623
+S'I have to raise an issue which your side has raised, and that is you say it gives people choices.'
+p1624
+aS'It takes a lot of gall to say that it gives people choices.'
+p1625
+aS'For example, in Medicare Advantage, it repeals Medicare Advantage for millions of Americans and takes them off.'
+p1626
+asa(dp1627
 g8
-(lp1641
-S'Under current law, if any of those companies wanted to drop coverage, they could do itlegally.'
-p1642
-aS'This law introduces a penalty for dropping coverage.'
-p1643
-aS'So how can you say thatthe law encourages them to --'
-p1644
+(lp1628
+S'It reduces subsidies that are .'
+p1629
 asg11
 S'PAUL STARR'
+p1630
+sg16
+(lp1631
+g1629
+asa(dp1632
+g8
+(lp1633
+S'No, no.'
+p1634
+aS'It takes -- it will drive people off of Medicare Advantage.'
+p1635
+aS'Every expert agreeson that.Two, you say that people will have choice of plans.'
+p1636
+aS"There is one plan prescribed by thegovernment, actually has three different components, but that's it."
+p1637
+aS'Three.'
+p1638
+aS'SecretarySebelius can grant exemptions.'
+p1639
+aS'She already has too many companies.'
+p1640
+aS'She has the abilityto impose new benefit mandates.'
+p1641
+aS'She has ability to say what premium increase iseffective or not effective.'
+p1642
+aS'The notion that this bill gives the average American morechoice is ridiculous.'
+p1643
+aS"It's going to take away the choices Americans have now, and it'sgoing to force them into essentially a one-size-fits-all plan."
+p1644
+aS"When you say, for example,to employers, that your costs are going to up, such as AT&T, to the tune where you couldpay the fine for not insuring every one of your employees and still save $2 billion, they'regoing to have no choice but to drop their coverage and put people into the government-run plan."
 p1645
+asg11
+S'JOHN SHADEGG'
+p1646
 sg16
-(lp1646
-S'Under current law, if any of those companies wanted to drop coverage, they could do it legally.'
-p1647
-aS'This law introduces a penalty for dropping coverage.'
+(lp1647
+S'No, no.'
 p1648
-aS'So how can you say that the law encourages them to --'
+aS'It takes -- it will drive people off of Medicare Advantage.'
 p1649
-asa(dp1650
-g8
-(lp1651
-S'Precisely because right now they choose to provide that coverage for their employeesbecause that competitive market requires them to do that.'
+aS'Every expert agrees on that.'
+p1650
+aS'Two, you say that people will have choice of plans.'
+p1651
+aS"There is one plan prescribed by the government, actually has three different components, but that's it."
 p1652
-aS'People want good coverage.'
+aS'Three.'
 p1653
-aS"Ifthey drop that coverage, there's no place for those employees to go."
+aS'Secretary Sebelius can grant exemptions.'
 p1654
-aS'Under this bill, theywill all get government subsidies.'
+aS'She already has too many companies.'
 p1655
-aS"And oh, by the way, AT&T can take that $2 billionsavings and add it to people's salaries."
+aS'She has the ability to impose new benefit mandates.'
 p1656
-aS"So the notion that this is going to give you morechoice, when, for example, we don't allow interstate competition in health insurance now.Your employer makes the choice of your plan.You can't hire --"
+aS'She has ability to say what premium increase is effective or not effective.'
 p1657
-asg11
-S'JOHN SHADEGG'
+aS'The notion that this bill gives the average American more choice is ridiculous.'
 p1658
-sg13
-(dp1659
-I7
-S'26'
+aS"It's going to take away the choices Americans have now, and it's going to force them into essentially a one-size-fits-all plan."
+p1659
+aS"When you say, for example, to employers, that your costs are going to up, such as AT&T, to the tune where you could pay the fine for not insuring every one of your employees and still save $2 billion, they're going to have no choice but to drop their coverage and put people into the government- run plan."
 p1660
-ssg16
-(lp1661
-S'Precisely because right now they choose to provide that coverage for their employees because that competitive market requires them to do that.'
-p1662
-aS'People want good coverage.'
-p1663
-aS"If they drop that coverage, there's no place for those employees to go."
-p1664
-aS'Under this bill, they will all get government subsidies.'
-p1665
-aS"And oh, by the way, AT&T can take that $2 billion savings and add it to people's salaries."
-p1666
-aS"So the notion that this is going to give you more choice, when, for example, we don't allow interstate competition in health insurance now."
-p1667
-aS'Your employer makes the choice of your plan.'
-p1668
-aS"You can't hire --"
-p1669
 asg25
-(dp1670
-S'19:43:22'
-p1671
-I7
-ssa(dp1672
+(dp1661
+S'19:41:22'
+p1662
+I2
+ssa(dp1663
 g8
-(lp1673
-S'Okay.'
-p1674
+(lp1664
+S"Can I just respond to this because this is the second time that you've mentioned this."
+p1665
 asg11
-S'JOHN DONVAN'
-p1675
+S'PAUL STARR'
+p1666
 sg16
-(lp1676
-g1674
-asa(dp1677
+(lp1667
+g1665
+asa(dp1668
 g8
-(lp1678
-S"You can't fire."
-p1679
+(lp1669
+S'Let me finish.'
+p1670
+aS'Let me finish.'
+p1671
 asg11
 S'JOHN SHADEGG'
-p1680
-sg16
-(lp1681
-g1679
-asa(dp1682
+p1672
+sg13
+(dp1673
+I0
+S'25'
+p1674
+ssg16
+(lp1675
+S'Let me finish.'
+p1676
+aS'Let me finish.'
+p1677
+asa(dp1678
 g8
-(lp1683
-S"Jonathan -- Jonathan -- I want you to have -- It's actually quite cogently put."
-p1684
+(lp1679
+S'Let him finish, Paul, because I do want to hear the response to this.'
+p1680
+aS'John Shadegg.'
+p1681
 asg11
 S'JOHN DONVAN'
+p1682
+sg16
+(lp1683
+S'Let him finish, Paul, because I do want to hear the response to this.'
+p1684
+aS'John Shadegg.'
 p1685
-sg16
-(lp1686
-S"Jonathan -- Jonathan -- I want you to have -- It's actually quite cogently put."
-p1687
-asa(dp1688
+asa(dp1686
 g8
-(lp1689
-S'And you know, it makes sense.'
-p1690
-aS'And then, gosh, why would AT&T keep providingcoverage?'
-p1691
-aS"If you're right, and I know Doug has written a paper on this also, if you guysare right, that in offering all of these subsidies companies are going to drop, then weshould see that in Massachusetts right now because that's what they have inMassachusetts."
-p1692
-aS'They offer the subsidies, and companies -- but you know what?'
-p1693
-aS"It hasn'thappened."
-p1694
-aS'Employer-sponsored insurance in Massachusetts -- No, no, no, no.'
-p1695
-aS'Let me...'
-p1696
-aS"It hasn't happened."
-p1697
-aS"And the best estimates from the experts arethat it won't happen."
-p1698
-aS"And there's a very complicated -- I mean, I could go through all themath -- I read Doug's paper on this, and I know it seems like it makes sense, but it doesn'thappen."
-p1699
-aS'Would it happen right now with Medicaid?'
-p1700
-aS"And you know, you don't seecompany -- half the people who qualify for Medicaid -- "
-p1701
+(lp1687
+S'If AT&T or any of these other companies wanted to drop coverage now --'
+p1688
 asg11
-S'JONATHAN COHN'
-p1702
+S'PAUL STARR'
+p1689
 sg16
-(lp1703
-S'And you know, it makes sense.'
-p1704
-aS'And then, gosh, why would AT&T keep providing coverage?'
+(lp1690
+g1688
+asg25
+(dp1691
+S'19:42:26'
+p1692
+I1
+ssa(dp1693
+g8
+(lp1694
+S'Hold on just one minute.'
+p1695
+aS'And you get 15 more seconds to finish your point.'
+p1696
+aS'Sit thisthing down.'
+p1697
+asg11
+S'JOHN DONVAN'
+p1698
+sg16
+(lp1699
+S'Hold on just one minute.'
+p1700
+aS'And you get 15 more seconds to finish your point.'
+p1701
+aS'Sit this thing down.'
+p1702
+asa(dp1703
+g8
+(lp1704
+S'No, he can go.'
 p1705
-aS"If you're right, and I know Doug has written a paper on this also, if you guys are right, that in offering all of these subsidies companies are going to drop, then we should see that in Massachusetts right now because that's what they have in Massachusetts."
+aS"That's fine."
 p1706
-aS'They offer the subsidies, and companies -- but you know what?'
+asg11
+S'JOHN SHADEGG'
 p1707
-aS"It hasn't happened."
-p1708
-aS'Employer-sponsored insurance in Massachusetts -- No, no, no, no.'
+sg16
+(lp1708
+S'No, he can go.'
 p1709
-aS'Let me...'
+aS"That's fine."
 p1710
-aS"It hasn't happened."
-p1711
-aS"And the best estimates from the experts are that it won't happen."
-p1712
-aS"And there's a very complicated -- I mean, I could go through all the math -- I read Doug's paper on this, and I know it seems like it makes sense, but it doesn't happen."
+asa(dp1711
+g8
+(lp1712
+S'Oh, I give you 15 seconds, and you throw it away.'
 p1713
-aS'Would it happen right now with Medicaid?'
+asg11
+S'JOHN DONVAN'
 p1714
-aS"And you know, you don't see company -- half the people who qualify for Medicaid -- "
-p1715
+sg16
+(lp1715
+g1713
 asa(dp1716
 g8
 (lp1717
-S"Let's let your Massachusetts ."
+S'I mean --'
 p1718
-aS'Respond to that.'
+asg11
+S'JOHN SHADEGG'
 p1719
-asg11
-S'JOHN DONVAN'
-p1720
-sg13
-(dp1721
+sg16
+(lp1720
+g1718
+asa(dp1721
+g113
+(dp1722
 I1
-S'27'
-p1722
-ssg16
-(lp1723
-S"Let's let your Massachusetts ."
-p1724
-aS'Respond to that.'
+S'[laughter]'
+p1723
+ssg8
+(lp1724
+S'Okay.'
 p1725
-asg25
-(dp1726
-S'19:44:24'
-p1727
-I1
-ssa(dp1728
-g8
-(lp1729
-S"Actually, number one, in Massachusetts, we're down to, I think, to only four carriers.Several of them are in dire straits."
-p1730
-aS'Many of them have demanded from the governor thathe allow them to raise rates.'
-p1731
-aS'The governor has said no.'
-p1732
-aS'And some of them -- -- are on the verge of folding.'
-p1733
-aS'Now, let me ask you something.'
-p1734
-aS"The plan, underObamacare, says that if you're in an exchange, a government-run exchange, and you onlyoffer the policy that the government exchange allows, then you can get a subsidy."
-p1735
-aS"EveryRepublican plan says let's give every single American a tax refund, a tax credit to go buythe plan of their choice."
-p1736
-aS"Now, I guarantee you, if we do that, so we say to everyAmerican, you get a refundable tax credit, a refund, and for the poor, it's cash, to go buythe plan of your choice."
-p1737
-aS"And you can buy your employer's plan."
-p1738
-aS'You can buy in theindividual market.'
-p1739
-aS'You can join a new group sponsored by the Kiwanis club.'
-p1740
-aS'You canjoin a new group sponsored by -- '
-p1741
-asg11
-S'JOHN SHADEGG'
-p1742
-sg16
-(lp1743
-S"Actually, number one, in Massachusetts, we're down to, I think, to only four carriers."
-p1744
-aS'Several of them are in dire straits.'
-p1745
-aS'Many of them have demanded from the governor that he allow them to raise rates.'
-p1746
-aS'The governor has said no.'
-p1747
-aS'And some of them -- -- are on the verge of folding.'
-p1748
-aS'Now, let me ask you something.'
-p1749
-aS"The plan, under Obamacare, says that if you're in an exchange, a government-run exchange, and you only offer the policy that the government exchange allows, then you can get a subsidy."
-p1750
-aS"Every Republican plan says let's give every single American a tax refund, a tax credit to go buy the plan of their choice."
-p1751
-aS"Now, I guarantee you, if we do that, so we say to every American, you get a refundable tax credit, a refund, and for the poor, it's cash, to go buy the plan of your choice."
-p1752
-aS"And you can buy your employer's plan."
-p1753
-aS'You can buy in the individual market.'
-p1754
-aS'You can join a new group sponsored by the Kiwanis club.'
-p1755
-aS'You can join a new group sponsored by -- '
-p1756
-asa(dp1757
-g8
-(lp1758
-S'Would you mandate a purchase?'
-p1759
-aS'Would you mandate it?'
-p1760
+aS'Paul.'
+p1726
 asg11
 S'JOHN DONVAN'
-p1761
+p1727
 sg16
-(lp1762
-S'Would you mandate a purchase?'
-p1763
-aS'Would you mandate it?'
-p1764
-asa(dp1765
+(lp1728
+S'Okay.'
+p1729
+aS'Paul.'
+p1730
+asa(dp1731
 g8
-(lp1766
-S'No, I would not mandate it because I think freedom is a hallmark of this country.'
-p1767
-aS'And Ithink if we offer great -- '
-p1768
+(lp1732
+S'Under current law, if any of those companies wanted to drop coverage, they could do itlegally.'
+p1733
+aS'This law introduces a penalty for dropping coverage.'
+p1734
+aS'So how can you say thatthe law encourages them to --'
+p1735
+asg11
+S'PAUL STARR'
+p1736
+sg16
+(lp1737
+S'Under current law, if any of those companies wanted to drop coverage, they could do it legally.'
+p1738
+aS'This law introduces a penalty for dropping coverage.'
+p1739
+aS'So how can you say that the law encourages them to --'
+p1740
+asa(dp1741
+g8
+(lp1742
+S'Precisely because right now they choose to provide that coverage for their employeesbecause that competitive market requires them to do that.'
+p1743
+aS'People want good coverage.'
+p1744
+aS"Ifthey drop that coverage, there's no place for those employees to go."
+p1745
+aS'Under this bill, theywill all get government subsidies.'
+p1746
+aS"And oh, by the way, AT&T can take that $2 billionsavings and add it to people's salaries."
+p1747
+aS"So the notion that this is going to give you morechoice, when, for example, we don't allow interstate competition in health insurance now.Your employer makes the choice of your plan.You can't hire --"
+p1748
 asg11
 S'JOHN SHADEGG'
-p1769
+p1749
+sg13
+(dp1750
+I7
+S'26'
+p1751
+ssg16
+(lp1752
+S'Precisely because right now they choose to provide that coverage for their employees because that competitive market requires them to do that.'
+p1753
+aS'People want good coverage.'
+p1754
+aS"If they drop that coverage, there's no place for those employees to go."
+p1755
+aS'Under this bill, they will all get government subsidies.'
+p1756
+aS"And oh, by the way, AT&T can take that $2 billion savings and add it to people's salaries."
+p1757
+aS"So the notion that this is going to give you more choice, when, for example, we don't allow interstate competition in health insurance now."
+p1758
+aS'Your employer makes the choice of your plan.'
+p1759
+aS"You can't hire --"
+p1760
+asg25
+(dp1761
+S'19:43:22'
+p1762
+I7
+ssa(dp1763
+g8
+(lp1764
+S'Okay.'
+p1765
+asg11
+S'JOHN DONVAN'
+p1766
 sg16
-(lp1770
-S'No, I would not mandate it because I think freedom is a hallmark of this country.'
+(lp1767
+g1765
+asa(dp1768
+g8
+(lp1769
+S"You can't fire."
+p1770
+asg11
+S'JOHN SHADEGG'
 p1771
-aS'And I think if we offer great -- '
-p1772
+sg16
+(lp1772
+g1770
 asa(dp1773
 g8
 (lp1774
-S'So maybe a lot of that money would end up at the amusement park or the race track?'
+S"Jonathan -- Jonathan -- I want you to have -- It's actually quite cogently put."
 p1775
 asg11
 S'JOHN DONVAN'
 p1776
 sg16
 (lp1777
-g1775
-asa(dp1778
+S"Jonathan -- Jonathan -- I want you to have -- It's actually quite cogently put."
+p1778
+asa(dp1779
 g8
-(lp1779
-S'Well, let me tell you how my plan works.It offers every single American, every single American that refundable tax credit if theydon\'t make enough money if they do not enroll because they are homeless and don\'t getthe notice we automatically enroll them because we know their Social Security numberand we knew it as one point, they show up for care somewhere, and they say, "What plandid you enroll in?'
-p1780
-aS'" And the individual says -- she\'s a mother of three that was movingfrom Idaho to Arizona on the day that the notice came to her, she says, "I didn\'t enroll.'
+(lp1780
+S'And you know, it makes sense.'
 p1781
-aS'"They look her up on a Social Security number and they say, "Oh, yeah, you\'re in thepool.'
+aS'And then, gosh, why would AT&T keep providingcoverage?'
 p1782
-aS'"'
+aS"If you're right, and I know Doug has written a paper on this also, if you guysare right, that in offering all of these subsidies companies are going to drop, then weshould see that in Massachusetts right now because that's what they have inMassachusetts."
 p1783
-asg11
-S'JOHN SHADEGG'
+aS'They offer the subsidies, and companies -- but you know what?'
 p1784
-sg13
-(dp1785
-I7
-S'28'
+aS"It hasn'thappened."
+p1785
+aS'Employer-sponsored insurance in Massachusetts -- No, no, no, no.'
 p1786
-ssg16
-(lp1787
-S'Well, let me tell you how my plan works.'
+aS'Let me...'
+p1787
+aS"It hasn't happened."
 p1788
-aS'It offers every single American, every single American that refundable tax credit if they don\'t make enough money if they do not enroll because they are homeless and don\'t get the notice we automatically enroll them because we know their Social Security number and we knew it as one point, they show up for care somewhere, and they say, "What plan did you enroll in?'
+aS"And the best estimates from the experts arethat it won't happen."
 p1789
-aS'" And the individual says -- she\'s a mother of three that was moving from Idaho to Arizona on the day that the notice came to her, she says, "I didn\'t enroll.'
+aS"And there's a very complicated -- I mean, I could go through all themath -- I read Doug's paper on this, and I know it seems like it makes sense, but it doesn'thappen."
 p1790
-aS'" They look her up on a Social Security number and they say, "Oh, yeah, you\'re in the pool.'
+aS'Would it happen right now with Medicaid?'
 p1791
-ag1783
-asg25
-(dp1792
-S'19:45:28'
+aS"And you know, you don't seecompany -- half the people who qualify for Medicaid -- "
+p1792
+asg11
+S'JONATHAN COHN'
 p1793
-I1
-ssa(dp1794
-g8
-(lp1795
-S'Okay.'
+sg16
+(lp1794
+S'And you know, it makes sense.'
+p1795
+aS'And then, gosh, why would AT&T keep providing coverage?'
 p1796
-asg11
-S'JOHN DONVAN'
+aS"If you're right, and I know Doug has written a paper on this also, if you guys are right, that in offering all of these subsidies companies are going to drop, then we should see that in Massachusetts right now because that's what they have in Massachusetts."
 p1797
-sg16
-(lp1798
-g1796
-asa(dp1799
-g8
-(lp1800
-S'"And you\'re covered.'
+aS'They offer the subsidies, and companies -- but you know what?'
+p1798
+aS"It hasn't happened."
+p1799
+aS'Employer-sponsored insurance in Massachusetts -- No, no, no, no.'
+p1800
+aS'Let me...'
 p1801
-aS'" That\'s the way Paul Ryan\'s bill works, that\'s the way TomCoburn\'s -- '
+aS"It hasn't happened."
 p1802
-asg11
-S'JOHN SHADEGG'
+aS"And the best estimates from the experts are that it won't happen."
 p1803
-sg16
-(lp1804
-S'"And you\'re covered.'
+aS"And there's a very complicated -- I mean, I could go through all the math -- I read Doug's paper on this, and I know it seems like it makes sense, but it doesn't happen."
+p1804
+aS'Would it happen right now with Medicaid?'
 p1805
-aS'" That\'s the way Paul Ryan\'s bill works, that\'s the way Tom Coburn\'s -- '
+aS"And you know, you don't see company -- half the people who qualify for Medicaid -- "
 p1806
 asa(dp1807
 g8
 (lp1808
-S"Okay, John, you've made that point."
+S"Let's let your Massachusetts ."
 p1809
-aS'I want to stay on the merits of the Obama plan.'
+aS'Respond to that.'
 p1810
-aS'Doyou want to respond to that, either of you, gentlemen?'
+asg11
+S'JOHN DONVAN'
 p1811
-asg11
-S'JOHN DONVAN'
-p1812
-sg16
-(lp1813
-S"Okay, John, you've made that point."
-p1814
-aS'I want to stay on the merits of the Obama plan.'
-p1815
-aS'Do you want to respond to that, either of you, gentlemen?'
-p1816
-asa(dp1817
-g8
-(lp1818
-S"I want to respond to this whole notion that it's a complete individual free market here, totalk a little bit about the way insurance works."
-p1819
-aS'Healthcare is very different from otherkinds of services and commodities.Seventy percent of the healthcare costs in any year are concentrated in 10 percent of thepeople.'
-p1820
-aS'So insurance companies have a very strong incentive to cherry pick, to go outand to look for the 50 percent of people who actually account for only three percent ofthe costs.'
-p1821
-aS'And when you have this market where supposedly everybody has individualchoices, you also have a market where the insurance companies are going to cherry pickand avoid the sick people.'
-p1822
-aS'They will do everything in their -- it is the best business modelfor them.'
-p1823
-aS"Rather than try to control healthcare costs, it's just to avoid sick people."
-p1824
-aS'Theway the exchanges work is that if you want to sell insurance in the exchange, you have toagree to take anybody.'
-p1825
-aS'Thats the bargain.'
-p1826
-aS'And what the exchange does, so the peoplepay in on a community rated basis, but the insurance companies get paid according to therisk of the population they enroll.'
-p1827
-aS'So if they enroll an older population, if they enroll asicker population, they get paid more.Thats what goes on through the exchange that wont go on through this market.'
-p1828
-aS'I realizethis is complicated.'
-p1829
-aS'Insurance is a complicated business, and this law is trying to takeaccount of the way this business characteristically malfunctions.'
-p1830
-aS'Thats why we end upwith millions of people uninsured.'
-p1831
-asg11
-S'PAUL STARR'
-p1832
-sg16
-(lp1833
-S"I want to respond to this whole notion that it's a complete individual free market here, to talk a little bit about the way insurance works."
-p1834
-aS'Healthcare is very different from other kinds of services and commodities.'
-p1835
-aS'Seventy percent of the healthcare costs in any year are concentrated in 10 percent of the people.'
-p1836
-aS'So insurance companies have a very strong incentive to cherry pick, to go out and to look for the 50 percent of people who actually account for only three percent of the costs.'
-p1837
-aS'And when you have this market where supposedly everybody has individual choices, you also have a market where the insurance companies are going to cherry pick and avoid the sick people.'
-p1838
-aS'They will do everything in their -- it is the best business model for them.'
-p1839
-aS"Rather than try to control healthcare costs, it's just to avoid sick people."
-p1840
-aS'The way the exchanges work is that if you want to sell insurance in the exchange, you have to agree to take anybody.'
-p1841
-aS'Thats the bargain.'
-p1842
-aS'And what the exchange does, so the people pay in on a community rated basis, but the insurance companies get paid according to the risk of the population they enroll.'
-p1843
-aS'So if they enroll an older population, if they enroll a sicker population, they get paid more.'
-p1844
-aS'Thats what goes on through the exchange that wont go on through this market.'
-p1845
-aS'I realize this is complicated.'
-p1846
-aS'Insurance is a complicated business, and this law is trying to take account of the way this business characteristically malfunctions.'
-p1847
-aS'Thats why we end up with millions of people uninsured.'
-p1848
-asg25
-(dp1849
-S'19:47:24'
-p1850
-I15
-sS'19:46:23'
-p1851
-I3
-ssa(dp1852
-g113
-(dp1853
-I1
-S'[applause]'
-p1854
-ssg8
-(lp1855
-S'Okay, Im going to come to questions and --Im going to come to questions from you in just a minute.'
-p1856
-aS'I want to give this side one 35- [[applause]] second shot at -- So John Shadegg is taking .'
-p1857
-asg11
-S'JOHN DONVAN'
-p1858
 sg13
-(dp1859
+(dp1812
 I1
-S'29'
-p1860
+S'27'
+p1813
 ssg16
+(lp1814
+S"Let's let your Massachusetts ."
+p1815
+aS'Respond to that.'
+p1816
+asg25
+(dp1817
+S'19:44:24'
+p1818
+I1
+ssa(dp1819
+g8
+(lp1820
+S"Actually, number one, in Massachusetts, we're down to, I think, to only four carriers.Several of them are in dire straits."
+p1821
+aS'Many of them have demanded from the governor thathe allow them to raise rates.'
+p1822
+aS'The governor has said no.'
+p1823
+aS'And some of them -- -- are on the verge of folding.'
+p1824
+aS'Now, let me ask you something.'
+p1825
+aS"The plan, underObamacare, says that if you're in an exchange, a government-run exchange, and you onlyoffer the policy that the government exchange allows, then you can get a subsidy."
+p1826
+aS"EveryRepublican plan says let's give every single American a tax refund, a tax credit to go buythe plan of their choice."
+p1827
+aS"Now, I guarantee you, if we do that, so we say to everyAmerican, you get a refundable tax credit, a refund, and for the poor, it's cash, to go buythe plan of your choice."
+p1828
+aS"And you can buy your employer's plan."
+p1829
+aS'You can buy in theindividual market.'
+p1830
+aS'You can join a new group sponsored by the Kiwanis club.'
+p1831
+aS'You canjoin a new group sponsored by -- '
+p1832
+asg11
+S'JOHN SHADEGG'
+p1833
+sg16
+(lp1834
+S"Actually, number one, in Massachusetts, we're down to, I think, to only four carriers."
+p1835
+aS'Several of them are in dire straits.'
+p1836
+aS'Many of them have demanded from the governor that he allow them to raise rates.'
+p1837
+aS'The governor has said no.'
+p1838
+aS'And some of them -- -- are on the verge of folding.'
+p1839
+aS'Now, let me ask you something.'
+p1840
+aS"The plan, under Obamacare, says that if you're in an exchange, a government-run exchange, and you only offer the policy that the government exchange allows, then you can get a subsidy."
+p1841
+aS"Every Republican plan says let's give every single American a tax refund, a tax credit to go buy the plan of their choice."
+p1842
+aS"Now, I guarantee you, if we do that, so we say to every American, you get a refundable tax credit, a refund, and for the poor, it's cash, to go buy the plan of your choice."
+p1843
+aS"And you can buy your employer's plan."
+p1844
+aS'You can buy in the individual market.'
+p1845
+aS'You can join a new group sponsored by the Kiwanis club.'
+p1846
+aS'You can join a new group sponsored by -- '
+p1847
+asa(dp1848
+g8
+(lp1849
+S'Would you mandate a purchase?'
+p1850
+aS'Would you mandate it?'
+p1851
+asg11
+S'JOHN DONVAN'
+p1852
+sg16
+(lp1853
+S'Would you mandate a purchase?'
+p1854
+aS'Would you mandate it?'
+p1855
+asa(dp1856
+g8
+(lp1857
+S'No, I would not mandate it because I think freedom is a hallmark of this country.'
+p1858
+aS'And Ithink if we offer great -- '
+p1859
+asg11
+S'JOHN SHADEGG'
+p1860
+sg16
 (lp1861
-S'Okay, Im going to come to questions and -- Im going to come to questions from you in just a minute.'
+S'No, I would not mandate it because I think freedom is a hallmark of this country.'
 p1862
-aS'I want to give this side one 35- second shot at -- So John Shadegg is taking .'
+aS'And I think if we offer great -- '
 p1863
 asa(dp1864
 g8
 (lp1865
-S"This criticism is often made, and the Democrat answer, the Obamacare answer is to say,Okay, were going to do guaranteed issue, everybody gets insurance even if you'realready sick."
+S'So maybe a lot of that money would end up at the amusement park or the race track?'
 p1866
-aS'" The incentive of that is not to buy insurance until its too late or until thecosts have gone up.'
+asg11
+S'JOHN DONVAN'
 p1867
-aS'Id like to ask Paul, How is it the insurance companies know whosgoing to get sick before the people know, and how is it that they can cherry pick thehealthy?'
-p1868
-aS'But let me tell you how Republicans solve this problem.'
-p1869
+sg16
+(lp1868
+g1866
+asa(dp1869
+g8
+(lp1870
+S'Well, let me tell you how my plan works.It offers every single American, every single American that refundable tax credit if theydon\'t make enough money if they do not enroll because they are homeless and don\'t getthe notice we automatically enroll them because we know their Social Security numberand we knew it as one point, they show up for care somewhere, and they say, "What plandid you enroll in?'
+p1871
+aS'" And the individual says -- she\'s a mother of three that was movingfrom Idaho to Arizona on the day that the notice came to her, she says, "I didn\'t enroll.'
+p1872
+aS'"They look her up on a Social Security number and they say, "Oh, yeah, you\'re in thepool.'
+p1873
+aS'"'
+p1874
 asg11
 S'JOHN SHADEGG'
-p1870
-sg16
-(lp1871
-S"This criticism is often made, and the Democrat answer, the Obamacare answer is to say, Okay, were going to do guaranteed issue, everybody gets insurance even if you're already sick."
-p1872
-aS'" The incentive of that is not to buy insurance until its too late or until the costs have gone up.'
-p1873
-aS'Id like to ask Paul, How is it the insurance companies know whos going to get sick before the people know, and how is it that they can cherry pick the healthy?'
-p1874
-aS'But let me tell you how Republicans solve this problem.'
 p1875
-asg25
+sg13
 (dp1876
-S'19:48:21'
+I7
+S'28'
 p1877
-I6
-ssa(dp1878
+ssg16
+(lp1878
+S'Well, let me tell you how my plan works.'
+p1879
+aS'It offers every single American, every single American that refundable tax credit if they don\'t make enough money if they do not enroll because they are homeless and don\'t get the notice we automatically enroll them because we know their Social Security number and we knew it as one point, they show up for care somewhere, and they say, "What plan did you enroll in?'
+p1880
+aS'" And the individual says -- she\'s a mother of three that was moving from Idaho to Arizona on the day that the notice came to her, she says, "I didn\'t enroll.'
+p1881
+aS'" They look her up on a Social Security number and they say, "Oh, yeah, you\'re in the pool.'
+p1882
+ag1874
+asg25
+(dp1883
+S'19:45:28'
+p1884
+I1
+ssa(dp1885
+g8
+(lp1886
+S'Okay.'
+p1887
+asg11
+S'JOHN DONVAN'
+p1888
+sg16
+(lp1889
+g1887
+asa(dp1890
+g8
+(lp1891
+S'"And you\'re covered.'
+p1892
+aS'" That\'s the way Paul Ryan\'s bill works, that\'s the way TomCoburn\'s -- '
+p1893
+asg11
+S'JOHN SHADEGG'
+p1894
+sg16
+(lp1895
+S'"And you\'re covered.'
+p1896
+aS'" That\'s the way Paul Ryan\'s bill works, that\'s the way Tom Coburn\'s -- '
+p1897
+asa(dp1898
+g8
+(lp1899
+S"Okay, John, you've made that point."
+p1900
+aS'I want to stay on the merits of the Obama plan.'
+p1901
+aS'Doyou want to respond to that, either of you, gentlemen?'
+p1902
+asg11
+S'JOHN DONVAN'
+p1903
+sg16
+(lp1904
+S"Okay, John, you've made that point."
+p1905
+aS'I want to stay on the merits of the Obama plan.'
+p1906
+aS'Do you want to respond to that, either of you, gentlemen?'
+p1907
+asa(dp1908
+g8
+(lp1909
+S"I want to respond to this whole notion that it's a complete individual free market here, totalk a little bit about the way insurance works."
+p1910
+aS'Healthcare is very different from otherkinds of services and commodities.Seventy percent of the healthcare costs in any year are concentrated in 10 percent of thepeople.'
+p1911
+aS'So insurance companies have a very strong incentive to cherry pick, to go outand to look for the 50 percent of people who actually account for only three percent ofthe costs.'
+p1912
+aS'And when you have this market where supposedly everybody has individualchoices, you also have a market where the insurance companies are going to cherry pickand avoid the sick people.'
+p1913
+aS'They will do everything in their -- it is the best business modelfor them.'
+p1914
+aS"Rather than try to control healthcare costs, it's just to avoid sick people."
+p1915
+aS'Theway the exchanges work is that if you want to sell insurance in the exchange, you have toagree to take anybody.'
+p1916
+aS'Thats the bargain.'
+p1917
+aS'And what the exchange does, so the peoplepay in on a community rated basis, but the insurance companies get paid according to therisk of the population they enroll.'
+p1918
+aS'So if they enroll an older population, if they enroll asicker population, they get paid more.Thats what goes on through the exchange that wont go on through this market.'
+p1919
+aS'I realizethis is complicated.'
+p1920
+aS'Insurance is a complicated business, and this law is trying to takeaccount of the way this business characteristically malfunctions.'
+p1921
+aS'Thats why we end upwith millions of people uninsured.'
+p1922
+asg11
+S'PAUL STARR'
+p1923
+sg16
+(lp1924
+S"I want to respond to this whole notion that it's a complete individual free market here, to talk a little bit about the way insurance works."
+p1925
+aS'Healthcare is very different from other kinds of services and commodities.'
+p1926
+aS'Seventy percent of the healthcare costs in any year are concentrated in 10 percent of the people.'
+p1927
+aS'So insurance companies have a very strong incentive to cherry pick, to go out and to look for the 50 percent of people who actually account for only three percent of the costs.'
+p1928
+aS'And when you have this market where supposedly everybody has individual choices, you also have a market where the insurance companies are going to cherry pick and avoid the sick people.'
+p1929
+aS'They will do everything in their -- it is the best business model for them.'
+p1930
+aS"Rather than try to control healthcare costs, it's just to avoid sick people."
+p1931
+aS'The way the exchanges work is that if you want to sell insurance in the exchange, you have to agree to take anybody.'
+p1932
+aS'Thats the bargain.'
+p1933
+aS'And what the exchange does, so the people pay in on a community rated basis, but the insurance companies get paid according to the risk of the population they enroll.'
+p1934
+aS'So if they enroll an older population, if they enroll a sicker population, they get paid more.'
+p1935
+aS'Thats what goes on through the exchange that wont go on through this market.'
+p1936
+aS'I realize this is complicated.'
+p1937
+aS'Insurance is a complicated business, and this law is trying to take account of the way this business characteristically malfunctions.'
+p1938
+aS'Thats why we end up with millions of people uninsured.'
+p1939
+asg25
+(dp1940
+S'19:47:24'
+p1941
+I15
+sS'19:46:23'
+p1942
+I3
+ssa(dp1943
 g113
-(dp1879
+(dp1944
+I1
+S'[applause]'
+p1945
+ssg8
+(lp1946
+S'Okay, Im going to come to questions and --Im going to come to questions from you in just a minute.'
+p1947
+aS'I want to give this side one 35- [[applause]] second shot at -- So John Shadegg is taking .'
+p1948
+asg11
+S'JOHN DONVAN'
+p1949
+sg13
+(dp1950
+I1
+S'29'
+p1951
+ssg16
+(lp1952
+S'Okay, Im going to come to questions and -- Im going to come to questions from you in just a minute.'
+p1953
+aS'I want to give this side one 35- second shot at -- So John Shadegg is taking .'
+p1954
+asa(dp1955
+g8
+(lp1956
+S"This criticism is often made, and the Democrat answer, the Obamacare answer is to say,Okay, were going to do guaranteed issue, everybody gets insurance even if you'realready sick."
+p1957
+aS'" The incentive of that is not to buy insurance until its too late or until thecosts have gone up.'
+p1958
+aS'Id like to ask Paul, How is it the insurance companies know whosgoing to get sick before the people know, and how is it that they can cherry pick thehealthy?'
+p1959
+aS'But let me tell you how Republicans solve this problem.'
+p1960
+asg11
+S'JOHN SHADEGG'
+p1961
+sg16
+(lp1962
+S"This criticism is often made, and the Democrat answer, the Obamacare answer is to say, Okay, were going to do guaranteed issue, everybody gets insurance even if you're already sick."
+p1963
+aS'" The incentive of that is not to buy insurance until its too late or until the costs have gone up.'
+p1964
+aS'Id like to ask Paul, How is it the insurance companies know whos going to get sick before the people know, and how is it that they can cherry pick the healthy?'
+p1965
+aS'But let me tell you how Republicans solve this problem.'
+p1966
+asg25
+(dp1967
+S'19:48:21'
+p1968
+I6
+ssa(dp1969
+g113
+(dp1970
 I0
 S'[unintelligible]'
-p1880
-ssg8
-(lp1881
-g22
-asg11
-S'MALE SPEAKER'
-p1882
-sg16
-(lp1883
-g22
-asa(dp1884
-g8
-(lp1885
-S'Let me tell you how Republicans would solve this problem, I know because I happen tohave written it, what you do is you say to everyone that has a preexisting condition or hasa chronic illness, "You have the right, the absolute right to join whats called a high riskpool.'
-p1886
-aS'You may enroll in that plan if you are either denied coverage altogether or if yourcoverage is priced at, well say, 20 percent, or 30 percent, or more above the averagecost, because you have a preexisting condition.'
-p1887
-aS"Once you enroll in the high risk pool,your health is covered comprehensively including my sister's breast cancer or my heartcondition, and the -- so that means that the cost of insuring that pool is higher than thecost of insuring any other pool."
-p1888
-aS'Thats a high risk pool.'
-p1889
-aS'The costs of insuring that groupare then subsidized either by dividing it equally, the extra costs amongst every insurancecompany in the jurisdiction, it could be the state or it could be federal, or by generalrevenues from the state, often done by sin taxes.I happen to know that because its already the law in 22 different states.'
-p1890
-asg11
-S'JOHN SHADEGG'
-p1891
-sg16
-(lp1892
-S'Let me tell you how Republicans would solve this problem, I know because I happen to have written it, what you do is you say to everyone that has a preexisting condition or has a chronic illness, "You have the right, the absolute right to join whats called a high risk pool.'
-p1893
-aS'You may enroll in that plan if you are either denied coverage altogether or if your coverage is priced at, well say, 20 percent, or 30 percent, or more above the average cost, because you have a preexisting condition.'
-p1894
-aS"Once you enroll in the high risk pool, your health is covered comprehensively including my sister's breast cancer or my heart condition, and the -- so that means that the cost of insuring that pool is higher than the cost of insuring any other pool."
-p1895
-aS'Thats a high risk pool.'
-p1896
-aS'The costs of insuring that group are then subsidized either by dividing it equally, the extra costs amongst every insurance company in the jurisdiction, it could be the state or it could be federal, or by general revenues from the state, often done by sin taxes.'
-p1897
-aS'I happen to know that because its already the law in 22 different states.'
-p1898
-asg25
-(dp1899
-S'19:49:22'
-p1900
-I12
-ssa(dp1901
-g8
-(lp1902
-S'All right.'
-p1903
-asg11
-S'JOHN DONVAN'
-p1904
-sg16
-(lp1905
-g1903
-asa(dp1906
-g8
-(lp1907
-S'I happen to know it because I wrote the last federal law that allows it.'
-p1908
-asg11
-S'JOHN SHADEGG'
-p1909
-sg13
-(dp1910
-I1
-S'30'
-p1911
-ssg16
-(lp1912
-g1908
-asa(dp1913
-g8
-(lp1914
-S'John, John, let me move on to some questions from the audience.'
-p1915
-aS"And if you -- what Idlike to ask you to do, Ill call on you, wait till a microphone reaches you, and then holdthe microphone about one fist's distance from your mouth so that the television and radiocan hear you very clearly."
-p1916
-aS'And theres a gentleman in a black sweater.'
-p1917
-aS'Hey, sir, beforeyou begin, I just want to ask you something, what have you heard so far that you thought,"Well, I hadnt thought of that before"?'
-p1918
-asg11
-S'JOHN DONVAN'
-p1919
-sg16
-(lp1920
-S'John, John, let me move on to some questions from the audience.'
-p1921
-aS"And if you -- what Id like to ask you to do, Ill call on you, wait till a microphone reaches you, and then hold the microphone about one fist's distance from your mouth so that the television and radio can hear you very clearly."
-p1922
-aS'And theres a gentleman in a black sweater.'
-p1923
-aS'Hey, sir, before you begin, I just want to ask you something, what have you heard so far that you thought, "Well, I hadnt thought of that before"?'
-p1924
-asa(dp1925
-g113
-(dp1926
-I1
-S'[laughter]'
-p1927
-ssg8
-(lp1928
-S"Hmm.That's a tough question."
-p1929
-aS'I thought I was asking the question.'
-p1930
-aS'[[laughter]] '
-p1931
-asg11
-S'MALE SPEAKER'
-p1932
-sg16
-(lp1933
-S'Hmm.'
-p1934
-aS"That's a tough question."
-p1935
-aS'I thought I was asking the question.'
-p1936
-asa(dp1937
-g113
-(dp1938
-I1
-S'[laughter]'
-p1939
-ssg8
-(lp1940
-S"Guess we haven't --Your turn will come."
-p1941
-aS'And Ill give you a pass if you dont have a ready answer to that.'
-p1942
-aS"[[laughter]] And I'm not meaning to put you on the spot, Im actually quite curious to know how itsbeing received out there."
-p1943
-aS'So if you have no thoughts on that, we will pretend thatquestion didnt come up.'
-p1944
-asg11
-S'JOHN DONVAN'
-p1945
-sg16
-(lp1946
-S"Guess we haven't -- Your turn will come."
-p1947
-aS'And Ill give you a pass if you dont have a ready answer to that.'
-p1948
-aS"And I'm not meaning to put you on the spot, Im actually quite curious to know how its being received out there."
-p1949
-aS'So if you have no thoughts on that, we will pretend that question didnt come up.'
-p1950
-asa(dp1951
-g113
-(dp1952
-I1
-S'[laughter]'
-p1953
-ssg8
-(lp1954
-S'My only thought is, next time I will not be the first questioner.'
-p1955
-asg11
-S'MALE SPEAKER'
-p1956
-sg16
-(lp1957
-g1955
-asg25
-(dp1958
-S'19:50:21'
-p1959
-I1
-ssa(dp1960
-g8
-(lp1961
-S'Go ahead.'
-p1962
-asg11
-S'JOHN DONVAN'
-p1963
-sg16
-(lp1964
-g1962
-asa(dp1965
-g113
-(dp1966
-I3
-S'[laughter]'
-p1967
-ssg8
-(lp1968
-S'My question is for the gentleman on this side.'
-p1969
-aS'Recently my house burned down and Itried to buy fire insurance after the fact and the insurance company said it was a pre-existing fire.Now, that doesnt sound fair to me.'
-p1970
-aS'Does it sound fair to you?'
 p1971
-aS'[[laughter]] '
-p1972
+ssg8
+(lp1972
+g22
 asg11
 S'MALE SPEAKER'
 p1973
 sg16
 (lp1974
-S'My question is for the gentleman on this side.'
-p1975
-aS'Recently my house burned down and I tried to buy fire insurance after the fact and the insurance company said it was a pre- existing fire.'
-p1976
-aS'Now, that doesnt sound fair to me.'
-p1977
-aS'Does it sound fair to you?'
-p1978
-asa(dp1979
+g22
+asa(dp1975
 g8
-(lp1980
-S'No, no its not.'
+(lp1976
+S'Let me tell you how Republicans would solve this problem, I know because I happen tohave written it, what you do is you say to everyone that has a preexisting condition or hasa chronic illness, "You have the right, the absolute right to join whats called a high riskpool.'
+p1977
+aS'You may enroll in that plan if you are either denied coverage altogether or if yourcoverage is priced at, well say, 20 percent, or 30 percent, or more above the averagecost, because you have a preexisting condition.'
+p1978
+aS"Once you enroll in the high risk pool,your health is covered comprehensively including my sister's breast cancer or my heartcondition, and the -- so that means that the cost of insuring that pool is higher than thecost of insuring any other pool."
+p1979
+aS'Thats a high risk pool.'
+p1980
+aS'The costs of insuring that groupare then subsidized either by dividing it equally, the extra costs amongst every insurancecompany in the jurisdiction, it could be the state or it could be federal, or by generalrevenues from the state, often done by sin taxes.I happen to know that because its already the law in 22 different states.'
 p1981
-aS'That is why --'
+asg11
+S'JOHN SHADEGG'
 p1982
+sg16
+(lp1983
+S'Let me tell you how Republicans would solve this problem, I know because I happen to have written it, what you do is you say to everyone that has a preexisting condition or has a chronic illness, "You have the right, the absolute right to join whats called a high risk pool.'
+p1984
+aS'You may enroll in that plan if you are either denied coverage altogether or if your coverage is priced at, well say, 20 percent, or 30 percent, or more above the average cost, because you have a preexisting condition.'
+p1985
+aS"Once you enroll in the high risk pool, your health is covered comprehensively including my sister's breast cancer or my heart condition, and the -- so that means that the cost of insuring that pool is higher than the cost of insuring any other pool."
+p1986
+aS'Thats a high risk pool.'
+p1987
+aS'The costs of insuring that group are then subsidized either by dividing it equally, the extra costs amongst every insurance company in the jurisdiction, it could be the state or it could be federal, or by general revenues from the state, often done by sin taxes.'
+p1988
+aS'I happen to know that because its already the law in 22 different states.'
+p1989
+asg25
+(dp1990
+S'19:49:22'
+p1991
+I12
+ssa(dp1992
+g8
+(lp1993
+S'All right.'
+p1994
+asg11
+S'JOHN DONVAN'
+p1995
+sg16
+(lp1996
+g1994
+asa(dp1997
+g8
+(lp1998
+S'I happen to know it because I wrote the last federal law that allows it.'
+p1999
+asg11
+S'JOHN SHADEGG'
+p2000
+sg13
+(dp2001
+I1
+S'30'
+p2002
+ssg16
+(lp2003
+g1999
+asa(dp2004
+g8
+(lp2005
+S'John, John, let me move on to some questions from the audience.'
+p2006
+aS"And if you -- what Idlike to ask you to do, Ill call on you, wait till a microphone reaches you, and then holdthe microphone about one fist's distance from your mouth so that the television and radiocan hear you very clearly."
+p2007
+aS'And theres a gentleman in a black sweater.'
+p2008
+aS'Hey, sir, beforeyou begin, I just want to ask you something, what have you heard so far that you thought,"Well, I hadnt thought of that before"?'
+p2009
+asg11
+S'JOHN DONVAN'
+p2010
+sg16
+(lp2011
+S'John, John, let me move on to some questions from the audience.'
+p2012
+aS"And if you -- what Id like to ask you to do, Ill call on you, wait till a microphone reaches you, and then hold the microphone about one fist's distance from your mouth so that the television and radio can hear you very clearly."
+p2013
+aS'And theres a gentleman in a black sweater.'
+p2014
+aS'Hey, sir, before you begin, I just want to ask you something, what have you heard so far that you thought, "Well, I hadnt thought of that before"?'
+p2015
+asa(dp2016
+g113
+(dp2017
+I1
+S'[laughter]'
+p2018
+ssg8
+(lp2019
+S"Hmm.That's a tough question."
+p2020
+aS'I thought I was asking the question.'
+p2021
+aS'[[laughter]] '
+p2022
+asg11
+S'MALE SPEAKER'
+p2023
+sg16
+(lp2024
+S'Hmm.'
+p2025
+aS"That's a tough question."
+p2026
+aS'I thought I was asking the question.'
+p2027
+asa(dp2028
+g113
+(dp2029
+I1
+S'[laughter]'
+p2030
+ssg8
+(lp2031
+S"Guess we haven't --Your turn will come."
+p2032
+aS'And Ill give you a pass if you dont have a ready answer to that.'
+p2033
+aS"[[laughter]] And I'm not meaning to put you on the spot, Im actually quite curious to know how itsbeing received out there."
+p2034
+aS'So if you have no thoughts on that, we will pretend thatquestion didnt come up.'
+p2035
+asg11
+S'JOHN DONVAN'
+p2036
+sg16
+(lp2037
+S"Guess we haven't -- Your turn will come."
+p2038
+aS'And Ill give you a pass if you dont have a ready answer to that.'
+p2039
+aS"And I'm not meaning to put you on the spot, Im actually quite curious to know how its being received out there."
+p2040
+aS'So if you have no thoughts on that, we will pretend that question didnt come up.'
+p2041
+asa(dp2042
+g113
+(dp2043
+I1
+S'[laughter]'
+p2044
+ssg8
+(lp2045
+S'My only thought is, next time I will not be the first questioner.'
+p2046
+asg11
+S'MALE SPEAKER'
+p2047
+sg16
+(lp2048
+g2046
+asg25
+(dp2049
+S'19:50:21'
+p2050
+I1
+ssa(dp2051
+g8
+(lp2052
+S'Go ahead.'
+p2053
+asg11
+S'JOHN DONVAN'
+p2054
+sg16
+(lp2055
+g2053
+asa(dp2056
+g113
+(dp2057
+I3
+S'[laughter]'
+p2058
+ssg8
+(lp2059
+S'My question is for the gentleman on this side.'
+p2060
+aS'Recently my house burned down and Itried to buy fire insurance after the fact and the insurance company said it was a pre-existing fire.Now, that doesnt sound fair to me.'
+p2061
+aS'Does it sound fair to you?'
+p2062
+aS'[[laughter]] '
+p2063
+asg11
+S'MALE SPEAKER'
+p2064
+sg16
+(lp2065
+S'My question is for the gentleman on this side.'
+p2066
+aS'Recently my house burned down and I tried to buy fire insurance after the fact and the insurance company said it was a pre- existing fire.'
+p2067
+aS'Now, that doesnt sound fair to me.'
+p2068
+aS'Does it sound fair to you?'
+p2069
+asa(dp2070
+g8
+(lp2071
+S'No, no its not.'
+p2072
+aS'That is why --'
+p2073
 asg11
 S'PAUL STARR'
-p1983
+p2074
 sg13
-(dp1984
+(dp2075
 I0
 S'31'
-p1985
+p2076
 ssg16
-(lp1986
+(lp2077
 S'No, no its not.'
-p1987
+p2078
 aS'That is why --'
-p1988
-asa(dp1989
+p2079
+asa(dp2080
 g8
-(lp1990
+(lp2081
 S'So I should be able to buy fire insurance after my house burns down.'
-p1991
+p2082
 asg11
 S'MALE SPEAKER'
-p1992
+p2083
 sg16
-(lp1993
-g1991
-asa(dp1994
+(lp2084
+g2082
+asa(dp2085
 g8
-(lp1995
+(lp2086
 S'No, no absolutely not.'
-p1996
+p2087
 aS'Look, one of the reasons that there is a mandate in this law isprecisely to avoid the possibility that people will refuse to buy insurance until they getsick.'
-p1997
+p2088
 aS'Thats the whole rationale for the mandate.'
-p1998
+p2089
 aS'Now Ive actually proposed anotherway to accomplish the same purpose because the mandate is the single most unpopularpart of the bill.'
-p1999
+p2090
 aS'People dont understand that the mandate is directly related to theelimination of pre-existing condition exclusion.'
-p2000
+p2091
 aS'You cant eliminate those exclusions justfor the reasons you said unless you have some way to get the people into the pool.My alternative is the following.'
-p2001
+p2092
 aS'If you want to opt out, if you dont want to be part of thesystem, okay, you can do that without penalty.'
-p2002
+p2093
 aS'But you have to sign a form saying Iwont come back and I cannot come back in.'
-p2003
+p2094
 aS'For five years, I cant use the exchanges, Icant get the subsidies, I cant get a policy without the pre-existing conditions.'
-p2004
+p2095
 aS'So Iunderstand your position completely.'
-p2005
+p2096
 aS'We need to be able to avoid the possibility thatpeople will behave opportunistically.'
-p2006
+p2097
 asg11
 S'PAUL STARR'
-p2007
+p2098
 sg16
-(lp2008
+(lp2099
 S'No, no absolutely not.'
-p2009
+p2100
 aS'Look, one of the reasons that there is a mandate in this law is precisely to avoid the possibility that people will refuse to buy insurance until they get sick.'
-p2010
+p2101
 aS'Thats the whole rationale for the mandate.'
-p2011
+p2102
 aS'Now Ive actually proposed another way to accomplish the same purpose because the mandate is the single most unpopular part of the bill.'
-p2012
+p2103
 aS'People dont understand that the mandate is directly related to the elimination of pre-existing condition exclusion.'
-p2013
+p2104
 aS'You cant eliminate those exclusions just for the reasons you said unless you have some way to get the people into the pool.'
-p2014
+p2105
 aS'My alternative is the following.'
-p2015
+p2106
 aS'If you want to opt out, if you dont want to be part of the system, okay, you can do that without penalty.'
-p2016
+p2107
 aS'But you have to sign a form saying I wont come back and I cannot come back in.'
-p2017
+p2108
 aS'For five years, I cant use the exchanges, I cant get the subsidies, I cant get a policy without the pre-existing conditions.'
-p2018
+p2109
 aS'So I understand your position completely.'
-p2019
+p2110
 aS'We need to be able to avoid the possibility that people will behave opportunistically.'
-p2020
+p2111
 asg25
-(dp2021
+(dp2112
 S'19:51:26'
-p2022
+p2113
 I7
-ssa(dp2023
+ssa(dp2114
 g8
-(lp2024
+(lp2115
 S'So Paul, you dont want to repeal but you do want to tinker.'
-p2025
+p2116
 asg11
 S'JOHN DONVAN'
-p2026
+p2117
 sg16
-(lp2027
-g2025
-asa(dp2028
+(lp2118
+g2116
+asa(dp2119
 g8
-(lp2029
+(lp2120
 S'Oh, I am willing to make changes.'
-p2030
+p2121
 asg11
 S'PAUL STARR'
-p2031
+p2122
 sg16
-(lp2032
-g2030
-asa(dp2033
+(lp2123
+g2121
+asa(dp2124
 g8
-(lp2034
+(lp2125
 S'Tinkerings fine.'
-p2035
+p2126
 aS'Were not against it.'
-p2036
+p2127
 aS'Everybody who understands this plan thinks itsnot a perfect bill.'
-p2037
+p2128
 aS'No bill is perfect.'
-p2038
+p2129
 aS'The question is is it a good foundation.'
-p2039
+p2130
 asg11
 S'JONATHAN COHN'
-p2040
+p2131
 sg16
-(lp2041
+(lp2132
 S'Tinkerings fine.'
-p2042
+p2133
 aS'Were not against it.'
-p2043
+p2134
 aS'Everybody who understands this plan thinks its not a perfect bill.'
-p2044
+p2135
 aS'No bill is perfect.'
-p2045
+p2136
 aS'The question is is it a good foundation.'
-p2046
-asa(dp2047
+p2137
+asa(dp2138
 g113
-(dp2048
+(dp2139
 I1
 S'[laughter]'
-p2049
+p2140
 sI2
 S'[laughter]'
-p2050
+p2141
 ssg11
 S'JOHN DONVAN'
-p2051
-sg16
-(lp2052
-S'Let me do a very quick thing for radio.'
-p2053
-aS'This is a U.S. debate -- This is a great debate.'
-p2054
-aS'I just wanted to say that.'
-p2055
-aS'Im John Donvan of ABC News.'
-p2056
-aS'This is a debate from Intelligence Squared U.S. We are at the Skirball Center for the Performing Arts at New York University, New York and hundreds of NPR stations across the nation.'
-p2057
-aS'Our motion is Repeal Obamacare and we are taking questions from the audience.'
-p2058
-aS'How was that?'
-p2059
-aS'Not bad.'
-p2060
-asg25
-(dp2061
-S'19:52:24'
-p2062
-I3
-ssg8
-(lp2063
-S'Let me do a very quick thing for radio.'
-p2064
-aS'This is a U.S. debate --This is a great debate.'
-p2065
-aS'[[laughter]] I just wanted to say that.'
-p2066
-aS'[[laughter]] Im John Donvan of ABC News.'
-p2067
-aS'This is a debate from Intelligence Squared U.S. We areat the Skirball Center for the Performing Arts at New York University, New York andhundreds of NPR stations across the nation.'
-p2068
-aS'Our motion is Repeal Obamacare and weare taking questions from the audience.'
-p2069
-aS'How was that?'
-p2070
-aS'Not bad.'
-p2071
-asg13
-(dp2072
-I3
-S'32'
-p2073
-ssa(dp2074
-g8
-(lp2075
-S'Very good.'
-p2076
-asg11
-S'MALE SPEAKER'
-p2077
-sg16
-(lp2078
-g2076
-asa(dp2079
-g8
-(lp2080
-S'Woman with your hand up right there.'
-p2081
-aS'Yep.'
-p2082
-aS'Im going to ask you the same question andif youre not prepared to answer thats fine, I just want to -- what are you hearing that hascaught your ear?'
-p2083
-asg11
-S'JOHN DONVAN'
-p2084
-sg16
-(lp2085
-S'Woman with your hand up right there.'
-p2086
-aS'Yep.'
-p2087
-aS'Im going to ask you the same question and if youre not prepared to answer thats fine, I just want to -- what are you hearing that has caught your ear?'
-p2088
-asa(dp2089
-g113
-(dp2090
-I2
-S'[laughter]'
-p2091
-ssg8
-(lp2092
-S'What Im hearing is that the Republicans have a plan.'
-p2093
-aS'Ive never heard of anyRepublican plan in all the years that Republicans were in control.'
-p2094
-asg11
-S'FEMALE SPEAKER'
-p2095
-sg16
-(lp2096
-S'What Im hearing is that the Republicans have a plan.'
-p2097
-aS'Ive never heard of any Republican plan in all the years that Republicans were in control.'
-p2098
-asa(dp2099
-g8
-(lp2100
-S'Okay, your question.'
-p2101
-aS'Maybe that was it.'
-p2102
-asg11
-S'JOHN DONVAN'
-p2103
-sg16
-(lp2104
-S'Okay, your question.'
-p2105
-aS'Maybe that was it.'
-p2106
-asa(dp2107
-g8
-(lp2108
-S'That was it.'
-p2109
-asg11
-S'MALE SPEAKER'
-p2110
-sg16
-(lp2111
-g2109
-asa(dp2112
-g8
-(lp2113
-S'Oh, that was a comment.'
-p2114
-aS'Okay.'
-p2115
-aS'Well, there you go.'
-p2116
-aS'On the side, gentleman, yes, rightthere.'
-p2117
-aS'Thanks.'
-p2118
-aS'If you could stand.'
-p2119
-aS'Also if you happen to be a member of the newsmedia, we would appreciate it if you could identify yourself as such.'
-p2120
-asg11
-S'JOHN DONVAN'
-p2121
-sg16
-(lp2122
-S'Oh, that was a comment.'
-p2123
-aS'Okay.'
-p2124
-aS'Well, there you go.'
-p2125
-aS'On the side, gentleman, yes, right there.'
-p2126
-aS'Thanks.'
-p2127
-aS'If you could stand.'
-p2128
-aS'Also if you happen to be a member of the news media, we would appreciate it if you could identify yourself as such.'
-p2129
-asg25
-(dp2130
-S'19:53:24'
-p2131
-I3
-ssa(dp2132
-g8
-(lp2133
-S'Im from the state of Massachusetts, actually.'
-p2134
-aS'My question is not about that.'
-p2135
-aS'Im the sonof a surgeon and Im wondering if the bill does anything to address the so-called doctorfix with regards to Medicare pay outs to doctors?'
-p2136
-aS'That comes up in Congress prettyfrequently.'
-p2137
-aS'I was wondering --'
-p2138
-asg11
-S'MALE SPEAKER'
-p2139
-sg16
-(lp2140
-S'Im from the state of Massachusetts, actually.'
-p2141
-aS'My question is not about that.'
 p2142
-aS'Im the son of a surgeon and Im wondering if the bill does anything to address the so-called doctor fix with regards to Medicare pay outs to doctors?'
-p2143
-aS'That comes up in Congress pretty frequently.'
-p2144
-aS'I was wondering --'
-p2145
-asa(dp2146
-g8
-(lp2147
-S'Fourteen seconds on what that means for people who dont know what that is.'
-p2148
-asg11
-S'JOHN DONVAN'
-p2149
 sg16
-(lp2150
-g2148
-asa(dp2151
-g113
+(lp2143
+S'Let me do a very quick thing for radio.'
+p2144
+aS'This is a U.S. debate -- This is a great debate.'
+p2145
+aS'I just wanted to say that.'
+p2146
+aS'Im John Donvan of ABC News.'
+p2147
+aS'This is a debate from Intelligence Squared U.S. We are at the Skirball Center for the Performing Arts at New York University, New York and hundreds of NPR stations across the nation.'
+p2148
+aS'Our motion is Repeal Obamacare and we are taking questions from the audience.'
+p2149
+aS'How was that?'
+p2150
+aS'Not bad.'
+p2151
+asg25
 (dp2152
-I1
-S'[laughter]'
+S'19:52:24'
 p2153
+I3
 ssg8
 (lp2154
-S'To my knowledge, Im not an expert on it.'
+S'Let me do a very quick thing for radio.'
 p2155
-aS'I just hear my father rant and rave about it.The -- I believe it was in the cost bills back in the 90s to try to reform Medicare, they [[laughter]] had a formula to try to pay doctors at some rate pegged to inflation and it doesnt work.Im not an expert on it myself.'
+aS'This is a U.S. debate --This is a great debate.'
 p2156
-aS'But I know it comes up in Congress quite frequently.'
+aS'[[laughter]] I just wanted to say that.'
 p2157
-aS'Itcauses a stir.'
+aS'[[laughter]] Im John Donvan of ABC News.'
 p2158
-aS'I think it somehow drives pay outs to doctors who see Medicare patients.Down 40 or 50 percent every six months.'
+aS'This is a debate from Intelligence Squared U.S. We areat the Skirball Center for the Performing Arts at New York University, New York andhundreds of NPR stations across the nation.'
 p2159
-aS'I know it comes up in Congress prettyfrequently.'
+aS'Our motion is Repeal Obamacare and weare taking questions from the audience.'
 p2160
-aS'I --'
+aS'How was that?'
 p2161
+aS'Not bad.'
+p2162
+asg13
+(dp2163
+I3
+S'32'
+p2164
+ssa(dp2165
+g8
+(lp2166
+S'Very good.'
+p2167
 asg11
 S'MALE SPEAKER'
-p2162
-sg13
-(dp2163
-I1
-S'33'
-p2164
-ssg16
-(lp2165
-S'To my knowledge, Im not an expert on it.'
-p2166
-aS'I just hear my father rant and rave about it.'
-p2167
-aS'The -- I believe it was in the cost bills back in the 90s to try to reform Medicare, they had a formula to try to pay doctors at some rate pegged to inflation and it doesnt work.'
 p2168
-aS'Im not an expert on it myself.'
-p2169
-aS'But I know it comes up in Congress quite frequently.'
-p2170
-aS'It causes a stir.'
-p2171
-aS'I think it somehow drives pay outs to doctors who see Medicare patients.'
-p2172
-aS'Down 40 or 50 percent every six months.'
-p2173
-aS'I know it comes up in Congress pretty frequently.'
-p2174
-aS'I --'
-p2175
-asa(dp2176
+sg16
+(lp2169
+g2167
+asa(dp2170
 g8
-(lp2177
-S'Okay.'
-p2178
-aS'If you dont mind, Im going to pass on the question unless its quite relevant.'
-p2179
-aS'Douglas Holtz-Eakin:-- on this broken formula that reimburses doctors under Medicare, part of the BBA thatJonathan lauded which in the end failed miserably.'
-p2180
-aS'The bottom line is its not part of thebill because they left it out.'
-p2181
-aS'Its part of the cost they dont want to acknowledge.'
-p2182
-aS'If youwant to know why this doesnt reduce the deficit, they left out $300 billion worth ofcosts.'
-p2183
-aS'And the CBO doesnt have the option of saying hey, you left that out.'
-p2184
-aS'They havethe obligation to price only what is in there.Jonathan Cohn.Douglas Holtz-Eakin:And they are precluded by law from raising their hand and saying but you left out thedoctors.Jonathan Cohn.Douglas Holtz-Eakin:I ran the CBO.'
-p2185
+(lp2171
+S'Woman with your hand up right there.'
+p2172
+aS'Yep.'
+p2173
+aS'Im going to ask you the same question andif youre not prepared to answer thats fine, I just want to -- what are you hearing that hascaught your ear?'
+p2174
 asg11
 S'JOHN DONVAN'
+p2175
+sg16
+(lp2176
+S'Woman with your hand up right there.'
+p2177
+aS'Yep.'
+p2178
+aS'Im going to ask you the same question and if youre not prepared to answer thats fine, I just want to -- what are you hearing that has caught your ear?'
+p2179
+asa(dp2180
+g113
+(dp2181
+I2
+S'[laughter]'
+p2182
+ssg8
+(lp2183
+S'What Im hearing is that the Republicans have a plan.'
+p2184
+aS'Ive never heard of anyRepublican plan in all the years that Republicans were in control.'
+p2185
+asg11
+S'FEMALE SPEAKER'
 p2186
 sg16
 (lp2187
-S'Okay.'
+S'What Im hearing is that the Republicans have a plan.'
 p2188
-aS'If you dont mind, Im going to pass on the question unless its quite relevant.'
+aS'Ive never heard of any Republican plan in all the years that Republicans were in control.'
 p2189
-aS'Douglas Holtz-Eakin: -- on this broken formula that reimburses doctors under Medicare, part of the BBA that Jonathan lauded which in the end failed miserably.'
-p2190
-aS'The bottom line is its not part of the bill because they left it out.'
-p2191
-aS'Its part of the cost they dont want to acknowledge.'
-p2192
-aS'If you want to know why this doesnt reduce the deficit, they left out $300 billion worth of costs.'
-p2193
-aS'And the CBO doesnt have the option of saying hey, you left that out.'
-p2194
-aS'They have the obligation to price only what is in there.'
-p2195
-aS'Jonathan Cohn.'
-p2196
-aS'Douglas Holtz-Eakin: And they are precluded by law from raising their hand and saying but you left out the doctors.'
-p2197
-aS'Jonathan Cohn.'
-p2198
-aS'Douglas Holtz-Eakin: I ran the CBO.'
-p2199
-asg25
-(dp2200
-S'19:54:21'
-p2201
-I1
-ssa(dp2202
-g113
-(dp2203
-I3
-S'[laughter]'
-p2204
-ssg11
-S'JONATHAN COHN'
-p2205
-sg16
-(lp2206
-S'Heres something else.'
-p2207
-aS'You look at the CBO report on the Affordable Care Act and youll discover something shocking.'
-p2208
-aS'It doesnt account for the cost of the war in Afghanistan.'
-p2209
-aS'Now thats because the war in Afghanistan is a separate piece of legislation.'
-p2210
-aS'During the late 1990s, as part of a much larger balanced budget bill that I recall quite correctly working and getting us balanced budgets for a while -- Douglas Holtz-Eakin: Youve given back all those savings.'
-p2211
-aS'Youve given them all back.'
-p2212
-aS'They dont work.'
-p2213
-aS'Before the tax cut, I remember, I was against it.'
-p2214
-aS'Douglas Holtz-Eakin: --has nothing to do with tax cuts.'
-p2215
-aS'Nothing to do with tax cuts?'
-p2216
-aS'Nothing to do with tax cuts?'
-p2217
-aS'Really.'
-p2218
-aS'Douglas Holtz-Eakin: The BBA health provisions have -- Wait, wait, wait.'
-p2219
-aS"You're really saying the Bush tax cuts have nothing to do with the deficits?"
-p2220
-aS'Douglas Holtz-Eakin: No.'
-p2221
-aS'It has nothing to do with healthcare.'
-p2222
-aS'I agree.'
-p2223
-aS"Douglas Holtz-Eakin: So this is -- You're making my point."
-p2224
-aS'Douglas Holtz-Eakin: This is a debate about healthcare.'
-p2225
-aS"And the fact of the matter is the balanced budget agreement healthcare provisions passed in the late '90s failed."
-p2226
-aS'They did not control costs.'
-p2227
-aS'And in the end, the Congress had to give the money back, as they will have to give it to the physicians under Medicare.'
-p2228
-aS'That --'
-p2229
-asg25
-(dp2230
-S'19:55:24'
-p2231
-I10
-ssg8
-(lp2232
-S'Heres something else.'
-p2233
-aS'You look at the CBO report on the Affordable Care Act andyoull discover something shocking.'
-p2234
-aS'It doesnt account for the cost of the war inAfghanistan.Now thats because the war in Afghanistan is a separate piece of legislation.'
-p2235
-aS'During the [[laughter]] late 1990s, as part of a much larger balanced budget bill that I recall quite correctlyworking and getting us balanced budgets for a while --Douglas Holtz-Eakin:Youve given back all those savings.'
-p2236
-aS'Youve given them all back.'
-p2237
-aS'They dont work.'
-p2238
-aS'Before the tax cut, I remember, I was against it.Douglas Holtz-Eakin:--has nothing to do with tax cuts.Nothing to do with tax cuts?'
-p2239
-aS'Nothing to do with tax cuts?'
-p2240
-aS'Really.Douglas Holtz-Eakin:The BBA health provisions have --Wait, wait, wait.'
-p2241
-aS"You're really saying the Bush tax cuts have nothing to do with thedeficits?Douglas Holtz-Eakin:No."
-p2242
-aS"It has nothing to do with healthcare.I agree.Douglas Holtz-Eakin:So this is --You're making my point.Douglas Holtz-Eakin:This is a debate about healthcare."
-p2243
-aS"And the fact of the matter is the balanced budgetagreement healthcare provisions passed in the late '90s failed."
-p2244
-aS'They did not control costs.And in the end, the Congress had to give the money back, as they will have to give it tothe physicians under Medicare.'
-p2245
-aS'That --'
-p2246
-asg13
-(dp2247
-I28
-S'35'
-p2248
-sI6
-S'34'
-p2249
-ssa(dp2250
+asa(dp2190
 g8
-(lp2251
-S'Jonathan, 20 seconds.'
-p2252
+(lp2191
+S'Okay, your question.'
+p2192
+aS'Maybe that was it.'
+p2193
 asg11
 S'JOHN DONVAN'
-p2253
+p2194
 sg16
-(lp2254
-g2252
-asa(dp2255
+(lp2195
+S'Okay, your question.'
+p2196
+aS'Maybe that was it.'
+p2197
+asa(dp2198
 g8
-(lp2256
-S'-- did not work.'
-p2257
+(lp2199
+S'That was it.'
+p2200
 asg11
 S'MALE SPEAKER'
-p2258
+p2201
 sg16
-(lp2259
-g2257
-asa(dp2260
+(lp2202
+g2200
+asa(dp2203
 g8
-(lp2261
-S'Okay.'
-p2262
-aS"You're hearing a very interesting version of the history of the '90s and healthcare.The doctor fix was built into our budgets for the government long before healthcarereform came on the scene."
-p2263
-aS'It is something that needs to be fixed separately.'
-p2264
-aS'It wouldhave to be fixed separately if we never had Obamacare.'
-p2265
-aS'It is a separate cost.'
-p2266
+(lp2204
+S'Oh, that was a comment.'
+p2205
+aS'Okay.'
+p2206
+aS'Well, there you go.'
+p2207
+aS'On the side, gentleman, yes, rightthere.'
+p2208
+aS'Thanks.'
+p2209
+aS'If you could stand.'
+p2210
+aS'Also if you happen to be a member of the newsmedia, we would appreciate it if you could identify yourself as such.'
+p2211
 asg11
-S'JONATHAN COHN'
-p2267
+S'JOHN DONVAN'
+p2212
 sg16
+(lp2213
+S'Oh, that was a comment.'
+p2214
+aS'Okay.'
+p2215
+aS'Well, there you go.'
+p2216
+aS'On the side, gentleman, yes, right there.'
+p2217
+aS'Thanks.'
+p2218
+aS'If you could stand.'
+p2219
+aS'Also if you happen to be a member of the news media, we would appreciate it if you could identify yourself as such.'
+p2220
+asg25
+(dp2221
+S'19:53:24'
+p2222
+I3
+ssa(dp2223
+g8
+(lp2224
+S'Im from the state of Massachusetts, actually.'
+p2225
+aS'My question is not about that.'
+p2226
+aS'Im the sonof a surgeon and Im wondering if the bill does anything to address the so-called doctorfix with regards to Medicare pay outs to doctors?'
+p2227
+aS'That comes up in Congress prettyfrequently.'
+p2228
+aS'I was wondering --'
+p2229
+asg11
+S'MALE SPEAKER'
+p2230
+sg16
+(lp2231
+S'Im from the state of Massachusetts, actually.'
+p2232
+aS'My question is not about that.'
+p2233
+aS'Im the son of a surgeon and Im wondering if the bill does anything to address the so-called doctor fix with regards to Medicare pay outs to doctors?'
+p2234
+aS'That comes up in Congress pretty frequently.'
+p2235
+aS'I was wondering --'
+p2236
+asa(dp2237
+g8
+(lp2238
+S'Fourteen seconds on what that means for people who dont know what that is.'
+p2239
+asg11
+S'JOHN DONVAN'
+p2240
+sg16
+(lp2241
+g2239
+asa(dp2242
+g113
+(dp2243
+I1
+S'[laughter]'
+p2244
+ssg8
+(lp2245
+S'To my knowledge, Im not an expert on it.'
+p2246
+aS'I just hear my father rant and rave about it.The -- I believe it was in the cost bills back in the 90s to try to reform Medicare, they [[laughter]] had a formula to try to pay doctors at some rate pegged to inflation and it doesnt work.Im not an expert on it myself.'
+p2247
+aS'But I know it comes up in Congress quite frequently.'
+p2248
+aS'Itcauses a stir.'
+p2249
+aS'I think it somehow drives pay outs to doctors who see Medicare patients.Down 40 or 50 percent every six months.'
+p2250
+aS'I know it comes up in Congress prettyfrequently.'
+p2251
+aS'I --'
+p2252
+asg11
+S'MALE SPEAKER'
+p2253
+sg13
+(dp2254
+I1
+S'33'
+p2255
+ssg16
+(lp2256
+S'To my knowledge, Im not an expert on it.'
+p2257
+aS'I just hear my father rant and rave about it.'
+p2258
+aS'The -- I believe it was in the cost bills back in the 90s to try to reform Medicare, they had a formula to try to pay doctors at some rate pegged to inflation and it doesnt work.'
+p2259
+aS'Im not an expert on it myself.'
+p2260
+aS'But I know it comes up in Congress quite frequently.'
+p2261
+aS'It causes a stir.'
+p2262
+aS'I think it somehow drives pay outs to doctors who see Medicare patients.'
+p2263
+aS'Down 40 or 50 percent every six months.'
+p2264
+aS'I know it comes up in Congress pretty frequently.'
+p2265
+aS'I --'
+p2266
+asa(dp2267
+g8
 (lp2268
 S'Okay.'
 p2269
-aS"You're hearing a very interesting version of the history of the '90s and healthcare."
+aS'If you dont mind, Im going to pass on the question unless its quite relevant. '
 p2270
-aS'The doctor fix was built into our budgets for the government long before healthcare reform came on the scene.'
+asg11
+S'JOHN DONVAN'
 p2271
-aS'It is something that needs to be fixed separately.'
-p2272
-aS'It would have to be fixed separately if we never had Obamacare.'
+sg16
+(lp2272
+S'Okay.'
 p2273
-aS'It is a separate cost.'
+aS'If you dont mind, Im going to pass on the question unless its quite relevant. '
 p2274
-asa(dp2275
-g113
-(dp2276
-I1
-S'[laughter]'
-p2277
-ssg8
-(lp2278
-S"Who can tell me in 15 seconds what it is, because I don't know."
-p2279
-asg11
-S'JOHN DONVAN'
-p2280
-sg16
-(lp2281
-g2279
-asa(dp2282
-g8
-(lp2283
-S'It is literally this.'
-p2284
-aS'It was a formula for reimbursements for doctors.'
-p2285
-aS"Doctors are veryexpensive.And so they keep pretending they're not going to fulfill the formula."
-p2286
-aS'And then doctorsface a big pay cut.'
-p2287
-aS'And then Congress says, Well, I guess we do have to pay doctors.Doctors are part of healthcare.'
-p2288
-asg11
-S'MALE SPEAKER'
-p2289
-sg16
-(lp2290
-S'It is literally this.'
-p2291
-aS'It was a formula for reimbursements for doctors.'
-p2292
-aS'Doctors are very expensive.'
-p2293
-aS"And so they keep pretending they're not going to fulfill the formula."
-p2294
-aS'And then doctors face a big pay cut.'
-p2295
-aS'And then Congress says, Well, I guess we do have to pay doctors.'
-p2296
-aS'Doctors are part of healthcare.'
-p2297
 asg25
-(dp2298
-S'19:56:23'
-p2299
-I2
-ssa(dp2300
+(dp2275
+S'19:54:21'
+p2276
+I1
+ssa(dp2277
 g8
-(lp2301
-S'They are part of healthcare.Douglas Holtz-Eakin:Part of healthcare reform.'
-p2302
+(lp2278
+S'-- on this broken formula that reimburses doctors under Medicare, part of the BBA thatJonathan lauded which in the end failed miserably.'
+p2279
+aS'The bottom line is its not part of thebill because they left it out.'
+p2280
+aS'Its part of the cost they dont want to acknowledge.'
+p2281
+aS'If youwant to know why this doesnt reduce the deficit, they left out $300 billion worth ofcosts.'
+p2282
+aS'And the CBO doesnt have the option of saying hey, you left that out.'
+p2283
+aS'They havethe obligation to price only what is in there.'
+p2284
 asg11
-S'JONATHAN COHN'
-p2303
+S'DOUGLAS HOLTZ-EAKIN'
+p2285
 sg16
-(lp2304
-S'They are part of healthcare.'
-p2305
-aS'Douglas Holtz-Eakin: Part of healthcare reform.'
-p2306
-asa(dp2307
+(lp2286
+S'-- on this broken formula that reimburses doctors under Medicare, part of the BBA that Jonathan lauded which in the end failed miserably.'
+p2287
+aS'The bottom line is its not part of the bill because they left it out.'
+p2288
+aS'Its part of the cost they dont want to acknowledge.'
+p2289
+aS'If you want to know why this doesnt reduce the deficit, they left out $300 billion worth of costs.'
+p2290
+aS'And the CBO doesnt have the option of saying hey, you left that out.'
+p2291
+aS'They have the obligation to price only what is in there.'
+p2292
+asa(dp2293
 g8
-(lp2308
-S"So your dad is afraid he's going to be paid less, but he isn't --Douglas Holtz-Eakin:Twenty five percent less next year unless they, once again, put the money back in.Another question, please."
-p2309
-aS'From the far side with the gray hair.'
-p2310
+(lp2294
+S'Jonathan Cohn.'
+p2295
 asg11
 S'JOHN DONVAN'
-p2311
+p2296
 sg16
-(lp2312
-S"So your dad is afraid he's going to be paid less, but he isn't -- Douglas Holtz-Eakin: Twenty five percent less next year unless they, once again, put the money back in."
-p2313
-aS'Another question, please.'
-p2314
-aS'From the far side with the gray hair.'
-p2315
-asa(dp2316
+(lp2297
+g2295
+asa(dp2298
 g8
+(lp2299
+S'And they are precluded by law from raising their hand and saying but you left out thedoctors.'
+p2300
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p2301
+sg16
+(lp2302
+S'And they are precluded by law from raising their hand and saying but you left out the doctors.'
+p2303
+asa(dp2304
+g8
+(lp2305
+S'Jonathan Cohn.'
+p2306
+asg11
+S'JOHN DONVAN'
+p2307
+sg16
+(lp2308
+g2306
+asa(dp2309
+g8
+(lp2310
+S'I ran the CBO.'
+p2311
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p2312
+sg16
+(lp2313
+g2311
+asa(dp2314
+g113
+(dp2315
+I3
+S'[laughter]'
+p2316
+ssg8
 (lp2317
-S'I found it interesting that the panel is assuming that healthcare runs on a perfect marketeconomy, which is fundamentally flawed.'
+S'Heres something else.'
 p2318
-aS'I wanted to know about, you keep addressingcosts.'
+aS'You look at the CBO report on the Affordable Care Act andyoull discover something shocking.'
 p2319
-aS'And I think that this debate is mostly about access to care and not really aboutcosts.'
+aS'It doesnt account for the cost of the war inAfghanistan.Now thats because the war in Afghanistan is a separate piece of legislation.'
 p2320
-aS'Do either of you have an answer to utilization and patient and physician-induceddemand, which is really the cost --'
+aS'During the [[laughter]] late 1990s, as part of a much larger balanced budget bill that I recall quite correctlyworking and getting us balanced budgets for a while --'
 p2321
 asg11
-S'MALE SPEAKER'
+S'JONATHAN COHN'
 p2322
 sg13
 (dp2323
-I0
-S'36'
+I6
+S'34'
 p2324
 ssg16
 (lp2325
-S'I found it interesting that the panel is assuming that healthcare runs on a perfect market economy, which is fundamentally flawed.'
+S'Heres something else.'
 p2326
-aS'I wanted to know about, you keep addressing costs.'
+aS'You look at the CBO report on the Affordable Care Act and youll discover something shocking.'
 p2327
-aS'And I think that this debate is mostly about access to care and not really about costs.'
+aS'It doesnt account for the cost of the war in Afghanistan.'
 p2328
-aS'Do either of you have an answer to utilization and patient and physician-induced demand, which is really the cost --'
+aS'Now thats because the war in Afghanistan is a separate piece of legislation.'
 p2329
-asa(dp2330
+aS'During the late 1990s, as part of a much larger balanced budget bill that I recall quite correctly working and getting us balanced budgets for a while --'
+p2330
+asa(dp2331
 g8
-(lp2331
-S'So is the bill designed to get people insured, or is it designed to keep the costs downprimarily?'
-p2332
-aS'Paul Starr.'
+(lp2332
+S'Youve given back all those savings.'
 p2333
-asg11
-S'JOHN DONVAN'
+aS'Youve given them all back.'
 p2334
-sg16
-(lp2335
-S'So is the bill designed to get people insured, or is it designed to keep the costs down primarily?'
+aS'They dont work. '
+p2335
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
 p2336
-aS'Paul Starr.'
-p2337
-asg25
-(dp2338
-S'19:57:23'
+sg16
+(lp2337
+S'Youve given back all those savings.'
+p2338
+aS'Youve given them all back.'
 p2339
-I2
-ssa(dp2340
+aS'They dont work. '
+p2340
+asa(dp2341
 g8
-(lp2341
-S"But nobody's addressed cost, which is utilization."
-p2342
-asg11
-S'MALE SPEAKER'
+(lp2342
+S'Before the tax cut, I remember, I was against it.'
 p2343
-sg16
-(lp2344
-g2342
-asa(dp2345
-g8
-(lp2346
-S"Well, it's both of those things."
-p2347
-aS'But the questioner used a phrase which probably went bya lot of people.'
-p2348
-aS'He talked about physician-induced demand or provider-induced demand.So this is another aspect of how healthcare is different.'
-p2349
-aS'Normally, when you are thecustomer, you make decisions about what to buy.'
-p2350
-aS"But when you're a patient, particularlywhen you're very sick, you're in the hospital, other people are making decisions."
-p2351
-aS"They'represcribing drugs, procedures and so forth."
-p2352
-aS"And if you're really sick, and most of the bigcosts are generated for people who are very ill, it's not -- the demand isn't coming fromyou."
-p2353
-aS"It's coming from the supplier."
-p2354
-aS'This is a very bizarre system.'
-p2355
 asg11
-S'PAUL STARR'
-p2356
+S'JONATHAN COHN'
+p2344
 sg16
-(lp2357
-S"Well, it's both of those things."
+(lp2345
+g2343
+asg25
+(dp2346
+S'19:55:24'
+p2347
+I1
+ssa(dp2348
+g8
+(lp2349
+S'--has nothing to do with tax cuts.'
+p2350
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p2351
+sg16
+(lp2352
+g2350
+asa(dp2353
+g8
+(lp2354
+S'Nothing to do with tax cuts?'
+p2355
+aS'Nothing to do with tax cuts?'
+p2356
+aS'Really.'
+p2357
+asg11
+S'JONATHAN COHN'
 p2358
-aS'But the questioner used a phrase which probably went by a lot of people.'
-p2359
-aS'He talked about physician-induced demand or provider-induced demand.'
+sg16
+(lp2359
+S'Nothing to do with tax cuts?'
 p2360
-aS'So this is another aspect of how healthcare is different.'
+aS'Nothing to do with tax cuts?'
 p2361
-aS'Normally, when you are the customer, you make decisions about what to buy.'
+aS'Really.'
 p2362
-aS"But when you're a patient, particularly when you're very sick, you're in the hospital, other people are making decisions."
-p2363
-aS"They're prescribing drugs, procedures and so forth."
-p2364
-aS"And if you're really sick, and most of the big costs are generated for people who are very ill, it's not -- the demand isn't coming from you."
+asa(dp2363
+g8
+(lp2364
+S'The BBA health provisions have --'
 p2365
-aS"It's coming from the supplier."
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
 p2366
-aS'This is a very bizarre system.'
-p2367
+sg16
+(lp2367
+g2365
 asa(dp2368
 g8
 (lp2369
-S' a very interesting point.'
+S'Wait, wait, wait.'
 p2370
-aS"I want to hear -- and that's one of Paul Starr'sbasic arguments for why this is not like other things that you pay money for."
+aS"You're really saying the Bush tax cuts have nothing to do with thedeficits?"
 p2371
-aS'Can yourespond to that, John -- Douglas Holtz-Eakin.Douglas Holtz-Eakin:Couple responses.'
-p2372
-aS'Number one, there are no perfect markets.And to somehow compare health markets against perfection misses the point.'
-p2373
-aS'Allmarkets are, at some level, imperfect and have anomalies of the same type.'
-p2374
-aS'The solutionto this is to better inform -- hang on.'
-p2375
-aS'Let me finish.'
-p2376
-aS'Let me finish.'
-p2377
-aS'The important thinghere is to have reforms which Republicans include as well as the -- your arguments, tobetter inform patients so they can distinguish between valuable and invaluable treatments.And we have a system riddled with low-value care.'
-p2378
-aS'And all of the reforms Republicanspropose address that issue.'
-p2379
-aS"An important thing to recognize, the reason I'm deeplyopposed to this bill is, it is fundamentally -- there are pages attached to all the issues."
-p2380
-aS'Butit is fundamentally a coverage bill.'
-p2381
-aS'And if you look at half the expansions, they are inMedicaid.'
-p2382
-aS"Sixteen million Americans we've put into Medicaid."
-p2383
-aS"Medicaid's a terriblesystem."
-p2384
-aS'Fifty percent of providers will not see Medicaid patients.'
-p2385
-aS'Medicaid patients aretwice as likely to show up at the ER for regular medical care than are the uninsured.And it is a great joke to give someone an insurance policy called Medicaid and not letthem actually see a physician.John Shadegg, you want to add to that briefly?'
-p2386
-asg11
-S'JOHN DONVAN'
-p2387
-sg13
-(dp2388
-I15
-S'37'
-p2389
-ssg16
-(lp2390
-S' a very interesting point.'
-p2391
-aS"I want to hear -- and that's one of Paul Starr's basic arguments for why this is not like other things that you pay money for."
-p2392
-aS'Can you respond to that, John -- Douglas Holtz-Eakin.'
-p2393
-aS'Douglas Holtz-Eakin: Couple responses.'
-p2394
-aS'Number one, there are no perfect markets.'
-p2395
-aS'And to somehow compare health markets against perfection misses the point.'
-p2396
-aS'All markets are, at some level, imperfect and have anomalies of the same type.'
-p2397
-aS'The solution to this is to better inform -- hang on.'
-p2398
-aS'Let me finish.'
-p2399
-aS'Let me finish.'
-p2400
-aS'The important thing here is to have reforms which Republicans include as well as the -- your arguments, to better inform patients so they can distinguish between valuable and invaluable treatments.'
-p2401
-aS'And we have a system riddled with low-value care.'
-p2402
-aS'And all of the reforms Republicans propose address that issue.'
-p2403
-aS"An important thing to recognize, the reason I'm deeply opposed to this bill is, it is fundamentally -- there are pages attached to all the issues."
-p2404
-aS'But it is fundamentally a coverage bill.'
-p2405
-aS'And if you look at half the expansions, they are in Medicaid.'
-p2406
-aS"Sixteen million Americans we've put into Medicaid."
-p2407
-aS"Medicaid's a terrible system."
-p2408
-aS'Fifty percent of providers will not see Medicaid patients.'
-p2409
-aS'Medicaid patients are twice as likely to show up at the ER for regular medical care than are the uninsured.'
-p2410
-aS'And it is a great joke to give someone an insurance policy called Medicaid and not let them actually see a physician.'
-p2411
-aS'John Shadegg, you want to add to that briefly?'
-p2412
-asg25
-(dp2413
-S'19:58:23'
-p2414
-I5
-sS'19:59:27'
-p2415
-I17
-ssa(dp2416
-g8
-(lp2417
-S'I do.'
-p2418
-asg11
-S'JOHN SHADEGG'
-p2419
-sg16
-(lp2420
-g2418
-asa(dp2421
-g8
-(lp2422
-S'To what your partner said.'
-p2423
-asg11
-S'JOHN DONVAN'
-p2424
-sg16
-(lp2425
-g2423
-asa(dp2426
-g8
-(lp2427
-S"In a New Republic article that came out some time ago, I'm sorry, the New York Times --New York --"
-p2428
-asg11
-S'JOHN SHADEGG'
-p2429
-sg16
-(lp2430
-S"In a New Republic article that came out some time ago, I'm sorry, the New York Times -- New York --"
-p2431
-asa(dp2432
-g8
-(lp2433
-S'One of those.'
-p2434
-asg11
-S'JOHN DONVAN'
-p2435
-sg16
-(lp2436
-g2434
-asa(dp2437
-g8
-(lp2438
-S'-- article.'
-p2439
-aS'New Yorker magazine was the article.'
-p2440
-aS'It documented --'
-p2441
-asg11
-S'JOHN SHADEGG'
-p2442
-sg16
-(lp2443
-S'-- article.'
-p2444
-aS'New Yorker magazine was the article.'
-p2445
-aS'It documented --'
-p2446
-asa(dp2447
-g8
-(lp2448
-S'John, start that again for the editing later on.'
-p2449
-asg11
-S'JOHN DONVAN'
-p2450
-sg16
-(lp2451
-g2449
-asa(dp2452
-g8
-(lp2453
-S"You're taking out our --"
-p2454
 asg11
 S'JONATHAN COHN'
-p2455
+p2372
 sg16
-(lp2456
-g2454
-asa(dp2457
+(lp2373
+S'Wait, wait, wait.'
+p2374
+aS"You're really saying the Bush tax cuts have nothing to do with the deficits?"
+p2375
+asa(dp2376
 g8
-(lp2458
-S'For radio.'
-p2459
+(lp2377
+S'No.'
+p2378
+aS'It has nothing to do with healthcare.'
+p2379
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p2380
+sg16
+(lp2381
+S'No.'
+p2382
+aS'It has nothing to do with healthcare.'
+p2383
+asa(dp2384
+g8
+(lp2385
+S'I agree.'
+p2386
+asg11
+S'JONATHAN COHN'
+p2387
+sg16
+(lp2388
+g2386
+asa(dp2389
+g8
+(lp2390
+S'So this is --'
+p2391
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p2392
+sg16
+(lp2393
+g2391
+asa(dp2394
+g8
+(lp2395
+S"You're making my point."
+p2396
+asg11
+S'JONATHAN COHN'
+p2397
+sg16
+(lp2398
+g2396
+asa(dp2399
+g8
+(lp2400
+S'This is a debate about healthcare.'
+p2401
+aS"And the fact of the matter is the balanced budgetagreement healthcare provisions passed in the late '90s failed."
+p2402
+aS'They did not control costs.And in the end, the Congress had to give the money back, as they will have to give it tothe physicians under Medicare.'
+p2403
+aS'That --'
+p2404
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p2405
+sg13
+(dp2406
+I2
+S'35'
+p2407
+ssg16
+(lp2408
+S'This is a debate about healthcare.'
+p2409
+aS"And the fact of the matter is the balanced budget agreement healthcare provisions passed in the late '90s failed."
+p2410
+aS'They did not control costs.'
+p2411
+aS'And in the end, the Congress had to give the money back, as they will have to give it to the physicians under Medicare.'
+p2412
+aS'That --'
+p2413
+asa(dp2414
+g8
+(lp2415
+S'Jonathan, 20 seconds.'
+p2416
 asg11
 S'JOHN DONVAN'
-p2460
+p2417
 sg16
-(lp2461
-g2459
-asa(dp2462
+(lp2418
+g2416
+asa(dp2419
 g8
-(lp2463
-S'In a recent authoritative article which appeared in the New Yorker, they studied wherehealthcare costs are the highest.'
-p2464
-aS'And interestingly, they found that the highest place forhealthcare costs in America is a little town called McAllen, Texas.'
-p2465
-aS'And they went toMcAllen, Texas, and tried to find out why are costs so high.'
+(lp2420
+S'-- did not work.'
+p2421
+asg11
+S'MALE SPEAKER'
+p2422
+sg16
+(lp2423
+g2421
+asa(dp2424
+g8
+(lp2425
+S'Okay.'
+p2426
+aS"You're hearing a very interesting version of the history of the '90s and healthcare.The doctor fix was built into our budgets for the government long before healthcarereform came on the scene."
+p2427
+aS'It is something that needs to be fixed separately.'
+p2428
+aS'It wouldhave to be fixed separately if we never had Obamacare.'
+p2429
+aS'It is a separate cost.'
+p2430
+asg11
+S'JONATHAN COHN'
+p2431
+sg16
+(lp2432
+S'Okay.'
+p2433
+aS"You're hearing a very interesting version of the history of the '90s and healthcare."
+p2434
+aS'The doctor fix was built into our budgets for the government long before healthcare reform came on the scene.'
+p2435
+aS'It is something that needs to be fixed separately.'
+p2436
+aS'It would have to be fixed separately if we never had Obamacare.'
+p2437
+aS'It is a separate cost.'
+p2438
+asa(dp2439
+g113
+(dp2440
+I1
+S'[laughter]'
+p2441
+ssg8
+(lp2442
+S"Who can tell me in 15 seconds what it is, because I don't know."
+p2443
+asg11
+S'JOHN DONVAN'
+p2444
+sg16
+(lp2445
+g2443
+asa(dp2446
+g8
+(lp2447
+S'It is literally this.'
+p2448
+aS'It was a formula for reimbursements for doctors.'
+p2449
+aS"Doctors are veryexpensive.And so they keep pretending they're not going to fulfill the formula."
+p2450
+aS'And then doctorsface a big pay cut.'
+p2451
+aS'And then Congress says, Well, I guess we do have to pay doctors.Doctors are part of healthcare.'
+p2452
+asg11
+S'MALE SPEAKER'
+p2453
+sg16
+(lp2454
+S'It is literally this.'
+p2455
+aS'It was a formula for reimbursements for doctors.'
+p2456
+aS'Doctors are very expensive.'
+p2457
+aS"And so they keep pretending they're not going to fulfill the formula."
+p2458
+aS'And then doctors face a big pay cut.'
+p2459
+aS'And then Congress says, Well, I guess we do have to pay doctors.'
+p2460
+aS'Doctors are part of healthcare.'
+p2461
+asg25
+(dp2462
+S'19:56:23'
+p2463
+I2
+ssa(dp2464
+g8
+(lp2465
+S'They are part of healthcare.'
 p2466
-aS'And what they found was acouple of different factors.Number one, they found that doctors in fact do prescribe lots of procedures that areunnecessary.'
+asg11
+S'JONATHAN COHN'
 p2467
-aS'And they do so in McAllen, Texas.'
-p2468
-aS'They noted that, for example, greathealthcare centers do not prescribe that many procedures.'
-p2469
-aS'And so they figured out thereneeded to be a way.'
-p2470
-aS'They actually began interviewing doctors.'
+sg16
+(lp2468
+g2466
+asa(dp2469
+g8
+(lp2470
+S'Part of healthcare reform.'
 p2471
-aS'And they said, you knowwhat?'
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
 p2472
-aS'In the current system, we are not incentivized to control costs.'
-p2473
-aS'Why are they notincentivized to control costs?'
-p2474
-aS"Because nobody's watching the store."
-p2475
-aS'The reality is --'
+sg16
+(lp2473
+g2471
+asa(dp2474
+g8
+(lp2475
+S"So your dad is afraid he's going to be paid less, but he isn't --"
 p2476
 asg11
-S'JOHN SHADEGG'
+S'JOHN DONVAN'
 p2477
-sg13
-(dp2478
-I3
-S'38'
-p2479
-ssg16
-(lp2480
-S'In a recent authoritative article which appeared in the New Yorker, they studied where healthcare costs are the highest.'
-p2481
-aS'And interestingly, they found that the highest place for healthcare costs in America is a little town called McAllen, Texas.'
-p2482
-aS'And they went to McAllen, Texas, and tried to find out why are costs so high.'
-p2483
-aS'And what they found was a couple of different factors.'
-p2484
-aS'Number one, they found that doctors in fact do prescribe lots of procedures that are unnecessary.'
-p2485
-aS'And they do so in McAllen, Texas.'
-p2486
-aS'They noted that, for example, great healthcare centers do not prescribe that many procedures.'
-p2487
-aS'And so they figured out there needed to be a way.'
-p2488
-aS'They actually began interviewing doctors.'
-p2489
-aS'And they said, you know what?'
-p2490
-aS'In the current system, we are not incentivized to control costs.'
-p2491
-aS'Why are they not incentivized to control costs?'
-p2492
-aS"Because nobody's watching the store."
-p2493
-aS'The reality is --'
-p2494
-asg25
-(dp2495
-S'20:00:22'
-p2496
-I5
-ssa(dp2497
+sg16
+(lp2478
+g2476
+asa(dp2479
 g8
-(lp2498
-S'But youre agreeing with that sort of monitoring.'
-p2499
+(lp2480
+S'Twenty five percent less next year unless they, once again, put the money back in.'
+p2481
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p2482
+sg16
+(lp2483
+g2481
+asa(dp2484
+g8
+(lp2485
+S'Another question, please.'
+p2486
+aS'From the far side with the gray hair.'
+p2487
 asg11
 S'JOHN DONVAN'
-p2500
+p2488
 sg16
-(lp2501
-g2499
-asa(dp2502
+(lp2489
+S'Another question, please.'
+p2490
+aS'From the far side with the gray hair.'
+p2491
+asa(dp2492
 g8
-(lp2503
-S"As Paul said, if the consumer isn't paying the bill, then nobody's watching."
-p2504
+(lp2493
+S'I found it interesting that the panel is assuming that healthcare runs on a perfect marketeconomy, which is fundamentally flawed.'
+p2494
+aS'I wanted to know about, you keep addressingcosts.'
+p2495
+aS'And I think that this debate is mostly about access to care and not really aboutcosts.'
+p2496
+aS'Do either of you have an answer to utilization and patient and physician-induceddemand, which is really the cost --'
+p2497
 asg11
-S'JOHN SHADEGG'
+S'MALE SPEAKER'
+p2498
+sg13
+(dp2499
+I0
+S'36'
+p2500
+ssg16
+(lp2501
+S'I found it interesting that the panel is assuming that healthcare runs on a perfect market economy, which is fundamentally flawed.'
+p2502
+aS'I wanted to know about, you keep addressing costs.'
+p2503
+aS'And I think that this debate is mostly about access to care and not really about costs.'
+p2504
+aS'Do either of you have an answer to utilization and patient and physician-induced demand, which is really the cost --'
 p2505
-sg16
-(lp2506
-g2504
-asa(dp2507
+asa(dp2506
 g8
-(lp2508
-S'Yeah, yeah.'
+(lp2507
+S'So is the bill designed to get people insured, or is it designed to keep the costs downprimarily?'
+p2508
+aS'Paul Starr.'
 p2509
 asg11
-S'PAUL STARR'
+S'JOHN DONVAN'
 p2510
 sg16
 (lp2511
-g2509
-asa(dp2512
-g8
-(lp2513
-S"And in this circumstance, yeah, if you're sick, you're not making the decision."
-p2514
-aS'But rightnow, your family could be making that decision.'
+S'So is the bill designed to get people insured, or is it designed to keep the costs down primarily?'
+p2512
+aS'Paul Starr.'
+p2513
+asg25
+(dp2514
+S'19:57:23'
 p2515
-aS"But right now under the current systemand under Obamacare, you will not be making that cost decision because you're cut out ofthe process."
-p2516
+I2
+ssa(dp2516
+g8
+(lp2517
+S"But nobody's addressed cost, which is utilization."
+p2518
 asg11
-S'JOHN SHADEGG'
-p2517
-sg16
-(lp2518
-S"And in this circumstance, yeah, if you're sick, you're not making the decision."
+S'MALE SPEAKER'
 p2519
-aS'But right now, your family could be making that decision.'
-p2520
-aS"But right now under the current system and under Obamacare, you will not be making that cost decision because you're cut out of the process."
-p2521
-asa(dp2522
+sg16
+(lp2520
+g2518
+asa(dp2521
 g8
-(lp2523
-S"So I'm having this very disoriented feeling listening to a lot of this because you're stealingsome of my talking points here."
+(lp2522
+S"Well, it's both of those things."
+p2523
+aS'But the questioner used a phrase which probably went bya lot of people.'
 p2524
-aS'Maybe --'
+aS'He talked about physician-induced demand or provider-induced demand.So this is another aspect of how healthcare is different.'
 p2525
-asg11
-S'JONATHAN COHN'
+aS'Normally, when you are thecustomer, you make decisions about what to buy.'
 p2526
-sg16
-(lp2527
-S"So I'm having this very disoriented feeling listening to a lot of this because you're stealing some of my talking points here."
+aS"But when you're a patient, particularlywhen you're very sick, you're in the hospital, other people are making decisions."
+p2527
+aS"They'represcribing drugs, procedures and so forth."
 p2528
-aS'Maybe --'
+aS"And if you're really sick, and most of the bigcosts are generated for people who are very ill, it's not -- the demand isn't coming fromyou."
 p2529
-asa(dp2530
-g8
-(lp2531
-S'I love to do that.'
+aS"It's coming from the supplier."
+p2530
+aS'This is a very bizarre system.'
+p2531
+asg11
+S'PAUL STARR'
 p2532
-asg11
-S'JOHN SHADEGG'
-p2533
 sg16
-(lp2534
-g2532
-asa(dp2535
-g8
-(lp2536
-S'But, no, I agree.'
+(lp2533
+S"Well, it's both of those things."
+p2534
+aS'But the questioner used a phrase which probably went by a lot of people.'
+p2535
+aS'He talked about physician-induced demand or provider-induced demand.'
+p2536
+aS'So this is another aspect of how healthcare is different.'
 p2537
-aS'That article was very influential.'
+aS'Normally, when you are the customer, you make decisions about what to buy.'
 p2538
-aS'Actually President Obama was knownto have read it.'
+aS"But when you're a patient, particularly when you're very sick, you're in the hospital, other people are making decisions."
 p2539
-asg11
-S'JONATHAN COHN'
+aS"They're prescribing drugs, procedures and so forth."
 p2540
-sg16
-(lp2541
-S'But, no, I agree.'
+aS"And if you're really sick, and most of the big costs are generated for people who are very ill, it's not -- the demand isn't coming from you."
+p2541
+aS"It's coming from the supplier."
 p2542
-aS'That article was very influential.'
+aS'This is a very bizarre system.'
 p2543
-aS'Actually President Obama was known to have read it.'
-p2544
-asa(dp2545
+asa(dp2544
 g8
-(lp2546
-S'He did.'
+(lp2545
+S' a very interesting point.'
+p2546
+aS"I want to hear -- and that's one of Paul Starr'sbasic arguments for why this is not like other things that you pay money for."
 p2547
+aS'Can yourespond to that, John -- Douglas Holtz-Eakin.'
+p2548
+asg11
+S'JOHN DONVAN'
+p2549
+sg16
+(lp2550
+S' a very interesting point.'
+p2551
+aS"I want to hear -- and that's one of Paul Starr's basic arguments for why this is not like other things that you pay money for."
+p2552
+aS'Can you respond to that, John -- Douglas Holtz-Eakin.'
+p2553
+asa(dp2554
+g8
+(lp2555
+S'Couple responses.'
+p2556
+aS'Number one, there are no perfect markets.And to somehow compare health markets against perfection misses the point.'
+p2557
+aS'Allmarkets are, at some level, imperfect and have anomalies of the same type.'
+p2558
+aS'The solutionto this is to better inform -- hang on.'
+p2559
+aS'Let me finish.'
+p2560
+aS'Let me finish.'
+p2561
+aS'The important thinghere is to have reforms which Republicans include as well as the -- your arguments, tobetter inform patients so they can distinguish between valuable and invaluable treatments.And we have a system riddled with low-value care.'
+p2562
+aS'And all of the reforms Republicanspropose address that issue.'
+p2563
+aS"An important thing to recognize, the reason I'm deeplyopposed to this bill is, it is fundamentally -- there are pages attached to all the issues."
+p2564
+aS'Butit is fundamentally a coverage bill.'
+p2565
+aS'And if you look at half the expansions, they are inMedicaid.'
+p2566
+aS"Sixteen million Americans we've put into Medicaid."
+p2567
+aS"Medicaid's a terriblesystem."
+p2568
+aS'Fifty percent of providers will not see Medicaid patients.'
+p2569
+aS'Medicaid patients aretwice as likely to show up at the ER for regular medical care than are the uninsured.And it is a great joke to give someone an insurance policy called Medicaid and not letthem actually see a physician.'
+p2570
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p2571
+sg13
+(dp2572
+I11
+S'37'
+p2573
+ssg16
+(lp2574
+S'Couple responses.'
+p2575
+aS'Number one, there are no perfect markets.'
+p2576
+aS'And to somehow compare health markets against perfection misses the point.'
+p2577
+aS'All markets are, at some level, imperfect and have anomalies of the same type.'
+p2578
+aS'The solution to this is to better inform -- hang on.'
+p2579
+aS'Let me finish.'
+p2580
+aS'Let me finish.'
+p2581
+aS'The important thing here is to have reforms which Republicans include as well as the -- your arguments, to better inform patients so they can distinguish between valuable and invaluable treatments.'
+p2582
+aS'And we have a system riddled with low-value care.'
+p2583
+aS'And all of the reforms Republicans propose address that issue.'
+p2584
+aS"An important thing to recognize, the reason I'm deeply opposed to this bill is, it is fundamentally -- there are pages attached to all the issues."
+p2585
+aS'But it is fundamentally a coverage bill.'
+p2586
+aS'And if you look at half the expansions, they are in Medicaid.'
+p2587
+aS"Sixteen million Americans we've put into Medicaid."
+p2588
+aS"Medicaid's a terrible system."
+p2589
+aS'Fifty percent of providers will not see Medicaid patients.'
+p2590
+aS'Medicaid patients are twice as likely to show up at the ER for regular medical care than are the uninsured.'
+p2591
+aS'And it is a great joke to give someone an insurance policy called Medicaid and not let them actually see a physician.'
+p2592
+asg25
+(dp2593
+S'19:58:23'
+p2594
+I1
+sS'19:59:27'
+p2595
+I13
+ssa(dp2596
+g8
+(lp2597
+S'John Shadegg, you want to add to that briefly?'
+p2598
+asg11
+S'JOHN DONVAN'
+p2599
+sg16
+(lp2600
+g2598
+asa(dp2601
+g8
+(lp2602
+S'I do.'
+p2603
 asg11
 S'JOHN SHADEGG'
-p2548
+p2604
 sg16
-(lp2549
-g2547
-asa(dp2550
+(lp2605
+g2603
+asa(dp2606
 g8
-(lp2551
-S"He handed it around to his staff.And I think most people who study the healthcare system agree that, you know, one ofthe weird things about our healthcare system is you have these bizarre regional variations.So you go to some parts of the country, and they're doing all kinds of extra procedures,and other parts of the country, they're not."
-p2552
-aS'And why is that?'
-p2553
-aS'Well, the people who wrotethis bill, they all read that article.'
-p2554
-aS'They all know this.'
-p2555
-aS'And the article actually built onyears and years of studies showing that and its very specifically designed to help addressthat problem.'
-p2556
-aS"And there're all kinds of ways it does."
-p2557
-aS'I mean, it would be -- I would loveto be able to sit here and say, here is the silver bullet that will change it.'
-p2558
-aS"Because that'swhat he thinks."
-p2559
-aS'Oh, you know, if we just give everyone choice, you know, if we giveeveryone the consumer power it will somehow sort this all out.'
-p2560
-aS'Well, good luck withthat.'
-p2561
-aS"I mean, I don't know about you."
-p2562
-aS'But the last time my kid was sick, it took me threehours on WebMD to figure out even what the symptoms were. '
-p2563
+(lp2607
+S'To what your partner said.'
+p2608
+asg11
+S'JOHN DONVAN'
+p2609
+sg16
+(lp2610
+g2608
+asa(dp2611
+g8
+(lp2612
+S"In a New Republic article that came out some time ago, I'm sorry, the New York Times --New York --"
+p2613
+asg11
+S'JOHN SHADEGG'
+p2614
+sg16
+(lp2615
+S"In a New Republic article that came out some time ago, I'm sorry, the New York Times -- New York --"
+p2616
+asa(dp2617
+g8
+(lp2618
+S'One of those.'
+p2619
+asg11
+S'JOHN DONVAN'
+p2620
+sg16
+(lp2621
+g2619
+asa(dp2622
+g8
+(lp2623
+S'-- article.'
+p2624
+aS'New Yorker magazine was the article.'
+p2625
+aS'It documented --'
+p2626
+asg11
+S'JOHN SHADEGG'
+p2627
+sg16
+(lp2628
+S'-- article.'
+p2629
+aS'New Yorker magazine was the article.'
+p2630
+aS'It documented --'
+p2631
+asa(dp2632
+g8
+(lp2633
+S'John, start that again for the editing later on.'
+p2634
+asg11
+S'JOHN DONVAN'
+p2635
+sg16
+(lp2636
+g2634
+asa(dp2637
+g8
+(lp2638
+S"You're taking out our --"
+p2639
 asg11
 S'JONATHAN COHN'
-p2564
-sg13
-(dp2565
-I1
-S'39'
-p2566
-ssg16
-(lp2567
-S'He handed it around to his staff.'
-p2568
-aS'And I think most people who study the healthcare system agree that, you know, one of the weird things about our healthcare system is you have these bizarre regional variations.'
-p2569
-aS"So you go to some parts of the country, and they're doing all kinds of extra procedures, and other parts of the country, they're not."
-p2570
-aS'And why is that?'
-p2571
-aS'Well, the people who wrote this bill, they all read that article.'
-p2572
-aS'They all know this.'
-p2573
-aS'And the article actually built on years and years of studies showing that and its very specifically designed to help address that problem.'
-p2574
-aS"And there're all kinds of ways it does."
-p2575
-aS'I mean, it would be -- I would love to be able to sit here and say, here is the silver bullet that will change it.'
-p2576
-aS"Because that's what he thinks."
-p2577
-aS'Oh, you know, if we just give everyone choice, you know, if we give everyone the consumer power it will somehow sort this all out.'
-p2578
-aS'Well, good luck with that.'
-p2579
-aS"I mean, I don't know about you."
-p2580
-aS'But the last time my kid was sick, it took me three hours on WebMD to figure out even what the symptoms were. '
-p2581
-asg25
-(dp2582
-S'20:01:27'
-p2583
-I1
-ssa(dp2584
+p2640
+sg16
+(lp2641
+g2639
+asa(dp2642
 g8
-(lp2585
-S"Did you -- do you just not like what you're hearing, or did you have a question to follow?"
-p2586
+(lp2643
+S'For radio.'
+p2644
 asg11
 S'JOHN DONVAN'
-p2587
-sg16
-(lp2588
-g2586
-asa(dp2589
-g8
-(lp2590
-S' 40 percent of all healthcare costs, so --'
-p2591
-asg11
-S'MALE SPEAKER'
-p2592
-sg16
-(lp2593
-g2591
-asa(dp2594
-g8
-(lp2595
-S'Okay.'
-p2596
-aS"I'm going to pass on to another question."
-p2597
-aS"This gentleman right in the center.You've been very patient."
-p2598
-aS'Here.'
-p2599
-asg11
-S'JOHN DONVAN'
-p2600
-sg16
-(lp2601
-S'Okay.'
-p2602
-aS"I'm going to pass on to another question."
-p2603
-aS'This gentleman right in the center.'
-p2604
-aS"You've been very patient."
-p2605
-aS'Here.'
-p2606
-asg25
-(dp2607
-S'20:02:22'
-p2608
-I2
-ssa(dp2609
-g8
-(lp2610
-S"I'd sort of like to get to the heart of the cost things because I think there's a little bit ofdenial going on."
-p2611
-aS'An early mentor said to me if the financial analysis defies commonsense, go with common sense.'
-p2612
-aS'So now we get 35 million new people coming intoMedicaid.'
-p2613
-aS"We've got baby boomers retiring in droves going into the Medicare program.And we've got all that intercepting with all advancements in care and treatments,procedures and drugs which extend life and make life more livable."
-p2614
-aS'And a bigunderpinning, a big way that the Obama bill is going to get this under control is byslowing the cost of Medicare and Medicaid.'
-p2615
-aS'I believe the number is about --'
-p2616
-asg11
-S'MALE SPEAKER'
-p2617
-sg16
-(lp2618
-S"I'd sort of like to get to the heart of the cost things because I think there's a little bit of denial going on."
-p2619
-aS'An early mentor said to me if the financial analysis defies common sense, go with common sense.'
-p2620
-aS'So now we get 35 million new people coming into Medicaid.'
-p2621
-aS"We've got baby boomers retiring in droves going into the Medicare program."
-p2622
-aS"And we've got all that intercepting with all advancements in care and treatments, procedures and drugs which extend life and make life more livable."
-p2623
-aS'And a big underpinning, a big way that the Obama bill is going to get this under control is by slowing the cost of Medicare and Medicaid.'
-p2624
-aS'I believe the number is about --'
-p2625
-asa(dp2626
-g8
-(lp2627
-S'So can you focus to a question.'
-p2628
-asg11
-S'JOHN DONVAN'
-p2629
-sg16
-(lp2630
-g2628
-asa(dp2631
-g8
-(lp2632
-S'Pardon me?'
-p2633
-asg11
-S'MALE SPEAKER'
-p2634
-sg16
-(lp2635
-g2633
-asa(dp2636
-g8
-(lp2637
-S'Can you focus to a question, having studied your premise.'
-p2638
-asg11
-S'JOHN DONVAN'
-p2639
-sg13
-(dp2640
-I1
-S'40'
-p2641
-ssg16
-(lp2642
-g2638
-asa(dp2643
-g8
-(lp2644
-S'Well, yeah, yeah, yeah.'
 p2645
-aS"Here's what I think is going to happen."
-p2646
-aS"I want you to tell me it'snot."
-p2647
-asg11
-S'MALE SPEAKER'
-p2648
 sg16
-(lp2649
-S'Well, yeah, yeah, yeah.'
+(lp2646
+g2644
+asa(dp2647
+g8
+(lp2648
+S'In a recent authoritative article which appeared in the New Yorker, they studied wherehealthcare costs are the highest.'
+p2649
+aS'And interestingly, they found that the highest place forhealthcare costs in America is a little town called McAllen, Texas.'
 p2650
-aS"Here's what I think is going to happen."
+aS'And they went toMcAllen, Texas, and tried to find out why are costs so high.'
 p2651
-aS"I want you to tell me it's not."
+aS'And what they found was acouple of different factors.Number one, they found that doctors in fact do prescribe lots of procedures that areunnecessary.'
 p2652
-asa(dp2653
-g8
-(lp2654
-S'Yeah.'
+aS'And they do so in McAllen, Texas.'
+p2653
+aS'They noted that, for example, greathealthcare centers do not prescribe that many procedures.'
+p2654
+aS'And so they figured out thereneeded to be a way.'
 p2655
-asg11
-S'JOHN DONVAN'
+aS'They actually began interviewing doctors.'
 p2656
-sg16
-(lp2657
-g2655
-asa(dp2658
-g8
-(lp2659
-S"That will result -- there's a videotape of every president since Richard Nixon sayingthey're going to solve this problem by getting waste and fraud out of the system.I think it's going to reduce reimbursements."
+aS'And they said, you knowwhat?'
+p2657
+aS'In the current system, we are not incentivized to control costs.'
+p2658
+aS'Why are they notincentivized to control costs?'
+p2659
+aS"Because nobody's watching the store."
 p2660
-aS"And I think that's going to drive more andmore of the better docs out of the system."
+aS'The reality is --'
 p2661
-aS"It's already happening."
+asg11
+S'JOHN SHADEGG'
 p2662
-aS'Where I live inSarasota, Florida --'
-p2663
-asg11
-S'MALE SPEAKER'
+sg13
+(dp2663
+I3
+S'38'
 p2664
-sg16
+ssg16
 (lp2665
-S"That will result -- there's a videotape of every president since Richard Nixon saying they're going to solve this problem by getting waste and fraud out of the system."
+S'In a recent authoritative article which appeared in the New Yorker, they studied where healthcare costs are the highest.'
 p2666
-aS"I think it's going to reduce reimbursements."
+aS'And interestingly, they found that the highest place for healthcare costs in America is a little town called McAllen, Texas.'
 p2667
-aS"And I think that's going to drive more and more of the better docs out of the system."
+aS'And they went to McAllen, Texas, and tried to find out why are costs so high.'
 p2668
-aS"It's already happening."
+aS'And what they found was a couple of different factors.'
 p2669
-aS'Where I live in Sarasota, Florida --'
+aS'Number one, they found that doctors in fact do prescribe lots of procedures that are unnecessary.'
 p2670
-asg25
-(dp2671
-S'20:03:25'
+aS'And they do so in McAllen, Texas.'
+p2671
+aS'They noted that, for example, great healthcare centers do not prescribe that many procedures.'
 p2672
-I2
-ssa(dp2673
-g8
-(lp2674
-S'I need a question, please.'
+aS'And so they figured out there needed to be a way.'
+p2673
+aS'They actually began interviewing doctors.'
+p2674
+aS'And they said, you know what?'
 p2675
-asg11
-S'JOHN DONVAN'
+aS'In the current system, we are not incentivized to control costs.'
 p2676
-sg16
-(lp2677
-g2675
-asa(dp2678
-g8
-(lp2679
-S"Tell me why that's not going to happen and why it's not going to hurt the people at thebottom of our economic scale."
-p2680
-asg11
-S'MALE SPEAKER'
+aS'Why are they not incentivized to control costs?'
+p2677
+aS"Because nobody's watching the store."
+p2678
+aS'The reality is --'
+p2679
+asg25
+(dp2680
+S'20:00:22'
 p2681
-sg16
-(lp2682
-S"Tell me why that's not going to happen and why it's not going to hurt the people at the bottom of our economic scale."
-p2683
-asa(dp2684
+I5
+ssa(dp2682
 g8
-(lp2685
-S'Thank you.'
-p2686
-aS'Jonathan Cohn, who is against repeal.'
-p2687
+(lp2683
+S'But youre agreeing with that sort of monitoring.'
+p2684
 asg11
 S'JOHN DONVAN'
-p2688
+p2685
 sg16
-(lp2689
-S'Thank you.'
+(lp2686
+g2684
+asa(dp2687
+g8
+(lp2688
+S"As Paul said, if the consumer isn't paying the bill, then nobody's watching."
+p2689
+asg11
+S'JOHN SHADEGG'
 p2690
-aS'Jonathan Cohn, who is against repeal.'
-p2691
+sg16
+(lp2691
+g2689
 asa(dp2692
 g8
 (lp2693
-S"Very quickly on this question about physician -- and what you're -- if I understand whatyou're saying, your last question there is about if we're going to spend less on Medicare,if Medicare is going to pay less, then why won't doctors just leave the system?"
+S'Yeah, yeah.'
 p2694
-aS"Well,we've done reductions in Medicare like this before."
+asg11
+S'PAUL STARR'
 p2695
-aS"We've done reductions larger thanthe ones we've done before."
-p2696
-aS'And by the way, during the McCain campaign, Mr. Holtz-Eakin, I remember, very vividly, saying that they were going to pay for their healthcareplan by enacting Medicare cuts that were even larger.'
-p2697
-aS"Now, I don't think he was trying todeprive Medicare patients of access."
-p2698
-aS"But the fact is we've had these cuts before."
+sg16
+(lp2696
+g2694
+asa(dp2697
+g8
+(lp2698
+S"And in this circumstance, yeah, if you're sick, you're not making the decision."
 p2699
-aS'Andevery time it happens, you hear a lot of predictions, oh, my God, people are going to stopseeing Medicare patients.And I understand that.'
+aS'But rightnow, your family could be making that decision.'
 p2700
-aS'Look, my father is a surgeon.'
+aS"But right now under the current systemand under Obamacare, you will not be making that cost decision because you're cut out ofthe process."
 p2701
-aS"He's in south Florida where you seepeople walking around with little dollar signs because there are cataract surgeries and,you know, that's what it's like."
+asg11
+S'JOHN SHADEGG'
 p2702
-aS'And I understand that.'
-p2703
-aS"The fact is, every single time thatwe have done this, there have been predictions that doctors are going to flee the system.And you'll always get the anecdotal, of course, this doctor is leaving that -- but theMedicare payment advisory committee looks at this."
+sg16
+(lp2703
+S"And in this circumstance, yeah, if you're sick, you're not making the decision."
 p2704
-aS"There's a government, independent,not partisan authority that looks at these statistics to monitor this, because they want tomake sure that's not happening."
+aS'But right now, your family could be making that decision.'
 p2705
-aS"There's a group called the Center for the Study ofHealthcare System Change, which is the longest acronym ever for a think tank."
+aS"But right now under the current system and under Obamacare, you will not be making that cost decision because you're cut out of the process."
 p2706
-aS"Butbelieve me, they're very reliable, totally nonpartisan."
-p2707
-aS'Everyone trusts -- And what they all found is it never happens.'
-p2708
-aS'The doctors have not left the system.'
+asa(dp2707
+g8
+(lp2708
+S"So I'm having this very disoriented feeling listening to a lot of this because you're stealingsome of my talking points here."
 p2709
+aS'Maybe --'
+p2710
 asg11
 S'JONATHAN COHN'
-p2710
+p2711
+sg16
+(lp2712
+S"So I'm having this very disoriented feeling listening to a lot of this because you're stealing some of my talking points here."
+p2713
+aS'Maybe --'
+p2714
+asa(dp2715
+g8
+(lp2716
+S'I love to do that.'
+p2717
+asg11
+S'JOHN SHADEGG'
+p2718
+sg16
+(lp2719
+g2717
+asa(dp2720
+g8
+(lp2721
+S'But, no, I agree.'
+p2722
+aS'That article was very influential.'
+p2723
+aS'Actually President Obama was knownto have read it.'
+p2724
+asg11
+S'JONATHAN COHN'
+p2725
+sg16
+(lp2726
+S'But, no, I agree.'
+p2727
+aS'That article was very influential.'
+p2728
+aS'Actually President Obama was known to have read it.'
+p2729
+asa(dp2730
+g8
+(lp2731
+S'He did.'
+p2732
+asg11
+S'JOHN SHADEGG'
+p2733
+sg16
+(lp2734
+g2732
+asa(dp2735
+g8
+(lp2736
+S"He handed it around to his staff.And I think most people who study the healthcare system agree that, you know, one ofthe weird things about our healthcare system is you have these bizarre regional variations.So you go to some parts of the country, and they're doing all kinds of extra procedures,and other parts of the country, they're not."
+p2737
+aS'And why is that?'
+p2738
+aS'Well, the people who wrotethis bill, they all read that article.'
+p2739
+aS'They all know this.'
+p2740
+aS'And the article actually built onyears and years of studies showing that and its very specifically designed to help addressthat problem.'
+p2741
+aS"And there're all kinds of ways it does."
+p2742
+aS'I mean, it would be -- I would loveto be able to sit here and say, here is the silver bullet that will change it.'
+p2743
+aS"Because that'swhat he thinks."
+p2744
+aS'Oh, you know, if we just give everyone choice, you know, if we giveeveryone the consumer power it will somehow sort this all out.'
+p2745
+aS'Well, good luck withthat.'
+p2746
+aS"I mean, I don't know about you."
+p2747
+aS'But the last time my kid was sick, it took me threehours on WebMD to figure out even what the symptoms were. '
+p2748
+asg11
+S'JONATHAN COHN'
+p2749
 sg13
-(dp2711
+(dp2750
+I1
+S'39'
+p2751
+ssg16
+(lp2752
+S'He handed it around to his staff.'
+p2753
+aS'And I think most people who study the healthcare system agree that, you know, one of the weird things about our healthcare system is you have these bizarre regional variations.'
+p2754
+aS"So you go to some parts of the country, and they're doing all kinds of extra procedures, and other parts of the country, they're not."
+p2755
+aS'And why is that?'
+p2756
+aS'Well, the people who wrote this bill, they all read that article.'
+p2757
+aS'They all know this.'
+p2758
+aS'And the article actually built on years and years of studies showing that and its very specifically designed to help address that problem.'
+p2759
+aS"And there're all kinds of ways it does."
+p2760
+aS'I mean, it would be -- I would love to be able to sit here and say, here is the silver bullet that will change it.'
+p2761
+aS"Because that's what he thinks."
+p2762
+aS'Oh, you know, if we just give everyone choice, you know, if we give everyone the consumer power it will somehow sort this all out.'
+p2763
+aS'Well, good luck with that.'
+p2764
+aS"I mean, I don't know about you."
+p2765
+aS'But the last time my kid was sick, it took me three hours on WebMD to figure out even what the symptoms were. '
+p2766
+asg25
+(dp2767
+S'20:01:27'
+p2768
+I1
+ssa(dp2769
+g8
+(lp2770
+S"Did you -- do you just not like what you're hearing, or did you have a question to follow?"
+p2771
+asg11
+S'JOHN DONVAN'
+p2772
+sg16
+(lp2773
+g2771
+asa(dp2774
+g8
+(lp2775
+S' 40 percent of all healthcare costs, so --'
+p2776
+asg11
+S'MALE SPEAKER'
+p2777
+sg16
+(lp2778
+g2776
+asa(dp2779
+g8
+(lp2780
+S'Okay.'
+p2781
+aS"I'm going to pass on to another question."
+p2782
+aS"This gentleman right in the center.You've been very patient."
+p2783
+aS'Here.'
+p2784
+asg11
+S'JOHN DONVAN'
+p2785
+sg16
+(lp2786
+S'Okay.'
+p2787
+aS"I'm going to pass on to another question."
+p2788
+aS'This gentleman right in the center.'
+p2789
+aS"You've been very patient."
+p2790
+aS'Here.'
+p2791
+asg25
+(dp2792
+S'20:02:22'
+p2793
+I2
+ssa(dp2794
+g8
+(lp2795
+S"I'd sort of like to get to the heart of the cost things because I think there's a little bit ofdenial going on."
+p2796
+aS'An early mentor said to me if the financial analysis defies commonsense, go with common sense.'
+p2797
+aS'So now we get 35 million new people coming intoMedicaid.'
+p2798
+aS"We've got baby boomers retiring in droves going into the Medicare program.And we've got all that intercepting with all advancements in care and treatments,procedures and drugs which extend life and make life more livable."
+p2799
+aS'And a bigunderpinning, a big way that the Obama bill is going to get this under control is byslowing the cost of Medicare and Medicaid.'
+p2800
+aS'I believe the number is about --'
+p2801
+asg11
+S'MALE SPEAKER'
+p2802
+sg16
+(lp2803
+S"I'd sort of like to get to the heart of the cost things because I think there's a little bit of denial going on."
+p2804
+aS'An early mentor said to me if the financial analysis defies common sense, go with common sense.'
+p2805
+aS'So now we get 35 million new people coming into Medicaid.'
+p2806
+aS"We've got baby boomers retiring in droves going into the Medicare program."
+p2807
+aS"And we've got all that intercepting with all advancements in care and treatments, procedures and drugs which extend life and make life more livable."
+p2808
+aS'And a big underpinning, a big way that the Obama bill is going to get this under control is by slowing the cost of Medicare and Medicaid.'
+p2809
+aS'I believe the number is about --'
+p2810
+asa(dp2811
+g8
+(lp2812
+S'So can you focus to a question.'
+p2813
+asg11
+S'JOHN DONVAN'
+p2814
+sg16
+(lp2815
+g2813
+asa(dp2816
+g8
+(lp2817
+S'Pardon me?'
+p2818
+asg11
+S'MALE SPEAKER'
+p2819
+sg16
+(lp2820
+g2818
+asa(dp2821
+g8
+(lp2822
+S'Can you focus to a question, having studied your premise.'
+p2823
+asg11
+S'JOHN DONVAN'
+p2824
+sg13
+(dp2825
+I1
+S'40'
+p2826
+ssg16
+(lp2827
+g2823
+asa(dp2828
+g8
+(lp2829
+S'Well, yeah, yeah, yeah.'
+p2830
+aS"Here's what I think is going to happen."
+p2831
+aS"I want you to tell me it'snot."
+p2832
+asg11
+S'MALE SPEAKER'
+p2833
+sg16
+(lp2834
+S'Well, yeah, yeah, yeah.'
+p2835
+aS"Here's what I think is going to happen."
+p2836
+aS"I want you to tell me it's not."
+p2837
+asa(dp2838
+g8
+(lp2839
+S'Yeah.'
+p2840
+asg11
+S'JOHN DONVAN'
+p2841
+sg16
+(lp2842
+g2840
+asa(dp2843
+g8
+(lp2844
+S"That will result -- there's a videotape of every president since Richard Nixon sayingthey're going to solve this problem by getting waste and fraud out of the system.I think it's going to reduce reimbursements."
+p2845
+aS"And I think that's going to drive more andmore of the better docs out of the system."
+p2846
+aS"It's already happening."
+p2847
+aS'Where I live inSarasota, Florida --'
+p2848
+asg11
+S'MALE SPEAKER'
+p2849
+sg16
+(lp2850
+S"That will result -- there's a videotape of every president since Richard Nixon saying they're going to solve this problem by getting waste and fraud out of the system."
+p2851
+aS"I think it's going to reduce reimbursements."
+p2852
+aS"And I think that's going to drive more and more of the better docs out of the system."
+p2853
+aS"It's already happening."
+p2854
+aS'Where I live in Sarasota, Florida --'
+p2855
+asg25
+(dp2856
+S'20:03:25'
+p2857
+I2
+ssa(dp2858
+g8
+(lp2859
+S'I need a question, please.'
+p2860
+asg11
+S'JOHN DONVAN'
+p2861
+sg16
+(lp2862
+g2860
+asa(dp2863
+g8
+(lp2864
+S"Tell me why that's not going to happen and why it's not going to hurt the people at thebottom of our economic scale."
+p2865
+asg11
+S'MALE SPEAKER'
+p2866
+sg16
+(lp2867
+S"Tell me why that's not going to happen and why it's not going to hurt the people at the bottom of our economic scale."
+p2868
+asa(dp2869
+g8
+(lp2870
+S'Thank you.'
+p2871
+aS'Jonathan Cohn, who is against repeal.'
+p2872
+asg11
+S'JOHN DONVAN'
+p2873
+sg16
+(lp2874
+S'Thank you.'
+p2875
+aS'Jonathan Cohn, who is against repeal.'
+p2876
+asa(dp2877
+g8
+(lp2878
+S"Very quickly on this question about physician -- and what you're -- if I understand whatyou're saying, your last question there is about if we're going to spend less on Medicare,if Medicare is going to pay less, then why won't doctors just leave the system?"
+p2879
+aS"Well,we've done reductions in Medicare like this before."
+p2880
+aS"We've done reductions larger thanthe ones we've done before."
+p2881
+aS'And by the way, during the McCain campaign, Mr. Holtz-Eakin, I remember, very vividly, saying that they were going to pay for their healthcareplan by enacting Medicare cuts that were even larger.'
+p2882
+aS"Now, I don't think he was trying todeprive Medicare patients of access."
+p2883
+aS"But the fact is we've had these cuts before."
+p2884
+aS'Andevery time it happens, you hear a lot of predictions, oh, my God, people are going to stopseeing Medicare patients.And I understand that.'
+p2885
+aS'Look, my father is a surgeon.'
+p2886
+aS"He's in south Florida where you seepeople walking around with little dollar signs because there are cataract surgeries and,you know, that's what it's like."
+p2887
+aS'And I understand that.'
+p2888
+aS"The fact is, every single time thatwe have done this, there have been predictions that doctors are going to flee the system.And you'll always get the anecdotal, of course, this doctor is leaving that -- but theMedicare payment advisory committee looks at this."
+p2889
+aS"There's a government, independent,not partisan authority that looks at these statistics to monitor this, because they want tomake sure that's not happening."
+p2890
+aS"There's a group called the Center for the Study ofHealthcare System Change, which is the longest acronym ever for a think tank."
+p2891
+aS"Butbelieve me, they're very reliable, totally nonpartisan."
+p2892
+aS'Everyone trusts -- And what they all found is it never happens.'
+p2893
+aS'The doctors have not left the system.'
+p2894
+asg11
+S'JONATHAN COHN'
+p2895
+sg13
+(dp2896
 I15
 S'41'
-p2712
+p2897
 ssg16
-(lp2713
+(lp2898
 S"Very quickly on this question about physician -- and what you're -- if I understand what you're saying, your last question there is about if we're going to spend less on Medicare, if Medicare is going to pay less, then why won't doctors just leave the system?"
-p2714
+p2899
 aS"Well, we've done reductions in Medicare like this before."
-p2715
+p2900
 aS"We've done reductions larger than the ones we've done before."
-p2716
+p2901
 aS'And by the way, during the McCain campaign, Mr. Holtz- Eakin, I remember, very vividly, saying that they were going to pay for their healthcare plan by enacting Medicare cuts that were even larger.'
-p2717
+p2902
 aS"Now, I don't think he was trying to deprive Medicare patients of access."
-p2718
+p2903
 aS"But the fact is we've had these cuts before."
-p2719
+p2904
 aS'And every time it happens, you hear a lot of predictions, oh, my God, people are going to stop seeing Medicare patients.'
-p2720
+p2905
 aS'And I understand that.'
-p2721
+p2906
 aS'Look, my father is a surgeon.'
-p2722
+p2907
 aS"He's in south Florida where you see people walking around with little dollar signs because there are cataract surgeries and, you know, that's what it's like."
-p2723
+p2908
 aS'And I understand that.'
-p2724
+p2909
 aS'The fact is, every single time that we have done this, there have been predictions that doctors are going to flee the system.'
-p2725
+p2910
 aS"And you'll always get the anecdotal, of course, this doctor is leaving that -- but the Medicare payment advisory committee looks at this."
-p2726
+p2911
 aS"There's a government, independent, not partisan authority that looks at these statistics to monitor this, because they want to make sure that's not happening."
-p2727
+p2912
 aS"There's a group called the Center for the Study of Healthcare System Change, which is the longest acronym ever for a think tank."
-p2728
+p2913
 aS"But believe me, they're very reliable, totally nonpartisan."
-p2729
+p2914
 aS'Everyone trusts -- And what they all found is it never happens.'
-p2730
+p2915
 aS'The doctors have not left the system.'
-p2731
+p2916
 asg25
-(dp2732
+(dp2917
 S'20:04:26'
-p2733
+p2918
 I10
-ssa(dp2734
+ssa(dp2919
 g8
-(lp2735
+(lp2920
 S'Douglas Holtz-Eakin.'
-p2736
-aS'Douglas Holtz-Eakin.Douglas Holtz-Eakin:I want to, first, stipulate late, that the place they send old CBO directors to die is theMedicare payment advisory commission.'
-p2737
-aS"I've been there.And prospectively, the MedPAC as well as the CMS actuary would say that the kinds ofcuts and vision for Medicare will either lead to inadequate care, inability to see providers,or you can go put the money back in."
-p2738
-aS'So there are no real changes in the business modelthat would allow a physician to practice more cheaply in Medicare, and that is why weshould have fixed the problem instead of written the checks that is this system.'
-p2739
-aS"I thinkthat is the fundamental indictment, we are not fixing the problem, and it is important torecognize that although there's all these bells and whistles that Jonathan likes to point to,there are lots of pages, they don't have any teeth."
-p2740
-aS'They put something in called the"Independent Payment Advisory Board," that\'s like MedPAC on steroids, and -- but thelaw says they can\'t make beneficiaries pay more, they can\'t touch the hospitals and thenursing homes for 10 years, they can\'t mess with the way the docs get paid, so where\'s thebig change in the way the delivery system\'s going to happen?Let\'s go to the audience for more questions.'
-p2741
-aS"Ma'am."
-p2742
-asg11
-S'JOHN DONVAN'
-p2743
-sg16
-(lp2744
-S'Douglas Holtz-Eakin.'
-p2745
+p2921
 aS'Douglas Holtz-Eakin.'
-p2746
-aS'Douglas Holtz-Eakin: I want to, first, stipulate late, that the place they send old CBO directors to die is the Medicare payment advisory commission.'
-p2747
-aS"I've been there."
-p2748
-aS'And prospectively, the MedPAC as well as the CMS actuary would say that the kinds of cuts and vision for Medicare will either lead to inadequate care, inability to see providers, or you can go put the money back in.'
-p2749
-aS'So there are no real changes in the business model that would allow a physician to practice more cheaply in Medicare, and that is why we should have fixed the problem instead of written the checks that is this system.'
-p2750
-aS"I think that is the fundamental indictment, we are not fixing the problem, and it is important to recognize that although there's all these bells and whistles that Jonathan likes to point to, there are lots of pages, they don't have any teeth."
-p2751
-aS'They put something in called the "Independent Payment Advisory Board," that\'s like MedPAC on steroids, and -- but the law says they can\'t make beneficiaries pay more, they can\'t touch the hospitals and the nursing homes for 10 years, they can\'t mess with the way the docs get paid, so where\'s the big change in the way the delivery system\'s going to happen?'
-p2752
-aS"Let's go to the audience for more questions."
-p2753
-aS"Ma'am."
-p2754
-asg25
-(dp2755
-S'20:06:23'
-p2756
-I17
-sS'20:05:21'
-p2757
-I4
-ssa(dp2758
-g8
-(lp2759
-S'Yes.'
-p2760
-asg11
-S'FEMALE SPEAKER'
-p2761
-sg16
-(lp2762
-g2760
-asa(dp2763
-g8
-(lp2764
-S'Can you stand, please?'
-p2765
+p2922
 asg11
 S'JOHN DONVAN'
-p2766
+p2923
 sg16
-(lp2767
-g2765
-asa(dp2768
+(lp2924
+S'Douglas Holtz-Eakin.'
+p2925
+aS'Douglas Holtz-Eakin.'
+p2926
+asa(dp2927
 g8
-(lp2769
-S'Hi.'
-p2770
+(lp2928
+S'I want to, first, stipulate late, that the place they send old CBO directors to die is theMedicare payment advisory commission.'
+p2929
+aS"I've been there.And prospectively, the MedPAC as well as the CMS actuary would say that the kinds ofcuts and vision for Medicare will either lead to inadequate care, inability to see providers,or you can go put the money back in."
+p2930
+aS'So there are no real changes in the business modelthat would allow a physician to practice more cheaply in Medicare, and that is why weshould have fixed the problem instead of written the checks that is this system.'
+p2931
+aS"I thinkthat is the fundamental indictment, we are not fixing the problem, and it is important torecognize that although there's all these bells and whistles that Jonathan likes to point to,there are lots of pages, they don't have any teeth."
+p2932
+aS'They put something in called the"Independent Payment Advisory Board," that\'s like MedPAC on steroids, and -- but thelaw says they can\'t make beneficiaries pay more, they can\'t touch the hospitals and thenursing homes for 10 years, they can\'t mess with the way the docs get paid, so where\'s thebig change in the way the delivery system\'s going to happen?'
+p2933
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p2934
+sg16
+(lp2935
+S'I want to, first, stipulate late, that the place they send old CBO directors to die is the Medicare payment advisory commission.'
+p2936
+aS"I've been there."
+p2937
+aS'And prospectively, the MedPAC as well as the CMS actuary would say that the kinds of cuts and vision for Medicare will either lead to inadequate care, inability to see providers, or you can go put the money back in.'
+p2938
+aS'So there are no real changes in the business model that would allow a physician to practice more cheaply in Medicare, and that is why we should have fixed the problem instead of written the checks that is this system.'
+p2939
+aS"I think that is the fundamental indictment, we are not fixing the problem, and it is important to recognize that although there's all these bells and whistles that Jonathan likes to point to, there are lots of pages, they don't have any teeth."
+p2940
+aS'They put something in called the "Independent Payment Advisory Board," that\'s like MedPAC on steroids, and -- but the law says they can\'t make beneficiaries pay more, they can\'t touch the hospitals and the nursing homes for 10 years, they can\'t mess with the way the docs get paid, so where\'s the big change in the way the delivery system\'s going to happen?'
+p2941
+asg25
+(dp2942
+S'20:05:21'
+p2943
+I2
+ssa(dp2944
+g8
+(lp2945
+S"Let's go to the audience for more questions."
+p2946
+aS"Ma'am."
+p2947
+asg11
+S'JOHN DONVAN'
+p2948
+sg16
+(lp2949
+S"Let's go to the audience for more questions."
+p2950
+aS"Ma'am."
+p2951
+asg25
+(dp2952
+S'20:06:23'
+p2953
+I1
+ssa(dp2954
+g8
+(lp2955
+S'Yes.'
+p2956
 asg11
 S'FEMALE SPEAKER'
-p2771
+p2957
+sg16
+(lp2958
+g2956
+asa(dp2959
+g8
+(lp2960
+S'Can you stand, please?'
+p2961
+asg11
+S'JOHN DONVAN'
+p2962
+sg16
+(lp2963
+g2961
+asa(dp2964
+g8
+(lp2965
+S'Hi.'
+p2966
+asg11
+S'FEMALE SPEAKER'
+p2967
 sg13
-(dp2772
+(dp2968
 I1
 S'42'
-p2773
+p2969
 ssg16
-(lp2774
-g2770
-asa(dp2775
-g8
-(lp2776
-S'And just give a second for the camera to find you.'
-p2777
-asg11
-S'JOHN DONVAN'
-p2778
-sg16
-(lp2779
-g2777
-asa(dp2780
-g113
-(dp2781
-I3
-S'[applause]'
-p2782
-ssg8
-(lp2783
-S'Yes.'
-p2784
-aS"I am retired psychiatric social worker, and I haven't really heardmuch about the pain and suffering, it's cost, cost, and I know money's an issue, but Ihaven't heard the human side of this at all, and it's very dismaying.The other thing is, what about the issue of Americans are not taking very good care of [[applause]] themselves and they say 75 percent of the health issues of course are people's bad habits,or a lot of them."
-p2785
-asg11
-S'FEMALE SPEAKER'
-p2786
-sg16
-(lp2787
-S'Yes.'
-p2788
-aS"I am retired psychiatric social worker, and I haven't really heard much about the pain and suffering, it's cost, cost, and I know money's an issue, but I haven't heard the human side of this at all, and it's very dismaying."
-p2789
-aS"The other thing is, what about the issue of Americans are not taking very good care of themselves and they say 75 percent of the health issues of course are people's bad habits, or a lot of them."
-p2790
-asa(dp2791
-g8
-(lp2792
-S"But do you think that's about a law?"
-p2793
-asg11
-S'JOHN DONVAN'
-p2794
-sg16
-(lp2795
-g2793
-asa(dp2796
-g8
-(lp2797
-S'Well, no, but, I mean, but a law, I mean, I think one of the things Obamacare wanted todo was try to get people to take care of themselves better and reward, you know, doctorswho concentrate on prevention, and change of habits, and diet, and exercise.'
-p2798
-aS'And thats avery important --'
-p2799
-asg11
-S'FEMALE SPEAKER'
-p2800
-sg16
-(lp2801
-S'Well, no, but, I mean, but a law, I mean, I think one of the things Obamacare wanted to do was try to get people to take care of themselves better and reward, you know, doctors who concentrate on prevention, and change of habits, and diet, and exercise.'
-p2802
-aS'And thats a very important --'
-p2803
-asa(dp2804
-g8
-(lp2805
-S'Paul Starr, is there any traction in that argument?'
-p2806
-aS'And Ill come back to you, John.'
-p2807
-asg11
-S'JOHN DONVAN'
-p2808
-sg16
-(lp2809
-S'Paul Starr, is there any traction in that argument?'
-p2810
-aS'And Ill come back to you, John.'
-p2811
-asa(dp2812
-g8
-(lp2813
-S'Well, there are a number of measures in the bill that promote preventive services but --and they are very important.Medicare beneficiaries will get preventive services that have never been covered before.Those are some of the terrible mandates for private insurance thats going to have tocover vaccinations, things like that.'
-p2814
-aS'But, you know, Im not counting on that for bigsavings.'
-p2815
-aS'I dont think the government really can change personal behavior in thatprofound a way, and I -- personally, actually, I dont want to change that.'
-p2816
-asg11
-S'PAUL STARR'
-p2817
-sg16
-(lp2818
-S'Well, there are a number of measures in the bill that promote preventive services but -- and they are very important.'
-p2819
-aS'Medicare beneficiaries will get preventive services that have never been covered before.'
-p2820
-aS'Those are some of the terrible mandates for private insurance thats going to have to cover vaccinations, things like that.'
-p2821
-aS'But, you know, Im not counting on that for big savings.'
-p2822
-aS'I dont think the government really can change personal behavior in that profound a way, and I -- personally, actually, I dont want to change that.'
-p2823
-asg25
-(dp2824
-S'20:07:28'
-p2825
-I2
-ssa(dp2826
-g8
-(lp2827
-S'I bet, John Shadegg, you agree with that point?'
-p2828
-asg11
-S'JOHN DONVAN'
-p2829
-sg16
-(lp2830
-g2828
-asa(dp2831
-g8
-(lp2832
-S'I dont think government can change personal behavior, but I think law can changepersonal behavior because right now this system does not incentivize you or I to take careof ourselves.'
-p2833
-aS'There are companies that have looked at this.'
-p2834
-aS'Safeway, for example, hassaid, You know what?'
-p2835
-aS'Having obese employees, having employees with out of controlblood pressure, having employees with severe cholesterol is a severe problem," and sotheyve gone in and they have --'
-p2836
-asg11
-S'JOHN SHADEGG'
-p2837
-sg13
-(dp2838
-I3
-S'43'
-p2839
-ssg16
-(lp2840
-S'I dont think government can change personal behavior, but I think law can change personal behavior because right now this system does not incentivize you or I to take care of ourselves.'
-p2841
-aS'There are companies that have looked at this.'
-p2842
-aS'Safeway, for example, has said, You know what?'
-p2843
-aS'Having obese employees, having employees with out of control blood pressure, having employees with severe cholesterol is a severe problem," and so theyve gone in and they have --'
-p2844
-asg25
-(dp2845
-S'20:08:24'
-p2846
-I6
-ssa(dp2847
-g8
-(lp2848
-S'John, youre talking about the system that existed prior to the reform, or youre talkingabout the reform plan does not address these issues?'
-p2849
-asg11
-S'JOHN DONVAN'
-p2850
-sg16
-(lp2851
-S'John, youre talking about the system that existed prior to the reform, or youre talking about the reform plan does not address these issues?'
-p2852
-asa(dp2853
-g8
-(lp2854
-S'The reform plan says governments going to do it.'
-p2855
-aS'What Im saying is you have toincentivize people to do it, and the way you can incentivize people to do it is to give themskin in the game.'
-p2856
-aS'Actually, Safeway cuts the cost of its employees healthcare if theylower their blood pressure, or if they consistently take their cholesterol medicine.'
-p2857
-aS'Wecant --'
-p2858
-asg11
-S'JOHN SHADEGG'
-p2859
-sg16
-(lp2860
-S'The reform plan says governments going to do it.'
-p2861
-aS'What Im saying is you have to incentivize people to do it, and the way you can incentivize people to do it is to give them skin in the game.'
-p2862
-aS'Actually, Safeway cuts the cost of its employees healthcare if they lower their blood pressure, or if they consistently take their cholesterol medicine.'
-p2863
-aS'We cant --'
-p2864
-asa(dp2865
-g8
-(lp2866
-S'May I just say so does the Walt Disney Company, of which I am an employee.'
-p2867
-asg11
-S'JOHN DONVAN'
-p2868
-sg16
-(lp2869
-g2867
-asa(dp2870
-g113
-(dp2871
-I2
-S'[laughter]'
-p2872
-ssg8
-(lp2873
-S'There you go.'
-p2874
-aS'I take the human side of this argument very, very seriously.'
-p2875
-aS'When we were kids growing [[laughter]] up, our parents bought indemnity plans, and the doctors cared about us because there wasa physician-patient relationship.'
-p2876
-aS'We put the cash on their table.'
-p2877
-aS'The system we havecreated now divorces us completely from our doctor.'
-p2878
-aS'It says your doctor isnt hired byyou, your doctor is hired by a plan who was hired by your employer.And that is what has caused medicine to -- caused damage to the physician-patientrelationship, its caused a loss of control in costs, and it has caused the kind ofdevastation that youre talking about.'
-p2879
-aS'I know people that cant afford care because theinsurance companies dont give a damn about what it cares.'
-p2880
-aS'Its time to stop shovelingmoney to them and put the power and control in your hands, not to give it to thegovernment so Secretary Sebelius could write a thousand new regulations.'
-p2881
-aS'Thats notgoing to make it more personal, and then the plan I propose covers every singleAmerican, every one.'
-p2882
-asg11
-S'JOHN SHADEGG'
-p2883
-sg16
-(lp2884
-S'There you go.'
-p2885
-aS'I take the human side of this argument very, very seriously.'
-p2886
-aS'When we were kids growing up, our parents bought indemnity plans, and the doctors cared about us because there was a physician-patient relationship.'
-p2887
-aS'We put the cash on their table.'
-p2888
-aS'The system we have created now divorces us completely from our doctor.'
-p2889
-aS'It says your doctor isnt hired by you, your doctor is hired by a plan who was hired by your employer.'
-p2890
-aS'And that is what has caused medicine to -- caused damage to the physician-patient relationship, its caused a loss of control in costs, and it has caused the kind of devastation that youre talking about.'
-p2891
-aS'I know people that cant afford care because the insurance companies dont give a damn about what it cares.'
-p2892
-aS'Its time to stop shoveling money to them and put the power and control in your hands, not to give it to the government so Secretary Sebelius could write a thousand new regulations.'
-p2893
-aS'Thats not going to make it more personal, and then the plan I propose covers every single American, every one.'
-p2894
-asg25
-(dp2895
-S'20:09:25'
-p2896
-I7
-ssa(dp2897
-g113
-(dp2898
-I2
-S'[applause]'
-p2899
-ssg8
-(lp2900
-S'I think you agree with most of that. '
-p2901
-asg11
-S'JOHN DONVAN'
-p2902
-sg13
-(dp2903
-I0
-S'44'
-p2904
-ssg16
-(lp2905
-S'I think you agree with most of that. '
-p2906
-asa(dp2907
-g8
-(lp2908
-S' Do I agree that I -- I think that people sometimes are at the mercy of theirinsurance company?'
-p2909
-aS'Absolutely, and that is why I support this bill and dont think weshould repeal it.'
-p2910
-aS'I mean, remember right now your insurance company says you cant getthat treatment, youre stuck.'
-p2911
-aS"Right now youre moving between insurance companies -- You know, you're -- right now you're moving between insurance company and insurancecompany, you change plans and tomorrow you have to change doctors because theyrenot in the same network.This plan allows people to stay on the same insurance plan longer and when that denialcomes down, guess what?"
-p2912
-aS'You can appeal it.'
-p2913
-aS'What a notion.'
-p2914
-aS'You can actually go to animpartial person and say You know what?'
-p2915
-aS'Theyre saying I cant get this premiumbecause they think its too expensive.'
-p2916
-aS'I think I have the medical evidence that it works,and the board says, You know what?'
-p2917
-aS'Youre right.'
-p2918
-aS'Thats a mandate.'
-p2919
-aS'Thats aregulation, and you know what?'
-p2920
-aS'It helps people. '
-p2921
-asg11
-S'JONATHAN COHN'
-p2922
-sg16
-(lp2923
-S' Do I agree that I -- I think that people sometimes are at the mercy of their insurance company?'
-p2924
-aS'Absolutely, and that is why I support this bill and dont think we should repeal it.'
-p2925
-aS'I mean, remember right now your insurance company says you cant get that treatment, youre stuck.'
-p2926
-aS"Right now youre moving between insurance companies -- You know, you're -- right now you're moving between insurance company and insurance company, you change plans and tomorrow you have to change doctors because theyre not in the same network."
-p2927
-aS'This plan allows people to stay on the same insurance plan longer and when that denial comes down, guess what?'
-p2928
-aS'You can appeal it.'
-p2929
-aS'What a notion.'
-p2930
-aS'You can actually go to an impartial person and say You know what?'
-p2931
-aS'Theyre saying I cant get this premium because they think its too expensive.'
-p2932
-aS'I think I have the medical evidence that it works, and the board says, You know what?'
-p2933
-aS'Youre right.'
-p2934
-aS'Thats a mandate.'
-p2935
-aS'Thats a regulation, and you know what?'
-p2936
-aS'It helps people. '
-p2937
-asg25
-(dp2938
-S'20:10:23'
-p2939
-I8
-ssa(dp2940
-g8
-(lp2941
-S'Yeah.'
-p2942
-aS'You just raised your right hand.'
-p2943
-aS'Will you stand up and the mic will come to you,thanks.'
-p2944
-aS'Can I ask you what youre hearing so far that in any way changed your mind?'
-p2945
-asg11
-S'JOHN DONVAN'
-p2946
-sg16
-(lp2947
-S'Yeah.'
-p2948
-aS'You just raised your right hand.'
-p2949
-aS'Will you stand up and the mic will come to you, thanks.'
-p2950
-aS'Can I ask you what youre hearing so far that in any way changed your mind?'
-p2951
-asa(dp2952
-g8
-(lp2953
-S'It hasnt changed my mind.'
-p2954
-aS'Its been a lot of the same rhetoric I think.'
-p2955
-aS'But I keephearing always the proponents of repealing the law about consumer choice and waybefore this law they kept talking about consumer choice will lower costs.'
-p2956
-aS'And I want toask you if you really believe that a parent with a child that needs heart surgery is going tochoose the cheapest heart surgeon and the cheapest hospital.And when your fathers dying of prostate cancer theyre going to choose to not give fourmonths of very expensive treatment and thus lower cost.'
-p2957
-asg11
-S'FEMALE SPEAKER'
-p2958
-sg13
-(dp2959
-I5
-S'45'
-p2960
-ssg16
-(lp2961
-S'It hasnt changed my mind.'
-p2962
-aS'Its been a lot of the same rhetoric I think.'
-p2963
-aS'But I keep hearing always the proponents of repealing the law about consumer choice and way before this law they kept talking about consumer choice will lower costs.'
-p2964
-aS'And I want to ask you if you really believe that a parent with a child that needs heart surgery is going to choose the cheapest heart surgeon and the cheapest hospital.'
-p2965
-aS'And when your fathers dying of prostate cancer theyre going to choose to not give four months of very expensive treatment and thus lower cost.'
-p2966
-asg25
-(dp2967
-S'20:11:23'
-p2968
-I5
-ssa(dp2969
-g8
 (lp2970
-S'Thats a question for the side arguing for repeal.'
-p2971
-aS'Douglas Holtz-Eakin:Im going to give you a bad answer and I will hand it over to Mr. Shadegg.'
-p2972
-aS'This is what Iwould say to you.'
+g2966
+asa(dp2971
+g8
+(lp2972
+S'And just give a second for the camera to find you.'
 p2973
-aS'Healthcare is not a one thing.'
-p2974
-aS'Its not just the circumstances tragic andthreatening as you described.'
-p2975
-aS'Healthcare and where we spend this is an enormous rangethat involves elective procedures, it involves chronic conditions, it involves traumaticinjury and we have a system that does not provide individuals with anything like theability to manage their care, anything like information needed to choose from high andlow value care and never gets them in a preventive way in a position to avoid being stuckwith a tragic choice.Thats wrong.'
-p2976
-aS'We need a system that they control all aspects of their life cycle up tothose very moments.'
-p2977
-aS'And I have a great faith in the ability of the American people.They do it in every other aspect of their lives some of which are enormous, they havekids.'
-p2978
-aS'Thats a pretty life and death situation.Paul Starr who is against repeal.Douglas Holtz-Eakin:I have great faith in the ability to do it.Paul Starr who is against repeal.'
-p2979
 asg11
 S'JOHN DONVAN'
-p2980
+p2974
 sg16
-(lp2981
-S'Thats a question for the side arguing for repeal.'
-p2982
-aS'Douglas Holtz-Eakin: Im going to give you a bad answer and I will hand it over to Mr. Shadegg.'
-p2983
-aS'This is what I would say to you.'
-p2984
-aS'Healthcare is not a one thing.'
-p2985
-aS'Its not just the circumstances tragic and threatening as you described.'
-p2986
-aS'Healthcare and where we spend this is an enormous range that involves elective procedures, it involves chronic conditions, it involves traumatic injury and we have a system that does not provide individuals with anything like the ability to manage their care, anything like information needed to choose from high and low value care and never gets them in a preventive way in a position to avoid being stuck with a tragic choice.'
-p2987
-aS'Thats wrong.'
-p2988
-aS'We need a system that they control all aspects of their life cycle up to those very moments.'
-p2989
-aS'And I have a great faith in the ability of the American people.'
-p2990
-aS'They do it in every other aspect of their lives some of which are enormous, they have kids.'
-p2991
-aS'Thats a pretty life and death situation.'
-p2992
-aS'Paul Starr who is against repeal.'
-p2993
-aS'Douglas Holtz-Eakin: I have great faith in the ability to do it.'
-p2994
-aS'Paul Starr who is against repeal.'
-p2995
-asg25
-(dp2996
-S'20:12:24'
-p2997
-I11
-ssa(dp2998
+(lp2975
+g2973
+asa(dp2976
 g113
-(dp2999
-I5
+(dp2977
+I3
 S'[applause]'
-p3000
-ssg11
-S'PAUL STARR'
-p3001
-sg16
-(lp3002
-S'Well, I agree with the sympathies of the questioner that theres something really fundamentally amiss here, this image of the patient as economic man.'
-p3003
-aS'How really out of touch it is with the conditions of illness.'
-p3004
-aS'How, in fact, it assumes a kind of marketplace where, for example, prices would be available.'
-p3005
-aS'Actually, you cant find out what the prices are for different things.'
-p3006
-aS'And in fact a hospital has 12 different prices for the same thing depending on who its treating.'
-p3007
-aS'We dont have a system of posted prices in healthcare.'
-p3008
-aS'Now, maybe you want to change all that.'
-p3009
-aS'Maybe you want to transform it but you were in power for years and you didnt do anything about it.'
-p3010
-asg25
-(dp3011
-S'20:13:24'
-p3012
-I8
+p2978
 ssg8
-(lp3013
-S'Well, I agree with the sympathies of the questioner that theres something reallyfundamentally amiss here, this image of the patient as economic man.'
-p3014
-aS'How really out oftouch it is with the conditions of illness.'
+(lp2979
+S'Yes.'
+p2980
+aS"I am retired psychiatric social worker, and I haven't really heardmuch about the pain and suffering, it's cost, cost, and I know money's an issue, but Ihaven't heard the human side of this at all, and it's very dismaying.The other thing is, what about the issue of Americans are not taking very good care of [[applause]] themselves and they say 75 percent of the health issues of course are people's bad habits,or a lot of them."
+p2981
+asg11
+S'FEMALE SPEAKER'
+p2982
+sg16
+(lp2983
+S'Yes.'
+p2984
+aS"I am retired psychiatric social worker, and I haven't really heard much about the pain and suffering, it's cost, cost, and I know money's an issue, but I haven't heard the human side of this at all, and it's very dismaying."
+p2985
+aS"The other thing is, what about the issue of Americans are not taking very good care of themselves and they say 75 percent of the health issues of course are people's bad habits, or a lot of them."
+p2986
+asa(dp2987
+g8
+(lp2988
+S"But do you think that's about a law?"
+p2989
+asg11
+S'JOHN DONVAN'
+p2990
+sg16
+(lp2991
+g2989
+asa(dp2992
+g8
+(lp2993
+S'Well, no, but, I mean, but a law, I mean, I think one of the things Obamacare wanted todo was try to get people to take care of themselves better and reward, you know, doctorswho concentrate on prevention, and change of habits, and diet, and exercise.'
+p2994
+aS'And thats avery important --'
+p2995
+asg11
+S'FEMALE SPEAKER'
+p2996
+sg16
+(lp2997
+S'Well, no, but, I mean, but a law, I mean, I think one of the things Obamacare wanted to do was try to get people to take care of themselves better and reward, you know, doctors who concentrate on prevention, and change of habits, and diet, and exercise.'
+p2998
+aS'And thats a very important --'
+p2999
+asa(dp3000
+g8
+(lp3001
+S'Paul Starr, is there any traction in that argument?'
+p3002
+aS'And Ill come back to you, John.'
+p3003
+asg11
+S'JOHN DONVAN'
+p3004
+sg16
+(lp3005
+S'Paul Starr, is there any traction in that argument?'
+p3006
+aS'And Ill come back to you, John.'
+p3007
+asa(dp3008
+g8
+(lp3009
+S'Well, there are a number of measures in the bill that promote preventive services but --and they are very important.Medicare beneficiaries will get preventive services that have never been covered before.Those are some of the terrible mandates for private insurance thats going to have tocover vaccinations, things like that.'
+p3010
+aS'But, you know, Im not counting on that for bigsavings.'
+p3011
+aS'I dont think the government really can change personal behavior in thatprofound a way, and I -- personally, actually, I dont want to change that.'
+p3012
+asg11
+S'PAUL STARR'
+p3013
+sg16
+(lp3014
+S'Well, there are a number of measures in the bill that promote preventive services but -- and they are very important.'
 p3015
-aS'How, in fact, it assumes a kind of marketplacewhere, for example, prices would be available.'
+aS'Medicare beneficiaries will get preventive services that have never been covered before.'
 p3016
-aS'Actually, you cant find out what theprices are for different things.And in fact a hospital has 12 different prices for the same thing depending on who its [[applause]] treating.'
+aS'Those are some of the terrible mandates for private insurance thats going to have to cover vaccinations, things like that.'
 p3017
-aS'We dont have a system of posted prices in healthcare.'
+aS'But, you know, Im not counting on that for big savings.'
 p3018
-aS'Now, maybe you want tochange all that.Maybe you want to transform it but you were in power for years and you didnt doanything about it.'
+aS'I dont think the government really can change personal behavior in that profound a way, and I -- personally, actually, I dont want to change that.'
 p3019
-asg13
+asg25
 (dp3020
-I8
-S'46'
+S'20:07:28'
 p3021
+I2
 ssa(dp3022
 g8
 (lp3023
-S'John Shadegg.'
+S'I bet, John Shadegg, you agree with that point?'
 p3024
 asg11
 S'JOHN DONVAN'
@@ -6280,1355 +6284,1957 @@ g3024
 asa(dp3027
 g8
 (lp3028
-S'Yeah.'
+S'I dont think government can change personal behavior, but I think law can changepersonal behavior because right now this system does not incentivize you or I to take careof ourselves.'
 p3029
-aS'The decision point that you referred to, once theyve gotten sick, is not the rightone.'
+aS'There are companies that have looked at this.'
 p3030
-aS'The reality is people are economic beings and they do make economic decisions.Indeed, I proposed a bill in the United States Congress that would allow you if you live inNew Jersey to buy a plan that was written and offered for sale in Arizona or Idaho orIllinois or Connecticut.'
+aS'Safeway, for example, hassaid, You know what?'
 p3031
-aS'No, no.'
+aS'Having obese employees, having employees with out of controlblood pressure, having employees with severe cholesterol is a severe problem," and sotheyve gone in and they have --'
 p3032
-aS'Let me explain how it works.'
-p3033
-aS'You could buy that policy-- and the reason I wrote that bill is because the people in New Jersey today pay at leastfour times more than the people in Pennsylvania because of those strictures [spelledphonetically] of the law in New Jersey.'
-p3034
-aS'Indeed, Americans who go to New Jersey aregoing to their friends that live in Pennsylvania and say, What are you paying?'
-p3035
-aS'Andtheyre saying Well, Im paying one-fourth of what youre paying.'
-p3036
-aS'And people areactually buying health insurance by pretending they live in Pennsylvania when they reallylive in New Jersey because it costs one-fourth as much.Now we heard the argument that nobody would shop but people really do shop.'
-p3037
-aS'Butheres why shopping -- ah -- if they can shop -- what makes me maddest about all of this-- '
-p3038
 asg11
 S'JOHN SHADEGG'
+p3033
+sg13
+(dp3034
+I3
+S'43'
+p3035
+ssg16
+(lp3036
+S'I dont think government can change personal behavior, but I think law can change personal behavior because right now this system does not incentivize you or I to take care of ourselves.'
+p3037
+aS'There are companies that have looked at this.'
+p3038
+aS'Safeway, for example, has said, You know what?'
 p3039
-sg16
-(lp3040
-S'Yeah.'
-p3041
-aS'The decision point that you referred to, once theyve gotten sick, is not the right one.'
-p3042
-aS'The reality is people are economic beings and they do make economic decisions.'
-p3043
-aS'Indeed, I proposed a bill in the United States Congress that would allow you if you live in New Jersey to buy a plan that was written and offered for sale in Arizona or Idaho or Illinois or Connecticut.'
-p3044
-aS'No, no.'
-p3045
-aS'Let me explain how it works.'
-p3046
-aS'You could buy that policy -- and the reason I wrote that bill is because the people in New Jersey today pay at least four times more than the people in Pennsylvania because of those strictures [spelled phonetically] of the law in New Jersey.'
-p3047
-aS'Indeed, Americans who go to New Jersey are going to their friends that live in Pennsylvania and say, What are you paying?'
-p3048
-aS'And theyre saying Well, Im paying one-fourth of what youre paying.'
-p3049
-aS'And people are actually buying health insurance by pretending they live in Pennsylvania when they really live in New Jersey because it costs one-fourth as much.'
-p3050
-aS'Now we heard the argument that nobody would shop but people really do shop.'
-p3051
-aS'But heres why shopping -- ah -- if they can shop -- what makes me maddest about all of this- - '
-p3052
+aS'Having obese employees, having employees with out of control blood pressure, having employees with severe cholesterol is a severe problem," and so theyve gone in and they have --'
+p3040
 asg25
-(dp3053
-S'20:14:27'
-p3054
-I12
-ssa(dp3055
-g113
-(dp3056
-I0
-S'[inaudible]'
-p3057
-ssg8
-(lp3058
-g22
+(dp3041
+S'20:08:24'
+p3042
+I6
+ssa(dp3043
+g8
+(lp3044
+S'John, youre talking about the system that existed prior to the reform, or youre talkingabout the reform plan does not address these issues?'
+p3045
 asg11
-S'FEMALE SPEAKER'
-p3059
+S'JOHN DONVAN'
+p3046
 sg16
-(lp3060
-g22
+(lp3047
+S'John, youre talking about the system that existed prior to the reform, or youre talking about the reform plan does not address these issues?'
+p3048
+asa(dp3049
+g8
+(lp3050
+S'The reform plan says governments going to do it.'
+p3051
+aS'What Im saying is you have toincentivize people to do it, and the way you can incentivize people to do it is to give themskin in the game.'
+p3052
+aS'Actually, Safeway cuts the cost of its employees healthcare if theylower their blood pressure, or if they consistently take their cholesterol medicine.'
+p3053
+aS'Wecant --'
+p3054
+asg11
+S'JOHN SHADEGG'
+p3055
+sg16
+(lp3056
+S'The reform plan says governments going to do it.'
+p3057
+aS'What Im saying is you have to incentivize people to do it, and the way you can incentivize people to do it is to give them skin in the game.'
+p3058
+aS'Actually, Safeway cuts the cost of its employees healthcare if they lower their blood pressure, or if they consistently take their cholesterol medicine.'
+p3059
+aS'We cant --'
+p3060
 asa(dp3061
 g8
 (lp3062
-S'To quote you, youre saying from the audience, cheaper premiums do not mean cheaperhealthcare.'
+S'May I just say so does the Walt Disney Company, of which I am an employee.'
 p3063
-aS'John, respond to that.'
-p3064
 asg11
 S'JOHN DONVAN'
-p3065
+p3064
 sg16
-(lp3066
-S'To quote you, youre saying from the audience, cheaper premiums do not mean cheaper healthcare.'
-p3067
-aS'John, respond to that.'
+(lp3065
+g3063
+asa(dp3066
+g113
+(dp3067
+I2
+S'[laughter]'
 p3068
-asa(dp3069
-g8
-(lp3070
-S'The ability, for example, to buy across lines.'
+ssg8
+(lp3069
+S'There you go.'
+p3070
+aS'I take the human side of this argument very, very seriously.'
 p3071
-aS'People are not going to pay, are not goingto choose to pay cheaper premiums unless they have to.'
+aS'When we were kids growing [[laughter]] up, our parents bought indemnity plans, and the doctors cared about us because there wasa physician-patient relationship.'
 p3072
-aS'What theyre going to do is pay,theyre going to spend as much as they can on healthcare and get the best product theycan.'
+aS'We put the cash on their table.'
 p3073
-aS'They wont choose to buy a cheap policy, some may, but most people buy the mostexpensive policy they can.'
+aS'The system we havecreated now divorces us completely from our doctor.'
 p3074
-aS"In fact, that was a study done on my bill allowing across stateline health insurance sales and indeed, no less than the Department of Health and HumanServices said if you simply allowed cross state sales of health insurance we would haveeight million fewer people uninsured in America today.Now, here's the point."
+aS'It says your doctor isnt hired byyou, your doctor is hired by a plan who was hired by your employer.And that is what has caused medicine to -- caused damage to the physician-patientrelationship, its caused a loss of control in costs, and it has caused the kind ofdevastation that youre talking about.'
 p3075
-aS"It's not -- the key isn't that you will be able to get a cheaper policy.The problem is the insurance companies are cheating us right now."
+aS'I know people that cant afford care because theinsurance companies dont give a damn about what it cares.'
 p3076
-aS"They're charging toomuch because they don't have to compete."
+aS'Its time to stop shovelingmoney to them and put the power and control in your hands, not to give it to thegovernment so Secretary Sebelius could write a thousand new regulations.'
 p3077
+aS'Thats notgoing to make it more personal, and then the plan I propose covers every singleAmerican, every one.'
+p3078
 asg11
 S'JOHN SHADEGG'
-p3078
-sg13
-(dp3079
-I6
-S'47'
-p3080
-ssg16
-(lp3081
-S'The ability, for example, to buy across lines.'
+p3079
+sg16
+(lp3080
+S'There you go.'
+p3081
+aS'I take the human side of this argument very, very seriously.'
 p3082
-aS'People are not going to pay, are not going to choose to pay cheaper premiums unless they have to.'
+aS'When we were kids growing up, our parents bought indemnity plans, and the doctors cared about us because there was a physician-patient relationship.'
 p3083
-aS'What theyre going to do is pay, theyre going to spend as much as they can on healthcare and get the best product they can.'
+aS'We put the cash on their table.'
 p3084
-aS'They wont choose to buy a cheap policy, some may, but most people buy the most expensive policy they can.'
+aS'The system we have created now divorces us completely from our doctor.'
 p3085
-aS'In fact, that was a study done on my bill allowing across state line health insurance sales and indeed, no less than the Department of Health and Human Services said if you simply allowed cross state sales of health insurance we would have eight million fewer people uninsured in America today.'
+aS'It says your doctor isnt hired by you, your doctor is hired by a plan who was hired by your employer.'
 p3086
-aS"Now, here's the point."
+aS'And that is what has caused medicine to -- caused damage to the physician-patient relationship, its caused a loss of control in costs, and it has caused the kind of devastation that youre talking about.'
 p3087
-aS"It's not -- the key isn't that you will be able to get a cheaper policy."
+aS'I know people that cant afford care because the insurance companies dont give a damn about what it cares.'
 p3088
-aS'The problem is the insurance companies are cheating us right now.'
+aS'Its time to stop shoveling money to them and put the power and control in your hands, not to give it to the government so Secretary Sebelius could write a thousand new regulations.'
 p3089
-aS"They're charging too much because they don't have to compete."
+aS'Thats not going to make it more personal, and then the plan I propose covers every single American, every one.'
 p3090
 asg25
 (dp3091
-S'20:15:29'
+S'20:09:25'
 p3092
-I8
+I7
 ssa(dp3093
-g8
-(lp3094
-S'Okay --'
-p3095
-asg11
-S'JOHN DONVAN'
-p3096
-sg16
-(lp3097
-g3095
-asa(dp3098
-g8
-(lp3099
-S'The reality is -- '
-p3100
-asg11
-S'JOHN SHADEGG'
-p3101
-sg16
-(lp3102
-S'The reality is -- '
-p3103
-asa(dp3104
-g8
-(lp3105
-S'On the far right.'
-p3106
-aS"You're standing in the aisle and making yourself known."
-p3107
-asg11
-S'JOHN DONVAN'
-p3108
-sg16
-(lp3109
-S'On the far right.'
-p3110
-aS"You're standing in the aisle and making yourself known."
-p3111
-asa(dp3112
 g113
-(dp3113
-I6
+(dp3094
+I2
 S'[applause]'
-p3114
+p3095
 ssg8
-(lp3115
-S'Thank you.'
-p3116
-aS'Hi.'
-p3117
-aS"I know we're here to discuss to repeal or not to repeal."
-p3118
-aS'But that is notthe question.'
-p3119
-aS'I think the central question should be -- and it is also my question to you,what is our path to a truly universal, affordable healthcare system?'
-p3120
-aS'Because whether wehave the Affordable Care Act or whether we have the status quo, both systems are askingus to put our faith in the private health insurance industry which is profit driven.'
-p3121
-aS'And lifeand death matters should not be decided by the profit motive.'
-p3122
-aS'So that what is the path --What is the path to an improved Medicare system open to all?'
-p3123
-aS'[[applause]] '
-p3124
+(lp3096
+S'I think you agree with most of that. '
+p3097
 asg11
-S'FEMALE SPEAKER'
-p3125
-sg16
-(lp3126
-S'Thank you.'
-p3127
-aS'Hi.'
-p3128
-aS"I know we're here to discuss to repeal or not to repeal."
-p3129
-aS'But that is not the question.'
-p3130
-aS'I think the central question should be -- and it is also my question to you, what is our path to a truly universal, affordable healthcare system?'
-p3131
-aS'Because whether we have the Affordable Care Act or whether we have the status quo, both systems are asking us to put our faith in the private health insurance industry which is profit driven.'
-p3132
-aS'And life and death matters should not be decided by the profit motive.'
-p3133
-aS'So that what is the path -- What is the path to an improved Medicare system open to all?'
-p3134
-asg25
-(dp3135
-S'20:16:21'
-p3136
-I6
-ssa(dp3137
+S'JOHN DONVAN'
+p3098
+sg13
+(dp3099
+I0
+S'44'
+p3100
+ssg16
+(lp3101
+S'I think you agree with most of that. '
+p3102
+asa(dp3103
 g8
-(lp3138
-S'Repealing Obamacare is the question.'
+(lp3104
+S' Do I agree that I -- I think that people sometimes are at the mercy of theirinsurance company?'
+p3105
+aS'Absolutely, and that is why I support this bill and dont think weshould repeal it.'
+p3106
+aS'I mean, remember right now your insurance company says you cant getthat treatment, youre stuck.'
+p3107
+aS"Right now youre moving between insurance companies -- You know, you're -- right now you're moving between insurance company and insurancecompany, you change plans and tomorrow you have to change doctors because theyrenot in the same network.This plan allows people to stay on the same insurance plan longer and when that denialcomes down, guess what?"
+p3108
+aS'You can appeal it.'
+p3109
+aS'What a notion.'
+p3110
+aS'You can actually go to animpartial person and say You know what?'
+p3111
+aS'Theyre saying I cant get this premiumbecause they think its too expensive.'
+p3112
+aS'I think I have the medical evidence that it works,and the board says, You know what?'
+p3113
+aS'Youre right.'
+p3114
+aS'Thats a mandate.'
+p3115
+aS'Thats aregulation, and you know what?'
+p3116
+aS'It helps people. '
+p3117
+asg11
+S'JONATHAN COHN'
+p3118
+sg16
+(lp3119
+S' Do I agree that I -- I think that people sometimes are at the mercy of their insurance company?'
+p3120
+aS'Absolutely, and that is why I support this bill and dont think we should repeal it.'
+p3121
+aS'I mean, remember right now your insurance company says you cant get that treatment, youre stuck.'
+p3122
+aS"Right now youre moving between insurance companies -- You know, you're -- right now you're moving between insurance company and insurance company, you change plans and tomorrow you have to change doctors because theyre not in the same network."
+p3123
+aS'This plan allows people to stay on the same insurance plan longer and when that denial comes down, guess what?'
+p3124
+aS'You can appeal it.'
+p3125
+aS'What a notion.'
+p3126
+aS'You can actually go to an impartial person and say You know what?'
+p3127
+aS'Theyre saying I cant get this premium because they think its too expensive.'
+p3128
+aS'I think I have the medical evidence that it works, and the board says, You know what?'
+p3129
+aS'Youre right.'
+p3130
+aS'Thats a mandate.'
+p3131
+aS'Thats a regulation, and you know what?'
+p3132
+aS'It helps people. '
+p3133
+asg25
+(dp3134
+S'20:10:23'
+p3135
+I8
+ssa(dp3136
+g8
+(lp3137
+S'Yeah.'
+p3138
+aS'You just raised your right hand.'
 p3139
-aS"But given your passion and verve, I'd just like togive each side 30 seconds each to respond to that."
+aS'Will you stand up and the mic will come to you,thanks.'
 p3140
-aS'And either of you can take it fromthere.'
+aS'Can I ask you what youre hearing so far that in any way changed your mind?'
 p3141
 asg11
 S'JOHN DONVAN'
 p3142
 sg16
 (lp3143
-S'Repealing Obamacare is the question.'
+S'Yeah.'
 p3144
-aS"But given your passion and verve, I'd just like to give each side 30 seconds each to respond to that."
+aS'You just raised your right hand.'
 p3145
-aS'And either of you can take it from there.'
+aS'Will you stand up and the mic will come to you, thanks.'
 p3146
-asa(dp3147
+aS'Can I ask you what youre hearing so far that in any way changed your mind?'
+p3147
+asa(dp3148
 g8
-(lp3148
-S"This law reflects a conviction that we can regulate a private system, not just privateinsurers, but also private hospitals, private doctors, and achieve the goals that you'reinterested in, a universal system."
-p3149
-aS"And in fact, really, if you look at other countries,they're not all government controlled."
+(lp3149
+S'It hasnt changed my mind.'
 p3150
-aS'They have many private insurance funds in manyEuropean countries and achieve a universal --'
+aS'Its been a lot of the same rhetoric I think.'
 p3151
-asg11
-S'PAUL STARR'
+aS'But I keephearing always the proponents of repealing the law about consumer choice and waybefore this law they kept talking about consumer choice will lower costs.'
 p3152
-sg13
-(dp3153
-I5
-S'48'
+aS'And I want toask you if you really believe that a parent with a child that needs heart surgery is going tochoose the cheapest heart surgeon and the cheapest hospital.And when your fathers dying of prostate cancer theyre going to choose to not give fourmonths of very expensive treatment and thus lower cost.'
+p3153
+asg11
+S'FEMALE SPEAKER'
 p3154
-ssg16
-(lp3155
-S"This law reflects a conviction that we can regulate a private system, not just private insurers, but also private hospitals, private doctors, and achieve the goals that you're interested in, a universal system."
+sg13
+(dp3155
+I5
+S'45'
 p3156
-aS"And in fact, really, if you look at other countries, they're not all government controlled."
-p3157
-aS'They have many private insurance funds in many European countries and achieve a universal --'
+ssg16
+(lp3157
+S'It hasnt changed my mind.'
 p3158
-asa(dp3159
-g8
-(lp3160
-S'Thank you.'
+aS'Its been a lot of the same rhetoric I think.'
+p3159
+aS'But I keep hearing always the proponents of repealing the law about consumer choice and way before this law they kept talking about consumer choice will lower costs.'
+p3160
+aS'And I want to ask you if you really believe that a parent with a child that needs heart surgery is going to choose the cheapest heart surgeon and the cheapest hospital.'
 p3161
-aS'On this side.'
+aS'And when your fathers dying of prostate cancer theyre going to choose to not give four months of very expensive treatment and thus lower cost.'
 p3162
-aS"Douglas Holtz-Eakin.Douglas Holtz-Eakin:There's nothing about insurance companies, per se, that anyone should like."
-p3163
-aS"But thealternative, a monopoly that you have to deal with, is completely inferior to having avibrant insurance industry that has to compete for your business.I would much rather force them to give me a decent service than have a mandate that Ihave to use the one that's supplied by the government."
+asg25
+(dp3163
+S'20:11:23'
 p3164
-aS"The second thing is, remember,for those advocates of a single big national payer, a national payer cannot negotiate anybetter between one hospital in Wichita and another hospital in Wichita which isultimately where you have to negotiate who can provide this care at the cheapest price.They can't do it any better than the guy in Wichita."
-p3165
-aS'So there is literally no advantage to anational plan.'
-p3166
-aS"It's a charade.John Shadegg, your partner."
+I5
+ssa(dp3165
+g8
+(lp3166
+S'Thats a question for the side arguing for repeal. '
 p3167
 asg11
 S'JOHN DONVAN'
 p3168
 sg16
 (lp3169
-S'Thank you.'
+S'Thats a question for the side arguing for repeal. '
 p3170
-aS'On this side.'
-p3171
-aS'Douglas Holtz-Eakin.'
-p3172
-aS"Douglas Holtz-Eakin: There's nothing about insurance companies, per se, that anyone should like."
+asa(dp3171
+g8
+(lp3172
+S'Im going to give you a bad answer and I will hand it over to Mr. Shadegg.'
 p3173
-aS'But the alternative, a monopoly that you have to deal with, is completely inferior to having a vibrant insurance industry that has to compete for your business.'
+aS'This is what Iwould say to you.'
 p3174
-aS"I would much rather force them to give me a decent service than have a mandate that I have to use the one that's supplied by the government."
+aS'Healthcare is not a one thing.'
 p3175
-aS'The second thing is, remember, for those advocates of a single big national payer, a national payer cannot negotiate any better between one hospital in Wichita and another hospital in Wichita which is ultimately where you have to negotiate who can provide this care at the cheapest price.'
+aS'Its not just the circumstances tragic andthreatening as you described.'
 p3176
-aS"They can't do it any better than the guy in Wichita."
+aS'Healthcare and where we spend this is an enormous rangethat involves elective procedures, it involves chronic conditions, it involves traumaticinjury and we have a system that does not provide individuals with anything like theability to manage their care, anything like information needed to choose from high andlow value care and never gets them in a preventive way in a position to avoid being stuckwith a tragic choice.Thats wrong.'
 p3177
-aS'So there is literally no advantage to a national plan.'
+aS'We need a system that they control all aspects of their life cycle up tothose very moments.'
 p3178
-aS"It's a charade."
+aS'And I have a great faith in the ability of the American people.They do it in every other aspect of their lives some of which are enormous, they havekids.'
 p3179
-aS'John Shadegg, your partner.'
+aS'Thats a pretty life and death situation.'
 p3180
-asg25
-(dp3181
-S'20:17:24'
-p3182
-I5
-ssa(dp3183
-g8
-(lp3184
-S'Your goal is my --'
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p3181
+sg16
+(lp3182
+S'Im going to give you a bad answer and I will hand it over to Mr. Shadegg.'
+p3183
+aS'This is what I would say to you.'
+p3184
+aS'Healthcare is not a one thing.'
 p3185
-asg11
-S'JOHN SHADEGG'
+aS'Its not just the circumstances tragic and threatening as you described.'
 p3186
-sg16
-(lp3187
-g3185
-asa(dp3188
-g113
-(dp3189
-I0
-S'[inaudible]'
+aS'Healthcare and where we spend this is an enormous range that involves elective procedures, it involves chronic conditions, it involves traumatic injury and we have a system that does not provide individuals with anything like the ability to manage their care, anything like information needed to choose from high and low value care and never gets them in a preventive way in a position to avoid being stuck with a tragic choice.'
+p3187
+aS'Thats wrong.'
+p3188
+aS'We need a system that they control all aspects of their life cycle up to those very moments.'
+p3189
+aS'And I have a great faith in the ability of the American people.'
 p3190
-ssg8
-(lp3191
-g22
-asg11
-S'FEMALE SPEAKER'
+aS'They do it in every other aspect of their lives some of which are enormous, they have kids.'
+p3191
+aS'Thats a pretty life and death situation.'
 p3192
-sg16
-(lp3193
-g22
-asa(dp3194
+asg25
+(dp3193
+S'20:12:24'
+p3194
+I8
+ssa(dp3195
 g8
-(lp3195
-S'All right.'
-p3196
-aS'Debaters are here on this one.'
+(lp3196
+S'Paul Starr who is against repeal.'
 p3197
-aS'John Shadegg, very quickly.'
-p3198
 asg11
 S'JOHN DONVAN'
-p3199
+p3198
 sg16
-(lp3200
-S'All right.'
-p3201
-aS'Debaters are here on this one.'
-p3202
-aS'John Shadegg, very quickly.'
-p3203
-asa(dp3204
+(lp3199
+g3197
+asa(dp3200
 g8
-(lp3205
-S'Your goal is my goal.'
-p3206
-aS'Long ago, I embraced universal coverage.'
-p3207
-aS"One point we haven'ttalked about tonight very much is how many people are going to lose the coverage theyhave."
-p3208
-aS'You said how do we get to that right healthcare system.'
-p3209
-aS"I'll tell you how."
-p3210
-aS'Numberone, allow the people that like their plan to keep their plan.'
-p3211
-aS'Number two, deal with theissue of the uninsured by giving them a refundable tax credit.Give them cash --'
-p3212
+(lp3201
+S'I have great faith in the ability to do it.'
+p3202
 asg11
-S'JOHN SHADEGG'
+S'DOUGLAS HOLTZ-EAKIN'
+p3203
+sg16
+(lp3204
+g3202
+asa(dp3205
+g8
+(lp3206
+S'Paul Starr who is against repeal.'
+p3207
+asg11
+S'JOHN DONVAN'
+p3208
+sg16
+(lp3209
+g3207
+asa(dp3210
+g113
+(dp3211
+I5
+S'[applause]'
+p3212
+ssg11
+S'PAUL STARR'
 p3213
 sg16
 (lp3214
-S'Your goal is my goal.'
+S'Well, I agree with the sympathies of the questioner that theres something really fundamentally amiss here, this image of the patient as economic man.'
 p3215
-aS'Long ago, I embraced universal coverage.'
+aS'How really out of touch it is with the conditions of illness.'
 p3216
-aS"One point we haven't talked about tonight very much is how many people are going to lose the coverage they have."
+aS'How, in fact, it assumes a kind of marketplace where, for example, prices would be available.'
 p3217
-aS'You said how do we get to that right healthcare system.'
+aS'Actually, you cant find out what the prices are for different things.'
 p3218
-aS"I'll tell you how."
+aS'And in fact a hospital has 12 different prices for the same thing depending on who its treating.'
 p3219
-aS'Number one, allow the people that like their plan to keep their plan.'
+aS'We dont have a system of posted prices in healthcare.'
 p3220
-aS'Number two, deal with the issue of the uninsured by giving them a refundable tax credit.'
+aS'Now, maybe you want to change all that.'
 p3221
-aS'Give them cash --'
+aS'Maybe you want to transform it but you were in power for years and you didnt do anything about it.'
 p3222
 asg25
 (dp3223
-S'20:18:25'
+S'20:13:24'
 p3224
-I5
-ssa(dp3225
-g8
-(lp3226
-S"John, you've made this point before so I'm going to -- in the interest of time, I'm going tomove on."
+I8
+ssg8
+(lp3225
+S'Well, I agree with the sympathies of the questioner that theres something reallyfundamentally amiss here, this image of the patient as economic man.'
+p3226
+aS'How really out oftouch it is with the conditions of illness.'
 p3227
-aS'One more question.'
+aS'How, in fact, it assumes a kind of marketplacewhere, for example, prices would be available.'
 p3228
-aS"And, ma'am, purple scarf, yeah."
+aS'Actually, you cant find out what theprices are for different things.And in fact a hospital has 12 different prices for the same thing depending on who its [[applause]] treating.'
 p3229
-asg11
-S'JOHN DONVAN'
+aS'We dont have a system of posted prices in healthcare.'
 p3230
-sg13
-(dp3231
-I2
-S'49'
-p3232
-ssg16
-(lp3233
-S"John, you've made this point before so I'm going to -- in the interest of time, I'm going to move on."
-p3234
-aS'One more question.'
-p3235
-aS"And, ma'am, purple scarf, yeah."
+aS'Now, maybe you want tochange all that.Maybe you want to transform it but you were in power for years and you didnt doanything about it.'
+p3231
+asg13
+(dp3232
+I8
+S'46'
+p3233
+ssa(dp3234
+g8
+(lp3235
+S'John Shadegg.'
 p3236
-asa(dp3237
-g8
-(lp3238
-S'My question is, why should we not trust our elected officials?'
-p3239
-aS'Why, if people have theirlives in public service -- well, I mean, you were voted into office.'
-p3240
-aS'Why should we not?'
-p3241
-aS'Ilived in Great Britain for 25 years.'
-p3242
-aS'I was a beneficiary of the National Health Service aswell as private medicine.'
-p3243
-aS'But there was an implicit trust that my tax pounds from mypaycheck would help subsidize healthcare.'
-p3244
-asg11
-S'FEMALE SPEAKER'
-p3245
-sg16
-(lp3246
-S'My question is, why should we not trust our elected officials?'
-p3247
-aS'Why, if people have their lives in public service -- well, I mean, you were voted into office.'
-p3248
-aS'Why should we not?'
-p3249
-aS'I lived in Great Britain for 25 years.'
-p3250
-aS'I was a beneficiary of the National Health Service as well as private medicine.'
-p3251
-aS'But there was an implicit trust that my tax pounds from my paycheck would help subsidize healthcare.'
-p3252
-asa(dp3253
-g8
-(lp3254
-S'Okay.'
-p3255
 asg11
 S'JOHN DONVAN'
-p3256
+p3237
 sg16
-(lp3257
-g3255
-asa(dp3258
+(lp3238
+g3236
+asa(dp3239
 g8
-(lp3259
-S'But I trusted that they would, regardless of whether they were labor or conservative.'
-p3260
-aS"Andsame in this country, Republican, Democrats, we're all --"
-p3261
+(lp3240
+S'Yeah.'
+p3241
+aS'The decision point that you referred to, once theyve gotten sick, is not the rightone.'
+p3242
+aS'The reality is people are economic beings and they do make economic decisions.Indeed, I proposed a bill in the United States Congress that would allow you if you live inNew Jersey to buy a plan that was written and offered for sale in Arizona or Idaho orIllinois or Connecticut.'
+p3243
+aS'No, no.'
+p3244
+aS'Let me explain how it works.'
+p3245
+aS'You could buy that policy-- and the reason I wrote that bill is because the people in New Jersey today pay at leastfour times more than the people in Pennsylvania because of those strictures [spelledphonetically] of the law in New Jersey.'
+p3246
+aS'Indeed, Americans who go to New Jersey aregoing to their friends that live in Pennsylvania and say, What are you paying?'
+p3247
+aS'Andtheyre saying Well, Im paying one-fourth of what youre paying.'
+p3248
+aS'And people areactually buying health insurance by pretending they live in Pennsylvania when they reallylive in New Jersey because it costs one-fourth as much.Now we heard the argument that nobody would shop but people really do shop.'
+p3249
+aS'Butheres why shopping -- ah -- if they can shop -- what makes me maddest about all of this-'
+p3250
 asg11
-S'FEMALE SPEAKER'
-p3262
+S'JOHN SHADEGG'
+p3251
 sg16
-(lp3263
-S'But I trusted that they would, regardless of whether they were labor or conservative.'
+(lp3252
+S'Yeah.'
+p3253
+aS'The decision point that you referred to, once theyve gotten sick, is not the right one.'
+p3254
+aS'The reality is people are economic beings and they do make economic decisions.'
+p3255
+aS'Indeed, I proposed a bill in the United States Congress that would allow you if you live in New Jersey to buy a plan that was written and offered for sale in Arizona or Idaho or Illinois or Connecticut.'
+p3256
+aS'No, no.'
+p3257
+aS'Let me explain how it works.'
+p3258
+aS'You could buy that policy -- and the reason I wrote that bill is because the people in New Jersey today pay at least four times more than the people in Pennsylvania because of those strictures [spelled phonetically] of the law in New Jersey.'
+p3259
+aS'Indeed, Americans who go to New Jersey are going to their friends that live in Pennsylvania and say, What are you paying?'
+p3260
+aS'And theyre saying Well, Im paying one-fourth of what youre paying.'
+p3261
+aS'And people are actually buying health insurance by pretending they live in Pennsylvania when they really live in New Jersey because it costs one-fourth as much.'
+p3262
+aS'Now we heard the argument that nobody would shop but people really do shop.'
+p3263
+aS'But heres why shopping -- ah -- if they can shop -- what makes me maddest about all of this-'
 p3264
-aS"And same in this country, Republican, Democrats, we're all --"
-p3265
-asa(dp3266
+asg25
+(dp3265
+S'20:14:27'
+p3266
+I12
+ssa(dp3267
 g8
-(lp3267
-S'So your question is why be so suspicious and skeptical of the ability of the bureaucracy todo the job well.'
-p3268
-aS'I want to put that --'
+(lp3268
+S' '
 p3269
 asg11
-S'JOHN DONVAN'
+S'-'
 p3270
 sg16
 (lp3271
-S'So your question is why be so suspicious and skeptical of the ability of the bureaucracy to do the job well.'
-p3272
-aS'I want to put that --'
-p3273
-asa(dp3274
-g8
+g3269
+asa(dp3272
+g113
+(dp3273
+I0
+S'[inaudible]'
+p3274
+ssg8
 (lp3275
-S'Bureaucracy -- people who have devoted their lives to public service who are electedofficials, because some Americans --'
-p3276
+g22
 asg11
 S'FEMALE SPEAKER'
-p3277
+p3276
 sg16
-(lp3278
-S'Bureaucracy -- people who have devoted their lives to public service who are elected officials, because some Americans --'
-p3279
-asg25
-(dp3280
-S'20:19:25'
+(lp3277
+g22
+asa(dp3278
+g8
+(lp3279
+S'To quote you, youre saying from the audience, cheaper premiums do not mean cheaperhealthcare.'
+p3280
+aS'John, respond to that.'
 p3281
-I2
-ssa(dp3282
-g8
+asg11
+S'JOHN DONVAN'
+p3282
+sg16
 (lp3283
-S'The elected officials.'
+S'To quote you, youre saying from the audience, cheaper premiums do not mean cheaper healthcare.'
 p3284
-aS"Let's put that to the side that's arguing to repeal."
+aS'John, respond to that.'
 p3285
-aS'John Shadegg.'
-p3286
-asg11
-S'JOHN DONVAN'
-p3287
-sg16
-(lp3288
-S'The elected officials.'
+asa(dp3286
+g8
+(lp3287
+S'The ability, for example, to buy across lines.'
+p3288
+aS'People are not going to pay, are not goingto choose to pay cheaper premiums unless they have to.'
 p3289
-aS"Let's put that to the side that's arguing to repeal."
+aS'What theyre going to do is pay,theyre going to spend as much as they can on healthcare and get the best product theycan.'
 p3290
-aS'John Shadegg.'
+aS'They wont choose to buy a cheap policy, some may, but most people buy the mostexpensive policy they can.'
 p3291
-asa(dp3292
-g8
-(lp3293
-S'I think we should trust them.'
+aS"In fact, that was a study done on my bill allowing across stateline health insurance sales and indeed, no less than the Department of Health and HumanServices said if you simply allowed cross state sales of health insurance we would haveeight million fewer people uninsured in America today.Now, here's the point."
+p3292
+aS"It's not -- the key isn't that you will be able to get a cheaper policy.The problem is the insurance companies are cheating us right now."
+p3293
+aS"They're charging toomuch because they don't have to compete."
 p3294
-aS"However, in this instance, we didn't."
+asg11
+S'JOHN SHADEGG'
 p3295
-aS"And point of fact,when Obamacare passed, it was opposed by roughly 54 percent of the American people.Each day it's opposed by somewhere closer to 60 percent of the people."
-p3296
-aS"There is no pollout there yet that says that it's favored by more people than not."
-p3297
-aS'But more importantlythan that -- and this is a key point -- when a nation that is a democracy makes a radicalchange in public policy, it should be reflected not by the narrowest of consensus but by avery broad consensus.'
-p3298
-aS'When Social Security was adopted, more than 80 percent of themembers of the Congress, House and Senate, voted for the creation of Social Security.When Medicare and Medicare were created, more than 70 percent of the members ofCongress supported those programs.'
-p3299
-aS'When SCHIP was adopted, again, the numberswere well over 75 percent of the members of Congress.'
-p3300
-asg11
-S'JOHN SHADEGG'
-p3301
-sg16
-(lp3302
-S'I think we should trust them.'
-p3303
-aS"However, in this instance, we didn't."
-p3304
-aS'And point of fact, when Obamacare passed, it was opposed by roughly 54 percent of the American people.'
-p3305
-aS"Each day it's opposed by somewhere closer to 60 percent of the people."
-p3306
-aS"There is no poll out there yet that says that it's favored by more people than not."
-p3307
-aS'But more importantly than that -- and this is a key point -- when a nation that is a democracy makes a radical change in public policy, it should be reflected not by the narrowest of consensus but by a very broad consensus.'
-p3308
-aS'When Social Security was adopted, more than 80 percent of the members of the Congress, House and Senate, voted for the creation of Social Security.'
-p3309
-aS'When Medicare and Medicare were created, more than 70 percent of the members of Congress supported those programs.'
-p3310
-aS'When SCHIP was adopted, again, the numbers were well over 75 percent of the members of Congress.'
-p3311
-asg25
-(dp3312
-S'20:20:23'
-p3313
-I11
-ssa(dp3314
-g8
-(lp3315
-S'Okay.'
-p3316
-asg11
-S'JOHN DONVAN'
-p3317
-sg16
-(lp3318
-g3316
-asa(dp3319
-g8
-(lp3320
-S'When this bill passed, it passed by the slimmest of margins.'
-p3321
-aS'In the House, 50.8 percent,purely partisan vote.'
-p3322
-aS'And without the kind of consensus that I think will make itsustainable.'
-p3323
-asg11
-S'JOHN SHADEGG'
-p3324
 sg13
-(dp3325
-I0
-S'50'
-p3326
+(dp3296
+I6
+S'47'
+p3297
 ssg16
-(lp3327
-S'When this bill passed, it passed by the slimmest of margins.'
-p3328
-aS'In the House, 50.8 percent, purely partisan vote.'
-p3329
-aS'And without the kind of consensus that I think will make it sustainable.'
-p3330
-asa(dp3331
+(lp3298
+S'The ability, for example, to buy across lines.'
+p3299
+aS'People are not going to pay, are not going to choose to pay cheaper premiums unless they have to.'
+p3300
+aS'What theyre going to do is pay, theyre going to spend as much as they can on healthcare and get the best product they can.'
+p3301
+aS'They wont choose to buy a cheap policy, some may, but most people buy the most expensive policy they can.'
+p3302
+aS'In fact, that was a study done on my bill allowing across state line health insurance sales and indeed, no less than the Department of Health and Human Services said if you simply allowed cross state sales of health insurance we would have eight million fewer people uninsured in America today.'
+p3303
+aS"Now, here's the point."
+p3304
+aS"It's not -- the key isn't that you will be able to get a cheaper policy."
+p3305
+aS'The problem is the insurance companies are cheating us right now.'
+p3306
+aS"They're charging too much because they don't have to compete."
+p3307
+asg25
+(dp3308
+S'20:15:29'
+p3309
+I8
+ssa(dp3310
 g8
-(lp3332
-S'Jonathan Cohn.'
-p3333
+(lp3311
+S'Okay --'
+p3312
 asg11
 S'JOHN DONVAN'
-p3334
+p3313
 sg16
-(lp3335
-g3333
-asa(dp3336
+(lp3314
+g3312
+asa(dp3315
 g8
-(lp3337
-S"If it were sustainable, we wouldn't be having this debate."
-p3338
+(lp3316
+S'The reality is -- '
+p3317
 asg11
 S'JOHN SHADEGG'
-p3339
+p3318
 sg16
-(lp3340
-g3338
-asa(dp3341
+(lp3319
+S'The reality is -- '
+p3320
+asa(dp3321
 g8
-(lp3342
-S'Jonathan Cohn, 30 seconds.'
-p3343
+(lp3322
+S'On the far right.'
+p3323
+aS"You're standing in the aisle and making yourself known."
+p3324
 asg11
 S'JOHN DONVAN'
-p3344
+p3325
 sg16
-(lp3345
-g3343
-asa(dp3346
-g8
-(lp3347
-S'Okay.'
+(lp3326
+S'On the far right.'
+p3327
+aS"You're standing in the aisle and making yourself known."
+p3328
+asa(dp3329
+g113
+(dp3330
+I6
+S'[applause]'
+p3331
+ssg8
+(lp3332
+S'Thank you.'
+p3333
+aS'Hi.'
+p3334
+aS"I know we're here to discuss to repeal or not to repeal."
+p3335
+aS'But that is notthe question.'
+p3336
+aS'I think the central question should be -- and it is also my question to you,what is our path to a truly universal, affordable healthcare system?'
+p3337
+aS'Because whether wehave the Affordable Care Act or whether we have the status quo, both systems are askingus to put our faith in the private health insurance industry which is profit driven.'
+p3338
+aS'And lifeand death matters should not be decided by the profit motive.'
+p3339
+aS'So that what is the path --What is the path to an improved Medicare system open to all?'
+p3340
+aS'[[applause]] '
+p3341
+asg11
+S'FEMALE SPEAKER'
+p3342
+sg16
+(lp3343
+S'Thank you.'
+p3344
+aS'Hi.'
+p3345
+aS"I know we're here to discuss to repeal or not to repeal."
+p3346
+aS'But that is not the question.'
+p3347
+aS'I think the central question should be -- and it is also my question to you, what is our path to a truly universal, affordable healthcare system?'
 p3348
-aS"Very quickly, the polls -- if you scratch those polls even a little bit, what you willfind is that it's a country overall."
+aS'Because whether we have the Affordable Care Act or whether we have the status quo, both systems are asking us to put our faith in the private health insurance industry which is profit driven.'
 p3349
-aS'Do you like the healthcare reform?'
+aS'And life and death matters should not be decided by the profit motive.'
 p3350
-aS'Yes, no, aboutdivided.'
+aS'So that what is the path -- What is the path to an improved Medicare system open to all?'
 p3351
-aS"Ask the people who don't like it, do you think it should be repealed and just weshould go back to the way we were, or make it stronger?"
-p3352
-aS'About half the people break off,say, Oh, no, we want it to be stronger.'
+asg25
+(dp3352
+S'20:16:21'
 p3353
-aS"And if you test the individual elements, they'rewildly popular-- protection against pre-existing conditions, getting kids under 25 onparents insurance."
-p3354
-aS'All of these things are wildly popular.'
-p3355
-aS"And yes, it's true, theRepublican Party did not -- this was a closed vote."
+I6
+ssa(dp3354
+g8
+(lp3355
+S'Repealing Obamacare is the question.'
 p3356
-aS'You know why that is?'
+aS"But given your passion and verve, I'd just like togive each side 30 seconds each to respond to that."
 p3357
-aS"It's becausewe live in a world not like the one 20, 30 years ago, where you had a responsibleRepublican party, where you had moderate Republicans -- "
+aS'And either of you can take it fromthere.'
 p3358
 asg11
-S'JONATHAN COHN'
+S'JOHN DONVAN'
 p3359
 sg16
 (lp3360
-S'Okay.'
+S'Repealing Obamacare is the question.'
 p3361
-aS"Very quickly, the polls -- if you scratch those polls even a little bit, what you will find is that it's a country overall."
+aS"But given your passion and verve, I'd just like to give each side 30 seconds each to respond to that."
 p3362
-aS'Do you like the healthcare reform?'
+aS'And either of you can take it from there.'
 p3363
-aS'Yes, no, about divided.'
-p3364
-aS"Ask the people who don't like it, do you think it should be repealed and just we should go back to the way we were, or make it stronger?"
-p3365
-aS'About half the people break off, say, Oh, no, we want it to be stronger.'
+asa(dp3364
+g8
+(lp3365
+S"This law reflects a conviction that we can regulate a private system, not just privateinsurers, but also private hospitals, private doctors, and achieve the goals that you'reinterested in, a universal system."
 p3366
-aS"And if you test the individual elements, they're wildly popular-- protection against pre-existing conditions, getting kids under 25 on parents insurance."
+aS"And in fact, really, if you look at other countries,they're not all government controlled."
 p3367
-aS'All of these things are wildly popular.'
+aS'They have many private insurance funds in manyEuropean countries and achieve a universal --'
 p3368
-aS"And yes, it's true, the Republican Party did not -- this was a closed vote."
-p3369
-aS'You know why that is?'
-p3370
-aS"It's because we live in a world not like the one 20, 30 years ago, where you had a responsible Republican party, where you had moderate Republicans -- "
-p3371
-asa(dp3372
-g113
-(dp3373
-I1
-S'[applause]'
-p3374
-ssg8
-(lp3375
-S'Oh.'
-p3376
-aS'Ooh!'
-p3377
-asg11
-S'JOHN SHADEGG'
-p3378
-sg16
-(lp3379
-S'Oh.'
-p3380
-aS'Ooh!'
-p3381
-asg25
-(dp3382
-S'20:21:21'
-p3383
-I1
-ssa(dp3384
-g8
-(lp3385
-S'Just like, as my colleague said.'
-p3386
-aS'The ideas in this plan were virtually identical in the broadframework to what the Republicans were proposing just 12 years ago.'
-p3387
-aS"It's what MittRomney said."
-p3388
-aS'This is not a radical plan.'
-p3389
-asg11
-S'JONATHAN COHN'
-p3390
-sg16
-(lp3391
-S'Just like, as my colleague said.'
-p3392
-aS'The ideas in this plan were virtually identical in the broad framework to what the Republicans were proposing just 12 years ago.'
-p3393
-aS"It's what Mitt Romney said."
-p3394
-aS'This is not a radical plan.'
-p3395
-asa(dp3396
-g8
-(lp3397
-S'John Shadegg, equal time for you on that.'
-p3398
-asg11
-S'JOHN DONVAN'
-p3399
-sg16
-(lp3400
-g3398
-asa(dp3401
-g8
-(lp3402
-S"I think it's offensive to say that the Republican Party is irresponsible."
-p3403
-aS"You know, I'msorry."
-p3404
-aS'I take offense at that.'
-p3405
-aS"I have offered healthcare reform bills every year I've been inCongress."
-p3406
-aS'There are many.'
-p3407
-aS"I'm sorry the woman over there didn't hear them."
-p3408
-aS'Yes,Republicans passed the opportunity when they hold both majorities of Congress.'
-p3409
-aS'Butquite frankly, we did not have the demand that we have now seen.'
-p3410
-aS'But how do youdefend the fact that broad consensus is necessary to support this legislation?'
-p3411
-aS"Have youdefended it other than to say -- other than to say, well, back then, the Republican Partywas responsible, and now it's not."
-p3412
-aS"That's really -- quite frankly, in the context of whathappened last week, inappropriate."
-p3413
-asg11
-S'JOHN SHADEGG'
-p3414
-sg13
-(dp3415
-I3
-S'51'
-p3416
-ssg16
-(lp3417
-S"I think it's offensive to say that the Republican Party is irresponsible."
-p3418
-aS"You know, I'm sorry."
-p3419
-aS'I take offense at that.'
-p3420
-aS"I have offered healthcare reform bills every year I've been in Congress."
-p3421
-aS'There are many.'
-p3422
-aS"I'm sorry the woman over there didn't hear them."
-p3423
-aS'Yes, Republicans passed the opportunity when they hold both majorities of Congress.'
-p3424
-aS'But quite frankly, we did not have the demand that we have now seen.'
-p3425
-aS'But how do you defend the fact that broad consensus is necessary to support this legislation?'
-p3426
-aS"Have you defended it other than to say -- other than to say, well, back then, the Republican Party was responsible, and now it's not."
-p3427
-aS"That's really -- quite frankly, in the context of what happened last week, inappropriate."
-p3428
-asg25
-(dp3429
-S'20:22:23'
-p3430
-I9
-ssa(dp3431
-g8
-(lp3432
-S'When you pass the Medicare prescription drug program --'
-p3433
 asg11
 S'PAUL STARR'
-p3434
-sg16
-(lp3435
-g3433
-asa(dp3436
+p3369
+sg13
+(dp3370
+I5
+S'48'
+p3371
+ssg16
+(lp3372
+S"This law reflects a conviction that we can regulate a private system, not just private insurers, but also private hospitals, private doctors, and achieve the goals that you're interested in, a universal system."
+p3373
+aS"And in fact, really, if you look at other countries, they're not all government controlled."
+p3374
+aS'They have many private insurance funds in many European countries and achieve a universal --'
+p3375
+asa(dp3376
 g8
-(lp3437
-S'Paul Starr.'
-p3438
+(lp3377
+S'Thank you.'
+p3378
+aS'On this side.'
+p3379
+aS'Douglas Holtz-Eakin.'
+p3380
 asg11
 S'JOHN DONVAN'
+p3381
+sg16
+(lp3382
+S'Thank you.'
+p3383
+aS'On this side.'
+p3384
+aS'Douglas Holtz-Eakin.'
+p3385
+asa(dp3386
+g8
+(lp3387
+S"There's nothing about insurance companies, per se, that anyone should like."
+p3388
+aS"But thealternative, a monopoly that you have to deal with, is completely inferior to having avibrant insurance industry that has to compete for your business.I would much rather force them to give me a decent service than have a mandate that Ihave to use the one that's supplied by the government."
+p3389
+aS"The second thing is, remember,for those advocates of a single big national payer, a national payer cannot negotiate anybetter between one hospital in Wichita and another hospital in Wichita which isultimately where you have to negotiate who can provide this care at the cheapest price.They can't do it any better than the guy in Wichita."
+p3390
+aS'So there is literally no advantage to anational plan.'
+p3391
+aS"It's a charade."
+p3392
+asg11
+S'DOUGLAS HOLTZ-EAKIN'
+p3393
+sg16
+(lp3394
+S"There's nothing about insurance companies, per se, that anyone should like."
+p3395
+aS'But the alternative, a monopoly that you have to deal with, is completely inferior to having a vibrant insurance industry that has to compete for your business.'
+p3396
+aS"I would much rather force them to give me a decent service than have a mandate that I have to use the one that's supplied by the government."
+p3397
+aS'The second thing is, remember, for those advocates of a single big national payer, a national payer cannot negotiate any better between one hospital in Wichita and another hospital in Wichita which is ultimately where you have to negotiate who can provide this care at the cheapest price.'
+p3398
+aS"They can't do it any better than the guy in Wichita."
+p3399
+aS'So there is literally no advantage to a national plan.'
+p3400
+aS"It's a charade."
+p3401
+asg25
+(dp3402
+S'20:17:24'
+p3403
+I3
+ssa(dp3404
+g8
+(lp3405
+S'John Shadegg, your partner.'
+p3406
+asg11
+S'JOHN DONVAN'
+p3407
+sg16
+(lp3408
+g3406
+asa(dp3409
+g8
+(lp3410
+S'Your goal is my --'
+p3411
+asg11
+S'JOHN SHADEGG'
+p3412
+sg16
+(lp3413
+g3411
+asa(dp3414
+g113
+(dp3415
+I0
+S'[inaudible]'
+p3416
+ssg8
+(lp3417
+g22
+asg11
+S'FEMALE SPEAKER'
+p3418
+sg16
+(lp3419
+g22
+asa(dp3420
+g8
+(lp3421
+S'All right.'
+p3422
+aS'Debaters are here on this one.'
+p3423
+aS'John Shadegg, very quickly.'
+p3424
+asg11
+S'JOHN DONVAN'
+p3425
+sg16
+(lp3426
+S'All right.'
+p3427
+aS'Debaters are here on this one.'
+p3428
+aS'John Shadegg, very quickly.'
+p3429
+asa(dp3430
+g8
+(lp3431
+S'Your goal is my goal.'
+p3432
+aS'Long ago, I embraced universal coverage.'
+p3433
+aS"One point we haven'ttalked about tonight very much is how many people are going to lose the coverage theyhave."
+p3434
+aS'You said how do we get to that right healthcare system.'
+p3435
+aS"I'll tell you how."
+p3436
+aS'Numberone, allow the people that like their plan to keep their plan.'
+p3437
+aS'Number two, deal with theissue of the uninsured by giving them a refundable tax credit.Give them cash --'
+p3438
+asg11
+S'JOHN SHADEGG'
 p3439
 sg16
 (lp3440
-g3438
-asa(dp3441
-g8
-(lp3442
-S'When you pass the Medicare prescription drug program, the polls ran two to one againstit among seniors and the general population.'
+S'Your goal is my goal.'
+p3441
+aS'Long ago, I embraced universal coverage.'
+p3442
+aS"One point we haven't talked about tonight very much is how many people are going to lose the coverage they have."
 p3443
-aS'Eighty percent of people in polls said this istoo complicated.'
+aS'You said how do we get to that right healthcare system.'
 p3444
-aS'You did it anyway.'
+aS"I'll tell you how."
 p3445
-asg11
-S'PAUL STARR'
+aS'Number one, allow the people that like their plan to keep their plan.'
 p3446
-sg16
-(lp3447
-S'When you pass the Medicare prescription drug program, the polls ran two to one against it among seniors and the general population.'
+aS'Number two, deal with the issue of the uninsured by giving them a refundable tax credit.'
+p3447
+aS'Give them cash --'
 p3448
-aS'Eighty percent of people in polls said this is too complicated.'
-p3449
-aS'You did it anyway.'
+asg25
+(dp3449
+S'20:18:25'
 p3450
-asa(dp3451
+I5
+ssa(dp3451
 g8
 (lp3452
-S'And that concludes round two of this Intelligence Squared U.S. debate.'
+S"John, you've made this point before so I'm going to -- in the interest of time, I'm going tomove on."
 p3453
-aS"And here's wherewe are."
+aS'One more question.'
 p3454
-aS'We are about to hear brief closing remarks from each of the debaters in turn.They will be two minutes each.'
+aS"And, ma'am, purple scarf, yeah."
 p3455
-aS"And it's their last chance to try to change your minds totheir point of view."
+asg11
+S'JOHN DONVAN'
 p3456
-aS'Our motion is "Repeal Obamacare.'
-p3457
-aS'" You\'ve been asked to vote once.And we\'ll ask you to vote again in just a couple of minutes.'
+sg13
+(dp3457
+I2
+S'49'
 p3458
-aS'But first, round three.Round three, closing statements from each debater in turn.'
-p3459
-aS'They will be brief.'
+ssg16
+(lp3459
+S"John, you've made this point before so I'm going to -- in the interest of time, I'm going to move on."
 p3460
-aS'And first,to speak against our motion, Repeal Obamacare, against repeal, Paul Starr, professor atPrinceton University, cofounder and coeditor of the American Prospect and Pulitzer Prizewinning author of The Social Transformation of American Medicine.'
+aS'One more question.'
 p3461
-asg11
-S'JOHN DONVAN'
+aS"And, ma'am, purple scarf, yeah."
 p3462
-sg16
-(lp3463
-S'And that concludes round two of this Intelligence Squared U.S. debate.'
-p3464
-aS"And here's where we are."
-p3465
-aS'We are about to hear brief closing remarks from each of the debaters in turn.'
-p3466
-aS'They will be two minutes each.'
-p3467
-aS"And it's their last chance to try to change your minds to their point of view."
-p3468
-aS'Our motion is "Repeal Obamacare.'
-p3469
-aS'" You\'ve been asked to vote once.'
-p3470
-aS"And we'll ask you to vote again in just a couple of minutes."
-p3471
-aS'But first, round three.'
-p3472
-aS'Round three, closing statements from each debater in turn.'
-p3473
-aS'They will be brief.'
-p3474
-aS'And first, to speak against our motion, Repeal Obamacare, against repeal, Paul Starr, professor at Princeton University, cofounder and coeditor of the American Prospect and Pulitzer Prize winning author of The Social Transformation of American Medicine.'
-p3475
-asg25
-(dp3476
-S'20:23:24'
-p3477
-I9
-ssa(dp3478
-g113
-(dp3479
-I23
-S'[applause]'
-p3480
-ssg11
-S'PAUL STARR'
-p3481
-sg16
-(lp3482
-S'Thank you.'
-p3483
-aS"Two months ago, the editor of an Austrian newspaper, a conservative, by the way, asked me how Americans could possibly oppose giving health insurance to the millions who don't have it."
-p3484
-aS"To Europeans across the political spectrum, it's unthinkable to withhold health insurance, just as we would regard it as unthinkable to deny an education to children."
-p3485
-aS"The Austrians, the French, the Germans, who have excellent medical care, don't become uninsurable when they get ill."
-p3486
-aS"They don't get locked into a job for fear of losing health coverage."
-p3487
-aS'Universal coverage makes it more secure, and it actually makes them more free.'
-p3488
-aS'But every time the issue of universal coverage has arisen here, the opponents have used innuendo and fear to defeat health reforms that are common to every other advanced democracy.'
-p3489
-aS'And last year, we finally broke through that drum beat of fear with moderate legislation and to creating a more just and efficient system to cover the excluded and create mechanisms to slow the growth in costs.'
-p3490
-aS'Repealing the law would mean denying coverage to more than 30 million people.'
-p3491
-aS"It would mean repealing the laws' protections against abusive insurance practices, some of which have already gone into effect like barring the rescission of policies just because the subscriber gets sick."
-p3492
-aS'It would mean giving up a whole series of cost-containment measures that show a lot of promise for reign in medical inflation.'
-p3493
-aS'But even more importantly, repeal would be a concession of political helplessness in the face of a problem that has nagged at the national conscience for a century.'
-p3494
-aS'It would be a confession that we simply are not capable of the elementary decency toward the sick that characterizes every other advanced democracy.'
-p3495
-aS'There are surely changes that should be made in the law.'
-p3496
-aS'And it can be made.'
-p3497
-aS'But it would be an unspeakable tragedy for millions of people if we were to repeal it.'
-p3498
-asg25
-(dp3499
-S'20:25:24'
-p3500
-I23
-sS'20:24:19'
-p3501
-I10
-ssg8
-(lp3502
-S'Thank you.'
-p3503
-aS"Two months ago, the editor of an Austrian newspaper, a conservative, by theway, asked me how Americans could possibly oppose giving health insurance to themillions who don't have it."
-p3504
-aS"To Europeans across the political spectrum, it's unthinkableto withhold health insurance, just as we would regard it as unthinkable to deny aneducation to children."
-p3505
-aS"The Austrians, the French, the Germans, who have excellentmedical care, don't become uninsurable when they get ill."
-p3506
-aS"They don't get locked into ajob for fear of losing health coverage."
-p3507
-aS'Universal coverage makes it more secure, and itactually makes them more free.'
-p3508
-aS'But every time the issue of universal coverage has arisenhere, the opponents have used innuendo and fear to defeat health reforms that arecommon to every other advanced democracy.And last year, we finally broke through that drum beat of fear with moderate legislationand to creating a more just and efficient system to cover the excluded and createmechanisms to slow the growth in costs.'
-p3509
-aS'Repealing the law would mean denyingcoverage to more than 30 million people.'
-p3510
-aS"It would mean repealing the laws' protectionsagainst abusive insurance practices, some of which have already gone into effect likebarring the rescission of policies just because the subscriber gets sick."
-p3511
-aS'It would meangiving up a whole series of cost-containment measures that show a lot of promise forreign in medical inflation.'
-p3512
-aS'But even more importantly, repeal would be a concession ofpolitical helplessness in the face of a problem that has nagged at the national consciencefor a century.'
-p3513
-aS'It would be a confession that we simply are not capable of the elementarydecency toward the sick that characterizes every other advanced democracy.'
-p3514
-aS'There aresurely changes that should be made in the law.'
-p3515
-aS'And it can be made.'
-p3516
-aS'But it would be anunspeakable tragedy for millions of people if we were to repeal it.'
-p3517
-asg13
-(dp3518
-I10
-S'52'
-p3519
-ssa(dp3520
+asa(dp3463
 g8
-(lp3521
-S'Thank you, Paul Starr.'
-p3522
-aS'Our motion is "Repeal Obamacare.'
-p3523
-aS'" And here to speak for themotion, for repeal, John Shadegg, former eight-term Congressman from Arizona and aSenior Fellow at the Goldwater Institute.'
-p3524
+(lp3464
+S'My question is, why should we not trust our elected officials?'
+p3465
+aS'Why, if people have theirlives in public service -- well, I mean, you were voted into office.'
+p3466
+aS'Why should we not?'
+p3467
+aS'Ilived in Great Britain for 25 years.'
+p3468
+aS'I was a beneficiary of the National Health Service aswell as private medicine.'
+p3469
+aS'But there was an implicit trust that my tax pounds from mypaycheck would help subsidize healthcare.'
+p3470
+asg11
+S'FEMALE SPEAKER'
+p3471
+sg16
+(lp3472
+S'My question is, why should we not trust our elected officials?'
+p3473
+aS'Why, if people have their lives in public service -- well, I mean, you were voted into office.'
+p3474
+aS'Why should we not?'
+p3475
+aS'I lived in Great Britain for 25 years.'
+p3476
+aS'I was a beneficiary of the National Health Service as well as private medicine.'
+p3477
+aS'But there was an implicit trust that my tax pounds from my paycheck would help subsidize healthcare.'
+p3478
+asa(dp3479
+g8
+(lp3480
+S'Okay.'
+p3481
 asg11
 S'JOHN DONVAN'
-p3525
+p3482
 sg16
-(lp3526
-S'Thank you, Paul Starr.'
-p3527
-aS'Our motion is "Repeal Obamacare.'
-p3528
-aS'" And here to speak for the motion, for repeal, John Shadegg, former eight-term Congressman from Arizona and a Senior Fellow at the Goldwater Institute.'
-p3529
-asa(dp3530
+(lp3483
+g3481
+asa(dp3484
 g8
-(lp3531
-S'The current system is broken.'
-p3532
-aS'There is no question about it.'
-p3533
-aS"It's broken because it coststoo much, it's broken because there are too many people who don't have insurance, andit's tragically broken because some people are denied care because they have a chronicillness or preexisting condition."
-p3534
-aS'We need to address those problems, and there are lots ofreforms that we can to address them.'
-p3535
-aS'We can allow group pooling.'
-p3536
-aS'We can force theinsurance companies to become cost conscious and to have to compete with each other.We can give you control over your health insurance.'
-p3537
-aS'We can move away from third partypayer systems.'
-p3538
-aS'And we can begin to redo the system.'
-p3539
-aS"But we don't have to say that it'snot universal care."
-p3540
-aS'Indeed, my legislation and other legislation that Republicans haveoffered provide universal coverage.My legislation says you give every single American a tax credit.'
-p3541
-aS'For the poor, you givethem a refundable tax credit, an amount of money.'
-p3542
-aS"In the Coburn legislation and theRyan legislation, you write specific dollar amounts for people to buy health insurance,and it's cash in their hands to go buy a coverage that they choose."
-p3543
-aS'So we achieveuniversal coverage, every single American.'
-p3544
-aS"You can do universal enrollment as Idescribed, where you're automatically enrolled in that process."
-p3545
-aS'We can deal with theproblem of the uninsured without forcing a million Americans who like their currentcoverage to lose it, which is what Obamacare will do.'
-p3546
-aS'You will force millions ofAmericans to lose the coverage they currently have and they currently like.'
-p3547
-aS'And we candeal with the problem of preexisting conditions.'
-p3548
-aS'I had heart bypass surgery.'
-p3549
-aS'I have apreexisting condition.'
-p3550
-aS'I care about this issue.'
-p3551
-aS'I have an older sister -- my oldest sister,who has breast cancer.'
-p3552
-aS'No one should be denied healthcare because they have apreexisting condition.'
-p3553
-aS'But we can do that without forcing everybody out of the coveragethey have now.But rather by creating high risk pools that are funded by all the other insurancecompanies or by government, and helping those who are in need because they have highrisks.'
-p3554
-aS'Americans will happily pay to support people who have that kind of conditionbecause they dont know when they will have it next.'
-p3555
-aS'High risk pools will work for thosewith preexisting conditions.'
-p3556
+(lp3485
+S'But I trusted that they would, regardless of whether they were labor or conservative.'
+p3486
+aS"Andsame in this country, Republican, Democrats, we're all --"
+p3487
+asg11
+S'FEMALE SPEAKER'
+p3488
+sg16
+(lp3489
+S'But I trusted that they would, regardless of whether they were labor or conservative.'
+p3490
+aS"And same in this country, Republican, Democrats, we're all --"
+p3491
+asa(dp3492
+g8
+(lp3493
+S'So your question is why be so suspicious and skeptical of the ability of the bureaucracy todo the job well.'
+p3494
+aS'I want to put that --'
+p3495
+asg11
+S'JOHN DONVAN'
+p3496
+sg16
+(lp3497
+S'So your question is why be so suspicious and skeptical of the ability of the bureaucracy to do the job well.'
+p3498
+aS'I want to put that --'
+p3499
+asa(dp3500
+g8
+(lp3501
+S'Bureaucracy -- people who have devoted their lives to public service who are electedofficials, because some Americans --'
+p3502
+asg11
+S'FEMALE SPEAKER'
+p3503
+sg16
+(lp3504
+S'Bureaucracy -- people who have devoted their lives to public service who are elected officials, because some Americans --'
+p3505
+asg25
+(dp3506
+S'20:19:25'
+p3507
+I2
+ssa(dp3508
+g8
+(lp3509
+S'The elected officials.'
+p3510
+aS"Let's put that to the side that's arguing to repeal."
+p3511
+aS'John Shadegg.'
+p3512
+asg11
+S'JOHN DONVAN'
+p3513
+sg16
+(lp3514
+S'The elected officials.'
+p3515
+aS"Let's put that to the side that's arguing to repeal."
+p3516
+aS'John Shadegg.'
+p3517
+asa(dp3518
+g8
+(lp3519
+S'I think we should trust them.'
+p3520
+aS"However, in this instance, we didn't."
+p3521
+aS"And point of fact,when Obamacare passed, it was opposed by roughly 54 percent of the American people.Each day it's opposed by somewhere closer to 60 percent of the people."
+p3522
+aS"There is no pollout there yet that says that it's favored by more people than not."
+p3523
+aS'But more importantlythan that -- and this is a key point -- when a nation that is a democracy makes a radicalchange in public policy, it should be reflected not by the narrowest of consensus but by avery broad consensus.'
+p3524
+aS'When Social Security was adopted, more than 80 percent of themembers of the Congress, House and Senate, voted for the creation of Social Security.When Medicare and Medicare were created, more than 70 percent of the members ofCongress supported those programs.'
+p3525
+aS'When SCHIP was adopted, again, the numberswere well over 75 percent of the members of Congress.'
+p3526
 asg11
 S'JOHN SHADEGG'
-p3557
-sg13
-(dp3558
-I18
-S'53'
-p3559
-ssg16
-(lp3560
-S'The current system is broken.'
-p3561
-aS'There is no question about it.'
-p3562
-aS"It's broken because it costs too much, it's broken because there are too many people who don't have insurance, and it's tragically broken because some people are denied care because they have a chronic illness or preexisting condition."
-p3563
-aS'We need to address those problems, and there are lots of reforms that we can to address them.'
-p3564
-aS'We can allow group pooling.'
-p3565
-aS'We can force the insurance companies to become cost conscious and to have to compete with each other.'
-p3566
-aS'We can give you control over your health insurance.'
-p3567
-aS'We can move away from third party payer systems.'
-p3568
-aS'And we can begin to redo the system.'
-p3569
-aS"But we don't have to say that it's not universal care."
-p3570
-aS'Indeed, my legislation and other legislation that Republicans have offered provide universal coverage.'
-p3571
-aS'My legislation says you give every single American a tax credit.'
-p3572
-aS'For the poor, you give them a refundable tax credit, an amount of money.'
-p3573
-aS"In the Coburn legislation and the Ryan legislation, you write specific dollar amounts for people to buy health insurance, and it's cash in their hands to go buy a coverage that they choose."
-p3574
-aS'So we achieve universal coverage, every single American.'
-p3575
-aS"You can do universal enrollment as I described, where you're automatically enrolled in that process."
-p3576
-aS'We can deal with the problem of the uninsured without forcing a million Americans who like their current coverage to lose it, which is what Obamacare will do.'
-p3577
-aS'You will force millions of Americans to lose the coverage they currently have and they currently like.'
-p3578
-aS'And we can deal with the problem of preexisting conditions.'
-p3579
-aS'I had heart bypass surgery.'
-p3580
-aS'I have a preexisting condition.'
-p3581
-aS'I care about this issue.'
-p3582
-aS'I have an older sister -- my oldest sister, who has breast cancer.'
-p3583
-aS'No one should be denied healthcare because they have a preexisting condition.'
-p3584
-aS'But we can do that without forcing everybody out of the coverage they have now.'
-p3585
-aS'But rather by creating high risk pools that are funded by all the other insurance companies or by government, and helping those who are in need because they have high risks.'
-p3586
-aS'Americans will happily pay to support people who have that kind of condition because they dont know when they will have it next.'
-p3587
-aS'High risk pools will work for those with preexisting conditions.'
-p3588
+p3527
+sg16
+(lp3528
+S'I think we should trust them.'
+p3529
+aS"However, in this instance, we didn't."
+p3530
+aS'And point of fact, when Obamacare passed, it was opposed by roughly 54 percent of the American people.'
+p3531
+aS"Each day it's opposed by somewhere closer to 60 percent of the people."
+p3532
+aS"There is no poll out there yet that says that it's favored by more people than not."
+p3533
+aS'But more importantly than that -- and this is a key point -- when a nation that is a democracy makes a radical change in public policy, it should be reflected not by the narrowest of consensus but by a very broad consensus.'
+p3534
+aS'When Social Security was adopted, more than 80 percent of the members of the Congress, House and Senate, voted for the creation of Social Security.'
+p3535
+aS'When Medicare and Medicare were created, more than 70 percent of the members of Congress supported those programs.'
+p3536
+aS'When SCHIP was adopted, again, the numbers were well over 75 percent of the members of Congress.'
+p3537
 asg25
-(dp3589
-S'20:26:21'
-p3590
-I10
-sS'20:27:24'
-p3591
-I24
-ssa(dp3592
-g113
-(dp3593
-I1
-S'[applause]'
-p3594
-ssg8
-(lp3595
-S'John -- John Shadegg, your time is up.'
-p3596
-aS'Thank you very much.Our motion is, "Repeal Obamacare.'
-p3597
-aS'" And to speak in his closing remarks against the [[applause]] motion, Jonathan Cohn, senior editor at the New Republic, Senior Fellow at Demos, andauthor of "Sick: The Untold Story of Americas Healthcare Crisis and the People WhoPay the Price.'
-p3598
-ag1783
+(dp3538
+S'20:20:23'
+p3539
+I11
+ssa(dp3540
+g8
+(lp3541
+S'Okay.'
+p3542
 asg11
 S'JOHN DONVAN'
-p3599
+p3543
 sg16
-(lp3600
-S'John -- John Shadegg, your time is up.'
-p3601
-aS'Thank you very much.'
-p3602
-aS'Our motion is, "Repeal Obamacare.'
-p3603
-aS'" And to speak in his closing remarks against the motion, Jonathan Cohn, senior editor at the New Republic, Senior Fellow at Demos, and author of "Sick: The Untold Story of Americas Healthcare Crisis and the People Who Pay the Price.'
-p3604
-ag1783
-asa(dp3605
+(lp3544
+g3542
+asa(dp3545
+g8
+(lp3546
+S'When this bill passed, it passed by the slimmest of margins.'
+p3547
+aS'In the House, 50.8 percent,purely partisan vote.'
+p3548
+aS'And without the kind of consensus that I think will make itsustainable.'
+p3549
+asg11
+S'JOHN SHADEGG'
+p3550
+sg13
+(dp3551
+I0
+S'50'
+p3552
+ssg16
+(lp3553
+S'When this bill passed, it passed by the slimmest of margins.'
+p3554
+aS'In the House, 50.8 percent, purely partisan vote.'
+p3555
+aS'And without the kind of consensus that I think will make it sustainable.'
+p3556
+asa(dp3557
+g8
+(lp3558
+S'Jonathan Cohn.'
+p3559
+asg11
+S'JOHN DONVAN'
+p3560
+sg16
+(lp3561
+g3559
+asa(dp3562
+g8
+(lp3563
+S"If it were sustainable, we wouldn't be having this debate."
+p3564
+asg11
+S'JOHN SHADEGG'
+p3565
+sg16
+(lp3566
+g3564
+asa(dp3567
+g8
+(lp3568
+S'Jonathan Cohn, 30 seconds.'
+p3569
+asg11
+S'JOHN DONVAN'
+p3570
+sg16
+(lp3571
+g3569
+asa(dp3572
+g8
+(lp3573
+S'Okay.'
+p3574
+aS"Very quickly, the polls -- if you scratch those polls even a little bit, what you willfind is that it's a country overall."
+p3575
+aS'Do you like the healthcare reform?'
+p3576
+aS'Yes, no, aboutdivided.'
+p3577
+aS"Ask the people who don't like it, do you think it should be repealed and just weshould go back to the way we were, or make it stronger?"
+p3578
+aS'About half the people break off,say, Oh, no, we want it to be stronger.'
+p3579
+aS"And if you test the individual elements, they'rewildly popular-- protection against pre-existing conditions, getting kids under 25 onparents insurance."
+p3580
+aS'All of these things are wildly popular.'
+p3581
+aS"And yes, it's true, theRepublican Party did not -- this was a closed vote."
+p3582
+aS'You know why that is?'
+p3583
+aS"It's becausewe live in a world not like the one 20, 30 years ago, where you had a responsibleRepublican party, where you had moderate Republicans -- "
+p3584
+asg11
+S'JONATHAN COHN'
+p3585
+sg16
+(lp3586
+S'Okay.'
+p3587
+aS"Very quickly, the polls -- if you scratch those polls even a little bit, what you will find is that it's a country overall."
+p3588
+aS'Do you like the healthcare reform?'
+p3589
+aS'Yes, no, about divided.'
+p3590
+aS"Ask the people who don't like it, do you think it should be repealed and just we should go back to the way we were, or make it stronger?"
+p3591
+aS'About half the people break off, say, Oh, no, we want it to be stronger.'
+p3592
+aS"And if you test the individual elements, they're wildly popular-- protection against pre-existing conditions, getting kids under 25 on parents insurance."
+p3593
+aS'All of these things are wildly popular.'
+p3594
+aS"And yes, it's true, the Republican Party did not -- this was a closed vote."
+p3595
+aS'You know why that is?'
+p3596
+aS"It's because we live in a world not like the one 20, 30 years ago, where you had a responsible Republican party, where you had moderate Republicans -- "
+p3597
+asa(dp3598
 g113
-(dp3606
+(dp3599
+I1
+S'[applause]'
+p3600
+ssg8
+(lp3601
+S'Oh.'
+p3602
+aS'Ooh!'
+p3603
+asg11
+S'JOHN SHADEGG'
+p3604
+sg16
+(lp3605
+S'Oh.'
+p3606
+aS'Ooh!'
+p3607
+asg25
+(dp3608
+S'20:21:21'
+p3609
+I1
+ssa(dp3610
+g8
+(lp3611
+S'Just like, as my colleague said.'
+p3612
+aS'The ideas in this plan were virtually identical in the broadframework to what the Republicans were proposing just 12 years ago.'
+p3613
+aS"It's what MittRomney said."
+p3614
+aS'This is not a radical plan.'
+p3615
+asg11
+S'JONATHAN COHN'
+p3616
+sg16
+(lp3617
+S'Just like, as my colleague said.'
+p3618
+aS'The ideas in this plan were virtually identical in the broad framework to what the Republicans were proposing just 12 years ago.'
+p3619
+aS"It's what Mitt Romney said."
+p3620
+aS'This is not a radical plan.'
+p3621
+asa(dp3622
+g8
+(lp3623
+S'John Shadegg, equal time for you on that.'
+p3624
+asg11
+S'JOHN DONVAN'
+p3625
+sg16
+(lp3626
+g3624
+asa(dp3627
+g8
+(lp3628
+S"I think it's offensive to say that the Republican Party is irresponsible."
+p3629
+aS"You know, I'msorry."
+p3630
+aS'I take offense at that.'
+p3631
+aS"I have offered healthcare reform bills every year I've been inCongress."
+p3632
+aS'There are many.'
+p3633
+aS"I'm sorry the woman over there didn't hear them."
+p3634
+aS'Yes,Republicans passed the opportunity when they hold both majorities of Congress.'
+p3635
+aS'Butquite frankly, we did not have the demand that we have now seen.'
+p3636
+aS'But how do youdefend the fact that broad consensus is necessary to support this legislation?'
+p3637
+aS"Have youdefended it other than to say -- other than to say, well, back then, the Republican Partywas responsible, and now it's not."
+p3638
+aS"That's really -- quite frankly, in the context of whathappened last week, inappropriate."
+p3639
+asg11
+S'JOHN SHADEGG'
+p3640
+sg13
+(dp3641
+I3
+S'51'
+p3642
+ssg16
+(lp3643
+S"I think it's offensive to say that the Republican Party is irresponsible."
+p3644
+aS"You know, I'm sorry."
+p3645
+aS'I take offense at that.'
+p3646
+aS"I have offered healthcare reform bills every year I've been in Congress."
+p3647
+aS'There are many.'
+p3648
+aS"I'm sorry the woman over there didn't hear them."
+p3649
+aS'Yes, Republicans passed the opportunity when they hold both majorities of Congress.'
+p3650
+aS'But quite frankly, we did not have the demand that we have now seen.'
+p3651
+aS'But how do you defend the fact that broad consensus is necessary to support this legislation?'
+p3652
+aS"Have you defended it other than to say -- other than to say, well, back then, the Republican Party was responsible, and now it's not."
+p3653
+aS"That's really -- quite frankly, in the context of what happened last week, inappropriate."
+p3654
+asg25
+(dp3655
+S'20:22:23'
+p3656
+I9
+ssa(dp3657
+g8
+(lp3658
+S'When you pass the Medicare prescription drug program --'
+p3659
+asg11
+S'PAUL STARR'
+p3660
+sg16
+(lp3661
+g3659
+asa(dp3662
+g8
+(lp3663
+S'Paul Starr.'
+p3664
+asg11
+S'JOHN DONVAN'
+p3665
+sg16
+(lp3666
+g3664
+asa(dp3667
+g8
+(lp3668
+S'When you pass the Medicare prescription drug program, the polls ran two to one againstit among seniors and the general population.'
+p3669
+aS'Eighty percent of people in polls said this istoo complicated.'
+p3670
+aS'You did it anyway.'
+p3671
+asg11
+S'PAUL STARR'
+p3672
+sg16
+(lp3673
+S'When you pass the Medicare prescription drug program, the polls ran two to one against it among seniors and the general population.'
+p3674
+aS'Eighty percent of people in polls said this is too complicated.'
+p3675
+aS'You did it anyway.'
+p3676
+asa(dp3677
+g8
+(lp3678
+S'And that concludes round two of this Intelligence Squared U.S. debate.'
+p3679
+aS"And here's wherewe are."
+p3680
+aS'We are about to hear brief closing remarks from each of the debaters in turn.They will be two minutes each.'
+p3681
+aS"And it's their last chance to try to change your minds totheir point of view."
+p3682
+aS'Our motion is "Repeal Obamacare.'
+p3683
+aS'" You\'ve been asked to vote once.And we\'ll ask you to vote again in just a couple of minutes.'
+p3684
+aS'But first, round three.Round three, closing statements from each debater in turn.'
+p3685
+aS'They will be brief.'
+p3686
+aS'And first,to speak against our motion, Repeal Obamacare, against repeal, Paul Starr, professor atPrinceton University, cofounder and coeditor of the American Prospect and Pulitzer Prizewinning author of The Social Transformation of American Medicine.'
+p3687
+asg11
+S'JOHN DONVAN'
+p3688
+sg16
+(lp3689
+S'And that concludes round two of this Intelligence Squared U.S. debate.'
+p3690
+aS"And here's where we are."
+p3691
+aS'We are about to hear brief closing remarks from each of the debaters in turn.'
+p3692
+aS'They will be two minutes each.'
+p3693
+aS"And it's their last chance to try to change your minds to their point of view."
+p3694
+aS'Our motion is "Repeal Obamacare.'
+p3695
+aS'" You\'ve been asked to vote once.'
+p3696
+aS"And we'll ask you to vote again in just a couple of minutes."
+p3697
+aS'But first, round three.'
+p3698
+aS'Round three, closing statements from each debater in turn.'
+p3699
+aS'They will be brief.'
+p3700
+aS'And first, to speak against our motion, Repeal Obamacare, against repeal, Paul Starr, professor at Princeton University, cofounder and coeditor of the American Prospect and Pulitzer Prize winning author of The Social Transformation of American Medicine.'
+p3701
+asg25
+(dp3702
+S'20:23:24'
+p3703
+I9
+ssa(dp3704
+g113
+(dp3705
+I23
+S'[applause]'
+p3706
+ssg11
+S'PAUL STARR'
+p3707
+sg16
+(lp3708
+S'Thank you.'
+p3709
+aS"Two months ago, the editor of an Austrian newspaper, a conservative, by the way, asked me how Americans could possibly oppose giving health insurance to the millions who don't have it."
+p3710
+aS"To Europeans across the political spectrum, it's unthinkable to withhold health insurance, just as we would regard it as unthinkable to deny an education to children."
+p3711
+aS"The Austrians, the French, the Germans, who have excellent medical care, don't become uninsurable when they get ill."
+p3712
+aS"They don't get locked into a job for fear of losing health coverage."
+p3713
+aS'Universal coverage makes it more secure, and it actually makes them more free.'
+p3714
+aS'But every time the issue of universal coverage has arisen here, the opponents have used innuendo and fear to defeat health reforms that are common to every other advanced democracy.'
+p3715
+aS'And last year, we finally broke through that drum beat of fear with moderate legislation and to creating a more just and efficient system to cover the excluded and create mechanisms to slow the growth in costs.'
+p3716
+aS'Repealing the law would mean denying coverage to more than 30 million people.'
+p3717
+aS"It would mean repealing the laws' protections against abusive insurance practices, some of which have already gone into effect like barring the rescission of policies just because the subscriber gets sick."
+p3718
+aS'It would mean giving up a whole series of cost-containment measures that show a lot of promise for reign in medical inflation.'
+p3719
+aS'But even more importantly, repeal would be a concession of political helplessness in the face of a problem that has nagged at the national conscience for a century.'
+p3720
+aS'It would be a confession that we simply are not capable of the elementary decency toward the sick that characterizes every other advanced democracy.'
+p3721
+aS'There are surely changes that should be made in the law.'
+p3722
+aS'And it can be made.'
+p3723
+aS'But it would be an unspeakable tragedy for millions of people if we were to repeal it.'
+p3724
+asg25
+(dp3725
+S'20:25:24'
+p3726
+I23
+sS'20:24:19'
+p3727
+I10
+ssg8
+(lp3728
+S'Thank you.'
+p3729
+aS"Two months ago, the editor of an Austrian newspaper, a conservative, by theway, asked me how Americans could possibly oppose giving health insurance to themillions who don't have it."
+p3730
+aS"To Europeans across the political spectrum, it's unthinkableto withhold health insurance, just as we would regard it as unthinkable to deny aneducation to children."
+p3731
+aS"The Austrians, the French, the Germans, who have excellentmedical care, don't become uninsurable when they get ill."
+p3732
+aS"They don't get locked into ajob for fear of losing health coverage."
+p3733
+aS'Universal coverage makes it more secure, and itactually makes them more free.'
+p3734
+aS'But every time the issue of universal coverage has arisenhere, the opponents have used innuendo and fear to defeat health reforms that arecommon to every other advanced democracy.And last year, we finally broke through that drum beat of fear with moderate legislationand to creating a more just and efficient system to cover the excluded and createmechanisms to slow the growth in costs.'
+p3735
+aS'Repealing the law would mean denyingcoverage to more than 30 million people.'
+p3736
+aS"It would mean repealing the laws' protectionsagainst abusive insurance practices, some of which have already gone into effect likebarring the rescission of policies just because the subscriber gets sick."
+p3737
+aS'It would meangiving up a whole series of cost-containment measures that show a lot of promise forreign in medical inflation.'
+p3738
+aS'But even more importantly, repeal would be a concession ofpolitical helplessness in the face of a problem that has nagged at the national consciencefor a century.'
+p3739
+aS'It would be a confession that we simply are not capable of the elementarydecency toward the sick that characterizes every other advanced democracy.'
+p3740
+aS'There aresurely changes that should be made in the law.'
+p3741
+aS'And it can be made.'
+p3742
+aS'But it would be anunspeakable tragedy for millions of people if we were to repeal it.'
+p3743
+asg13
+(dp3744
+I10
+S'52'
+p3745
+ssa(dp3746
+g8
+(lp3747
+S'Thank you, Paul Starr.'
+p3748
+aS'Our motion is "Repeal Obamacare.'
+p3749
+aS'" And here to speak for themotion, for repeal, John Shadegg, former eight-term Congressman from Arizona and aSenior Fellow at the Goldwater Institute.'
+p3750
+asg11
+S'JOHN DONVAN'
+p3751
+sg16
+(lp3752
+S'Thank you, Paul Starr.'
+p3753
+aS'Our motion is "Repeal Obamacare.'
+p3754
+aS'" And here to speak for the motion, for repeal, John Shadegg, former eight-term Congressman from Arizona and a Senior Fellow at the Goldwater Institute.'
+p3755
+asa(dp3756
+g8
+(lp3757
+S'The current system is broken.'
+p3758
+aS'There is no question about it.'
+p3759
+aS"It's broken because it coststoo much, it's broken because there are too many people who don't have insurance, andit's tragically broken because some people are denied care because they have a chronicillness or preexisting condition."
+p3760
+aS'We need to address those problems, and there are lots ofreforms that we can to address them.'
+p3761
+aS'We can allow group pooling.'
+p3762
+aS'We can force theinsurance companies to become cost conscious and to have to compete with each other.We can give you control over your health insurance.'
+p3763
+aS'We can move away from third partypayer systems.'
+p3764
+aS'And we can begin to redo the system.'
+p3765
+aS"But we don't have to say that it'snot universal care."
+p3766
+aS'Indeed, my legislation and other legislation that Republicans haveoffered provide universal coverage.My legislation says you give every single American a tax credit.'
+p3767
+aS'For the poor, you givethem a refundable tax credit, an amount of money.'
+p3768
+aS"In the Coburn legislation and theRyan legislation, you write specific dollar amounts for people to buy health insurance,and it's cash in their hands to go buy a coverage that they choose."
+p3769
+aS'So we achieveuniversal coverage, every single American.'
+p3770
+aS"You can do universal enrollment as Idescribed, where you're automatically enrolled in that process."
+p3771
+aS'We can deal with theproblem of the uninsured without forcing a million Americans who like their currentcoverage to lose it, which is what Obamacare will do.'
+p3772
+aS'You will force millions ofAmericans to lose the coverage they currently have and they currently like.'
+p3773
+aS'And we candeal with the problem of preexisting conditions.'
+p3774
+aS'I had heart bypass surgery.'
+p3775
+aS'I have apreexisting condition.'
+p3776
+aS'I care about this issue.'
+p3777
+aS'I have an older sister -- my oldest sister,who has breast cancer.'
+p3778
+aS'No one should be denied healthcare because they have apreexisting condition.'
+p3779
+aS'But we can do that without forcing everybody out of the coveragethey have now.But rather by creating high risk pools that are funded by all the other insurancecompanies or by government, and helping those who are in need because they have highrisks.'
+p3780
+aS'Americans will happily pay to support people who have that kind of conditionbecause they dont know when they will have it next.'
+p3781
+aS'High risk pools will work for thosewith preexisting conditions.'
+p3782
+asg11
+S'JOHN SHADEGG'
+p3783
+sg13
+(dp3784
+I18
+S'53'
+p3785
+ssg16
+(lp3786
+S'The current system is broken.'
+p3787
+aS'There is no question about it.'
+p3788
+aS"It's broken because it costs too much, it's broken because there are too many people who don't have insurance, and it's tragically broken because some people are denied care because they have a chronic illness or preexisting condition."
+p3789
+aS'We need to address those problems, and there are lots of reforms that we can to address them.'
+p3790
+aS'We can allow group pooling.'
+p3791
+aS'We can force the insurance companies to become cost conscious and to have to compete with each other.'
+p3792
+aS'We can give you control over your health insurance.'
+p3793
+aS'We can move away from third party payer systems.'
+p3794
+aS'And we can begin to redo the system.'
+p3795
+aS"But we don't have to say that it's not universal care."
+p3796
+aS'Indeed, my legislation and other legislation that Republicans have offered provide universal coverage.'
+p3797
+aS'My legislation says you give every single American a tax credit.'
+p3798
+aS'For the poor, you give them a refundable tax credit, an amount of money.'
+p3799
+aS"In the Coburn legislation and the Ryan legislation, you write specific dollar amounts for people to buy health insurance, and it's cash in their hands to go buy a coverage that they choose."
+p3800
+aS'So we achieve universal coverage, every single American.'
+p3801
+aS"You can do universal enrollment as I described, where you're automatically enrolled in that process."
+p3802
+aS'We can deal with the problem of the uninsured without forcing a million Americans who like their current coverage to lose it, which is what Obamacare will do.'
+p3803
+aS'You will force millions of Americans to lose the coverage they currently have and they currently like.'
+p3804
+aS'And we can deal with the problem of preexisting conditions.'
+p3805
+aS'I had heart bypass surgery.'
+p3806
+aS'I have a preexisting condition.'
+p3807
+aS'I care about this issue.'
+p3808
+aS'I have an older sister -- my oldest sister, who has breast cancer.'
+p3809
+aS'No one should be denied healthcare because they have a preexisting condition.'
+p3810
+aS'But we can do that without forcing everybody out of the coverage they have now.'
+p3811
+aS'But rather by creating high risk pools that are funded by all the other insurance companies or by government, and helping those who are in need because they have high risks.'
+p3812
+aS'Americans will happily pay to support people who have that kind of condition because they dont know when they will have it next.'
+p3813
+aS'High risk pools will work for those with preexisting conditions.'
+p3814
+asg25
+(dp3815
+S'20:26:21'
+p3816
+I10
+sS'20:27:24'
+p3817
+I24
+ssa(dp3818
+g113
+(dp3819
+I1
+S'[applause]'
+p3820
+ssg8
+(lp3821
+S'John -- John Shadegg, your time is up.'
+p3822
+aS'Thank you very much.Our motion is, "Repeal Obamacare.'
+p3823
+aS'" And to speak in his closing remarks against the [[applause]] motion, Jonathan Cohn, senior editor at the New Republic, Senior Fellow at Demos, andauthor of "Sick: The Untold Story of Americas Healthcare Crisis and the People WhoPay the Price.'
+p3824
+ag1874
+asg11
+S'JOHN DONVAN'
+p3825
+sg16
+(lp3826
+S'John -- John Shadegg, your time is up.'
+p3827
+aS'Thank you very much.'
+p3828
+aS'Our motion is, "Repeal Obamacare.'
+p3829
+aS'" And to speak in his closing remarks against the motion, Jonathan Cohn, senior editor at the New Republic, Senior Fellow at Demos, and author of "Sick: The Untold Story of Americas Healthcare Crisis and the People Who Pay the Price.'
+p3830
+ag1874
+asa(dp3831
+g113
+(dp3832
 I25
 S'[applause]'
-p3607
+p3833
 ssg11
 S'JONATHAN COHN'
-p3608
+p3834
 sg16
-(lp3609
+(lp3835
 S'There was a question at some point that talked about the human side to this, and I wanted to just take this and say thats where I started.'
-p3610
+p3836
 aS'About 15 years ago I started interviewing people all over the country, and I met people who had their own firsthand experiences with the healthcare system, and I remember very, very vividly a man in upstate New York who had a good job, a good college education, was a defense contractor, he lost that job, he got the job back, but without benefits, and because of that, two years his wife who was ill did not get any medical visits, ended up she had cancer, it went undiagnosed, she died, and the family had to declare bankruptcy.'
-p3611
+p3837
 aS'For me, hearing that story and literally hundreds like it is where this all starts for me.'
-p3612
+p3838
 aS'This is a problem we have had in this country for a long time.'
-p3613
+p3839
 aS'It is a problem that keeps getting worse.'
-p3614
+p3840
 aS'Two years ago we had a presidential election.'
-p3615
+p3841
 aS'And we debated, what are we going to do about this?'
-p3616
+p3842
 aS'One, President Obama won, the Democrats got in and this was job number one.'
-p3617
+p3843
 aS'They reached out to the Republicans.'
-p3618
+p3844
 aS'They took ideas that Republicans had for years claimed as their own and said, "All right, well meet you halfway, and well try -- we will come up with a plan that builds on your ideas and our ideas and well work together.'
-p3619
+p3845
 aS'" And the Republicans walked away, and they said, "Fine.'
-p3620
+p3846
 aS'We have to go it alone, well go it alone.'
-p3621
+p3847
 aS'" But they kept the same ideas, they took the best from left and right, and what did they get?'
-p3622
+p3848
 aS'Its not a perfect plan, but it is a plan that will mean 30 million people have health insurance.'
-p3623
+p3849
 aS'It will mean that the insurance people have will be good insurance that will cover what they need.'
-p3624
+p3850
 aS'It will mean that people will have financial assistance.'
-p3625
+p3851
 aS'Congressman Shadegg never tells you this part of his plan, but the credit he would offer people isnt enough to pay for a good plan and people with pre-existing conditions, it would basically work out to second class insurance for second class people.'
-p3626
+p3852
 aS"This is the plan they're talking about."
-p3627
+p3853
 aS"The cost control, not perfect, it could be better, fine, as Doug Holtz-Eakin, himself, said, these are the same ideas, we all agree on them, let's work together and double them down."
-p3628
+p3854
 aS'But repeal Obamacare?'
-p3629
+p3855
 aS'Tom Harkin said, "This is a starter house, its got a good foundation, and its got room for expansion.'
-p3630
+p3856
 aS'" I say lets keep that foundation, lets build onto it, and lets not repeal Obamacare, lets not start over, lets go forward.'
-p3631
+p3857
 asg25
-(dp3632
+(dp3858
 S'20:28:22'
-p3633
+p3859
 I5
 sS'20:29:23'
-p3634
+p3860
 I20
 ssg8
-(lp3635
+(lp3861
 S'There was a question at some point that talked about the human side to this, and I wantedto just take this and say thats where I started.'
-p3636
+p3862
 aS'About 15 years ago I started interviewingpeople all over the country, and I met people who had their own firsthand experienceswith the healthcare system, and I remember very, very vividly a man in upstate NewYorkwho had a good job, a good college education, was a defense contractor, he lost that job,he got the job back, but without benefits, and because of that, two years his wife who wasill did not get any medical visits, ended up she had cancer, it went undiagnosed, she died,and the family had to declare bankruptcy.'
-p3637
+p3863
 aS'For me, hearing that story and literallyhundreds like it is where this all starts for me.'
-p3638
+p3864
 aS'This is a problem we have had in thiscountry for a long time.'
-p3639
+p3865
 aS'It is a problem that keeps getting worse.'
-p3640
+p3866
 aS'Two years ago we hada presidential election.'
-p3641
+p3867
 aS'And we debated, what are we going to do about this?'
-p3642
+p3868
 aS'One,President Obama won, the Democrats got in and this was job number one.'
-p3643
+p3869
 aS'They reachedout to the Republicans.'
-p3644
+p3870
 aS'They took ideas that Republicans had for years claimed as theirown and said, "All right, well meet you halfway, and well try -- we will come up with aplan that builds on your ideas and our ideas and well work together.'
-p3645
+p3871
 aS'" And theRepublicans walked away, and they said, "Fine.'
-p3646
+p3872
 aS'We have to go it alone, well go italone.'
-p3647
+p3873
 aS'" But they kept the same ideas, they took the best from left and right, and what didthey get?'
-p3648
+p3874
 aS'Its not a perfect plan, but it is a plan that will mean 30 million people havehealth insurance.It will mean that the insurance people have will be good insurance that will cover whatthey need.'
-p3649
+p3875
 aS'It will mean that people will have financial assistance.'
-p3650
+p3876
 aS"Congressman Shadeggnever tells you this part of his plan, but the credit he would offer people isnt enough topay for a good plan and people with pre-existing conditions, it would basically work outto second class insurance for second class people.This is the plan they're talking about."
-p3651
+p3877
 aS"The cost control, not perfect, it could be better, [[applause]] fine, as Doug Holtz-Eakin, himself, said, these are the same ideas, we all agree on them,let's work together and double them down."
-p3652
+p3878
 aS'But repeal Obamacare?'
-p3653
+p3879
 aS'Tom Harkin said,"This is a starter house, its got a good foundation, and its got room for expansion.'
-p3654
+p3880
 aS'" Isay lets keep that foundation, lets build onto it, and lets not repeal Obamacare, lets notstart over, lets go forward.'
-p3655
+p3881
 asg13
-(dp3656
+(dp3882
 I17
 S'54'
-p3657
-ssasS'after'
-p3658
-(lp3659
-S'22%-FOR'
-p3660
-aS'72%-AGAINST'
-p3661
-aS'6%-UNDECIDED'
-p3662
-asS'against'
-p3663
-(lp3664
-S'JONATHAN COHN'
-p3665
-aS'PAUL STARR'
-p3666
-asS'moderator'
-p3667
-(lp3668
+p3883
+ssa(dp3884
+g113
+(dp3885
+I1
+S'[applause]'
+p3886
+ssg8
+(lp3887
+S'Thank you, Jonathan Cohn.Our motion is "Repeal Obamacare.'
+p3888
+aS'" And finally, to speak for the motion, for repeal, [[applause]] Douglas Holtz-Eakin, who is President of the American Action Forum and a formerDirector of the Congressional Budget Office and former advisor to John McCain.'
+p3889
+asg11
 S'JOHN DONVAN'
-p3669
+p3890
+sg16
+(lp3891
+S'Thank you, Jonathan Cohn.'
+p3892
+aS'Our motion is "Repeal Obamacare.'
+p3893
+aS'" And finally, to speak for the motion, for repeal, Douglas Holtz-Eakin, who is President of the American Action Forum and a former Director of the Congressional Budget Office and former advisor to John McCain.'
+p3894
+asg25
+(dp3895
+S'20:30:28'
+p3896
+I4
+ssa(dp3897
+g113
+(dp3898
+I26
+S'[applause]'
+p3899
+ssg11
+S'DOUGLAS HOLTZ-EAKIN'
+p3900
+sg16
+(lp3901
+S'I thank you for listening tonight and this is ultimately a debate about our future and I dont think anyone should question the aspirations or good will of either side of this stage in terms of what one would like in affordable coverage for every American and access to high quality care.'
+p3902
+aS'Those values are shared.'
+p3903
+aS'What is at issue is what is the best way to go forward and to try to build on this foundation, one that is riddled with financial cancer and one that has only window dressing at attempting to deal with the real problems of the American healthcare system is a dangerous place to begin and it should be repealed in favor of a real future of the American healthcare system.'
+p3904
+aS'Now, weve heard that somehow the Republicans got all their ideas and I believe that the vigorous debate tonight would stipulate thats not the case.'
+p3905
+aS'This is not something on which we can build a future.'
+p3906
+aS'This is a dangerous beginning.'
+p3907
+aS'It does not fix the broken programs that are threatening the financial future of the United States.'
+p3908
+aS'Medicare and Medicaid are not touched by this program.'
+p3909
+aS'They are important pieces of the social welfare system in the United States.'
+p3910
+aS'They deserved the attention of the healthcare reform.'
+p3911
+aS'They were dismissed as unimportant.'
+p3912
+aS'Instead we got a strategy to double down on those broken failures and try to write checks to paper over a broken system and in the process we are threatening the very future of this country, threatening the freedom and prosperity of Americans on which the healthcare system and everything else will be built.'
+p3913
+aS'And we are most tragically doing it at the expense of our youngest and most vulnerable, our kids.'
+p3914
+aS'They didnt get a vote.'
+p3915
+aS'They arent going to be able to believe what we have done to them when they grow up.'
+p3916
+aS'They will pay the bills now.'
+p3917
+aS'They will pay the bills later.'
+p3918
+aS'They wont see higher quality care.'
+p3919
+aS'Theyll see more expensive care.'
+p3920
+aS'And we will, in the process, take many of them into systems that ostensibly give them access but where no physician can treat them, no hospital will want them in their beds and they will not get good care and they will be broke to boot.'
+p3921
+aS'Repeal Obamacare today.'
+p3922
+asg25
+(dp3923
+S'20:32:30'
+p3924
+I25
+sS'20:31:22'
+p3925
+I11
+ssg8
+(lp3926
+S'I thank you for listening tonight and this is ultimately a debate about our future and Idont think anyone should question the aspirations or good will of either side of this stagein terms of what one would like in affordable coverage for every American and access tohigh quality care.'
+p3927
+aS'Those values are shared.'
+p3928
+aS'What is at issue is what is the best way to goforward and to try to build on this foundation, one that is riddled with financial cancerand one that has only window dressing at attempting to deal with the real problems of theAmerican healthcare system is a dangerous place to begin and it should be repealed infavor of a real future of the American healthcare system.'
+p3929
+aS'Now, weve heard thatsomehow the Republicans got all their ideas and I believe that the vigorous debate tonightwould stipulate thats not the case.'
+p3930
+aS'This is not something on which we can build a future.This is a dangerous beginning.It does not fix the broken programs that are threatening the financial future of the UnitedStates.'
+p3931
+aS'Medicare and Medicaid are not touched by this program.'
+p3932
+aS'They are importantpieces of the social welfare system in the United States.'
+p3933
+aS'They deserved the attention ofthe healthcare reform.'
+p3934
+aS'They were dismissed as unimportant.'
+p3935
+aS'Instead we got a strategy todouble down on those broken failures and try to write checks to paper over a brokensystem and in the process we are threatening the very future of this country, threateningthe freedom and prosperity of Americans on which the healthcare system and everythingelse will be built.'
+p3936
+aS'And we are most tragically doing it at the expense of our youngest andmost vulnerable, our kids.'
+p3937
+aS'They didnt get a vote.'
+p3938
+aS'They arent going to be able to believewhat we have done to them when they grow up.'
+p3939
+aS'They will pay the bills now.'
+p3940
+aS'They willpay the bills later.'
+p3941
+aS'They wont see higher quality care.'
+p3942
+aS'Theyll see more expensive care.And we will, in the process, take many of them into systems that ostensibly give themaccess but where no physician can treat them, no hospital will want them in their bedsand they will not get good care and they will be broke to boot.Repeal Obamacare today.'
+p3943
+asg13
+(dp3944
+I11
+S'55'
+p3945
+ssasS'after'
+p3946
+(lp3947
+S'22%-FOR'
+p3948
+aS'72%-AGAINST'
+p3949
+aS'6%-UNDECIDED'
+p3950
+asS'against'
+p3951
+(lp3952
+S'JONATHAN COHN'
+p3953
+aS'PAUL STARR'
+p3954
+asS'moderator'
+p3955
+(lp3956
+S'JOHN DONVAN'
+p3957
 asS'date'
-p3670
-(dp3671
+p3958
+(dp3959
 S'year'
-p3672
+p3960
 S'2011'
-p3673
+p3961
 sS'day'
-p3674
+p3962
 S'11'
-p3675
+p3963
 sS'month'
-p3676
+p3964
 S'January'
-p3677
+p3965
 ssS'before'
-p3678
-(lp3679
+p3966
+(lp3967
 S'17%-FOR'
-p3680
+p3968
 aS'47%-AGAINST'
-p3681
+p3969
 aS'36%-UNDECIDED'
-p3682
+p3970
 as.

@@ -2998,7 +2998,7 @@ g8
 (lp1432
 S"First of all, don't trust Dan and -- and his statistics."
 p1433
-aS'He is -- he has a fairly serious case of--'
+aS'He is -- he has a fairly serious case of'
 p1434
 asg11
 S'CHRISTINA HOFF SOMMERS'
@@ -3007,122 +3007,122 @@ sg16
 (lp1436
 S"First of all, don't trust Dan and -- and his statistics."
 p1437
-aS'He is -- he has a fairly serious case of --'
+aS'He is -- he has a fairly serious case of'
 p1438
 asa(dp1439
+g8
+(lp1440
+S''
+p1441
+asg11
+S'--'
+p1442
+sg16
+(lp1443
+g1441
+asa(dp1444
 g22
-(dp1440
+(dp1445
 I2
 S'[laughter]'
-p1441
+p1446
 ssg8
-(lp1442
+(lp1447
 S"And he's a columnist for Men's Health magazine."
-p1443
+p1448
 aS'He has the hardest time getting hispieces through our fact-checking department.'
-p1444
+p1449
 asg11
 S'DAVID ZINCZENKO'
-p1445
+p1450
 sg16
-(lp1446
+(lp1451
 S"And he's a columnist for Men's Health magazine."
-p1447
-aS'He has the hardest time getting his pieces through our fact-checking department.'
-p1448
-asa(dp1449
-g8
-(lp1450
-S'Dan --'
-p1451
-asg11
-S'CHRISTINA HOFF SOMMERS'
 p1452
-sg16
-(lp1453
-g1451
+aS'He has the hardest time getting his pieces through our fact-checking department.'
+p1453
 asa(dp1454
 g8
 (lp1455
-S'He is so fired, yeah, yeah.'
+S'Dan --'
 p1456
-aS"It's ridiculous."
-p1457
-asg11
-S'MALE ZINCZENKO'
-p1458
-sg13
-(dp1459
-I0
-S'24'
-p1460
-ssg16
-(lp1461
-S'He is so fired, yeah, yeah.'
-p1462
-aS"It's ridiculous."
-p1463
-asa(dp1464
-g8
-(lp1465
-S"Did you not say -- didn't you not claim in your book that women have better physicalendurance?"
-p1466
-aS'Did you not claim that women could take pain better than men?'
-p1467
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p1468
+p1457
 sg16
-(lp1469
-S"Did you not say -- didn't you not claim in your book that women have better physical endurance?"
-p1470
-aS'Did you not claim that women could take pain better than men?'
-p1471
-asa(dp1472
+(lp1458
+g1456
+asa(dp1459
 g8
-(lp1473
-S'Yes.'
-p1474
+(lp1460
+S'He is so fired, yeah, yeah.'
+p1461
+aS"It's ridiculous."
+p1462
 asg11
-S'DAN ABRAMS'
-p1475
+S'MALE ZINCZENKO'
+p1463
+sg13
+(dp1464
+I0
+S'24'
+p1465
+ssg16
+(lp1466
+S'He is so fired, yeah, yeah.'
+p1467
+aS"It's ridiculous."
+p1468
+asa(dp1469
+g8
+(lp1470
+S"Did you not say -- didn't you not claim in your book that women have better physicalendurance?"
+p1471
+aS'Did you not claim that women could take pain better than men?'
+p1472
+asg11
+S'CHRISTINA HOFF SOMMERS'
+p1473
 sg16
-(lp1476
-g1474
+(lp1474
+S"Did you not say -- didn't you not claim in your book that women have better physical endurance?"
+p1475
+aS'Did you not claim that women could take pain better than men?'
+p1476
 asa(dp1477
 g8
 (lp1478
-S'Both of these things are false.'
+S'Yes.'
 p1479
-aS'There is a vast library of literature --'
+asg11
+S'DAN ABRAMS'
 p1480
+sg16
+(lp1481
+g1479
+asa(dp1482
+g8
+(lp1483
+S'Both of these things are false.'
+p1484
+aS'There is a vast library of literature --'
+p1485
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p1481
+p1486
 sg16
-(lp1482
+(lp1487
 S'Both of these things are false.'
-p1483
+p1488
 aS'There is a vast library of literature --'
-p1484
-asa(dp1485
+p1489
+asa(dp1490
 g22
-(dp1486
+(dp1491
 I1
 S'[laughter]'
-p1487
-ssg8
-(lp1488
-S'Childbirth.'
-p1489
-aS'Childbirth.'
-p1490
-aS'Childbirth.'
-p1491
-asg11
-S'HANNA ROSIN'
 p1492
-sg16
+ssg8
 (lp1493
 S'Childbirth.'
 p1494
@@ -3130,35 +3130,35 @@ aS'Childbirth.'
 p1495
 aS'Childbirth.'
 p1496
-asg18
-(dp1497
-S'19:33:19'
-p1498
-I1
-ssa(dp1499
-g8
-(lp1500
-S'Epidural, epidural, invented by men.'
-p1501
 asg11
-S'CHRISTINA HOFF SOMMERS'
-p1502
+S'HANNA ROSIN'
+p1497
 sg16
-(lp1503
-g1501
-asa(dp1504
+(lp1498
+S'Childbirth.'
+p1499
+aS'Childbirth.'
+p1500
+aS'Childbirth.'
+p1501
+asg18
+(dp1502
+S'19:33:19'
+p1503
+I1
+ssa(dp1504
 g8
 (lp1505
-S'Yes.'
+S'Epidural, epidural, invented by men.'
 p1506
-aS'Sorry.'
-p1507
-aS"What's the question?"
-p1508
 asg11
-S'DAN ABRAMS'
-p1509
+S'CHRISTINA HOFF SOMMERS'
+p1507
 sg16
+(lp1508
+g1506
+asa(dp1509
+g8
 (lp1510
 S'Yes.'
 p1511
@@ -3166,24 +3166,24 @@ aS'Sorry.'
 p1512
 aS"What's the question?"
 p1513
-asa(dp1514
-g8
-(lp1515
-S'Endurance, physical endurance.'
-p1516
 asg11
-S'CHRISTINA HOFF SOMMERS'
-p1517
+S'DAN ABRAMS'
+p1514
 sg16
-(lp1518
-g1516
+(lp1515
+S'Yes.'
+p1516
+aS'Sorry.'
+p1517
+aS"What's the question?"
+p1518
 asa(dp1519
 g8
 (lp1520
-S'Yeah.'
+S'Endurance, physical endurance.'
 p1521
 asg11
-S'DAN ABRAMS'
+S'CHRISTINA HOFF SOMMERS'
 p1522
 sg16
 (lp1523
@@ -3191,10 +3191,10 @@ g1521
 asa(dp1524
 g8
 (lp1525
-S'You think that women have better physical endurance.'
+S'Yeah.'
 p1526
 asg11
-S'CHRISTINA HOFF SOMMERS'
+S'DAN ABRAMS'
 p1527
 sg16
 (lp1528
@@ -3202,70 +3202,70 @@ g1526
 asa(dp1529
 g8
 (lp1530
-S"That's that there is an advantage that women have with estrogen and fat that providesthem an advantage --"
+S'You think that women have better physical endurance.'
 p1531
 asg11
-S'DAN ABRAMS'
+S'CHRISTINA HOFF SOMMERS'
 p1532
 sg16
 (lp1533
-S"That's that there is an advantage that women have with estrogen and fat that provides them an advantage --"
-p1534
-asa(dp1535
+g1531
+asa(dp1534
 g8
-(lp1536
-S'Fat?'
-p1537
-asg11
-S'CHRISTINA HOFF SOMMERS'
-p1538
-sg16
-(lp1539
-g1537
-asa(dp1540
-g22
-(dp1541
-I1
-S'[laughter]'
-p1542
-ssg8
-(lp1543
-S"It's true, yes.It's true."
-p1544
-aS'[[laughter]] '
-p1545
+(lp1535
+S"That's that there is an advantage that women have with estrogen and fat that providesthem an advantage --"
+p1536
 asg11
 S'DAN ABRAMS'
-p1546
-sg13
-(dp1547
-I1
-S'25'
-p1548
-ssg16
-(lp1549
-S"It's true, yes."
-p1550
-aS"It's true."
-p1551
-asa(dp1552
+p1537
+sg16
+(lp1538
+S"That's that there is an advantage that women have with estrogen and fat that provides them an advantage --"
+p1539
+asa(dp1540
 g8
-(lp1553
-S'I rest my case.'
-p1554
+(lp1541
+S'Fat?'
+p1542
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p1555
+p1543
 sg16
-(lp1556
-g1554
+(lp1544
+g1542
+asa(dp1545
+g22
+(dp1546
+I1
+S'[laughter]'
+p1547
+ssg8
+(lp1548
+S"It's true, yes.It's true."
+p1549
+aS'[[laughter]] '
+p1550
+asg11
+S'DAN ABRAMS'
+p1551
+sg13
+(dp1552
+I1
+S'25'
+p1553
+ssg16
+(lp1554
+S"It's true, yes."
+p1555
+aS"It's true."
+p1556
 asa(dp1557
 g8
 (lp1558
-S'It allows --'
+S'I rest my case.'
 p1559
 asg11
-S'DAN ABRAMS'
+S'CHRISTINA HOFF SOMMERS'
 p1560
 sg16
 (lp1561
@@ -3273,10 +3273,10 @@ g1559
 asa(dp1562
 g8
 (lp1563
-S'I rest my case.'
+S'It allows --'
 p1564
 asg11
-S'CHRISTINA HOFF SOMMERS'
+S'DAN ABRAMS'
 p1565
 sg16
 (lp1566
@@ -3284,61 +3284,61 @@ g1564
 asa(dp1567
 g8
 (lp1568
-S"It allows women to engage certain endurance activities better and longer than men.That does not mean they're faster."
+S'I rest my case.'
 p1569
 asg11
-S'DAN ABRAMS'
+S'CHRISTINA HOFF SOMMERS'
 p1570
 sg16
 (lp1571
-S'It allows women to engage certain endurance activities better and longer than men.'
-p1572
-aS"That does not mean they're faster."
-p1573
-asa(dp1574
+g1569
+asa(dp1572
 g8
-(lp1575
-S'Name one activity.'
-p1576
+(lp1573
+S"It allows women to engage certain endurance activities better and longer than men.That does not mean they're faster."
+p1574
 asg11
-S'CHRISTINA HOFF SOMMERS'
-p1577
+S'DAN ABRAMS'
+p1575
 sg16
-(lp1578
-g1576
+(lp1576
+S'It allows women to engage certain endurance activities better and longer than men.'
+p1577
+aS"That does not mean they're faster."
+p1578
 asa(dp1579
 g8
 (lp1580
-S"I'll tell you one."
+S'Name one activity.'
 p1581
-aS'In the -- in the ultra marathons is the only race where women can beatmen, okay?'
-p1582
-aS'This is --'
-p1583
 asg11
-S'DAN ABRAMS'
-p1584
+S'CHRISTINA HOFF SOMMERS'
+p1582
 sg16
+(lp1583
+g1581
+asa(dp1584
+g8
 (lp1585
 S"I'll tell you one."
 p1586
-aS'In the -- in the ultra marathons is the only race where women can beat men, okay?'
+aS'In the -- in the ultra marathons is the only race where women can beatmen, okay?'
 p1587
 aS'This is --'
 p1588
-asa(dp1589
-g8
-(lp1590
-S"Don't clap."
-p1591
-aS"He's just wrong."
-p1592
-aS"He's got to be --"
-p1593
 asg11
-S'CHRISTINA HOFF SOMMERS'
-p1594
+S'DAN ABRAMS'
+p1589
 sg16
+(lp1590
+S"I'll tell you one."
+p1591
+aS'In the -- in the ultra marathons is the only race where women can beat men, okay?'
+p1592
+aS'This is --'
+p1593
+asa(dp1594
+g8
 (lp1595
 S"Don't clap."
 p1596
@@ -3346,77 +3346,77 @@ aS"He's just wrong."
 p1597
 aS"He's got to be --"
 p1598
-asa(dp1599
-g8
-(lp1600
-S"It's not true?"
-p1601
-aS'Am I making it up?'
-p1602
-asg11
-S'DAN ABRAMS'
-p1603
-sg16
-(lp1604
-S"It's not true?"
-p1605
-aS'Am I making it up?'
-p1606
-asa(dp1607
-g8
-(lp1608
-S'You are making it up.'
-p1609
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p1610
+p1599
 sg16
-(lp1611
-g1609
+(lp1600
+S"Don't clap."
+p1601
+aS"He's just wrong."
+p1602
+aS"He's got to be --"
+p1603
+asa(dp1604
+g8
+(lp1605
+S"It's not true?"
+p1606
+aS'Am I making it up?'
+p1607
+asg11
+S'DAN ABRAMS'
+p1608
+sg16
+(lp1609
+S"It's not true?"
+p1610
+aS'Am I making it up?'
+p1611
 asa(dp1612
 g8
 (lp1613
-S'-- that a woman won the ultra marathon.'
+S'You are making it up.'
 p1614
-aS"It's the only sport where men versus women,that women -- I didn't say always win."
-p1615
-aS'Women can win.'
-p1616
 asg11
-S'DAN ABRAMS'
-p1617
+S'CHRISTINA HOFF SOMMERS'
+p1615
 sg16
+(lp1616
+g1614
+asa(dp1617
+g8
 (lp1618
 S'-- that a woman won the ultra marathon.'
 p1619
-aS"It's the only sport where men versus women, that women -- I didn't say always win."
+aS"It's the only sport where men versus women,that women -- I didn't say always win."
 p1620
 aS'Women can win.'
 p1621
-asa(dp1622
-g8
-(lp1623
-S'Oh, one woman won in the Mojave Desert a couple of years ago.'
-p1624
 asg11
-S'CHRISTINA HOFF SOMMERS'
-p1625
+S'DAN ABRAMS'
+p1622
 sg16
-(lp1626
-g1624
+(lp1623
+S'-- that a woman won the ultra marathon.'
+p1624
+aS"It's the only sport where men versus women, that women -- I didn't say always win."
+p1625
+aS'Women can win.'
+p1626
 asa(dp1627
 g8
 (lp1628
-S'But wait a sec.'
+S'Oh, one woman won in the Mojave Desert a couple of years ago.'
 p1629
-aS'Wait a sec.'
-p1630
-aS"There's a --"
-p1631
 asg11
-S'DAN ABRAMS'
-p1632
+S'CHRISTINA HOFF SOMMERS'
+p1630
 sg16
+(lp1631
+g1629
+asa(dp1632
+g8
 (lp1633
 S'But wait a sec.'
 p1634
@@ -3424,94 +3424,94 @@ aS'Wait a sec.'
 p1635
 aS"There's a --"
 p1636
-asa(dp1637
-g8
+asg11
+S'DAN ABRAMS'
+p1637
+sg16
 (lp1638
-S"There's a huge record --"
+S'But wait a sec.'
 p1639
+aS'Wait a sec.'
+p1640
+aS"There's a --"
+p1641
+asa(dp1642
+g8
+(lp1643
+S"There's a huge record --"
+p1644
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p1640
+p1645
 sg13
-(dp1641
+(dp1646
 I0
 S'26'
-p1642
-ssg16
-(lp1643
-g1639
-asa(dp1644
-g8
-(lp1645
-S'-- fact that a woman beat a man in an athletic competition is unheard of.The bottom line is men are still better athletes than women.'
-p1646
-aS"Men are stronger thanwomen, and they're faster than women."
 p1647
+ssg16
+(lp1648
+g1644
+asa(dp1649
+g8
+(lp1650
+S'-- fact that a woman beat a man in an athletic competition is unheard of.The bottom line is men are still better athletes than women.'
+p1651
+aS"Men are stronger thanwomen, and they're faster than women."
+p1652
 aS'But the one area where women can competeis in areas where it requires excessive endurance.'
-p1648
+p1653
 aS'And these ultra marathons are 135miles plus.'
-p1649
+p1654
 asg11
 S'DAN ABRAMS'
-p1650
-sg16
-(lp1651
-S'-- fact that a woman beat a man in an athletic competition is unheard of.'
-p1652
-aS'The bottom line is men are still better athletes than women.'
-p1653
-aS"Men are stronger than women, and they're faster than women."
-p1654
-aS'But the one area where women can compete is in areas where it requires excessive endurance.'
 p1655
-aS'And these ultra marathons are 135 miles plus.'
-p1656
-asg18
-(dp1657
-S'19:34:19'
+sg16
+(lp1656
+S'-- fact that a woman beat a man in an athletic competition is unheard of.'
+p1657
+aS'The bottom line is men are still better athletes than women.'
 p1658
-I1
-ssa(dp1659
-g8
-(lp1660
-S"Just to stop this discussion, there's some very good articles that have come out in recentyears."
+aS"Men are stronger than women, and they're faster than women."
+p1659
+aS'But the one area where women can compete is in areas where it requires excessive endurance.'
+p1660
+aS'And these ultra marathons are 135 miles plus.'
 p1661
-aS"Just look at Richard Coast at Northern Arizona University who did a definitivestudy to undue this myth that was born in the '90s where they predicted women -- itcame in Nature magazine."
-p1662
-aS'They predicted women were going to win the marathon in1998.'
+asg18
+(dp1662
+S'19:34:19'
 p1663
+I1
+ssa(dp1664
+g8
+(lp1665
+S"Just to stop this discussion, there's some very good articles that have come out in recentyears."
+p1666
+aS"Just look at Richard Coast at Northern Arizona University who did a definitivestudy to undue this myth that was born in the '90s where they predicted women -- itcame in Nature magazine."
+p1667
+aS'They predicted women were going to win the marathon in1998.'
+p1668
 aS'It came and went.'
-p1664
+p1669
 aS"Women didn't win."
-p1665
+p1670
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p1666
-sg16
-(lp1667
-S"Just to stop this discussion, there's some very good articles that have come out in recent years."
-p1668
-aS"Just look at Richard Coast at Northern Arizona University who did a definitive study to undue this myth that was born in the '90s where they predicted women -- it came in Nature magazine."
-p1669
-aS'They predicted women were going to win the marathon in 1998.'
-p1670
-aS'It came and went.'
 p1671
-aS"Women didn't win."
-p1672
-asa(dp1673
-g8
-(lp1674
-S"They're not going to win the marathon."
-p1675
-aS"They're not."
-p1676
-aS'The bottom line is men are --'
-p1677
-asg11
-S'DAN ABRAMS'
-p1678
 sg16
+(lp1672
+S"Just to stop this discussion, there's some very good articles that have come out in recent years."
+p1673
+aS"Just look at Richard Coast at Northern Arizona University who did a definitive study to undue this myth that was born in the '90s where they predicted women -- it came in Nature magazine."
+p1674
+aS'They predicted women were going to win the marathon in 1998.'
+p1675
+aS'It came and went.'
+p1676
+aS"Women didn't win."
+p1677
+asa(dp1678
+g8
 (lp1679
 S"They're not going to win the marathon."
 p1680
@@ -3519,24 +3519,24 @@ aS"They're not."
 p1681
 aS'The bottom line is men are --'
 p1682
-asa(dp1683
-g8
-(lp1684
-S"And they're not winning the ultra marathon."
-p1685
 asg11
-S'CHRISTINA HOFF SOMMERS'
-p1686
+S'DAN ABRAMS'
+p1683
 sg16
-(lp1687
-g1685
+(lp1684
+S"They're not going to win the marathon."
+p1685
+aS"They're not."
+p1686
+aS'The bottom line is men are --'
+p1687
 asa(dp1688
 g8
 (lp1689
-S"No, it's not true."
+S"And they're not winning the ultra marathon."
 p1690
 asg11
-S'DAN ABRAMS'
+S'CHRISTINA HOFF SOMMERS'
 p1691
 sg16
 (lp1692
@@ -3544,190 +3544,190 @@ g1690
 asa(dp1693
 g8
 (lp1694
-S'And what Coast and other experts say is the longer and the -- the test of endurance, thegreater the gap favoring males.'
+S"No, it's not true."
 p1695
-aS"You've just got it wrong."
-p1696
-aS"You've got your facts wrong."
-p1697
 asg11
-S'CHRISTINA HOFF SOMMERS'
-p1698
+S'DAN ABRAMS'
+p1696
 sg16
+(lp1697
+g1695
+asa(dp1698
+g8
 (lp1699
-S'And what Coast and other experts say is the longer and the -- the test of endurance, the greater the gap favoring males.'
+S'And what Coast and other experts say is the longer and the -- the test of endurance, thegreater the gap favoring males.'
 p1700
 aS"You've just got it wrong."
 p1701
 aS"You've got your facts wrong."
 p1702
-asa(dp1703
-g8
+asg11
+S'CHRISTINA HOFF SOMMERS'
+p1703
+sg16
 (lp1704
-S"It's not wrong."
+S'And what Coast and other experts say is the longer and the -- the test of endurance, the greater the gap favoring males.'
 p1705
-aS'The reality --'
+aS"You've just got it wrong."
 p1706
+aS"You've got your facts wrong."
+p1707
+asa(dp1708
+g8
+(lp1709
+S"It's not wrong."
+p1710
+aS'The reality --'
+p1711
 asg11
 S'DAN ABRAMS'
-p1707
+p1712
 sg16
-(lp1708
+(lp1713
 S"It's not wrong."
-p1709
-aS'The reality --'
-p1710
-asa(dp1711
-g8
-(lp1712
-S'All right.'
-p1713
-aS"We're going to move past on that one."
 p1714
-aS'Okay.'
+aS'The reality --'
 p1715
+asa(dp1716
+g8
+(lp1717
+S'All right.'
+p1718
+aS"We're going to move past on that one."
+p1719
+aS'Okay.'
+p1720
 aS'What about billiards?'
-p1716
+p1721
 asg11
 S'JOHN DONVAN'
-p1717
-sg16
-(lp1718
-S'All right.'
-p1719
-aS"We're going to move past on that one."
-p1720
-aS'Okay.'
-p1721
-aS'What about billiards?'
 p1722
-asa(dp1723
-g8
-(lp1724
-S'Sorry?'
-p1725
-asg11
-S'DAN ABRAMS'
-p1726
 sg16
-(lp1727
-g1725
+(lp1723
+S'All right.'
+p1724
+aS"We're going to move past on that one."
+p1725
+aS'Okay.'
+p1726
+aS'What about billiards?'
+p1727
 asa(dp1728
 g8
 (lp1729
-S'Billiards.'
+S'Sorry?'
 p1730
 asg11
-S'FEMALE SPEAKER'
+S'DAN ABRAMS'
 p1731
+sg16
+(lp1732
+g1730
+asa(dp1733
+g8
+(lp1734
+S'Billiards.'
+p1735
+asg11
+S'FEMALE SPEAKER'
+p1736
 sg13
-(dp1732
+(dp1737
 I1
 S'27'
-p1733
-ssg16
-(lp1734
-g1730
-asa(dp1735
-g8
-(lp1736
-S'Oh, billiards.'
-p1737
-aS'Billiards, yes.'
 p1738
+ssg16
+(lp1739
+g1735
+asa(dp1740
+g8
+(lp1741
+S'Oh, billiards.'
+p1742
+aS'Billiards, yes.'
+p1743
 asg11
 S'DAN ABRAMS'
-p1739
+p1744
 sg16
-(lp1740
+(lp1745
 S'Oh, billiards.'
-p1741
-aS'Billiards, yes.'
-p1742
-asa(dp1743
-g8
-(lp1744
-S"Christina, I want to put a question to you -- a question to you.You -- you talked about fields where men's, I would say, brawn is relevant; firefighters,the people who protect us, soldiers."
-p1745
-aS'You mentioned loggers.'
 p1746
-aS"And -- and they're kind ofcreating a world where they're saying it's -- it's more important now to be a bloggerthan to be a logger, that -- that there is -- that it's a Facebook world, and the Facebookworld works better for women in many different ways, the social skills, et cetera."
+aS'Billiards, yes.'
 p1747
+asa(dp1748
+g8
+(lp1749
+S"Christina, I want to put a question to you -- a question to you.You -- you talked about fields where men's, I would say, brawn is relevant; firefighters,the people who protect us, soldiers."
+p1750
+aS'You mentioned loggers.'
+p1751
+aS"And -- and they're kind ofcreating a world where they're saying it's -- it's more important now to be a bloggerthan to be a logger, that -- that there is -- that it's a Facebook world, and the Facebookworld works better for women in many different ways, the social skills, et cetera."
+p1752
 aS"So Ijust wanted you to take on that notion that structurally we're changing so that therelevance of female characteristics to the economy, their economic value has becomeenhanced, while male so-called characteristics, brawn, for example --"
-p1748
+p1753
 asg11
 S'JOHN DONVAN'
-p1749
-sg16
-(lp1750
-S'Christina, I want to put a question to you -- a question to you.'
-p1751
-aS"You -- you talked about fields where men's, I would say, brawn is relevant; firefighters, the people who protect us, soldiers."
-p1752
-aS'You mentioned loggers.'
-p1753
-aS"And -- and they're kind of creating a world where they're saying it's -- it's more important now to be a blogger than to be a logger, that -- that there is -- that it's a Facebook world, and the Facebook world works better for women in many different ways, the social skills, et cetera."
 p1754
-aS"So I just wanted you to take on that notion that structurally we're changing so that the relevance of female characteristics to the economy, their economic value has become enhanced, while male so-called characteristics, brawn, for example --"
-p1755
-asg18
-(dp1756
-S'19:35:22'
+sg16
+(lp1755
+S'Christina, I want to put a question to you -- a question to you.'
+p1756
+aS"You -- you talked about fields where men's, I would say, brawn is relevant; firefighters, the people who protect us, soldiers."
 p1757
-I1
-ssa(dp1758
-g8
-(lp1759
-S"I don't disagree with Dan or Hanna that there -- there's a female ascendancy which I findas exciting as -- both as a woman and grandmother of Eliza.I like to see these opportunities for women and women moving into centers of power.But again, I insist that what they're doing is forging a partnership with men in runningthe world."
+aS'You mentioned loggers.'
+p1758
+aS"And -- and they're kind of creating a world where they're saying it's -- it's more important now to be a blogger than to be a logger, that -- that there is -- that it's a Facebook world, and the Facebook world works better for women in many different ways, the social skills, et cetera."
+p1759
+aS"So I just wanted you to take on that notion that structurally we're changing so that the relevance of female characteristics to the economy, their economic value has become enhanced, while male so-called characteristics, brawn, for example --"
 p1760
-aS"They're not taking over."
-p1761
-aS'And -- and women are men are equal but different.And I think women are dazzling but in different ways.'
+asg18
+(dp1761
+S'19:35:22'
 p1762
+I1
+ssa(dp1763
+g8
+(lp1764
+S"I don't disagree with Dan or Hanna that there -- there's a female ascendancy which I findas exciting as -- both as a woman and grandmother of Eliza.I like to see these opportunities for women and women moving into centers of power.But again, I insist that what they're doing is forging a partnership with men in runningthe world."
+p1765
+aS"They're not taking over."
+p1766
+aS'And -- and women are men are equal but different.And I think women are dazzling but in different ways.'
+p1767
 aS'And so if I had been allowed tofinish when I was up there instead of --'
-p1763
+p1768
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p1764
-sg16
-(lp1765
-S"I don't disagree with Dan or Hanna that there -- there's a female ascendancy which I find as exciting as -- both as a woman and grandmother of Eliza."
-p1766
-aS'I like to see these opportunities for women and women moving into centers of power.'
-p1767
-aS"But again, I insist that what they're doing is forging a partnership with men in running the world."
-p1768
-aS"They're not taking over."
 p1769
-aS'And -- and women are men are equal but different.'
-p1770
-aS'And I think women are dazzling but in different ways.'
-p1771
-aS'And so if I had been allowed to finish when I was up there instead of --'
-p1772
-asg18
-(dp1773
-S'19:36:18'
-p1774
-I2
-ssa(dp1775
-g8
-(lp1776
-S'Now -- now you --'
-p1777
-asg11
-S'JOHN DONVAN'
-p1778
 sg16
-(lp1779
-g1777
-asa(dp1780
+(lp1770
+S"I don't disagree with Dan or Hanna that there -- there's a female ascendancy which I find as exciting as -- both as a woman and grandmother of Eliza."
+p1771
+aS'I like to see these opportunities for women and women moving into centers of power.'
+p1772
+aS"But again, I insist that what they're doing is forging a partnership with men in running the world."
+p1773
+aS"They're not taking over."
+p1774
+aS'And -- and women are men are equal but different.'
+p1775
+aS'And I think women are dazzling but in different ways.'
+p1776
+aS'And so if I had been allowed to finish when I was up there instead of --'
+p1777
+asg18
+(dp1778
+S'19:36:18'
+p1779
+I2
+ssa(dp1780
 g8
 (lp1781
-S'-- only a woman was not allowed .'
+S'Now -- now you --'
 p1782
 asg11
-S'CHRISTINA HOFF SOMMERS'
+S'JOHN DONVAN'
 p1783
 sg16
 (lp1784
@@ -3735,10 +3735,10 @@ g1782
 asa(dp1785
 g8
 (lp1786
-S"No, no, now you've got that moment, so I would take it."
+S'-- only a woman was not allowed .'
 p1787
 asg11
-S'JOHN DONVAN'
+S'CHRISTINA HOFF SOMMERS'
 p1788
 sg16
 (lp1789
@@ -3746,237 +3746,237 @@ g1787
 asa(dp1790
 g8
 (lp1791
-S"When I talked about the boys and girls with the doll house, and the boys catapulted thebaby carriage from the roof, even when -- when men and women get older, there's thiscomplementarity."
+S"No, no, now you've got that moment, so I would take it."
 p1792
-aS'We still need the catapulters.'
+asg11
+S'JOHN DONVAN'
 p1793
-aS'We still need the nurturers.'
-p1794
-aS'Typicallyif a parent -- you know, a father and mother go to a park with a child and there\'s ajungle gym, the mother will say, "Be careful.'
-p1795
-aS'" The father will say, "Can you get to thetop?'
-p1796
-aS'" I think that we need both the nurturers and the catapulters and that the idea thatwe\'re going to have one over the other is unknown and can --'
+sg16
+(lp1794
+g1792
+asa(dp1795
+g8
+(lp1796
+S"When I talked about the boys and girls with the doll house, and the boys catapulted thebaby carriage from the roof, even when -- when men and women get older, there's thiscomplementarity."
 p1797
+aS'We still need the catapulters.'
+p1798
+aS'We still need the nurturers.'
+p1799
+aS'Typicallyif a parent -- you know, a father and mother go to a park with a child and there\'s ajungle gym, the mother will say, "Be careful.'
+p1800
+aS'" The father will say, "Can you get to thetop?'
+p1801
+aS'" I think that we need both the nurturers and the catapulters and that the idea thatwe\'re going to have one over the other is unknown and can --'
+p1802
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p1798
+p1803
 sg13
-(dp1799
+(dp1804
 I5
 S'28'
-p1800
-ssg16
-(lp1801
-S"When I talked about the boys and girls with the doll house, and the boys catapulted the baby carriage from the roof, even when -- when men and women get older, there's this complementarity."
-p1802
-aS'We still need the catapulters.'
-p1803
-aS'We still need the nurturers.'
-p1804
-aS'Typically if a parent -- you know, a father and mother go to a park with a child and there\'s a jungle gym, the mother will say, "Be careful.'
 p1805
-aS'" The father will say, "Can you get to the top?'
-p1806
-aS'" I think that we need both the nurturers and the catapulters and that the idea that we\'re going to have one over the other is unknown and can --'
+ssg16
+(lp1806
+S"When I talked about the boys and girls with the doll house, and the boys catapulted the baby carriage from the roof, even when -- when men and women get older, there's this complementarity."
 p1807
-asg18
-(dp1808
-S'19:37:17'
+aS'We still need the catapulters.'
+p1808
+aS'We still need the nurturers.'
 p1809
-I7
-ssa(dp1810
-g8
-(lp1811
-S'But the notion that the -- that so-called feminism qualities which would include what,Hanna, become more relevant economically?'
+aS'Typically if a parent -- you know, a father and mother go to a park with a child and there\'s a jungle gym, the mother will say, "Be careful.'
+p1810
+aS'" The father will say, "Can you get to the top?'
+p1811
+aS'" I think that we need both the nurturers and the catapulters and that the idea that we\'re going to have one over the other is unknown and can --'
 p1812
+asg18
+(dp1813
+S'19:37:17'
+p1814
+I7
+ssa(dp1815
+g8
+(lp1816
+S'But the notion that the -- that so-called feminism qualities which would include what,Hanna, become more relevant economically?'
+p1817
 asg11
 S'JOHN DONVAN'
-p1813
-sg16
-(lp1814
-S'But the notion that the -- that so-called feminism qualities which would include what, Hanna, become more relevant economically?'
-p1815
-asa(dp1816
-g8
-(lp1817
-S"You know, I'm so reluctant to enter this WAW women are wonderful -- how do we say it-- debate?"
 p1818
+sg16
+(lp1819
+S'But the notion that the -- that so-called feminism qualities which would include what, Hanna, become more relevant economically?'
+p1820
+asa(dp1821
+g8
+(lp1822
+S"You know, I'm so reluctant to enter this WAW women are wonderful -- how do we say it-- debate?"
+p1823
 aS"I mean, I don't know that women are particularly awesome, like when I enterthis bloggers versus loggers conversation, this isn't a value judgment like loggers arelosers, it's not the -- that's not the motto --"
-p1819
+p1824
 asg11
 S'HANNA ROSIN'
-p1820
+p1825
 sg16
-(lp1821
+(lp1826
 S"You know, I'm so reluctant to enter this WAW women are wonderful -- how do we say it -- debate?"
-p1822
+p1827
 aS"I mean, I don't know that women are particularly awesome, like when I enter this bloggers versus loggers conversation, this isn't a value judgment like loggers are losers, it's not the -- that's not the motto --"
-p1823
-asa(dp1824
+p1828
+asa(dp1829
 g22
-(dp1825
+(dp1830
 I1
 S'[laughter]'
-p1826
+p1831
 ssg8
-(lp1827
+(lp1832
 S'The loggers are going to be so relieved to hear you.'
-p1828
+p1833
 asg11
 S'JOHN DONVAN'
-p1829
-sg16
-(lp1830
-g1828
-asa(dp1831
-g8
-(lp1832
-S"Loggers are not losers, we'll make the T-shirt after this debate, that's not what our siderepresents, it's just that they're an incredibly shrinking part of the American economy.It just is."
-p1833
-aS"It's really not a value judgment; it's like whatever it is that women have -- youknow, people have called it so many things."
 p1834
-aS"They've called it grit."
-p1835
-aS"They've called itemotional intelligence."
-p1836
-aS"They've called it focus."
-p1837
-aS'Nobody really knows what it is.'
+sg16
+(lp1835
+g1833
+asa(dp1836
+g8
+(lp1837
+S"Loggers are not losers, we'll make the T-shirt after this debate, that's not what our siderepresents, it's just that they're an incredibly shrinking part of the American economy.It just is."
 p1838
-aS"Somepeople try to say, like, oh, it's in the hardwiring of the brains of women."
+aS"It's really not a value judgment; it's like whatever it is that women have -- youknow, people have called it so many things."
 p1839
-aS"I'm not sure it'sin the -- it might be that women have been behind all these years and now they'recatching up the way immigrants do, it might be that, but it's just an economic fact thatwhatever it is --I just have a question for Hanna --"
+aS"They've called it grit."
 p1840
+aS"They've called itemotional intelligence."
+p1841
+aS"They've called it focus."
+p1842
+aS'Nobody really knows what it is.'
+p1843
+aS"Somepeople try to say, like, oh, it's in the hardwiring of the brains of women."
+p1844
+aS"I'm not sure it'sin the -- it might be that women have been behind all these years and now they'recatching up the way immigrants do, it might be that, but it's just an economic fact thatwhatever it is --I just have a question for Hanna --"
+p1845
 asg11
 S'HANNA ROSIN'
-p1841
-sg16
-(lp1842
-S"Loggers are not losers, we'll make the T-shirt after this debate, that's not what our side represents, it's just that they're an incredibly shrinking part of the American economy."
-p1843
-aS'It just is.'
-p1844
-aS"It's really not a value judgment; it's like whatever it is that women have -- you know, people have called it so many things."
-p1845
-aS"They've called it grit."
 p1846
-aS"They've called it emotional intelligence."
-p1847
-aS"They've called it focus."
-p1848
-aS'Nobody really knows what it is.'
-p1849
-aS"Some people try to say, like, oh, it's in the hardwiring of the brains of women."
-p1850
-aS"I'm not sure it's in the -- it might be that women have been behind all these years and now they're catching up the way immigrants do, it might be that, but it's just an economic fact that whatever it is -- I just have a question for Hanna --"
-p1851
-asg18
-(dp1852
-S'19:38:19'
-p1853
-I9
-ssa(dp1854
-g8
-(lp1855
-S'David, and then go --'
-p1856
-asg11
-S'JOHN DONVAN'
-p1857
 sg16
-(lp1858
-g1856
-asa(dp1859
+(lp1847
+S"Loggers are not losers, we'll make the T-shirt after this debate, that's not what our side represents, it's just that they're an incredibly shrinking part of the American economy."
+p1848
+aS'It just is.'
+p1849
+aS"It's really not a value judgment; it's like whatever it is that women have -- you know, people have called it so many things."
+p1850
+aS"They've called it grit."
+p1851
+aS"They've called it emotional intelligence."
+p1852
+aS"They've called it focus."
+p1853
+aS'Nobody really knows what it is.'
+p1854
+aS"Some people try to say, like, oh, it's in the hardwiring of the brains of women."
+p1855
+aS"I'm not sure it's in the -- it might be that women have been behind all these years and now they're catching up the way immigrants do, it might be that, but it's just an economic fact that whatever it is -- I just have a question for Hanna --"
+p1856
+asg18
+(dp1857
+S'19:38:19'
+p1858
+I9
+ssa(dp1859
 g8
 (lp1860
-S'Well, if you look at all of the relevant stats, what you see is this is not the case, thatwhen you look at concentrations of wealth, when you look at poverty in the UnitedStates and elsewhere, the deck has been stacked against women.'
+S'David, and then go --'
 p1861
-aS'That is not good.'
+asg11
+S'JOHN DONVAN'
 p1862
-aS'Weneed more gender equality.'
-p1863
-aS'But in their world they have to twist what this debatemeans.'
-p1864
-aS'And the fact is if men adjust to the work life realities, they are emasculated andfeminized and therefore they lose.'
-p1865
-aS"If they don't adapt to the new reality, men areemasculated and unnecessary and irrelevant and antiquated, and they lose.So I think women can become CEOs, they can become stay at home moms, they can beconsidered masters of the new universe, and it is easy to structure in your mind thedecline and fall of men when in your own mind when all the rules are stacked againstyour opponents, but here in the real world there is no truth to the facts."
+sg16
+(lp1863
+g1861
+asa(dp1864
+g8
+(lp1865
+S'Well, if you look at all of the relevant stats, what you see is this is not the case, thatwhen you look at concentrations of wealth, when you look at poverty in the UnitedStates and elsewhere, the deck has been stacked against women.'
 p1866
+aS'That is not good.'
+p1867
+aS'Weneed more gender equality.'
+p1868
+aS'But in their world they have to twist what this debatemeans.'
+p1869
+aS'And the fact is if men adjust to the work life realities, they are emasculated andfeminized and therefore they lose.'
+p1870
+aS"If they don't adapt to the new reality, men areemasculated and unnecessary and irrelevant and antiquated, and they lose.So I think women can become CEOs, they can become stay at home moms, they can beconsidered masters of the new universe, and it is easy to structure in your mind thedecline and fall of men when in your own mind when all the rules are stacked againstyour opponents, but here in the real world there is no truth to the facts."
+p1871
 asg11
 S'DAVID ZINCZENKO'
-p1867
+p1872
 sg13
-(dp1868
+(dp1873
 I4
 S'29'
-p1869
-ssg16
-(lp1870
-S'Well, if you look at all of the relevant stats, what you see is this is not the case, that when you look at concentrations of wealth, when you look at poverty in the United States and elsewhere, the deck has been stacked against women.'
-p1871
-aS'That is not good.'
-p1872
-aS'We need more gender equality.'
-p1873
-aS'But in their world they have to twist what this debate means.'
 p1874
-aS'And the fact is if men adjust to the work life realities, they are emasculated and feminized and therefore they lose.'
-p1875
-aS"If they don't adapt to the new reality, men are emasculated and unnecessary and irrelevant and antiquated, and they lose."
+ssg16
+(lp1875
+S'Well, if you look at all of the relevant stats, what you see is this is not the case, that when you look at concentrations of wealth, when you look at poverty in the United States and elsewhere, the deck has been stacked against women.'
 p1876
-aS'So I think women can become CEOs, they can become stay at home moms, they can be considered masters of the new universe, and it is easy to structure in your mind the decline and fall of men when in your own mind when all the rules are stacked against your opponents, but here in the real world there is no truth to the facts.'
+aS'That is not good.'
 p1877
-asg18
-(dp1878
-S'19:39:12'
+aS'We need more gender equality.'
+p1878
+aS'But in their world they have to twist what this debate means.'
 p1879
+aS'And the fact is if men adjust to the work life realities, they are emasculated and feminized and therefore they lose.'
+p1880
+aS"If they don't adapt to the new reality, men are emasculated and unnecessary and irrelevant and antiquated, and they lose."
+p1881
+aS'So I think women can become CEOs, they can become stay at home moms, they can be considered masters of the new universe, and it is easy to structure in your mind the decline and fall of men when in your own mind when all the rules are stacked against your opponents, but here in the real world there is no truth to the facts.'
+p1882
+asg18
+(dp1883
+S'19:39:12'
+p1884
 I7
-ssa(dp1880
+ssa(dp1885
 g22
-(dp1881
+(dp1886
 I5
 S'[laughter]'
-p1882
+p1887
 ssg8
-(lp1883
+(lp1888
 S"Well, let me put the questions here aside then, in this -- we're talking about a processand we're talking about possibly being in the early stages of the process of male loss ofdominance to women, so what is the endgame?"
-p1884
+p1889
 aS'Thirty years from now if this processcontinues and accelerates, where are men as you imagine it, I mean, are we all wearingdiapers in a closet somewhere or ---- where are we in the picture if this continues?'
-p1885
+p1890
 aS'[[laughter]] '
-p1886
+p1891
 asg11
 S'JOHN DONVAN'
-p1887
+p1892
 sg16
-(lp1888
+(lp1893
 S"Well, let me put the questions here aside then, in this -- we're talking about a process and we're talking about possibly being in the early stages of the process of male loss of dominance to women, so what is the endgame?"
-p1889
+p1894
 aS'Thirty years from now if this process continues and accelerates, where are men as you imagine it, I mean, are we all wearing diapers in a closet somewhere or -- -- where are we in the picture if this continues?'
-p1890
-asa(dp1891
+p1895
+asa(dp1896
 g22
-(dp1892
+(dp1897
 I1
 S'[laughter]'
-p1893
+p1898
 ssg8
-(lp1894
-S'Where did the diapers come from?'
-p1895
-asg11
-S'HANNA ROSIN'
-p1896
-sg16
-(lp1897
-g1895
-asa(dp1898
-g8
 (lp1899
-S'Infantilization.'
+S'Where did the diapers come from?'
 p1900
 asg11
-S'JOHN DONVAN'
+S'HANNA ROSIN'
 p1901
 sg16
 (lp1902
@@ -3984,210 +3984,210 @@ g1900
 asa(dp1903
 g8
 (lp1904
-S'I get it, infantilization, well, I mean, you want to talk about the saddest part of this?When you guys say something like "logger," you make it sound like it\'s a very tinyminute percentage of the population.We\'re actually talking about 60 percent of the population that\'s not college educated,okay?'
+S'Infantilization.'
 p1905
-aS'So you keep mentioning Bill Gates.'
+asg11
+S'JOHN DONVAN'
 p1906
-aS'This is the American middle class, okay?'
-p1907
-aS"Youtap into the American middle class, I've done a lot of reporting on this issue, it is actuallysad."
-p1908
-aS"I mean, you see that women are holding up these families, they're in communitycolleges, the men are struggling, and for some reason they're not getting the messagethat they have to go to school."
-p1909
-aS'So I think we can be in one of two different places.'
+sg16
+(lp1907
+g1905
+asa(dp1908
+g8
+(lp1909
+S'I get it, infantilization, well, I mean, you want to talk about the saddest part of this?When you guys say something like "logger," you make it sound like it\'s a very tinyminute percentage of the population.We\'re actually talking about 60 percent of the population that\'s not college educated,okay?'
 p1910
-aS"Themen could start getting the message that they have to retool themselves, that thefactories that their fathers worked for are not going to be there anymore and that theyhave to do something different, and then we'll end up in a situation that's closer toparity.Or you could end up in a situation where it gets worse and worse and worse and theincome -- you know, you have a sort of little upper class of people that these guys aretalking about that consists of Bill Gates and maybe the people in this audience and notvery many more people and everybody else is sort of struggling with the women holdingthe bag, it's called the last bag theory where the woman because she's raising the childis also going to school and making the money and the men are just sort of struggling andout of work."
+aS'So you keep mentioning Bill Gates.'
 p1911
+aS'This is the American middle class, okay?'
+p1912
+aS"Youtap into the American middle class, I've done a lot of reporting on this issue, it is actuallysad."
+p1913
+aS"I mean, you see that women are holding up these families, they're in communitycolleges, the men are struggling, and for some reason they're not getting the messagethat they have to go to school."
+p1914
+aS'So I think we can be in one of two different places.'
+p1915
+aS"Themen could start getting the message that they have to retool themselves, that thefactories that their fathers worked for are not going to be there anymore and that theyhave to do something different, and then we'll end up in a situation that's closer toparity.Or you could end up in a situation where it gets worse and worse and worse and theincome -- you know, you have a sort of little upper class of people that these guys aretalking about that consists of Bill Gates and maybe the people in this audience and notvery many more people and everybody else is sort of struggling with the women holdingthe bag, it's called the last bag theory where the woman because she's raising the childis also going to school and making the money and the men are just sort of struggling andout of work."
+p1916
 asg11
 S'HANNA ROSIN'
-p1912
+p1917
 sg13
-(dp1913
+(dp1918
 I10
 S'30'
-p1914
-ssg16
-(lp1915
-S'I get it, infantilization, well, I mean, you want to talk about the saddest part of this?'
-p1916
-aS'When you guys say something like "logger," you make it sound like it\'s a very tiny minute percentage of the population.'
-p1917
-aS"We're actually talking about 60 percent of the population that's not college educated, okay?"
-p1918
-aS'So you keep mentioning Bill Gates.'
 p1919
-aS'This is the American middle class, okay?'
-p1920
-aS"You tap into the American middle class, I've done a lot of reporting on this issue, it is actually sad."
+ssg16
+(lp1920
+S'I get it, infantilization, well, I mean, you want to talk about the saddest part of this?'
 p1921
-aS"I mean, you see that women are holding up these families, they're in community colleges, the men are struggling, and for some reason they're not getting the message that they have to go to school."
+aS'When you guys say something like "logger," you make it sound like it\'s a very tiny minute percentage of the population.'
 p1922
-aS'So I think we can be in one of two different places.'
+aS"We're actually talking about 60 percent of the population that's not college educated, okay?"
 p1923
-aS"The men could start getting the message that they have to retool themselves, that the factories that their fathers worked for are not going to be there anymore and that they have to do something different, and then we'll end up in a situation that's closer to parity."
+aS'So you keep mentioning Bill Gates.'
 p1924
-aS"Or you could end up in a situation where it gets worse and worse and worse and the income -- you know, you have a sort of little upper class of people that these guys are talking about that consists of Bill Gates and maybe the people in this audience and not very many more people and everybody else is sort of struggling with the women holding the bag, it's called the last bag theory where the woman because she's raising the child is also going to school and making the money and the men are just sort of struggling and out of work."
+aS'This is the American middle class, okay?'
 p1925
-asg18
-(dp1926
-S'19:40:17'
+aS"You tap into the American middle class, I've done a lot of reporting on this issue, it is actually sad."
+p1926
+aS"I mean, you see that women are holding up these families, they're in community colleges, the men are struggling, and for some reason they're not getting the message that they have to go to school."
 p1927
+aS'So I think we can be in one of two different places.'
+p1928
+aS"The men could start getting the message that they have to retool themselves, that the factories that their fathers worked for are not going to be there anymore and that they have to do something different, and then we'll end up in a situation that's closer to parity."
+p1929
+aS"Or you could end up in a situation where it gets worse and worse and worse and the income -- you know, you have a sort of little upper class of people that these guys are talking about that consists of Bill Gates and maybe the people in this audience and not very many more people and everybody else is sort of struggling with the women holding the bag, it's called the last bag theory where the woman because she's raising the child is also going to school and making the money and the men are just sort of struggling and out of work."
+p1930
+asg18
+(dp1931
+S'19:40:17'
+p1932
 I3
 sS'19:41:19'
-p1928
+p1933
 I20
-ssa(dp1929
+ssa(dp1934
 g22
-(dp1930
+(dp1935
 I8
 S'[applause]'
-p1931
+p1936
 sI5
 S'[laughter]'
-p1932
+p1937
 ssg8
-(lp1933
+(lp1938
 S"I would just add to that, the bigger problem I think for men is the unwillingness to takewhat have been viewed as classically female jobs, teachers, nurses, or healthcareprofessionals, et cetera, and that's the area where if you want to talk about how do wemake this better, how do we end -- how do we reverse men being finished, which theyare ---- how do we reverse that?"
-p1934
+p1939
 aS'Well, part of it has got to be that men are going to have to [[laughter]] start accepting some of these jobs that have not been classically viewed as male.'
-p1935
+p1940
 aS'And Imean think about --'
-p1936
+p1941
 asg11
 S'DAN ABRAMS'
-p1937
+p1942
 sg16
-(lp1938
-S"I would just add to that, the bigger problem I think for men is the unwillingness to take what have been viewed as classically female jobs, teachers, nurses, or healthcare professionals, et cetera, and that's the area where if you want to talk about how do we make this better, how do we end -- how do we reverse men being finished, which they are -- -- how do we reverse that?"
-p1939
-aS'Well, part of it has got to be that men are going to have to start accepting some of these jobs that have not been classically viewed as male.'
-p1940
-aS'And I mean think about --'
-p1941
-asa(dp1942
-g8
 (lp1943
-S'Oh, may I say something that I --'
+S"I would just add to that, the bigger problem I think for men is the unwillingness to take what have been viewed as classically female jobs, teachers, nurses, or healthcare professionals, et cetera, and that's the area where if you want to talk about how do we make this better, how do we end -- how do we reverse men being finished, which they are -- -- how do we reverse that?"
 p1944
-asg11
-S'CHRISTINA HOFF SOMMERS'
+aS'Well, part of it has got to be that men are going to have to start accepting some of these jobs that have not been classically viewed as male.'
 p1945
-sg16
-(lp1946
-g1944
+aS'And I mean think about --'
+p1946
 asa(dp1947
 g8
 (lp1948
-S"-- think about the Ben Stiller movie where he plays a male nurse, right, and everyone'slike well he's a male nurse, ha, ha."
+S'Oh, may I say something that I --'
 p1949
 asg11
-S'DAN ABRAMS'
+S'CHRISTINA HOFF SOMMERS'
 p1950
 sg16
 (lp1951
-S"-- think about the Ben Stiller movie where he plays a male nurse, right, and everyone's like well he's a male nurse, ha, ha."
-p1952
-asa(dp1953
+g1949
+asa(dp1952
 g8
-(lp1954
-S"About six miles, seven miles from here is a high school called Aviation High School, andit's got 2,000 students approximately, you go into that school, whereas at most schools,kids are detached and not paying attention, at Aviation they are enthralled.You walk into that high school and you think all the kids are gone because it's so quiet.It's the quietest place in New York City."
+(lp1953
+S"-- think about the Ben Stiller movie where he plays a male nurse, right, and everyone'slike well he's a male nurse, ha, ha."
+p1954
+asg11
+S'DAN ABRAMS'
 p1955
-aS"It's there the kids have to do academic courses,but they can spend half the day working on airplanes."
-p1956
-aS'They build mainframes and soforth.'
+sg16
+(lp1956
+S"-- think about the Ben Stiller movie where he plays a male nurse, right, and everyone's like well he's a male nurse, ha, ha."
 p1957
-aS'Now it has one defect.'
-p1958
-aS'Its 87 percent male.'
-p1959
-aS'And so the womens lobby inWashington has put it on a hit list.'
+asa(dp1958
+g8
+(lp1959
+S"About six miles, seven miles from here is a high school called Aviation High School, andit's got 2,000 students approximately, you go into that school, whereas at most schools,kids are detached and not paying attention, at Aviation they are enthralled.You walk into that high school and you think all the kids are gone because it's so quiet.It's the quietest place in New York City."
 p1960
-aS'Aviation High School has one of the best graduationrates.'
+aS"It's there the kids have to do academic courses,but they can spend half the day working on airplanes."
 p1961
-aS'Most of the kids going there are from -- their African American and Hispanic kidsliving under the poverty line, and their chances of graduating are vastly higher than inany other school, very high college matriculation rate.'
+aS'They build mainframes and soforth.'
 p1962
-aS'That is a school that is working,but it now more likely to be investigated rather than replicated.'
+aS'Now it has one defect.'
 p1963
-aS'People come to studythis school from Finland and Ireland, but in the United States theyre more likely to bevisited with a Title 9 lawsuit because were not helping young men find jobs that theymight find interesting and be suited for.The -- and Im not talking about feminists.'
+aS'Its 87 percent male.'
 p1964
-aS'Feminists are -- in my book, I talked aboutlots of different styles of feminism, and theyre not in favor of this.'
+aS'And so the womens lobby inWashington has put it on a hit list.'
 p1965
-aS'This is the WomensLobby in Washington, which is carried away with a very hostile agenda and workingagainst helping young men.'
+aS'Aviation High School has one of the best graduationrates.'
 p1966
-aS'Thats the problem.'
+aS'Most of the kids going there are from -- their African American and Hispanic kidsliving under the poverty line, and their chances of graduating are vastly higher than inany other school, very high college matriculation rate.'
 p1967
-aS'Young men arent getting the help.'
+aS'That is a school that is working,but it now more likely to be investigated rather than replicated.'
 p1968
+aS'People come to studythis school from Finland and Ireland, but in the United States theyre more likely to bevisited with a Title 9 lawsuit because were not helping young men find jobs that theymight find interesting and be suited for.The -- and Im not talking about feminists.'
+p1969
+aS'Feminists are -- in my book, I talked aboutlots of different styles of feminism, and theyre not in favor of this.'
+p1970
+aS'This is the WomensLobby in Washington, which is carried away with a very hostile agenda and workingagainst helping young men.'
+p1971
+aS'Thats the problem.'
+p1972
+aS'Young men arent getting the help.'
+p1973
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p1969
+p1974
 sg13
-(dp1970
+(dp1975
 I3
 S'31'
-p1971
-ssg16
-(lp1972
-S"About six miles, seven miles from here is a high school called Aviation High School, and it's got 2,000 students approximately, you go into that school, whereas at most schools, kids are detached and not paying attention, at Aviation they are enthralled."
-p1973
-aS"You walk into that high school and you think all the kids are gone because it's so quiet."
-p1974
-aS"It's the quietest place in New York City."
-p1975
-aS"It's there the kids have to do academic courses, but they can spend half the day working on airplanes."
 p1976
-aS'They build mainframes and so forth.'
-p1977
-aS'Now it has one defect.'
+ssg16
+(lp1977
+S"About six miles, seven miles from here is a high school called Aviation High School, and it's got 2,000 students approximately, you go into that school, whereas at most schools, kids are detached and not paying attention, at Aviation they are enthralled."
 p1978
-aS'Its 87 percent male.'
+aS"You walk into that high school and you think all the kids are gone because it's so quiet."
 p1979
-aS'And so the womens lobby in Washington has put it on a hit list.'
+aS"It's the quietest place in New York City."
 p1980
-aS'Aviation High School has one of the best graduation rates.'
+aS"It's there the kids have to do academic courses, but they can spend half the day working on airplanes."
 p1981
-aS'Most of the kids going there are from -- their African American and Hispanic kids living under the poverty line, and their chances of graduating are vastly higher than in any other school, very high college matriculation rate.'
+aS'They build mainframes and so forth.'
 p1982
-aS'That is a school that is working, but it now more likely to be investigated rather than replicated.'
+aS'Now it has one defect.'
 p1983
-aS'People come to study this school from Finland and Ireland, but in the United States theyre more likely to be visited with a Title 9 lawsuit because were not helping young men find jobs that they might find interesting and be suited for.'
+aS'Its 87 percent male.'
 p1984
-aS'The -- and Im not talking about feminists.'
+aS'And so the womens lobby in Washington has put it on a hit list.'
 p1985
-aS'Feminists are -- in my book, I talked about lots of different styles of feminism, and theyre not in favor of this.'
+aS'Aviation High School has one of the best graduation rates.'
 p1986
-aS'This is the Womens Lobby in Washington, which is carried away with a very hostile agenda and working against helping young men.'
+aS'Most of the kids going there are from -- their African American and Hispanic kids living under the poverty line, and their chances of graduating are vastly higher than in any other school, very high college matriculation rate.'
 p1987
-aS'Thats the problem.'
+aS'That is a school that is working, but it now more likely to be investigated rather than replicated.'
 p1988
-aS'Young men arent getting the help.'
+aS'People come to study this school from Finland and Ireland, but in the United States theyre more likely to be visited with a Title 9 lawsuit because were not helping young men find jobs that they might find interesting and be suited for.'
 p1989
-asg18
-(dp1990
-S'19:42:22'
+aS'The -- and Im not talking about feminists.'
+p1990
+aS'Feminists are -- in my book, I talked about lots of different styles of feminism, and theyre not in favor of this.'
 p1991
+aS'This is the Womens Lobby in Washington, which is carried away with a very hostile agenda and working against helping young men.'
+p1992
+aS'Thats the problem.'
+p1993
+aS'Young men arent getting the help.'
+p1994
+asg18
+(dp1995
+S'19:42:22'
+p1996
 I3
 sS'19:43:22'
-p1992
+p1997
 I15
-ssa(dp1993
-g8
-(lp1994
-S'But how does that not help their argument?'
-p1995
-asg11
-S'JOHN DONVAN'
-p1996
-sg16
-(lp1997
-g1995
-asa(dp1998
+ssa(dp1998
 g8
 (lp1999
-S'Yes, yes, because what Christina is saying is proof--'
+S'But how does that not help their argument?'
 p2000
 asg11
-S'HANNA ROSIN'
+S'JOHN DONVAN'
 p2001
 sg16
 (lp2002
@@ -4195,108 +4195,108 @@ g2000
 asa(dp2003
 g8
 (lp2004
-S'--the system is rigged against them.'
+S'Yes, yes, because what Christina is saying is proof--'
 p2005
-aS'They havent been defeated.'
-p2006
-asg11
-S'CHRISTINA HOFF SOMMERS'
-p2007
-sg16
-(lp2008
-S'--the system is rigged against them.'
-p2009
-aS'They havent been defeated.'
-p2010
-asa(dp2011
-g8
-(lp2012
-S'Yes, because theyre finished.'
-p2013
 asg11
 S'HANNA ROSIN'
-p2014
+p2006
 sg16
-(lp2015
-g2013
+(lp2007
+g2005
+asa(dp2008
+g8
+(lp2009
+S'--the system is rigged against them.'
+p2010
+aS'They havent been defeated.'
+p2011
+asg11
+S'CHRISTINA HOFF SOMMERS'
+p2012
+sg16
+(lp2013
+S'--the system is rigged against them.'
+p2014
+aS'They havent been defeated.'
+p2015
 asa(dp2016
 g8
 (lp2017
-S'No, no, no.'
+S'Yes, because theyre finished.'
 p2018
-aS'Christina, finish -- let Christina finish the point.'
+asg11
+S'HANNA ROSIN'
 p2019
+sg16
+(lp2020
+g2018
+asa(dp2021
+g8
+(lp2022
+S'No, no, no.'
+p2023
+aS'Christina, finish -- let Christina finish the point.'
+p2024
 asg11
 S'JOHN DONVAN'
-p2020
+p2025
 sg16
-(lp2021
+(lp2026
 S'No, no, no.'
-p2022
-aS'Christina, finish -- let Christina finish the point.'
-p2023
-asa(dp2024
-g8
-(lp2025
-S'No, to say that the system is rigged against them is not to say theyre finished.'
-p2026
-aS'Itssaying theyre operating under a very severe handicap.'
 p2027
-aS'And instead of using all of yourcreativity and energy to argue for this absurd proposition that men are finished, youshould be doing something to alleviate the problem thats leading to their struggle.'
+aS'Christina, finish -- let Christina finish the point.'
 p2028
-asg11
-S'CHRISTINA HOFF SOMMERS'
-p2029
-sg16
+asa(dp2029
+g8
 (lp2030
 S'No, to say that the system is rigged against them is not to say theyre finished.'
 p2031
-aS'Its saying theyre operating under a very severe handicap.'
+aS'Itssaying theyre operating under a very severe handicap.'
 p2032
-aS'And instead of using all of your creativity and energy to argue for this absurd proposition that men are finished, you should be doing something to alleviate the problem thats leading to their struggle.'
+aS'And instead of using all of yourcreativity and energy to argue for this absurd proposition that men are finished, youshould be doing something to alleviate the problem thats leading to their struggle.'
 p2033
-asg18
-(dp2034
-S'19:44:13'
-p2035
-I4
-ssa(dp2036
-g8
-(lp2037
-S'Well, acknowledging that this true would be the first step to helping them.It wouldnt be that, you know, we would want them to be down --'
-p2038
-asg11
-S'HANNA ROSIN'
-p2039
-sg13
-(dp2040
-I0
-S'32'
-p2041
-ssg16
-(lp2042
-S'Well, acknowledging that this true would be the first step to helping them.'
-p2043
-aS'It wouldnt be that, you know, we would want them to be down --'
-p2044
-asa(dp2045
-g8
-(lp2046
-S'Look, if men are finished, were all finished, so lets not go there.'
-p2047
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p2048
+p2034
 sg16
-(lp2049
-g2047
+(lp2035
+S'No, to say that the system is rigged against them is not to say theyre finished.'
+p2036
+aS'Its saying theyre operating under a very severe handicap.'
+p2037
+aS'And instead of using all of your creativity and energy to argue for this absurd proposition that men are finished, you should be doing something to alleviate the problem thats leading to their struggle.'
+p2038
+asg18
+(dp2039
+S'19:44:13'
+p2040
+I4
+ssa(dp2041
+g8
+(lp2042
+S'Well, acknowledging that this true would be the first step to helping them.It wouldnt be that, you know, we would want them to be down --'
+p2043
+asg11
+S'HANNA ROSIN'
+p2044
+sg13
+(dp2045
+I0
+S'32'
+p2046
+ssg16
+(lp2047
+S'Well, acknowledging that this true would be the first step to helping them.'
+p2048
+aS'It wouldnt be that, you know, we would want them to be down --'
+p2049
 asa(dp2050
 g8
 (lp2051
-S'David Zinczenko.'
+S'Look, if men are finished, were all finished, so lets not go there.'
 p2052
 asg11
-S'JOHN DONVAN'
+S'CHRISTINA HOFF SOMMERS'
 p2053
 sg16
 (lp2054
@@ -4304,247 +4304,247 @@ g2052
 asa(dp2055
 g8
 (lp2056
-S'Well, I -- you know, I was just going to add that its kind of silly too to say that men willneed to learn how to adopt female characteristics to survive, whether its moving intojobs like interior decorating or health care providing or these counselors.'
+S'David Zinczenko.'
 p2057
-aS'I mean, I thinkthat Sigmund Freud and Nate Berkus and Dr. Christian Bernard would disagree with theassertion.'
-p2058
-aS'The guys are moving too --'
-p2059
 asg11
-S'DAVID ZINCZENKO'
-p2060
+S'JOHN DONVAN'
+p2058
 sg16
+(lp2059
+g2057
+asa(dp2060
+g8
 (lp2061
-S'Well, I -- you know, I was just going to add that its kind of silly too to say that men will need to learn how to adopt female characteristics to survive, whether its moving into jobs like interior decorating or health care providing or these counselors.'
+S'Well, I -- you know, I was just going to add that its kind of silly too to say that men willneed to learn how to adopt female characteristics to survive, whether its moving intojobs like interior decorating or health care providing or these counselors.'
 p2062
-aS'I mean, I think that Sigmund Freud and Nate Berkus and Dr. Christian Bernard would disagree with the assertion.'
+aS'I mean, I thinkthat Sigmund Freud and Nate Berkus and Dr. Christian Bernard would disagree with theassertion.'
 p2063
 aS'The guys are moving too --'
 p2064
-asa(dp2065
-g8
-(lp2066
-S'The men will be unemployed.'
-p2067
-aS'I mean, its a simple choice.'
-p2068
-aS'They will remain thenunemployed. '
-p2069
 asg11
-S'DAN ABRAMS'
-p2070
+S'DAVID ZINCZENKO'
+p2065
 sg16
+(lp2066
+S'Well, I -- you know, I was just going to add that its kind of silly too to say that men will need to learn how to adopt female characteristics to survive, whether its moving into jobs like interior decorating or health care providing or these counselors.'
+p2067
+aS'I mean, I think that Sigmund Freud and Nate Berkus and Dr. Christian Bernard would disagree with the assertion.'
+p2068
+aS'The guys are moving too --'
+p2069
+asa(dp2070
+g8
 (lp2071
 S'The men will be unemployed.'
 p2072
 aS'I mean, its a simple choice.'
 p2073
-aS'They will remain then unemployed. '
+aS'They will remain thenunemployed. '
 p2074
-asa(dp2075
-g8
-(lp2076
-S'In a world where men do, say, fill the positions of school teachers and nurses such asthey dont now, in the vision that youre saying would be the solution, would they stillbe dominant?'
-p2077
-asg11
-S'JOHN DONVAN'
-p2078
-sg16
-(lp2079
-S'In a world where men do, say, fill the positions of school teachers and nurses such as they dont now, in the vision that youre saying would be the solution, would they still be dominant?'
-p2080
-asa(dp2081
-g8
-(lp2082
-S'Well, look, the bottom line is dominance.'
-p2083
-aS'How do we define that?'
-p2084
-aS'I will tell you thathealth care will become a dominant industry.'
-p2085
-aS'Its becoming -- it already is -- but itsbecoming an even more dominant industry in our country and in our world.If men are simply saying Im not playing in that industry, and women are saying Illplay in any industry, I dont care what it is.'
-p2086
-aS'Im going to do what it takes to make itwork, then men are going to be at a distinct advantage and are going to remainfinished.'
-p2087
 asg11
 S'DAN ABRAMS'
-p2088
+p2075
 sg16
-(lp2089
-S'Well, look, the bottom line is dominance.'
-p2090
-aS'How do we define that?'
-p2091
-aS'I will tell you that health care will become a dominant industry.'
-p2092
-aS'Its becoming -- it already is -- but its becoming an even more dominant industry in our country and in our world.'
-p2093
-aS'If men are simply saying Im not playing in that industry, and women are saying Ill play in any industry, I dont care what it is.'
-p2094
-aS'Im going to do what it takes to make it work, then men are going to be at a distinct advantage and are going to remain finished.'
-p2095
-asg18
-(dp2096
-S'19:45:22'
-p2097
-I3
-ssa(dp2098
+(lp2076
+S'The men will be unemployed.'
+p2077
+aS'I mean, its a simple choice.'
+p2078
+aS'They will remain then unemployed. '
+p2079
+asa(dp2080
 g8
-(lp2099
-S'But this also gets to the heart of the problem.'
+(lp2081
+S'In a world where men do, say, fill the positions of school teachers and nurses such asthey dont now, in the vision that youre saying would be the solution, would they stillbe dominant?'
+p2082
+asg11
+S'JOHN DONVAN'
+p2083
+sg16
+(lp2084
+S'In a world where men do, say, fill the positions of school teachers and nurses such as they dont now, in the vision that youre saying would be the solution, would they still be dominant?'
+p2085
+asa(dp2086
+g8
+(lp2087
+S'Well, look, the bottom line is dominance.'
+p2088
+aS'How do we define that?'
+p2089
+aS'I will tell you thathealth care will become a dominant industry.'
+p2090
+aS'Its becoming -- it already is -- but itsbecoming an even more dominant industry in our country and in our world.If men are simply saying Im not playing in that industry, and women are saying Illplay in any industry, I dont care what it is.'
+p2091
+aS'Im going to do what it takes to make itwork, then men are going to be at a distinct advantage and are going to remainfinished.'
+p2092
+asg11
+S'DAN ABRAMS'
+p2093
+sg16
+(lp2094
+S'Well, look, the bottom line is dominance.'
+p2095
+aS'How do we define that?'
+p2096
+aS'I will tell you that health care will become a dominant industry.'
+p2097
+aS'Its becoming -- it already is -- but its becoming an even more dominant industry in our country and in our world.'
+p2098
+aS'If men are simply saying Im not playing in that industry, and women are saying Ill play in any industry, I dont care what it is.'
+p2099
+aS'Im going to do what it takes to make it work, then men are going to be at a distinct advantage and are going to remain finished.'
 p2100
-aS'I mean, historically whats happened isthat women have operated pretty flexibly.'
-p2101
-aS'Theyve gone in a very short period of timefrom not being able to work when they were married to not being able to work whenthey had little kids, to being able to work whenever they wanted in a vast number ofprofessions.'
+asg18
+(dp2101
+S'19:45:22'
 p2102
-aS'I can name a number of professions that have gone from entirely male toentirely female.'
-p2103
-aS'And you cant name any that have gone the other way around.'
-p2104
-aS'Why?Because men operate in a narrower range at this point in time.'
+I3
+ssa(dp2103
+g8
+(lp2104
+S'But this also gets to the heart of the problem.'
 p2105
-aS'That doesnt mean thatthey always will, but at this point in time, theyre just not that flexible about theiridentities.'
+aS'I mean, historically whats happened isthat women have operated pretty flexibly.'
 p2106
+aS'Theyve gone in a very short period of timefrom not being able to work when they were married to not being able to work whenthey had little kids, to being able to work whenever they wanted in a vast number ofprofessions.'
+p2107
+aS'I can name a number of professions that have gone from entirely male toentirely female.'
+p2108
+aS'And you cant name any that have gone the other way around.'
+p2109
+aS'Why?Because men operate in a narrower range at this point in time.'
+p2110
+aS'That doesnt mean thatthey always will, but at this point in time, theyre just not that flexible about theiridentities.'
+p2111
 asg11
 S'HANNA ROSIN'
-p2107
+p2112
 sg13
-(dp2108
+(dp2113
 I3
 S'33'
-p2109
-ssg16
-(lp2110
-S'But this also gets to the heart of the problem.'
-p2111
-aS'I mean, historically whats happened is that women have operated pretty flexibly.'
-p2112
-aS'Theyve gone in a very short period of time from not being able to work when they were married to not being able to work when they had little kids, to being able to work whenever they wanted in a vast number of professions.'
-p2113
-aS'I can name a number of professions that have gone from entirely male to entirely female.'
 p2114
-aS'And you cant name any that have gone the other way around.'
-p2115
-aS'Why?'
+ssg16
+(lp2115
+S'But this also gets to the heart of the problem.'
 p2116
-aS'Because men operate in a narrower range at this point in time.'
+aS'I mean, historically whats happened is that women have operated pretty flexibly.'
 p2117
-aS'That doesnt mean that they always will, but at this point in time, theyre just not that flexible about their identities.'
+aS'Theyve gone in a very short period of time from not being able to work when they were married to not being able to work when they had little kids, to being able to work whenever they wanted in a vast number of professions.'
 p2118
-asa(dp2119
+aS'I can name a number of professions that have gone from entirely male to entirely female.'
+p2119
+aS'And you cant name any that have gone the other way around.'
+p2120
+aS'Why?'
+p2121
+aS'Because men operate in a narrower range at this point in time.'
+p2122
+aS'That doesnt mean that they always will, but at this point in time, theyre just not that flexible about their identities.'
+p2123
+asa(dp2124
 g22
-(dp2120
+(dp2125
 I4
 S'[applause]'
-p2121
-ssg8
-(lp2122
-S'Okay.'
-p2123
-aS'I want to come to the audience for questions shortly, but first I want to mentionthis, as I mentioned before.Were very pleased to have Slate as our media partner, and theyre streaming thisdebate -- thank you.And theyre live streaming this debate on their site, and we have a question from a [[applause]] William Nitrous of New York City who Im going to slightly paraphrase.'
-p2124
-aS'Hes saying isthis just a natural consequence -- Im thinking what he means to say is this perceptionthat perhaps men are finished, is it just a natural consequence of the assumption ofsuperiority among men who, unlike females, didnt have the pressure of needing acollege degree to succeed?'
-p2125
-aS'And the more interesting part of his question, he says,Does this apply outside of America?'
 p2126
-aS'So I want to put to both sides the cultural aspectof that question.'
-p2127
-aS'To what degree are we talking about an American phenomenon hereand to what degree is it more global?'
+ssg8
+(lp2127
+S'Okay.'
 p2128
+aS'I want to come to the audience for questions shortly, but first I want to mentionthis, as I mentioned before.Were very pleased to have Slate as our media partner, and theyre streaming thisdebate -- thank you.And theyre live streaming this debate on their site, and we have a question from a [[applause]] William Nitrous of New York City who Im going to slightly paraphrase.'
+p2129
+aS'Hes saying isthis just a natural consequence -- Im thinking what he means to say is this perceptionthat perhaps men are finished, is it just a natural consequence of the assumption ofsuperiority among men who, unlike females, didnt have the pressure of needing acollege degree to succeed?'
+p2130
+aS'And the more interesting part of his question, he says,Does this apply outside of America?'
+p2131
+aS'So I want to put to both sides the cultural aspectof that question.'
+p2132
+aS'To what degree are we talking about an American phenomenon hereand to what degree is it more global?'
+p2133
 asg11
 S'JOHN DONVAN'
-p2129
-sg16
-(lp2130
-S'Okay.'
-p2131
-aS'I want to come to the audience for questions shortly, but first I want to mention this, as I mentioned before.'
-p2132
-aS'Were very pleased to have Slate as our media partner, and theyre streaming this debate -- thank you.'
-p2133
-aS'And theyre live streaming this debate on their site, and we have a question from a William Nitrous of New York City who Im going to slightly paraphrase.'
 p2134
-aS'Hes saying is this just a natural consequence -- Im thinking what he means to say is this perception that perhaps men are finished, is it just a natural consequence of the assumption of superiority among men who, unlike females, didnt have the pressure of needing a college degree to succeed?'
-p2135
-aS'And the more interesting part of his question, he says, Does this apply outside of America?'
+sg16
+(lp2135
+S'Okay.'
 p2136
-aS'So I want to put to both sides the cultural aspect of that question.'
+aS'I want to come to the audience for questions shortly, but first I want to mention this, as I mentioned before.'
 p2137
-aS'To what degree are we talking about an American phenomenon here and to what degree is it more global?'
+aS'Were very pleased to have Slate as our media partner, and theyre streaming this debate -- thank you.'
 p2138
-asg18
-(dp2139
-S'19:46:12'
+aS'And theyre live streaming this debate on their site, and we have a question from a William Nitrous of New York City who Im going to slightly paraphrase.'
+p2139
+aS'Hes saying is this just a natural consequence -- Im thinking what he means to say is this perception that perhaps men are finished, is it just a natural consequence of the assumption of superiority among men who, unlike females, didnt have the pressure of needing a college degree to succeed?'
 p2140
-I2
-ssa(dp2141
-g8
-(lp2142
-S'Well, men are languishing academically throughout the world.'
+aS'And the more interesting part of his question, he says, Does this apply outside of America?'
+p2141
+aS'So I want to put to both sides the cultural aspect of that question.'
+p2142
+aS'To what degree are we talking about an American phenomenon here and to what degree is it more global?'
 p2143
+asg18
+(dp2144
+S'19:46:12'
+p2145
+I2
+ssa(dp2146
+g8
+(lp2147
+S'Well, men are languishing academically throughout the world.'
+p2148
 aS'In most countries inEurope, far more women go to college -- I mean, more women go to college than men inIran, so its not only the United States.But whats true is that the United States, were having a hard time finding ways to helpyoung men.'
-p2144
+p2149
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p2145
+p2150
 sg16
-(lp2146
+(lp2151
 S'Well, men are languishing academically throughout the world.'
-p2147
+p2152
 aS'In most countries in Europe, far more women go to college -- I mean, more women go to college than men in Iran, so its not only the United States.'
-p2148
+p2153
 aS'But whats true is that the United States, were having a hard time finding ways to help young men.'
-p2149
-asg18
-(dp2150
-S'19:47:15'
-p2151
-I3
-ssa(dp2152
-g8
-(lp2153
-S'Hanna Rosin.'
 p2154
-asg11
-S'JOHN DONVAN'
-p2155
-sg16
-(lp2156
-g2154
-asa(dp2157
+asg18
+(dp2155
+S'19:47:15'
+p2156
+I3
+ssa(dp2157
 g8
 (lp2158
-S'Men are languishing in all countries of the world.'
+S'Hanna Rosin.'
 p2159
 asg11
-S'HANNA ROSIN'
+S'JOHN DONVAN'
 p2160
+sg16
+(lp2161
+g2159
+asa(dp2162
+g8
+(lp2163
+S'Men are languishing in all countries of the world.'
+p2164
+asg11
+S'HANNA ROSIN'
+p2165
 sg13
-(dp2161
+(dp2166
 I1
 S'34'
-p2162
-ssg16
-(lp2163
-g2159
-asa(dp2164
-g8
-(lp2165
-S'Academically.'
-p2166
-asg11
-S'CHRISTINA HOFF SOMMERS'
 p2167
-sg16
+ssg16
 (lp2168
-g2166
+g2164
 asa(dp2169
 g8
 (lp2170
-S'Academically, their language --'
+S'Academically.'
 p2171
 asg11
-S'HANNA ROSIN'
+S'CHRISTINA HOFF SOMMERS'
 p2172
 sg16
 (lp2173
@@ -4552,10 +4552,10 @@ g2171
 asa(dp2174
 g8
 (lp2175
-S'Oh, no, no, not politically, no way.'
+S'Academically, their language --'
 p2176
 asg11
-S'CHRISTINA HOFF SOMMERS'
+S'HANNA ROSIN'
 p2177
 sg16
 (lp2178
@@ -4563,107 +4563,107 @@ g2176
 asa(dp2179
 g8
 (lp2180
-S"Well, what -- you know, so here's an interesting statistic."
+S'Oh, no, no, not politically, no way.'
 p2181
-aS'So we always think -- malepreference is something that comes up a lot.'
+asg11
+S'CHRISTINA HOFF SOMMERS'
 p2182
-aS'You know, preference for the first bornson.'
-p2183
-aS'One of the first things I did when I started this research was, on a lark and a tip, Iwent to go visit fertility clinics because, you know, we all understand that people prefersons.'
-p2184
-aS'And it turns out that, no, 75 percent of couples are actually requesting girls.'
-p2185
-aS'Sothen I started to ask, well, is this true in these very patriarchal places like South Korea,China and India?'
+sg16
+(lp2183
+g2181
+asa(dp2184
+g8
+(lp2185
+S"Well, what -- you know, so here's an interesting statistic."
 p2186
-aS"Well, you look at the charts, and here's what happened."
+aS'So we always think -- malepreference is something that comes up a lot.'
 p2187
-aS'At somepoint, technology allowed them, you know, to easily choose a son.'
+aS'You know, preference for the first bornson.'
 p2188
-aS"And then by the mid'90s, this plummeted."
+aS'One of the first things I did when I started this research was, on a lark and a tip, Iwent to go visit fertility clinics because, you know, we all understand that people prefersons.'
 p2189
-aS'Women started to go to school.'
+aS'And it turns out that, no, 75 percent of couples are actually requesting girls.'
 p2190
-aS'Women started to get jobs thatthey could never have before.'
+aS'Sothen I started to ask, well, is this true in these very patriarchal places like South Korea,China and India?'
 p2191
-aS'And all these strict patriarchal structures started to breakdown.'
+aS"Well, you look at the charts, and here's what happened."
 p2192
-aS'So you can see all over the world that different things are happening.I mean, China, for example, has a higher percentage of female CEOs than the U.S. does.Why?'
+aS'At somepoint, technology allowed them, you know, to easily choose a son.'
 p2193
-aS"I think it's because childcare is easier."
+aS"And then by the mid'90s, this plummeted."
 p2194
-aS"I think it's because families take care ofchildren."
+aS'Women started to go to school.'
 p2195
-aS"There's all sorts of reasons why culturally that's true."
+aS'Women started to get jobs thatthey could never have before.'
 p2196
+aS'And all these strict patriarchal structures started to breakdown.'
+p2197
+aS'So you can see all over the world that different things are happening.I mean, China, for example, has a higher percentage of female CEOs than the U.S. does.Why?'
+p2198
+aS"I think it's because childcare is easier."
+p2199
+aS"I think it's because families take care ofchildren."
+p2200
+aS"There's all sorts of reasons why culturally that's true."
+p2201
 asg11
 S'HANNA ROSIN'
-p2197
-sg16
-(lp2198
-S"Well, what -- you know, so here's an interesting statistic."
-p2199
-aS'So we always think -- male preference is something that comes up a lot.'
-p2200
-aS'You know, preference for the first born son.'
-p2201
-aS'One of the first things I did when I started this research was, on a lark and a tip, I went to go visit fertility clinics because, you know, we all understand that people prefer sons.'
 p2202
-aS'And it turns out that, no, 75 percent of couples are actually requesting girls.'
-p2203
-aS'So then I started to ask, well, is this true in these very patriarchal places like South Korea, China and India?'
+sg16
+(lp2203
+S"Well, what -- you know, so here's an interesting statistic."
 p2204
-aS"Well, you look at the charts, and here's what happened."
+aS'So we always think -- male preference is something that comes up a lot.'
 p2205
-aS'At some point, technology allowed them, you know, to easily choose a son.'
+aS'You know, preference for the first born son.'
 p2206
-aS"And then by the mid '90s, this plummeted."
+aS'One of the first things I did when I started this research was, on a lark and a tip, I went to go visit fertility clinics because, you know, we all understand that people prefer sons.'
 p2207
-aS'Women started to go to school.'
+aS'And it turns out that, no, 75 percent of couples are actually requesting girls.'
 p2208
-aS'Women started to get jobs that they could never have before.'
+aS'So then I started to ask, well, is this true in these very patriarchal places like South Korea, China and India?'
 p2209
-aS'And all these strict patriarchal structures started to break down.'
+aS"Well, you look at the charts, and here's what happened."
 p2210
-aS'So you can see all over the world that different things are happening.'
+aS'At some point, technology allowed them, you know, to easily choose a son.'
 p2211
-aS'I mean, China, for example, has a higher percentage of female CEOs than the U.S. does.'
+aS"And then by the mid '90s, this plummeted."
 p2212
-aS'Why?'
+aS'Women started to go to school.'
 p2213
-aS"I think it's because childcare is easier."
+aS'Women started to get jobs that they could never have before.'
 p2214
-aS"I think it's because families take care of children."
+aS'And all these strict patriarchal structures started to break down.'
 p2215
-aS"There's all sorts of reasons why culturally that's true."
+aS'So you can see all over the world that different things are happening.'
 p2216
-asg18
-(dp2217
-S'19:48:16'
+aS'I mean, China, for example, has a higher percentage of female CEOs than the U.S. does.'
+p2217
+aS'Why?'
 p2218
+aS"I think it's because childcare is easier."
+p2219
+aS"I think it's because families take care of children."
+p2220
+aS"There's all sorts of reasons why culturally that's true."
+p2221
+asg18
+(dp2222
+S'19:48:16'
+p2223
 I11
-ssa(dp2219
+ssa(dp2224
 g22
-(dp2220
+(dp2225
 I1
 S'[laughter]'
-p2221
+p2226
 ssg8
-(lp2222
-S'Chinese men finished?'
-p2223
-asg11
-S'JOHN DONVAN'
-p2224
-sg16
-(lp2225
-g2223
-asa(dp2226
-g8
 (lp2227
-S'Eventually.'
+S'Chinese men finished?'
 p2228
 asg11
-S'HANNA ROSIN'
+S'JOHN DONVAN'
 p2229
 sg16
 (lp2230
@@ -4671,10 +4671,10 @@ g2228
 asa(dp2231
 g8
 (lp2232
-S"Okay, let's go -- no, take it, Christina, go ahead."
+S'Eventually.'
 p2233
 asg11
-S'JOHN DONVAN'
+S'HANNA ROSIN'
 p2234
 sg16
 (lp2235
@@ -4682,10 +4682,10 @@ g2233
 asa(dp2236
 g8
 (lp2237
-S'Im sorry, do you think that Americans prefer to have female children?'
+S"Okay, let's go -- no, take it, Christina, go ahead."
 p2238
 asg11
-S'CHRISTINA HOFF SOMMERS'
+S'JOHN DONVAN'
 p2239
 sg16
 (lp2240
@@ -4693,78 +4693,78 @@ g2238
 asa(dp2241
 g8
 (lp2242
-S'Well, the difference is when you poll them and ask them what they want, they say wewant a son.'
+S'Im sorry, do you think that Americans prefer to have female children?'
 p2243
-aS'When they actually choose, they choose girls.'
-p2244
-asg11
-S'HANNA ROSIN'
-p2245
-sg13
-(dp2246
-I0
-S'35'
-p2247
-ssg16
-(lp2248
-S'Well, the difference is when you poll them and ask them what they want, they say we want a son.'
-p2249
-aS'When they actually choose, they choose girls.'
-p2250
-asa(dp2251
-g8
-(lp2252
-S"It's amazing."
-p2253
-aS'This is the consistent theme again --'
-p2254
-asg11
-S'DAVID ZINCZENKO'
-p2255
-sg16
-(lp2256
-S"It's amazing."
-p2257
-aS'This is the consistent theme again --'
-p2258
-asa(dp2259
-g8
-(lp2260
-S'No, no.'
-p2261
-aS"Wrong, wrong, wrong, because she's overlooking something."
-p2262
-aS"When theyactually choose, you're talking about women who go to fertility clinics."
-p2263
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p2264
+p2244
 sg16
+(lp2245
+g2243
+asa(dp2246
+g8
+(lp2247
+S'Well, the difference is when you poll them and ask them what they want, they say wewant a son.'
+p2248
+aS'When they actually choose, they choose girls.'
+p2249
+asg11
+S'HANNA ROSIN'
+p2250
+sg13
+(dp2251
+I0
+S'35'
+p2252
+ssg16
+(lp2253
+S'Well, the difference is when you poll them and ask them what they want, they say we want a son.'
+p2254
+aS'When they actually choose, they choose girls.'
+p2255
+asa(dp2256
+g8
+(lp2257
+S"It's amazing."
+p2258
+aS'This is the consistent theme again --'
+p2259
+asg11
+S'DAVID ZINCZENKO'
+p2260
+sg16
+(lp2261
+S"It's amazing."
+p2262
+aS'This is the consistent theme again --'
+p2263
+asa(dp2264
+g8
 (lp2265
 S'No, no.'
 p2266
 aS"Wrong, wrong, wrong, because she's overlooking something."
 p2267
-aS"When they actually choose, you're talking about women who go to fertility clinics."
+aS"When theyactually choose, you're talking about women who go to fertility clinics."
 p2268
-asa(dp2269
-g8
-(lp2270
-S"But that's the only place that keeps statistics."
-p2271
 asg11
-S'HANNA ROSIN'
-p2272
+S'CHRISTINA HOFF SOMMERS'
+p2269
 sg16
-(lp2273
-g2271
+(lp2270
+S'No, no.'
+p2271
+aS"Wrong, wrong, wrong, because she's overlooking something."
+p2272
+aS"When they actually choose, you're talking about women who go to fertility clinics."
+p2273
 asa(dp2274
 g8
 (lp2275
-S'But -- but --'
+S"But that's the only place that keeps statistics."
 p2276
 asg11
-S'CHRISTINA HOFF SOMMERS'
+S'HANNA ROSIN'
 p2277
 sg16
 (lp2278
@@ -4772,45 +4772,45 @@ g2276
 asa(dp2279
 g8
 (lp2280
-S'Fertility clinics have to write down for the FDA exactly what everybody else -- exactlywhat everybody does.'
+S'But -- but --'
 p2281
-aS'And they keep the only reliable statistics.'
-p2282
-aS"I mean, you can askthem, well, what do people want, and they'll say a certain thing."
-p2283
-aS'But --'
-p2284
-asg11
-S'HANNA ROSIN'
-p2285
-sg16
-(lp2286
-S'Fertility clinics have to write down for the FDA exactly what everybody else -- exactly what everybody does.'
-p2287
-aS'And they keep the only reliable statistics.'
-p2288
-aS"I mean, you can ask them, well, what do people want, and they'll say a certain thing."
-p2289
-aS'But --'
-p2290
-asa(dp2291
-g8
-(lp2292
-S"But it's mostly --"
-p2293
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p2294
+p2282
 sg16
-(lp2295
-g2293
+(lp2283
+g2281
+asa(dp2284
+g8
+(lp2285
+S'Fertility clinics have to write down for the FDA exactly what everybody else -- exactlywhat everybody does.'
+p2286
+aS'And they keep the only reliable statistics.'
+p2287
+aS"I mean, you can askthem, well, what do people want, and they'll say a certain thing."
+p2288
+aS'But --'
+p2289
+asg11
+S'HANNA ROSIN'
+p2290
+sg16
+(lp2291
+S'Fertility clinics have to write down for the FDA exactly what everybody else -- exactly what everybody does.'
+p2292
+aS'And they keep the only reliable statistics.'
+p2293
+aS"I mean, you can ask them, well, what do people want, and they'll say a certain thing."
+p2294
+aS'But --'
+p2295
 asa(dp2296
 g8
 (lp2297
-S"-- it's not recorded."
+S"But it's mostly --"
 p2298
 asg11
-S'HANNA ROSIN'
+S'CHRISTINA HOFF SOMMERS'
 p2299
 sg16
 (lp2300
@@ -4818,152 +4818,152 @@ g2298
 asa(dp2301
 g8
 (lp2302
-S"That's kind of -- that's led by women and slightly older women and the Gallup Poll keptrecords for -- since 1941, and you found a distinct preference for males.It hasn't changed since 1941."
+S"-- it's not recorded."
 p2303
 asg11
-S'CHRISTINA HOFF SOMMERS'
+S'HANNA ROSIN'
 p2304
 sg16
 (lp2305
-S"That's kind of -- that's led by women and slightly older women and the Gallup Poll kept records for -- since 1941, and you found a distinct preference for males."
-p2306
-aS"It hasn't changed since 1941."
-p2307
-asg18
-(dp2308
-S'19:49:21'
-p2309
-I2
-ssa(dp2310
+g2303
+asa(dp2306
 g8
-(lp2311
-S"That's what people say."
+(lp2307
+S"That's kind of -- that's led by women and slightly older women and the Gallup Poll keptrecords for -- since 1941, and you found a distinct preference for males.It hasn't changed since 1941."
+p2308
+asg11
+S'CHRISTINA HOFF SOMMERS'
+p2309
+sg16
+(lp2310
+S"That's kind of -- that's led by women and slightly older women and the Gallup Poll kept records for -- since 1941, and you found a distinct preference for males."
+p2311
+aS"It hasn't changed since 1941."
 p2312
+asg18
+(dp2313
+S'19:49:21'
+p2314
+I2
+ssa(dp2315
+g8
+(lp2316
+S"That's what people say."
+p2317
 aS"It's just not what they do."
-p2313
+p2318
 asg11
 S'HANNA ROSIN'
-p2314
+p2319
 sg16
-(lp2315
+(lp2320
 S"That's what people say."
-p2316
-aS"It's just not what they do."
-p2317
-asa(dp2318
-g8
-(lp2319
-S'Okay.'
-p2320
-aS"But let's go to the audience for some questions now."
 p2321
-aS"What you do is, if you raiseyour hand, I'll find you."
+aS"It's just not what they do."
 p2322
-aS'Wait until -- please stand up.'
-p2323
-aS'A microphone will be brought toyou.'
-p2324
-aS"Hold the microphone about a fist's distance away from your mouth so that theradio can hear you."
+asa(dp2323
+g8
+(lp2324
+S'Okay.'
 p2325
-aS'And identify yourself.'
+aS"But let's go to the audience for some questions now."
 p2326
-aS"And if you're part of a relevant organization,you know what I mean by that, or news organization, please let us know."
+aS"What you do is, if you raiseyour hand, I'll find you."
 p2327
-aS"We'd just liketo know that."
+aS'Wait until -- please stand up.'
 p2328
-aS"And please make it a question that's terse, focused and on topic and thathas a question mark at the end."
+aS'A microphone will be brought toyou.'
 p2329
-aS"You didn't have to sit down because I was making thatlong speech."
+aS"Hold the microphone about a fist's distance away from your mouth so that theradio can hear you."
 p2330
+aS'And identify yourself.'
+p2331
+aS"And if you're part of a relevant organization,you know what I mean by that, or news organization, please let us know."
+p2332
+aS"We'd just liketo know that."
+p2333
+aS"And please make it a question that's terse, focused and on topic and thathas a question mark at the end."
+p2334
+aS"You didn't have to sit down because I was making thatlong speech."
+p2335
 asg11
 S'JOHN DONVAN'
-p2331
+p2336
 sg13
-(dp2332
+(dp2337
 I5
 S'36'
-p2333
-ssg16
-(lp2334
-S'Okay.'
-p2335
-aS"But let's go to the audience for some questions now."
-p2336
-aS"What you do is, if you raise your hand, I'll find you."
-p2337
-aS'Wait until -- please stand up.'
 p2338
-aS'A microphone will be brought to you.'
-p2339
-aS"Hold the microphone about a fist's distance away from your mouth so that the radio can hear you."
+ssg16
+(lp2339
+S'Okay.'
 p2340
-aS'And identify yourself.'
+aS"But let's go to the audience for some questions now."
 p2341
-aS"And if you're part of a relevant organization, you know what I mean by that, or news organization, please let us know."
+aS"What you do is, if you raise your hand, I'll find you."
 p2342
-aS"We'd just like to know that."
+aS'Wait until -- please stand up.'
 p2343
-aS"And please make it a question that's terse, focused and on topic and that has a question mark at the end."
+aS'A microphone will be brought to you.'
 p2344
-aS"You didn't have to sit down because I was making that long speech."
+aS"Hold the microphone about a fist's distance away from your mouth so that the radio can hear you."
 p2345
-asa(dp2346
-g8
-(lp2347
-S'Hello.'
+aS'And identify yourself.'
+p2346
+aS"And if you're part of a relevant organization, you know what I mean by that, or news organization, please let us know."
+p2347
+aS"We'd just like to know that."
 p2348
-aS"My name Alicia Bonner, and I am a graduate of a girl's high school, a women'scollege."
+aS"And please make it a question that's terse, focused and on topic and that has a question mark at the end."
 p2349
-aS'And I earn a percent more than my fianc.'
+aS"You didn't have to sit down because I was making that long speech."
 p2350
-aS"I am interested in a couple of thethings that David and Christina posed and hearing, Dan and Hanna, your responses.David, you spoke about financial inequality and how -- whatever, 92 percent of theworld's resources are in the hands of men and X percent of the countries in the worldare governed by men."
-p2351
-aS"Christina, you seem to allude to the fact that anything thatwomen are able to do, it's because men are there to earn money to fund it, which Ithink might be a little bit more problematic."
-p2352
-aS'But Dan, you also mentioned that peopleon the whole --'
+asa(dp2351
+g8
+(lp2352
+S'Hello.'
 p2353
+aS"My name Alicia Bonner, and I am a graduate of a girl's high school, a women'scollege."
+p2354
+aS'And I earn a percent more than my fianc.'
+p2355
+aS"I am interested in a couple of thethings that David and Christina posed and hearing, Dan and Hanna, your responses.David, you spoke about financial inequality and how -- whatever, 92 percent of theworld's resources are in the hands of men and X percent of the countries in the worldare governed by men."
+p2356
+aS"Christina, you seem to allude to the fact that anything thatwomen are able to do, it's because men are there to earn money to fund it, which Ithink might be a little bit more problematic."
+p2357
+aS'But Dan, you also mentioned that peopleon the whole --'
+p2358
 asg11
 S'ALICIA BONNER'
-p2354
-sg16
-(lp2355
-S'Hello.'
-p2356
-aS"My name Alicia Bonner, and I am a graduate of a girl's high school, a women's college."
-p2357
-aS'And I earn a percent more than my fianc.'
-p2358
-aS'I am interested in a couple of the things that David and Christina posed and hearing, Dan and Hanna, your responses.'
 p2359
-aS"David, you spoke about financial inequality and how -- whatever, 92 percent of the world's resources are in the hands of men and X percent of the countries in the world are governed by men."
-p2360
-aS"Christina, you seem to allude to the fact that anything that women are able to do, it's because men are there to earn money to fund it, which I think might be a little bit more problematic."
-p2361
-aS'But Dan, you also mentioned that people on the whole --'
-p2362
-asg18
-(dp2363
-S'19:50:18'
-p2364
-I3
-ssa(dp2365
-g8
-(lp2366
-S'Could --'
-p2367
-asg11
-S'JOHN DONVAN'
-p2368
 sg16
-(lp2369
-g2367
-asa(dp2370
+(lp2360
+S'Hello.'
+p2361
+aS"My name Alicia Bonner, and I am a graduate of a girl's high school, a women's college."
+p2362
+aS'And I earn a percent more than my fianc.'
+p2363
+aS'I am interested in a couple of the things that David and Christina posed and hearing, Dan and Hanna, your responses.'
+p2364
+aS"David, you spoke about financial inequality and how -- whatever, 92 percent of the world's resources are in the hands of men and X percent of the countries in the world are governed by men."
+p2365
+aS"Christina, you seem to allude to the fact that anything that women are able to do, it's because men are there to earn money to fund it, which I think might be a little bit more problematic."
+p2366
+aS'But Dan, you also mentioned that people on the whole --'
+p2367
+asg18
+(dp2368
+S'19:50:18'
+p2369
+I3
+ssa(dp2370
 g8
 (lp2371
-S"I'm getting there."
+S'Could --'
 p2372
 asg11
-S'ALICIA BONNER'
+S'JOHN DONVAN'
 p2373
 sg16
 (lp2374
@@ -4971,10 +4971,10 @@ g2372
 asa(dp2375
 g8
 (lp2376
-S'-- focus it to a question shortly.'
+S"I'm getting there."
 p2377
 asg11
-S'JOHN DONVAN'
+S'ALICIA BONNER'
 p2378
 sg16
 (lp2379
@@ -4982,1991 +4982,1993 @@ g2377
 asa(dp2380
 g8
 (lp2381
-S'The -- the -- they say that, um, you know, they say, yes, I like the way women sound, butI like male news casters better.'
+S'-- focus it to a question shortly.'
 p2382
-aS'How do we overcome this, yes in the middle class, youknow, women -- women are holding the bag, as you say.'
-p2383
-aS'But at the upper level, at themost visible levels, and if money talks, when is that power going to lie with women?'
-p2384
-asg11
-S'ALICIA BONNER'
-p2385
-sg16
-(lp2386
-S'The -- the -- they say that, um, you know, they say, yes, I like the way women sound, but I like male news casters better.'
-p2387
-aS'How do we overcome this, yes in the middle class, you know, women -- women are holding the bag, as you say.'
-p2388
-aS'But at the upper level, at the most visible levels, and if money talks, when is that power going to lie with women?'
-p2389
-asa(dp2390
-g8
-(lp2391
-S'Yeah, take it, Dan Abrams, first.'
-p2392
 asg11
 S'JOHN DONVAN'
-p2393
+p2383
 sg16
-(lp2394
-g2392
+(lp2384
+g2382
+asa(dp2385
+g8
+(lp2386
+S'The -- the -- they say that, um, you know, they say, yes, I like the way women sound, butI like male news casters better.'
+p2387
+aS'How do we overcome this, yes in the middle class, youknow, women -- women are holding the bag, as you say.'
+p2388
+aS'But at the upper level, at themost visible levels, and if money talks, when is that power going to lie with women?'
+p2389
+asg11
+S'ALICIA BONNER'
+p2390
+sg16
+(lp2391
+S'The -- the -- they say that, um, you know, they say, yes, I like the way women sound, but I like male news casters better.'
+p2392
+aS'How do we overcome this, yes in the middle class, you know, women -- women are holding the bag, as you say.'
+p2393
+aS'But at the upper level, at the most visible levels, and if money talks, when is that power going to lie with women?'
+p2394
 asa(dp2395
 g8
 (lp2396
-S'I think that eventually the results are going to speak for themselves.When people start thinking about and hearing about and learning about how muchmore effective female political leaders are, for example, I think that there will be achange.'
+S'Yeah, take it, Dan Abrams, first.'
 p2397
-aS'People will vote differently.'
+asg11
+S'JOHN DONVAN'
 p2398
-aS'Remember, when people say to me, well, why arethere so many -- look, women should be blaming themselves with regard to votingbecause women are the majority of the voters out there.'
-p2399
-aS"But what's interesting is,when you get more female candidates, you don't necessarily get a change with regardto the voting habits of women."
-p2400
-aS'So the answer to your question, is I think when it comesto newscasters, when it comes to political leaders, and I think in a lot of these otherareas, in finance, I think that ultimately the results will speak for themselves.'
-p2401
-aS"And that'spart of the reason why I think this proposition of men are finished -- you know, whilecertainly hyperbole, if you look at the results, it's a dangerous world upcoming, nottoday, a dangerous world coming for men."
+sg16
+(lp2399
+g2397
+asa(dp2400
+g8
+(lp2401
+S'I think that eventually the results are going to speak for themselves.When people start thinking about and hearing about and learning about how muchmore effective female political leaders are, for example, I think that there will be achange.'
 p2402
+aS'People will vote differently.'
+p2403
+aS'Remember, when people say to me, well, why arethere so many -- look, women should be blaming themselves with regard to votingbecause women are the majority of the voters out there.'
+p2404
+aS"But what's interesting is,when you get more female candidates, you don't necessarily get a change with regardto the voting habits of women."
+p2405
+aS'So the answer to your question, is I think when it comesto newscasters, when it comes to political leaders, and I think in a lot of these otherareas, in finance, I think that ultimately the results will speak for themselves.'
+p2406
+aS"And that'spart of the reason why I think this proposition of men are finished -- you know, whilecertainly hyperbole, if you look at the results, it's a dangerous world upcoming, nottoday, a dangerous world coming for men."
+p2407
 asg11
 S'DAN ABRAMS'
-p2403
+p2408
 sg13
-(dp2404
+(dp2409
 I4
 S'37'
-p2405
-ssg16
-(lp2406
-S'I think that eventually the results are going to speak for themselves.'
-p2407
-aS'When people start thinking about and hearing about and learning about how much more effective female political leaders are, for example, I think that there will be a change.'
-p2408
-aS'People will vote differently.'
-p2409
-aS'Remember, when people say to me, well, why are there so many -- look, women should be blaming themselves with regard to voting because women are the majority of the voters out there.'
 p2410
-aS"But what's interesting is, when you get more female candidates, you don't necessarily get a change with regard to the voting habits of women."
-p2411
-aS'So the answer to your question, is I think when it comes to newscasters, when it comes to political leaders, and I think in a lot of these other areas, in finance, I think that ultimately the results will speak for themselves.'
+ssg16
+(lp2411
+S'I think that eventually the results are going to speak for themselves.'
 p2412
-aS"And that's part of the reason why I think this proposition of men are finished -- you know, while certainly hyperbole, if you look at the results, it's a dangerous world upcoming, not today, a dangerous world coming for men."
+aS'When people start thinking about and hearing about and learning about how much more effective female political leaders are, for example, I think that there will be a change.'
 p2413
-asg18
-(dp2414
-S'19:51:18'
+aS'People will vote differently.'
+p2414
+aS'Remember, when people say to me, well, why are there so many -- look, women should be blaming themselves with regard to voting because women are the majority of the voters out there.'
 p2415
-I1
-ssa(dp2416
-g8
-(lp2417
-S'Other side?David?'
+aS"But what's interesting is, when you get more female candidates, you don't necessarily get a change with regard to the voting habits of women."
+p2416
+aS'So the answer to your question, is I think when it comes to newscasters, when it comes to political leaders, and I think in a lot of these other areas, in finance, I think that ultimately the results will speak for themselves.'
+p2417
+aS"And that's part of the reason why I think this proposition of men are finished -- you know, while certainly hyperbole, if you look at the results, it's a dangerous world upcoming, not today, a dangerous world coming for men."
 p2418
+asg18
+(dp2419
+S'19:51:18'
+p2420
+I1
+ssa(dp2421
+g8
+(lp2422
+S'Other side?David?'
+p2423
 asg11
 S'JOHN DONVAN'
-p2419
-sg16
-(lp2420
-S'Other side?'
-p2421
-aS'David?'
-p2422
-asg18
-(dp2423
-S'19:52:19'
 p2424
-I1
-ssa(dp2425
-g8
-(lp2426
-S'I mean, I think buildings are always going to fall down.'
+sg16
+(lp2425
+S'Other side?'
+p2426
+aS'David?'
 p2427
-aS'Things are going to burn.'
-p2428
-aS"You'realways going to need men to get in there and do the dirty jobs, do the dangerous jobs.The world is becoming more dangerous than ever."
+asg18
+(dp2428
+S'19:52:19'
 p2429
-aS'I think that a lot of the leaders of theworld as we discussed are men.'
-p2430
-aS'And I think the -- you have to get the country runningright here first.'
-p2431
-aS'You have to focus on health and wellness.'
+I1
+ssa(dp2430
+g8
+(lp2431
+S'I mean, I think buildings are always going to fall down.'
 p2432
-aS'I think that universalhealthcare is a step in the right direction.'
+aS'Things are going to burn.'
 p2433
-aS'Men and women are partners.'
+aS"You'realways going to need men to get in there and do the dirty jobs, do the dangerous jobs.The world is becoming more dangerous than ever."
 p2434
-aS"And once thathappens, but it's a long ways away right now, you're right, it's 16 percent of women arein Congress."
+aS'I think that a lot of the leaders of theworld as we discussed are men.'
 p2435
-aS'16 percent of women are serving on the board of corporations.'
+aS'And I think the -- you have to get the country runningright here first.'
 p2436
-aS"So there'sa lot of work that needs to be done.But we have to do it together."
+aS'You have to focus on health and wellness.'
 p2437
-aS"And that's -- and we have to do it here first."
+aS'I think that universalhealthcare is a step in the right direction.'
 p2438
+aS'Men and women are partners.'
+p2439
+aS"And once thathappens, but it's a long ways away right now, you're right, it's 16 percent of women arein Congress."
+p2440
+aS'16 percent of women are serving on the board of corporations.'
+p2441
+aS"So there'sa lot of work that needs to be done.But we have to do it together."
+p2442
+aS"And that's -- and we have to do it here first."
+p2443
 asg11
 S'DAVID ZINCZENKO'
-p2439
-sg16
-(lp2440
-S'I mean, I think buildings are always going to fall down.'
-p2441
-aS'Things are going to burn.'
-p2442
-aS"You're always going to need men to get in there and do the dirty jobs, do the dangerous jobs."
-p2443
-aS'The world is becoming more dangerous than ever.'
 p2444
-aS'I think that a lot of the leaders of the world as we discussed are men.'
-p2445
-aS'And I think the -- you have to get the country running right here first.'
+sg16
+(lp2445
+S'I mean, I think buildings are always going to fall down.'
 p2446
-aS'You have to focus on health and wellness.'
+aS'Things are going to burn.'
 p2447
-aS'I think that universal healthcare is a step in the right direction.'
+aS"You're always going to need men to get in there and do the dirty jobs, do the dangerous jobs."
 p2448
-aS'Men and women are partners.'
+aS'The world is becoming more dangerous than ever.'
 p2449
-aS"And once that happens, but it's a long ways away right now, you're right, it's 16 percent of women are in Congress."
+aS'I think that a lot of the leaders of the world as we discussed are men.'
 p2450
-aS'16 percent of women are serving on the board of corporations.'
+aS'And I think the -- you have to get the country running right here first.'
 p2451
-aS"So there's a lot of work that needs to be done."
+aS'You have to focus on health and wellness.'
 p2452
-aS'But we have to do it together.'
+aS'I think that universal healthcare is a step in the right direction.'
 p2453
-aS"And that's -- and we have to do it here first."
+aS'Men and women are partners.'
 p2454
-asg18
-(dp2455
-S'19:53:18'
+aS"And once that happens, but it's a long ways away right now, you're right, it's 16 percent of women are in Congress."
+p2455
+aS'16 percent of women are serving on the board of corporations.'
 p2456
-I9
-ssa(dp2457
-g8
-(lp2458
-S'Okay.'
+aS"So there's a lot of work that needs to be done."
+p2457
+aS'But we have to do it together.'
+p2458
+aS"And that's -- and we have to do it here first."
 p2459
-aS'Sir?'
-p2460
-aS"You're holding two fingers up."
+asg18
+(dp2460
+S'19:53:18'
 p2461
+I9
+ssa(dp2462
+g8
+(lp2463
+S'Okay.'
+p2464
+aS'Sir?'
+p2465
+aS"You're holding two fingers up."
+p2466
 aS'Yep.'
-p2462
+p2467
 asg11
 S'JOHN DONVAN'
-p2463
-sg16
-(lp2464
-S'Okay.'
-p2465
-aS'Sir?'
-p2466
-aS"You're holding two fingers up."
-p2467
-aS'Yep.'
 p2468
-asa(dp2469
-g8
-(lp2470
-S'To Dan and Hanna, even as women take over, if you will -- and I agree the trends arethere.'
+sg16
+(lp2469
+S'Okay.'
+p2470
+aS'Sir?'
 p2471
-aS"There's no question about it -- wouldn't there be inevitably a sort of marketadjustment whereby men will learn from women how to be better CEOs, how to bebetter political leaders, better administrators, better members of society and thatultimately, it won't mean that anybody's finished, but that there will be a balancing andan improvement."
+aS"You're holding two fingers up."
 p2472
+aS'Yep.'
+p2473
+asa(dp2474
+g8
+(lp2475
+S'To Dan and Hanna, even as women take over, if you will -- and I agree the trends arethere.'
+p2476
+aS"There's no question about it -- wouldn't there be inevitably a sort of marketadjustment whereby men will learn from women how to be better CEOs, how to bebetter political leaders, better administrators, better members of society and thatultimately, it won't mean that anybody's finished, but that there will be a balancing andan improvement."
+p2477
 asg11
 S'MALE SPEAKER'
-p2473
+p2478
 sg16
-(lp2474
+(lp2479
 S'To Dan and Hanna, even as women take over, if you will -- and I agree the trends are there.'
-p2475
+p2480
 aS"There's no question about it -- wouldn't there be inevitably a sort of market adjustment whereby men will learn from women how to be better CEOs, how to be better political leaders, better administrators, better members of society and that ultimately, it won't mean that anybody's finished, but that there will be a balancing and an improvement."
-p2476
-asa(dp2477
+p2481
+asa(dp2482
 g22
-(dp2478
+(dp2483
 I1
 S'[applause]'
-p2479
+p2484
 ssg8
-(lp2480
+(lp2485
 S"Christina, why don't you take that first, and then we'll come to the other side.Christina Hoff Sommers."
-p2481
+p2486
 aS'[[applause]] '
-p2482
+p2487
 asg11
 S'JOHN DONVAN'
-p2483
+p2488
 sg13
-(dp2484
+(dp2489
 I0
 S'38'
-p2485
+p2490
 ssg16
-(lp2486
+(lp2491
 S"Christina, why don't you take that first, and then we'll come to the other side."
-p2487
-aS'Christina Hoff Sommers.'
-p2488
-asa(dp2489
-g8
-(lp2490
-S"Yes, I don't disagree that there is going to be transformation."
-p2491
-aS"This debate is not aboutwhether or not we're in a period of transformation and men's and women's roles arechanging."
 p2492
-aS"Of course they are.So I'm not contesting that."
+aS'Christina Hoff Sommers.'
 p2493
-aS"What I'm contesting is this very aggressive, dramaticresolution, defended by my colleagues that men are finished."
-p2494
-aS'So I pose that.'
-p2495
-aS'But as faras men improving, I think they will.'
+asa(dp2494
+g8
+(lp2495
+S"Yes, I don't disagree that there is going to be transformation."
 p2496
-aS'I think --'
+aS"This debate is not aboutwhether or not we're in a period of transformation and men's and women's roles arechanging."
 p2497
+aS"Of course they are.So I'm not contesting that."
+p2498
+aS"What I'm contesting is this very aggressive, dramaticresolution, defended by my colleagues that men are finished."
+p2499
+aS'So I pose that.'
+p2500
+aS'But as faras men improving, I think they will.'
+p2501
+aS'I think --'
+p2502
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p2498
-sg16
-(lp2499
-S"Yes, I don't disagree that there is going to be transformation."
-p2500
-aS"This debate is not about whether or not we're in a period of transformation and men's and women's roles are changing."
-p2501
-aS'Of course they are.'
-p2502
-aS"So I'm not contesting that."
 p2503
-aS"What I'm contesting is this very aggressive, dramatic resolution, defended by my colleagues that men are finished."
-p2504
-aS'So I pose that.'
-p2505
-aS'But as far as men improving, I think they will.'
-p2506
-aS'I think --'
-p2507
-asg18
-(dp2508
-S'19:54:15'
-p2509
-I3
-ssa(dp2510
-g8
-(lp2511
-S'Hanna Rosin.'
-p2512
-asg11
-S'JOHN DONVAN'
-p2513
 sg16
-(lp2514
-g2512
-asa(dp2515
+(lp2504
+S"Yes, I don't disagree that there is going to be transformation."
+p2505
+aS"This debate is not about whether or not we're in a period of transformation and men's and women's roles are changing."
+p2506
+aS'Of course they are.'
+p2507
+aS"So I'm not contesting that."
+p2508
+aS"What I'm contesting is this very aggressive, dramatic resolution, defended by my colleagues that men are finished."
+p2509
+aS'So I pose that.'
+p2510
+aS'But as far as men improving, I think they will.'
+p2511
+aS'I think --'
+p2512
+asg18
+(dp2513
+S'19:54:15'
+p2514
+I3
+ssa(dp2515
 g8
 (lp2516
-S'-- they always have had -- face challenges and -- and hard times and overcome them,and they will do the same now.'
+S'Hanna Rosin.'
 p2517
 asg11
-S'CHRISTINA HOFF SOMMERS'
+S'JOHN DONVAN'
 p2518
 sg16
 (lp2519
-S'-- they always have had -- face challenges and -- and hard times and overcome them, and they will do the same now.'
-p2520
-asa(dp2521
+g2517
+asa(dp2520
 g8
-(lp2522
-S'Hanna Rosin.'
-p2523
+(lp2521
+S'-- they always have had -- face challenges and -- and hard times and overcome them,and they will do the same now.'
+p2522
 asg11
-S'JOHN DONVAN'
-p2524
+S'CHRISTINA HOFF SOMMERS'
+p2523
 sg16
-(lp2525
-g2523
+(lp2524
+S'-- they always have had -- face challenges and -- and hard times and overcome them, and they will do the same now.'
+p2525
 asa(dp2526
 g8
 (lp2527
-S"That's the best-case scenario, and that's what I wish would happen."
+S'Hanna Rosin.'
 p2528
-aS"However, like I said,there's just all this evidence that men don't respond that well and are not that flexible.People, like she says, people have measured things for many, many years about malepreference."
+asg11
+S'JOHN DONVAN'
 p2529
-aS'People have measured male feelings about male identity.'
-p2530
-aS"Now, femalefeelings about what's okay as a woman, and people have measured this for collegestudents and adults have changed radically."
-p2531
-aS"Women now think it's much more okay tobe aggressive in the workplace."
-p2532
-aS"It's much more okay to win."
+sg16
+(lp2530
+g2528
+asa(dp2531
+g8
+(lp2532
+S"That's the best-case scenario, and that's what I wish would happen."
 p2533
-aS'They ask a series ofquestions.'
+aS"However, like I said,there's just all this evidence that men don't respond that well and are not that flexible.People, like she says, people have measured things for many, many years about malepreference."
 p2534
-aS"The male identification hasn't -- self-identification hasn't changed basically in60 years.Men always think it's only acceptable to be a guy in this tiny, narrow range."
+aS'People have measured male feelings about male identity.'
 p2535
-aS"And they'realways defining themselves against women, not towards women, where women arealways doing the opposite, which is they're defining themselves as more aggressive,competitive, et cetera."
+aS"Now, femalefeelings about what's okay as a woman, and people have measured this for collegestudents and adults have changed radically."
 p2536
-aS'Why?'
+aS"Women now think it's much more okay tobe aggressive in the workplace."
 p2537
-aS"I don't know why."
+aS"It's much more okay to win."
 p2538
-aS"I don't know if that's biology or what.But that's just how it is."
+aS'They ask a series ofquestions.'
 p2539
-aS"So we would hope so, but we don't know."
+aS"The male identification hasn't -- self-identification hasn't changed basically in60 years.Men always think it's only acceptable to be a guy in this tiny, narrow range."
 p2540
+aS"And they'realways defining themselves against women, not towards women, where women arealways doing the opposite, which is they're defining themselves as more aggressive,competitive, et cetera."
+p2541
+aS'Why?'
+p2542
+aS"I don't know why."
+p2543
+aS"I don't know if that's biology or what.But that's just how it is."
+p2544
+aS"So we would hope so, but we don't know."
+p2545
 asg11
 S'HANNA ROSIN'
-p2541
+p2546
 sg13
-(dp2542
+(dp2547
 I12
 S'39'
-p2543
-ssg16
-(lp2544
-S"That's the best-case scenario, and that's what I wish would happen."
-p2545
-aS"However, like I said, there's just all this evidence that men don't respond that well and are not that flexible."
-p2546
-aS'People, like she says, people have measured things for many, many years about male preference.'
-p2547
-aS'People have measured male feelings about male identity.'
 p2548
-aS"Now, female feelings about what's okay as a woman, and people have measured this for college students and adults have changed radically."
-p2549
-aS"Women now think it's much more okay to be aggressive in the workplace."
+ssg16
+(lp2549
+S"That's the best-case scenario, and that's what I wish would happen."
 p2550
-aS"It's much more okay to win."
+aS"However, like I said, there's just all this evidence that men don't respond that well and are not that flexible."
 p2551
-aS'They ask a series of questions.'
+aS'People, like she says, people have measured things for many, many years about male preference.'
 p2552
-aS"The male identification hasn't -- self-identification hasn't changed basically in 60 years."
+aS'People have measured male feelings about male identity.'
 p2553
-aS"Men always think it's only acceptable to be a guy in this tiny, narrow range."
+aS"Now, female feelings about what's okay as a woman, and people have measured this for college students and adults have changed radically."
 p2554
-aS"And they're always defining themselves against women, not towards women, where women are always doing the opposite, which is they're defining themselves as more aggressive, competitive, et cetera."
+aS"Women now think it's much more okay to be aggressive in the workplace."
 p2555
-aS'Why?'
+aS"It's much more okay to win."
 p2556
-aS"I don't know why."
+aS'They ask a series of questions.'
 p2557
-aS"I don't know if that's biology or what."
+aS"The male identification hasn't -- self-identification hasn't changed basically in 60 years."
 p2558
-aS"But that's just how it is."
+aS"Men always think it's only acceptable to be a guy in this tiny, narrow range."
 p2559
-aS"So we would hope so, but we don't know."
+aS"And they're always defining themselves against women, not towards women, where women are always doing the opposite, which is they're defining themselves as more aggressive, competitive, et cetera."
 p2560
-asg18
-(dp2561
-S'19:55:18'
+aS'Why?'
+p2561
+aS"I don't know why."
 p2562
-I9
-ssa(dp2563
-g8
-(lp2564
-S'Sir, right in the aisle there.'
+aS"I don't know if that's biology or what."
+p2563
+aS"But that's just how it is."
+p2564
+aS"So we would hope so, but we don't know."
 p2565
-aS"And I just want to mention that if you're in an area whereyou can't see the numbers on your wristwatch, I can't see you because you're -- thelights aren't bright enough."
-p2566
-aS"So that if you are in that area where it's darker, and youwant to ask a question, if you could move down, I might have a chance to find you."
+asg18
+(dp2566
+S'19:55:18'
 p2567
+I9
+ssa(dp2568
+g8
+(lp2569
+S'Sir, right in the aisle there.'
+p2570
+aS"And I just want to mention that if you're in an area whereyou can't see the numbers on your wristwatch, I can't see you because you're -- thelights aren't bright enough."
+p2571
+aS"So that if you are in that area where it's darker, and youwant to ask a question, if you could move down, I might have a chance to find you."
+p2572
 aS'Sir,go ahead.'
-p2568
+p2573
 aS'Can you identify yourself?'
-p2569
+p2574
 asg11
 S'JOHN DONVAN'
-p2570
-sg16
-(lp2571
-S'Sir, right in the aisle there.'
-p2572
-aS"And I just want to mention that if you're in an area where you can't see the numbers on your wristwatch, I can't see you because you're -- the lights aren't bright enough."
-p2573
-aS"So that if you are in that area where it's darker, and you want to ask a question, if you could move down, I might have a chance to find you."
-p2574
-aS'Sir, go ahead.'
 p2575
+sg16
+(lp2576
+S'Sir, right in the aisle there.'
+p2577
+aS"And I just want to mention that if you're in an area where you can't see the numbers on your wristwatch, I can't see you because you're -- the lights aren't bright enough."
+p2578
+aS"So that if you are in that area where it's darker, and you want to ask a question, if you could move down, I might have a chance to find you."
+p2579
+aS'Sir, go ahead.'
+p2580
 aS'Can you identify yourself?'
-p2576
-asa(dp2577
+p2581
+asa(dp2582
 g22
-(dp2578
+(dp2583
 I2
 S'[laughter]'
-p2579
+p2584
 ssg8
-(lp2580
+(lp2585
 S"My name is Aaron, and the group that I am a part of is men with a bachelor's degree.That's the relevant group that I'm a part of.Bachelor's degree, by the way, may be overdue for a name change."
-p2581
+p2586
 aS'But -- [[laughter]] '
-p2582
+p2587
 asg11
 S'MALE SPEAKER'
-p2583
-sg16
-(lp2584
-S"My name is Aaron, and the group that I am a part of is men with a bachelor's degree."
-p2585
-aS"That's the relevant group that I'm a part of."
-p2586
-aS"Bachelor's degree, by the way, may be overdue for a name change."
-p2587
-aS'But --'
 p2588
-asa(dp2589
-g8
-(lp2590
-S"I can't believe we never thought of that before."
+sg16
+(lp2589
+S"My name is Aaron, and the group that I am a part of is men with a bachelor's degree."
+p2590
+aS"That's the relevant group that I'm a part of."
 p2591
+aS"Bachelor's degree, by the way, may be overdue for a name change."
+p2592
+aS'But --'
+p2593
+asa(dp2594
+g8
+(lp2595
+S"I can't believe we never thought of that before."
+p2596
 asg11
 S'FEMALE SPEAKER'
-p2592
+p2597
 sg16
-(lp2593
-g2591
-asa(dp2594
+(lp2598
+g2596
+asa(dp2599
 g22
-(dp2595
+(dp2600
 I1
 S'[applause]'
-p2596
+p2601
 ssg8
-(lp2597
+(lp2602
 S'I think you deserve a round of applause for that.'
-p2598
+p2603
 asg11
 S'JOHN DONVAN'
-p2599
+p2604
 sg16
-(lp2600
-g2598
+(lp2605
+g2603
 asg18
-(dp2601
+(dp2606
 S'19:56:17'
-p2602
+p2607
 I1
-ssa(dp2603
+ssa(dp2608
 g22
-(dp2604
+(dp2609
 I1
 S'[laughter]'
-p2605
-ssg8
-(lp2606
-S'Wow.'
-p2607
-aS"I wasn't planning to start the standup comedy till next week.I look at this, I see a man and a woman -- a man and a woman, but one style of debate [[laughter]] here, one style of debate here."
-p2608
-aS"And I'm -- and it just seems that men are finished is justan unfortunate title since both groups seem to be saying it's more about traits."
-p2609
-aS'And somy question is, is it -- could it be more men who have more feminine traits, who -- ortraditionally feminine traits, who are succeeding.'
 p2610
-aS"And I'm thinking of people like BillGates or Mark Zuckerberg, and are succeeding for that reason."
-p2611
-aS'Could they thenpotentially reverse the trend and be more successful than women because there are the--'
+ssg8
+(lp2611
+S'Wow.'
 p2612
+aS"I wasn't planning to start the standup comedy till next week.I look at this, I see a man and a woman -- a man and a woman, but one style of debate [[laughter]] here, one style of debate here."
+p2613
+aS"And I'm -- and it just seems that men are finished is justan unfortunate title since both groups seem to be saying it's more about traits."
+p2614
+aS'And somy question is, is it -- could it be more men who have more feminine traits, who -- ortraditionally feminine traits, who are succeeding.'
+p2615
+aS"And I'm thinking of people like BillGates or Mark Zuckerberg, and are succeeding for that reason."
+p2616
+aS'Could they thenpotentially reverse the trend and be more successful than women because there are the'
+p2617
 asg11
 S'MALE SPEAKER'
-p2613
-sg16
-(lp2614
-S'Wow.'
-p2615
-aS"I wasn't planning to start the standup comedy till next week."
-p2616
-aS'I look at this, I see a man and a woman -- a man and a woman, but one style of debate here, one style of debate here.'
-p2617
-aS"And I'm -- and it just seems that men are finished is just an unfortunate title since both groups seem to be saying it's more about traits."
 p2618
-aS'And so my question is, is it -- could it be more men who have more feminine traits, who -- or traditionally feminine traits, who are succeeding.'
-p2619
-aS"And I'm thinking of people like Bill Gates or Mark Zuckerberg, and are succeeding for that reason."
+sg16
+(lp2619
+S'Wow.'
 p2620
-aS'Could they then potentially reverse the trend and be more successful than women because there are the --'
+aS"I wasn't planning to start the standup comedy till next week."
 p2621
-asa(dp2622
-g8
-(lp2623
-S'What are the feminine traits, though, that you would have in mind?'
+aS'I look at this, I see a man and a woman -- a man and a woman, but one style of debate here, one style of debate here.'
+p2622
+aS"And I'm -- and it just seems that men are finished is just an unfortunate title since both groups seem to be saying it's more about traits."
+p2623
+aS'And so my question is, is it -- could it be more men who have more feminine traits, who -- or traditionally feminine traits, who are succeeding.'
 p2624
+aS"And I'm thinking of people like Bill Gates or Mark Zuckerberg, and are succeeding for that reason."
+p2625
+aS'Could they then potentially reverse the trend and be more successful than women because there are the'
+p2626
+asa(dp2627
+g8
+(lp2628
+g1441
+asg11
+S'--'
+p2629
+sg16
+(lp2630
+g1441
+asa(dp2631
+g8
+(lp2632
+S'What are the feminine traits, though, that you would have in mind?'
+p2633
 asg11
 S'JOHN DONVAN'
-p2625
+p2634
 sg13
-(dp2626
+(dp2635
 I1
 S'40'
-p2627
+p2636
 ssg16
-(lp2628
-g2624
-asa(dp2629
+(lp2637
+g2633
+asa(dp2638
 g8
-(lp2630
+(lp2639
 S"Well, I'm just -- what they've been saying, that women pay attention more, they're morepatient, they're better at certain things."
-p2631
-asg11
-S'MALE SPEAKER'
-p2632
-sg16
-(lp2633
-S"Well, I'm just -- what they've been saying, that women pay attention more, they're more patient, they're better at certain things."
-p2634
-asa(dp2635
-g8
-(lp2636
-S'Okay.'
-p2637
-aS'All right.'
-p2638
-aS"I hear your question then.Why don't we take it first to Dan Abrams."
-p2639
-asg11
-S'JOHN DONVAN'
 p2640
+asg11
+S'MALE SPEAKER'
+p2641
 sg16
-(lp2641
-S'Okay.'
-p2642
-aS'All right.'
+(lp2642
+S"Well, I'm just -- what they've been saying, that women pay attention more, they're more patient, they're better at certain things."
 p2643
-aS'I hear your question then.'
-p2644
-aS"Why don't we take it first to Dan Abrams."
-p2645
-asg18
-(dp2646
-S'19:57:16'
+asa(dp2644
+g8
+(lp2645
+S'Okay.'
+p2646
+aS'All right.'
 p2647
-I1
-ssa(dp2648
-g8
-(lp2649
-S'Just so I understand, what -- do I --'
-p2650
+aS"I hear your question then.Why don't we take it first to Dan Abrams."
+p2648
 asg11
-S'DAN ABRAMS'
+S'JOHN DONVAN'
+p2649
+sg16
+(lp2650
+S'Okay.'
 p2651
-sg16
-(lp2652
-g2650
-asa(dp2653
-g8
-(lp2654
-S'I think your question is, if more men could be more like women --'
-p2655
-asg11
-S'JOHN DONVAN'
+aS'All right.'
+p2652
+aS'I hear your question then.'
+p2653
+aS"Why don't we take it first to Dan Abrams."
+p2654
+asg18
+(dp2655
+S'19:57:16'
 p2656
-sg16
-(lp2657
-g2655
-asa(dp2658
+I1
+ssa(dp2657
 g8
-(lp2659
-S'Yeah, look.'
-p2660
-aS"There's -- no, no, no, no."
-p2661
-aS"That's actually a fair point.Look, I'll take that serious."
-p2662
-aS"I don't mean to -- You want to ask anything else?"
-p2663
+(lp2658
+S'Just so I understand, what -- do I --'
+p2659
 asg11
 S'DAN ABRAMS'
+p2660
+sg16
+(lp2661
+g2659
+asa(dp2662
+g8
+(lp2663
+S'I think your question is, if more men could be more like women --'
 p2664
-sg16
-(lp2665
-S'Yeah, look.'
-p2666
-aS"There's -- no, no, no, no."
-p2667
-aS"That's actually a fair point."
-p2668
-aS"Look, I'll take that serious."
-p2669
-aS"I don't mean to -- You want to ask anything else?"
-p2670
-asa(dp2671
-g8
-(lp2672
-S'Well, I --'
-p2673
-asg11
-S'MALE SPEAKER'
-p2674
-sg16
-(lp2675
-g2673
-asa(dp2676
-g8
-(lp2677
-S'No, no, go ahead, just take it then because --'
-p2678
 asg11
 S'JOHN DONVAN'
-p2679
+p2665
 sg16
-(lp2680
-g2678
-asa(dp2681
+(lp2666
+g2664
+asa(dp2667
 g8
-(lp2682
-S"It's not men acting more like women just because they want to act like women orlearning to act like women, it's men who do by nature -- like I feel like people told methat I have traits that are more like a woman personality-wise, not physically and myvoice --"
-p2683
+(lp2668
+S'Yeah, look.'
+p2669
+aS"There's -- no, no, no, no."
+p2670
+aS"That's actually a fair point.Look, I'll take that serious."
+p2671
+aS"I don't mean to -- You want to ask anything else?"
+p2672
+asg11
+S'DAN ABRAMS'
+p2673
+sg16
+(lp2674
+S'Yeah, look.'
+p2675
+aS"There's -- no, no, no, no."
+p2676
+aS"That's actually a fair point."
+p2677
+aS"Look, I'll take that serious."
+p2678
+aS"I don't mean to -- You want to ask anything else?"
+p2679
+asa(dp2680
+g8
+(lp2681
+S'Well, I --'
+p2682
 asg11
 S'MALE SPEAKER'
-p2684
+p2683
 sg16
-(lp2685
+(lp2684
+g2682
+asa(dp2685
+g8
+(lp2686
+S'No, no, go ahead, just take it then because --'
+p2687
+asg11
+S'JOHN DONVAN'
+p2688
+sg16
+(lp2689
+g2687
+asa(dp2690
+g8
+(lp2691
+S"It's not men acting more like women just because they want to act like women orlearning to act like women, it's men who do by nature -- like I feel like people told methat I have traits that are more like a woman personality-wise, not physically and myvoice --"
+p2692
+asg11
+S'MALE SPEAKER'
+p2693
+sg16
+(lp2694
 S"It's not men acting more like women just because they want to act like women or learning to act like women, it's men who do by nature -- like I feel like people told me that I have traits that are more like a woman personality-wise, not physically and my voice --"
-p2686
-asa(dp2687
+p2695
+asa(dp2696
 g22
-(dp2688
+(dp2697
 I1
 S'[laughter]'
-p2689
+p2698
 ssg8
-(lp2690
+(lp2699
 S"Not your hair, it's not your hair they're talking about."
-p2691
+p2700
 asg11
 S'HANNA ROSIN'
-p2692
+p2701
 sg13
-(dp2693
+(dp2702
 I1
 S'41'
-p2694
-ssg16
-(lp2695
-g2691
-asa(dp2696
-g8
-(lp2697
-S'-- but just a matter of -- and men are already in the positions of power and then men inpositions of power who want to keep men in power change the rules of the game or insome way -- but ultimately yes, men with more feminine traits succeeding becausepeople are embracing more feminine traits, okay.'
-p2698
-asg11
-S'MALE SPEAKER'
-p2699
-sg16
-(lp2700
-S'-- but just a matter of -- and men are already in the positions of power and then men in positions of power who want to keep men in power change the rules of the game or in some way -- but ultimately yes, men with more feminine traits succeeding because people are embracing more feminine traits, okay.'
-p2701
-asg18
-(dp2702
-S'19:58:20'
 p2703
-I4
-ssa(dp2704
+ssg16
+(lp2704
+g2700
+asa(dp2705
 g8
-(lp2705
-S"I'll say this, that in the world of finance there is a clear recognition that the traders needto behave more classically female, meaning that they are now being trained at manyclassically male financial firms to engage in behavior, consensus building, less of the sortof typically male buying and trading like crazy, taking risks, and becoming a bit more riskaverse, et cetera, to improve long term performance."
-p2706
-aS"Again, getting back to some ofthe statistics that I laid out, that's as a result of risk aversion, now, that doesn't -- thatmeans if you're going to swing for the homerun every time, you're going to hit thathomerun more often and you're also going to strike out more often.And yet if you behave more in what is viewed as classically female, more risk averse,you're going to end up with more -- and to use the sports analogy -- singles, doubles,and triples, and as a result have better returns, so just --"
+(lp2706
+S'-- but just a matter of -- and men are already in the positions of power and then men inpositions of power who want to keep men in power change the rules of the game or insome way -- but ultimately yes, men with more feminine traits succeeding becausepeople are embracing more feminine traits, okay.'
 p2707
 asg11
-S'DAN ABRAMS'
+S'MALE SPEAKER'
 p2708
 sg16
 (lp2709
-S"I'll say this, that in the world of finance there is a clear recognition that the traders need to behave more classically female, meaning that they are now being trained at many classically male financial firms to engage in behavior, consensus building, less of the sort of typically male buying and trading like crazy, taking risks, and becoming a bit more risk averse, et cetera, to improve long term performance."
+S'-- but just a matter of -- and men are already in the positions of power and then men in positions of power who want to keep men in power change the rules of the game or in some way -- but ultimately yes, men with more feminine traits succeeding because people are embracing more feminine traits, okay.'
 p2710
-aS"Again, getting back to some of the statistics that I laid out, that's as a result of risk aversion, now, that doesn't -- that means if you're going to swing for the homerun every time, you're going to hit that homerun more often and you're also going to strike out more often."
-p2711
-aS"And yet if you behave more in what is viewed as classically female, more risk averse, you're going to end up with more -- and to use the sports analogy -- singles, doubles, and triples, and as a result have better returns, so just --"
-p2712
 asg18
-(dp2713
-S'19:59:12'
-p2714
-I8
-ssa(dp2715
+(dp2711
+S'19:58:20'
+p2712
+I4
+ssa(dp2713
 g8
-(lp2716
-S'David, do you want to respond to that?'
-p2717
-asg11
-S'JOHN DONVAN'
-p2718
-sg16
-(lp2719
-g2717
-asa(dp2720
-g22
-(dp2721
-I1
-S'[laughter]'
-p2722
-ssg8
-(lp2723
-S"I think you're a superior human being who is adapting, that's exactly what's going on.You are adopting certain traits that will help you survive and excel."
-p2724
-aS'There is nothing [[laughter]] wrong with that.'
-p2725
-aS"What is unfortunate is the argument cannot -- of women gainingtraction, which they're trying to make this about, is not what in fact the debate is about,which is men aren't finished."
-p2726
-aS'And --'
-p2727
-asg11
-S'DAVID ZINCZENKO'
-p2728
-sg16
-(lp2729
-S"I think you're a superior human being who is adapting, that's exactly what's going on."
-p2730
-aS'You are adopting certain traits that will help you survive and excel.'
-p2731
-aS'There is nothing wrong with that.'
-p2732
-aS"What is unfortunate is the argument cannot -- of women gaining traction, which they're trying to make this about, is not what in fact the debate is about, which is men aren't finished."
-p2733
-aS'And --'
-p2734
-asa(dp2735
-g8
-(lp2736
-S'Right, I was talking about surpassing them, not equaling them, surpassing them.'
-p2737
+(lp2714
+S"I'll say this, that in the world of finance there is a clear recognition that the traders needto behave more classically female, meaning that they are now being trained at manyclassically male financial firms to engage in behavior, consensus building, less of the sortof typically male buying and trading like crazy, taking risks, and becoming a bit more riskaverse, et cetera, to improve long term performance."
+p2715
+aS"Again, getting back to some ofthe statistics that I laid out, that's as a result of risk aversion, now, that doesn't -- thatmeans if you're going to swing for the homerun every time, you're going to hit thathomerun more often and you're also going to strike out more often.And yet if you behave more in what is viewed as classically female, more risk averse,you're going to end up with more -- and to use the sports analogy -- singles, doubles,and triples, and as a result have better returns, so just --"
+p2716
 asg11
 S'DAN ABRAMS'
-p2738
+p2717
 sg16
-(lp2739
-g2737
-asa(dp2740
-g22
-(dp2741
-I7
-S'[laughter]'
-p2742
-ssg11
-S'DAVID ZINCZENKO'
-p2743
-sg16
-(lp2744
-S'Yes, and maybe -- look, I can sit here and talk about the ratio of college-educated men to women in Birmingham being 13 to 17 and in Oakland 11 to eight, we can talk about stats all day long.'
-p2745
-aS"But if you come back to the facts, the main facts when it comes to how wealth is distributed, the fact that men are still earning more than women, that they're still running boards, running countries, inventing new technologies, you are in a situation where men aren't finished, and that's why you have to vote against this motion."
-p2746
+(lp2718
+S"I'll say this, that in the world of finance there is a clear recognition that the traders need to behave more classically female, meaning that they are now being trained at many classically male financial firms to engage in behavior, consensus building, less of the sort of typically male buying and trading like crazy, taking risks, and becoming a bit more risk averse, et cetera, to improve long term performance."
+p2719
+aS"Again, getting back to some of the statistics that I laid out, that's as a result of risk aversion, now, that doesn't -- that means if you're going to swing for the homerun every time, you're going to hit that homerun more often and you're also going to strike out more often."
+p2720
+aS"And yet if you behave more in what is viewed as classically female, more risk averse, you're going to end up with more -- and to use the sports analogy -- singles, doubles, and triples, and as a result have better returns, so just --"
+p2721
 asg18
-(dp2747
-S'20:00:16'
-p2748
-I3
-ssg8
-(lp2749
-S"Yes, and maybe -- look, I can sit here and talk about the ratio of college-educated mento women in Birmingham being 13 to 17 and in Oakland 11 to eight, we can talk aboutstats all day long.But if you come back to the facts, the main facts when it comes to how wealth isdistributed, the fact that men are still earning more than women, that they're stillrunning boards, running countries, inventing new technologies, you are in a situationwhere men aren't finished, and that's why you have to vote against this motion."
-p2750
-asg13
-(dp2751
-I0
-S'42'
-p2752
-ssa(dp2753
+(dp2722
+S'19:59:12'
+p2723
+I8
+ssa(dp2724
 g8
-(lp2754
-S"Yeah, right there with this -- yeah, I'm looking right at you."
-p2755
-aS'And just wait for the mic.'
-p2756
+(lp2725
+S'David, do you want to respond to that?'
+p2726
 asg11
 S'JOHN DONVAN'
-p2757
+p2727
 sg16
-(lp2758
-S"Yeah, right there with this -- yeah, I'm looking right at you."
-p2759
-aS'And just wait for the mic.'
-p2760
-asa(dp2761
+(lp2728
+g2726
+asa(dp2729
 g22
-(dp2762
-I5
-S'[laughter]'
-p2763
-ssg8
-(lp2764
-S"Something for Dave and then one question for the panel, but you mentioned that menstill hold the majority of resources, 99 percent and they run 92 percent of the countries,do you honestly think that's because they're more competent?"
-p2765
-aS'I mean, why do youthink that is?'
-p2766
-aS"Do you think it has something to do with deeply rooted structuralpatriarchy that's been enforced through violence over the past 40,000 years, like ---- and then one more question for the whole panel -- [[laughter]] "
-p2767
-asg11
-S'FEMALE SPEAKER'
-p2768
-sg16
-(lp2769
-S"Something for Dave and then one question for the panel, but you mentioned that men still hold the majority of resources, 99 percent and they run 92 percent of the countries, do you honestly think that's because they're more competent?"
-p2770
-aS'I mean, why do you think that is?'
-p2771
-aS"Do you think it has something to do with deeply rooted structural patriarchy that's been enforced through violence over the past 40,000 years, like -- -- and then one more question for the whole panel --"
-p2772
-asg18
-(dp2773
-S'20:01:18'
-p2774
-I5
-ssa(dp2775
-g8
-(lp2776
-S'Wait on that one because --'
-p2777
-asg11
-S'JOHN DONVAN'
-p2778
-sg16
-(lp2779
-g2777
-asa(dp2780
-g8
-(lp2781
-S"I'm sorry ."
-p2782
-asg11
-S'FEMALE SPEAKER'
-p2783
-sg16
-(lp2784
-g2782
-asa(dp2785
-g8
-(lp2786
-S'-- because nobody will remember the two, and that was a pretty good one.'
-p2787
-asg11
-S'JOHN DONVAN'
-p2788
-sg16
-(lp2789
-g2787
-asa(dp2790
-g8
-(lp2791
-S"It's a quick one, it's just --"
-p2792
-asg11
-S'FEMALE SPEAKER'
-p2793
-sg16
-(lp2794
-g2792
-asa(dp2795
-g8
-(lp2796
-S"No, hold off, I'll come back to you for the second one and -- but let this one go and then-- but I'll come back."
-p2797
-aS'Go ahead, David.'
-p2798
-asg11
-S'JOHN DONVAN'
-p2799
-sg13
-(dp2800
-I2
-S'43'
-p2801
-ssg16
-(lp2802
-S"No, hold off, I'll come back to you for the second one and -- but let this one go and then -- but I'll come back."
-p2803
-aS'Go ahead, David.'
-p2804
-asa(dp2805
-g8
-(lp2806
-S'Yeah, look, I think that men have had an enormous head start.'
-p2807
-aS"That's what I'm arguing.I am for gender equality."
-p2808
-aS"I am just saying men aren't finished."
-p2809
-aS'You know, and I --'
-p2810
-asg11
-S'DAVID ZINCZENKO'
-p2811
-sg16
-(lp2812
-S'Yeah, look, I think that men have had an enormous head start.'
-p2813
-aS"That's what I'm arguing."
-p2814
-aS'I am for gender equality.'
-p2815
-aS"I am just saying men aren't finished."
-p2816
-aS'You know, and I --'
-p2817
-asa(dp2818
-g8
-(lp2819
-S"And that's why you have to vote against the motion."
-p2820
-asg11
-S'JOHN DONVAN'
-p2821
-sg16
-(lp2822
-g2820
-asa(dp2823
-g22
-(dp2824
+(dp2730
 I1
 S'[laughter]'
-p2825
+p2731
 ssg8
-(lp2826
-S"And that's why you have to vote against the motion.We have to stay very focused here."
-p2827
-aS"And look, I think one of the things -- so men have [[laughter]] had a tremendous head start, that's worldwide, the gains they've made, certainlywomen have made enormous gains and will continue to make them, and we shouldsupport all of them, but it's not what we're debating here tonight."
-p2828
-aS"And it's funny thepoint that Hanna made about Men's Health as a lose your gut type magazine.Well, let's get back to that for one second, okay?"
-p2829
-aS"This right here is the world's leadingwomen's magazine, okay, right here."
-p2830
+(lp2732
+S"I think you're a superior human being who is adapting, that's exactly what's going on.You are adopting certain traits that will help you survive and excel."
+p2733
+aS'There is nothing [[laughter]] wrong with that.'
+p2734
+aS"What is unfortunate is the argument cannot -- of women gainingtraction, which they're trying to make this about, is not what in fact the debate is about,which is men aren't finished."
+p2735
+aS'And --'
+p2736
 asg11
 S'DAVID ZINCZENKO'
-p2831
+p2737
 sg16
-(lp2832
-S"And that's why you have to vote against the motion."
-p2833
-aS'We have to stay very focused here.'
-p2834
-aS"And look, I think one of the things -- so men have had a tremendous head start, that's worldwide, the gains they've made, certainly women have made enormous gains and will continue to make them, and we should support all of them, but it's not what we're debating here tonight."
-p2835
-aS"And it's funny the point that Hanna made about Men's Health as a lose your gut type magazine."
-p2836
-aS"Well, let's get back to that for one second, okay?"
-p2837
-aS"This right here is the world's leading women's magazine, okay, right here."
-p2838
-asg18
-(dp2839
-S'20:02:19'
-p2840
-I6
-ssa(dp2841
+(lp2738
+S"I think you're a superior human being who is adapting, that's exactly what's going on."
+p2739
+aS'You are adopting certain traits that will help you survive and excel.'
+p2740
+aS'There is nothing wrong with that.'
+p2741
+aS"What is unfortunate is the argument cannot -- of women gaining traction, which they're trying to make this about, is not what in fact the debate is about, which is men aren't finished."
+p2742
+aS'And --'
+p2743
+asa(dp2744
 g8
-(lp2842
-S"For the radio audience, tell us what you're holding up right now."
-p2843
+(lp2745
+S'Right, I was talking about surpassing them, not equaling them, surpassing them.'
+p2746
 asg11
-S'JOHN DONVAN'
-p2844
+S'DAN ABRAMS'
+p2747
 sg16
-(lp2845
-g2843
-asa(dp2846
-g8
-(lp2847
-S'This is Cosmopolitan, okay, which just happens to be the worlds leading womensmagazine.'
-p2848
-aS'I think theyre in like 97 countries or something.'
-p2849
-aS'Left side, naughty -- 21naughty sex tips, bold breathless moves.'
-p2850
-asg11
-S'DAVID ZINCZENKO'
-p2851
-sg16
-(lp2852
-S'This is Cosmopolitan, okay, which just happens to be the worlds leading womens magazine.'
-p2853
-aS'I think theyre in like 97 countries or something.'
-p2854
-aS'Left side, naughty -- 21 naughty sex tips, bold breathless moves.'
-p2855
-asa(dp2856
-g8
-(lp2857
-S'Wait, so why do you want to be like that?'
-p2858
-asg11
-S'HANNA ROSIN'
-p2859
-sg16
-(lp2860
-g2858
-asa(dp2861
+(lp2748
+g2746
+asa(dp2749
 g22
-(dp2862
-I4
+(dp2750
+I7
 S'[laughter]'
-p2863
+p2751
 ssg11
 S'DAVID ZINCZENKO'
-p2864
+p2752
 sg16
-(lp2865
-S'Shrink your inner thighs in six minutes a day.'
-p2866
-aS'Times he wants you to be jealous.'
-p2867
-aS'Four words that seduce any man any time.'
-p2868
-aS'This magazine is concerned -- it seems like women are concerned a lot with men, okay.'
-p2869
-aS'Then we go over to a magazine like Mens Health, -- --which also happens to be the worlds largest mens magazine.'
-p2870
-aS'And now, here you have gym-free abs --'
-p2871
+(lp2753
+S'Yes, and maybe -- look, I can sit here and talk about the ratio of college-educated men to women in Birmingham being 13 to 17 and in Oakland 11 to eight, we can talk about stats all day long.'
+p2754
+aS"But if you come back to the facts, the main facts when it comes to how wealth is distributed, the fact that men are still earning more than women, that they're still running boards, running countries, inventing new technologies, you are in a situation where men aren't finished, and that's why you have to vote against this motion."
+p2755
 asg18
-(dp2872
-S'20:03:13'
-p2873
-I5
+(dp2756
+S'20:00:16'
+p2757
+I3
 ssg8
+(lp2758
+S"Yes, and maybe -- look, I can sit here and talk about the ratio of college-educated mento women in Birmingham being 13 to 17 and in Oakland 11 to eight, we can talk aboutstats all day long.But if you come back to the facts, the main facts when it comes to how wealth isdistributed, the fact that men are still earning more than women, that they're stillrunning boards, running countries, inventing new technologies, you are in a situationwhere men aren't finished, and that's why you have to vote against this motion."
+p2759
+asg13
+(dp2760
+I0
+S'42'
+p2761
+ssa(dp2762
+g8
+(lp2763
+S"Yeah, right there with this -- yeah, I'm looking right at you."
+p2764
+aS'And just wait for the mic.'
+p2765
+asg11
+S'JOHN DONVAN'
+p2766
+sg16
+(lp2767
+S"Yeah, right there with this -- yeah, I'm looking right at you."
+p2768
+aS'And just wait for the mic.'
+p2769
+asa(dp2770
+g22
+(dp2771
+I5
+S'[laughter]'
+p2772
+ssg8
+(lp2773
+S"Something for Dave and then one question for the panel, but you mentioned that menstill hold the majority of resources, 99 percent and they run 92 percent of the countries,do you honestly think that's because they're more competent?"
+p2774
+aS'I mean, why do youthink that is?'
+p2775
+aS"Do you think it has something to do with deeply rooted structuralpatriarchy that's been enforced through violence over the past 40,000 years, like ---- and then one more question for the whole panel -- [[laughter]] "
+p2776
+asg11
+S'FEMALE SPEAKER'
+p2777
+sg16
+(lp2778
+S"Something for Dave and then one question for the panel, but you mentioned that men still hold the majority of resources, 99 percent and they run 92 percent of the countries, do you honestly think that's because they're more competent?"
+p2779
+aS'I mean, why do you think that is?'
+p2780
+aS"Do you think it has something to do with deeply rooted structural patriarchy that's been enforced through violence over the past 40,000 years, like -- -- and then one more question for the whole panel --"
+p2781
+asg18
+(dp2782
+S'20:01:18'
+p2783
+I5
+ssa(dp2784
+g8
+(lp2785
+S'Wait on that one because --'
+p2786
+asg11
+S'JOHN DONVAN'
+p2787
+sg16
+(lp2788
+g2786
+asa(dp2789
+g8
+(lp2790
+S"I'm sorry ."
+p2791
+asg11
+S'FEMALE SPEAKER'
+p2792
+sg16
+(lp2793
+g2791
+asa(dp2794
+g8
+(lp2795
+S'-- because nobody will remember the two, and that was a pretty good one.'
+p2796
+asg11
+S'JOHN DONVAN'
+p2797
+sg16
+(lp2798
+g2796
+asa(dp2799
+g8
+(lp2800
+S"It's a quick one, it's just --"
+p2801
+asg11
+S'FEMALE SPEAKER'
+p2802
+sg16
+(lp2803
+g2801
+asa(dp2804
+g8
+(lp2805
+S"No, hold off, I'll come back to you for the second one and -- but let this one go and then-- but I'll come back."
+p2806
+aS'Go ahead, David.'
+p2807
+asg11
+S'JOHN DONVAN'
+p2808
+sg13
+(dp2809
+I2
+S'43'
+p2810
+ssg16
+(lp2811
+S"No, hold off, I'll come back to you for the second one and -- but let this one go and then -- but I'll come back."
+p2812
+aS'Go ahead, David.'
+p2813
+asa(dp2814
+g8
+(lp2815
+S'Yeah, look, I think that men have had an enormous head start.'
+p2816
+aS"That's what I'm arguing.I am for gender equality."
+p2817
+aS"I am just saying men aren't finished."
+p2818
+aS'You know, and I --'
+p2819
+asg11
+S'DAVID ZINCZENKO'
+p2820
+sg16
+(lp2821
+S'Yeah, look, I think that men have had an enormous head start.'
+p2822
+aS"That's what I'm arguing."
+p2823
+aS'I am for gender equality.'
+p2824
+aS"I am just saying men aren't finished."
+p2825
+aS'You know, and I --'
+p2826
+asa(dp2827
+g8
+(lp2828
+S"And that's why you have to vote against the motion."
+p2829
+asg11
+S'JOHN DONVAN'
+p2830
+sg16
+(lp2831
+g2829
+asa(dp2832
+g22
+(dp2833
+I1
+S'[laughter]'
+p2834
+ssg8
+(lp2835
+S"And that's why you have to vote against the motion.We have to stay very focused here."
+p2836
+aS"And look, I think one of the things -- so men have [[laughter]] had a tremendous head start, that's worldwide, the gains they've made, certainlywomen have made enormous gains and will continue to make them, and we shouldsupport all of them, but it's not what we're debating here tonight."
+p2837
+aS"And it's funny thepoint that Hanna made about Men's Health as a lose your gut type magazine.Well, let's get back to that for one second, okay?"
+p2838
+aS"This right here is the world's leadingwomen's magazine, okay, right here."
+p2839
+asg11
+S'DAVID ZINCZENKO'
+p2840
+sg16
+(lp2841
+S"And that's why you have to vote against the motion."
+p2842
+aS'We have to stay very focused here.'
+p2843
+aS"And look, I think one of the things -- so men have had a tremendous head start, that's worldwide, the gains they've made, certainly women have made enormous gains and will continue to make them, and we should support all of them, but it's not what we're debating here tonight."
+p2844
+aS"And it's funny the point that Hanna made about Men's Health as a lose your gut type magazine."
+p2845
+aS"Well, let's get back to that for one second, okay?"
+p2846
+aS"This right here is the world's leading women's magazine, okay, right here."
+p2847
+asg18
+(dp2848
+S'20:02:19'
+p2849
+I6
+ssa(dp2850
+g8
+(lp2851
+S"For the radio audience, tell us what you're holding up right now."
+p2852
+asg11
+S'JOHN DONVAN'
+p2853
+sg16
+(lp2854
+g2852
+asa(dp2855
+g8
+(lp2856
+S'This is Cosmopolitan, okay, which just happens to be the worlds leading womensmagazine.'
+p2857
+aS'I think theyre in like 97 countries or something.'
+p2858
+aS'Left side, naughty -- 21naughty sex tips, bold breathless moves.'
+p2859
+asg11
+S'DAVID ZINCZENKO'
+p2860
+sg16
+(lp2861
+S'This is Cosmopolitan, okay, which just happens to be the worlds leading womens magazine.'
+p2862
+aS'I think theyre in like 97 countries or something.'
+p2863
+aS'Left side, naughty -- 21 naughty sex tips, bold breathless moves.'
+p2864
+asa(dp2865
+g8
+(lp2866
+S'Wait, so why do you want to be like that?'
+p2867
+asg11
+S'HANNA ROSIN'
+p2868
+sg16
+(lp2869
+g2867
+asa(dp2870
+g22
+(dp2871
+I4
+S'[laughter]'
+p2872
+ssg11
+S'DAVID ZINCZENKO'
+p2873
+sg16
 (lp2874
 S'Shrink your inner thighs in six minutes a day.'
 p2875
 aS'Times he wants you to be jealous.'
 p2876
-aS'Fourwords that seduce any man any time.'
+aS'Four words that seduce any man any time.'
 p2877
-aS'This magazine is concerned -- it seems likewomen are concerned a lot with men, okay.'
+aS'This magazine is concerned -- it seems like women are concerned a lot with men, okay.'
 p2878
-aS'Then we go over to a magazine like MensHealth, ----which also happens to be the worlds largest mens magazine.'
+aS'Then we go over to a magazine like Mens Health, -- --which also happens to be the worlds largest mens magazine.'
 p2879
-aS'[[laughter]] And now, here you have gym-free abs --'
+aS'And now, here you have gym-free abs --'
 p2880
-asg13
+asg18
 (dp2881
+S'20:03:13'
+p2882
+I5
+ssg8
+(lp2883
+S'Shrink your inner thighs in six minutes a day.'
+p2884
+aS'Times he wants you to be jealous.'
+p2885
+aS'Fourwords that seduce any man any time.'
+p2886
+aS'This magazine is concerned -- it seems likewomen are concerned a lot with men, okay.'
+p2887
+aS'Then we go over to a magazine like MensHealth, ----which also happens to be the worlds largest mens magazine.'
+p2888
+aS'[[laughter]] And now, here you have gym-free abs --'
+p2889
+asg13
+(dp2890
 I5
 S'44'
-p2882
-ssa(dp2883
+p2891
+ssa(dp2892
 g22
-(dp2884
+(dp2893
 I1
 S'[laughter]'
-p2885
+p2894
 ssg8
-(lp2886
+(lp2895
 S'You know this is a non-profit organization.'
-p2887
+p2896
 asg11
 S'JOHN DONVAN'
-p2888
+p2897
 sg16
-(lp2889
-g2887
-asa(dp2890
+(lp2898
+g2896
+asa(dp2899
 g8
-(lp2891
+(lp2900
 S'Get ripped workout, you know, Torn to Shreds: The Untold Story of the AfghanistanWar.'
-p2892
+p2901
 asg11
 S'DAVID ZINCZENKO'
-p2893
+p2902
 sg16
-(lp2894
+(lp2903
 S'Get ripped workout, you know, Torn to Shreds: The Untold Story of the Afghanistan War.'
-p2895
-asa(dp2896
+p2904
+asa(dp2905
 g8
-(lp2897
+(lp2906
 S'So why dont we -- weve just proved that men are obsessed with themselves, andwomen are obsessed with men.'
-p2898
+p2907
 asg11
 S'HANNA ROSIN'
-p2899
+p2908
 sg16
-(lp2900
+(lp2909
 S'So why dont we -- weve just proved that men are obsessed with themselves, and women are obsessed with men.'
-p2901
-asa(dp2902
+p2910
+asa(dp2911
 g8
-(lp2903
+(lp2912
 S'Im sorry, women --'
-p2904
+p2913
 asg11
 S'MALE SPEAKER'
-p2905
+p2914
 sg16
-(lp2906
-g2904
-asa(dp2907
+(lp2915
+g2913
+asa(dp2916
 g8
-(lp2908
+(lp2917
 S'Let me come back to your second question and make it very short because Id like tomove on to --'
-p2909
+p2918
 asg11
 S'JOHN DONVAN'
-p2910
+p2919
 sg16
-(lp2911
+(lp2920
 S'Let me come back to your second question and make it very short because Id like to move on to --'
-p2912
-asa(dp2913
+p2921
+asa(dp2922
 g8
-(lp2914
+(lp2923
 S' go back, this whole conversation also has been very binary between menand women.'
-p2915
+p2924
 aS'And I was curious, for everyone and maybe for Hanna whos done so muchon-the-ground reporting, also, where like gender non-conforming people and transpeople fit into this conversation?'
-p2916
+p2925
 asg11
 S'FEMALE SPEAKER'
-p2917
-sg16
-(lp2918
-S' go back, this whole conversation also has been very binary between men and women.'
-p2919
-aS'And I was curious, for everyone and maybe for Hanna whos done so much on-the-ground reporting, also, where like gender non-conforming people and trans people fit into this conversation?'
-p2920
-asa(dp2921
-g8
-(lp2922
-S'Well, they -- you know, I mean, one thing that we all wish for is for men to accept abroader range of self identities.'
-p2923
-aS'So in the sense that, you know, its much moreacceptable to be gay now, no, theres no problem with being gay.'
-p2924
-aS'You know, gay peoplecan get married, they cannot get married, that maybe holds up a world in which itsokay for a wide range, like its okay for a guy to be a stay-at-home dad.Theres a new sitcom about a guy whos a stay-at-home dad and maybe you shouldwatch it, you know.'
-p2925
-aS'Maybe more guys will become stay-at-home dads.'
 p2926
-aS'So you donthave to feel like super self-conscious if youre a guy whose wife, for example, makesmore money than you do, which is a -- which is now almost 30 percent of thepopulation, which, again, was unheard of only, you know, 20 years ago is now fairlycommon.'
-p2927
-aS'And you dont have to like slink away in shame if that is you.'
+sg16
+(lp2927
+S' go back, this whole conversation also has been very binary between men and women.'
 p2928
+aS'And I was curious, for everyone and maybe for Hanna whos done so much on-the-ground reporting, also, where like gender non-conforming people and trans people fit into this conversation?'
+p2929
+asa(dp2930
+g8
+(lp2931
+S'Well, they -- you know, I mean, one thing that we all wish for is for men to accept abroader range of self identities.'
+p2932
+aS'So in the sense that, you know, its much moreacceptable to be gay now, no, theres no problem with being gay.'
+p2933
+aS'You know, gay peoplecan get married, they cannot get married, that maybe holds up a world in which itsokay for a wide range, like its okay for a guy to be a stay-at-home dad.Theres a new sitcom about a guy whos a stay-at-home dad and maybe you shouldwatch it, you know.'
+p2934
+aS'Maybe more guys will become stay-at-home dads.'
+p2935
+aS'So you donthave to feel like super self-conscious if youre a guy whose wife, for example, makesmore money than you do, which is a -- which is now almost 30 percent of thepopulation, which, again, was unheard of only, you know, 20 years ago is now fairlycommon.'
+p2936
+aS'And you dont have to like slink away in shame if that is you.'
+p2937
 asg11
 S'HANNA ROSIN'
-p2929
+p2938
 sg13
-(dp2930
+(dp2939
 I9
 S'45'
-p2931
+p2940
 ssg16
-(lp2932
+(lp2941
 S'Well, they -- you know, I mean, one thing that we all wish for is for men to accept a broader range of self identities.'
-p2933
+p2942
 aS'So in the sense that, you know, its much more acceptable to be gay now, no, theres no problem with being gay.'
-p2934
+p2943
 aS'You know, gay people can get married, they cannot get married, that maybe holds up a world in which its okay for a wide range, like its okay for a guy to be a stay-at-home dad.'
-p2935
+p2944
 aS'Theres a new sitcom about a guy whos a stay-at-home dad and maybe you should watch it, you know.'
-p2936
+p2945
 aS'Maybe more guys will become stay-at-home dads.'
-p2937
+p2946
 aS'So you dont have to feel like super self-conscious if youre a guy whose wife, for example, makes more money than you do, which is a -- which is now almost 30 percent of the population, which, again, was unheard of only, you know, 20 years ago is now fairly common.'
-p2938
+p2947
 aS'And you dont have to like slink away in shame if that is you.'
-p2939
+p2948
 asg18
-(dp2940
+(dp2949
 S'20:04:16'
-p2941
+p2950
 I5
-ssa(dp2942
+ssa(dp2951
 g22
-(dp2943
+(dp2952
 I2
 S'[applause]'
-p2944
-ssg8
-(lp2945
-S'Okay, I need to do another radio break, so Id just like to ask you to applaud again, andIll come back and --So we are in the middle of a question and answer section of this Intelligence Squared [[applause]] U.S. debate.'
-p2946
-aS'Im John Donvan, your moderator.'
-p2947
-aS'We have four debaters, two teams oftwo.'
-p2948
-aS'And they are debating this motion, "Men are finished.'
-p2949
-aS'" And I want to do one moretime without the applause to give them that option.So were in the middle of the Q and A section of this Intelligence Squared U.S. debate.Im John Donvan of ABC News, your moderator.'
-p2950
-aS'We have four debaters, two teams oftwo, debating this motion, "Men are finished.'
-p2951
-aS'" So lets go to another question.'
-p2952
-aS'Sir,youve got a white card in your hand.'
 p2953
-asg11
-S'JOHN DONVAN'
-p2954
-sg16
-(lp2955
-S'Okay, I need to do another radio break, so Id just like to ask you to applaud again, and Ill come back and -- So we are in the middle of a question and answer section of this Intelligence Squared U.S. debate.'
-p2956
+ssg8
+(lp2954
+S'Okay, I need to do another radio break, so Id just like to ask you to applaud again, andIll come back and --So we are in the middle of a question and answer section of this Intelligence Squared [[applause]] U.S. debate.'
+p2955
 aS'Im John Donvan, your moderator.'
+p2956
+aS'We have four debaters, two teams oftwo.'
 p2957
-aS'We have four debaters, two teams of two.'
-p2958
 aS'And they are debating this motion, "Men are finished.'
+p2958
+aS'" And I want to do one moretime without the applause to give them that option.So were in the middle of the Q and A section of this Intelligence Squared U.S. debate.Im John Donvan of ABC News, your moderator.'
 p2959
-aS'" And I want to do one more time without the applause to give them that option.'
+aS'We have four debaters, two teams oftwo, debating this motion, "Men are finished.'
 p2960
-aS'So were in the middle of the Q and A section of this Intelligence Squared U.S. debate.'
-p2961
-aS'Im John Donvan of ABC News, your moderator.'
-p2962
-aS'We have four debaters, two teams of two, debating this motion, "Men are finished.'
-p2963
 aS'" So lets go to another question.'
-p2964
-aS'Sir, youve got a white card in your hand.'
+p2961
+aS'Sir,youve got a white card in your hand.'
+p2962
+asg11
+S'JOHN DONVAN'
+p2963
+sg16
+(lp2964
+S'Okay, I need to do another radio break, so Id just like to ask you to applaud again, and Ill come back and -- So we are in the middle of a question and answer section of this Intelligence Squared U.S. debate.'
 p2965
-asa(dp2966
-g8
-(lp2967
-S'Thank you.'
+aS'Im John Donvan, your moderator.'
+p2966
+aS'We have four debaters, two teams of two.'
+p2967
+aS'And they are debating this motion, "Men are finished.'
 p2968
-asg11
-S'JAY SEARSON'
+aS'" And I want to do one more time without the applause to give them that option.'
 p2969
-sg16
-(lp2970
-g2968
-asa(dp2971
-g8
-(lp2972
-S'But one thing I want to say.The two-part questions are driving me nuts and long, long premises are driving me nuts,so just write out the question.'
+aS'So were in the middle of the Q and A section of this Intelligence Squared U.S. debate.'
+p2970
+aS'Im John Donvan of ABC News, your moderator.'
+p2971
+aS'We have four debaters, two teams of two, debating this motion, "Men are finished.'
+p2972
+aS'" So lets go to another question.'
 p2973
-aS'Thanks.'
+aS'Sir, youve got a white card in your hand.'
 p2974
-asg11
-S'JOHN DONVAN'
-p2975
-sg16
+asa(dp2975
+g8
 (lp2976
-S'But one thing I want to say.'
+S'Thank you.'
 p2977
-aS'The two-part questions are driving me nuts and long, long premises are driving me nuts, so just write out the question.'
-p2978
-aS'Thanks.'
-p2979
-asg18
-(dp2980
-S'20:05:22'
-p2981
-I1
-ssa(dp2982
-g8
-(lp2983
-S'Its very brief.'
-p2984
 asg11
 S'JAY SEARSON'
-p2985
+p2978
 sg16
-(lp2986
-g2984
-asa(dp2987
+(lp2979
+g2977
+asa(dp2980
 g8
-(lp2988
-S'Okay.'
-p2989
+(lp2981
+S'But one thing I want to say.The two-part questions are driving me nuts and long, long premises are driving me nuts,so just write out the question.'
+p2982
+aS'Thanks.'
+p2983
 asg11
 S'JOHN DONVAN'
-p2990
+p2984
 sg16
-(lp2991
-g2989
-asa(dp2992
+(lp2985
+S'But one thing I want to say.'
+p2986
+aS'The two-part questions are driving me nuts and long, long premises are driving me nuts, so just write out the question.'
+p2987
+aS'Thanks.'
+p2988
+asg18
+(dp2989
+S'20:05:22'
+p2990
+I1
+ssa(dp2991
 g8
-(lp2993
-S'My name is Jay Searson .'
-p2994
-aS'Im one of the few men in that own-your-own-company, entrepreneurial category, so Im not finished, I think.'
-p2995
-aS'So Id like topoint out, Ms. Rosin, your whole point seems to be, you know, youre arguing that whatwe have now is the beginning of a trend.'
-p2996
-aS'So, suppose that just before Tom Edisoninvents the light bulb, all the candlestick makers are Irishmen.'
-p2997
-aS'After Edison invents thelight bulb, all those candlestick-making jobs go away, and things look pretty bad for theIrish.'
-p2998
-aS'But nobody would say that its the end of Irishmen.'
-p2999
-aS'Its the end of candlestickmakers.And weve just had a housing bubble that eliminated a ton of construction jobs.'
-p3000
-aS'Andthose construction jobs were overwhelmingly male because men actually had a geneticadvantage doing construction.'
-p3001
-aS'It requires heavy lifting.'
-p3002
+(lp2992
+S'Its very brief.'
+p2993
 asg11
 S'JAY SEARSON'
+p2994
+sg16
+(lp2995
+g2993
+asa(dp2996
+g8
+(lp2997
+S'Okay.'
+p2998
+asg11
+S'JOHN DONVAN'
+p2999
+sg16
+(lp3000
+g2998
+asa(dp3001
+g8
+(lp3002
+S'My name is Jay Searson .'
 p3003
+aS'Im one of the few men in that own-your-own-company, entrepreneurial category, so Im not finished, I think.'
+p3004
+aS'So Id like topoint out, Ms. Rosin, your whole point seems to be, you know, youre arguing that whatwe have now is the beginning of a trend.'
+p3005
+aS'So, suppose that just before Tom Edisoninvents the light bulb, all the candlestick makers are Irishmen.'
+p3006
+aS'After Edison invents thelight bulb, all those candlestick-making jobs go away, and things look pretty bad for theIrish.'
+p3007
+aS'But nobody would say that its the end of Irishmen.'
+p3008
+aS'Its the end of candlestickmakers.And weve just had a housing bubble that eliminated a ton of construction jobs.'
+p3009
+aS'Andthose construction jobs were overwhelmingly male because men actually had a geneticadvantage doing construction.'
+p3010
+aS'It requires heavy lifting.'
+p3011
+asg11
+S'JAY SEARSON'
+p3012
 sg13
-(dp3004
+(dp3013
 I6
 S'46'
-p3005
-ssg16
-(lp3006
-S'My name is Jay Searson .'
-p3007
-aS'Im one of the few men in that own- your-own-company, entrepreneurial category, so Im not finished, I think.'
-p3008
-aS'So Id like to point out, Ms. Rosin, your whole point seems to be, you know, youre arguing that what we have now is the beginning of a trend.'
-p3009
-aS'So, suppose that just before Tom Edison invents the light bulb, all the candlestick makers are Irishmen.'
-p3010
-aS'After Edison invents the light bulb, all those candlestick-making jobs go away, and things look pretty bad for the Irish.'
-p3011
-aS'But nobody would say that its the end of Irishmen.'
-p3012
-aS'Its the end of candlestick makers.'
-p3013
-aS'And weve just had a housing bubble that eliminated a ton of construction jobs.'
 p3014
-aS'And those construction jobs were overwhelmingly male because men actually had a genetic advantage doing construction.'
-p3015
-aS'It requires heavy lifting.'
+ssg16
+(lp3015
+S'My name is Jay Searson .'
 p3016
-asg18
-(dp3017
-S'20:06:16'
+aS'Im one of the few men in that own- your-own-company, entrepreneurial category, so Im not finished, I think.'
+p3017
+aS'So Id like to point out, Ms. Rosin, your whole point seems to be, you know, youre arguing that what we have now is the beginning of a trend.'
 p3018
-I8
-ssa(dp3019
-g8
-(lp3020
-S'Okay, okay, okay.'
+aS'So, suppose that just before Tom Edison invents the light bulb, all the candlestick makers are Irishmen.'
+p3019
+aS'After Edison invents the light bulb, all those candlestick-making jobs go away, and things look pretty bad for the Irish.'
+p3020
+aS'But nobody would say that its the end of Irishmen.'
 p3021
-asg11
-S'JOHN DONVAN'
+aS'Its the end of candlestick makers.'
 p3022
-sg16
-(lp3023
-g3021
-asa(dp3024
-g8
-(lp3025
-S'So why is it a trend --'
-p3026
-asg11
-S'JAY SEARSON'
-p3027
-sg16
-(lp3028
-g3026
-asa(dp3029
-g8
-(lp3030
-S'One more sentence from your mouth and have a question mark at the end.'
-p3031
-aS'Becauseyouve got a good point, but focus it.'
-p3032
-asg11
-S'JOHN DONVAN'
-p3033
-sg16
-(lp3034
-S'One more sentence from your mouth and have a question mark at the end.'
-p3035
-aS'Because youve got a good point, but focus it.'
-p3036
-asa(dp3037
-g8
-(lp3038
-S'Thats the question.'
-p3039
-aS'Why is it a trend?'
-p3040
-asg11
-S'JAY SEARSON'
-p3041
-sg16
-(lp3042
-S'Thats the question.'
-p3043
-aS'Why is it a trend?'
-p3044
-asa(dp3045
-g8
-(lp3046
-S'I think I got it.'
-p3047
-aS'I got it, I got it.'
-p3048
-asg11
-S'HANNA ROSIN'
-p3049
-sg16
-(lp3050
-S'I think I got it.'
-p3051
-aS'I got it, I got it.'
-p3052
-asa(dp3053
-g8
-(lp3054
-S'Okay.'
-p3055
-asg11
-S'JOHN DONVAN'
-p3056
-sg16
-(lp3057
-g3055
-asa(dp3058
-g8
-(lp3059
-S'Okay, so in the first recession, thats what we thought.'
-p3060
-aS'We thought, Oh, its just theend of construction jobs.'
-p3061
-aS'And then in the second recession, we thought, Oh, its justthe end of, you know, pipeline fitter jobs, and then we thought its just the end of thisand the end of that.'
-p3062
-aS'And then suddenly we realized, no, its actually the end of themanufacturing era.'
-p3063
-aS'So you realize that this was a trend that was not going to go away orreverse itself and that all these jobs that men happened to do were sort of shrinking andshrinking and shrinking.'
-p3064
-aS'And they were never going to come back.So, you know, I dont know -- you want me to say its like the end of manufacturing --'
-p3065
-asg11
-S'HANNA ROSIN'
-p3066
-sg16
-(lp3067
-S'Okay, so in the first recession, thats what we thought.'
-p3068
-aS'We thought, Oh, its just the end of construction jobs.'
-p3069
-aS'And then in the second recession, we thought, Oh, its just the end of, you know, pipeline fitter jobs, and then we thought its just the end of this and the end of that.'
-p3070
-aS'And then suddenly we realized, no, its actually the end of the manufacturing era.'
-p3071
-aS'So you realize that this was a trend that was not going to go away or reverse itself and that all these jobs that men happened to do were sort of shrinking and shrinking and shrinking.'
-p3072
-aS'And they were never going to come back.'
-p3073
-aS'So, you know, I dont know -- you want me to say its like the end of manufacturing --'
-p3074
+aS'And weve just had a housing bubble that eliminated a ton of construction jobs.'
+p3023
+aS'And those construction jobs were overwhelmingly male because men actually had a genetic advantage doing construction.'
+p3024
+aS'It requires heavy lifting.'
+p3025
 asg18
-(dp3075
-S'20:07:14'
-p3076
-I7
-ssa(dp3077
+(dp3026
+S'20:06:16'
+p3027
+I8
+ssa(dp3028
 g8
-(lp3078
-S'Lets hear from your opponents.'
-p3079
-aS'Christina?'
-p3080
+(lp3029
+S'Okay, okay, okay.'
+p3030
 asg11
 S'JOHN DONVAN'
+p3031
+sg16
+(lp3032
+g3030
+asa(dp3033
+g8
+(lp3034
+S'So why is it a trend --'
+p3035
+asg11
+S'JAY SEARSON'
+p3036
+sg16
+(lp3037
+g3035
+asa(dp3038
+g8
+(lp3039
+S'One more sentence from your mouth and have a question mark at the end.'
+p3040
+aS'Becauseyouve got a good point, but focus it.'
+p3041
+asg11
+S'JOHN DONVAN'
+p3042
+sg16
+(lp3043
+S'One more sentence from your mouth and have a question mark at the end.'
+p3044
+aS'Because youve got a good point, but focus it.'
+p3045
+asa(dp3046
+g8
+(lp3047
+S'Thats the question.'
+p3048
+aS'Why is it a trend?'
+p3049
+asg11
+S'JAY SEARSON'
+p3050
+sg16
+(lp3051
+S'Thats the question.'
+p3052
+aS'Why is it a trend?'
+p3053
+asa(dp3054
+g8
+(lp3055
+S'I think I got it.'
+p3056
+aS'I got it, I got it.'
+p3057
+asg11
+S'HANNA ROSIN'
+p3058
+sg16
+(lp3059
+S'I think I got it.'
+p3060
+aS'I got it, I got it.'
+p3061
+asa(dp3062
+g8
+(lp3063
+S'Okay.'
+p3064
+asg11
+S'JOHN DONVAN'
+p3065
+sg16
+(lp3066
+g3064
+asa(dp3067
+g8
+(lp3068
+S'Okay, so in the first recession, thats what we thought.'
+p3069
+aS'We thought, Oh, its just theend of construction jobs.'
+p3070
+aS'And then in the second recession, we thought, Oh, its justthe end of, you know, pipeline fitter jobs, and then we thought its just the end of thisand the end of that.'
+p3071
+aS'And then suddenly we realized, no, its actually the end of themanufacturing era.'
+p3072
+aS'So you realize that this was a trend that was not going to go away orreverse itself and that all these jobs that men happened to do were sort of shrinking andshrinking and shrinking.'
+p3073
+aS'And they were never going to come back.So, you know, I dont know -- you want me to say its like the end of manufacturing --'
+p3074
+asg11
+S'HANNA ROSIN'
+p3075
+sg16
+(lp3076
+S'Okay, so in the first recession, thats what we thought.'
+p3077
+aS'We thought, Oh, its just the end of construction jobs.'
+p3078
+aS'And then in the second recession, we thought, Oh, its just the end of, you know, pipeline fitter jobs, and then we thought its just the end of this and the end of that.'
+p3079
+aS'And then suddenly we realized, no, its actually the end of the manufacturing era.'
+p3080
+aS'So you realize that this was a trend that was not going to go away or reverse itself and that all these jobs that men happened to do were sort of shrinking and shrinking and shrinking.'
 p3081
+aS'And they were never going to come back.'
+p3082
+aS'So, you know, I dont know -- you want me to say its like the end of manufacturing --'
+p3083
+asg18
+(dp3084
+S'20:07:14'
+p3085
+I7
+ssa(dp3086
+g8
+(lp3087
+S'Lets hear from your opponents.'
+p3088
+aS'Christina?'
+p3089
+asg11
+S'JOHN DONVAN'
+p3090
 sg13
-(dp3082
+(dp3091
 I1
 S'47'
-p3083
-ssg16
-(lp3084
-S'Lets hear from your opponents.'
-p3085
-aS'Christina?'
-p3086
-asa(dp3087
-g8
-(lp3088
-S'First of all, I just dont accept the idea that men, the jobs that men will hold in the futureare going to be -- theyre going to have to be dance therapists or executive producers.'
-p3089
-aS"Ifyou look at the projections from the labor department, we're going to need vast --millions and millions of engineers and people that are experts in informationtechnology."
-p3090
-aS'And there are still going to have to be people constructing andmanufacturing.'
-p3091
-aS"So it's naive to suggest that we're moving away entirely from jobs thatwere conventionally done by men."
 p3092
-aS'And I just want to go back to one question that wasraised before about where do transgendered people and gay people fit in.'
-p3093
-aS"It wasactually -- a lot of my positions about men and women came from sympathy that I hadfor transgendered and gay people, people that didn't fit into their gender role, becauseone of the things they tell us is that your gender role is very powerful."
+ssg16
+(lp3093
+S'Lets hear from your opponents.'
 p3094
-aS"And it's notsocially constructed."
+aS'Christina?'
 p3095
+asa(dp3096
+g8
+(lp3097
+S'First of all, I just dont accept the idea that men, the jobs that men will hold in the futureare going to be -- theyre going to have to be dance therapists or executive producers.'
+p3098
+aS"Ifyou look at the projections from the labor department, we're going to need vast --millions and millions of engineers and people that are experts in informationtechnology."
+p3099
+aS'And there are still going to have to be people constructing andmanufacturing.'
+p3100
+aS"So it's naive to suggest that we're moving away entirely from jobs thatwere conventionally done by men."
+p3101
+aS'And I just want to go back to one question that wasraised before about where do transgendered people and gay people fit in.'
+p3102
+aS"It wasactually -- a lot of my positions about men and women came from sympathy that I hadfor transgendered and gay people, people that didn't fit into their gender role, becauseone of the things they tell us is that your gender role is very powerful."
+p3103
+aS"And it's notsocially constructed."
+p3104
 aS"It's something you are born with.And what I urge in my writing is to be respectful, yes, of people who defy thestereotypes of their gender, but also to be respectful of those of us who embody thestereotypes."
-p3096
+p3105
 aS'There are many people who are --'
-p3097
+p3106
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p3098
-sg16
-(lp3099
-S'First of all, I just dont accept the idea that men, the jobs that men will hold in the future are going to be -- theyre going to have to be dance therapists or executive producers.'
-p3100
-aS"If you look at the projections from the labor department, we're going to need vast -- millions and millions of engineers and people that are experts in information technology."
-p3101
-aS'And there are still going to have to be people constructing and manufacturing.'
-p3102
-aS"So it's naive to suggest that we're moving away entirely from jobs that were conventionally done by men."
-p3103
-aS'And I just want to go back to one question that was raised before about where do transgendered people and gay people fit in.'
-p3104
-aS"It was actually -- a lot of my positions about men and women came from sympathy that I had for transgendered and gay people, people that didn't fit into their gender role, because one of the things they tell us is that your gender role is very powerful."
-p3105
-aS"And it's not socially constructed."
-p3106
-aS"It's something you are born with."
 p3107
-aS'And what I urge in my writing is to be respectful, yes, of people who defy the stereotypes of their gender, but also to be respectful of those of us who embody the stereotypes.'
-p3108
-aS'There are many people who are --'
+sg16
+(lp3108
+S'First of all, I just dont accept the idea that men, the jobs that men will hold in the future are going to be -- theyre going to have to be dance therapists or executive producers.'
 p3109
-asg18
-(dp3110
-S'20:08:14'
+aS"If you look at the projections from the labor department, we're going to need vast -- millions and millions of engineers and people that are experts in information technology."
+p3110
+aS'And there are still going to have to be people constructing and manufacturing.'
 p3111
+aS"So it's naive to suggest that we're moving away entirely from jobs that were conventionally done by men."
+p3112
+aS'And I just want to go back to one question that was raised before about where do transgendered people and gay people fit in.'
+p3113
+aS"It was actually -- a lot of my positions about men and women came from sympathy that I had for transgendered and gay people, people that didn't fit into their gender role, because one of the things they tell us is that your gender role is very powerful."
+p3114
+aS"And it's not socially constructed."
+p3115
+aS"It's something you are born with."
+p3116
+aS'And what I urge in my writing is to be respectful, yes, of people who defy the stereotypes of their gender, but also to be respectful of those of us who embody the stereotypes.'
+p3117
+aS'There are many people who are --'
+p3118
+asg18
+(dp3119
+S'20:08:14'
+p3120
 I12
-ssa(dp3112
+ssa(dp3121
 g22
-(dp3113
+(dp3122
 I0
 S'[unintelligible]'
-p3114
+p3123
 ssg8
-(lp3115
-S''
-p3116
+(lp3124
+g1441
 asg11
 S'MALE SPEAKER'
-p3117
+p3125
 sg16
-(lp3118
-g3116
-asa(dp3119
+(lp3126
+g1441
+asa(dp3127
 g8
-(lp3120
-S'-- conventionally fem --'
-p3121
-asg11
-S'CHRISTINA HOFF SOMMERS'
-p3122
-sg16
-(lp3123
-g3121
-asa(dp3124
-g8
-(lp3125
-S'Yep.'
-p3126
-asg11
-S'JOHN DONVAN'
-p3127
-sg16
 (lp3128
-g3126
-asa(dp3129
-g8
-(lp3130
-S'He wants --'
-p3131
+S'-- conventionally fem --'
+p3129
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p3132
+p3130
 sg16
-(lp3133
-g3131
-asa(dp3134
+(lp3131
+g3129
+asa(dp3132
 g8
-(lp3135
-S'Did you want to --'
-p3136
+(lp3133
+S'Yep.'
+p3134
 asg11
 S'JOHN DONVAN'
-p3137
+p3135
 sg16
-(lp3138
-g3136
-asa(dp3139
+(lp3136
+g3134
+asa(dp3137
 g8
-(lp3140
-S'I would just say I completely agree with the point about trends.'
-p3141
-aS"They're called trendsfor a reason."
-p3142
-aS"They don't last forever."
-p3143
-aS"That's why we're not all walking around --"
+(lp3138
+S'He wants --'
+p3139
+asg11
+S'CHRISTINA HOFF SOMMERS'
+p3140
+sg16
+(lp3141
+g3139
+asa(dp3142
+g8
+(lp3143
+S'Did you want to --'
 p3144
 asg11
-S'DAVID ZINCZENKO'
+S'JOHN DONVAN'
 p3145
 sg16
 (lp3146
-S'I would just say I completely agree with the point about trends.'
-p3147
-aS"They're called trends for a reason."
-p3148
-aS"They don't last forever."
-p3149
-aS"That's why we're not all walking around --"
-p3150
-asa(dp3151
+g3144
+asa(dp3147
 g8
-(lp3152
-S"No, they're called trends because they're true."
+(lp3148
+S'I would just say I completely agree with the point about trends.'
+p3149
+aS"They're called trendsfor a reason."
+p3150
+aS"They don't last forever."
+p3151
+aS"That's why we're not all walking around --"
+p3152
+asg11
+S'DAVID ZINCZENKO'
 p3153
+sg16
+(lp3154
+S'I would just say I completely agree with the point about trends.'
+p3155
+aS"They're called trends for a reason."
+p3156
+aS"They don't last forever."
+p3157
+aS"That's why we're not all walking around --"
+p3158
+asa(dp3159
+g8
+(lp3160
+S"No, they're called trends because they're true."
+p3161
 asg11
 S'HANNA ROSIN'
-p3154
+p3162
 sg16
-(lp3155
-g3153
-asa(dp3156
+(lp3163
+g3161
+asa(dp3164
 g22
-(dp3157
+(dp3165
 I7
 S'[applause]'
-p3158
-ssg8
-(lp3159
-S"But it misses the point, which is that the more important point, directly responding toyour question about the candlesticks, is that what we're seeing in society today, andHanna has studied a lot more than have I, is the idea that the people who are makingcandles and engaging in jobs that are becoming outdated or whatever the case may be,women have figured out a way to navigate the tough economy better than men."
-p3160
-aS'Andthey are simply adapting better than are men.'
-p3161
-aS"And that's the really important pointhere."
-p3162
-aS"It's not just that the male jobs are being eliminated."
-p3163
-asg11
-S'DAN ABRAMS'
-p3164
-sg13
-(dp3165
-I0
-S'48'
 p3166
-ssg16
+ssg8
 (lp3167
-S"But it misses the point, which is that the more important point, directly responding to your question about the candlesticks, is that what we're seeing in society today, and Hanna has studied a lot more than have I, is the idea that the people who are making candles and engaging in jobs that are becoming outdated or whatever the case may be, women have figured out a way to navigate the tough economy better than men."
+S"But it misses the point, which is that the more important point, directly responding toyour question about the candlesticks, is that what we're seeing in society today, andHanna has studied a lot more than have I, is the idea that the people who are makingcandles and engaging in jobs that are becoming outdated or whatever the case may be,women have figured out a way to navigate the tough economy better than men."
 p3168
-aS'And they are simply adapting better than are men.'
+aS'Andthey are simply adapting better than are men.'
 p3169
-aS"And that's the really important point here."
+aS"And that's the really important pointhere."
 p3170
 aS"It's not just that the male jobs are being eliminated."
 p3171
-asa(dp3172
-g8
-(lp3173
-S'Yes.'
-p3174
-aS'Thank you.'
-p3175
 asg11
-S'JOHN DONVAN'
+S'DAN ABRAMS'
+p3172
+sg13
+(dp3173
+I0
+S'48'
+p3174
+ssg16
+(lp3175
+S"But it misses the point, which is that the more important point, directly responding to your question about the candlesticks, is that what we're seeing in society today, and Hanna has studied a lot more than have I, is the idea that the people who are making candles and engaging in jobs that are becoming outdated or whatever the case may be, women have figured out a way to navigate the tough economy better than men."
 p3176
-sg16
-(lp3177
-S'Yes.'
+aS'And they are simply adapting better than are men.'
+p3177
+aS"And that's the really important point here."
 p3178
-aS'Thank you.'
+aS"It's not just that the male jobs are being eliminated."
 p3179
 asa(dp3180
-g22
-(dp3181
-I3
-S'[laughter]'
+g8
+(lp3181
+S'Yes.'
 p3182
-ssg8
-(lp3183
-S'Yes, hi.'
-p3184
-aS'Hello.'
-p3185
-aS'Diane Salvatore, editor of Prevention magazine.Is it true that -- that men with power and money tend to self-destruct more thanwomen do?'
-p3186
-aS'And I think here of Oprah versus Charlie Sheen.'
-p3187
-asg11
-S'DIANE SALVATORE'
-p3188
-sg16
-(lp3189
-S'Yes, hi.'
-p3190
-aS'Hello.'
-p3191
-aS'Diane Salvatore, editor of Prevention magazine.'
-p3192
-aS'Is it true that -- that men with power and money tend to self-destruct more than women do?'
-p3193
-aS'And I think here of Oprah versus Charlie Sheen.'
-p3194
-asg18
-(dp3195
-S'20:09:15'
-p3196
-I1
-ssa(dp3197
-g8
-(lp3198
-S'Or how about anybody versus Charlie Sheen?'
-p3199
-asg11
-S'HANNA ROSIN'
-p3200
-sg16
-(lp3201
-g3199
-asa(dp3202
-g8
-(lp3203
-S"That's why I said before that Dan is probably finished, but not others."
-p3204
-asg11
-S'DAVID ZINCZENKO'
-p3205
-sg16
-(lp3206
-g3204
-asa(dp3207
-g22
-(dp3208
-I2
-S'[laughter]'
-p3209
-ssg8
-(lp3210
-S'I\'m just thankful to you for mentioning Charlie Sheen because I feel like you just say"Charlie Sheen" enough times, and everybody will vote for us.'
-p3211
-asg11
-S'HANNA ROSIN'
-p3212
-sg16
-(lp3213
-S'I\'m just thankful to you for mentioning Charlie Sheen because I feel like you just say "Charlie Sheen" enough times, and everybody will vote for us.'
-p3214
-asa(dp3215
-g8
-(lp3216
-S"Sir, I'm looking right at you."
-p3217
-aS'If you stand up -- yep.'
-p3218
-aS'Michael, come in, please.'
-p3219
-aS'Thankyou.'
-p3220
-aS'That was a question.'
-p3221
-aS'That was a focused question.'
-p3222
-aS"That's the model."
-p3223
+aS'Thank you.'
+p3183
 asg11
 S'JOHN DONVAN'
-p3224
+p3184
 sg16
-(lp3225
-S"Sir, I'm looking right at you."
-p3226
-aS'If you stand up -- yep.'
-p3227
-aS'Michael, come in, please.'
-p3228
+(lp3185
+S'Yes.'
+p3186
 aS'Thank you.'
-p3229
-aS'That was a question.'
-p3230
-aS'That was a focused question.'
-p3231
-aS"That's the model."
-p3232
-asa(dp3233
+p3187
+asa(dp3188
 g22
-(dp3234
-I1
+(dp3189
+I3
 S'[laughter]'
-p3235
+p3190
 ssg8
-(lp3236
-S'By a woman.'
-p3237
+(lp3191
+S'Yes, hi.'
+p3192
+aS'Hello.'
+p3193
+aS'Diane Salvatore, editor of Prevention magazine.Is it true that -- that men with power and money tend to self-destruct more thanwomen do?'
+p3194
+aS'And I think here of Oprah versus Charlie Sheen.'
+p3195
+asg11
+S'DIANE SALVATORE'
+p3196
+sg16
+(lp3197
+S'Yes, hi.'
+p3198
+aS'Hello.'
+p3199
+aS'Diane Salvatore, editor of Prevention magazine.'
+p3200
+aS'Is it true that -- that men with power and money tend to self-destruct more than women do?'
+p3201
+aS'And I think here of Oprah versus Charlie Sheen.'
+p3202
+asg18
+(dp3203
+S'20:09:15'
+p3204
+I1
+ssa(dp3205
+g8
+(lp3206
+S'Or how about anybody versus Charlie Sheen?'
+p3207
 asg11
 S'HANNA ROSIN'
+p3208
+sg16
+(lp3209
+g3207
+asa(dp3210
+g8
+(lp3211
+S"That's why I said before that Dan is probably finished, but not others."
+p3212
+asg11
+S'DAVID ZINCZENKO'
+p3213
+sg16
+(lp3214
+g3212
+asa(dp3215
+g22
+(dp3216
+I2
+S'[laughter]'
+p3217
+ssg8
+(lp3218
+S'I\'m just thankful to you for mentioning Charlie Sheen because I feel like you just say"Charlie Sheen" enough times, and everybody will vote for us.'
+p3219
+asg11
+S'HANNA ROSIN'
+p3220
+sg16
+(lp3221
+S'I\'m just thankful to you for mentioning Charlie Sheen because I feel like you just say "Charlie Sheen" enough times, and everybody will vote for us.'
+p3222
+asa(dp3223
+g8
+(lp3224
+S"Sir, I'm looking right at you."
+p3225
+aS'If you stand up -- yep.'
+p3226
+aS'Michael, come in, please.'
+p3227
+aS'Thankyou.'
+p3228
+aS'That was a question.'
+p3229
+aS'That was a focused question.'
+p3230
+aS"That's the model."
+p3231
+asg11
+S'JOHN DONVAN'
+p3232
+sg16
+(lp3233
+S"Sir, I'm looking right at you."
+p3234
+aS'If you stand up -- yep.'
+p3235
+aS'Michael, come in, please.'
+p3236
+aS'Thank you.'
+p3237
+aS'That was a question.'
 p3238
+aS'That was a focused question.'
+p3239
+aS"That's the model."
+p3240
+asa(dp3241
+g22
+(dp3242
+I1
+S'[laughter]'
+p3243
+ssg8
+(lp3244
+S'By a woman.'
+p3245
+asg11
+S'HANNA ROSIN'
+p3246
 sg13
-(dp3239
+(dp3247
 I1
 S'49'
-p3240
-ssg16
-(lp3241
-g3237
-asa(dp3242
-g8
-(lp3243
-S'All right.'
-p3244
-aS"I'm going to try and redeem the men's side with this question."
-p3245
-aS'You spokeearlier about bloggers versus loggers.I guess everybody would agree that technology is the new frontier.'
-p3246
-aS"And if you look atSilicon Valley, it's dominated by young men."
-p3247
-aS'What do you say to that?'
 p3248
-asg11
-S'MALE SPEAKER'
-p3249
-sg16
-(lp3250
+ssg16
+(lp3249
+g3245
+asa(dp3250
+g8
+(lp3251
 S'All right.'
-p3251
-aS"I'm going to try and redeem the men's side with this question."
 p3252
-aS'You spoke earlier about bloggers versus loggers.'
+aS"I'm going to try and redeem the men's side with this question."
 p3253
-aS'I guess everybody would agree that technology is the new frontier.'
+aS'You spokeearlier about bloggers versus loggers.I guess everybody would agree that technology is the new frontier.'
 p3254
-aS"And if you look at Silicon Valley, it's dominated by young men."
+aS"And if you look atSilicon Valley, it's dominated by young men."
 p3255
 aS'What do you say to that?'
 p3256
-asg18
-(dp3257
-S'20:10:15'
-p3258
-I2
-ssa(dp3259
-g8
-(lp3260
-S'Well, whenever I look at these --'
+asg11
+S'MALE SPEAKER'
+p3257
+sg16
+(lp3258
+S'All right.'
+p3259
+aS"I'm going to try and redeem the men's side with this question."
+p3260
+aS'You spoke earlier about bloggers versus loggers.'
 p3261
+aS'I guess everybody would agree that technology is the new frontier.'
+p3262
+aS"And if you look at Silicon Valley, it's dominated by young men."
+p3263
+aS'What do you say to that?'
+p3264
+asg18
+(dp3265
+S'20:10:15'
+p3266
+I2
+ssa(dp3267
+g8
+(lp3268
+S'Well, whenever I look at these --'
+p3269
 asg11
 S'HANNA ROSIN'
-p3262
+p3270
 sg16
-(lp3263
-g3261
-asa(dp3264
+(lp3271
+g3269
+asa(dp3272
 g8
-(lp3265
+(lp3273
 S'Hanna Rosin.'
-p3266
+p3274
 asg11
 S'JOHN DONVAN'
-p3267
-sg16
-(lp3268
-g3266
-asa(dp3269
-g8
-(lp3270
-S'-- questions, because we always think, oh, men are better at technology.'
-p3271
-aS"They're betterengineers."
-p3272
-aS'I do, in my head what I call the cross-border biology check.'
-p3273
-aS'Now, what is across-border biology check?'
-p3274
-aS'I try and think, okay, is this just something we think is truebecause we look at it, and we assume it ever has to be true, while in India, half ofengineering students are women.'
 p3275
-aS'Now, why is that?'
-p3276
-aS"Because it's encouraged in India,and because that's something everybody has to do."
-p3277
-aS"It's not something that men arenecessarily better than women at."
-p3278
-aS'So I just feel like eventually that will be true heretoo.'
+sg16
+(lp3276
+g3274
+asa(dp3277
+g8
+(lp3278
+S'-- questions, because we always think, oh, men are better at technology.'
 p3279
-aS'We put an emphasis on it, and women will do it.'
+aS"They're betterengineers."
 p3280
+aS'I do, in my head what I call the cross-border biology check.'
+p3281
+aS'Now, what is across-border biology check?'
+p3282
+aS'I try and think, okay, is this just something we think is truebecause we look at it, and we assume it ever has to be true, while in India, half ofengineering students are women.'
+p3283
+aS'Now, why is that?'
+p3284
+aS"Because it's encouraged in India,and because that's something everybody has to do."
+p3285
+aS"It's not something that men arenecessarily better than women at."
+p3286
+aS'So I just feel like eventually that will be true heretoo.'
+p3287
+aS'We put an emphasis on it, and women will do it.'
+p3288
 asg11
 S'HANNA ROSIN'
-p3281
-sg16
-(lp3282
-S'-- questions, because we always think, oh, men are better at technology.'
-p3283
-aS"They're better engineers."
-p3284
-aS'I do, in my head what I call the cross-border biology check.'
-p3285
-aS'Now, what is a cross-border biology check?'
-p3286
-aS'I try and think, okay, is this just something we think is true because we look at it, and we assume it ever has to be true, while in India, half of engineering students are women.'
-p3287
-aS'Now, why is that?'
-p3288
-aS"Because it's encouraged in India, and because that's something everybody has to do."
 p3289
-aS"It's not something that men are necessarily better than women at."
-p3290
-aS'So I just feel like eventually that will be true here too.'
+sg16
+(lp3290
+S'-- questions, because we always think, oh, men are better at technology.'
 p3291
-aS'We put an emphasis on it, and women will do it.'
+aS"They're better engineers."
 p3292
-asa(dp3293
-g8
-(lp3294
-S'Correction about India?'
+aS'I do, in my head what I call the cross-border biology check.'
+p3293
+aS'Now, what is a cross-border biology check?'
+p3294
+aS'I try and think, okay, is this just something we think is true because we look at it, and we assume it ever has to be true, while in India, half of engineering students are women.'
 p3295
-aS'In countries like -- people often say, Look at India, look atMalaysia.'
+aS'Now, why is that?'
 p3296
-aS'Women are the engineers, and far more women are becoming physicists.'
+aS"Because it's encouraged in India, and because that's something everybody has to do."
 p3297
-aS"Inthose countries, women don't have as much choice of what they do."
+aS"It's not something that men are necessarily better than women at."
 p3298
-aS"Because ofeconomic pressures, they are forced to do careers in a society where there's moreprosperity, women have more choice, and they go into other fields.And that's why if you look at what American women are majoring in it's art history andeducation, all sorts of things."
+aS'So I just feel like eventually that will be true here too.'
 p3299
-aS"They're not forced to do something they don't want to do.Men do."
+aS'We put an emphasis on it, and women will do it.'
 p3300
-aS"That is their number one choice in college majors, or it's -- of all the majors,that's the one men choose, I guess, after business."
-p3301
-aS"Whereas women, it's teaching."
-p3302
-aS'Sothere are -- there are differences in that, again, I am insisting that we need both in thenew economy.'
+asa(dp3301
+g8
+(lp3302
+S'Correction about India?'
 p3303
+aS'In countries like -- people often say, Look at India, look atMalaysia.'
+p3304
+aS'Women are the engineers, and far more women are becoming physicists.'
+p3305
+aS"Inthose countries, women don't have as much choice of what they do."
+p3306
+aS"Because ofeconomic pressures, they are forced to do careers in a society where there's moreprosperity, women have more choice, and they go into other fields.And that's why if you look at what American women are majoring in it's art history andeducation, all sorts of things."
+p3307
+aS"They're not forced to do something they don't want to do.Men do."
+p3308
+aS"That is their number one choice in college majors, or it's -- of all the majors,that's the one men choose, I guess, after business."
+p3309
+aS"Whereas women, it's teaching."
+p3310
+aS'Sothere are -- there are differences in that, again, I am insisting that we need both in thenew economy.'
+p3311
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p3304
-sg16
-(lp3305
-S'Correction about India?'
-p3306
-aS'In countries like -- people often say, Look at India, look at Malaysia.'
-p3307
-aS'Women are the engineers, and far more women are becoming physicists.'
-p3308
-aS"In those countries, women don't have as much choice of what they do."
-p3309
-aS"Because of economic pressures, they are forced to do careers in a society where there's more prosperity, women have more choice, and they go into other fields."
-p3310
-aS"And that's why if you look at what American women are majoring in it's art history and education, all sorts of things."
-p3311
-aS"They're not forced to do something they don't want to do."
 p3312
-aS'Men do.'
-p3313
-aS"That is their number one choice in college majors, or it's -- of all the majors, that's the one men choose, I guess, after business."
+sg16
+(lp3313
+S'Correction about India?'
 p3314
-aS"Whereas women, it's teaching."
+aS'In countries like -- people often say, Look at India, look at Malaysia.'
 p3315
-aS'So there are -- there are differences in that, again, I am insisting that we need both in the new economy.'
+aS'Women are the engineers, and far more women are becoming physicists.'
 p3316
-asg18
-(dp3317
-S'20:11:20'
+aS"In those countries, women don't have as much choice of what they do."
+p3317
+aS"Because of economic pressures, they are forced to do careers in a society where there's more prosperity, women have more choice, and they go into other fields."
 p3318
-I5
-ssa(dp3319
-g8
-(lp3320
-S'Right here, second row.'
+aS"And that's why if you look at what American women are majoring in it's art history and education, all sorts of things."
+p3319
+aS"They're not forced to do something they don't want to do."
+p3320
+aS'Men do.'
 p3321
-aS"A mic's going to come for you."
+aS"That is their number one choice in college majors, or it's -- of all the majors, that's the one men choose, I guess, after business."
 p3322
-aS'Second -- third stand.'
+aS"Whereas women, it's teaching."
 p3323
-aS"I'm sorry.I meant -- sorry."
+aS'So there are -- there are differences in that, again, I am insisting that we need both in the new economy.'
 p3324
-asg11
-S'JOHN DONVAN'
-p3325
-sg13
-(dp3326
-I2
-S'50'
-p3327
-ssg16
+asg18
+(dp3325
+S'20:11:20'
+p3326
+I5
+ssa(dp3327
+g8
 (lp3328
 S'Right here, second row.'
 p3329
@@ -6974,2322 +6976,2340 @@ aS"A mic's going to come for you."
 p3330
 aS'Second -- third stand.'
 p3331
-aS"I'm sorry."
+aS"I'm sorry.I meant -- sorry."
 p3332
-aS'I meant -- sorry.'
+asg11
+S'JOHN DONVAN'
 p3333
-asa(dp3334
-g8
-(lp3335
-S'All right.'
-p3336
-aS'I just wanted to clarify some things.'
+sg13
+(dp3334
+I2
+S'50'
+p3335
+ssg16
+(lp3336
+S'Right here, second row.'
 p3337
-aS'The debate\'s title is called "Men arefinished.'
+aS"A mic's going to come for you."
 p3338
-aS'" And it seems that all four of you agree and disagree on different points onhow to interpret that.'
+aS'Second -- third stand.'
 p3339
-aS'So can you -- can each panelist give some examples on therepresentative man and the representative woman that they think is defining these newtrends?'
+aS"I'm sorry."
 p3340
+aS'I meant -- sorry.'
+p3341
+asa(dp3342
+g8
+(lp3343
+S'All right.'
+p3344
+aS'I just wanted to clarify some things.'
+p3345
+aS'The debate\'s title is called "Men arefinished.'
+p3346
+aS'" And it seems that all four of you agree and disagree on different points onhow to interpret that.'
+p3347
+aS'So can you -- can each panelist give some examples on therepresentative man and the representative woman that they think is defining these newtrends?'
+p3348
 asg11
 S'MALE SPEAKER'
-p3341
+p3349
 sg16
-(lp3342
+(lp3350
 S'All right.'
-p3343
+p3351
 aS'I just wanted to clarify some things.'
-p3344
+p3352
 aS'The debate\'s title is called "Men are finished.'
-p3345
+p3353
 aS'" And it seems that all four of you agree and disagree on different points on how to interpret that.'
-p3346
+p3354
 aS'So can you -- can each panelist give some examples on the representative man and the representative woman that they think is defining these new trends?'
-p3347
-asa(dp3348
+p3355
+asa(dp3356
 g22
-(dp3349
+(dp3357
 I1
 S'[laughter]'
-p3350
-ssg8
-(lp3351
-S"It's a good question."
-p3352
-aS"It will take a half an hour.So I'm going to respectfully pass, but not to disrespect the question."
-p3353
-aS'I just think it would [[laughter]] chew up too much time and maybe not get us to a new place.'
-p3354
-aS'So if you could pass toyour -- see, by being persistent --'
-p3355
-asg11
-S'JOHN DONVAN'
-p3356
-sg16
-(lp3357
-S"It's a good question."
 p3358
-aS'It will take a half an hour.'
-p3359
-aS"So I'm going to respectfully pass, but not to disrespect the question."
+ssg8
+(lp3359
+S"It's a good question."
 p3360
-aS'I just think it would chew up too much time and maybe not get us to a new place.'
+aS"It will take a half an hour.So I'm going to respectfully pass, but not to disrespect the question."
 p3361
-aS'So if you could pass to your -- see, by being persistent --'
+aS'I just think it would [[laughter]] chew up too much time and maybe not get us to a new place.'
 p3362
-asg18
-(dp3363
-S'20:12:21'
-p3364
-I1
-ssa(dp3365
-g8
-(lp3366
-S'Yes.'
-p3367
-aS'Hello.'
-p3368
-aS'My name is David, and I am a student here at NYU.'
-p3369
-aS"And I'm male."
-p3370
-aS"But I justwanted to ask, because I've seen that a lot of the debate has been going on about whatis considered traditionally male or traditionally female."
-p3371
-aS'And I was wondering if it wasreally possible to determine whether or not men are, quote, unquote, "finished," basedon these traditional sort of stereotypical characteristics, because if you look at it, what isconsidered traditionally female is not what they\'re right now.'
-p3372
-aS'Like thefemale workers in business or economics or whatever tend to have more what weconsider traditionally male traits.'
-p3373
-asg11
-S'MALE SPEAKER'
-p3374
-sg16
-(lp3375
-S'Yes.'
-p3376
-aS'Hello.'
-p3377
-aS'My name is David, and I am a student here at NYU.'
-p3378
-aS"And I'm male."
-p3379
-aS"But I just wanted to ask, because I've seen that a lot of the debate has been going on about what is considered traditionally male or traditionally female."
-p3380
-aS'And I was wondering if it was really possible to determine whether or not men are, quote, unquote, "finished," based on these traditional sort of stereotypical characteristics, because if you look at it, what is considered traditionally female is not what they\'re right now.'
-p3381
-aS'Like the female workers in business or economics or whatever tend to have more what we consider traditionally male traits.'
-p3382
-asg18
-(dp3383
-S'20:13:18'
-p3384
-I8
-ssa(dp3385
-g8
-(lp3386
-S'So a man going into nursing you feel would be going into a female profession?'
-p3387
+aS'So if you could pass toyour -- see, by being persistent --'
+p3363
 asg11
 S'JOHN DONVAN'
-p3388
+p3364
 sg16
-(lp3389
-g3387
-asa(dp3390
+(lp3365
+S"It's a good question."
+p3366
+aS'It will take a half an hour.'
+p3367
+aS"So I'm going to respectfully pass, but not to disrespect the question."
+p3368
+aS'I just think it would chew up too much time and maybe not get us to a new place.'
+p3369
+aS'So if you could pass to your -- see, by being persistent --'
+p3370
+asg18
+(dp3371
+S'20:12:21'
+p3372
+I1
+ssa(dp3373
 g8
-(lp3391
-S"Well, I would say that it's whats considered traditionally female."
-p3392
-aS'But I think what weconsider traditionally male or female --'
-p3393
+(lp3374
+S'Yes.'
+p3375
+aS'Hello.'
+p3376
+aS'My name is David, and I am a student here at NYU.'
+p3377
+aS"And I'm male."
+p3378
+aS"But I justwanted to ask, because I've seen that a lot of the debate has been going on about whatis considered traditionally male or traditionally female."
+p3379
+aS'And I was wondering if it wasreally possible to determine whether or not men are, quote, unquote, "finished," basedon these traditional sort of stereotypical characteristics, because if you look at it, what isconsidered traditionally female is not what they\'re right now.'
+p3380
+aS'Like thefemale workers in business or economics or whatever tend to have more what weconsider traditionally male traits.'
+p3381
 asg11
 S'MALE SPEAKER'
-p3394
+p3382
 sg16
-(lp3395
-S"Well, I would say that it's whats considered traditionally female."
+(lp3383
+S'Yes.'
+p3384
+aS'Hello.'
+p3385
+aS'My name is David, and I am a student here at NYU.'
+p3386
+aS"And I'm male."
+p3387
+aS"But I just wanted to ask, because I've seen that a lot of the debate has been going on about what is considered traditionally male or traditionally female."
+p3388
+aS'And I was wondering if it was really possible to determine whether or not men are, quote, unquote, "finished," based on these traditional sort of stereotypical characteristics, because if you look at it, what is considered traditionally female is not what they\'re right now.'
+p3389
+aS'Like the female workers in business or economics or whatever tend to have more what we consider traditionally male traits.'
+p3390
+asg18
+(dp3391
+S'20:13:18'
+p3392
+I8
+ssa(dp3393
+g8
+(lp3394
+S'So a man going into nursing you feel would be going into a female profession?'
+p3395
+asg11
+S'JOHN DONVAN'
 p3396
-aS'But I think what we consider traditionally male or female --'
-p3397
+sg16
+(lp3397
+g3395
 asa(dp3398
 g8
 (lp3399
-S'So --'
+S"Well, I would say that it's whats considered traditionally female."
 p3400
-asg11
-S'JOHN DONVAN'
+aS'But I think what weconsider traditionally male or female --'
 p3401
-sg16
-(lp3402
-g3400
-asa(dp3403
-g8
-(lp3404
-S'-- so iss not really whole. '
-p3405
 asg11
 S'MALE SPEAKER'
-p3406
+p3402
+sg16
+(lp3403
+S"Well, I would say that it's whats considered traditionally female."
+p3404
+aS'But I think what we consider traditionally male or female --'
+p3405
+asa(dp3406
+g8
+(lp3407
+S'So --'
+p3408
+asg11
+S'JOHN DONVAN'
+p3409
+sg16
+(lp3410
+g3408
+asa(dp3411
+g8
+(lp3412
+S'-- so iss not really whole. '
+p3413
+asg11
+S'MALE SPEAKER'
+p3414
 sg13
-(dp3407
+(dp3415
 I1
 S'51'
-p3408
+p3416
 ssg16
-(lp3409
-g3405
-asa(dp3410
+(lp3417
+g3413
+asa(dp3418
 g8
-(lp3411
+(lp3419
 S'So if you focus your question down to one sentence, what, what is it?'
-p3412
+p3420
 asg11
 S'JOHN DONVAN'
-p3413
-sg16
-(lp3414
-g3412
-asa(dp3415
-g8
-(lp3416
-S'All right.'
-p3417
-aS'Is it -- is it really possible to say that men are finished based on what weconsider to be traditionally male and female -- considering the fact that in modern timesthe definitions of said genders --'
-p3418
-asg11
-S'MALE SPEAKER'
-p3419
-sg16
-(lp3420
-S'All right.'
 p3421
-aS'Is it -- is it really possible to say that men are finished based on what we consider to be traditionally male and female -- considering the fact that in modern times the definitions of said genders --'
-p3422
+sg16
+(lp3422
+g3420
 asa(dp3423
 g8
 (lp3424
-S'That the world is changing.'
+S'All right.'
 p3425
-aS"I think I see what he's saying."
+aS'Is it -- is it really possible to say that men are finished based on what weconsider to be traditionally male and female -- considering the fact that in modern timesthe definitions of said genders --'
 p3426
 asg11
-S'JOHN DONVAN'
+S'MALE SPEAKER'
 p3427
 sg16
 (lp3428
-S'That the world is changing.'
+S'All right.'
 p3429
-aS"I think I see what he's saying."
+aS'Is it -- is it really possible to say that men are finished based on what we consider to be traditionally male and female -- considering the fact that in modern times the definitions of said genders --'
 p3430
 asa(dp3431
 g8
 (lp3432
-S'Can the lady from Prevention magazine reformulate that?'
+S'That the world is changing.'
 p3433
+aS"I think I see what he's saying."
+p3434
+asg11
+S'JOHN DONVAN'
+p3435
+sg16
+(lp3436
+S'That the world is changing.'
+p3437
+aS"I think I see what he's saying."
+p3438
+asa(dp3439
+g8
+(lp3440
+S'Can the lady from Prevention magazine reformulate that?'
+p3441
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p3434
+p3442
 sg16
-(lp3435
-g3433
-asa(dp3436
+(lp3443
+g3441
+asa(dp3444
 g8
-(lp3437
-S'Hanna Rosin, do you want to take it?'
-p3438
-asg11
-S'JOHN DONVAN'
-p3439
-sg16
-(lp3440
-g3438
-asa(dp3441
-g8
-(lp3442
-S'-- formulate that?'
-p3443
-asg11
-S'HANNA ROSIN'
-p3444
-sg16
 (lp3445
-g3443
-asa(dp3446
-g8
-(lp3447
-S'Who would like to take that?'
-p3448
+S'Hanna Rosin, do you want to take it?'
+p3446
 asg11
 S'JOHN DONVAN'
-p3449
+p3447
 sg16
+(lp3448
+g3446
+asa(dp3449
+g8
 (lp3450
-g3448
-asa(dp3451
-g8
-(lp3452
-S'Well, there is some evidence --'
-p3453
+S'-- formulate that?'
+p3451
 asg11
 S'HANNA ROSIN'
-p3454
+p3452
 sg16
+(lp3453
+g3451
+asa(dp3454
+g8
 (lp3455
-g3453
-asa(dp3456
-g8
-(lp3457
-S'Hanna Rosin.'
-p3458
+S'Who would like to take that?'
+p3456
 asg11
 S'JOHN DONVAN'
-p3459
+p3457
 sg16
-(lp3460
-g3458
-asa(dp3461
+(lp3458
+g3456
+asa(dp3459
 g8
-(lp3462
-S'-- that as women become more dominant, they take on more traits that we think of astraditionally masculine.'
-p3463
-aS'So I think that a lot of these things are much more fluid than wethink they are.'
-p3464
-aS"That's why I'm always reluctant to enter into this gender biologyquestion: Women are like this, and men are like this."
-p3465
-aS'Women have gotten vastly moreaggressive.'
-p3466
-aS"They are -- they're much, much more likely to get arrested, especiallyjuvenile females than they were 20 years ago.You know, so this is a sort of scale that moves along a continuum."
-p3467
+(lp3460
+S'Well, there is some evidence --'
+p3461
 asg11
 S'HANNA ROSIN'
-p3468
+p3462
 sg16
-(lp3469
-S'-- that as women become more dominant, they take on more traits that we think of as traditionally masculine.'
-p3470
-aS'So I think that a lot of these things are much more fluid than we think they are.'
-p3471
-aS"That's why I'm always reluctant to enter into this gender biology question: Women are like this, and men are like this."
-p3472
-aS'Women have gotten vastly more aggressive.'
-p3473
-aS"They are -- they're much, much more likely to get arrested, especially juvenile females than they were 20 years ago."
-p3474
-aS'You know, so this is a sort of scale that moves along a continuum.'
-p3475
-asg18
-(dp3476
-S'20:14:23'
-p3477
-I6
-ssa(dp3478
+(lp3463
+g3461
+asa(dp3464
 g8
-(lp3479
-S'Okay.'
-p3480
+(lp3465
+S'Hanna Rosin.'
+p3466
 asg11
 S'JOHN DONVAN'
+p3467
+sg16
+(lp3468
+g3466
+asa(dp3469
+g8
+(lp3470
+S'-- that as women become more dominant, they take on more traits that we think of astraditionally masculine.'
+p3471
+aS'So I think that a lot of these things are much more fluid than wethink they are.'
+p3472
+aS"That's why I'm always reluctant to enter into this gender biologyquestion: Women are like this, and men are like this."
+p3473
+aS'Women have gotten vastly moreaggressive.'
+p3474
+aS"They are -- they're much, much more likely to get arrested, especiallyjuvenile females than they were 20 years ago.You know, so this is a sort of scale that moves along a continuum."
+p3475
+asg11
+S'HANNA ROSIN'
+p3476
+sg16
+(lp3477
+S'-- that as women become more dominant, they take on more traits that we think of as traditionally masculine.'
+p3478
+aS'So I think that a lot of these things are much more fluid than we think they are.'
+p3479
+aS"That's why I'm always reluctant to enter into this gender biology question: Women are like this, and men are like this."
+p3480
+aS'Women have gotten vastly more aggressive.'
 p3481
+aS"They are -- they're much, much more likely to get arrested, especially juvenile females than they were 20 years ago."
+p3482
+aS'You know, so this is a sort of scale that moves along a continuum.'
+p3483
+asg18
+(dp3484
+S'20:14:23'
+p3485
+I6
+ssa(dp3486
+g8
+(lp3487
+S'Okay.'
+p3488
+asg11
+S'JOHN DONVAN'
+p3489
 sg13
-(dp3482
+(dp3490
 I1
 S'52'
-p3483
+p3491
 ssg16
-(lp3484
-g3480
-asa(dp3485
+(lp3492
+g3488
+asa(dp3493
 g8
-(lp3486
+(lp3494
 S'Though, as I said --'
-p3487
+p3495
 asg11
 S'HANNA ROSIN'
-p3488
-sg16
-(lp3489
-g3487
-asa(dp3490
-g8
-(lp3491
-S"I'm guessing you will agree with that."
-p3492
-aS'So, sir --'
-p3493
-asg11
-S'JOHN DONVAN'
-p3494
-sg16
-(lp3495
-S"I'm guessing you will agree with that."
 p3496
-aS'So, sir --'
-p3497
+sg16
+(lp3497
+g3495
 asa(dp3498
 g8
 (lp3499
-S'Well --'
+S"I'm guessing you will agree with that."
 p3500
-asg11
-S'CHRISTINA HOFF SOMMERS'
+aS'So, sir --'
 p3501
-sg16
-(lp3502
-g3500
-asa(dp3503
-g8
-(lp3504
-S'No?'
-p3505
 asg11
 S'JOHN DONVAN'
-p3506
+p3502
 sg16
-(lp3507
-g3505
-asa(dp3508
+(lp3503
+S"I'm guessing you will agree with that."
+p3504
+aS'So, sir --'
+p3505
+asa(dp3506
 g8
-(lp3509
-S"One thing she's left out."
-p3510
-aS'Okay.'
-p3511
-aS'Go on.'
-p3512
+(lp3507
+S'Well --'
+p3508
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p3513
+p3509
 sg16
-(lp3514
-S"One thing she's left out."
-p3515
-aS'Okay.'
-p3516
-aS'Go on.'
-p3517
-asa(dp3518
+(lp3510
+g3508
+asa(dp3511
 g8
-(lp3519
-S'Okay, no, no, no.'
-p3520
-aS"Christina, if you're serious, go ahead."
-p3521
+(lp3512
+S'No?'
+p3513
 asg11
 S'JOHN DONVAN'
-p3522
+p3514
 sg16
-(lp3523
-S'Okay, no, no, no.'
+(lp3515
+g3513
+asa(dp3516
+g8
+(lp3517
+S"One thing she's left out."
+p3518
+aS'Okay.'
+p3519
+aS'Go on.'
+p3520
+asg11
+S'CHRISTINA HOFF SOMMERS'
+p3521
+sg16
+(lp3522
+S"One thing she's left out."
+p3523
+aS'Okay.'
 p3524
-aS"Christina, if you're serious, go ahead."
+aS'Go on.'
 p3525
 asa(dp3526
 g8
 (lp3527
-S"Well, it's one thing that does not change in human nature is that men tend to succeedand fail more spectacularly than females."
+S'Okay, no, no, no.'
 p3528
-aS'So you find more males who are, in anyeconomy, any situation, there are going to be males that are going to find their way tothe top.'
+aS"Christina, if you're serious, go ahead."
 p3529
-aS'And there will be males that will find their way to the bottom.'
-p3530
-asg11
-S'CHRISTINA HOFF SOMMERS'
-p3531
-sg16
-(lp3532
-S"Well, it's one thing that does not change in human nature is that men tend to succeed and fail more spectacularly than females."
-p3533
-aS'So you find more males who are, in any economy, any situation, there are going to be males that are going to find their way to the top.'
-p3534
-aS'And there will be males that will find their way to the bottom.'
-p3535
-asa(dp3536
-g8
-(lp3537
-S'Right.'
-p3538
 asg11
 S'JOHN DONVAN'
+p3530
+sg16
+(lp3531
+S'Okay, no, no, no.'
+p3532
+aS"Christina, if you're serious, go ahead."
+p3533
+asa(dp3534
+g8
+(lp3535
+S"Well, it's one thing that does not change in human nature is that men tend to succeedand fail more spectacularly than females."
+p3536
+aS'So you find more males who are, in anyeconomy, any situation, there are going to be males that are going to find their way tothe top.'
+p3537
+aS'And there will be males that will find their way to the bottom.'
+p3538
+asg11
+S'CHRISTINA HOFF SOMMERS'
 p3539
 sg16
 (lp3540
-g3538
-asa(dp3541
-g8
-(lp3542
-S'Men have that -- that capacity.'
+S"Well, it's one thing that does not change in human nature is that men tend to succeed and fail more spectacularly than females."
+p3541
+aS'So you find more males who are, in any economy, any situation, there are going to be males that are going to find their way to the top.'
+p3542
+aS'And there will be males that will find their way to the bottom.'
 p3543
-asg11
-S'CHRISTINA HOFF SOMMERS'
-p3544
-sg16
+asa(dp3544
+g8
 (lp3545
-g3543
-asa(dp3546
-g22
-(dp3547
-I2
-S'[laughter]'
-p3548
-ssg8
-(lp3549
-S'That was Dan Abrams homerun -- swinging for the fence point.'
-p3550
-aS"Sir, you're standing inthe aisle?"
-p3551
-aS'Yes.'
-p3552
-aS'You just pointed to yourself.'
-p3553
-aS"Yeah, that's --No, that's not -- that's me being confused, not him, all right?"
-p3554
-aS'[[laughter]] '
-p3555
+S'Right.'
+p3546
 asg11
 S'JOHN DONVAN'
-p3556
+p3547
 sg16
+(lp3548
+g3546
+asa(dp3549
+g8
+(lp3550
+S'Men have that -- that capacity.'
+p3551
+asg11
+S'CHRISTINA HOFF SOMMERS'
+p3552
+sg16
+(lp3553
+g3551
+asa(dp3554
+g22
+(dp3555
+I2
+S'[laughter]'
+p3556
+ssg8
 (lp3557
 S'That was Dan Abrams homerun -- swinging for the fence point.'
 p3558
-aS"Sir, you're standing in the aisle?"
+aS"Sir, you're standing inthe aisle?"
 p3559
 aS'Yes.'
 p3560
 aS'You just pointed to yourself.'
 p3561
-aS"Yeah, that's -- No, that's not -- that's me being confused, not him, all right?"
+aS"Yeah, that's --No, that's not -- that's me being confused, not him, all right?"
 p3562
-asa(dp3563
-g8
-(lp3564
-S'Thank you.'
-p3565
-aS"This is a point first made by Slate magazine's Emily Bazelon who I think itwas -- or what I heard is I think it's appropriate to do it here where you're a cosponsor.But the company Wal-Mart recently faced a lawsuit about systematically discriminatingagainst women and whatever you think about the outcome of that."
+aS'[[laughter]] '
+p3563
+asg11
+S'JOHN DONVAN'
+p3564
+sg16
+(lp3565
+S'That was Dan Abrams homerun -- swinging for the fence point.'
 p3566
-aS"The point was,clearly Wal-Mart wasn't utilizing their -- or empowering their female work force."
+aS"Sir, you're standing in the aisle?"
 p3567
-aS'And allthe economic evidence which Wal-Mart would have definitely had at its disposal wouldsuggest that that would be the profit maximizing thing to do.'
+aS'Yes.'
 p3568
-aS'And we all know Wal-Martloves profit.'
+aS'You just pointed to yourself.'
 p3569
-aS'So I guess my question for the panel is, why is that, and what does thatmean for our motion?'
+aS"Yeah, that's -- No, that's not -- that's me being confused, not him, all right?"
 p3570
+asa(dp3571
+g8
+(lp3572
+S'Thank you.'
+p3573
+aS"This is a point first made by Slate magazine's Emily Bazelon who I think itwas -- or what I heard is I think it's appropriate to do it here where you're a cosponsor.But the company Wal-Mart recently faced a lawsuit about systematically discriminatingagainst women and whatever you think about the outcome of that."
+p3574
+aS"The point was,clearly Wal-Mart wasn't utilizing their -- or empowering their female work force."
+p3575
+aS'And allthe economic evidence which Wal-Mart would have definitely had at its disposal wouldsuggest that that would be the profit maximizing thing to do.'
+p3576
+aS'And we all know Wal-Martloves profit.'
+p3577
+aS'So I guess my question for the panel is, why is that, and what does thatmean for our motion?'
+p3578
 asg11
 S'MALE SPEAKER'
-p3571
+p3579
 sg13
-(dp3572
+(dp3580
 I2
 S'53'
-p3573
-ssg16
-(lp3574
-S'Thank you.'
-p3575
-aS"This is a point first made by Slate magazine's Emily Bazelon who I think it was -- or what I heard is I think it's appropriate to do it here where you're a cosponsor."
-p3576
-aS'But the company Wal-Mart recently faced a lawsuit about systematically discriminating against women and whatever you think about the outcome of that.'
-p3577
-aS"The point was, clearly Wal-Mart wasn't utilizing their -- or empowering their female work force."
-p3578
-aS'And all the economic evidence which Wal-Mart would have definitely had at its disposal would suggest that that would be the profit maximizing thing to do.'
-p3579
-aS'And we all know Wal-Mart loves profit.'
-p3580
-aS'So I guess my question for the panel is, why is that, and what does that mean for our motion?'
 p3581
-asg18
-(dp3582
-S'20:15:21'
+ssg16
+(lp3582
+S'Thank you.'
 p3583
-I2
-ssa(dp3584
-g8
-(lp3585
-S"You know, I think it's a little -- I think it's a little bit off point on getting us to thequestion of whether we think men are finished or not, so respectfully, I'm going to passon that."
+aS"This is a point first made by Slate magazine's Emily Bazelon who I think it was -- or what I heard is I think it's appropriate to do it here where you're a cosponsor."
+p3584
+aS'But the company Wal-Mart recently faced a lawsuit about systematically discriminating against women and whatever you think about the outcome of that.'
+p3585
+aS"The point was, clearly Wal-Mart wasn't utilizing their -- or empowering their female work force."
 p3586
-asg11
-S'JOHN DONVAN'
+aS'And all the economic evidence which Wal-Mart would have definitely had at its disposal would suggest that that would be the profit maximizing thing to do.'
 p3587
-sg16
-(lp3588
-S"You know, I think it's a little -- I think it's a little bit off point on getting us to the question of whether we think men are finished or not, so respectfully, I'm going to pass on that."
+aS'And we all know Wal-Mart loves profit.'
+p3588
+aS'So I guess my question for the panel is, why is that, and what does that mean for our motion?'
 p3589
-asa(dp3590
-g8
-(lp3591
-S'But I could just reformulate it.'
-p3592
-asg11
-S'CHRISTINA HOFF SOMMERS'
-p3593
-sg16
-(lp3594
-g3592
-asa(dp3595
-g8
-(lp3596
-S'But I -- I --'
-p3597
-asg11
-S'JOHN DONVAN'
-p3598
-sg16
-(lp3599
-g3597
-asa(dp3600
-g8
-(lp3601
-S"I would just like to ask, why don't all of our leading companies, if they were really smart,fire all their males who are useless and hire females?Well, they don't --"
-p3602
-asg11
-S'CHRISTINA HOFF SOMMERS'
-p3603
-sg16
-(lp3604
-S"I would just like to ask, why don't all of our leading companies, if they were really smart, fire all their males who are useless and hire females?"
-p3605
-aS"Well, they don't --"
-p3606
 asg18
-(dp3607
-S'20:16:17'
-p3608
+(dp3590
+S'20:15:21'
+p3591
 I2
-ssa(dp3609
+ssa(dp3592
 g8
-(lp3610
-S"Well, they're not saying that they're useless."
-p3611
-aS"They haven't gone that far."
-p3612
+(lp3593
+S"You know, I think it's a little -- I think it's a little bit off point on getting us to thequestion of whether we think men are finished or not, so respectfully, I'm going to passon that."
+p3594
 asg11
 S'JOHN DONVAN'
-p3613
+p3595
 sg16
-(lp3614
-S"Well, they're not saying that they're useless."
-p3615
-aS"They haven't gone that far."
+(lp3596
+S"You know, I think it's a little -- I think it's a little bit off point on getting us to the question of whether we think men are finished or not, so respectfully, I'm going to pass on that."
+p3597
+asa(dp3598
+g8
+(lp3599
+S'But I could just reformulate it.'
+p3600
+asg11
+S'CHRISTINA HOFF SOMMERS'
+p3601
+sg16
+(lp3602
+g3600
+asa(dp3603
+g8
+(lp3604
+S'But I -- I --'
+p3605
+asg11
+S'JOHN DONVAN'
+p3606
+sg16
+(lp3607
+g3605
+asa(dp3608
+g8
+(lp3609
+S"I would just like to ask, why don't all of our leading companies, if they were really smart,fire all their males who are useless and hire females?Well, they don't --"
+p3610
+asg11
+S'CHRISTINA HOFF SOMMERS'
+p3611
+sg16
+(lp3612
+S"I would just like to ask, why don't all of our leading companies, if they were really smart, fire all their males who are useless and hire females?"
+p3613
+aS"Well, they don't --"
+p3614
+asg18
+(dp3615
+S'20:16:17'
 p3616
-asa(dp3617
+I2
+ssa(dp3617
 g8
 (lp3618
-S"They're not useless, but they're on their way out."
+S"Well, they're not saying that they're useless."
 p3619
+aS"They haven't gone that far."
+p3620
+asg11
+S'JOHN DONVAN'
+p3621
+sg16
+(lp3622
+S"Well, they're not saying that they're useless."
+p3623
+aS"They haven't gone that far."
+p3624
+asa(dp3625
+g8
+(lp3626
+S"They're not useless, but they're on their way out."
+p3627
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p3620
+p3628
 sg16
-(lp3621
-g3619
-asa(dp3622
+(lp3629
+g3627
+asa(dp3630
 g8
-(lp3623
+(lp3631
 S'Okay.'
-p3624
+p3632
 aS'So you want to answer that?'
-p3625
+p3633
 asg11
 S'JOHN DONVAN'
-p3626
+p3634
 sg16
-(lp3627
+(lp3635
 S'Okay.'
-p3628
+p3636
 aS'So you want to answer that?'
-p3629
-asa(dp3630
+p3637
+asa(dp3638
 g22
-(dp3631
+(dp3639
 I1
 S'[laughter]'
-p3632
+p3640
 ssg8
-(lp3633
+(lp3641
 S'Yeah.'
-p3634
+p3642
 aS"I mean, they don't have to fire all of their males, but they certainly have to ---- fire most of them."
-p3635
+p3643
 aS'[[laughter]] '
-p3636
+p3644
 asg11
 S'HANNA ROSIN'
-p3637
+p3645
 sg16
-(lp3638
+(lp3646
 S'Yeah.'
-p3639
+p3647
 aS"I mean, they don't have to fire all of their males, but they certainly have to -- -- fire most of them."
-p3640
-asa(dp3641
+p3648
+asa(dp3649
 g8
-(lp3642
+(lp3650
 S'Thank you.'
-p3643
+p3651
 asg11
 S'JOHN DONVAN'
-p3644
+p3652
 sg13
-(dp3645
+(dp3653
 I0
 S'54'
-p3646
+p3654
 ssg16
-(lp3647
-g3643
-asa(dp3648
+(lp3655
+g3651
+asa(dp3656
 g8
-(lp3649
+(lp3657
 S"No, that's not where I was going with that."
-p3650
+p3658
 asg11
 S'HANNA ROSIN'
-p3651
+p3659
 sg16
-(lp3652
-g3650
-asa(dp3653
+(lp3660
+g3658
+asa(dp3661
 g8
-(lp3654
+(lp3662
 S'Right there in the aisle, to your right, right, yes.'
-p3655
+p3663
 aS'Could you please rise.'
-p3656
+p3664
 aS'Thanks.'
-p3657
+p3665
 asg11
 S'JOHN DONVAN'
-p3658
-sg16
-(lp3659
-S'Right there in the aisle, to your right, right, yes.'
-p3660
-aS'Could you please rise.'
-p3661
-aS'Thanks.'
-p3662
-asa(dp3663
-g8
-(lp3664
-S'The moderator started out by saying that increasing -- Leslie Bennetts, Newsweek DailyBeast.'
-p3665
-aS'The moderator started out by saying that increasingly men are not assuming theresponsibilities of parenthood.'
 p3666
-aS'Both the men on the panel who are middle aged, singleand childless would be examples of this.'
-p3667
-aS"And I'd like to know why they think that this isso often the case these days, men are marrying less and less."
+sg16
+(lp3667
+S'Right there in the aisle, to your right, right, yes.'
 p3668
-aS'Men are not supportingtheir families.'
+aS'Could you please rise.'
 p3669
-aS'The statistics on the nonpayment of things like child support areastronomical.'
+aS'Thanks.'
 p3670
+asa(dp3671
+g8
+(lp3672
+S'The moderator started out by saying that increasing -- Leslie Bennetts, Newsweek DailyBeast.'
+p3673
+aS'The moderator started out by saying that increasingly men are not assuming theresponsibilities of parenthood.'
+p3674
+aS'Both the men on the panel who are middle aged, singleand childless would be examples of this.'
+p3675
+aS"And I'd like to know why they think that this isso often the case these days, men are marrying less and less."
+p3676
+aS'Men are not supportingtheir families.'
+p3677
+aS'The statistics on the nonpayment of things like child support areastronomical.'
+p3678
 aS"And that's always been one of the hallmarks of adulthood.I'd like to know what the panel has to say about that."
-p3671
+p3679
 asg11
 S'LESLIE BENNETTS'
-p3672
-sg16
-(lp3673
-S'The moderator started out by saying that increasing -- Leslie Bennetts, Newsweek Daily Beast.'
-p3674
-aS'The moderator started out by saying that increasingly men are not assuming the responsibilities of parenthood.'
-p3675
-aS'Both the men on the panel who are middle aged, single and childless would be examples of this.'
-p3676
-aS"And I'd like to know why they think that this is so often the case these days, men are marrying less and less."
-p3677
-aS'Men are not supporting their families.'
-p3678
-aS'The statistics on the nonpayment of things like child support are astronomical.'
-p3679
-aS"And that's always been one of the hallmarks of adulthood."
 p3680
-aS"I'd like to know what the panel has to say about that."
-p3681
-asg18
-(dp3682
-S'20:17:15'
+sg16
+(lp3681
+S'The moderator started out by saying that increasing -- Leslie Bennetts, Newsweek Daily Beast.'
+p3682
+aS'The moderator started out by saying that increasingly men are not assuming the responsibilities of parenthood.'
 p3683
+aS'Both the men on the panel who are middle aged, single and childless would be examples of this.'
+p3684
+aS"And I'd like to know why they think that this is so often the case these days, men are marrying less and less."
+p3685
+aS'Men are not supporting their families.'
+p3686
+aS'The statistics on the nonpayment of things like child support are astronomical.'
+p3687
+aS"And that's always been one of the hallmarks of adulthood."
+p3688
+aS"I'd like to know what the panel has to say about that."
+p3689
+asg18
+(dp3690
+S'20:17:15'
+p3691
 I7
-ssa(dp3684
+ssa(dp3692
 g22
-(dp3685
+(dp3693
 I1
 S'[laughter]'
-p3686
+p3694
 ssg8
-(lp3687
+(lp3695
 S"Since I'm being lumped in with dead beat dads, I think I'll probably pass on this one."
-p3688
+p3696
 asg11
 S'DAN ABRAMS'
-p3689
-sg16
-(lp3690
-g3688
-asa(dp3691
-g8
-(lp3692
-S"I'm not touching that."
-p3693
-aS'I have three children.'
-p3694
-aS'I just like to brag about that.'
-p3695
-aS"I'm not goingnear that one."
-p3696
-aS'Dave and Dan, you can take that one.'
 p3697
+sg16
+(lp3698
+g3696
+asa(dp3699
+g8
+(lp3700
+S"I'm not touching that."
+p3701
+aS'I have three children.'
+p3702
+aS'I just like to brag about that.'
+p3703
+aS"I'm not goingnear that one."
+p3704
+aS'Dave and Dan, you can take that one.'
+p3705
 asg11
 S'HANNA ROSIN'
-p3698
+p3706
 sg16
-(lp3699
+(lp3707
 S"I'm not touching that."
-p3700
+p3708
 aS'I have three children.'
-p3701
+p3709
 aS'I just like to brag about that.'
-p3702
+p3710
 aS"I'm not going near that one."
-p3703
+p3711
 aS'Dave and Dan, you can take that one.'
-p3704
-asa(dp3705
+p3712
+asa(dp3713
 g8
-(lp3706
+(lp3714
 S'David Zinczenko.'
-p3707
+p3715
 asg11
 S'JOHN DONVAN'
-p3708
+p3716
 sg16
-(lp3709
-g3707
-asa(dp3710
+(lp3717
+g3715
+asa(dp3718
 g8
-(lp3711
+(lp3719
 S"Well, I mean, I -- you know, obviously you're well-read and you've probably read theTimes today and the piece about how single men or unmarried men are sometimes thebiggest contributors to their family and in their community, so --"
-p3712
+p3720
 asg11
 S'DAVID ZINCZENKO'
-p3713
+p3721
 sg16
-(lp3714
+(lp3722
 S"Well, I mean, I -- you know, obviously you're well-read and you've probably read the Times today and the piece about how single men or unmarried men are sometimes the biggest contributors to their family and in their community, so --"
-p3715
-asa(dp3716
+p3723
+asa(dp3724
 g8
-(lp3717
+(lp3725
 S"-- statistically there's a lot of evidence --"
-p3718
+p3726
 asg11
 S'LESLIE BENNETTS'
-p3719
+p3727
 sg16
-(lp3720
-g3718
-asa(dp3721
+(lp3728
+g3726
+asa(dp3729
 g8
-(lp3722
+(lp3730
 S"If you're going to come back, it's okay to do so, but could you stand up again?"
-p3723
+p3731
 asg11
 S'JOHN DONVAN'
-p3724
+p3732
 sg13
-(dp3725
+(dp3733
 I1
 S'55'
-p3726
+p3734
 ssg16
-(lp3727
-g3723
-asa(dp3728
+(lp3735
+g3731
+asa(dp3736
 g8
-(lp3729
+(lp3737
 S'Yeah.'
-p3730
+p3738
 asg11
 S'LESLIE BENNETTS'
-p3731
+p3739
 sg16
-(lp3732
-g3730
-asa(dp3733
+(lp3740
+g3738
+asa(dp3741
 g8
-(lp3734
+(lp3742
 S'Sure.'
-p3735
+p3743
 asg11
 S'JOHN DONVAN'
-p3736
+p3744
 sg16
-(lp3737
-g3735
-asa(dp3738
+(lp3745
+g3743
+asa(dp3746
 g8
-(lp3739
+(lp3747
 S"Statistically there's a lot of evidence and I'm really curious about why you guys thinkthat men are turning away from -- you know, I mean, a generation or two ago by thetime men were in their late 20s they often had three or four kids."
-p3740
+p3748
 aS"That's not the modeltoday."
-p3741
+p3749
 aS"I'm interested in what the men have to say about --"
-p3742
-asg11
-S'LESLIE BENNETTS'
-p3743
-sg16
-(lp3744
-S"Statistically there's a lot of evidence and I'm really curious about why you guys think that men are turning away from -- you know, I mean, a generation or two ago by the time men were in their late 20s they often had three or four kids."
-p3745
-aS"That's not the model today."
-p3746
-aS"I'm interested in what the men have to say about --"
-p3747
-asa(dp3748
-g8
-(lp3749
-S"But women are also having -- but women are also having children later, I mean, it's not amale-female ."
 p3750
 asg11
-S'DAN ABRAMS'
+S'LESLIE BENNETTS'
 p3751
 sg16
 (lp3752
-S"But women are also having -- but women are also having children later, I mean, it's not a male-female ."
+S"Statistically there's a lot of evidence and I'm really curious about why you guys think that men are turning away from -- you know, I mean, a generation or two ago by the time men were in their late 20s they often had three or four kids."
 p3753
-asa(dp3754
+aS"That's not the model today."
+p3754
+aS"I'm interested in what the men have to say about --"
+p3755
+asa(dp3756
 g8
-(lp3755
-S"Yeah, but a lot of women are having children alone because men don't want toparticipate."
-p3756
-asg11
-S'LESLIE BENNETTS'
-p3757
-sg16
-(lp3758
-S"Yeah, but a lot of women are having children alone because men don't want to participate."
-p3759
-asa(dp3760
-g8
-(lp3761
-S'Yeah, no, if we look at --'
-p3762
-asg11
-S'HANNA ROSIN'
-p3763
-sg16
-(lp3764
-g3762
-asg18
-(dp3765
-S'20:18:16'
-p3766
-I1
-ssa(dp3767
-g8
-(lp3768
-S'Okay.'
-p3769
-aS'Or because --'
-p3770
+(lp3757
+S"But women are also having -- but women are also having children later, I mean, it's not amale-female ."
+p3758
 asg11
 S'DAN ABRAMS'
+p3759
+sg16
+(lp3760
+S"But women are also having -- but women are also having children later, I mean, it's not a male-female ."
+p3761
+asa(dp3762
+g8
+(lp3763
+S"Yeah, but a lot of women are having children alone because men don't want toparticipate."
+p3764
+asg11
+S'LESLIE BENNETTS'
+p3765
+sg16
+(lp3766
+S"Yeah, but a lot of women are having children alone because men don't want to participate."
+p3767
+asa(dp3768
+g8
+(lp3769
+S'Yeah, no, if we look at --'
+p3770
+asg11
+S'HANNA ROSIN'
 p3771
 sg16
 (lp3772
-S'Okay.'
-p3773
-aS'Or because --'
+g3770
+asg18
+(dp3773
+S'20:18:16'
 p3774
-asa(dp3775
+I1
+ssa(dp3775
+g8
+(lp3776
+S'Okay.'
+p3777
+aS'Or because --'
+p3778
+asg11
+S'DAN ABRAMS'
+p3779
+sg16
+(lp3780
+S'Okay.'
+p3781
+aS'Or because --'
+p3782
+asa(dp3783
 g22
-(dp3776
+(dp3784
 I8
 S'[laughter]'
-p3777
+p3785
 ssg8
-(lp3778
+(lp3786
 S"-- if we look at this from the children's perspective and the children in this sort of 59percent that I was talking about, we would definitely win and you would definitely haveto vote for men are finished."
-p3779
+p3787
 aS"It's like a shocking phenomenon, 40 percent of Americanchildren are now born to single parent households."
-p3780
+p3788
 aS"You could say that's because thewomen have decided that the men are finished, they don't need them, they don'tcontribute to the household, the women are the ones doing all the work and going toschool and the men are just sort of another child in the house to feed and that's what allthe women tell me.I wish that it was funny but it's not funny."
-p3781
+p3789
 aS"That's the part of this that's the tragedy [[laughter]] about men are finished."
-p3782
+p3790
 asg11
 S'HANNA ROSIN'
-p3783
+p3791
 sg16
-(lp3784
+(lp3792
 S"-- if we look at this from the children's perspective and the children in this sort of 59 percent that I was talking about, we would definitely win and you would definitely have to vote for men are finished."
-p3785
+p3793
 aS"It's like a shocking phenomenon, 40 percent of American children are now born to single parent households."
-p3786
+p3794
 aS"You could say that's because the women have decided that the men are finished, they don't need them, they don't contribute to the household, the women are the ones doing all the work and going to school and the men are just sort of another child in the house to feed and that's what all the women tell me."
-p3787
+p3795
 aS"I wish that it was funny but it's not funny."
-p3788
+p3796
 aS"That's the part of this that's the tragedy about men are finished."
-p3789
-asa(dp3790
+p3797
+asa(dp3798
 g8
-(lp3791
+(lp3799
 S'One last question, sir.'
-p3792
+p3800
 asg11
 S'JOHN DONVAN'
-p3793
+p3801
 sg13
-(dp3794
+(dp3802
 I0
 S'56'
-p3795
+p3803
 ssg16
-(lp3796
-g3792
-asa(dp3797
+(lp3804
+g3800
+asa(dp3805
 g8
-(lp3798
+(lp3806
 S'Well, my background is in the apparel industry.'
-p3799
+p3807
 aS'I was the largest employer in the Stateof Tennessee, and the largest employer in the State of Maryland, and the largestemployer in Alabama, all women sewing apparel.'
-p3800
+p3808
 aS'And we had to train womenmanagers, and we made a major effort to do that.'
-p3801
-asg11
-S'MALE SPEAKER'
-p3802
-sg16
-(lp3803
-S'Well, my background is in the apparel industry.'
-p3804
-aS'I was the largest employer in the State of Tennessee, and the largest employer in the State of Maryland, and the largest employer in Alabama, all women sewing apparel.'
-p3805
-aS'And we had to train women managers, and we made a major effort to do that.'
-p3806
-asa(dp3807
-g8
-(lp3808
-S"So what's your question then?"
 p3809
 asg11
-S'JOHN DONVAN'
+S'MALE SPEAKER'
 p3810
 sg16
 (lp3811
-g3809
-asg18
-(dp3812
-S'20:19:16'
+S'Well, my background is in the apparel industry.'
+p3812
+aS'I was the largest employer in the State of Tennessee, and the largest employer in the State of Maryland, and the largest employer in Alabama, all women sewing apparel.'
 p3813
-I1
-ssa(dp3814
+aS'And we had to train women managers, and we made a major effort to do that.'
+p3814
+asa(dp3815
 g8
-(lp3815
-S'My education is business school where there was one woman in a class of 800 when Iwent --'
-p3816
-asg11
-S'MALE SPEAKER'
+(lp3816
+S"So what's your question then?"
 p3817
-sg16
-(lp3818
-S'My education is business school where there was one woman in a class of 800 when I went --'
-p3819
-asa(dp3820
-g8
-(lp3821
-S"Right, but I'd like you to get to a question, sir."
-p3822
 asg11
 S'JOHN DONVAN'
-p3823
+p3818
 sg16
-(lp3824
-g3822
-asa(dp3825
+(lp3819
+g3817
+asg18
+(dp3820
+S'20:19:16'
+p3821
+I1
+ssa(dp3822
 g8
-(lp3826
-S"What we need to do is be sure that women are taught how to manage large groups ofpeople and then they will get the important jobs, not just do the work, and we haven'tdone that, now how can we make more women managers, not just family managers,but managers of businesses, service businesses, and manufacturing businesses, most ofwhich in my industry worked overseas?"
-p3827
+(lp3823
+S'My education is business school where there was one woman in a class of 800 when Iwent --'
+p3824
 asg11
 S'MALE SPEAKER'
-p3828
+p3825
 sg16
-(lp3829
-S"What we need to do is be sure that women are taught how to manage large groups of people and then they will get the important jobs, not just do the work, and we haven't done that, now how can we make more women managers, not just family managers, but managers of businesses, service businesses, and manufacturing businesses, most of which in my industry worked overseas?"
-p3830
-asa(dp3831
+(lp3826
+S'My education is business school where there was one woman in a class of 800 when I went --'
+p3827
+asa(dp3828
 g8
-(lp3832
-S"Okay, I'm not sure that, that's getting to our question of what do we do for the men,which I think is a little bit more on point."
-p3833
+(lp3829
+S"Right, but I'd like you to get to a question, sir."
+p3830
 asg11
 S'JOHN DONVAN'
-p3834
+p3831
 sg16
-(lp3835
-S"Okay, I'm not sure that, that's getting to our question of what do we do for the men, which I think is a little bit more on point."
-p3836
-asa(dp3837
+(lp3832
+g3830
+asa(dp3833
 g8
-(lp3838
+(lp3834
+S"What we need to do is be sure that women are taught how to manage large groups ofpeople and then they will get the important jobs, not just do the work, and we haven'tdone that, now how can we make more women managers, not just family managers,but managers of businesses, service businesses, and manufacturing businesses, most ofwhich in my industry worked overseas?"
+p3835
+asg11
+S'MALE SPEAKER'
+p3836
+sg16
+(lp3837
+S"What we need to do is be sure that women are taught how to manage large groups of people and then they will get the important jobs, not just do the work, and we haven't done that, now how can we make more women managers, not just family managers, but managers of businesses, service businesses, and manufacturing businesses, most of which in my industry worked overseas?"
+p3838
+asa(dp3839
+g8
+(lp3840
+S"Okay, I'm not sure that, that's getting to our question of what do we do for the men,which I think is a little bit more on point."
+p3841
+asg11
+S'JOHN DONVAN'
+p3842
+sg16
+(lp3843
+S"Okay, I'm not sure that, that's getting to our question of what do we do for the men, which I think is a little bit more on point."
+p3844
+asa(dp3845
+g8
+(lp3846
 S"There are women managers -- there -- 54 percent of American managers are nowwomen, they don't need that much help on that."
-p3839
+p3847
 asg11
 S'HANNA ROSIN'
-p3840
+p3848
 sg16
-(lp3841
+(lp3849
 S"There are women managers -- there -- 54 percent of American managers are now women, they don't need that much help on that."
-p3842
-asa(dp3843
+p3850
+asa(dp3851
 g8
-(lp3844
+(lp3852
 S"I'm going to take one more question, right down in front with ."
-p3845
+p3853
 asg11
 S'JOHN DONVAN'
-p3846
+p3854
 sg16
-(lp3847
-g3845
-asa(dp3848
+(lp3855
+g3853
+asa(dp3856
 g22
-(dp3849
+(dp3857
 I2
 S'[laughter]'
-p3850
+p3858
 ssg11
 S'FEMALE SPEAKER'
-p3851
-sg16
-(lp3852
-S'I just have a quick question.'
-p3853
-aS'Does anybody have the statistics on how many men become women and how many women become men?'
-p3854
-asg18
-(dp3855
-S'20:20:19'
-p3856
-I2
-ssg8
-(lp3857
-S'I just have a quick question.'
-p3858
-aS'Does anybody have the statistics on how many menbecome women and how many women become men?'
 p3859
-asg13
-(dp3860
-I2
-S'57'
+sg16
+(lp3860
+S'I just have a quick question.'
 p3861
-ssa(dp3862
-g22
+aS'Does anybody have the statistics on how many men become women and how many women become men?'
+p3862
+asg18
 (dp3863
-I1
-S'[laughter]'
+S'20:20:19'
 p3864
+I2
 ssg8
 (lp3865
-S"It's -- that's a whole nother debate which we're going to have shortly.All right."
+S'I just have a quick question.'
 p3866
-aS'Folks, really, really, I think it has been so clear and all instances about how to [[laughter]] do this.'
+aS'Does anybody have the statistics on how many menbecome women and how many women become men?'
 p3867
-aS'Sir, can you stand up?'
-p3868
-aS"That's one of the parts --"
+asg13
+(dp3868
+I2
+S'57'
 p3869
-asg11
-S'JOHN DONVAN'
-p3870
-sg16
-(lp3871
-S"It's -- that's a whole nother debate which we're going to have shortly."
-p3872
-aS'All right.'
-p3873
-aS'Folks, really, really, I think it has been so clear and all instances about how to do this.'
-p3874
-aS'Sir, can you stand up?'
-p3875
-aS"That's one of the parts --"
-p3876
-asa(dp3877
-g8
-(lp3878
-S'My question is, can you imagine being a cofounder or founder of an island where onlywomen live on this island?'
-p3879
-asg11
-S'MALE SPEAKER'
-p3880
-sg16
-(lp3881
-S'My question is, can you imagine being a cofounder or founder of an island where only women live on this island?'
-p3882
-asa(dp3883
+ssa(dp3870
 g22
-(dp3884
+(dp3871
 I1
 S'[laughter]'
-p3885
+p3872
 ssg8
-(lp3886
-S"Okay, I'm going to go to another --Yes, I can, but -- [[laughter]] "
-p3887
+(lp3873
+S"It's -- that's a whole nother debate which we're going to have shortly.All right."
+p3874
+aS'Folks, really, really, I think it has been so clear and all instances about how to [[laughter]] do this.'
+p3875
+aS'Sir, can you stand up?'
+p3876
+aS"That's one of the parts --"
+p3877
 asg11
 S'JOHN DONVAN'
+p3878
+sg16
+(lp3879
+S"It's -- that's a whole nother debate which we're going to have shortly."
+p3880
+aS'All right.'
+p3881
+aS'Folks, really, really, I think it has been so clear and all instances about how to do this.'
+p3882
+aS'Sir, can you stand up?'
+p3883
+aS"That's one of the parts --"
+p3884
+asa(dp3885
+g8
+(lp3886
+S'My question is, can you imagine being a cofounder or founder of an island where onlywomen live on this island?'
+p3887
+asg11
+S'MALE SPEAKER'
 p3888
 sg16
 (lp3889
-S"Okay, I'm going to go to another -- Yes, I can, but --"
+S'My question is, can you imagine being a cofounder or founder of an island where only women live on this island?'
 p3890
 asa(dp3891
-g8
-(lp3892
-S'I have an answer.'
+g22
+(dp3892
+I1
+S'[laughter]'
 p3893
+ssg8
+(lp3894
+S"Okay, I'm going to go to another --Yes, I can, but -- [[laughter]] "
+p3895
+asg11
+S'JOHN DONVAN'
+p3896
+sg16
+(lp3897
+S"Okay, I'm going to go to another -- Yes, I can, but --"
+p3898
+asa(dp3899
+g8
+(lp3900
+S'I have an answer.'
+p3901
 asg11
 S'FEMALE SPEAKER'
-p3894
+p3902
 sg16
-(lp3895
-g3893
-asa(dp3896
+(lp3903
+g3901
+asa(dp3904
 g8
-(lp3897
+(lp3905
 S'I sometimes do, but -- right down front.'
-p3898
+p3906
 asg11
 S'JOHN DONVAN'
-p3899
+p3907
 sg16
-(lp3900
-g3898
-asa(dp3901
-g8
-(lp3902
-S'Someone did ask the question, what would it be like if women ran the world and thereply was there would be no more war, just lots of jealous countries refusing to speak toone another.'
-p3903
-asg11
-S'CHRISTINA HOFF SOMMERS'
-p3904
-sg16
-(lp3905
-S'Someone did ask the question, what would it be like if women ran the world and the reply was there would be no more war, just lots of jealous countries refusing to speak to one another.'
-p3906
-asa(dp3907
-g8
 (lp3908
-S'Okay, can you rise?'
-p3909
-aS'And make this a -- give us a finish here.'
-p3910
-aS'Because you might be ourlast question.'
+g3906
+asa(dp3909
+g8
+(lp3910
+S'Someone did ask the question, what would it be like if women ran the world and thereply was there would be no more war, just lots of jealous countries refusing to speak toone another.'
 p3911
 asg11
-S'JOHN DONVAN'
+S'CHRISTINA HOFF SOMMERS'
 p3912
 sg16
 (lp3913
-S'Okay, can you rise?'
+S'Someone did ask the question, what would it be like if women ran the world and the reply was there would be no more war, just lots of jealous countries refusing to speak to one another.'
 p3914
-aS'And make this a -- give us a finish here.'
-p3915
-aS'Because you might be our last question.'
-p3916
-asg18
-(dp3917
-S'20:21:21'
-p3918
-I2
-ssa(dp3919
+asa(dp3915
 g8
-(lp3920
-S"Although it's true that women have been earning more bachelor's degrees, howsignificant of a point is that when women are still doing two thirds of the work in theworld and earning 10 percent of the income and owning less than one percent of theproperty?"
-p3921
-aS"And that's directed towards Hanna and Dan."
-p3922
-asg11
-S'FEMALE SPEAKER'
-p3923
-sg13
-(dp3924
-I4
-S'58'
-p3925
-ssg16
-(lp3926
-S"Although it's true that women have been earning more bachelor's degrees, how significant of a point is that when women are still doing two thirds of the work in the world and earning 10 percent of the income and owning less than one percent of the property?"
-p3927
-aS"And that's directed towards Hanna and Dan."
-p3928
-asa(dp3929
-g22
-(dp3930
-I1
-S'[laughter]'
-p3931
-ssg8
-(lp3932
-S"Okay, again, it's not on our topic about men.Somebody, hear me, hear me."
-p3933
-aS'You got it?'
-p3934
-aS'[[laughter]] '
-p3935
+(lp3916
+S'Okay, can you rise?'
+p3917
+aS'And make this a -- give us a finish here.'
+p3918
+aS'Because you might be ourlast question.'
+p3919
 asg11
 S'JOHN DONVAN'
-p3936
+p3920
 sg16
-(lp3937
-S"Okay, again, it's not on our topic about men."
-p3938
-aS'Somebody, hear me, hear me.'
-p3939
-aS'You got it?'
-p3940
-asa(dp3941
+(lp3921
+S'Okay, can you rise?'
+p3922
+aS'And make this a -- give us a finish here.'
+p3923
+aS'Because you might be our last question.'
+p3924
+asg18
+(dp3925
+S'20:21:21'
+p3926
+I2
+ssa(dp3927
 g8
-(lp3942
-S'Men are not finished.'
+(lp3928
+S"Although it's true that women have been earning more bachelor's degrees, howsignificant of a point is that when women are still doing two thirds of the work in theworld and earning 10 percent of the income and owning less than one percent of theproperty?"
+p3929
+aS"And that's directed towards Hanna and Dan."
+p3930
+asg11
+S'FEMALE SPEAKER'
+p3931
+sg13
+(dp3932
+I4
+S'58'
+p3933
+ssg16
+(lp3934
+S"Although it's true that women have been earning more bachelor's degrees, how significant of a point is that when women are still doing two thirds of the work in the world and earning 10 percent of the income and owning less than one percent of the property?"
+p3935
+aS"And that's directed towards Hanna and Dan."
+p3936
+asa(dp3937
+g22
+(dp3938
+I1
+S'[laughter]'
+p3939
+ssg8
+(lp3940
+S"Okay, again, it's not on our topic about men.Somebody, hear me, hear me."
+p3941
+aS'You got it?'
+p3942
+aS'[[laughter]] '
 p3943
 asg11
-S'MALE SPEAKER'
+S'JOHN DONVAN'
 p3944
 sg16
 (lp3945
-g3943
-asa(dp3946
-g8
-(lp3947
-S'You got it?'
+S"Okay, again, it's not on our topic about men."
+p3946
+aS'Somebody, hear me, hear me.'
+p3947
+aS'You got it?'
 p3948
-asg11
-S'JOHN DONVAN'
-p3949
-sg16
-(lp3950
-g3948
-asa(dp3951
+asa(dp3949
 g8
-(lp3952
-S'Hello?'
-p3953
+(lp3950
+S'Men are not finished.'
+p3951
 asg11
 S'MALE SPEAKER'
-p3954
+p3952
 sg16
+(lp3953
+g3951
+asa(dp3954
+g8
 (lp3955
-g3953
-asa(dp3956
+S'You got it?'
+p3956
+asg11
+S'JOHN DONVAN'
+p3957
+sg16
+(lp3958
+g3956
+asa(dp3959
+g8
+(lp3960
+S'Hello?'
+p3961
+asg11
+S'MALE SPEAKER'
+p3962
+sg16
+(lp3963
+g3961
+asa(dp3964
 g22
-(dp3957
+(dp3965
 I1
 S'[laughter]'
-p3958
+p3966
 ssg8
-(lp3959
+(lp3967
 S"Front row, sorry, please, don't make me regret choosing you."
-p3960
+p3968
 asg11
 S'JOHN DONVAN'
-p3961
+p3969
 sg16
-(lp3962
-g3960
-asa(dp3963
+(lp3970
+g3968
+asa(dp3971
 g8
-(lp3964
+(lp3972
 S"I'm a do you proud, I'm a do you proud."
-p3965
+p3973
 aS'My question is for Christina.'
-p3966
+p3974
 aS"You werespeaking earlier about how in elementary school it's designed against boys."
-p3967
-asg11
-S'MALE SPEAKER'
-p3968
-sg16
-(lp3969
-S"I'm a do you proud, I'm a do you proud."
-p3970
-aS'My question is for Christina.'
-p3971
-aS"You were speaking earlier about how in elementary school it's designed against boys."
-p3972
-asa(dp3973
-g8
-(lp3974
-S'Sometimes, yes, very often.'
 p3975
 asg11
-S'CHRISTINA HOFF SOMMERS'
+S'MALE SPEAKER'
 p3976
 sg16
 (lp3977
-g3975
-asg18
-(dp3978
-S'20:22:16'
+S"I'm a do you proud, I'm a do you proud."
+p3978
+aS'My question is for Christina.'
 p3979
-I1
-ssa(dp3980
+aS"You were speaking earlier about how in elementary school it's designed against boys."
+p3980
+asa(dp3981
 g8
-(lp3981
-S'Well, you were emphasizing how dire it was that we have to change that and we have tohelp boys.'
-p3982
-asg11
-S'MALE SPEAKER'
+(lp3982
+S'Sometimes, yes, very often.'
 p3983
-sg16
-(lp3984
-S'Well, you were emphasizing how dire it was that we have to change that and we have to help boys.'
-p3985
-asa(dp3986
-g8
-(lp3987
-S'Right.'
-p3988
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p3989
+p3984
 sg16
-(lp3990
-g3988
-asa(dp3991
+(lp3985
+g3983
+asg18
+(dp3986
+S'20:22:16'
+p3987
+I1
+ssa(dp3988
 g8
-(lp3992
-S"In doing so, are you conceding that if something doesn't change, then men are finished?"
-p3993
+(lp3989
+S'Well, you were emphasizing how dire it was that we have to change that and we have tohelp boys.'
+p3990
 asg11
 S'MALE SPEAKER'
-p3994
+p3991
 sg16
-(lp3995
-g3993
-asa(dp3996
+(lp3992
+S'Well, you were emphasizing how dire it was that we have to change that and we have to help boys.'
+p3993
+asa(dp3994
 g8
-(lp3997
+(lp3995
+S'Right.'
+p3996
+asg11
+S'CHRISTINA HOFF SOMMERS'
+p3997
+sg16
+(lp3998
+g3996
+asa(dp3999
+g8
+(lp4000
+S"In doing so, are you conceding that if something doesn't change, then men are finished?"
+p4001
+asg11
+S'MALE SPEAKER'
+p4002
+sg16
+(lp4003
+g4001
+asa(dp4004
+g8
+(lp4005
 S'Yes.'
-p3998
+p4006
 asg11
 S'HANNA ROSIN'
-p3999
+p4007
 sg16
-(lp4000
-g3998
-asa(dp4001
+(lp4008
+g4006
+asa(dp4009
 g8
-(lp4002
+(lp4010
 S'Christina, take that question.'
-p4003
+p4011
 asg11
 S'JOHN DONVAN'
-p4004
+p4012
 sg13
-(dp4005
+(dp4013
 I0
 S'59'
-p4006
+p4014
 ssg16
-(lp4007
-g4003
-asa(dp4008
+(lp4015
+g4011
+asa(dp4016
 g22
-(dp4009
+(dp4017
 I2
 S'[laughter]'
-p4010
-ssg8
-(lp4011
-S"First of all, men -- that's ridiculous, men are not finished."
-p4012
-aS'And thats why you shouldvote against the proposition.'
-p4013
-aS'No, but --No, what Im saying is we have set up an obstacle course for young men that makes it -- [[laughter]] and were doing a much better job educating young women, supporting young women,encouraging young women.'
-p4014
-aS'There is -- every scintilla of evidence suggests it.'
-p4015
-aS'So whatwe have to do is find a way and, yes, it goes back to the elementary school classroomwhere we have to support boys.'
-p4016
-aS'Now am I saying that means men are finished?'
-p4017
-aS'No, Idont see how you hear that.'
 p4018
-aS'Im saying weve set up handicaps.'
-p4019
-aS'Weve set upobstacles.'
+ssg8
+(lp4019
+S"First of all, men -- that's ridiculous, men are not finished."
 p4020
+aS'And thats why you shouldvote against the proposition.'
+p4021
+aS'No, but --No, what Im saying is we have set up an obstacle course for young men that makes it -- [[laughter]] and were doing a much better job educating young women, supporting young women,encouraging young women.'
+p4022
+aS'There is -- every scintilla of evidence suggests it.'
+p4023
+aS'So whatwe have to do is find a way and, yes, it goes back to the elementary school classroomwhere we have to support boys.'
+p4024
+aS'Now am I saying that means men are finished?'
+p4025
+aS'No, Idont see how you hear that.'
+p4026
+aS'Im saying weve set up handicaps.'
+p4027
+aS'Weve set upobstacles.'
+p4028
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p4021
-sg16
-(lp4022
-S"First of all, men -- that's ridiculous, men are not finished."
-p4023
-aS'And thats why you should vote against the proposition.'
-p4024
-aS'No, but -- No, what Im saying is we have set up an obstacle course for young men that makes it -- and were doing a much better job educating young women, supporting young women, encouraging young women.'
-p4025
-aS'There is -- every scintilla of evidence suggests it.'
-p4026
-aS'So what we have to do is find a way and, yes, it goes back to the elementary school classroom where we have to support boys.'
-p4027
-aS'Now am I saying that means men are finished?'
-p4028
-aS'No, I dont see how you hear that.'
 p4029
-aS'Im saying weve set up handicaps.'
-p4030
-aS'Weve set up obstacles.'
+sg16
+(lp4030
+S"First of all, men -- that's ridiculous, men are not finished."
 p4031
-asa(dp4032
-g8
-(lp4033
-S'Yes, and unless we change and get rid of those handicaps, men are finished.'
+aS'And thats why you should vote against the proposition.'
+p4032
+aS'No, but -- No, what Im saying is we have set up an obstacle course for young men that makes it -- and were doing a much better job educating young women, supporting young women, encouraging young women.'
+p4033
+aS'There is -- every scintilla of evidence suggests it.'
 p4034
+aS'So what we have to do is find a way and, yes, it goes back to the elementary school classroom where we have to support boys.'
+p4035
+aS'Now am I saying that means men are finished?'
+p4036
+aS'No, I dont see how you hear that.'
+p4037
+aS'Im saying weve set up handicaps.'
+p4038
+aS'Weve set up obstacles.'
+p4039
+asa(dp4040
+g8
+(lp4041
+S'Yes, and unless we change and get rid of those handicaps, men are finished.'
+p4042
 asg11
 S'MALE SPEAKER'
-p4035
+p4043
 sg16
-(lp4036
-g4034
-asa(dp4037
+(lp4044
+g4042
+asa(dp4045
 g8
-(lp4038
+(lp4046
 S'No, false.'
-p4039
+p4047
 aS'Wrong, illogical.'
-p4040
+p4048
 aS'Ill give you one statistic, patents.'
-p4041
+p4049
 asg11
 S'CHRISTINA HOFF SOMMERS'
-p4042
+p4050
 sg16
-(lp4043
+(lp4051
 S'No, false.'
-p4044
+p4052
 aS'Wrong, illogical.'
-p4045
+p4053
 aS'Ill give you one statistic, patents.'
-p4046
-asa(dp4047
+p4054
+asa(dp4055
 g22
-(dp4048
+(dp4056
 I1
 S'[laughter]'
-p4049
+p4057
 ssg8
-(lp4050
+(lp4058
 S'Ive got to get my brother to sit down.'
-p4051
+p4059
 asg11
 S'DAN ABRAMS'
-p4052
+p4060
 sg16
-(lp4053
-g4051
+(lp4061
+g4059
 asg18
-(dp4054
+(dp4062
 S'20:23:17'
-p4055
+p4063
 I1
-ssa(dp4056
+ssa(dp4064
 g22
-(dp4057
+(dp4065
 I1
 S'[applause]'
-p4058
+p4066
 sI11
 S'[applause]'
-p4059
-ssg8
-(lp4060
-S'Ladies and gentlemen, ladies and gentlemen, that concludes round two of thisAnd heres where we are.'
-p4061
-aS'We are about to hear closing statements from each debater [[applause]] in turn.'
-p4062
-aS'They will be two minute each.'
-p4063
-aS'And remember how you voted before thedebate.'
-p4064
-aS'Right after these closing statements, were going to ask you once again to vote.And the team that has changed your minds -- most of your minds in the course of thisdebate -- Im going to say that again.'
-p4065
-aS'And the team that has most of your minds in thecourse of the debate will be declared our winner.'
-p4066
-aS'So, onto round three, closingstatements.'
 p4067
-aS'Our motion is this, "Men are finished.'
-p4068
-aS'" And here to summarize his positionagain, her position -- and here to summarize her position against the motion, ChristinaHoff Sommers, resident scholar at the American Enterprise Institute and author of TheWar Against Boys.'
+ssg8
+(lp4068
+S'Ladies and gentlemen, ladies and gentlemen, that concludes round two of thisAnd heres where we are.'
 p4069
+aS'We are about to hear closing statements from each debater [[applause]] in turn.'
+p4070
+aS'They will be two minute each.'
+p4071
+aS'And remember how you voted before thedebate.'
+p4072
+aS'Right after these closing statements, were going to ask you once again to vote.And the team that has changed your minds -- most of your minds in the course of thisdebate -- Im going to say that again.'
+p4073
+aS'And the team that has most of your minds in thecourse of the debate will be declared our winner.'
+p4074
+aS'So, onto round three, closingstatements.'
+p4075
+aS'Our motion is this, "Men are finished.'
+p4076
+aS'" And here to summarize his positionagain, her position -- and here to summarize her position against the motion, ChristinaHoff Sommers, resident scholar at the American Enterprise Institute and author of TheWar Against Boys.'
+p4077
 asg11
 S'JOHN DONVAN'
-p4070
+p4078
 sg13
-(dp4071
+(dp4079
 I5
 S'60'
-p4072
-ssg16
-(lp4073
-S'Ladies and gentlemen, ladies and gentlemen, that concludes round two of this And heres where we are.'
-p4074
-aS'We are about to hear closing statements from each debater in turn.'
-p4075
-aS'They will be two minute each.'
-p4076
-aS'And remember how you voted before the debate.'
-p4077
-aS'Right after these closing statements, were going to ask you once again to vote.'
-p4078
-aS'And the team that has changed your minds -- most of your minds in the course of this debate -- Im going to say that again.'
-p4079
-aS'And the team that has most of your minds in the course of the debate will be declared our winner.'
 p4080
-aS'So, onto round three, closing statements.'
-p4081
-aS'Our motion is this, "Men are finished.'
+ssg16
+(lp4081
+S'Ladies and gentlemen, ladies and gentlemen, that concludes round two of this And heres where we are.'
 p4082
-aS'" And here to summarize his position again, her position -- and here to summarize her position against the motion, Christina Hoff Sommers, resident scholar at the American Enterprise Institute and author of The War Against Boys.'
+aS'We are about to hear closing statements from each debater in turn.'
 p4083
-asa(dp4084
+aS'They will be two minute each.'
+p4084
+aS'And remember how you voted before the debate.'
+p4085
+aS'Right after these closing statements, were going to ask you once again to vote.'
+p4086
+aS'And the team that has changed your minds -- most of your minds in the course of this debate -- Im going to say that again.'
+p4087
+aS'And the team that has most of your minds in the course of the debate will be declared our winner.'
+p4088
+aS'So, onto round three, closing statements.'
+p4089
+aS'Our motion is this, "Men are finished.'
+p4090
+aS'" And here to summarize his position again, her position -- and here to summarize her position against the motion, Christina Hoff Sommers, resident scholar at the American Enterprise Institute and author of The War Against Boys.'
+p4091
+asa(dp4092
 g22
-(dp4085
+(dp4093
 I17
 S'[laughter]'
-p4086
+p4094
 ssg11
 S'CHRISTINA HOFF SOMMERS'
-p4087
-sg16
-(lp4088
-S'I urge you to vote against this proposition for three reasons.'
-p4089
-aS'Number one, its false.'
-p4090
-aS'Okay, women are not replacing men.'
-p4091
-aS'Women are not becoming the first sex.'
-p4092
-aS'Women are becoming partners with men.'
-p4093
-aS'Men continue to do most of the arduous and dangerous work, and they are the primary risk-takers and innovators.'
-p4094
-aS'Society is driven by what the classical economist Joseph Schumpeter called the gale of creative destruction.'
 p4095
-aS'Women can cause such gales, but it has always been a masculine specialty, and there is zero evidence that that is changing.'
-p4096
-aS'Now as I said in my earlier remarks, men have been doing less well in the classroom, but this does not herald the end of men.'
+sg16
+(lp4096
+S'I urge you to vote against this proposition for three reasons.'
 p4097
-aS'Rather, it means that we have to find ways of making our schools more effective for male students.'
+aS'Number one, its false.'
 p4098
-aS'Reason two you should oppose this proposition: Its chauvinistic.'
+aS'Okay, women are not replacing men.'
 p4099
-aS'As I said, in the old days, we had female supremacy.'
+aS'Women are not becoming the first sex.'
 p4100
-aS'Its been replaced by this variety of women are wonderful phenomenon.'
+aS'Women are becoming partners with men.'
 p4101
-aS'The battle days of male supremacy are now followed by this female chauvinism.'
+aS'Men continue to do most of the arduous and dangerous work, and they are the primary risk-takers and innovators.'
 p4102
-aS'So, I believe that an act in favor of this proposition is a vote for chauvinism.'
+aS'Society is driven by what the classical economist Joseph Schumpeter called the gale of creative destruction.'
 p4103
-aS'Third and most important, the sexes need each other.'
+aS'Women can cause such gales, but it has always been a masculine specialty, and there is zero evidence that that is changing.'
 p4104
-aS'They complement each other.'
+aS'Now as I said in my earlier remarks, men have been doing less well in the classroom, but this does not herald the end of men.'
 p4105
-aS'They have been known to love one another.'
+aS'Rather, it means that we have to find ways of making our schools more effective for male students.'
 p4106
-aS'As Henry Kissinger once said, No one will ever win the war between the sexes.'
+aS'Reason two you should oppose this proposition: Its chauvinistic.'
 p4107
-aS'Theres just too much fraternizing with the enemy.'
+aS'As I said, in the old days, we had female supremacy.'
 p4108
-aS'Now women and men do not succeed at one anothers expense.'
+aS'Its been replaced by this variety of women are wonderful phenomenon.'
 p4109
-aS'Were on the same team.'
+aS'The battle days of male supremacy are now followed by this female chauvinism.'
 p4110
-aS'Were co-dependent.'
+aS'So, I believe that an act in favor of this proposition is a vote for chauvinism.'
 p4111
-aS'That was true on the African Savanna 100,000 years ago.'
+aS'Third and most important, the sexes need each other.'
 p4112
-aS'It has been true ever since.'
+aS'They complement each other.'
 p4113
-aS'Its true in 21st century America.'
+aS'They have been known to love one another.'
 p4114
-aS'You can certainly find times when one sex has acquitted itself better than the other, but you will never find examples of one sex becoming irrelevant.'
+aS'As Henry Kissinger once said, No one will ever win the war between the sexes.'
 p4115
-aS'Such a development is beyond anything in human experience.'
+aS'Theres just too much fraternizing with the enemy.'
 p4116
-aS'I urge you to vote in favor of reality.'
+aS'Now women and men do not succeed at one anothers expense.'
 p4117
-aS'Thank you.'
+aS'Were on the same team.'
 p4118
-asg18
-(dp4119
-S'20:25:17'
+aS'Were co-dependent.'
+p4119
+aS'That was true on the African Savanna 100,000 years ago.'
 p4120
+aS'It has been true ever since.'
+p4121
+aS'Its true in 21st century America.'
+p4122
+aS'You can certainly find times when one sex has acquitted itself better than the other, but you will never find examples of one sex becoming irrelevant.'
+p4123
+aS'Such a development is beyond anything in human experience.'
+p4124
+aS'I urge you to vote in favor of reality.'
+p4125
+aS'Thank you.'
+p4126
+asg18
+(dp4127
+S'20:25:17'
+p4128
 I12
 sS'20:26:21'
-p4121
+p4129
 I23
 sS'20:24:18'
-p4122
+p4130
 I1
 ssg8
-(lp4123
+(lp4131
 S'I urge you to vote against this proposition for three reasons.Number one, its false.'
-p4124
-aS'Okay, women are not replacing men.'
-p4125
-aS'Women are not becomingthe first sex.'
-p4126
-aS'Women are becoming partners with men.'
-p4127
-aS'Men continue to do most of thearduous and dangerous work, and they are the primary risk-takers and innovators.Society is driven by what the classical economist Joseph Schumpeter called the gale ofcreative destruction.'
-p4128
-aS'Women can cause such gales, but it has always been a masculinespecialty, and there is zero evidence that that is changing.Now as I said in my earlier remarks, men have been doing less well in the classroom, butthis does not herald the end of men.'
-p4129
-aS'Rather, it means that we have to find ways ofmaking our schools more effective for male students.'
-p4130
-aS'Reason two you should opposethis proposition: Its chauvinistic.'
-p4131
-aS'As I said, in the old days, we had female supremacy.Its been replaced by this variety of women are wonderful phenomenon.The battle days of male supremacy are now followed by this female chauvinism.'
 p4132
-aS'So, Ibelieve that an act in favor of this proposition is a vote for chauvinism.'
+aS'Okay, women are not replacing men.'
 p4133
-aS'Third and mostimportant, the sexes need each other.'
+aS'Women are not becomingthe first sex.'
 p4134
-aS'They complement each other.'
+aS'Women are becoming partners with men.'
 p4135
-aS'They have beenknown to love one another.'
+aS'Men continue to do most of thearduous and dangerous work, and they are the primary risk-takers and innovators.Society is driven by what the classical economist Joseph Schumpeter called the gale ofcreative destruction.'
 p4136
-aS'As Henry Kissinger once said, No one will ever win the warbetween the sexes.'
+aS'Women can cause such gales, but it has always been a masculinespecialty, and there is zero evidence that that is changing.Now as I said in my earlier remarks, men have been doing less well in the classroom, butthis does not herald the end of men.'
 p4137
-aS'Theres just too much fraternizing with the enemy.Now women and men do not succeed at one anothers expense.'
+aS'Rather, it means that we have to find ways ofmaking our schools more effective for male students.'
 p4138
-aS'Were on the same [[laughter]] team.'
+aS'Reason two you should opposethis proposition: Its chauvinistic.'
 p4139
-aS'Were co-dependent.'
+aS'As I said, in the old days, we had female supremacy.Its been replaced by this variety of women are wonderful phenomenon.The battle days of male supremacy are now followed by this female chauvinism.'
 p4140
-aS'That was true on the African Savanna 100,000 years ago.'
+aS'So, Ibelieve that an act in favor of this proposition is a vote for chauvinism.'
 p4141
-aS'Ithas been true ever since.'
+aS'Third and mostimportant, the sexes need each other.'
 p4142
-aS'Its true in 21st century America.'
+aS'They complement each other.'
 p4143
-aS'You can certainly find timeswhen one sex has acquitted itself better than the other, but you will never findexamples of one sex becoming irrelevant.'
+aS'They have beenknown to love one another.'
 p4144
-aS'Such a development is beyond anything inhuman experience.'
+aS'As Henry Kissinger once said, No one will ever win the warbetween the sexes.'
 p4145
-aS'I urge you to vote in favor of reality.'
+aS'Theres just too much fraternizing with the enemy.Now women and men do not succeed at one anothers expense.'
 p4146
-aS'Thank you.'
+aS'Were on the same [[laughter]] team.'
 p4147
+aS'Were co-dependent.'
+p4148
+aS'That was true on the African Savanna 100,000 years ago.'
+p4149
+aS'Ithas been true ever since.'
+p4150
+aS'Its true in 21st century America.'
+p4151
+aS'You can certainly find timeswhen one sex has acquitted itself better than the other, but you will never findexamples of one sex becoming irrelevant.'
+p4152
+aS'Such a development is beyond anything inhuman experience.'
+p4153
+aS'I urge you to vote in favor of reality.'
+p4154
+aS'Thank you.'
+p4155
 asg13
-(dp4148
+(dp4156
 I23
 S'61'
-p4149
-ssa(dp4150
+p4157
+ssa(dp4158
 g22
-(dp4151
+(dp4159
 I1
 S'[applause]'
-p4152
+p4160
 sI3
 S'[applause]'
-p4153
+p4161
 ssg8
-(lp4154
+(lp4162
 S'Thank you, Christina Hoff Sommers.Our motion is "Men are finished," and here to summarize her position in support of this [[applause]] motion, Hanna Rosin, an award-winning journalist for Slate and The Atlantic.'
-p4155
+p4163
 asg11
 S'JOHN DONVAN'
-p4156
+p4164
 sg16
-(lp4157
+(lp4165
 S'Thank you, Christina Hoff Sommers.'
-p4158
+p4166
 aS'Our motion is "Men are finished," and here to summarize her position in support of this motion, Hanna Rosin, an award-winning journalist for Slate and The Atlantic.'
-p4159
-asa(dp4160
+p4167
+asa(dp4168
 g22
-(dp4161
+(dp4169
 I23
 S'[applause]'
-p4162
+p4170
 ssg11
 S'HANNA ROSIN'
-p4163
-sg16
-(lp4164
-S'Im going to start out by reading you a couple of quotes.'
-p4165
-aS'One is from a story called, The Decline of the American Male.'
-p4166
-aS'Men, this writer says, are endangered species.'
-p4167
-aS'They are expendable.'
-p4168
-aS'Another quote: Women have gained in the past century while men have fallen behind.'
-p4169
-aS'Who is this mystery author?'
-p4170
-aS'Dave Zinczenko is the mystery author who wrote this story at USA Today in 2009.'
 p4171
-aS'He keeps saying this is preposterous, this is preposterous.'
-p4172
-aS'Merely two years ago, he thought that it was true.'
+sg16
+(lp4172
+S'Im going to start out by reading you a couple of quotes.'
 p4173
-aS'Now Im going to read you another series of quotes.'
+aS'One is from a story called, The Decline of the American Male.'
 p4174
-aS'It is boys who are the second sex.'
+aS'Men, this writer says, are endangered species.'
 p4175
-aS'Its a bad time to be a boy in America.'
+aS'They are expendable.'
 p4176
-aS'The research -- listen to this closely -- commonly cited to support claims of male privilege and male sinfulness is riddled with errors.'
+aS'Another quote: Women have gained in the past century while men have fallen behind.'
 p4177
-aS'Who is the mystery author of this article?'
+aS'Who is this mystery author?'
 p4178
-aS'Christina Hoff Sommers, whos also saying that this is all very preposterous.'
+aS'Dave Zinczenko is the mystery author who wrote this story at USA Today in 2009.'
 p4179
-aS'So, as you can see, its not that preposterous.'
+aS'He keeps saying this is preposterous, this is preposterous.'
 p4180
-aS'We can all see the writing on the walls.'
+aS'Merely two years ago, he thought that it was true.'
 p4181
-aS'They keep talking about how men are still running the country.'
+aS'Now Im going to read you another series of quotes.'
 p4182
-aS'Men are still doing this, men are still doing that.'
+aS'It is boys who are the second sex.'
 p4183
-aS"But that's not interesting."
+aS'Its a bad time to be a boy in America.'
 p4184
-aS'That just shows a lack of imagination.'
+aS'The research -- listen to this closely -- commonly cited to support claims of male privilege and male sinfulness is riddled with errors.'
 p4185
-aS'As we said, this "Men are finished" proposition, you literally have to think of it as graffiti, as the writing on the wall pointing to an inevitable future.'
+aS'Who is the mystery author of this article?'
 p4186
-aS'All the signs are there.'
+aS'Christina Hoff Sommers, whos also saying that this is all very preposterous.'
 p4187
-aS'So -- and then the final thing I want to say is, Christina says this is a vote for chauvinism, that "Men are finished" is a vote for chauvinism.'
+aS'So, as you can see, its not that preposterous.'
 p4188
-aS"Don't think of it that way."
+aS'We can all see the writing on the walls.'
 p4189
-aS"You're actually doing a public service to men if you vote for our team because I think if we finally acknowledge that this is a problem and that men are finished and that they need our help, and they might even need some affirmative action, then maybe we would behave the right way, and we would help the men who desperately need our help."
+aS'They keep talking about how men are still running the country.'
 p4190
-aS'So remember, vote for men are finished.'
+aS'Men are still doing this, men are still doing that.'
 p4191
-aS'"'
+aS"But that's not interesting."
 p4192
-asg18
-(dp4193
-S'20:27:22'
+aS'That just shows a lack of imagination.'
+p4193
+aS'As we said, this "Men are finished" proposition, you literally have to think of it as graffiti, as the writing on the wall pointing to an inevitable future.'
 p4194
+aS'All the signs are there.'
+p4195
+aS'So -- and then the final thing I want to say is, Christina says this is a vote for chauvinism, that "Men are finished" is a vote for chauvinism.'
+p4196
+aS"Don't think of it that way."
+p4197
+aS"You're actually doing a public service to men if you vote for our team because I think if we finally acknowledge that this is a problem and that men are finished and that they need our help, and they might even need some affirmative action, then maybe we would behave the right way, and we would help the men who desperately need our help."
+p4198
+aS'So remember, vote for men are finished.'
+p4199
+aS'"'
+p4200
+asg18
+(dp4201
+S'20:27:22'
+p4202
 I9
 sS'20:28:23'
-p4195
+p4203
 I23
 ssg8
-(lp4196
+(lp4204
 S'Im going to start out by reading you a couple of quotes.'
-p4197
-aS'One is from a story called, TheDecline of the American Male.'
-p4198
-aS'Men, this writer says, are endangered species.'
-p4199
-aS'Theyare expendable.'
-p4200
-aS'Another quote: Women have gained in the past century while menhave fallen behind.'
-p4201
-aS'Who is this mystery author?'
-p4202
-aS'Dave Zinczenko is the mystery authorwho wrote this story at USA Today in 2009.'
-p4203
-aS'He keeps saying this is preposterous, this ispreposterous.'
-p4204
-aS'Merely two years ago, he thought that it was true.'
 p4205
-aS'Now Im going toread you another series of quotes.'
+aS'One is from a story called, TheDecline of the American Male.'
 p4206
-aS'It is boys who are the second sex.'
+aS'Men, this writer says, are endangered species.'
 p4207
-aS'Its a bad time tobe a boy in America.'
+aS'Theyare expendable.'
 p4208
-aS'The research -- listen to this closely -- commonly cited to supportclaims of male privilege and male sinfulness is riddled with errors.Who is the mystery author of this article?'
+aS'Another quote: Women have gained in the past century while menhave fallen behind.'
 p4209
-aS'Christina Hoff Sommers, whos also sayingthat this is all very preposterous.'
+aS'Who is this mystery author?'
 p4210
-aS'So, as you can see, its not that preposterous.'
+aS'Dave Zinczenko is the mystery authorwho wrote this story at USA Today in 2009.'
 p4211
-aS'We canall see the writing on the walls.'
+aS'He keeps saying this is preposterous, this ispreposterous.'
 p4212
-aS'They keep talking about how men are still running thecountry.'
+aS'Merely two years ago, he thought that it was true.'
 p4213
-aS'Men are still doing this, men are still doing that.'
+aS'Now Im going toread you another series of quotes.'
 p4214
-aS"But that's not interesting.That just shows a lack of imagination."
+aS'It is boys who are the second sex.'
 p4215
-aS'As we said, this "Men are finished" proposition,you literally have to think of it as graffiti, as the writing on the wall pointing to aninevitable future.'
+aS'Its a bad time tobe a boy in America.'
 p4216
-aS'All the signs are there.So -- and then the final thing I want to say is, Christina says this is a vote for chauvinism,that "Men are finished" is a vote for chauvinism.'
+aS'The research -- listen to this closely -- commonly cited to supportclaims of male privilege and male sinfulness is riddled with errors.Who is the mystery author of this article?'
 p4217
-aS"Don't think of it that way."
+aS'Christina Hoff Sommers, whos also sayingthat this is all very preposterous.'
 p4218
-aS"You'reactually doing a public service to men if you vote for our team because I think if wefinally acknowledge that this is a problem and that men are finished and that they needour help, and they might even need some affirmative action, then maybe we wouldbehave the right way, and we would help the men who desperately need our help."
+aS'So, as you can see, its not that preposterous.'
 p4219
-aS'Soremember, vote for men are finished.'
+aS'We canall see the writing on the walls.'
 p4220
-ag4192
+aS'They keep talking about how men are still running thecountry.'
+p4221
+aS'Men are still doing this, men are still doing that.'
+p4222
+aS"But that's not interesting.That just shows a lack of imagination."
+p4223
+aS'As we said, this "Men are finished" proposition,you literally have to think of it as graffiti, as the writing on the wall pointing to aninevitable future.'
+p4224
+aS'All the signs are there.So -- and then the final thing I want to say is, Christina says this is a vote for chauvinism,that "Men are finished" is a vote for chauvinism.'
+p4225
+aS"Don't think of it that way."
+p4226
+aS"You'reactually doing a public service to men if you vote for our team because I think if wefinally acknowledge that this is a problem and that men are finished and that they needour help, and they might even need some affirmative action, then maybe we wouldbehave the right way, and we would help the men who desperately need our help."
+p4227
+aS'Soremember, vote for men are finished.'
+p4228
+ag4200
 asg13
-(dp4221
+(dp4229
 I23
 S'62'
-p4222
-ssa(dp4223
+p4230
+ssa(dp4231
 g22
-(dp4224
+(dp4232
 I3
 S'[applause]'
-p4225
+p4233
 ssg8
-(lp4226
+(lp4234
 S'Thank you, Hanna Rosin.'
-p4227
+p4235
 aS'Our motion is "Men are finished.'
-p4228
+p4236
 aS'" And here to summarize hisposition against the motion, David Zinczenko, executive vice president and editor inchief of Men\'s Health magazine.'
-p4229
+p4237
 asg11
 S'JOHN DONVAN'
-p4230
-sg16
-(lp4231
-S'Thank you, Hanna Rosin.'
-p4232
-aS'Our motion is "Men are finished.'
-p4233
-aS'" And here to summarize his position against the motion, David Zinczenko, executive vice president and editor in chief of Men\'s Health magazine.'
-p4234
-asa(dp4235
-g22
-(dp4236
-I7
-S'[laughter]'
-p4237
-ssg11
-S'DAVID ZINCZENKO'
 p4238
 sg16
 (lp4239
-S'Well, thank you.'
+S'Thank you, Hanna Rosin.'
 p4240
-aS'Thank you, John.'
+aS'Our motion is "Men are finished.'
 p4241
-aS'Thank you.'
+aS'" And here to summarize his position against the motion, David Zinczenko, executive vice president and editor in chief of Men\'s Health magazine.'
 p4242
-aS'Hats off to Dan and Hanna.'
-p4243
-aS'That article, by the way, was arguing for better healthcare for men.'
-p4244
-aS"There are five offices of women's health in the federal government, zero for men."
+asa(dp4243
+g22
+(dp4244
+I7
+S'[laughter]'
 p4245
-aS'That was really the context.'
+ssg11
+S'DAVID ZINCZENKO'
 p4246
-aS'Now, my opponents tonight have outlined some trends that seem to herald the final decent of the American male into a metaphorical trash heap of irrelevance and impotence.'
-p4247
-aS'They are trying to bury legions of men alive, okay?'
+sg16
+(lp4247
+S'Well, thank you.'
 p4248
-aS'You have to vote against this measure.'
+aS'Thank you, John.'
 p4249
-aS'Sure, there are some worrisome trends.'
+aS'Thank you.'
 p4250
-aS'They went through them, okay?'
+aS'Hats off to Dan and Hanna.'
 p4251
-aS'And as we all know once a trend starts, it keeps going on forever.'
+aS'That article, by the way, was arguing for better healthcare for men.'
 p4252
-aS"That's why all of our houses are worth so much more today than they were in 2007."
+aS"There are five offices of women's health in the federal government, zero for men."
 p4253
-aS'Now, in the end, there are two reasons why you must vote against this motion, because they might be wrong, but they might be right.'
+aS'That was really the context.'
 p4254
-aS'Now, the first point, consider this: Gender equality is something, we can all agree on, as an ideal.'
+aS'Now, my opponents tonight have outlined some trends that seem to herald the final decent of the American male into a metaphorical trash heap of irrelevance and impotence.'
 p4255
-aS'But if we are approaching gender equality, why are there fewer women in government today than there were ten years ago?'
+aS'They are trying to bury legions of men alive, okay?'
 p4256
-aS'Why is it so much easier for men to hold onto their gun rights than it is for women to hold onto their reproductive rights?'
-p4257
-aS"Not only aren't men finished, but women haven't even begun."
-p4258
-aS"Let's at least get to the point where the game is tied before we start writing all the men off."
-p4259
-aS"Let's imagine, though, that the trend toward greater female political social and economic power continues unabated."
-p4260
-aS"Highly unlikely because the great recession started with men and now it's starting to hit predominantly female jobs more than before."
-p4261
-aS'And the scales are tilting.'
-p4262
-aS'So the more educated independent single women there are the more wonderful the world will actually get for men, okay?'
-p4263
-aS'So regardless of whether we one day achieve gender equality, men are not finished.'
-p4264
-aS'And by the way, women are not either.'
-p4265
 aS'You have to vote against this measure.'
+p4257
+aS'Sure, there are some worrisome trends.'
+p4258
+aS'They went through them, okay?'
+p4259
+aS'And as we all know once a trend starts, it keeps going on forever.'
+p4260
+aS"That's why all of our houses are worth so much more today than they were in 2007."
+p4261
+aS'Now, in the end, there are two reasons why you must vote against this motion, because they might be wrong, but they might be right.'
+p4262
+aS'Now, the first point, consider this: Gender equality is something, we can all agree on, as an ideal.'
+p4263
+aS'But if we are approaching gender equality, why are there fewer women in government today than there were ten years ago?'
+p4264
+aS'Why is it so much easier for men to hold onto their gun rights than it is for women to hold onto their reproductive rights?'
+p4265
+aS"Not only aren't men finished, but women haven't even begun."
 p4266
-asg18
-(dp4267
-S'20:30:20'
+aS"Let's at least get to the point where the game is tied before we start writing all the men off."
+p4267
+aS"Let's imagine, though, that the trend toward greater female political social and economic power continues unabated."
 p4268
+aS"Highly unlikely because the great recession started with men and now it's starting to hit predominantly female jobs more than before."
+p4269
+aS'And the scales are tilting.'
+p4270
+aS'So the more educated independent single women there are the more wonderful the world will actually get for men, okay?'
+p4271
+aS'So regardless of whether we one day achieve gender equality, men are not finished.'
+p4272
+aS'And by the way, women are not either.'
+p4273
+aS'You have to vote against this measure.'
+p4274
+asg18
+(dp4275
+S'20:30:20'
+p4276
 I19
 sS'20:29:19'
-p4269
+p4277
 I8
 ssg8
-(lp4270
+(lp4278
 S'Well, thank you.'
-p4271
-aS'Thank you, John.'
-p4272
-aS'Thank you.'
-p4273
-aS'Hats off to Dan and Hanna.'
-p4274
-aS'That article,by the way, was arguing for better healthcare for men.'
-p4275
-aS"There are five offices ofwomen's health in the federal government, zero for men."
-p4276
-aS'That was really the context.Now, my opponents tonight have outlined some trends that seem to herald the finaldecent of the American male into a metaphorical trash heap of irrelevance andimpotence.'
-p4277
-aS'They are trying to bury legions of men alive, okay?'
-p4278
-aS'You have to vote againstthis measure.Sure, there are some worrisome trends.'
 p4279
-aS'[[laughter]] They went through them, okay?'
+aS'Thank you, John.'
 p4280
-aS'And as we all know once a trend starts, it keeps goingon forever.'
+aS'Thank you.'
 p4281
-aS"That's why all of our houses are worth so much more today than they werein 2007."
+aS'Hats off to Dan and Hanna.'
 p4282
-aS'Now, in the end, there are two reasons why you must vote against this motion,because they might be wrong, but they might be right.'
+aS'That article,by the way, was arguing for better healthcare for men.'
 p4283
-aS'Now, the first point, considerthis: Gender equality is something, we can all agree on, as an ideal.'
+aS"There are five offices ofwomen's health in the federal government, zero for men."
 p4284
-aS'But if we areapproaching gender equality, why are there fewer women in government today thanthere were ten years ago?'
+aS'That was really the context.Now, my opponents tonight have outlined some trends that seem to herald the finaldecent of the American male into a metaphorical trash heap of irrelevance andimpotence.'
 p4285
-aS'Why is it so much easier for men to hold onto their gunrights than it is for women to hold onto their reproductive rights?'
+aS'They are trying to bury legions of men alive, okay?'
 p4286
-aS"Not only aren't menfinished, but women haven't even begun."
+aS'You have to vote againstthis measure.Sure, there are some worrisome trends.'
 p4287
-aS"Let's at least get to the point where the gameis tied before we start writing all the men off."
+aS'[[laughter]] They went through them, okay?'
 p4288
-aS"Let's imagine, though, that the trendtoward greater female political social and economic power continues unabated.Highly unlikely because the great recession started with men and now it's starting to hitpredominantly female jobs more than before."
+aS'And as we all know once a trend starts, it keeps goingon forever.'
 p4289
-aS'And the scales are tilting.'
+aS"That's why all of our houses are worth so much more today than they werein 2007."
 p4290
-aS'So the moreeducated independent single women there are the more wonderful the world willactually get for men, okay?'
+aS'Now, in the end, there are two reasons why you must vote against this motion,because they might be wrong, but they might be right.'
 p4291
-aS'So regardless of whether we one day achieve genderequality, men are not finished.'
+aS'Now, the first point, considerthis: Gender equality is something, we can all agree on, as an ideal.'
 p4292
-aS'And by the way, women are not either.'
+aS'But if we areapproaching gender equality, why are there fewer women in government today thanthere were ten years ago?'
 p4293
-aS'You have tovote against this measure.'
+aS'Why is it so much easier for men to hold onto their gunrights than it is for women to hold onto their reproductive rights?'
 p4294
+aS"Not only aren't menfinished, but women haven't even begun."
+p4295
+aS"Let's at least get to the point where the gameis tied before we start writing all the men off."
+p4296
+aS"Let's imagine, though, that the trendtoward greater female political social and economic power continues unabated.Highly unlikely because the great recession started with men and now it's starting to hitpredominantly female jobs more than before."
+p4297
+aS'And the scales are tilting.'
+p4298
+aS'So the moreeducated independent single women there are the more wonderful the world willactually get for men, okay?'
+p4299
+aS'So regardless of whether we one day achieve genderequality, men are not finished.'
+p4300
+aS'And by the way, women are not either.'
+p4301
+aS'You have tovote against this measure.'
+p4302
 asg13
-(dp4295
+(dp4303
 I25
 S'63'
-p4296
-ssa(dp4297
+p4304
+ssa(dp4305
 g22
-(dp4298
+(dp4306
 I1
 S'[applause]'
-p4299
+p4307
 ssg8
-(lp4300
+(lp4308
 S'Thank you, David Zinczenko.Our motion is "Men are finished.'
-p4301
+p4309
 aS'" And here to summarize his position in support of the [[applause]] motion, Dan Abrams, chief legal analyst for ABC News, author of "Man Down.'
-p4302
-ag4192
+p4310
+ag4200
 asg11
 S'JOHN DONVAN'
-p4303
+p4311
 sg16
-(lp4304
+(lp4312
 S'Thank you, David Zinczenko.'
-p4305
+p4313
 aS'Our motion is "Men are finished.'
-p4306
+p4314
 aS'" And here to summarize his position in support of the motion, Dan Abrams, chief legal analyst for ABC News, author of "Man Down.'
-p4307
-ag4192
-asa(dp4308
+p4315
+ag4200
+asa(dp4316
 g22
-(dp4309
+(dp4317
 I10
 S'[laughter]'
-p4310
+p4318
 sI15
 S'[laughter]'
-p4311
+p4319
 ssg11
 S'DAN ABRAMS'
-p4312
-sg16
-(lp4313
-S'It seemed at times that our opponents were pleading to you as a moral matter to vote against this.'
-p4314
-aS'It would be wrong, be horrible.'
-p4315
-aS'Look what would happen?'
-p4316
-aS'You would make the guys feel bad.'
-p4317
-aS"Look, the reality is that we're not just talking about women catching up."
-p4318
-aS"We're talking about women surpassing men."
-p4319
-aS'Both Hanna and I have talked to you in depth and at length about how significantly women have not caught up but surpassed men in very significant areas in our society.'
 p4320
-aS"David mentioned before that you're not going to see jock strap protests outside."
-p4321
-aS"That's right."
+sg16
+(lp4321
+S'It seemed at times that our opponents were pleading to you as a moral matter to vote against this.'
 p4322
-aS"That's part of the problem is that men are not alarmed by the situation."
+aS'It would be wrong, be horrible.'
 p4323
-aS"And that's one of the main reasons that men are finished, is they don't seem to care."
+aS'Look what would happen?'
 p4324
-aS"They think -- they think it's cool to be a slacker."
+aS'You would make the guys feel bad.'
 p4325
-aS"It's not."
+aS"Look, the reality is that we're not just talking about women catching up."
 p4326
-aS'Dave mentioned the Chilean mines and the miners there as an effort to sort of pull at your heartstrings.'
+aS"We're talking about women surpassing men."
 p4327
-aS"There's no question that that was a heartfelt moment."
+aS'Both Hanna and I have talked to you in depth and at length about how significantly women have not caught up but surpassed men in very significant areas in our society.'
 p4328
-aS'But what if a woman had designed that mine?'
+aS"David mentioned before that you're not going to see jock strap protests outside."
 p4329
-aS"I'm guessing that we might not have ever had that sort of problem."
+aS"That's right."
 p4330
-aS'I will end with one note from my book which is that there was a study done on how long it takes men and women to get ready to leave the house.'
+aS"That's part of the problem is that men are not alarmed by the situation."
 p4331
-aS'And this study, in England, of 2,000 people showed that men take, on average, four minutes longer.'
+aS"And that's one of the main reasons that men are finished, is they don't seem to care."
 p4332
-aS'When you think about a Saturday night, no question women will take longer to get ready to leave the house.'
+aS"They think -- they think it's cool to be a slacker."
 p4333
-aS'But when you think about the realities that women face every day of bringing up children, of working a job very often, of doing all the hard work and trying to get ready to leave the house, it starts to make sense.'
+aS"It's not."
 p4334
-aS"And if that study's true, then men really are finished."
+aS'Dave mentioned the Chilean mines and the miners there as an effort to sort of pull at your heartstrings.'
 p4335
-asg18
-(dp4336
-S'20:31:20'
+aS"There's no question that that was a heartfelt moment."
+p4336
+aS'But what if a woman had designed that mine?'
 p4337
+aS"I'm guessing that we might not have ever had that sort of problem."
+p4338
+aS'I will end with one note from my book which is that there was a study done on how long it takes men and women to get ready to leave the house.'
+p4339
+aS'And this study, in England, of 2,000 people showed that men take, on average, four minutes longer.'
+p4340
+aS'When you think about a Saturday night, no question women will take longer to get ready to leave the house.'
+p4341
+aS'But when you think about the realities that women face every day of bringing up children, of working a job very often, of doing all the hard work and trying to get ready to leave the house, it starts to make sense.'
+p4342
+aS"And if that study's true, then men really are finished."
+p4343
+asg18
+(dp4344
+S'20:31:20'
+p4345
 I4
 sS'20:32:17'
-p4338
+p4346
 I13
 ssg8
-(lp4339
+(lp4347
 S'It seemed at times that our opponents were pleading to you as a moral matter to voteagainst this.'
-p4340
-aS'It would be wrong, be horrible.'
-p4341
-aS'Look what would happen?'
-p4342
-aS'You wouldmake the guys feel bad.'
-p4343
-aS"Look, the reality is that we're not just talking about womencatching up.We're talking about women surpassing men."
-p4344
-aS'Both Hanna and I have talked to you indepth and at length about how significantly women have not caught up but surpassedmen in very significant areas in our society.'
-p4345
-aS"David mentioned before that you're notgoing to see jock strap protests outside."
-p4346
-aS"That's right."
-p4347
-aS"That's part of the problem is thatmen are not alarmed by the situation."
 p4348
-aS"And that's one of the main reasons that men arefinished, is they don't seem to care.They think -- they think it's cool to be a slacker."
+aS'It would be wrong, be horrible.'
 p4349
-aS"It's not."
+aS'Look what would happen?'
 p4350
-aS'Dave mentioned the Chilean [[laughter]] mines and the miners there as an effort to sort of pull at your heartstrings.'
+aS'You wouldmake the guys feel bad.'
 p4351
-aS"There's noquestion that that was a heartfelt moment.But what if a woman had designed that mine?"
+aS"Look, the reality is that we're not just talking about womencatching up.We're talking about women surpassing men."
 p4352
-aS"I'm guessing that we might not have everhad that sort of problem.I will end with one note from my book which is that there was a study done on how long [[laughter]] it takes men and women to get ready to leave the house."
+aS'Both Hanna and I have talked to you indepth and at length about how significantly women have not caught up but surpassedmen in very significant areas in our society.'
 p4353
-aS'And this study, in England, of2,000 people showed that men take, on average, four minutes longer.'
+aS"David mentioned before that you're notgoing to see jock strap protests outside."
 p4354
-aS'When you thinkabout a Saturday night, no question women will take longer to get ready to leave thehouse.'
+aS"That's right."
 p4355
-aS'But when you think about the realities that women face every day of bringing upchildren, of working a job very often, of doing all the hard work and trying to get readyto leave the house, it starts to make sense.'
+aS"That's part of the problem is thatmen are not alarmed by the situation."
 p4356
-aS"And if that study's true, then men really arefinished."
+aS"And that's one of the main reasons that men arefinished, is they don't seem to care.They think -- they think it's cool to be a slacker."
 p4357
+aS"It's not."
+p4358
+aS'Dave mentioned the Chilean [[laughter]] mines and the miners there as an effort to sort of pull at your heartstrings.'
+p4359
+aS"There's noquestion that that was a heartfelt moment.But what if a woman had designed that mine?"
+p4360
+aS"I'm guessing that we might not have everhad that sort of problem.I will end with one note from my book which is that there was a study done on how long [[laughter]] it takes men and women to get ready to leave the house."
+p4361
+aS'And this study, in England, of2,000 people showed that men take, on average, four minutes longer.'
+p4362
+aS'When you thinkabout a Saturday night, no question women will take longer to get ready to leave thehouse.'
+p4363
+aS'But when you think about the realities that women face every day of bringing upchildren, of working a job very often, of doing all the hard work and trying to get readyto leave the house, it starts to make sense.'
+p4364
+aS"And if that study's true, then men really arefinished."
+p4365
 asg13
-(dp4358
+(dp4366
 I23
 S'64'
-p4359
-ssa(dp4360
+p4367
+ssa(dp4368
 g22
-(dp4361
+(dp4369
 I1
 S'[applause]'
-p4362
-ssg8
-(lp4363
-S'Thank you, Dan Abrams.And that concludes our closing statements.'
-p4364
-aS"And now it's time to learn which side you [[applause]] feel has argued the best."
-p4365
-aS'Remember, we\'ve asked you to vote before the debate began.We\'re going to ask you to vote "against" now judging the qualities of these arguments.You go to the keypad at your seat.'
-p4366
-aS'Our motion is this: "Men are finished.'
-p4367
-aS'" If you agreewith the motion or feel that the argument was presented best on that side, you pushnumber one.'
-p4368
-aS'If you disagree, you push number two.'
-p4369
-aS'If you remain or becameundecided, you push number three.'
 p4370
+ssg8
+(lp4371
+S'Thank you, Dan Abrams.And that concludes our closing statements.'
+p4372
+aS"And now it's time to learn which side you [[applause]] feel has argued the best."
+p4373
+aS'Remember, we\'ve asked you to vote before the debate began.We\'re going to ask you to vote "against" now judging the qualities of these arguments.You go to the keypad at your seat.'
+p4374
+aS'Our motion is this: "Men are finished.'
+p4375
+aS'" If you agreewith the motion or feel that the argument was presented best on that side, you pushnumber one.'
+p4376
+aS'If you disagree, you push number two.'
+p4377
+aS'If you remain or becameundecided, you push number three.'
+p4378
 asg11
 S'JOHN DONVAN'
-p4371
-sg16
-(lp4372
-S'Thank you, Dan Abrams.'
-p4373
-aS'And that concludes our closing statements.'
-p4374
-aS"And now it's time to learn which side you feel has argued the best."
-p4375
-aS"Remember, we've asked you to vote before the debate began."
-p4376
-aS'We\'re going to ask you to vote "against" now judging the qualities of these arguments.'
-p4377
-aS'You go to the keypad at your seat.'
-p4378
-aS'Our motion is this: "Men are finished.'
 p4379
-aS'" If you agree with the motion or feel that the argument was presented best on that side, you push number one.'
-p4380
-aS'If you disagree, you push number two.'
+sg16
+(lp4380
+S'Thank you, Dan Abrams.'
 p4381
-aS'If you remain or became undecided, you push number three.'
+aS'And that concludes our closing statements.'
 p4382
-asg18
-(dp4383
-S'20:33:16'
+aS"And now it's time to learn which side you feel has argued the best."
+p4383
+aS"Remember, we've asked you to vote before the debate began."
 p4384
+aS'We\'re going to ask you to vote "against" now judging the qualities of these arguments.'
+p4385
+aS'You go to the keypad at your seat.'
+p4386
+aS'Our motion is this: "Men are finished.'
+p4387
+aS'" If you agree with the motion or feel that the argument was presented best on that side, you push number one.'
+p4388
+aS'If you disagree, you push number two.'
+p4389
+aS'If you remain or became undecided, you push number three.'
+p4390
+asg18
+(dp4391
+S'20:33:16'
+p4392
 I3
-ssa(dp4385
+ssa(dp4393
 g22
-(dp4386
+(dp4394
 I0
 S'[inaudible]'
-p4387
+p4395
 ssg8
-(lp4388
-g3116
+(lp4396
+g1441
 asg11
 S'FEMALE SPEAKER'
-p4389
+p4397
 sg16
-(lp4390
-g3116
-asa(dp4391
+(lp4398
+g1441
+asa(dp4399
 g22
-(dp4392
+(dp4400
 I1
 S'[laughter]'
-p4393
+p4401
 ssg8
-(lp4394
+(lp4402
 S'Yes.'
-p4395
-aS'Seriously?'
-p4396
-aS"One, if you're for the motion.Two if you're against."
-p4397
-aS"They're number one."
-p4398
-aS'[[laughter]] '
-p4399
-asg11
-S'JON DONVAN'
-p4400
-sg16
-(lp4401
-S'Yes.'
-p4402
-aS'Seriously?'
 p4403
-aS"One, if you're for the motion."
+aS'Seriously?'
 p4404
-aS"Two if you're against."
+aS"One, if you're for the motion.Two if you're against."
 p4405
 aS"They're number one."
 p4406
-asa(dp4407
+aS'[[laughter]] '
+p4407
+asg11
+S'JON DONVAN'
+p4408
+sg16
+(lp4409
+S'Yes.'
+p4410
+aS'Seriously?'
+p4411
+aS"One, if you're for the motion."
+p4412
+aS"Two if you're against."
+p4413
+aS"They're number one."
+p4414
+asa(dp4415
 g8
-(lp4408
+(lp4416
 S'Were number 1, theyre number 2.'
-p4409
+p4417
 asg11
 S'HANNA ROSIN'
-p4410
+p4418
 sg16
-(lp4411
-g4409
+(lp4419
+g4417
 asasS'after'
-p4412
-(lp4413
-S'66%-FOR'
-p4414
-aS'29%-AGAINST'
-p4415
-aS'5%-UNDECIDED'
-p4416
-asS'against'
-p4417
-(lp4418
-S'CHRISTINA HOFF SOMMERS'
-p4419
-aS'DAVID ZINCZENKO'
 p4420
-asS'moderator'
-p4421
-(lp4422
-S'JOHN DONVAN'
+(lp4421
+S'66%-FOR'
+p4422
+aS'29%-AGAINST'
 p4423
-asS'date'
+aS'5%-UNDECIDED'
 p4424
-(dp4425
-S'year'
-p4426
-S'2011'
+asS'against'
+p4425
+(lp4426
+S'CHRISTINA HOFF SOMMERS'
 p4427
-sS'day'
+aS'DAVID ZINCZENKO'
 p4428
-S'20'
+asS'moderator'
 p4429
-sS'month'
-p4430
-S'September'
+(lp4430
+S'JOHN DONVAN'
 p4431
-ssS'before'
+asS'date'
 p4432
-(lp4433
-S'20%-FOR'
+(dp4433
+S'year'
 p4434
-aS'54%-AGAINST'
+S'2011'
 p4435
-aS'26%-UNDECIDED'
+sS'day'
 p4436
+S'20'
+p4437
+sS'month'
+p4438
+S'September'
+p4439
+ssS'before'
+p4440
+(lp4441
+S'20%-FOR'
+p4442
+aS'54%-AGAINST'
+p4443
+aS'26%-UNDECIDED'
+p4444
 as.

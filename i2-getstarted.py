@@ -14,7 +14,7 @@
 
 import imp
 
-mods = ['os','pprint','pickle','re']
+mods = ['os','pprint','pickle','re','numpy']
 error = []
 for m in mods:        
     try:
@@ -34,7 +34,7 @@ if (len(error)>0):
 
 """ %(",".join(error))
 else:
-    import os, pprint, pickle, re
+    import os, pprint, pickle, re, numpy
 
     debateDir = 'i2Debates'
     debateFilePattern = '.*[.]p$'
@@ -68,9 +68,27 @@ else:
         """
             correctDebates():   Feed specific instructions to adjust the debate file
             in various ways.  This function is designed to be somewhat passive.
+
+            The TITLE block simply creates a title key, the value provided by the correction
+            object.
+
+            The ROLES block adds name spellings to the roles key for the debate object.
+            This is important because for some of the debates the transcription firm
+            provides multiple spelling forms for the same participants.
+
+            The SPEAKERS block corrects name misspellings.
+
+            The SECTIONS block divides the text into debate sections based on time stamps
+            throughout the document.
+
+            Finally, the POLL results are tranformed from string to numerical values in a
+            nested dictionary.  Delta values (e.g., after - before) are offered.
         """
+            
+        ##  Process any elements from the correction dictionary
         for c in correction.keys():
             if (c == "title"):
+                print '----Title: '+correction[c]
                 obj[c] = correction[c]
             elif (c == "roles"):
                 for r in correction[c].keys():
@@ -97,8 +115,8 @@ else:
                             fTitle = correction[c][f]
                             print "%s----%s: %s (%s)" %(c, f, fTitle, fBreak)
                             if (fCurrentSection !=""):
-                                ## Remove the statements from prior section                                
-                                tLine = tLine['STATEMENT'][0:fBreak-1]
+                                ## Remove the statements from prior section
+                                tLine = l['STATEMENT'][0:int(fBreak)-1]
                                 if(len(tLine)>0):
                                     obj[c][fCurrentSection].append({'STATEMENT':tLine,
                                                                     'SPEAKER':l['SPEAKER']})
@@ -116,6 +134,29 @@ else:
                     elif ((fGoForth == True)&(fCurrentSection == "")):
                         catchAll.append({'STATEMENT':l['STATEMENT'],
                                                 'SPEAKER':l['SPEAKER']})
+
+        ##  Clean the before and after polling results and introduce the delta
+        poll_results = ['before','after']
+        poll_types = []
+        poll = {}
+        for p in poll_results:
+            if p in obj:
+                poll.setdefault(p,{})                
+                for r in obj[p]:
+                    match = re.match('^(?P<perc>[0-9.]+)[%][\s-]*(?P<type>[A-z]+)$',r)
+                    if(match):
+                        mgroup = match.groupdict()
+                        poll[p][mgroup['type'].lower()] = float(mgroup['perc'])
+                        poll_types.append(mgroup['type'].lower())
+        poll_types = list(set(poll_types))
+        poll['delta'] = {}
+        for t in poll_types:            
+            poll['delta'][t] = poll['after'][t] - poll['before'][t]
+                    
+        print '----POLL Results:'
+        pprint.pprint(poll)
+        obj['poll'] = poll
+
         return obj
 
     def speakerTurnFrequencies(debate):
@@ -165,6 +206,23 @@ else:
             ret +=len(re.sub('(\s+)','|-BJM-|',text).split("|-BJM-|"))            
         return ret
 
+    def arrayTraversal(obj,depth):
+        """
+            arrayTraversal():   Recursive function to identify the values of nested elements
+        """
+        if ((type(depth) is list):
+            first = depth[0]
+            if first in obj:
+                print obj[first]
+                depth.pop(0)
+                return arrayTraversal(obj[first],depth)
+            else:
+                print 'Error: "'+first+'" does not exist'
+        else:
+            print 'Found: '+ obj[depth]
+            return obj[depth]
+            
+
     def summarize(obj, roles, prop):
         """
             summarize():    Meant to be somewhat general purpose, takes as input the debate object
@@ -195,33 +253,9 @@ else:
                     ret[o][revRole[l['SPEAKER']]] += prop(l['STATEMENT'])
         return ret
 
-    def flatten(obj,akeys,filepath,delim):
-        """
-            flatten():  A function intended for exporting a results data object
-            into a delimited file for excel, R, Stata oriented work.
-        """
-        lines = []
-        for o in obj:
-            string = ""
-            for k in akeys:
-                string += "%s%s" %(delim,k)
-                if k in o:
-                    if (type(o[k]) is list):
-                        string += "%s%s" %(delim,delim.join(o[k]))                    
-                    elif (type(o[k]) is dict):
-                        for l in sorted(o[k].keys()):
-                            string += "%s%s" %(delim,delim.join([l,str(o[k][l])]))                    
-                    elif (type(o[k]) is str):
-                        string += "%s%s" %(delim,o[k])                    
-                else:
-                    string += "%s%s" %(delim,"")
-            string +="\n"
-            print string
-            lines.append(string)
-        f = file(filepath,'wb')
-        f.writelines(lines)
-        f.close()
-
+    def flatten(obj,variables):
+        variables ="" 
+    
 
 ###### Correction object.  This object captures specific processing
     ##  instructions for each of the debate records.  The key for the object
@@ -331,7 +365,214 @@ else:
                                     '20:17:06':'R4-Closing Statements',
                                     '20:28:02':'R5-Conclusion',
                                 }
-                        }                                                               
+                        },                                                               
+                       'i2Debates/091212superpacs.p':{
+                            'title':'Two cheers for super PACS: Money in politics is still overregulated',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:47:11':'R0-Audience Instructions',
+                                    '18:51:12':'R1-Introduction',
+                                    '18:57:10':'R2-Opening Statements',
+                                    '19:28:14':'R3-Debate',
+                                    '20:21:15':'R4-Closing Statements',
+                                    '20:31:16':'R5-Conclusion',
+                                }
+                        },                                                               
+                       'i2Debates/101012rationinghealthcare.p':{
+                            'title':'Ration end-of-life care',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '19:29:07':'R0-Audience Instructions',
+                                    '19:39:04':'R1-Introduction',
+                                    '19:45:02':'R2-Opening Statements',
+                                    '20:15:59':'R3-Debate',
+                                    '21:14:56':'R4-Closing Statements',
+                                    '21:24:06':'R5-Conclusion',
+                                }
+                        },                                                               
+                       'i2Debates/101613 big banks.p':{
+                            'title':'Break up the big banks',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:49:35':'R0-Audience Instructions',
+                                    '18:54:00':'R1-Introduction',
+                                    '19:01:04':'R2-Opening Statements',
+                                    '19:30:57':'R3-Debate',
+                                    '20:19:00':'R4-Closing Statements',
+                                    '20:27:00':'R5-Conclusion',
+                                }
+                        },                                                               
+                       'i2Debates/101813 red state.p':{
+                            'title':'For a better future, live in a red state',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '12:00:00':'R0-Audience Instructions',
+                                    '12:11:52':'R1-Introduction',
+                                    '12:16:57':'R2-Opening Statements',
+                                    '12:40:56':'R3-Debate',
+                                    '13:30:59':'R4-Closing Statements',
+                                    '13:38:02':'R5-Conclusion',
+                                }
+                        },                                                               
+                       'i2Debates/102412 taxes.p':{
+                            'title':'The rich are taxed enough',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE'],
+                                     'against':['MARK ZANDI']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'ART LAFFER':'ARTHUR LAFFER'},
+                            'sections':{
+                                    '18:52:02':'R0-Audience Instructions',
+                                    '18:56:55':'R1-Introduction',
+                                    '19:02:59':'R2-Opening Statements',
+                                    '19:32:56':'R3-Debate',
+                                    '20:28:54':'R4-Closing Statements',
+                                    '20:36:51':'R5-Conclusion',
+                                }
+                        },
+                       'i2Debates/111412 drugs.p':{
+                            'title':'Legalize drugs',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:48:51':'R0-Audience Instructions',
+                                    '18:53:11':'R1-Introduction',
+                                    '18:58:06':'R2-Opening Statements',
+                                    '19:28:57':'R3-Debate',
+                                    '20:22:00':'R4-Closing Statements',
+                                    '20:30:47':'R5-Conclusion',
+                                }
+                        },                     
+                       'i2Debates/111413 guns.p':{
+                            'title':'The constitutional right to bear arms has outlived its usefulness',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE'],
+                                     'for':['ALAN DERSHOWITZ']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'ALAN DERSHOWITZ':'ALAN DERSHOWITZ',
+                                        'EUGENE VOLOH':'EUGENE VOLOKH'},
+                            'sections':{
+                                    '18:48:32':'R0-Audience Instructions',
+                                    '18:51:59':'R1-Introduction',
+                                    '18:57:59':'R2-Opening Statements',
+                                    '19:29:58':'R3-Debate',
+                                    '20:21:08':'R4-Closing Statements',
+                                    '20:32:00':'R5-Conclusion',
+                                }
+                        },                     
+                       'i2Debates/112013 nsa.p':{
+                            'title':'Spy on me, Id rather be safe',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '17:36:03':'R0-Audience Instructions',
+                                    '17:39:07':'R1-Introduction',
+                                    '17:44:04':'R2-Opening Statements',
+                                    '18:11:05':'R3-Debate',
+                                    '18:50:05':'R4-Closing Statements',
+                                    '18:59:11':'R5-Conclusion',
+                                }
+                        },                     
+                       'i2Debates/china-transcript.p':{
+                            'title':'China does capitalism better than America',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:48:30':'R0-Audience Instructions',
+                                    '18:51:38':'R1-Introduction',
+                                    '18:58:37':'R2-Opening Statements',
+                                    '19:29:36':'R3-Debate',
+                                    '20:20:37':'R4-Closing Statements',
+                                    '20:30:36':'R5-Conclusion',
+                                }
+                        },                     
+                       'i2Debates/college.p':{
+                            'title':'Too many kids go to college',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '19:50:51':'R0-Audience Instructions',
+                                    '19:54:52':'R1-Introduction',
+                                    '19:57:54':'R2-Opening Statements',
+                                    '20:30:54':'R3-Debate',
+                                    '21:18:53':'R4-Closing Statements',
+                                    '21:27:55':'R5-Conclusion',
+                                }
+                        },                     
+                       'i2Debates/internet-politics.p':{
+                            'title':'When it comes to politics, the internet is closing our minds',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:45:42':'R0-Audience Instructions',
+                                    '18:49:43':'R1-Introduction',
+                                    '18:55:41':'R2-Opening Statements',
+                                    '19:24:48':'R3-Debate',
+                                    '20:18:47':'R4-Closing Statements',
+                                    '20:28:48':'R5-Conclusion',
+                                }
+                        },                     
+                      'i2Debates/men-are-finished.p':{
+                            'title':'Men are finished',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN',
+                                        'MALE ZINCZENKO':'DAVID ZINCZENKO'},
+                            'sections':{
+                                    '18:47:18':'R0-Audience Instructions',
+                                    '18:50:17':'R1-Introduction',
+                                    '18:52:16':'R2-Opening Statements',
+                                    '19:25:16':'R3-Debate',
+                                    '20:23:17':'R4-Closing Statements',
+                                    '20:33:16':'R5-Conclusion',
+                                }
+                        },                     
+                      'i2Debates/obama-jobs-act.p':{
+                            'title':'Congress should pass Obamas jobs act - piece by piece',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE'],
+                                     'for':['MARK ZANDI']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN',
+                                        'MARK Z':'MARK ZANDI'},
+                            'sections':{
+                                    '18:44:53':'R0-Audience Instructions',
+                                    '18:48:54':'R1-Introduction',
+                                    '18:51:57':'R2-Opening Statements',
+                                    '19:23:56':'R3-Debate',
+                                    '20:17:52':'R4-Closing Statements',
+                                    '20:27:54':'R5-Conclusion',
+                                }
+                        },                     
+                      'i2Debates/obamacare.p':{
+                            'title':'Repeal Obamacare',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:50:21':'R0-Audience Instructions',
+                                    '18:55:25':'R1-Introduction',
+                                    '18:56:20':'R2-Opening Statements',
+                                    '19:29:26':'R3-Debate',
+                                    '20:23:24':'R4-Closing Statements',
+                                    '20:33:22':'R5-Conclusion',
+                                }
+                        },                     
+                      'i2Debates/palestine.p':{
+                            'title':'The UN should admit Palestine as a full member state',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:51:41':'R0-Audience Instructions',
+                                    '18:55:44':'R1-Introduction',
+                                    '19:00:40':'R2-Opening Statements',
+                                    '19:32:42':'R3-Debate',
+                                    '20:26:42':'R4-Closing Statements',
+                                    '20:37:45':'R5-Conclusion',
+                                }
+                        }                                            
                      };
 
 
@@ -343,35 +584,32 @@ else:
 
     ## Load a debate from its pickle file and return the turn taking frequency
     ##  by role and participant
-    full=[]
+    full={}
     aKeys = []
     for d in debateFiles:
+        ## Note that not all 22 files are read, merely the ones with correction keys
+        debate = openDebate(filepath=d)
         if (d in correctionObj):
-            ## Note that not all 22 files are read, merely the ones with correction keys
-            debate = openDebate(filepath=d)
             debate = correctDebates(correction=correctionObj[d], obj=debate)
-            speakerTurns = speakerTurnFrequencies(debate)
-            print (d)
-            pprint.pprint(speakerTurns)
 
             ret = {'title':debate['title'],
                    'before':debate['before'],
                    'after':debate['after']}
+            
             ret.update(summarize(
                                       obj=debate,
                                       roles={'for':debate['for'],
                                              'against':debate['against']},
                                       prop=splitWords)
                                 )
-            full.append(ret)
+
+            full[d]=debate
             aKeys.extend(ret.keys())
             aKeys = list(set(aKeys))
 
-    aKeys = sorted(aKeys)
-    pprint.pprint(aKeys)
-    flatten(obj=full,
-            akeys=aKeys,
-            filepath=r"return.txt",
-            delim="|")
+        speakerTurns = speakerTurnFrequencies(debate)
+        print (d)
+        pprint.pprint(speakerTurns)
+        
 
 print('--end--');
