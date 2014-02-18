@@ -204,13 +204,13 @@ else:
         ret = 0
         if type(text) is list:
             for t in text:
-                ret +=len(re.sub('(\s+)','|-BJM-|',t).split("|-BJM-|"))
+                ret +=len(re.sub('\b[^\s]+\b','|-BJM-|',t).split("|-BJM-|"))
         elif type(text) is str:
-            ret +=len(re.sub('(\s+)','|-BJM-|',text).split("|-BJM-|"))            
+            ret +=len(re.sub('\b[^\s]+\b','|-BJM-|',text).split("|-BJM-|"))            
         return ret
 
 
-    def createLIWC(filepath=r'C:\Users\Brian McInnis\Google Drive\Programming\Experiments\data\LIWC\LIWC2007dictionary_bjm.csv'):
+    def createLIWC(filepath=r'~\LIWC\LIWC2007dictionary_bjm.csv'):
         """
             createLIWC():   If you have a .csv distribution of the LIWC database, make sure that the
             column category types are properly left justified such that the title for the category
@@ -219,34 +219,36 @@ else:
         cols = []
         names = []
         categories = {}
-        with open(filepath, 'rb') as f:
-            reader = csv.reader(f)
-            line = 0
-            for row in reader:
-                if(line==0):
-                    title = list(set(row))
-                    title.remove("")
-                    print title
-                elif(line==1):
-                    cols = [c for c in range(0,len(row)) if(row[c]!="")]
-                    print cols
-                elif(line==2):
-                    names = dict([(r,row[r]) for r in range(0,len(row)) if row[r] != ""])
-                    print names
-                else:
-                    current_category = ""
-                    for c in range(0,len(row)):
-                        if c in names:
-                            current_category = names[c]
-                            categories.setdefault(current_category,[])
-                        if (current_category!=""):
-                            categories[current_category].append(row[c])                    
-                line+=1
-                
-        for c in categories.keys():
-            categories[c] = [r for r in categories[c] if r!=""]
-            categories[c] = sorted(categories[c])
-
+        try:
+            with open(filepath, 'rb') as f:
+                reader = csv.reader(f)
+                line = 0
+                for row in reader:
+                    if(line==0):
+                        title = list(set(row))
+                        title.remove("")
+                        print title
+                    elif(line==1):
+                        cols = [c for c in range(0,len(row)) if(row[c]!="")]
+                        print cols
+                    elif(line==2):
+                        names = dict([(r,row[r]) for r in range(0,len(row)) if row[r] != ""])
+                        print names
+                    else:
+                        current_category = ""
+                        for c in range(0,len(row)):
+                            if c in names:
+                                current_category = names[c]
+                                categories.setdefault(current_category,[])
+                            if (current_category!=""):
+                                categories[current_category].append(row[c])                    
+                    line+=1
+                    
+            for c in categories.keys():
+                categories[c] = [r for r in categories[c] if r!=""]
+                categories[c] = sorted(categories[c])
+        except:
+            print 'ERROR:  Check the installation of LIWC'
         return categories
                 
     def liwcScores(text,commands={'liwc':{},'categories':[]}):
@@ -761,13 +763,19 @@ else:
         ##      useful for NUMPY (data) as well as an aggregate (collapse) of the results
         ##      by section and by role.  Summarize prop values "len" returns the number of
         ##      statement arrays/sentences per statement, whereas "splitWords" returns the
-        ##      total number of words per statement per speaker.
+        ##      total number of words per statement per speaker.  For example, the following
+        ##      passes the data through LIWC looking for past, present, and future terms.
+        ##
+        ##      collapsed, data, dkeys = summarize(
+        ##                                 obj=debate,
+        ##                                  roles=roles,
+        ##                                  prop=liwcScores,
+        ##                                  propArgs={'liwc':liwc,'categories':['Past','Present','Future']})
 
             collapsed, data, dkeys = summarize(
                                       obj=debate,
-                                      roles=roles,
-                                      prop=liwcScores,
-                                      propArgs={'liwc':liwc,'categories':['Past','Present','Future']})
+                                      roles=roles)
+
             ret.update(collapsed)
 
         ## Return all of the different data objects created through this process
