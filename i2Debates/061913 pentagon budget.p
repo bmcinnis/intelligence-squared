@@ -6596,49 +6596,273 @@ asg18
 S'19:04:30'
 p3176
 I2
-ssasS'after'
-p3177
-(lp3178
-S'29%-FOR'
+ssa(dp3177
+g22
+(dp3178
+I1
+S'[applause]'
 p3179
-aS'65%-AGAINST'
+sI37
+S'[applause]'
 p3180
-aS'6%-UNDECIDED'
+sI12
+S'[laughter]'
 p3181
-asS'against'
+sI13
+S'[laughter]'
 p3182
-(lp3183
-S'KORI SCHAKE'
+sI21
+S'[laughter]'
+p3183
+sI22
+S'[applause]'
 p3184
-aS'BENJAMIN FRIEDMAN'
-p3185
-asS'moderator'
-p3186
-(lp3187
+ssg11
 S'JOHN DONVAN'
+p3185
+sg16
+(lp3186
+S'Thank you, Kurt Volcker.'
+p3187
+aS'And just a couple of announcements.'
 p3188
-asS'date'
+aS"We'd love it if you tweeted about this debate."
 p3189
-(dp3190
-S'year'
+aS'Our Twitter handle is @IQ2US, @McCainInstitute, and #Pentagon.'
+p3190
+aS'Thank you again to the McCain Institute team.'
 p3191
-S'2013'
+aS'We really, really enjoyed partnering with you on this.'
 p3192
-sS'day'
+aS"It was -- it's been a terrific partnership, and I think we both gained out of it."
 p3193
-S'19'
+aS"I also want to thank WAMU which carries almost all of our debates and was very involved in letting a lot of you know about this debate and obviously they got through to you because the place is full and we're delighted by that."
 p3194
-sS'month'
+aS'This was our 75th debate since Bob Rosenkranz brought Intelligence Squared to the United States.'
 p3195
-S'June'
+aS'And we are happy to be sharing this milestone with everybody here.'
 p3196
-ssS'before'
+aS'Our fall season in New York starts in September.'
 p3197
-(lp3198
-S'22%-FOR'
+aS"Some of the topics that we're going to be looking at include drones, breaking up the big banks, the case for going vegan -- -- that's not a Washington topic."
+p3198
+aS'Gun -- -- gun control and immigration.'
 p3199
-aS'57%-AGAINST'
+aS'Our tickets go on sale later on this summer.'
 p3200
-aS'21%-UNDECIDED'
+aS"For more information and to purchase tickets, visit our website at www.IQ2US.org, and don't forget to visit the McCain Institute for International Leadership's website, and that is at McCainInstitute.org, for all of their upcoming events."
 p3201
+aS'They have a full schedule constantly, things happening here in Washington DC.'
+p3202
+aS'We wanted to encourage you to take a look at the encyclopedia and look at Dwight Eisenhower, circa 1939.'
+p3203
+aS'We actually pulled the photograph.'
+p3204
+aS"We've looked at it."
+p3205
+aS"But I don't want to put it up on the screen without your permission."
+p3206
+aS'Go ahead?'
+p3207
+aS'We have your permission?'
+p3208
+aS'Switched at birth or what?'
+p3209
+aS'All right.'
+p3210
+aS'Thank you for being a good sport.'
+p3211
+aS'That was great.'
+p3212
+aS'All right.'
+p3213
+aS"We've had -- I now have the final results."
+p3214
+aS'You have voted twice, once before the debate, and once again afterwards, after hearing all of the arguments.'
+p3215
+aS'Here is the result.'
+p3216
+aS"The motion: Cutting the Pentagon's budget is a gift to our enemies."
+p3217
+aS'Before the debate, in polling the live audience, 22 percent of you agreed with the motion, 57 percent were against, and 21 percent were undecided.'
+p3218
+aS'Those are the first results.'
+p3219
+aS'Remember now, the team -- after you vote the second time, the team that has changed the most numbers in percentage point terms is declared our winner.'
+p3220
+aS'Onto the second vote.'
+p3221
+aS"Cutting the Pentagon's budget is a gift to our enemies."
+p3222
+aS'The team arguing for the motion in the second vote went from 22 percent to 29 percent.'
+p3223
+aS'They picked up seven percentage points.'
+p3224
+aS'That is the number to beat: seven percentage points.'
+p3225
+aS'Now, the team against the motion in first vote was 57 percent.'
+p3226
+aS'The second vote, 65 percent.'
+p3227
+aS'That is eight percentage points.'
+p3228
+aS"It's enough to win, just barely."
+p3229
+aS"The team arguing against the motion that cutting the Pentagon's budget is a gift to our enemies has been declared our winner."
+p3230
+aS'Congratulations to them.'
+p3231
+aS'And thank you from me, John Donvan.'
+p3232
+aS"We'll see you next time."
+p3233
+asg18
+(dp3234
+S'19:05:30'
+p3235
+I1
+sS'19:07:28'
+p3236
+I24
+sS'19:06:30'
+p3237
+I14
+sS'19:08:29'
+p3238
+I37
+ssg8
+(lp3239
+S'Thank you, Kurt Volcker.And just a couple of announcements.'
+p3240
+aS"We'd love it if you tweeted about this debate."
+p3241
+aS'[[applause]]  Our Twitter handle is @IQ2US, @McCainInstitute, and #Pentagon.'
+p3242
+aS'Thank you again tothe McCain Institute team.'
+p3243
+aS'We really, really enjoyed partnering with you on this.'
+p3244
+aS"It was-- it's been a terrific partnership, and I think we both gained out of it."
+p3245
+aS"I also want tothank WAMU which carries almost all of our debates and was very involved in letting alot of you know about this debate and obviously they got through to you because theplace is full and we're delighted by that."
+p3246
+aS'This was our 75th debate since Bob Rosenkranzbrought Intelligence Squared to the United States.'
+p3247
+aS'And we are happy to be sharing thismilestone with everybody here.Our fall season in New York starts in September.'
+p3248
+aS"Some of the topics that we're going tobe looking at include drones, breaking up the big banks, the case for going vegan ---- that's not a Washington topic."
+p3249
+aS'Gun -- [[laughter]] -- gun control and immigration.'
+p3250
+aS'[[laughter]] Our tickets go on sale later on this summer.'
+p3251
+aS"For more information and to purchasetickets, visit our website at www.IQ2US.org, and don't forget to visit the McCainInstitute for International Leadership's website, and that is at McCainInstitute.org, for allof their upcoming events."
+p3252
+aS'They have a full schedule constantly, things happening herein Washington DC.'
+p3253
+aS'We wanted to encourage you to take a look at the encyclopedia andlook at Dwight Eisenhower, circa 1939.'
+p3254
+aS'We actually pulled the photograph.'
+p3255
+aS"We'velooked at it."
+p3256
+aS"But I don't want to put it up on the screen without your permission.Go ahead?"
+p3257
+aS'We have your permission?'
+p3258
+aS'Switched at birth or what?'
+p3259
+aS'[[laughter]] All right.'
+p3260
+aS'Thank you for being a good sport.'
+p3261
+aS'That was great.'
+p3262
+aS'All right.'
+p3263
+aS"We've had -- I [[applause]] now have the final results.You have voted twice, once before the debate, and once again afterwards, after hearingall of the arguments."
+p3264
+aS'Here is the result.'
+p3265
+aS"The motion: Cutting the Pentagon's budget is agift to our enemies."
+p3266
+aS'Before the debate, in polling the live audience, 22 percent of youagreed with the motion, 57 percent were against, and 21 percent were undecided.Those are the first results.'
+p3267
+aS'Remember now, the team -- after you vote the second time,the team that has changed the most numbers in percentage point terms is declared ourwinner.'
+p3268
+aS'Onto the second vote.'
+p3269
+aS"Cutting the Pentagon's budget is a gift to our enemies.The team arguing for the motion in the second vote went from 22 percent to 29percent."
+p3270
+aS'They picked up seven percentage points.'
+p3271
+aS'That is the number to beat: sevenpercentage points.'
+p3272
+aS'Now, the team against the motion in first vote was 57 percent.'
+p3273
+aS'Thesecond vote, 65 percent.'
+p3274
+aS'That is eight percentage points.'
+p3275
+aS"It's enough to win, justbarely."
+p3276
+aS"The team arguing against the motion that cutting the Pentagon's budget is a giftto our enemies has been declared our winner.Congratulations to them."
+p3277
+aS'And thank you from me, John Donvan.'
+p3278
+aS"We'll see you next [[applause]] time."
+p3279
+asg13
+(dp3280
+I12
+S'46'
+p3281
+sI37
+S'47'
+p3282
+ssasS'after'
+p3283
+(lp3284
+S'29%-FOR'
+p3285
+aS'65%-AGAINST'
+p3286
+aS'6%-UNDECIDED'
+p3287
+asS'against'
+p3288
+(lp3289
+S'KORI SCHAKE'
+p3290
+aS'BENJAMIN FRIEDMAN'
+p3291
+asS'moderator'
+p3292
+(lp3293
+S'JOHN DONVAN'
+p3294
+asS'date'
+p3295
+(dp3296
+S'year'
+p3297
+S'2013'
+p3298
+sS'day'
+p3299
+S'19'
+p3300
+sS'month'
+p3301
+S'June'
+p3302
+ssS'before'
+p3303
+(lp3304
+S'22%-FOR'
+p3305
+aS'57%-AGAINST'
+p3306
+aS'21%-UNDECIDED'
+p3307
 as.

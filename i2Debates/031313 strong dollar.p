@@ -7868,49 +7868,412 @@ I20
 sS'20:29:57'
 p3758
 I7
-ssasS'after'
-p3759
-(lp3760
-S'54%-FOR'
+ssa(dp3759
+g22
+(dp3760
+I32
+S'[laughter]'
 p3761
-aS'37%-AGAINST'
+sI1
+S'[applause]'
 p3762
-aS'9%-UNDECIDED'
+sI67
+S'[laughter]'
 p3763
-asS'against'
+sI65
+S'[laughter]'
 p3764
-(lp3765
-S'JAMES GRANT'
+sI73
+S'[laughter]'
+p3765
+sI10
+S'[laughter]'
 p3766
-aS'STEVE FORBES'
+sI78
+S'[applause]'
 p3767
-asS'moderator'
+sI21
+S'[applause]'
 p3768
-(lp3769
-S'JOHN DONVAN'
+sI25
+S'[applause]'
+p3769
+sI31
+S'[laughter]'
 p3770
-asS'date'
+ssg11
+S'JOHN DONVAN'
 p3771
-(dp3772
-S'year'
+sg16
+(lp3772
+S'Thank you Rick Mishkin.'
 p3773
-S'2013'
+aS'And that concludes the closing statements and the final round of this Intelligence Squared US debate.'
 p3774
-sS'day'
+aS'And now it is time to learn which side you feel argued best.'
 p3775
-S'13'
+aS'Were going to ask you to vote the second time now.'
 p3776
-sS'month'
+aS'Go to the keypads at your seats and register where you stand on this motion.'
 p3777
-S'March'
+aS'After hearing the arguments, and well see how it compares to your vote before you heard the arguments.'
 p3778
-ssS'before'
+aS'The motion is this: America does not need a strong dollar policy.'
 p3779
-(lp3780
-S'24%-FOR'
+aS'The team arguing for the motion, to be clear, is the team that was against a strong dollar policy.'
+p3780
+aS'If you agree with them, push number one.'
 p3781
-aS'29%-AGAINST'
+aS'If you agree with the other team, America doesnt need a strong dollar policy is the -- actually I think Ive confused myself now.'
 p3782
-aS'47%-UNDECIDED'
+aS'Ignore what I just said, because Im sure youve got it.'
 p3783
+aS'You heard the argument.'
+p3784
+aS'If youre with these guys, push number one.'
+p3785
+aS'If youre with these guys, push number two.'
+p3786
+aS'Im sorry.'
+p3787
+aS'I knew it was going to happen at some point.'
+p3788
+aS'But Ill just restate it.'
+p3789
+aS'Our motion is, America doesnt need a strong dollar policy.'
+p3790
+aS'If you agree with the motion, push number one.'
+p3791
+aS'If you disagree, push number two.'
+p3792
+aS'If you are, or remain, or became undecided, push number three.'
+p3793
+aS'The system will correct any mis-push.'
+p3794
+aS'The other keys are inactive and well have the vote in just a few seconds.'
+p3795
+aS'But while the votes are being tabulated, I first of all want to say that the spirit and the energy and the entertainment value frankly of this rather potentially technical and arcane debate was terrific.'
+p3796
+aS'It was a lot of fun and you made it really interesting.'
+p3797
+aS'Thank you for all of that.'
+p3798
+aS"And to be honest, a lot of times, I have to reject questions, and I don't like doing it."
+p3799
+aS"I didn't have to do it tonight."
+p3800
+aS'The questions were great.'
+p3801
+aS'I even liked the elevator ride you took downstairs.'
+p3802
+aS'Thank you for doing that, so to everybody who got up and asked a question, thank you to you as well.'
+p3803
+aS'Your applause was robust and spontaneous throughout the evening.'
+p3804
+aS'It was very, very helpful to us.'
+p3805
+aS"So a few things I want to tell you about, first of all, we're encouraging anybody here to tweet about the debate, of course."
+p3806
+aS'Our Twitter handle is @IQ2US, @IQ2US.'
+p3807
+aS"The hash tag for tonight's debate is #strongdollar."
+p3808
+aS'Our next debate in New York, our monthly debate, is on Wednesday, April 17.'
+p3809
+aS'The motion that night will be, "The GOP must seize the center or die.'
+p3810
+aS'" Steve, I\'m just wondering if you had a reaction to that at all.'
+p3811
+aS"Arguing in support of the motion, David Brookes, he's an op-ed columnist at the New York Times, and Mickey Edwards, he's a former Republican Congressman from Oklahoma."
+p3812
+aS'Arguing against the motion, Laura Ingraham, host of The Laura Ingraham Show, and Ralph Reed, chairman and founder of the Faith and Freedom Coalition.'
+p3813
+aS"In about three weeks, we're going on the road."
+p3814
+aS"We're going to be in Washington, D.C."
+p3815
+aS"It's a special edition of Intelligence Squared."
+p3816
+aS'The motion that we\'ll be arguing on Wednesday, April 3rd, is, "Abolish the minimum wage.'
+p3817
+aS'" You can get details and tickets to this and our remaining spring debates at our website, www.IQ2US.org.'
+p3818
+aS'The side arguing to abolish the minimum wage is Jim Dorn and Russ Roberts.'
+p3819
+aS'Arguing against, Jared Bernstein and Karen Kornbluh.'
+p3820
+aS'For those who cannot join the live audience either here or in Washington, there are a lot of other ways to catch these debates.'
+p3821
+aS"You can watch the live stream as I'm sure a lot of people are now on fora.tv."
+p3822
+aS'Thank you to all of you who are watching on Fora.'
+p3823
+aS'And you can listen to these debates, and this one in particular, on NPR or watch it on PBS stations across the country.'
+p3824
+aS'Just check your local listings for air times -- air dates and times.'
+p3825
+aS"One other thing I want to tell you that normally we announce the results which I'm about to do -- for the first time, we're going to crunch the numbers in a different way."
+p3826
+aS"We're curious to see just in terms of the open-mindedness, and flexibility, and willingness to listen of the audience -- I mean flexibility, not in that way, but in a willingness to listen to other ideas -- we kind of wanted to see how many of you actually did change your positions, and how many of you voted the same way twice, how many of you voted different ways."
+p3827
+aS"What we're going to do is in the -- it takes a little time for us to crunch that."
+p3828
+aS"It'll probably take about five minutes."
+p3829
+aS"So after I announce the debates and after we've concluded, if you watch -- stay and watch these screens, it'll come up in a couple of minutes, just that analysis, if you have some curiosity about that."
+p3830
+aS'So here are the final results.'
+p3831
+aS'We had you vote twice, both before you heard the debate and once again after you heard the arguments, and the teams -- the team whose numbers have moved the most are declared -- is declared our winner.'
+p3832
+aS'So the motion is, "America doesn\'t need a strong dollar policy.'
+p3833
+aS'" Here is the preliminary vote.'
+p3834
+aS'Before the debate, 24 percent agreed with the motion, 29 percent were against, and 47 percent were divided.'
+p3835
+aS'What did I do wrong?'
+p3836
+aS'Oh, okay.'
+p3837
+aS'I felt like my kids were laughing at me, and I wondered, "What did I do wrong?'
+p3838
+aS'" So those are the first results.'
+p3839
+aS'Remember now that you have voted a second time.'
+p3840
+aS'The winner is the team that has changed their numbers the most from the first vote to the second.'
+p3841
+aS'So we\'re going to look at the second vote on "America doesn\'t need a strong dollar policy.'
+p3842
+aS'" The team arguing for the motion, their second vote, they got 54 percent.'
+p3843
+aS"From 24 percent to 54 percent, that's an increase of 30 percentage points."
+p3844
+aS'That is the number to beat.'
+p3845
+aS"So let's see if the team against -- Yeah, yeah, right."
+p3846
+aS"Team against, 29 percent before, they went to 37 percent, that's only eight percentage points they pulled over."
+p3847
+aS"It's not enough."
+p3848
+aS'The debate goes to the other side.'
+p3849
+aS'The team arguing against a strong dollar policy has prevailed.'
+p3850
+aS'Our congratulations to them.'
+p3851
+aS"Thank you from me, John Donvan, and Intelligence Squared U.S. We'll see you next time."
+p3852
+asg18
+(dp3853
+S'20:34:02'
+p3854
+I29
+sS'20:32:54'
+p3855
+I16
+sS'20:36:59'
+p3856
+I67
+sS'20:35:11'
+p3857
+I42
+sS'20:31:54'
+p3858
+I3
+sS'20:36:01'
+p3859
+I55
+ssg8
+(lp3860
+S'Thank you Rick Mishkin.And that concludes the closing statements and the final round of this Intelligence [[applause]] Squared US debate.'
+p3861
+aS'And now it is time to learn which side you feel argued best.Were going to ask you to vote the second time now.'
+p3862
+aS'Go to the keypads at your seatsand register where you stand on this motion.'
+p3863
+aS'After hearing the arguments, and wellsee how it compares to your vote before you heard the arguments.'
+p3864
+aS'The motion is this:America does not need a strong dollar policy.'
+p3865
+aS'The team arguing for the motion, to beclear, is the team that was against a strong dollar policy.'
+p3866
+aS'If you agree with them, pushnumber one.'
+p3867
+aS'If you agree with the other team, America doesnt need a strong dollarpolicy is the -- actually I think Ive confused myself now.Ignore what I just said, because Im sure youve got it.'
+p3868
+aS'You heard the argument.'
+p3869
+aS'If [[laughter]] youre with these guys, push number one.'
+p3870
+aS'If youre with these guys, push number two.Im sorry.'
+p3871
+aS'I knew it was going to happen at some point.'
+p3872
+aS'But Ill just restate it.'
+p3873
+aS'Ourmotion is, America doesnt need a strong dollar policy.'
+p3874
+aS'If you agree with the motion,push number one.'
+p3875
+aS'If you disagree, push number two.'
+p3876
+aS'If you are, or remain, or becameundecided, push number three.The system will correct any mis-push.'
+p3877
+aS'The other keys are inactive and well have thevote in just a few seconds.'
+p3878
+aS'But while the votes are being tabulated, I first of all want tosay that the spirit and the energy and the entertainment value frankly of this ratherpotentially technical and arcane debate was terrific.'
+p3879
+aS'It was a lot of fun and you made itreally interesting.'
+p3880
+aS"Thank you for all of that.And to be honest, a lot of times, I have to reject questions, and I don't like doing it."
+p3881
+aS"I [[applause]] didn't have to do it tonight."
+p3882
+aS'The questions were great.'
+p3883
+aS'I even liked the elevator ride youtook downstairs.'
+p3884
+aS'Thank you for doing that, so to everybody who got up and asked aquestion, thank you to you as well.Your applause was robust and spontaneous throughout the evening.'
+p3885
+aS'It was very, very [[applause]] helpful to us.'
+p3886
+aS"So a few things I want to tell you about, first of all, we're encouraginganybody here to tweet about the debate, of course."
+p3887
+aS'Our Twitter handle is @IQ2US,@IQ2US.'
+p3888
+aS"The hash tag for tonight's debate is #strongdollar.Our next debate in New York, our monthly debate, is on Wednesday, April 17."
+p3889
+aS'Themotion that night will be, "The GOP must seize the center or die.'
+p3890
+aS'"Steve, I\'m just wondering if you had a reaction to that at all.'
+p3891
+aS"[[laughter]] Arguing in support of the motion, David Brookes, he's an op-ed columnist at the New [[laughter]] York Times, and Mickey Edwards, he's a former Republican Congressman fromOklahoma."
+p3892
+aS'Arguing against the motion, Laura Ingraham, host of The Laura IngrahamShow, and Ralph Reed, chairman and founder of the Faith and Freedom Coalition.'
+p3893
+aS"Inabout three weeks, we're going on the road."
+p3894
+aS"We're going to be in Washington, D.C."
+p3895
+aS"It'sa special edition of Intelligence Squared."
+p3896
+aS'The motion that we\'ll be arguing onWednesday, April 3rd, is, "Abolish the minimum wage.'
+p3897
+aS'" You can get details and ticketsto this and our remaining spring debates at our website, www.IQ2US.org.'
+p3898
+aS'The sidearguing to abolish the minimum wage is Jim Dorn and Russ Roberts.'
+p3899
+aS'Arguing against,Jared Bernstein and Karen Kornbluh.For those who cannot join the live audience either here or in Washington, there are a lotof other ways to catch these debates.'
+p3900
+aS"You can watch the live stream as I'm sure a lot ofpeople are now on fora.tv."
+p3901
+aS'Thank you to all of you who are watching on Fora.'
+p3902
+aS'And youcan listen to these debates, and this one in particular, on NPR or watch it on PBSstations across the country.'
+p3903
+aS"Just check your local listings for air times -- air dates andtimes.One other thing I want to tell you that normally we announce the results which I'mabout to do -- for the first time, we're going to crunch the numbers in a different way."
+p3904
+aS"We're curious to see just in terms of the open-mindedness, and flexibility, andwillingness to listen of the audience -- I mean flexibility, not in that way, but in awillingness to listen to other ideas -- we kind of wanted to see how many of you actuallydid change your positions, and how many of you voted the same way twice, how manyof you voted different ways.What we're going to do is in the -- it takes a little time for us to crunch that."
+p3905
+aS"It'llprobably take about five minutes."
+p3906
+aS"So after I announce the debates and after we'veconcluded, if you watch -- stay and watch these screens, it'll come up in a couple ofminutes, just that analysis, if you have some curiosity about that.So here are the final results."
+p3907
+aS'We had you vote twice, both before you heard the debateand once again after you heard the arguments, and the teams -- the team whosenumbers have moved the most are declared -- is declared our winner.'
+p3908
+aS'So the motion is,"America doesn\'t need a strong dollar policy.'
+p3909
+aS'" Here is the preliminary vote.'
+p3910
+aS'Before thedebate, 24 percent agreed with the motion, 29 percent were against, and 47 percentwere divided.What did I do wrong?'
+p3911
+aS'Oh, okay.'
+p3912
+aS'I felt like my kids were laughing at me, and I wondered, [[laughter]] "What did I do wrong?'
+p3913
+aS'"So those are the first results.'
+p3914
+aS'Remember now that you have voted a second time.'
+p3915
+aS'The [[laughter]] winner is the team that has changed their numbers the most from the first vote to thesecond.'
+p3916
+aS'So we\'re going to look at the second vote on "America doesn\'t need a strongdollar policy.'
+p3917
+aS'" The team arguing for the motion, their second vote, they got 54 percent.From 24 percent to 54 percent, that\'s an increase of 30 percentage points.'
+p3918
+aS'That is thenumber to beat.'
+p3919
+aS"So let's see if the team against --Yeah, yeah, right."
+p3920
+aS"Team against, 29 percent before, they went to 37 percent, that's only [[laughter]] eight percentage points they pulled over."
+p3921
+aS"It's not enough."
+p3922
+aS'The debate goes to the otherside.'
+p3923
+aS'The team arguing against a strong dollar policy has prevailed.'
+p3924
+aS'Our congratulationsto them.'
+p3925
+aS"Thank you from me, John Donvan, and Intelligence Squared U.S. We'll see younext time."
+p3926
+asg13
+(dp3927
+I13
+S'58'
+p3928
+sI69
+S'60'
+p3929
+sI39
+S'59'
+p3930
+ssasS'after'
+p3931
+(lp3932
+S'54%-FOR'
+p3933
+aS'37%-AGAINST'
+p3934
+aS'9%-UNDECIDED'
+p3935
+asS'against'
+p3936
+(lp3937
+S'JAMES GRANT'
+p3938
+aS'STEVE FORBES'
+p3939
+asS'moderator'
+p3940
+(lp3941
+S'JOHN DONVAN'
+p3942
+asS'date'
+p3943
+(dp3944
+S'year'
+p3945
+S'2013'
+p3946
+sS'day'
+p3947
+S'13'
+p3948
+sS'month'
+p3949
+S'March'
+p3950
+ssS'before'
+p3951
+(lp3952
+S'24%-FOR'
+p3953
+aS'29%-AGAINST'
+p3954
+aS'47%-UNDECIDED'
+p3955
 as.

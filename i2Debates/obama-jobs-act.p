@@ -5981,176 +5981,175 @@ aS'And France, among industrialized countries, is downlower.'
 p2871
 aS'And I think that is one of the reasons why Hong Kong grows five to six percent ayear on average, and France grows one to two percent a year.'
 p2872
-aS'And if we want theunemployed to get jobs, we want a strong, tight labor market like we had during theClinton years when government spending fell from 22 percent of GDP to 18 percent ofGDP.And what happened during the Reagan years when we also had more free marketoriented policies.'
+aS'And if we want theunemployed to get jobs, we want a strong, tight labor market like we had during theClinton years when government spending fell from 22 percent of GDP to 18 percent of'
 p2873
-aS'That, I think is the best answer.'
+asg12
+S'DANIEL MITCHELL'
 p2874
-asg12
-S'DANIEL MITCHELL'
-p2875
-sg14
-(dp2876
-I15
-S'44'
-p2877
-ssg17
-(lp2878
+sg17
+(lp2875
 S'I would just like to make the point that good long-term policy also happens to be good short term policy.'
-p2879
+p2876
 aS"Now I come from a school of thought that says that if the economy has misallocation of labor and capital and a recession gets baked into the cake, there's not much you can do but sort of just grit your teeth and try to get through it as quickly as possible."
-p2880
+p2877
 aS'But government sometimes extends and delays and an economic downturn by interfering.'
-p2881
+p2878
 aS"I think that's what happened in the 1930s with the Hoover-Roosevelt policies."
-p2882
+p2879
 aS'I want to have a lower burden of government.'
-p2883
+p2880
 aS'I sort of throughout, as a throwaway line, I want to be Hong Kong rather than France.'
-p2884
+p2881
 aS"But there's actually a very serious point behind it."
-p2885
+p2882
 aS"If you look at all these different measures of economic freedom, Hong Kong's always near the top."
-p2886
+p2883
 aS'And France, among industrialized countries, is down lower.'
-p2887
+p2884
 aS'And I think that is one of the reasons why Hong Kong grows five to six percent a year on average, and France grows one to two percent a year.'
-p2888
-aS'And if we want the unemployed to get jobs, we want a strong, tight labor market like we had during the Clinton years when government spending fell from 22 percent of GDP to 18 percent of GDP.'
-p2889
-aS'And what happened during the Reagan years when we also had more free market oriented policies.'
-p2890
-aS'That, I think is the best answer.'
-p2891
-asg20
-(dp2892
-S'20:05:57'
-p2893
-I15
-ssa(dp2894
+p2885
+aS'And if we want the unemployed to get jobs, we want a strong, tight labor market like we had during the Clinton years when government spending fell from 22 percent of GDP to 18 percent of'
+p2886
+asa(dp2887
 g9
-(lp2895
-S'Cecilia mentioned much earlier that Clinton raised taxes on the wealthy, and things gotreally good.'
+(lp2888
+S'And what happened during the Reagan years when we also had more free marketoriented policies.'
+p2889
+aS'That, I think is the best answer.'
+p2890
+asg12
+S'GDP.'
+p2891
+sg14
+(dp2892
+I0
+S'44'
+p2893
+ssg17
+(lp2894
+S'And what happened during the Reagan years when we also had more free market oriented policies.'
+p2895
+aS'That, I think is the best answer.'
 p2896
+asg20
+(dp2897
+S'20:05:57'
+p2898
+I0
+ssa(dp2899
+g9
+(lp2900
+S'Cecilia mentioned much earlier that Clinton raised taxes on the wealthy, and things gotreally good.'
+p2901
 asg12
 S'JOHN DONVAN'
-p2897
-sg17
-(lp2898
-S'Cecilia mentioned much earlier that Clinton raised taxes on the wealthy, and things got really good.'
-p2899
-asa(dp2900
-g9
-(lp2901
-S'No.'
 p2902
-aS'He -- Clinton raised taxes, but he also did GAT and NAFTA and welfare reform,reduced government spending by four percentage points of GDP.'
-p2903
-aS'He deregulatedtelecommunications and agriculture.'
+sg17
+(lp2903
+S'Cecilia mentioned much earlier that Clinton raised taxes on the wealthy, and things got really good.'
 p2904
+asa(dp2905
+g9
+(lp2906
+S'No.'
+p2907
+aS'He -- Clinton raised taxes, but he also did GAT and NAFTA and welfare reform,reduced government spending by four percentage points of GDP.'
+p2908
+aS'He deregulatedtelecommunications and agriculture.'
+p2909
 aS"I mean, if I could take everything else of Clinton'spolicies and it meant that I had to take the 39.6 percent marginal tax rate, I'd do it."
-p2905
+p2910
 aS"Wehad a lot more economic freedom under Clinton than we've had under Bush andObama."
-p2906
+p2911
 asg12
 S'DANIEL MITCHELL'
-p2907
-sg17
-(lp2908
-S'No.'
-p2909
-aS'He -- Clinton raised taxes, but he also did GAT and NAFTA and welfare reform, reduced government spending by four percentage points of GDP.'
-p2910
-aS'He deregulated telecommunications and agriculture.'
-p2911
-aS"I mean, if I could take everything else of Clinton's policies and it meant that I had to take the 39.6 percent marginal tax rate, I'd do it."
 p2912
-aS"We had a lot more economic freedom under Clinton than we've had under Bush and Obama."
-p2913
-asa(dp2914
-g9
-(lp2915
-S'Okay.'
+sg17
+(lp2913
+S'No.'
+p2914
+aS'He -- Clinton raised taxes, but he also did GAT and NAFTA and welfare reform, reduced government spending by four percentage points of GDP.'
+p2915
+aS'He deregulated telecommunications and agriculture.'
 p2916
-aS"Let's take another question from the audience."
+aS"I mean, if I could take everything else of Clinton's policies and it meant that I had to take the 39.6 percent marginal tax rate, I'd do it."
 p2917
-aS"Ma'am?"
+aS"We had a lot more economic freedom under Clinton than we've had under Bush and Obama."
 p2918
+asa(dp2919
+g9
+(lp2920
+S'Okay.'
+p2921
+aS"Let's take another question from the audience."
+p2922
+aS"Ma'am?"
+p2923
 aS'Yep.'
-p2919
+p2924
 aS'If you can standand tell us your name.'
-p2920
+p2925
 asg12
 S'JOHN DONVAN'
-p2921
-sg17
-(lp2922
-S'Okay.'
-p2923
-aS"Let's take another question from the audience."
-p2924
-aS"Ma'am?"
-p2925
-aS'Yep.'
 p2926
-aS'If you can stand and tell us your name.'
-p2927
-asa(dp2928
-g9
-(lp2929
-S'Hi.'
+sg17
+(lp2927
+S'Okay.'
+p2928
+aS"Let's take another question from the audience."
+p2929
+aS"Ma'am?"
 p2930
-aS"My name is Jane Doe, and I'm proud to say I'm not from -- I'm not from the NewYork Times."
+aS'Yep.'
 p2931
-aS'My question is for Cecilia.'
+aS'If you can stand and tell us your name.'
 p2932
-aS'By your own admission, you said that the Clintonadministration was able to -- to increase economic growth, but did so because ofmonetary policy.And even President Clinton has said so on the Daily Show.'
-p2933
-aS"My understanding is it's notthe job of the president to intervene in monetary policy."
-p2934
-aS"He's admitted that he's goneinto --"
+asa(dp2933
+g9
+(lp2934
+S'Hi.'
 p2935
+aS"My name is Jane Doe, and I'm proud to say I'm not from -- I'm not from the NewYork Times."
+p2936
+aS'My question is for Cecilia.'
+p2937
+aS'By your own admission, you said that the Clintonadministration was able to -- to increase economic growth, but did so because ofmonetary policy.And even President Clinton has said so on the Daily Show.'
+p2938
+aS"My understanding is it's notthe job of the president to intervene in monetary policy."
+p2939
+aS"He's admitted that he's goneinto --"
+p2940
 asg12
 S'JANE DOE'
-p2936
-sg17
-(lp2937
-S'Hi.'
-p2938
-aS"My name is Jane Doe, and I'm proud to say I'm not from -- I'm not from the New York Times."
-p2939
-aS'My question is for Cecilia.'
-p2940
-aS'By your own admission, you said that the Clinton administration was able to -- to increase economic growth, but did so because of monetary policy.'
 p2941
-aS'And even President Clinton has said so on the Daily Show.'
-p2942
-aS"My understanding is it's not the job of the president to intervene in monetary policy."
-p2943
-aS"He's admitted that he's gone into --"
-p2944
-asg20
-(dp2945
-S'20:06:59'
-p2946
-I4
-ssa(dp2947
-g9
-(lp2948
-S'Can you come to a question?'
-p2949
-asg12
-S'JOHN DONVAN'
-p2950
 sg17
-(lp2951
-g2949
-asa(dp2952
+(lp2942
+S'Hi.'
+p2943
+aS"My name is Jane Doe, and I'm proud to say I'm not from -- I'm not from the New York Times."
+p2944
+aS'My question is for Cecilia.'
+p2945
+aS'By your own admission, you said that the Clinton administration was able to -- to increase economic growth, but did so because of monetary policy.'
+p2946
+aS'And even President Clinton has said so on the Daily Show.'
+p2947
+aS"My understanding is it's not the job of the president to intervene in monetary policy."
+p2948
+aS"He's admitted that he's gone into --"
+p2949
+asg20
+(dp2950
+S'20:06:59'
+p2951
+I4
+ssa(dp2952
 g9
 (lp2953
-S'Yes.'
+S'Can you come to a question?'
 p2954
 asg12
-S'JANE DOE'
+S'JOHN DONVAN'
 p2955
 sg17
 (lp2956
@@ -6158,10 +6157,10 @@ g2954
 asa(dp2957
 g9
 (lp2958
-S'Thanks.'
+S'Yes.'
 p2959
 asg12
-S'JOHN DONVAN'
+S'JANE DOE'
 p2960
 sg17
 (lp2961
@@ -6169,406 +6168,406 @@ g2959
 asa(dp2962
 g9
 (lp2963
-S'-- in two seconds.'
+S'Thanks.'
 p2964
-aS'Sorry.'
-p2965
-aS"I paid a hundred thousand dollars to go to this universityduring the Clinton administration, so I'd like to make my point and have her answer thequestion."
-p2966
-asg12
-S'JANE DOE'
-p2967
-sg14
-(dp2968
-I0
-S'45'
-p2969
-ssg17
-(lp2970
-S'-- in two seconds.'
-p2971
-aS'Sorry.'
-p2972
-aS"I paid a hundred thousand dollars to go to this university during the Clinton administration, so I'd like to make my point and have her answer the question."
-p2973
-asa(dp2974
-g9
-(lp2975
-S'Okay, but other people want to speak.'
-p2976
 asg12
 S'JOHN DONVAN'
-p2977
+p2965
 sg17
-(lp2978
-g2976
+(lp2966
+g2964
+asa(dp2967
+g9
+(lp2968
+S'-- in two seconds.'
+p2969
+aS'Sorry.'
+p2970
+aS"I paid a hundred thousand dollars to go to this universityduring the Clinton administration, so I'd like to make my point and have her answer thequestion."
+p2971
+asg12
+S'JANE DOE'
+p2972
+sg14
+(dp2973
+I0
+S'45'
+p2974
+ssg17
+(lp2975
+S'-- in two seconds.'
+p2976
+aS'Sorry.'
+p2977
+aS"I paid a hundred thousand dollars to go to this university during the Clinton administration, so I'd like to make my point and have her answer the question."
+p2978
 asa(dp2979
 g9
 (lp2980
-S'My question is about monetary policy and the Clinton administration.'
+S'Okay, but other people want to speak.'
 p2981
-aS"I'm a Democrat.His policies of fiscal policy did not increase economic growth."
-p2982
-aS'It was his monetarypolicy.'
-p2983
-aS'Could you comment on it?'
-p2984
-asg12
-S'JANE DOE'
-p2985
-sg17
-(lp2986
-S'My question is about monetary policy and the Clinton administration.'
-p2987
-aS"I'm a Democrat."
-p2988
-aS'His policies of fiscal policy did not increase economic growth.'
-p2989
-aS'It was his monetary policy.'
-p2990
-aS'Could you comment on it?'
-p2991
-asa(dp2992
-g9
-(lp2993
-S'Well, look, I think that there was a lot of good fiscal policy that happened under theClinton administration as well.'
-p2994
-aS"So I'm not going to agree with your premise that it wasonly the monetary policy and that there was no fiscal policy under Clinton."
-p2995
-aS'Now, was itnecessarily fiscal policy in terms of stimulus as Dan has mentioned?There was a lot of other--there was NAFTA.'
-p2996
-aS'There were other attempts to stimulateeconomic growth.'
-p2997
-aS'But --'
-p2998
-asg12
-S'CECILIA ROUSE'
-p2999
-sg17
-(lp3000
-S'Well, look, I think that there was a lot of good fiscal policy that happened under the Clinton administration as well.'
-p3001
-aS"So I'm not going to agree with your premise that it was only the monetary policy and that there was no fiscal policy under Clinton."
-p3002
-aS'Now, was it necessarily fiscal policy in terms of stimulus as Dan has mentioned?'
-p3003
-aS'There was a lot of other--there was NAFTA.'
-p3004
-aS'There were other attempts to stimulate economic growth.'
-p3005
-aS'But --'
-p3006
-asg20
-(dp3007
-S'20:07:55'
-p3008
-I4
-ssa(dp3009
-g9
-(lp3010
-S'No, no.'
-p3011
-aS'Can -- no, we -- seriously.'
-p3012
-aS"And also I want to move on because we're not talkingabout the Clinton administration."
-p3013
 asg12
 S'JOHN DONVAN'
-p3014
+p2982
 sg17
+(lp2983
+g2981
+asa(dp2984
+g9
+(lp2985
+S'My question is about monetary policy and the Clinton administration.'
+p2986
+aS"I'm a Democrat.His policies of fiscal policy did not increase economic growth."
+p2987
+aS'It was his monetarypolicy.'
+p2988
+aS'Could you comment on it?'
+p2989
+asg12
+S'JANE DOE'
+p2990
+sg17
+(lp2991
+S'My question is about monetary policy and the Clinton administration.'
+p2992
+aS"I'm a Democrat."
+p2993
+aS'His policies of fiscal policy did not increase economic growth.'
+p2994
+aS'It was his monetary policy.'
+p2995
+aS'Could you comment on it?'
+p2996
+asa(dp2997
+g9
+(lp2998
+S'Well, look, I think that there was a lot of good fiscal policy that happened under theClinton administration as well.'
+p2999
+aS"So I'm not going to agree with your premise that it wasonly the monetary policy and that there was no fiscal policy under Clinton."
+p3000
+aS'Now, was itnecessarily fiscal policy in terms of stimulus as Dan has mentioned?There was a lot of other--there was NAFTA.'
+p3001
+aS'There were other attempts to stimulateeconomic growth.'
+p3002
+aS'But --'
+p3003
+asg12
+S'CECILIA ROUSE'
+p3004
+sg17
+(lp3005
+S'Well, look, I think that there was a lot of good fiscal policy that happened under the Clinton administration as well.'
+p3006
+aS"So I'm not going to agree with your premise that it was only the monetary policy and that there was no fiscal policy under Clinton."
+p3007
+aS'Now, was it necessarily fiscal policy in terms of stimulus as Dan has mentioned?'
+p3008
+aS'There was a lot of other--there was NAFTA.'
+p3009
+aS'There were other attempts to stimulate economic growth.'
+p3010
+aS'But --'
+p3011
+asg20
+(dp3012
+S'20:07:55'
+p3013
+I4
+ssa(dp3014
+g9
 (lp3015
 S'No, no.'
 p3016
 aS'Can -- no, we -- seriously.'
 p3017
-aS"And also I want to move on because we're not talking about the Clinton administration."
+aS"And also I want to move on because we're not talkingabout the Clinton administration."
 p3018
-asa(dp3019
-g9
-(lp3020
-S'Exactly.'
-p3021
 asg12
-S'CECILIA ROUSE'
-p3022
+S'JOHN DONVAN'
+p3019
 sg17
-(lp3023
-g3021
+(lp3020
+S'No, no.'
+p3021
+aS'Can -- no, we -- seriously.'
+p3022
+aS"And also I want to move on because we're not talking about the Clinton administration."
+p3023
 asa(dp3024
 g9
 (lp3025
-S'And -- and, sir, down in the front.'
+S'Exactly.'
 p3026
-aS"I hope you have gotten your money's worth, though,in terms of a diploma and the whole thing."
+asg12
+S'CECILIA ROUSE'
 p3027
+sg17
+(lp3028
+g3026
+asa(dp3029
+g9
+(lp3030
+S'And -- and, sir, down in the front.'
+p3031
+aS"I hope you have gotten your money's worth, though,in terms of a diploma and the whole thing."
+p3032
 asg12
 S'JOHN DONVAN'
-p3028
+p3033
 sg17
-(lp3029
+(lp3034
 S'And -- and, sir, down in the front.'
-p3030
-aS"I hope you have gotten your money's worth, though, in terms of a diploma and the whole thing."
-p3031
-asa(dp3032
-g9
-(lp3033
-S'Question for Dan Mitchell.'
-p3034
-aS'You earlier mentioned Germany.'
 p3035
-aS'Now, looking at this , on the one side, it increases taxes for high income Americans but itreduces taxes for lower income Americans.'
+aS"I hope you have gotten your money's worth, though, in terms of a diploma and the whole thing."
 p3036
+asa(dp3037
+g9
+(lp3038
+S'Question for Dan Mitchell.'
+p3039
+aS'You earlier mentioned Germany.'
+p3040
+aS'Now, looking at this , on the one side, it increases taxes for high income Americans but itreduces taxes for lower income Americans.'
+p3041
 aS"Isn't that what -- what has been done inGermany?"
-p3037
+p3042
 asg12
 S'MALE SPEAKER'
-p3038
-sg17
-(lp3039
-S'Question for Dan Mitchell.'
-p3040
-aS'You earlier mentioned Germany.'
-p3041
-aS'Now, looking at this , on the one side, it increases taxes for high income Americans but it reduces taxes for lower income Americans.'
-p3042
-aS"Isn't that what -- what has been done in Germany?"
 p3043
-asa(dp3044
-g9
-(lp3045
-S"That's how you do a question."
+sg17
+(lp3044
+S'Question for Dan Mitchell.'
+p3045
+aS'You earlier mentioned Germany.'
 p3046
-aS'Dan Mitchell.'
+aS'Now, looking at this , on the one side, it increases taxes for high income Americans but it reduces taxes for lower income Americans.'
 p3047
+aS"Isn't that what -- what has been done in Germany?"
+p3048
+asa(dp3049
+g9
+(lp3050
+S"That's how you do a question."
+p3051
+aS'Dan Mitchell.'
+p3052
 asg12
 S'JOHN DONVAN'
-p3048
+p3053
 sg17
-(lp3049
+(lp3054
 S"That's how you do a question."
-p3050
+p3055
 aS'Dan Mitchell.'
-p3051
-asa(dp3052
+p3056
+asa(dp3057
 g24
-(dp3053
+(dp3058
 I1
 S'[applause]'
-p3054
+p3059
 ssg12
 S'DANIEL MITCHELL'
-p3055
-sg17
-(lp3056
-S'As the Germans would say, "Der good.'
-p3057
-aS'Der good.'
-p3058
-aS'" What I was focusing on in my comments on Germany is what happened to government spending as a share of GDP.'
-p3059
-aS'Germany did not do a big Keynesian stimulus program.'
 p3060
-aS"It doesn't mean that I want to embrace German fiscal policy because the overall burden of government spending is higher, actually not that much higher than it is in the U.S."
-p3061
-aS"They're something like 44 percent of GDP."
+sg17
+(lp3061
+S'As the Germans would say, "Der good.'
 p3062
-aS"We're getting close to 40 now after the Bush-Obama spending binge."
+aS'Der good.'
 p3063
-aS"But Germany didn't do a Keynesian stimulus package of any magnitude close to the U.S. And I think that served them well, similar to what happened in Canada."
+aS'" What I was focusing on in my comments on Germany is what happened to government spending as a share of GDP.'
 p3064
-aS'Now, other things were involved.'
+aS'Germany did not do a big Keynesian stimulus program.'
 p3065
-aS'Canada never had a housing bubble.'
+aS"It doesn't mean that I want to embrace German fiscal policy because the overall burden of government spending is higher, actually not that much higher than it is in the U.S."
 p3066
-aS'And of course that helped a lot.'
+aS"They're something like 44 percent of GDP."
 p3067
-aS"There's a ton of different economic policies that matter."
+aS"We're getting close to 40 now after the Bush-Obama spending binge."
 p3068
-aS"But my point on Germany was just a simple one, that they didn't do the Keynesian policy --"
+aS"But Germany didn't do a Keynesian stimulus package of any magnitude close to the U.S. And I think that served them well, similar to what happened in Canada."
 p3069
-asg20
-(dp3070
-S'20:08:52'
+aS'Now, other things were involved.'
+p3070
+aS'Canada never had a housing bubble.'
 p3071
+aS'And of course that helped a lot.'
+p3072
+aS"There's a ton of different economic policies that matter."
+p3073
+aS"But my point on Germany was just a simple one, that they didn't do the Keynesian policy --"
+p3074
+asg20
+(dp3075
+S'20:08:52'
+p3076
 I3
 ssg9
-(lp3072
+(lp3077
 S'As the Germans would say, "Der good.'
-p3073
-aS'Der good.'
-p3074
-aS'"What I was focusing on in my comments on Germany is what happened to government [[applause]] spending as a share of GDP.'
-p3075
-aS"Germany did not do a big Keynesian stimulus program.It doesn't mean that I want to embrace German fiscal policy because the overall burdenof government spending is higher, actually not that much higher than it is in the U.S.They're something like 44 percent of GDP."
-p3076
-aS"We're getting close to 40 now after theBush-Obama spending binge."
-p3077
-aS"But Germany didn't do a Keynesian stimulus package ofany magnitude close to the U.S. And I think that served them well, similar to whathappened in Canada."
 p3078
-aS'Now, other things were involved.'
+aS'Der good.'
 p3079
-aS'Canada never had a housingbubble.'
+aS'"What I was focusing on in my comments on Germany is what happened to government [[applause]] spending as a share of GDP.'
 p3080
-aS'And of course that helped a lot.'
+aS"Germany did not do a big Keynesian stimulus program.It doesn't mean that I want to embrace German fiscal policy because the overall burdenof government spending is higher, actually not that much higher than it is in the U.S.They're something like 44 percent of GDP."
 p3081
-aS"There's a ton of different economic policiesthat matter."
+aS"We're getting close to 40 now after theBush-Obama spending binge."
 p3082
-aS"But my point on Germany was just a simple one, that they didn't do theKeynesian policy --"
+aS"But Germany didn't do a Keynesian stimulus package ofany magnitude close to the U.S. And I think that served them well, similar to whathappened in Canada."
 p3083
+aS'Now, other things were involved.'
+p3084
+aS'Canada never had a housingbubble.'
+p3085
+aS'And of course that helped a lot.'
+p3086
+aS"There's a ton of different economic policiesthat matter."
+p3087
+aS"But my point on Germany was just a simple one, that they didn't do theKeynesian policy --"
+p3088
 asg14
-(dp3084
+(dp3089
 I0
 S'46'
-p3085
-ssa(dp3086
-g9
-(lp3087
-S'Okay, Mark -- Mark Zandi would actually like a crack at that question.'
-p3088
-asg12
-S'JOHN DONVAN'
-p3089
-sg17
-(lp3090
-g3088
-asa(dp3091
+p3090
+ssa(dp3091
 g9
 (lp3092
-S'Yeah, no, I was just going to make the point that the Germans provided just as muchfiscal support to their economy as we did in the recession.'
+S'Okay, Mark -- Mark Zandi would actually like a crack at that question.'
 p3093
-aS"The difference is that inGermany, they have automatic stable -- what's called automatic stabilizers in theirbudget."
-p3094
-aS'That means that there is more unemployment insurance.'
-p3095
-aS'There is morewelfare.There are -- the tax code is such that you generate a lot more fiscal support.'
-p3096
-aS"In the U.S.,we have some automatic stabilizers, but they're not nearly as large as in Europe."
-p3097
-aS"Andtherefore, when we get into recessions, we rely more on what we're calling fiscalstimulus."
-p3098
-aS'That is temporary tax cuts and temporary spending.'
-p3099
-asg12
-S'MARK ZANDI'
-p3100
-sg17
-(lp3101
-S'Yeah, no, I was just going to make the point that the Germans provided just as much fiscal support to their economy as we did in the recession.'
-p3102
-aS"The difference is that in Germany, they have automatic stable -- what's called automatic stabilizers in their budget."
-p3103
-aS'That means that there is more unemployment insurance.'
-p3104
-aS'There is more welfare.'
-p3105
-aS'There are -- the tax code is such that you generate a lot more fiscal support.'
-p3106
-aS"In the U.S., we have some automatic stabilizers, but they're not nearly as large as in Europe."
-p3107
-aS"And therefore, when we get into recessions, we rely more on what we're calling fiscal stimulus."
-p3108
-aS'That is temporary tax cuts and temporary spending.'
-p3109
-asg20
-(dp3110
-S'20:09:51'
-p3111
-I5
-ssa(dp3112
-g9
-(lp3113
-S'Okay.'
-p3114
 asg12
 S'JOHN DONVAN'
-p3115
+p3094
 sg17
-(lp3116
-g3114
-asa(dp3117
+(lp3095
+g3093
+asa(dp3096
 g9
-(lp3118
-S'So in terms of the fiscal support to the economy, the Germans did exactly what we didin terms of the GDP.'
-p3119
+(lp3097
+S'Yeah, no, I was just going to make the point that the Germans provided just as muchfiscal support to their economy as we did in the recession.'
+p3098
+aS"The difference is that inGermany, they have automatic stable -- what's called automatic stabilizers in theirbudget."
+p3099
+aS'That means that there is more unemployment insurance.'
+p3100
+aS'There is morewelfare.There are -- the tax code is such that you generate a lot more fiscal support.'
+p3101
+aS"In the U.S.,we have some automatic stabilizers, but they're not nearly as large as in Europe."
+p3102
+aS"Andtherefore, when we get into recessions, we rely more on what we're calling fiscalstimulus."
+p3103
+aS'That is temporary tax cuts and temporary spending.'
+p3104
 asg12
 S'MARK ZANDI'
+p3105
+sg17
+(lp3106
+S'Yeah, no, I was just going to make the point that the Germans provided just as much fiscal support to their economy as we did in the recession.'
+p3107
+aS"The difference is that in Germany, they have automatic stable -- what's called automatic stabilizers in their budget."
+p3108
+aS'That means that there is more unemployment insurance.'
+p3109
+aS'There is more welfare.'
+p3110
+aS'There are -- the tax code is such that you generate a lot more fiscal support.'
+p3111
+aS"In the U.S., we have some automatic stabilizers, but they're not nearly as large as in Europe."
+p3112
+aS"And therefore, when we get into recessions, we rely more on what we're calling fiscal stimulus."
+p3113
+aS'That is temporary tax cuts and temporary spending.'
+p3114
+asg20
+(dp3115
+S'20:09:51'
+p3116
+I5
+ssa(dp3117
+g9
+(lp3118
+S'Okay.'
+p3119
+asg12
+S'JOHN DONVAN'
 p3120
 sg17
 (lp3121
-S'So in terms of the fiscal support to the economy, the Germans did exactly what we did in terms of the GDP.'
-p3122
-asa(dp3123
-g24
-(dp3124
-I4
-S'[laughter]'
-p3125
-ssg9
-(lp3126
-S"It's hard for me to see folks that are not in the lights, so I have to keep calling downtowards the front."
-p3127
-aS"If somebody is up there, wants to take a step down, I'll try to call onyou."
-p3128
-aS'But for -- oh, actually, yeah, so I see you standing up.'
-p3129
-aS'Can you come down into the-- walk toward the light.Just five or six steps, and then we can see you.'
-p3130
-aS'Thanks.'
-p3131
-aS'[[laughter]] '
-p3132
-asg12
-S'JOHN DONVAN'
-p3133
-sg14
-(dp3134
-I0
-S'47'
-p3135
-ssg17
-(lp3136
-S"It's hard for me to see folks that are not in the lights, so I have to keep calling down towards the front."
-p3137
-aS"If somebody is up there, wants to take a step down, I'll try to call on you."
-p3138
-aS'But for -- oh, actually, yeah, so I see you standing up.'
-p3139
-aS'Can you come down into the -- walk toward the light.'
-p3140
-aS'Just five or six steps, and then we can see you.'
-p3141
-aS'Thanks.'
-p3142
-asa(dp3143
+g3119
+asa(dp3122
 g9
-(lp3144
-S"He's a tough moderator, isn't he?"
-p3145
-aS'I mean he --'
-p3146
+(lp3123
+S'So in terms of the fiscal support to the economy, the Germans did exactly what we didin terms of the GDP.'
+p3124
 asg12
 S'MARK ZANDI'
-p3147
+p3125
 sg17
-(lp3148
-S"He's a tough moderator, isn't he?"
-p3149
-aS'I mean he --'
-p3150
-asa(dp3151
-g9
-(lp3152
-S'No.'
-p3153
-aS'No, no, no.'
-p3154
-aS'And -- but I do need this to be terse and, you know --'
-p3155
+(lp3126
+S'So in terms of the fiscal support to the economy, the Germans did exactly what we did in terms of the GDP.'
+p3127
+asa(dp3128
+g24
+(dp3129
+I4
+S'[laughter]'
+p3130
+ssg9
+(lp3131
+S"It's hard for me to see folks that are not in the lights, so I have to keep calling downtowards the front."
+p3132
+aS"If somebody is up there, wants to take a step down, I'll try to call onyou."
+p3133
+aS'But for -- oh, actually, yeah, so I see you standing up.'
+p3134
+aS'Can you come down into the-- walk toward the light.Just five or six steps, and then we can see you.'
+p3135
+aS'Thanks.'
+p3136
+aS'[[laughter]] '
+p3137
 asg12
 S'JOHN DONVAN'
-p3156
+p3138
+sg14
+(dp3139
+I0
+S'47'
+p3140
+ssg17
+(lp3141
+S"It's hard for me to see folks that are not in the lights, so I have to keep calling down towards the front."
+p3142
+aS"If somebody is up there, wants to take a step down, I'll try to call on you."
+p3143
+aS'But for -- oh, actually, yeah, so I see you standing up.'
+p3144
+aS'Can you come down into the -- walk toward the light.'
+p3145
+aS'Just five or six steps, and then we can see you.'
+p3146
+aS'Thanks.'
+p3147
+asa(dp3148
+g9
+(lp3149
+S"He's a tough moderator, isn't he?"
+p3150
+aS'I mean he --'
+p3151
+asg12
+S'MARK ZANDI'
+p3152
 sg17
+(lp3153
+S"He's a tough moderator, isn't he?"
+p3154
+aS'I mean he --'
+p3155
+asa(dp3156
+g9
 (lp3157
 S'No.'
 p3158
@@ -6576,24 +6575,24 @@ aS'No, no, no.'
 p3159
 aS'And -- but I do need this to be terse and, you know --'
 p3160
-asa(dp3161
-g9
-(lp3162
-S'This addressed to the opponents who --'
-p3163
 asg12
-S'MALE SPEAKER'
-p3164
+S'JOHN DONVAN'
+p3161
 sg17
-(lp3165
-g3163
+(lp3162
+S'No.'
+p3163
+aS'No, no, no.'
+p3164
+aS'And -- but I do need this to be terse and, you know --'
+p3165
 asa(dp3166
 g9
 (lp3167
-S'Can you give -- sir, can you tell us your name, please?'
+S'This addressed to the opponents who --'
 p3168
 asg12
-S'JOHN DONVAN'
+S'MALE SPEAKER'
 p3169
 sg17
 (lp3170
@@ -6601,10 +6600,10 @@ g3168
 asa(dp3171
 g9
 (lp3172
-S'Arthur Tannenbaum.'
+S'Can you give -- sir, can you tell us your name, please?'
 p3173
 asg12
-S'ARTHUR TANNENBAUM'
+S'JOHN DONVAN'
 p3174
 sg17
 (lp3175
@@ -6612,300 +6611,300 @@ g3173
 asa(dp3176
 g9
 (lp3177
-S'Thank you.'
+S'Arthur Tannenbaum.'
 p3178
 asg12
-S'JOHN DONVAN'
+S'ARTHUR TANNENBAUM'
 p3179
 sg17
 (lp3180
 g3178
-asg20
-(dp3181
-S'20:10:56'
-p3182
-I1
-ssa(dp3183
+asa(dp3181
 g9
-(lp3184
-S"From where I sit, you've been talking mostly about structural issues."
-p3185
-aS'This motion issupposed to be directed towards cyclical issue.'
-p3186
-aS"So my question for you is this: Isn't it afact that we've had a number of recessions since World War II?"
-p3187
-aS"There's been some formof stimulus that was the response to each of those recessions?"
-p3188
-aS'And we have alwayscome out of these recessions and started growing again.'
-p3189
-asg12
-S'ARTHUR TANNENBAUM'
-p3190
-sg17
-(lp3191
-S"From where I sit, you've been talking mostly about structural issues."
-p3192
-aS'This motion is supposed to be directed towards cyclical issue.'
-p3193
-aS"So my question for you is this: Isn't it a fact that we've had a number of recessions since World War II?"
-p3194
-aS"There's been some form of stimulus that was the response to each of those recessions?"
-p3195
-aS'And we have always come out of these recessions and started growing again.'
-p3196
-asa(dp3197
-g9
-(lp3198
+(lp3182
 S'Thank you.'
-p3199
-aS'Dan Mitchell.'
-p3200
+p3183
 asg12
 S'JOHN DONVAN'
-p3201
+p3184
 sg17
-(lp3202
-S'Thank you.'
-p3203
-aS'Dan Mitchell.'
-p3204
-asa(dp3205
+(lp3185
+g3183
+asg20
+(dp3186
+S'20:10:56'
+p3187
+I1
+ssa(dp3188
 g9
-(lp3206
-S'Well, the question is --'
-p3207
+(lp3189
+S"From where I sit, you've been talking mostly about structural issues."
+p3190
+aS'This motion issupposed to be directed towards cyclical issue.'
+p3191
+aS"So my question for you is this: Isn't it afact that we've had a number of recessions since World War II?"
+p3192
+aS"There's been some formof stimulus that was the response to each of those recessions?"
+p3193
+aS'And we have alwayscome out of these recessions and started growing again.'
+p3194
 asg12
-S'RICHARD EPSTEIN'
-p3208
+S'ARTHUR TANNENBAUM'
+p3195
 sg17
-(lp3209
-g3207
+(lp3196
+S"From where I sit, you've been talking mostly about structural issues."
+p3197
+aS'This motion is supposed to be directed towards cyclical issue.'
+p3198
+aS"So my question for you is this: Isn't it a fact that we've had a number of recessions since World War II?"
+p3199
+aS"There's been some form of stimulus that was the response to each of those recessions?"
+p3200
+aS'And we have always come out of these recessions and started growing again.'
+p3201
+asa(dp3202
+g9
+(lp3203
+S'Thank you.'
+p3204
+aS'Dan Mitchell.'
+p3205
+asg12
+S'JOHN DONVAN'
+p3206
+sg17
+(lp3207
+S'Thank you.'
+p3208
+aS'Dan Mitchell.'
+p3209
 asa(dp3210
 g9
 (lp3211
-S'Okay, Richard, do you want to take it?'
+S'Well, the question is --'
 p3212
 asg12
-S'JOHN DONVAN'
+S'RICHARD EPSTEIN'
 p3213
+sg17
+(lp3214
+g3212
+asa(dp3215
+g9
+(lp3216
+S'Okay, Richard, do you want to take it?'
+p3217
+asg12
+S'JOHN DONVAN'
+p3218
 sg14
-(dp3214
+(dp3219
 I1
 S'48'
-p3215
+p3220
 ssg17
-(lp3216
-g3212
-asa(dp3217
+(lp3221
+g3217
+asa(dp3222
 g9
-(lp3218
+(lp3223
 S'Yeah.'
-p3219
+p3224
 asg12
 S'RICHARD EPSTEIN'
-p3220
+p3225
 sg17
-(lp3221
-g3219
-asa(dp3222
+(lp3226
+g3224
+asa(dp3227
 g24
-(dp3223
+(dp3228
 I1
 S'[laughter]'
-p3224
+p3229
 ssg9
-(lp3225
+(lp3230
 S'Okay.'
-p3226
-aS'Richard Epstein.'
-p3227
-asg12
-S'JOHN DONVAN'
-p3228
-sg17
-(lp3229
-S'Okay.'
-p3230
-aS'Richard Epstein.'
 p3231
-asa(dp3232
-g9
-(lp3233
-S'Why not?'
-p3234
-aS"I mean, I think it's a fair question."
-p3235
-aS'But, of course, we always came out ofthem.'
-p3236
-aS"We're not coming out of them now."
-p3237
-aS"So the question is, what's the source of thedifference?"
-p3238
-aS"And the answer is that the degree of regulation that you have with respectto the economy now has deprived it of the kind of flexibility that allows it to respond.And it's in all the markets ."
-p3239
-aS"Thus far we've talked mainly about labormarkets."
-p3240
-aS'And those are completely tied up by the kind of regulations that are put intoplace.Every point and effort to try to revive the housing markets by giving mortgage supportprograms have turned out to be complete failures.'
-p3241
-aS"The correct response on that maysound harsh, but in fact, it's the only way to get back the stability which is that banksdecide to foreclose, tenants, current owners go, and the property re-circulates at lowerrates so that you get the housing market start."
-p3242
-aS'You cannot keep a housing market goingwhen essentially you allow people to remain in possession while the underlying value ofthe assets go down.'
-p3243
-aS'So our position is really quite this.'
-p3244
-aS"This stimulus program we don'tthink it does very much good and has already exhausted itself."
-p3245
-aS'But the mid-levelregulations that you see in mortgages, in labor, in the banking industry, in the healthcare industry, all of these things are novel drags.'
-p3246
-aS'These are discreet programsintroduced by --'
-p3247
-asg12
-S'RICHARD EPSTEIN'
-p3248
-sg17
-(lp3249
-S'Why not?'
-p3250
-aS"I mean, I think it's a fair question."
-p3251
-aS'But, of course, we always came out of them.'
-p3252
-aS"We're not coming out of them now."
-p3253
-aS"So the question is, what's the source of the difference?"
-p3254
-aS'And the answer is that the degree of regulation that you have with respect to the economy now has deprived it of the kind of flexibility that allows it to respond.'
-p3255
-aS"And it's in all the markets ."
-p3256
-aS"Thus far we've talked mainly about labor markets."
-p3257
-aS'And those are completely tied up by the kind of regulations that are put into place.'
-p3258
-aS'Every point and effort to try to revive the housing markets by giving mortgage support programs have turned out to be complete failures.'
-p3259
-aS"The correct response on that may sound harsh, but in fact, it's the only way to get back the stability which is that banks decide to foreclose, tenants, current owners go, and the property re-circulates at lower rates so that you get the housing market start."
-p3260
-aS'You cannot keep a housing market going when essentially you allow people to remain in possession while the underlying value of the assets go down.'
-p3261
-aS'So our position is really quite this.'
-p3262
-aS"This stimulus program we don't think it does very much good and has already exhausted itself."
-p3263
-aS'But the mid-level regulations that you see in mortgages, in labor, in the banking industry, in the health care industry, all of these things are novel drags.'
-p3264
-aS'These are discreet programs introduced by --'
-p3265
-asg20
-(dp3266
-S'20:11:55'
-p3267
-I7
-ssa(dp3268
-g9
-(lp3269
-S'Okay.'
-p3270
-aS"I'm going to -- I'm going to stop you because --"
-p3271
+aS'Richard Epstein.'
+p3232
 asg12
 S'JOHN DONVAN'
-p3272
+p3233
 sg17
-(lp3273
+(lp3234
 S'Okay.'
-p3274
-aS"I'm going to -- I'm going to stop you because --"
-p3275
-asa(dp3276
+p3235
+aS'Richard Epstein.'
+p3236
+asa(dp3237
 g9
-(lp3277
-S' and those are the source of the difficulty.'
-p3278
+(lp3238
+S'Why not?'
+p3239
+aS"I mean, I think it's a fair question."
+p3240
+aS'But, of course, we always came out ofthem.'
+p3241
+aS"We're not coming out of them now."
+p3242
+aS"So the question is, what's the source of thedifference?"
+p3243
+aS"And the answer is that the degree of regulation that you have with respectto the economy now has deprived it of the kind of flexibility that allows it to respond.And it's in all the markets ."
+p3244
+aS"Thus far we've talked mainly about labormarkets."
+p3245
+aS'And those are completely tied up by the kind of regulations that are put intoplace.Every point and effort to try to revive the housing markets by giving mortgage supportprograms have turned out to be complete failures.'
+p3246
+aS"The correct response on that maysound harsh, but in fact, it's the only way to get back the stability which is that banksdecide to foreclose, tenants, current owners go, and the property re-circulates at lowerrates so that you get the housing market start."
+p3247
+aS'You cannot keep a housing market goingwhen essentially you allow people to remain in possession while the underlying value ofthe assets go down.'
+p3248
+aS'So our position is really quite this.'
+p3249
+aS"This stimulus program we don'tthink it does very much good and has already exhausted itself."
+p3250
+aS'But the mid-levelregulations that you see in mortgages, in labor, in the banking industry, in the healthcare industry, all of these things are novel drags.'
+p3251
+aS'These are discreet programsintroduced by --'
+p3252
 asg12
 S'RICHARD EPSTEIN'
-p3279
+p3253
 sg17
-(lp3280
-g3278
+(lp3254
+S'Why not?'
+p3255
+aS"I mean, I think it's a fair question."
+p3256
+aS'But, of course, we always came out of them.'
+p3257
+aS"We're not coming out of them now."
+p3258
+aS"So the question is, what's the source of the difference?"
+p3259
+aS'And the answer is that the degree of regulation that you have with respect to the economy now has deprived it of the kind of flexibility that allows it to respond.'
+p3260
+aS"And it's in all the markets ."
+p3261
+aS"Thus far we've talked mainly about labor markets."
+p3262
+aS'And those are completely tied up by the kind of regulations that are put into place.'
+p3263
+aS'Every point and effort to try to revive the housing markets by giving mortgage support programs have turned out to be complete failures.'
+p3264
+aS"The correct response on that may sound harsh, but in fact, it's the only way to get back the stability which is that banks decide to foreclose, tenants, current owners go, and the property re-circulates at lower rates so that you get the housing market start."
+p3265
+aS'You cannot keep a housing market going when essentially you allow people to remain in possession while the underlying value of the assets go down.'
+p3266
+aS'So our position is really quite this.'
+p3267
+aS"This stimulus program we don't think it does very much good and has already exhausted itself."
+p3268
+aS'But the mid-level regulations that you see in mortgages, in labor, in the banking industry, in the health care industry, all of these things are novel drags.'
+p3269
+aS'These are discreet programs introduced by --'
+p3270
+asg20
+(dp3271
+S'20:11:55'
+p3272
+I7
+ssa(dp3273
+g9
+(lp3274
+S'Okay.'
+p3275
+aS"I'm going to -- I'm going to stop you because --"
+p3276
+asg12
+S'JOHN DONVAN'
+p3277
+sg17
+(lp3278
+S'Okay.'
+p3279
+aS"I'm going to -- I'm going to stop you because --"
+p3280
 asa(dp3281
 g9
 (lp3282
-S"I'm going to stop you because we have to let you make you that point."
+S' and those are the source of the difficulty.'
 p3283
-aS'And, sir, in theblue shirt.'
-p3284
-aS'Yep, if you can stand, please.'
-p3285
 asg12
-S'JOHN DONVAN'
-p3286
+S'RICHARD EPSTEIN'
+p3284
 sg17
+(lp3285
+g3283
+asa(dp3286
+g9
 (lp3287
 S"I'm going to stop you because we have to let you make you that point."
 p3288
-aS'And, sir, in the blue shirt.'
+aS'And, sir, in theblue shirt.'
 p3289
 aS'Yep, if you can stand, please.'
 p3290
-asa(dp3291
-g9
-(lp3292
-S'My name is Scott Stevens, and I have a question for Mr. Zandi.You say that the $450 billion stimulus should keep us out of recession.'
-p3293
-aS'Could you put anumber on that?'
-p3294
-aS"How many percent in growth do you think we'll get from the stimuluscompared to the counter factual?"
-p3295
-aS'Is that enough, do you think?'
-p3296
-aS'And --'
-p3297
-asg12
-S'SCOTT STEVENS'
-p3298
-sg14
-(dp3299
-I1
-S'49'
-p3300
-ssg17
-(lp3301
-S'My name is Scott Stevens, and I have a question for Mr. Zandi.'
-p3302
-aS'You say that the $450 billion stimulus should keep us out of recession.'
-p3303
-aS'Could you put a number on that?'
-p3304
-aS"How many percent in growth do you think we'll get from the stimulus compared to the counter factual?"
-p3305
-aS'Is that enough, do you think?'
-p3306
-aS'And --'
-p3307
-asg20
-(dp3308
-S'20:12:55'
-p3309
-I1
-ssa(dp3310
-g9
-(lp3311
-S'I think your answer to that is quoted on the White House blog, actually.'
-p3312
 asg12
 S'JOHN DONVAN'
-p3313
+p3291
 sg17
-(lp3314
-g3312
-asa(dp3315
+(lp3292
+S"I'm going to stop you because we have to let you make you that point."
+p3293
+aS'And, sir, in the blue shirt.'
+p3294
+aS'Yep, if you can stand, please.'
+p3295
+asa(dp3296
+g9
+(lp3297
+S'My name is Scott Stevens, and I have a question for Mr. Zandi.You say that the $450 billion stimulus should keep us out of recession.'
+p3298
+aS'Could you put anumber on that?'
+p3299
+aS"How many percent in growth do you think we'll get from the stimuluscompared to the counter factual?"
+p3300
+aS'Is that enough, do you think?'
+p3301
+aS'And --'
+p3302
+asg12
+S'SCOTT STEVENS'
+p3303
+sg14
+(dp3304
+I1
+S'49'
+p3305
+ssg17
+(lp3306
+S'My name is Scott Stevens, and I have a question for Mr. Zandi.'
+p3307
+aS'You say that the $450 billion stimulus should keep us out of recession.'
+p3308
+aS'Could you put a number on that?'
+p3309
+aS"How many percent in growth do you think we'll get from the stimulus compared to the counter factual?"
+p3310
+aS'Is that enough, do you think?'
+p3311
+aS'And --'
+p3312
+asg20
+(dp3313
+S'20:12:55'
+p3314
+I1
+ssa(dp3315
 g9
 (lp3316
-S'Yeah, it is.'
+S'I think your answer to that is quoted on the White House blog, actually.'
 p3317
 asg12
-S'MARK ZANDI'
+S'JOHN DONVAN'
 p3318
 sg17
 (lp3319
@@ -6913,10 +6912,10 @@ g3317
 asa(dp3320
 g9
 (lp3321
-S"I haven't had a chance to read that."
+S'Yeah, it is.'
 p3322
 asg12
-S'SCOTT STEVENS'
+S'MARK ZANDI'
 p3323
 sg17
 (lp3324
@@ -6924,10 +6923,10 @@ g3322
 asa(dp3325
 g9
 (lp3326
-S'Yeah.'
+S"I haven't had a chance to read that."
 p3327
 asg12
-S'JOHN DONVAN'
+S'SCOTT STEVENS'
 p3328
 sg17
 (lp3329
@@ -6937,51 +6936,51 @@ g9
 (lp3331
 S'Yeah.'
 p3332
-aS"Which, as I said earlier, means it's right, right?"
-p3333
-asg12
-S'MARK ZANDI'
-p3334
-sg17
-(lp3335
-S'Yeah.'
-p3336
-aS"Which, as I said earlier, means it's right, right?"
-p3337
-asa(dp3338
-g9
-(lp3339
-S"So, Mark, why don't you take that question?"
-p3340
-aS'Put --'
-p3341
 asg12
 S'JOHN DONVAN'
-p3342
+p3333
 sg17
-(lp3343
-S"So, Mark, why don't you take that question?"
-p3344
-aS'Put --'
-p3345
-asa(dp3346
+(lp3334
+g3332
+asa(dp3335
 g9
-(lp3347
-S"Do you have something else you'd like to say?"
-p3348
+(lp3336
+S'Yeah.'
+p3337
+aS"Which, as I said earlier, means it's right, right?"
+p3338
 asg12
 S'MARK ZANDI'
-p3349
+p3339
 sg17
-(lp3350
-g3348
+(lp3340
+S'Yeah.'
+p3341
+aS"Which, as I said earlier, means it's right, right?"
+p3342
+asa(dp3343
+g9
+(lp3344
+S"So, Mark, why don't you take that question?"
+p3345
+aS'Put --'
+p3346
+asg12
+S'JOHN DONVAN'
+p3347
+sg17
+(lp3348
+S"So, Mark, why don't you take that question?"
+p3349
+aS'Put --'
+p3350
 asa(dp3351
 g9
 (lp3352
-S"I'd like to keep it as a one-part --"
+S"Do you have something else you'd like to say?"
 p3353
 asg12
-S'JOHN DONVAN'
+S'MARK ZANDI'
 p3354
 sg17
 (lp3355
@@ -6989,10 +6988,10 @@ g3353
 asa(dp3356
 g9
 (lp3357
-S"It's enough and --"
+S"I'd like to keep it as a one-part --"
 p3358
 asg12
-S'SCOTT STEVENS'
+S'JOHN DONVAN'
 p3359
 sg17
 (lp3360
@@ -7000,10 +6999,10 @@ g3358
 asa(dp3361
 g9
 (lp3362
-S'Yeah.'
+S"It's enough and --"
 p3363
 asg12
-S'MARK ZANDI'
+S'SCOTT STEVENS'
 p3364
 sg17
 (lp3365
@@ -7011,10 +7010,10 @@ g3363
 asa(dp3366
 g9
 (lp3367
-S'Okay.'
+S'Yeah.'
 p3368
 asg12
-S'JOHN DONVAN'
+S'MARK ZANDI'
 p3369
 sg17
 (lp3370
@@ -7022,10 +7021,10 @@ g3368
 asa(dp3371
 g9
 (lp3372
-S"Considering that it's being paid for too, that'd take a lot of the growth away from it."
+S'Okay.'
 p3373
 asg12
-S'SCOTT STEVENS'
+S'JOHN DONVAN'
 p3374
 sg17
 (lp3375
@@ -7033,43 +7032,43 @@ g3373
 asa(dp3376
 g9
 (lp3377
-S'Right.'
+S"Considering that it's being paid for too, that'd take a lot of the growth away from it."
 p3378
 asg12
-S'MARK ZANDI'
+S'SCOTT STEVENS'
 p3379
+sg17
+(lp3380
+g3378
+asa(dp3381
+g9
+(lp3382
+S'Right.'
+p3383
+asg12
+S'MARK ZANDI'
+p3384
 sg14
-(dp3380
+(dp3385
 I0
 S'50'
-p3381
-ssg17
-(lp3382
-g3378
-asa(dp3383
-g9
-(lp3384
-S"And while you're at it --"
-p3385
-asg12
-S'SCOTT STEVENS'
 p3386
-sg17
+ssg17
 (lp3387
-g3385
+g3383
 asa(dp3388
 g9
 (lp3389
-S'No, no.'
+S"And while you're at it --"
 p3390
-aS"That's good."
-p3391
-aS'Thank you.'
-p3392
 asg12
-S'JOHN DONVAN'
-p3393
+S'SCOTT STEVENS'
+p3391
 sg17
+(lp3392
+g3390
+asa(dp3393
+g9
 (lp3394
 S'No, no.'
 p3395
@@ -7077,918 +7076,1149 @@ aS"That's good."
 p3396
 aS'Thank you.'
 p3397
-asa(dp3398
-g24
-(dp3399
-I1
-S'[laughter]'
-p3400
-ssg9
-(lp3401
-S'Yes, and the Cardinals will win the World Series, yes.You like that, huh?'
-p3402
-aS'[[laughter]] Well, if you do the arithmetic, the math, under current policy, if there is no change inpolicy, federal fiscal policy will shave 1.7 percentage points from GDP growth in 2012.State and local governments cuts will take the total fiscal drag -- this is the headwind tothe economy -- to two percentage points of GDP.'
-p3403
-aS'The Obama jobs package providesstimulus equal to two percent of GDP.'
-p3404
-aS"So the intent is to neutralize the fiscal drag.Now, you know, if I were king for the day, I'd say, you know, we can digest some fiscalausterity."
-p3405
-aS"We don't have to go the whole Monty here, but we need to do something.We can't just -- we're not going to be able to digest two percentage points ."
-p3406
-asg12
-S'MARK ZANDI'
-p3407
-sg17
-(lp3408
-S'Yes, and the Cardinals will win the World Series, yes.'
-p3409
-aS'You like that, huh?'
-p3410
-aS'Well, if you do the arithmetic, the math, under current policy, if there is no change in policy, federal fiscal policy will shave 1.7 percentage points from GDP growth in 2012.'
-p3411
-aS'State and local governments cuts will take the total fiscal drag -- this is the headwind to the economy -- to two percentage points of GDP.'
-p3412
-aS'The Obama jobs package provides stimulus equal to two percent of GDP.'
-p3413
-aS'So the intent is to neutralize the fiscal drag.'
-p3414
-aS"Now, you know, if I were king for the day, I'd say, you know, we can digest some fiscal austerity."
-p3415
-aS"We don't have to go the whole Monty here, but we need to do something."
-p3416
-aS"We can't just -- we're not going to be able to digest two percentage points ."
-p3417
-asg20
-(dp3418
-S'20:13:50'
-p3419
-I2
-ssa(dp3420
-g9
-(lp3421
-S'All right.'
-p3422
-aS'So you were very specific.'
-p3423
-aS'I want to go to the other side and say that he wasvery specific.'
-p3424
 asg12
 S'JOHN DONVAN'
-p3425
+p3398
 sg17
+(lp3399
+S'No, no.'
+p3400
+aS"That's good."
+p3401
+aS'Thank you.'
+p3402
+asa(dp3403
+g24
+(dp3404
+I1
+S'[laughter]'
+p3405
+ssg9
+(lp3406
+S'Yes, and the Cardinals will win the World Series, yes.You like that, huh?'
+p3407
+aS'[[laughter]] Well, if you do the arithmetic, the math, under current policy, if there is no change inpolicy, federal fiscal policy will shave 1.7 percentage points from GDP growth in 2012.State and local governments cuts will take the total fiscal drag -- this is the headwind tothe economy -- to two percentage points of GDP.'
+p3408
+aS'The Obama jobs package providesstimulus equal to two percent of GDP.'
+p3409
+aS"So the intent is to neutralize the fiscal drag.Now, you know, if I were king for the day, I'd say, you know, we can digest some fiscalausterity."
+p3410
+aS"We don't have to go the whole Monty here, but we need to do something.We can't just -- we're not going to be able to digest two percentage points ."
+p3411
+asg12
+S'MARK ZANDI'
+p3412
+sg17
+(lp3413
+S'Yes, and the Cardinals will win the World Series, yes.'
+p3414
+aS'You like that, huh?'
+p3415
+aS'Well, if you do the arithmetic, the math, under current policy, if there is no change in policy, federal fiscal policy will shave 1.7 percentage points from GDP growth in 2012.'
+p3416
+aS'State and local governments cuts will take the total fiscal drag -- this is the headwind to the economy -- to two percentage points of GDP.'
+p3417
+aS'The Obama jobs package provides stimulus equal to two percent of GDP.'
+p3418
+aS'So the intent is to neutralize the fiscal drag.'
+p3419
+aS"Now, you know, if I were king for the day, I'd say, you know, we can digest some fiscal austerity."
+p3420
+aS"We don't have to go the whole Monty here, but we need to do something."
+p3421
+aS"We can't just -- we're not going to be able to digest two percentage points ."
+p3422
+asg20
+(dp3423
+S'20:13:50'
+p3424
+I2
+ssa(dp3425
+g9
 (lp3426
 S'All right.'
 p3427
 aS'So you were very specific.'
 p3428
-aS'I want to go to the other side and say that he was very specific.'
+aS'I want to go to the other side and say that he wasvery specific.'
 p3429
-asa(dp3430
-g9
-(lp3431
-S"Well, there's a certain beauty to being exact about something."
-p3432
-aS"But if you go back andlook at what Mark was saying in 2010 and what Mark was saying in 2009 and what Markwas saying in 2008, and then you compare those things to reality, they're alwaysdifferent than what actually happened.Now, of course, Mark will say, but other things happened in the economy."
-p3433
-asg12
-S'DANIEL MITCHELL'
-p3434
-sg17
-(lp3435
-S"Well, there's a certain beauty to being exact about something."
-p3436
-aS"But if you go back and look at what Mark was saying in 2010 and what Mark was saying in 2009 and what Mark was saying in 2008, and then you compare those things to reality, they're always different than what actually happened."
-p3437
-aS'Now, of course, Mark will say, but other things happened in the economy.'
-p3438
-asg20
-(dp3439
-S'20:15:01'
-p3440
-I4
-ssa(dp3441
-g24
-(dp3442
-I1
-S'[laughter]'
-p3443
-ssg9
-(lp3444
-S'No, no, I think I got it right.'
-p3445
-asg12
-S'MARK ZANDI'
-p3446
-sg14
-(dp3447
-I1
-S'51'
-p3448
-ssg17
-(lp3449
-g3445
-asa(dp3450
-g9
-(lp3451
-S"But I think this gets at the problem that when you have a model that presupposes theresults, Mark has a model and if you put in the certain amount of government spending,that will automatically spit out a certain number of GDP unemployment, probablydepending on how it's spent."
-p3452
-aS"I'm sure there are some greater details to it."
-p3453
-aS"CPO has thesame model, and these are the kinds of models that gave us the White House, I guess,Transition Team document that said if we squandered $850 billion, our unemploymentrate would never go above eight percent, and it just didn't work."
-p3454
-aS"It doesn't matter howmany decimals you have in your estimate."
-p3455
-aS"If the fundamental underlying premise iswrong, it doesn't work."
-p3456
-asg12
-S'DANIEL MITCHELL'
-p3457
-sg17
-(lp3458
-S"But I think this gets at the problem that when you have a model that presupposes the results, Mark has a model and if you put in the certain amount of government spending, that will automatically spit out a certain number of GDP unemployment, probably depending on how it's spent."
-p3459
-aS"I'm sure there are some greater details to it."
-p3460
-aS"CPO has the same model, and these are the kinds of models that gave us the White House, I guess, Transition Team document that said if we squandered $850 billion, our unemployment rate would never go above eight percent, and it just didn't work."
-p3461
-aS"It doesn't matter how many decimals you have in your estimate."
-p3462
-aS"If the fundamental underlying premise is wrong, it doesn't work."
-p3463
-asa(dp3464
-g9
-(lp3465
-S'Okay, on that --'
-p3466
 asg12
 S'JOHN DONVAN'
-p3467
+p3430
 sg17
-(lp3468
-g3466
+(lp3431
+S'All right.'
+p3432
+aS'So you were very specific.'
+p3433
+aS'I want to go to the other side and say that he was very specific.'
+p3434
+asa(dp3435
+g9
+(lp3436
+S"Well, there's a certain beauty to being exact about something."
+p3437
+aS"But if you go back andlook at what Mark was saying in 2010 and what Mark was saying in 2009 and what Markwas saying in 2008, and then you compare those things to reality, they're alwaysdifferent than what actually happened.Now, of course, Mark will say, but other things happened in the economy."
+p3438
+asg12
+S'DANIEL MITCHELL'
+p3439
+sg17
+(lp3440
+S"Well, there's a certain beauty to being exact about something."
+p3441
+aS"But if you go back and look at what Mark was saying in 2010 and what Mark was saying in 2009 and what Mark was saying in 2008, and then you compare those things to reality, they're always different than what actually happened."
+p3442
+aS'Now, of course, Mark will say, but other things happened in the economy.'
+p3443
+asg20
+(dp3444
+S'20:15:01'
+p3445
+I4
+ssa(dp3446
+g24
+(dp3447
+I1
+S'[laughter]'
+p3448
+ssg9
+(lp3449
+S'No, no, I think I got it right.'
+p3450
+asg12
+S'MARK ZANDI'
+p3451
+sg14
+(dp3452
+I1
+S'51'
+p3453
+ssg17
+(lp3454
+g3450
+asa(dp3455
+g9
+(lp3456
+S"But I think this gets at the problem that when you have a model that presupposes theresults, Mark has a model and if you put in the certain amount of government spending,that will automatically spit out a certain number of GDP unemployment, probablydepending on how it's spent."
+p3457
+aS"I'm sure there are some greater details to it."
+p3458
+aS"CPO has thesame model, and these are the kinds of models that gave us the White House, I guess,Transition Team document that said if we squandered $850 billion, our unemploymentrate would never go above eight percent, and it just didn't work."
+p3459
+aS"It doesn't matter howmany decimals you have in your estimate."
+p3460
+aS"If the fundamental underlying premise iswrong, it doesn't work."
+p3461
+asg12
+S'DANIEL MITCHELL'
+p3462
+sg17
+(lp3463
+S"But I think this gets at the problem that when you have a model that presupposes the results, Mark has a model and if you put in the certain amount of government spending, that will automatically spit out a certain number of GDP unemployment, probably depending on how it's spent."
+p3464
+aS"I'm sure there are some greater details to it."
+p3465
+aS"CPO has the same model, and these are the kinds of models that gave us the White House, I guess, Transition Team document that said if we squandered $850 billion, our unemployment rate would never go above eight percent, and it just didn't work."
+p3466
+aS"It doesn't matter how many decimals you have in your estimate."
+p3467
+aS"If the fundamental underlying premise is wrong, it doesn't work."
+p3468
 asa(dp3469
 g9
 (lp3470
-S"You're not giving me a chance to respond to that, John?"
+S'Okay, on that --'
 p3471
-aS"What's that all about?"
-p3472
-asg12
-S'MARK ZANDI'
-p3473
-sg17
-(lp3474
-S"You're not giving me a chance to respond to that, John?"
-p3475
-aS"What's that all about?"
-p3476
-asg20
-(dp3477
-S'20:15:53'
-p3478
-I1
-ssa(dp3479
-g9
-(lp3480
-S"You're going to say you were right."
-p3481
 asg12
 S'JOHN DONVAN'
-p3482
+p3472
 sg17
-(lp3483
-g3481
-asa(dp3484
+(lp3473
+g3471
+asa(dp3474
+g9
+(lp3475
+S"You're not giving me a chance to respond to that, John?"
+p3476
+aS"What's that all about?"
+p3477
+asg12
+S'MARK ZANDI'
+p3478
+sg17
+(lp3479
+S"You're not giving me a chance to respond to that, John?"
+p3480
+aS"What's that all about?"
+p3481
+asg20
+(dp3482
+S'20:15:53'
+p3483
+I1
+ssa(dp3484
+g9
+(lp3485
+S"You're going to say you were right."
+p3486
+asg12
+S'JOHN DONVAN'
+p3487
+sg17
+(lp3488
+g3486
+asa(dp3489
 g24
-(dp3485
+(dp3490
 I1
 S'[laughter]'
-p3486
+p3491
 ssg9
-(lp3487
+(lp3492
 S'Okay, all right.'
-p3488
+p3493
 asg12
 S'MARK ZANDI'
-p3489
-sg17
-(lp3490
-g3488
-asa(dp3491
-g9
-(lp3492
-S"That's really why I'm not coming back."
-p3493
-aS"You're going to say you were right."
 p3494
-aS'And downthe front?'
-p3495
-asg12
-S'JOHN DONVAN'
-p3496
 sg17
+(lp3495
+g3493
+asa(dp3496
+g9
 (lp3497
 S"That's really why I'm not coming back."
 p3498
 aS"You're going to say you were right."
 p3499
-aS'And down the front?'
+aS'And downthe front?'
 p3500
-asa(dp3501
-g9
+asg12
+S'JOHN DONVAN'
+p3501
+sg17
 (lp3502
-S'Hi, my name is Giovan Jucovovic .'
+S"That's really why I'm not coming back."
 p3503
-aS'I would like to ask a question tothe opponent to this.'
+aS"You're going to say you were right."
 p3504
-aS'You seem to be presenting a broader and more long term visionfor what you think with deregulation and whatnot.'
+aS'And down the front?'
 p3505
+asa(dp3506
+g9
+(lp3507
+S'Hi, my name is Giovan Jucovovic .'
+p3508
+aS'I would like to ask a question tothe opponent to this.'
+p3509
+aS'You seem to be presenting a broader and more long term visionfor what you think with deregulation and whatnot.'
+p3510
 aS'I would like to know how your planof deregulation in general in the economy would benefit Americans besides thewealthiest of Americans and what specifically this would do by creating, like you say,abolishing minimum wage, creating low paying jobs, how would this really benefitAmericans as a whole and not just the top one percent?'
-p3506
+p3511
 asg12
 S'GIOVAN JUCOVOVIC'
-p3507
-sg17
-(lp3508
-S'Hi, my name is Giovan Jucovovic .'
-p3509
-aS'I would like to ask a question to the opponent to this.'
-p3510
-aS'You seem to be presenting a broader and more long term vision for what you think with deregulation and whatnot.'
-p3511
-aS'I would like to know how your plan of deregulation in general in the economy would benefit Americans besides the wealthiest of Americans and what specifically this would do by creating, like you say, abolishing minimum wage, creating low paying jobs, how would this really benefit Americans as a whole and not just the top one percent?'
 p3512
-asa(dp3513
-g9
-(lp3514
-S'And how soon?'
+sg17
+(lp3513
+S'Hi, my name is Giovan Jucovovic .'
+p3514
+aS'I would like to ask a question to the opponent to this.'
 p3515
+aS'You seem to be presenting a broader and more long term vision for what you think with deregulation and whatnot.'
+p3516
+aS'I would like to know how your plan of deregulation in general in the economy would benefit Americans besides the wealthiest of Americans and what specifically this would do by creating, like you say, abolishing minimum wage, creating low paying jobs, how would this really benefit Americans as a whole and not just the top one percent?'
+p3517
+asa(dp3518
+g9
+(lp3519
+S'And how soon?'
+p3520
 asg12
 S'JOHN DONVAN'
-p3516
+p3521
 sg14
-(dp3517
+(dp3522
 I1
 S'52'
-p3518
+p3523
 ssg17
-(lp3519
-g3515
-asa(dp3520
+(lp3524
+g3520
+asa(dp3525
 g24
-(dp3521
+(dp3526
 I1
 S'[applause]'
-p3522
+p3527
 ssg9
-(lp3523
-S'The top one percent --'
-p3524
-asg12
-S'RICHARD EPSTEIN'
-p3525
-sg17
-(lp3526
-g3524
-asa(dp3527
-g9
 (lp3528
-S'Richard Epstein.'
+S'The top one percent --'
 p3529
 asg12
-S'JOHN DONVAN'
+S'RICHARD EPSTEIN'
 p3530
 sg17
 (lp3531
 g3529
 asa(dp3532
+g9
+(lp3533
+S'Richard Epstein.'
+p3534
+asg12
+S'JOHN DONVAN'
+p3535
+sg17
+(lp3536
+g3534
+asa(dp3537
 g24
-(dp3533
+(dp3538
 I5
 S'[laughter]'
-p3534
-ssg9
-(lp3535
-S'First of all, with respect to the top one percent, I think one ought to look at some of thenumbers.'
-p3536
-aS"The amount of revenue that has been collected from the top one percent inthe last -- from 2007 to 2009 declined by about 30 percent, so that what you're trying todo is to hit a top figure and assume that nothing you could do to them can hurt them.They have been hurt in terms of the money they have very much.Oh, laugh, if you may, but remember, 40 percent of that goes into your tax revenues."
-p3537
-aS'So [[laughter]] every time, what you do is you cut the revenue at the top, you cut the revenue for theprograms that are needed to support the stimulus.'
-p3538
-aS'Dream on if you think that you canavoid that kind of situation.'
 p3539
+ssg9
+(lp3540
+S'First of all, with respect to the top one percent, I think one ought to look at some of thenumbers.'
+p3541
+aS"The amount of revenue that has been collected from the top one percent inthe last -- from 2007 to 2009 declined by about 30 percent, so that what you're trying todo is to hit a top figure and assume that nothing you could do to them can hurt them.They have been hurt in terms of the money they have very much.Oh, laugh, if you may, but remember, 40 percent of that goes into your tax revenues."
+p3542
+aS'So [[laughter]] every time, what you do is you cut the revenue at the top, you cut the revenue for theprograms that are needed to support the stimulus.'
+p3543
+aS'Dream on if you think that you canavoid that kind of situation.'
+p3544
 aS'If you reduce income at the top, you reduce the amount ofmoney available for transfer .'
-p3540
+p3545
 asg12
 S'RICHARD EPSTEIN'
-p3541
-sg17
-(lp3542
-S'First of all, with respect to the top one percent, I think one ought to look at some of the numbers.'
-p3543
-aS"The amount of revenue that has been collected from the top one percent in the last -- from 2007 to 2009 declined by about 30 percent, so that what you're trying to do is to hit a top figure and assume that nothing you could do to them can hurt them."
-p3544
-aS'They have been hurt in terms of the money they have very much.'
-p3545
-aS'Oh, laugh, if you may, but remember, 40 percent of that goes into your tax revenues.'
 p3546
-aS'So every time, what you do is you cut the revenue at the top, you cut the revenue for the programs that are needed to support the stimulus.'
-p3547
-aS'Dream on if you think that you can avoid that kind of situation.'
-p3548
-aS'If you reduce income at the top, you reduce the amount of money available for transfer .'
-p3549
-asg20
-(dp3550
-S'20:17:00'
-p3551
-I4
-ssa(dp3552
-g9
-(lp3553
-S'Mark Zandi, do you --'
-p3554
-asg12
-S'JOHN DONVAN'
-p3555
 sg17
-(lp3556
-g3554
-asa(dp3557
+(lp3547
+S'First of all, with respect to the top one percent, I think one ought to look at some of the numbers.'
+p3548
+aS"The amount of revenue that has been collected from the top one percent in the last -- from 2007 to 2009 declined by about 30 percent, so that what you're trying to do is to hit a top figure and assume that nothing you could do to them can hurt them."
+p3549
+aS'They have been hurt in terms of the money they have very much.'
+p3550
+aS'Oh, laugh, if you may, but remember, 40 percent of that goes into your tax revenues.'
+p3551
+aS'So every time, what you do is you cut the revenue at the top, you cut the revenue for the programs that are needed to support the stimulus.'
+p3552
+aS'Dream on if you think that you can avoid that kind of situation.'
+p3553
+aS'If you reduce income at the top, you reduce the amount of money available for transfer .'
+p3554
+asg20
+(dp3555
+S'20:17:00'
+p3556
+I4
+ssa(dp3557
 g9
 (lp3558
-S'At the bottom, what you have to do is if you reduce these things, you would get peopleon the job ladder.'
+S'Mark Zandi, do you --'
 p3559
-aS'The moment they are on the job ladder because employers now findit in their interest, they will advance.'
+asg12
+S'JOHN DONVAN'
 p3560
+sg17
+(lp3561
+g3559
+asa(dp3562
+g9
+(lp3563
+S'At the bottom, what you have to do is if you reduce these things, you would get peopleon the job ladder.'
+p3564
+aS'The moment they are on the job ladder because employers now findit in their interest, they will advance.'
+p3565
 aS'When you look at -- for example if people couldget in at minimum wage jobs, typically within six months or less they have managed topromote themselves to another type of job.'
-p3561
+p3566
 aS'This can take place immediately, but it willnot take place by employers unless they have some confidence in the long term stabilityof the system.Every major tax measure that we have now has a two-year timeframe on it so that theuncertainty dominates in my judgment the kinds of stimulus that you hope to get by thespending policy.'
-p3562
+p3567
 asg12
 S'RICHARD EPSTEIN'
-p3563
+p3568
 sg14
-(dp3564
+(dp3569
 I10
 S'53'
-p3565
-ssg17
-(lp3566
-S'At the bottom, what you have to do is if you reduce these things, you would get people on the job ladder.'
-p3567
-aS'The moment they are on the job ladder because employers now find it in their interest, they will advance.'
-p3568
-aS'When you look at -- for example if people could get in at minimum wage jobs, typically within six months or less they have managed to promote themselves to another type of job.'
-p3569
-aS'This can take place immediately, but it will not take place by employers unless they have some confidence in the long term stability of the system.'
 p3570
-aS'Every major tax measure that we have now has a two-year timeframe on it so that the uncertainty dominates in my judgment the kinds of stimulus that you hope to get by the spending policy.'
-p3571
-asg20
-(dp3572
-S'20:17:52'
+ssg17
+(lp3571
+S'At the bottom, what you have to do is if you reduce these things, you would get people on the job ladder.'
+p3572
+aS'The moment they are on the job ladder because employers now find it in their interest, they will advance.'
 p3573
+aS'When you look at -- for example if people could get in at minimum wage jobs, typically within six months or less they have managed to promote themselves to another type of job.'
+p3574
+aS'This can take place immediately, but it will not take place by employers unless they have some confidence in the long term stability of the system.'
+p3575
+aS'Every major tax measure that we have now has a two-year timeframe on it so that the uncertainty dominates in my judgment the kinds of stimulus that you hope to get by the spending policy.'
+p3576
+asg20
+(dp3577
+S'20:17:52'
+p3578
 I7
-ssa(dp3574
+ssa(dp3579
 g24
-(dp3575
+(dp3580
 I1
 S'[applause]'
-p3576
-ssg9
-(lp3577
-S"And that concludes round two of our debate.And here's where we are -- we're about to hear a brief closing statement from each [[applause]] debater in turn, they will be two minutes each, uninterrupted."
-p3578
-aS'And remember how youvoted before the debate, because this is their last chance to try to persuade you to votefor their arguments at the end, and the team that has changed the most minds will bedeclared our winner.'
-p3579
-aS'So on to round three.'
-p3580
-aS'These are closing statements from eachdebater in turn, two minutes each.'
 p3581
+ssg9
+(lp3582
+S"And that concludes round two of our debate.And here's where we are -- we're about to hear a brief closing statement from each [[applause]] debater in turn, they will be two minutes each, uninterrupted."
+p3583
+aS'And remember how youvoted before the debate, because this is their last chance to try to persuade you to votefor their arguments at the end, and the team that has changed the most minds will bedeclared our winner.'
+p3584
+aS'So on to round three.'
+p3585
+aS'These are closing statements from eachdebater in turn, two minutes each.'
+p3586
 aS'Our motion is this, "Congress should pass Obama\'sjobs plan piece by piece," and here to summarize his position against this motion, DanielMitchell, senior fellow at the Cato Institute.'
-p3582
+p3587
 asg12
 S'JOHN DONVAN'
-p3583
-sg17
-(lp3584
-S'And that concludes round two of our debate.'
-p3585
-aS"And here's where we are -- we're about to hear a brief closing statement from each debater in turn, they will be two minutes each, uninterrupted."
-p3586
-aS'And remember how you voted before the debate, because this is their last chance to try to persuade you to vote for their arguments at the end, and the team that has changed the most minds will be declared our winner.'
-p3587
-aS'So on to round three.'
 p3588
-aS'These are closing statements from each debater in turn, two minutes each.'
-p3589
-aS'Our motion is this, "Congress should pass Obama\'s jobs plan piece by piece," and here to summarize his position against this motion, Daniel Mitchell, senior fellow at the Cato Institute.'
+sg17
+(lp3589
+S'And that concludes round two of our debate.'
 p3590
-asa(dp3591
-g9
-(lp3592
-S"Congress should not pass the president's job proposal either in its entirety or piece bypiece because it represents a fundamentally misguided view of the economy, that youcan make yourself richer by taking money out of one pocket and putting it in the other.I think the historical evidence, the cross-country evidence does not support theKeynesian theory."
+aS"And here's where we are -- we're about to hear a brief closing statement from each debater in turn, they will be two minutes each, uninterrupted."
+p3591
+aS'And remember how you voted before the debate, because this is their last chance to try to persuade you to vote for their arguments at the end, and the team that has changed the most minds will be declared our winner.'
+p3592
+aS'So on to round three.'
 p3593
-aS'But more importantly, I think good long run policy is good short runpolicy.'
+aS'These are closing statements from each debater in turn, two minutes each.'
 p3594
-aS"I want to try to get back the labor market conditions we had under Reagan andClinton, and the one common characteristic of what we had under both Reagan andClinton was that economic freedom in America broadly defined -- so we're not justtalking the fiscal policy, but more than just fiscal policy affects the economy -- economicfreedom in America increased during the Reagan years and the Clinton years, bycontrast, economic freedom declined during the Bush years, and that decline hascontinued during the Obama years."
+aS'Our motion is this, "Congress should pass Obama\'s jobs plan piece by piece," and here to summarize his position against this motion, Daniel Mitchell, senior fellow at the Cato Institute.'
 p3595
-aS"And if we accept -- even if we don't like it, if weaccept the notion that jobs are only created when employers think that it's going to beprofitable to create those jobs, we need to figure out what type of economic conditionswill lead to that greater prosperity.And, again, I come back to what originally was a joke line, but I really want to make apremise, why is it that an economy like Hong Kong manages to grow so fast over such along period of time, it takes in enormous amounts of immigrants, people rise frompoverty to prosperity relatively quickly."
-p3596
-aS'Thats the kind of economy I want to mimic.Not because I care about the top one percent.'
-p3597
-aS'The top one percent have never really, Idont know, maybe some of them gave to the Cato Institute, so if youre out therelistening, I love you.'
+asa(dp3596
+g9
+(lp3597
+S"Congress should not pass the president's job proposal either in its entirety or piece bypiece because it represents a fundamentally misguided view of the economy, that youcan make yourself richer by taking money out of one pocket and putting it in the other.I think the historical evidence, the cross-country evidence does not support theKeynesian theory."
 p3598
-aS'But I care a lot more about the people at the bottom than at thetop.'
+aS'But more importantly, I think good long run policy is good short runpolicy.'
 p3599
-aS'If theres a recession, the Donald Trumps and Warren Buffetts and Bill Gates of theworld never have to worry about how their household budget is going to be balanced.Thats why I want to copy Hong Kong.'
+aS"I want to try to get back the labor market conditions we had under Reagan andClinton, and the one common characteristic of what we had under both Reagan andClinton was that economic freedom in America broadly defined -- so we're not justtalking the fiscal policy, but more than just fiscal policy affects the economy -- economicfreedom in America increased during the Reagan years and the Clinton years, bycontrast, economic freedom declined during the Bush years, and that decline hascontinued during the Obama years."
 p3600
-aS'In France, the rich people have figured how towork it; I dont care about them.'
+aS"And if we accept -- even if we don't like it, if weaccept the notion that jobs are only created when employers think that it's going to beprofitable to create those jobs, we need to figure out what type of economic conditionswill lead to that greater prosperity.And, again, I come back to what originally was a joke line, but I really want to make apremise, why is it that an economy like Hong Kong manages to grow so fast over such along period of time, it takes in enormous amounts of immigrants, people rise frompoverty to prosperity relatively quickly."
 p3601
-aS'Thank you.'
+aS'Thats the kind of economy I want to mimic.Not because I care about the top one percent.'
 p3602
+aS'The top one percent have never really, Idont know, maybe some of them gave to the Cato Institute, so if youre out therelistening, I love you.'
+p3603
+aS'But I care a lot more about the people at the bottom than at thetop.'
+p3604
+aS'If theres a recession, the Donald Trumps and Warren Buffetts and Bill Gates of theworld never have to worry about how their household budget is going to be balanced.Thats why I want to copy Hong Kong.'
+p3605
+aS'In France, the rich people have figured how towork it; I dont care about them.'
+p3606
+aS'Thank you.'
+p3607
 asg12
 S'DANIEL MITCHELL'
-p3603
+p3608
 sg14
-(dp3604
+(dp3609
 I22
 S'54'
-p3605
-ssg17
-(lp3606
-S"Congress should not pass the president's job proposal either in its entirety or piece by piece because it represents a fundamentally misguided view of the economy, that you can make yourself richer by taking money out of one pocket and putting it in the other."
-p3607
-aS'I think the historical evidence, the cross-country evidence does not support the Keynesian theory.'
-p3608
-aS'But more importantly, I think good long run policy is good short run policy.'
-p3609
-aS"I want to try to get back the labor market conditions we had under Reagan and Clinton, and the one common characteristic of what we had under both Reagan and Clinton was that economic freedom in America broadly defined -- so we're not just talking the fiscal policy, but more than just fiscal policy affects the economy -- economic freedom in America increased during the Reagan years and the Clinton years, by contrast, economic freedom declined during the Bush years, and that decline has continued during the Obama years."
 p3610
-aS"And if we accept -- even if we don't like it, if we accept the notion that jobs are only created when employers think that it's going to be profitable to create those jobs, we need to figure out what type of economic conditions will lead to that greater prosperity."
-p3611
-aS'And, again, I come back to what originally was a joke line, but I really want to make a premise, why is it that an economy like Hong Kong manages to grow so fast over such a long period of time, it takes in enormous amounts of immigrants, people rise from poverty to prosperity relatively quickly.'
+ssg17
+(lp3611
+S"Congress should not pass the president's job proposal either in its entirety or piece by piece because it represents a fundamentally misguided view of the economy, that you can make yourself richer by taking money out of one pocket and putting it in the other."
 p3612
-aS'Thats the kind of economy I want to mimic.'
+aS'I think the historical evidence, the cross-country evidence does not support the Keynesian theory.'
 p3613
-aS'Not because I care about the top one percent.'
+aS'But more importantly, I think good long run policy is good short run policy.'
 p3614
-aS'The top one percent have never really, I dont know, maybe some of them gave to the Cato Institute, so if youre out there listening, I love you.'
+aS"I want to try to get back the labor market conditions we had under Reagan and Clinton, and the one common characteristic of what we had under both Reagan and Clinton was that economic freedom in America broadly defined -- so we're not just talking the fiscal policy, but more than just fiscal policy affects the economy -- economic freedom in America increased during the Reagan years and the Clinton years, by contrast, economic freedom declined during the Bush years, and that decline has continued during the Obama years."
 p3615
-aS'But I care a lot more about the people at the bottom than at the top.'
+aS"And if we accept -- even if we don't like it, if we accept the notion that jobs are only created when employers think that it's going to be profitable to create those jobs, we need to figure out what type of economic conditions will lead to that greater prosperity."
 p3616
-aS'If theres a recession, the Donald Trumps and Warren Buffetts and Bill Gates of the world never have to worry about how their household budget is going to be balanced.'
+aS'And, again, I come back to what originally was a joke line, but I really want to make a premise, why is it that an economy like Hong Kong manages to grow so fast over such a long period of time, it takes in enormous amounts of immigrants, people rise from poverty to prosperity relatively quickly.'
 p3617
-aS'Thats why I want to copy Hong Kong.'
+aS'Thats the kind of economy I want to mimic.'
 p3618
-aS'In France, the rich people have figured how to work it; I dont care about them.'
+aS'Not because I care about the top one percent.'
 p3619
-aS'Thank you.'
+aS'The top one percent have never really, I dont know, maybe some of them gave to the Cato Institute, so if youre out there listening, I love you.'
 p3620
-asg20
-(dp3621
-S'20:18:55'
+aS'But I care a lot more about the people at the bottom than at the top.'
+p3621
+aS'If theres a recession, the Donald Trumps and Warren Buffetts and Bill Gates of the world never have to worry about how their household budget is going to be balanced.'
 p3622
+aS'Thats why I want to copy Hong Kong.'
+p3623
+aS'In France, the rich people have figured how to work it; I dont care about them.'
+p3624
+aS'Thank you.'
+p3625
+asg20
+(dp3626
+S'20:18:55'
+p3627
 I3
 sS'20:19:50'
-p3623
+p3628
 I15
-ssa(dp3624
+ssa(dp3629
 g24
-(dp3625
+(dp3630
 I1
 S'[applause]'
-p3626
+p3631
 ssg9
-(lp3627
+(lp3632
 S'Thank you Daniel Mitchell.Our motion, "Congress should pass Obamas job plan piece by piece" and here to [[applause]] summarize his position for the motion, Mark Zandi, chief economist at MoodysAnalytics.'
-p3628
+p3633
 asg12
 S'JOHN DONVAN'
-p3629
+p3634
 sg17
-(lp3630
+(lp3635
 S'Thank you Daniel Mitchell.'
-p3631
+p3636
 aS'Our motion, "Congress should pass Obamas job plan piece by piece" and here to summarize his position for the motion, Mark Zandi, chief economist at Moodys Analytics.'
-p3632
-asa(dp3633
+p3637
+asa(dp3638
 g24
-(dp3634
+(dp3639
 I20
 S'[applause]'
-p3635
+p3640
 ssg12
 S'MARK ZANDI'
-p3636
-sg17
-(lp3637
-S'Thank you John.'
-p3638
-aS'I want to thank you for the opportunity again.'
-p3639
-aS'And I commend the other group for articulating their views so thoughtfully.'
-p3640
-aS'I sympathize with a lot of whats being said by the other group.'
 p3641
-aS'I do think that the economy is encumbered by regulatory, legal uncertainty.'
-p3642
-aS'We have made some major changes to our economy, to our health care system, to our banking system.'
+sg17
+(lp3642
+S'Thank you John.'
 p3643
-aS'And these are difficult things for businesses and individuals to adjust to.'
+aS'I want to thank you for the opportunity again.'
 p3644
-aS'And I do think we need to work hard in reducing that regulatory and legal uncertainty.'
+aS'And I commend the other group for articulating their views so thoughtfully.'
 p3645
-aS'And we do need to take steps to address our long-term problems.'
+aS'I sympathize with a lot of whats being said by the other group.'
 p3646
-aS'Again I think its vital that we work to achieve fiscal sustainability, to get the long term deficits down so that our nation doesnt go the way of Europe or France.'
+aS'I do think that the economy is encumbered by regulatory, legal uncertainty.'
 p3647
-aS'I think tax reform is absolutely vital.'
+aS'We have made some major changes to our economy, to our health care system, to our banking system.'
 p3648
-aS'I think its key to bring down the tax expenditures, the tax credits and deductions in the tax code, make the tax code much fairer, simpler.'
+aS'And these are difficult things for businesses and individuals to adjust to.'
 p3649
-aS'I think our economy would be better for it.'
+aS'And I do think we need to work hard in reducing that regulatory and legal uncertainty.'
 p3650
-aS'And I actually am quite optimistic about our economic prospects.'
+aS'And we do need to take steps to address our long-term problems.'
 p3651
-aS'I think, as I said earlier, we have come a long way.'
+aS'Again I think its vital that we work to achieve fiscal sustainability, to get the long term deficits down so that our nation doesnt go the way of Europe or France.'
 p3652
-aS'Our economy has righted a lot of the wrongs that got us to this point.'
+aS'I think tax reform is absolutely vital.'
 p3653
-aS'Were really very close.'
+aS'I think its key to bring down the tax expenditures, the tax credits and deductions in the tax code, make the tax code much fairer, simpler.'
 p3654
-aS'We just cannot go back into recession in the near future.'
+aS'I think our economy would be better for it.'
 p3655
-aS'That would be damaging, the collective psyche is on edge.'
+aS'And I actually am quite optimistic about our economic prospects.'
 p3656
-aS'Youre nervous; Im nervous; were all very frazzled.'
+aS'I think, as I said earlier, we have come a long way.'
 p3657
-aS'Recession will just tip us over.'
+aS'Our economy has righted a lot of the wrongs that got us to this point.'
 p3658
-aS'The Obama jobs package, even if its passed in small parts, would go a long way to ensuring that we dont go back into recession and that bright economic future actually will be upon us I think sooner than we realize.'
+aS'Were really very close.'
 p3659
-aS'Thank you.'
+aS'We just cannot go back into recession in the near future.'
 p3660
-asg20
-(dp3661
-S'20:21:51'
+aS'That would be damaging, the collective psyche is on edge.'
+p3661
+aS'Youre nervous; Im nervous; were all very frazzled.'
 p3662
+aS'Recession will just tip us over.'
+p3663
+aS'The Obama jobs package, even if its passed in small parts, would go a long way to ensuring that we dont go back into recession and that bright economic future actually will be upon us I think sooner than we realize.'
+p3664
+aS'Thank you.'
+p3665
+asg20
+(dp3666
+S'20:21:51'
+p3667
 I10
 sS'20:20:58'
-p3663
+p3668
 I2
 ssg9
-(lp3664
+(lp3669
 S'Thank you John.'
-p3665
-aS'I want to thank you for the opportunity again.'
-p3666
-aS'And I commend theother group for articulating their views so thoughtfully.I sympathize with a lot of whats being said by the other group.'
-p3667
-aS'I do think that theeconomy is encumbered by regulatory, legal uncertainty.'
-p3668
-aS'We have made some majorchanges to our economy, to our health care system, to our banking system.'
-p3669
-aS'And theseare difficult things for businesses and individuals to adjust to.'
 p3670
-aS'And I do think we need towork hard in reducing that regulatory and legal uncertainty.'
+aS'I want to thank you for the opportunity again.'
 p3671
-aS'And we do need to takesteps to address our long-term problems.'
+aS'And I commend theother group for articulating their views so thoughtfully.I sympathize with a lot of whats being said by the other group.'
 p3672
-aS'Again I think its vital that we work to achievefiscal sustainability, to get the long term deficits down so that our nation doesnt go theway of Europe or France.'
+aS'I do think that theeconomy is encumbered by regulatory, legal uncertainty.'
 p3673
-aS'I think tax reform is absolutely vital.I think its key to bring down the tax expenditures, the tax credits and deductions in thetax code, make the tax code much fairer, simpler.'
+aS'We have made some majorchanges to our economy, to our health care system, to our banking system.'
 p3674
-aS'I think our economy would be betterfor it.'
+aS'And theseare difficult things for businesses and individuals to adjust to.'
 p3675
-aS'And I actually am quite optimistic about our economic prospects.'
+aS'And I do think we need towork hard in reducing that regulatory and legal uncertainty.'
 p3676
-aS'I think, as I saidearlier, we have come a long way.'
+aS'And we do need to takesteps to address our long-term problems.'
 p3677
-aS'Our economy has righted a lot of the wrongs that gotus to this point.'
+aS'Again I think its vital that we work to achievefiscal sustainability, to get the long term deficits down so that our nation doesnt go theway of Europe or France.'
 p3678
-aS'Were really very close.'
+aS'I think tax reform is absolutely vital.I think its key to bring down the tax expenditures, the tax credits and deductions in thetax code, make the tax code much fairer, simpler.'
 p3679
-aS'We just cannot go back into recession in thenear future.'
+aS'I think our economy would be betterfor it.'
 p3680
-aS'That would be damaging, the collective psyche is on edge.'
+aS'And I actually am quite optimistic about our economic prospects.'
 p3681
-aS'Youre nervous;Im nervous; were all very frazzled.'
+aS'I think, as I saidearlier, we have come a long way.'
 p3682
-aS'Recession will just tip us over.'
+aS'Our economy has righted a lot of the wrongs that gotus to this point.'
 p3683
-aS'The Obama jobspackage, even if its passed in small parts, would go a long way to ensuring that we dontgo back into recession and that bright economic future actually will be upon us I thinksooner than we realize.'
+aS'Were really very close.'
 p3684
-aS'Thank you.'
+aS'We just cannot go back into recession in thenear future.'
 p3685
+aS'That would be damaging, the collective psyche is on edge.'
+p3686
+aS'Youre nervous;Im nervous; were all very frazzled.'
+p3687
+aS'Recession will just tip us over.'
+p3688
+aS'The Obama jobspackage, even if its passed in small parts, would go a long way to ensuring that we dontgo back into recession and that bright economic future actually will be upon us I thinksooner than we realize.'
+p3689
+aS'Thank you.'
+p3690
 asg14
-(dp3686
+(dp3691
 I20
 S'55'
-p3687
-ssa(dp3688
+p3692
+ssa(dp3693
 g9
-(lp3689
+(lp3694
 S'Thank you Mark Zandi.'
-p3690
+p3695
 aS'Our motion, "Congress should pass Obamas jobs plan piece bypiece," and here to summarize his position against this motion, Richard Epstein,professor at the New York University School of Law.'
-p3691
+p3696
 asg12
 S'JOHN DONVAN'
-p3692
-sg17
-(lp3693
-S'Thank you Mark Zandi.'
-p3694
-aS'Our motion, "Congress should pass Obamas jobs plan piece by piece," and here to summarize his position against this motion, Richard Epstein, professor at the New York University School of Law.'
-p3695
-asg20
-(dp3696
-S'20:22:58'
 p3697
-I3
-ssa(dp3698
-g9
-(lp3699
-S'Yes, I think what happens is everybody agrees on the importance of trying to get bothshort term and long term proposals.'
+sg17
+(lp3698
+S'Thank you Mark Zandi.'
+p3699
+aS'Our motion, "Congress should pass Obamas jobs plan piece by piece," and here to summarize his position against this motion, Richard Epstein, professor at the New York University School of Law.'
 p3700
-aS'My view about this is, if we do not make long-termstructural returns and make them soon, the stimulus program will not succeed.'
-p3701
-aS'Themost that you could get out of this is six or nine months.'
+asg20
+(dp3701
+S'20:22:58'
 p3702
-aS'After that time, the long termstructures will remain and you will fall into a recession that might be deeper than onethat you take today.'
-p3703
-aS'So what is it that you have to do?'
-p3704
-aS'You have to try to figure outwhy it is that in the last 10 years it has been a lost decade in terms of economic growth.And the answer is not that the stimulus program does or does not work.'
+I3
+ssa(dp3703
+g9
+(lp3704
+S'Yes, I think what happens is everybody agrees on the importance of trying to get bothshort term and long term proposals.'
 p3705
-aS'It is because allon mid-level institutions are inferior to what they were at an earlier time.'
+aS'My view about this is, if we do not make long-termstructural returns and make them soon, the stimulus program will not succeed.'
 p3706
-aS'The labormarkets have become much more regulated.'
+aS'Themost that you could get out of this is six or nine months.'
 p3707
-aS'The banking industry has become muchmore concentrated at this particular point.'
+aS'After that time, the long termstructures will remain and you will fall into a recession that might be deeper than onethat you take today.'
 p3708
-aS'Dodd-Frank will introduce all sorts of layersof confusion.The health care bill is a huge drain with respect to potential resources because theunemployment uncertainty is associated with the mandate and everything else are infact going to wield a very heavy load on this system.'
+aS'So what is it that you have to do?'
 p3709
-aS'The question is when will this loadbe bourn?'
+aS'You have to try to figure outwhy it is that in the last 10 years it has been a lost decade in terms of economic growth.And the answer is not that the stimulus program does or does not work.'
 p3710
-aS'The answer is it will be bourn today.'
+aS'It is because allon mid-level institutions are inferior to what they were at an earlier time.'
 p3711
-aS'There is no way in effect that you canchange the situation in the future if in fact you do not change the system correctlytoday.'
+aS'The labormarkets have become much more regulated.'
 p3712
-aS'Employers and everybody else in this economy has rational expectations whichdont only look at the short periods, they look at the long periods.'
+aS'The banking industry has become muchmore concentrated at this particular point.'
 p3713
-aS'So if we start talkingabout stimulus programs which have never worked, what happens is were just going toadd another layer of uncertainty on top of the layer of regulation.'
+aS'Dodd-Frank will introduce all sorts of layersof confusion.The health care bill is a huge drain with respect to potential resources because theunemployment uncertainty is associated with the mandate and everything else are infact going to wield a very heavy load on this system.'
 p3714
-aS'And well be worse offthan we are before.'
+aS'The question is when will this loadbe bourn?'
 p3715
-aS'The question then is, will liberalization work?'
+aS'The answer is it will be bourn today.'
 p3716
-aS'And the answer is ifyou engage in a systematic program of retrenchment and repeal, these things in fact willtake effect immediately and you will start to see some kind of reversal.'
+aS'There is no way in effect that you canchange the situation in the future if in fact you do not change the system correctlytoday.'
 p3717
-aS'We do have aserious problem.We must do something.'
+aS'Employers and everybody else in this economy has rational expectations whichdont only look at the short periods, they look at the long periods.'
 p3718
-aS'But if we think of the economy as being somebody with adiabetic shock, we ought not to add fix it, add to it some sugar.'
+aS'So if we start talkingabout stimulus programs which have never worked, what happens is were just going toadd another layer of uncertainty on top of the layer of regulation.'
 p3719
+aS'And well be worse offthan we are before.'
+p3720
+aS'The question then is, will liberalization work?'
+p3721
+aS'And the answer is ifyou engage in a systematic program of retrenchment and repeal, these things in fact willtake effect immediately and you will start to see some kind of reversal.'
+p3722
+aS'We do have aserious problem.We must do something.'
+p3723
+aS'But if we think of the economy as being somebody with adiabetic shock, we ought not to add fix it, add to it some sugar.'
+p3724
 asg12
 S'RICHARD EPSTEIN'
-p3720
-sg17
-(lp3721
-S'Yes, I think what happens is everybody agrees on the importance of trying to get both short term and long term proposals.'
-p3722
-aS'My view about this is, if we do not make long-term structural returns and make them soon, the stimulus program will not succeed.'
-p3723
-aS'The most that you could get out of this is six or nine months.'
-p3724
-aS'After that time, the long term structures will remain and you will fall into a recession that might be deeper than one that you take today.'
 p3725
-aS'So what is it that you have to do?'
-p3726
-aS'You have to try to figure out why it is that in the last 10 years it has been a lost decade in terms of economic growth.'
+sg17
+(lp3726
+S'Yes, I think what happens is everybody agrees on the importance of trying to get both short term and long term proposals.'
 p3727
-aS'And the answer is not that the stimulus program does or does not work.'
+aS'My view about this is, if we do not make long-term structural returns and make them soon, the stimulus program will not succeed.'
 p3728
-aS'It is because all on mid-level institutions are inferior to what they were at an earlier time.'
+aS'The most that you could get out of this is six or nine months.'
 p3729
-aS'The labor markets have become much more regulated.'
+aS'After that time, the long term structures will remain and you will fall into a recession that might be deeper than one that you take today.'
 p3730
-aS'The banking industry has become much more concentrated at this particular point.'
+aS'So what is it that you have to do?'
 p3731
-aS'Dodd-Frank will introduce all sorts of layers of confusion.'
+aS'You have to try to figure out why it is that in the last 10 years it has been a lost decade in terms of economic growth.'
 p3732
-aS'The health care bill is a huge drain with respect to potential resources because the unemployment uncertainty is associated with the mandate and everything else are in fact going to wield a very heavy load on this system.'
+aS'And the answer is not that the stimulus program does or does not work.'
 p3733
-aS'The question is when will this load be bourn?'
+aS'It is because all on mid-level institutions are inferior to what they were at an earlier time.'
 p3734
-aS'The answer is it will be bourn today.'
+aS'The labor markets have become much more regulated.'
 p3735
-aS'There is no way in effect that you can change the situation in the future if in fact you do not change the system correctly today.'
+aS'The banking industry has become much more concentrated at this particular point.'
 p3736
-aS'Employers and everybody else in this economy has rational expectations which dont only look at the short periods, they look at the long periods.'
+aS'Dodd-Frank will introduce all sorts of layers of confusion.'
 p3737
-aS'So if we start talking about stimulus programs which have never worked, what happens is were just going to add another layer of uncertainty on top of the layer of regulation.'
+aS'The health care bill is a huge drain with respect to potential resources because the unemployment uncertainty is associated with the mandate and everything else are in fact going to wield a very heavy load on this system.'
 p3738
-aS'And well be worse off than we are before.'
+aS'The question is when will this load be bourn?'
 p3739
-aS'The question then is, will liberalization work?'
+aS'The answer is it will be bourn today.'
 p3740
-aS'And the answer is if you engage in a systematic program of retrenchment and repeal, these things in fact will take effect immediately and you will start to see some kind of reversal.'
+aS'There is no way in effect that you can change the situation in the future if in fact you do not change the system correctly today.'
 p3741
-aS'We do have a serious problem.'
+aS'Employers and everybody else in this economy has rational expectations which dont only look at the short periods, they look at the long periods.'
 p3742
-aS'We must do something.'
+aS'So if we start talking about stimulus programs which have never worked, what happens is were just going to add another layer of uncertainty on top of the layer of regulation.'
 p3743
-aS'But if we think of the economy as being somebody with a diabetic shock, we ought not to add fix it, add to it some sugar.'
+aS'And well be worse off than we are before.'
 p3744
-asg20
-(dp3745
-S'20:24:53'
+aS'The question then is, will liberalization work?'
+p3745
+aS'And the answer is if you engage in a systematic program of retrenchment and repeal, these things in fact will take effect immediately and you will start to see some kind of reversal.'
 p3746
+aS'We do have a serious problem.'
+p3747
+aS'We must do something.'
+p3748
+aS'But if we think of the economy as being somebody with a diabetic shock, we ought not to add fix it, add to it some sugar.'
+p3749
+asg20
+(dp3750
+S'20:24:53'
+p3751
 I25
 sS'20:23:52'
-p3747
-I12
-ssa(dp3748
-g24
-(dp3749
-I1
-S'[applause]'
-p3750
-ssg9
-(lp3751
-S'Thank you Richard Epstein.The motion "Congress should pass Obama\'s jobs plan piece by piece," and here to [[applause]] summarize her position in support of the motion, Cecilia Rouse, professor of economicsat Princeton University.'
 p3752
-asg12
-S'JOHN DONVAN'
-p3753
-sg14
+I12
+ssa(dp3753
+g24
 (dp3754
 I1
-S'56'
+S'[applause]'
 p3755
-ssg17
+ssg9
 (lp3756
-S'Thank you Richard Epstein.'
+S'Thank you Richard Epstein.The motion "Congress should pass Obama\'s jobs plan piece by piece," and here to [[applause]] summarize her position in support of the motion, Cecilia Rouse, professor of economicsat Princeton University.'
 p3757
-aS'The motion "Congress should pass Obama\'s jobs plan piece by piece," and here to summarize her position in support of the motion, Cecilia Rouse, professor of economics at Princeton University.'
+asg12
+S'JOHN DONVAN'
 p3758
-asa(dp3759
-g9
-(lp3760
-S'So I do believe that Congress should pass the Obama jobs plan.'
-p3761
-aS'I too am concernedabout the impact of employer mandates on labor markets and believe we should bevery judicious in looking at regulation.'
+sg14
+(dp3759
+I1
+S'56'
+p3760
+ssg17
+(lp3761
+S'Thank you Richard Epstein.'
 p3762
-aS'I think we should only put into place regulationswhere the benefits clearly exceed the costs.'
+aS'The motion "Congress should pass Obama\'s jobs plan piece by piece," and here to summarize her position in support of the motion, Cecilia Rouse, professor of economics at Princeton University.'
 p3763
-aS"I think the evidence isn't really there thatminimum wage is such an egregious regulation."
-p3764
-aS'But that would be another debate.However, if the Clinton administration in the Clinton years were such an example ofeconomic freedom, in 2001, we had a recession where we had a jobless recovery.'
-p3765
-aS'Sowhat happened?'
+asa(dp3764
+g9
+(lp3765
+S'So I do believe that Congress should pass the Obama jobs plan.'
 p3766
-aS'Did the regulatory environment magically change with an election?I think that what we have is -- what that tells us is that this regulatory environment isnot going to address the cyclical changes.'
+aS'I too am concernedabout the impact of employer mandates on labor markets and believe we should bevery judicious in looking at regulation.'
 p3767
-aS'And I think we have a cyclical challenge rightnow.'
+aS'I think we should only put into place regulationswhere the benefits clearly exceed the costs.'
 p3768
-aS"And so I think it's appropriate for the Congress to step in."
+aS"I think the evidence isn't really there thatminimum wage is such an egregious regulation."
 p3769
-aS"Now, as I said from theoutset, I think one of the most important pieces of this is one that's a tax relief foremployees."
+aS'But that would be another debate.However, if the Clinton administration in the Clinton years were such an example ofeconomic freedom, in 2001, we had a recession where we had a jobless recovery.'
 p3770
-aS'I think continuing the federally funded unemployment insurance benefit isvery important as well.I just want to add to that that Congress has always extended these benefits during timesof recession.'
+aS'Sowhat happened?'
 p3771
-aS'And the reason is clear.'
+aS'Did the regulatory environment magically change with an election?I think that what we have is -- what that tells us is that this regulatory environment isnot going to address the cyclical changes.'
 p3772
-aS"It's pennywise and pound foolish not to do so."
+aS'And I think we have a cyclical challenge rightnow.'
 p3773
-aS"Ifworkers and their families aren't supported, they're going to end up on othergovernment programs."
+aS"And so I think it's appropriate for the Congress to step in."
 p3774
-aS'And so Congress -- even Reagan did not stop supportingunemployment insurance benefits until employment had fallen below 7.5 percent.'
+aS"Now, as I said from theoutset, I think one of the most important pieces of this is one that's a tax relief foremployees."
 p3775
-aS'So Ithink Congress typically steps in during times of recession.'
+aS'I think continuing the federally funded unemployment insurance benefit isvery important as well.I just want to add to that that Congress has always extended these benefits during timesof recession.'
 p3776
-aS'I think there are goodeconomic reasons for it to do so.'
+aS'And the reason is clear.'
 p3777
-aS'And I think this is one of those times.'
+aS"It's pennywise and pound foolish not to do so."
 p3778
-aS'Moreimportantly, you know, as Mark has said very carefully, we really do risk falling intoanother recession which will be just devastating for all of us.Might doing nothing make a difference?'
+aS"Ifworkers and their families aren't supported, they're going to end up on othergovernment programs."
 p3779
-aS'It might work.'
+aS'And so Congress -- even Reagan did not stop supportingunemployment insurance benefits until employment had fallen below 7.5 percent.'
 p3780
-aS"But I've got to tell you, I'm not agambling girl, and I'm just not willing to make that gamble for 42 million workers whoare out of work and the millions more who are really suffering economically."
+aS'So Ithink Congress typically steps in during times of recession.'
 p3781
-aS'Thank you.'
+aS'I think there are goodeconomic reasons for it to do so.'
 p3782
+aS'And I think this is one of those times.'
+p3783
+aS'Moreimportantly, you know, as Mark has said very carefully, we really do risk falling intoanother recession which will be just devastating for all of us.Might doing nothing make a difference?'
+p3784
+aS'It might work.'
+p3785
+aS"But I've got to tell you, I'm not agambling girl, and I'm just not willing to make that gamble for 42 million workers whoare out of work and the millions more who are really suffering economically."
+p3786
+aS'Thank you.'
+p3787
 asg12
 S'CECILIA ROUSE'
-p3783
-sg17
-(lp3784
-S'So I do believe that Congress should pass the Obama jobs plan.'
-p3785
-aS'I too am concerned about the impact of employer mandates on labor markets and believe we should be very judicious in looking at regulation.'
-p3786
-aS'I think we should only put into place regulations where the benefits clearly exceed the costs.'
-p3787
-aS"I think the evidence isn't really there that minimum wage is such an egregious regulation."
 p3788
-aS'But that would be another debate.'
-p3789
-aS'However, if the Clinton administration in the Clinton years were such an example of economic freedom, in 2001, we had a recession where we had a jobless recovery.'
+sg17
+(lp3789
+S'So I do believe that Congress should pass the Obama jobs plan.'
 p3790
-aS'So what happened?'
+aS'I too am concerned about the impact of employer mandates on labor markets and believe we should be very judicious in looking at regulation.'
 p3791
-aS'Did the regulatory environment magically change with an election?'
+aS'I think we should only put into place regulations where the benefits clearly exceed the costs.'
 p3792
-aS'I think that what we have is -- what that tells us is that this regulatory environment is not going to address the cyclical changes.'
+aS"I think the evidence isn't really there that minimum wage is such an egregious regulation."
 p3793
-aS'And I think we have a cyclical challenge right now.'
+aS'But that would be another debate.'
 p3794
-aS"And so I think it's appropriate for the Congress to step in."
+aS'However, if the Clinton administration in the Clinton years were such an example of economic freedom, in 2001, we had a recession where we had a jobless recovery.'
 p3795
-aS"Now, as I said from the outset, I think one of the most important pieces of this is one that's a tax relief for employees."
+aS'So what happened?'
 p3796
-aS'I think continuing the federally funded unemployment insurance benefit is very important as well.'
+aS'Did the regulatory environment magically change with an election?'
 p3797
-aS'I just want to add to that that Congress has always extended these benefits during times of recession.'
+aS'I think that what we have is -- what that tells us is that this regulatory environment is not going to address the cyclical changes.'
 p3798
-aS'And the reason is clear.'
+aS'And I think we have a cyclical challenge right now.'
 p3799
-aS"It's pennywise and pound foolish not to do so."
+aS"And so I think it's appropriate for the Congress to step in."
 p3800
-aS"If workers and their families aren't supported, they're going to end up on other government programs."
+aS"Now, as I said from the outset, I think one of the most important pieces of this is one that's a tax relief for employees."
 p3801
-aS'And so Congress -- even Reagan did not stop supporting unemployment insurance benefits until employment had fallen below 7.5 percent.'
+aS'I think continuing the federally funded unemployment insurance benefit is very important as well.'
 p3802
-aS'So I think Congress typically steps in during times of recession.'
+aS'I just want to add to that that Congress has always extended these benefits during times of recession.'
 p3803
-aS'I think there are good economic reasons for it to do so.'
+aS'And the reason is clear.'
 p3804
-aS'And I think this is one of those times.'
+aS"It's pennywise and pound foolish not to do so."
 p3805
-aS'More importantly, you know, as Mark has said very carefully, we really do risk falling into another recession which will be just devastating for all of us.'
+aS"If workers and their families aren't supported, they're going to end up on other government programs."
 p3806
-aS'Might doing nothing make a difference?'
+aS'And so Congress -- even Reagan did not stop supporting unemployment insurance benefits until employment had fallen below 7.5 percent.'
 p3807
-aS'It might work.'
+aS'So I think Congress typically steps in during times of recession.'
 p3808
-aS"But I've got to tell you, I'm not a gambling girl, and I'm just not willing to make that gamble for 42 million workers who are out of work and the millions more who are really suffering economically."
+aS'I think there are good economic reasons for it to do so.'
 p3809
-aS'Thank you.'
+aS'And I think this is one of those times.'
 p3810
-asg20
-(dp3811
-S'20:26:57'
+aS'More importantly, you know, as Mark has said very carefully, we really do risk falling into another recession which will be just devastating for all of us.'
+p3811
+aS'Might doing nothing make a difference?'
 p3812
+aS'It might work.'
+p3813
+aS"But I've got to tell you, I'm not a gambling girl, and I'm just not willing to make that gamble for 42 million workers who are out of work and the millions more who are really suffering economically."
+p3814
+aS'Thank you.'
+p3815
+asg20
+(dp3816
+S'20:26:57'
+p3817
 I23
 sS'20:25:53'
-p3813
-I8
-ssasS'after'
-p3814
-(lp3815
-S'69%-FOR'
-p3816
-aS'22%-AGAINST'
-p3817
-aS'9%-UNDECIDED'
 p3818
-asS'against'
-p3819
-(lp3820
-S'RICHARD EPSTEIN'
+I8
+ssa(dp3819
+g24
+(dp3820
+I1
+S'[applause]'
 p3821
-aS'DANIEL MITCHELL'
+sI11
+S'[applause]'
 p3822
-asS'moderator'
+sI14
+S'[applause]'
 p3823
-(lp3824
+ssg12
 S'JOHN DONVAN'
-p3825
-asS'date'
+p3824
+sg17
+(lp3825
+S'Thank you, Cecilia Rouse.'
 p3826
-(dp3827
-S'year'
+aS'And that concludes our closing statements.'
+p3827
+aS"And that means it's time to find out which side you feel argued best."
 p3828
-S'2011'
+aS'We want to go again -- we want to ask you again to go to the keyboards at your seat and to register your vote for the team that you feel presented the best argument on this motion: "Congress should pass Obama\'s jobs plan piece by piece.'
 p3829
-sS'day'
+aS'" If you feel that the side arguing for the motion has argued best, push number one.'
 p3830
-S'25'
+aS'If you feel that the side arguing against the motion has argued best, push number two.'
 p3831
-sS'month'
+aS'And if you remain or became undecided, push number three.'
 p3832
-S'October'
+aS"And we'll have the results in about one minute and 17 seconds, actually."
 p3833
-ssS'before'
+aS'Come up quite shortly.'
 p3834
-(lp3835
-S'45%-FOR'
+aS'Yes, yeah.'
+p3835
+aS"So while that's happening, I just want to -- I just want to say thanks to this panel for -- for the level of debate they brought to this and -- -- for the spirit and the style and the humor and the intelligence."
 p3836
-aS'16%-AGAINST'
+aS'And to everybody who got up and asked a question, the questions were pretty good tonight, so I want to thank you for having the nerve to stand up and ask the questions.'
 p3837
-aS'39%-UNDECIDED'
+aS'We really do appreciate it.'
 p3838
+aS'And to everybody who is out there watching on Slate, thank you to as well.'
+p3839
+aS'So our final debate of the season will be on Tuesday, November 15th.'
+p3840
+aS'And the motion that we\'re debating is this: "The world would be better off without religion.'
+p3841
+aS'" Arguing for the motion -- arguing for the motion, the great, great grandson of Charles Darwin whose name tragically is not Darwin because that would be -- his name is Matthew Chapman.'
+p3842
+aS"He is an author, and he is a filmmaker, and he's cofounder of Science Debate."
+p3843
+aS'His debating partner is A.C. Grayling.'
+p3844
+aS'He is a renowned philosopher, humanist and an atheist who recently authored a book called "The Good Book: A Secular Bible, a manifesto for rational thought.'
+p3845
+aS'On the other side of that debate, we\'re going to have Dinesh DSouza who is the president of the King\'s College and author of "What\'s so Great About Christianity?'
+p3846
+aS'" And Rabbi David Wolpe who was named one of the most influential rabbis in America by Newsweek.'
+p3847
+aS"We'll be announcing our spring topics next month."
+p3848
+aS'Is that right, Dana?'
+p3849
+aS"Next month we're going to have a list of our topics for the spring season, and we'll have five more."
+p3850
+aS'And we hope to see all of you there.'
+p3851
+aS'You can get a discount if you go to our Facebook page and join.'
+p3852
+aS'And you can follow us as well on Twitter.'
+p3853
+aS'Also, as I said before, and thank you for all of your -- your audibleness.'
+p3854
+aS'These -- yeah, you were great.'
+p3855
+aS"These debates are being carried on hundreds of NPR stations across the nation, and it's glad -- it's good to have you all breathing and speaking and voicing your opinions."
+p3856
+aS'So thank you.'
+p3857
+aS'It really gives a sense of life to it.'
+p3858
+aS"You're also on television here in New York City on WNET13 and WLIW and NJTV."
+p3859
+aS"All right, now, it's all in."
+p3860
+aS'We\'ve had two teams arguing out this motion: "Congress should pass Obama\'s jobs plan piece by piece.'
+p3861
+aS'" You voted twice, once before the debate to tell us where you stood on it, and again at the end of the debate after listening to these teams try to persuade you to their point of view.'
+p3862
+aS"We've asked you to choose which team argued the best."
+p3863
+aS'Here is the result.'
+p3864
+aS'Before the debate on this motion, "Congress should pass Obama\'s jobs plan piece by piece," 45 percent were for the motion, 16 percent against, and 39 percent undecided.'
+p3865
+aS'After the debate, 69 percent are for the motion.'
+p3866
+aS'That is up 24 percent.'
+p3867
+aS"22 percent are against, that's up only six percent."
+p3868
+aS'30 percent -- nine percent are undecided.'
+p3869
+aS"That's down 30 percent."
+p3870
+aS"The team arguing for the motion that Congress should pass Obama's jobs plan piece by piece carries the debate."
+p3871
+aS'Our congratulations to them.'
+p3872
+aS'Thank you for me, John Donvan.'
+p3873
+aS"And we'll see you next time."
+p3874
+asg20
+(dp3875
+S'20:28:53'
+p3876
+I20
+sS'20:29:56'
+p3877
+I33
+sS'20:27:54'
+p3878
+I9
+ssg9
+(lp3879
+S'Thank you, Cecilia Rouse.And that concludes our closing statements.'
+p3880
+aS"And that means it's time to find out which [[applause]] side you feel argued best."
+p3881
+aS'We want to go again -- we want to ask you again to go to thekeyboards at your seat and to register your vote for the team that you feel presentedthe best argument on this motion: "Congress should pass Obama\'s jobs plan piece bypiece.'
+p3882
+aS'" If you feel that the side arguing for the motion has argued best, push numberone.'
+p3883
+aS'If you feel that the side arguing against the motion has argued best, push numbertwo.'
+p3884
+aS'And if you remain or became undecided, push number three.'
+p3885
+aS"And we'll have theresults in about one minute and 17 seconds, actually.Come up quite shortly."
+p3886
+aS'Yes, yeah.'
+p3887
+aS"So while that's happening, I just want to -- I just wantto say thanks to this panel for -- for the level of debate they brought to this and ---- for the spirit and the style and the humor and the intelligence."
+p3888
+aS'And to everybody who [[applause]] got up and asked a question, the questions were pretty good tonight, so I want to thankyou for having the nerve to stand up and ask the questions.'
+p3889
+aS'We really do appreciate it.And to everybody who is out there watching on Slate, thank you to as well.'
+p3890
+aS'So our final [[applause]] debate of the season will be on Tuesday, November 15th.'
+p3891
+aS'And the motion that we\'redebating is this: "The world would be better off without religion.'
+p3892
+aS'" Arguing for themotion -- arguing for the motion, the great, great grandson of Charles Darwin whosename tragically is not Darwin because that would be -- his name is Matthew Chapman.He is an author, and he is a filmmaker, and he\'s cofounder of Science Debate.His debating partner is A.C. Grayling.'
+p3893
+aS'He is a renowned philosopher, humanist and anatheist who recently authored a book called "The Good Book: A Secular Bible, amanifesto for rational thought.'
+p3894
+aS'On the other side of that debate, we\'re going to haveDinesh DSouza who is the president of the King\'s College and author of "What\'s soGreat About Christianity?'
+p3895
+aS'" And Rabbi David Wolpe who was named one of the mostinfluential rabbis in America by Newsweek.'
+p3896
+aS"We'll be announcing our spring topics nextmonth."
+p3897
+aS'Is that right, Dana?'
+p3898
+aS"Next month we're going to have a list of our topics for thespring season, and we'll have five more."
+p3899
+aS'And we hope to see all of you there.'
+p3900
+aS'You canget a discount if you go to our Facebook page and join.'
+p3901
+aS'And you can follow us as well onTwitter.'
+p3902
+aS'Also, as I said before, and thank you for all of your -- your audibleness.'
+p3903
+aS'These --yeah, you were great.'
+p3904
+aS"These debates are being carried on hundreds of NPR stationsacross the nation, and it's glad -- it's good to have you all breathing and speaking andvoicing your opinions."
+p3905
+aS'So thank you.It really gives a sense of life to it.'
+p3906
+aS"You're also on television here in New York City onWNET13 and WLIW and NJTV."
+p3907
+aS"All right, now, it's all in."
+p3908
+aS'We\'ve had two teams arguingout this motion: "Congress should pass Obama\'s jobs plan piece by piece.'
+p3909
+aS'" You votedtwice, once before the debate to tell us where you stood on it, and again at the end ofthe debate after listening to these teams try to persuade you to their point of view.We\'ve asked you to choose which team argued the best.'
+p3910
+aS'Here is the result.'
+p3911
+aS'Before thedebate on this motion, "Congress should pass Obama\'s jobs plan piece by piece," 45percent were for the motion, 16 percent against, and 39 percent undecided.'
+p3912
+aS'After thedebate, 69 percent are for the motion.'
+p3913
+aS'That is up 24 percent.'
+p3914
+aS"22 percent are against,that's up only six percent."
+p3915
+aS'30 percent -- nine percent are undecided.'
+p3916
+aS"That's down 30percent."
+p3917
+aS"The team arguing for the motion that Congress should pass Obama's jobs planpiece by piece carries the debate."
+p3918
+aS'Our congratulations to them.'
+p3919
+aS'Thank you for me, JohnDonvan.'
+p3920
+aS"And we'll see you next time."
+p3921
+asg14
+(dp3922
+I1
+S'57'
+p3923
+sI30
+S'58'
+p3924
+ssasS'after'
+p3925
+(lp3926
+S'69%-FOR'
+p3927
+aS'22%-AGAINST'
+p3928
+aS'9%-UNDECIDED'
+p3929
+asS'against'
+p3930
+(lp3931
+S'RICHARD EPSTEIN'
+p3932
+aS'DANIEL MITCHELL'
+p3933
+asS'moderator'
+p3934
+(lp3935
+S'JOHN DONVAN'
+p3936
+asS'date'
+p3937
+(dp3938
+S'year'
+p3939
+S'2011'
+p3940
+sS'day'
+p3941
+S'25'
+p3942
+sS'month'
+p3943
+S'October'
+p3944
+ssS'before'
+p3945
+(lp3946
+S'45%-FOR'
+p3947
+aS'16%-AGAINST'
+p3948
+aS'39%-UNDECIDED'
+p3949
 as.

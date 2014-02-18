@@ -8515,49 +8515,221 @@ p4057
 sg16
 (lp4058
 g1280
-asasS'after'
-p4059
-(lp4060
-S'37%-FOR'
+asa(dp4059
+g19
+(dp4060
+I40
+S'[applause]'
 p4061
-aS'55%-AGAINST'
+sI6
+S'[applause]'
 p4062
-aS'8%-UNDECIDED'
-p4063
-asS'against'
-p4064
-(lp4065
-S'SHMUEL BAR'
-p4066
-aS'JEFFREY GOLDBERG'
-p4067
-asS'moderator'
-p4068
-(lp4069
+ssg11
 S'JOHN DONVAN'
+p4063
+sg16
+(lp4064
+S"I know you feel it's relevant, that's why you asked it, but I have to make a judgment call on that, and the woman who expressed her passion about living next door to a neighbor who wants to kill you, I totally respect that, and there is no disrespect intended in passing on the question."
+p4065
+aS'I just felt that we had covered it.'
+p4066
+aS"But I basically want to say let's give a round of applause to everybody with the nerve to get up and ask a question tonight."
+p4067
+aS'So thank you for tolerating my occasionally vanishing laryngitic voice tonight.'
+p4068
+aS'It will be better at the next debate, which will be Wednesday, February 13th.'
+p4069
+aS'We will be looking at this motion: prohibit genetically engineered babies.'
 p4070
-asS'date'
+aS"It's based on the fact that we already screen for genetic diseases, and the ability to choose a child's color and intelligence is, actually, not so far off."
 p4071
-(dp4072
-S'year'
+aS'We want to look, basically, at the policy and the ethics implied in that manifestation of a brave new world.'
+p4072
+aS'Our debaters will include, for the motion, arguing to prohibit: Sheldon Krimsky.'
 p4073
-S'2013'
+aS'He is the chair of the Center for Responsible Genetics and professor of humanities and social sciences at Tufts University.'
 p4074
-sS'day'
+aS'He will be partnered with Lord Robert Winston.'
 p4075
-S'16'
+aS'He is a pioneer in fertility and IVF treatment and professor of science and society at Imperial College.'
 p4076
-sS'month'
+aS'Arguing against: Nita Farahany.'
 p4077
-S'January'
+aS'She is a professor of law and genome sciences at Duke, also a member of the presidential commission for the study of bioethical issues.'
 p4078
-ssS'before'
+aS'And her partner will be Lee Silver.'
 p4079
-(lp4080
-S'25%-FOR'
+aS'And Lee Silver is a professor of molecular biology and public policy at Princeton University.'
+p4080
+aS'Tickets for our spring season debates are available right now through our website, www.iq2us.org.'
 p4081
-aS'35%-AGAINST'
+aS'And for those of you who cannot make it to the debate or be in a live audience, those of you are watching right now on live stream, know that there is the live stream at fora.tv.'
 p4082
-aS'40%-UNDECIDED'
+aS'You can also listen to the debates, this one included, on NPR and watch them on PBS stations across the country.'
 p4083
+aS'Just check your local listings for air dates and times.'
+p4084
+aS"We'd also love it if you tweeted about tonight's debate."
+p4085
+aS"Even if you haven't, you can go home and do it now."
+p4086
+aS"Our Twitter handle is @IQ2US and our hashtag for this evening's debate in particular is @IsraelIran."
+p4087
+aS'All right, the results are in.'
+p4088
+aS"Okay, so remember, we've had you vote twice and the team whose numbers move by the largest percentage point is declared our winner."
+p4089
+aS"So let's find out who you decided won this debate."
+p4090
+aS'The motion: Israel can live with a nuclear Iran.'
+p4091
+aS'Before the debate, in polling you in the live audience, 25 percent of you agreed with the motion, 35 percent were against it, and 40 percent were undecided.'
+p4092
+aS'So the final results -- remember, the winner is the team that has changed the numbers the most from the first vote to the second.'
+p4093
+aS'The second vote now.'
+p4094
+aS'The team arguing for the motion: they went from 25 percent to 37 percent.'
+p4095
+aS'That is a 12 percent increase; that is the number to beat.'
+p4096
+aS"Now, let's look at the team against the motion."
+p4097
+aS'They went from 35 percent to 55 percent.'
+p4098
+aS"They went up 20 percent, that's the winning side."
+p4099
+aS'The team arguing against the motion "Israel can live with a nuclear Iran" has won our debate.'
+p4100
+aS"That's it for this time."
+p4101
+aS"Thank you from me, John Donvan, and Intelligence Squared U.S. We'll see you next time."
+p4102
+asg46
+(dp4103
+S'20:32:50'
+p4104
+I32
+sS'20:31:52'
+p4105
+I20
+sS'20:30:49'
+p4106
+I8
+ssg8
+(lp4107
+S"I know you feel it's relevant, that's why you asked it, but I have to make a judgment callon that, and the woman who expressed her passion about living next door to a neighborwho wants to kill you, I totally respect that, and there is no disrespect intended inpassing on the question."
+p4108
+aS'I just felt that we had covered it.'
+p4109
+aS"But I basically want to saylet's give a round of applause to everybody with the nerve to get up and ask a questiontonight.So thank you for tolerating my occasionally vanishing laryngitic voice tonight."
+p4110
+aS'It will be [[applause]] better at the next debate, which will be Wednesday, February 13th.We will be looking at this motion: prohibit genetically engineered babies.'
+p4111
+aS"It's based onthe fact that we already screen for genetic diseases, and the ability to choose a child'scolor and intelligence is, actually, not so far off."
+p4112
+aS'We want to look, basically, at the policyand the ethics implied in that manifestation of a brave new world.'
+p4113
+aS'Our debaters willinclude, for the motion, arguing to prohibit: Sheldon Krimsky.'
+p4114
+aS'He is the chair of theCenter for Responsible Genetics and professor of humanities and social sciences at TuftsUniversity.'
+p4115
+aS'He will be partnered with Lord Robert Winston.'
+p4116
+aS'He is a pioneer in fertilityand IVF treatment and professor of science and society at Imperial College.'
+p4117
+aS'Arguingagainst: Nita Farahany.'
+p4118
+aS'She is a professor of law and genome sciences at Duke, also amember of the presidential commission for the study of bioethical issues.'
+p4119
+aS'And herpartner will be Lee Silver.'
+p4120
+aS'And Lee Silver is a professor of molecular biology and publicpolicy at Princeton University.Tickets for our spring season debates are available right now through our website,www.iq2us.org.'
+p4121
+aS'And for those of you who cannot make it to the debate or be in a liveaudience, those of you are watching right now on live stream, know that there is the livestream at fora.tv.'
+p4122
+aS'You can also listen to the debates, this one included, on NPR andwatch them on PBS stations across the country.'
+p4123
+aS'Just check your local listings for airdates and times.'
+p4124
+aS"We'd also love it if you tweeted about tonight's debate."
+p4125
+aS"Even if youhaven't, you can go home and do it now."
+p4126
+aS"Our Twitter handle is @IQ2US and ourhashtag for this evening's debate in particular is @IsraelIran.All right, the results are in."
+p4127
+aS"Okay, so remember, we've had you vote twice and the teamwhose numbers move by the largest percentage point is declared our winner."
+p4128
+aS"So let'sfind out who you decided won this debate."
+p4129
+aS'The motion: Israel can live with a nuclearIran.Before the debate, in polling you in the live audience, 25 percent of you agreed with themotion, 35 percent were against it, and 40 percent were undecided.'
+p4130
+aS'So the final results-- remember, the winner is the team that has changed the numbers the most from thefirst vote to the second.'
+p4131
+aS'The second vote now.'
+p4132
+aS'The team arguing for the motion: theywent from 25 percent to 37 percent.'
+p4133
+aS'That is a 12 percent increase; that is the numberto beat.'
+p4134
+aS"Now, let's look at the team against the motion."
+p4135
+aS'They went from 35 percent to55 percent.'
+p4136
+aS"They went up 20 percent, that's the winning side."
+p4137
+aS'The team arguing againstthe motion "Israel can live with a nuclear Iran" has won our debate.That\'s it for this time.'
+p4138
+aS"Thank you from me, John Donvan, and Intelligence Squared U.S. [[applause]] We'll see you next time."
+p4139
+asg13
+(dp4140
+I20
+S'61'
+p4141
+ssasS'after'
+p4142
+(lp4143
+S'37%-FOR'
+p4144
+aS'55%-AGAINST'
+p4145
+aS'8%-UNDECIDED'
+p4146
+asS'against'
+p4147
+(lp4148
+S'SHMUEL BAR'
+p4149
+aS'JEFFREY GOLDBERG'
+p4150
+asS'moderator'
+p4151
+(lp4152
+S'JOHN DONVAN'
+p4153
+asS'date'
+p4154
+(dp4155
+S'year'
+p4156
+S'2013'
+p4157
+sS'day'
+p4158
+S'16'
+p4159
+sS'month'
+p4160
+S'January'
+p4161
+ssS'before'
+p4162
+(lp4163
+S'25%-FOR'
+p4164
+aS'35%-AGAINST'
+p4165
+aS'40%-UNDECIDED'
+p4166
 as.

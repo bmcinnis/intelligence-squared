@@ -8254,51 +8254,325 @@ aS'If you believe in lower rates and a broader base, you must vote for the propo
 p3923
 aS'Thank you.'
 p3924
-asasS'after'
-p3925
-(lp3926
-S'30%-FOR'
+asa(dp3925
+g22
+(dp3926
+I38
+S'[laughter]'
 p3927
-aS'63%-AGAINST'
+sI39
+S'[laughter]'
 p3928
-aS'7%-UNDECIDED'
+sI12
+S'[applause]'
 p3929
-asS'against'
+sI16
+S'[laughter]'
 p3930
-(lp3931
-S'I'
+sI19
+S'[applause]'
+p3931
+sI21
+S'[applause]'
 p3932
-aS'ROBERT REICH'
+sI53
+S'[applause]'
 p3933
-aS'MARK Z'
-p3934
-asS'moderator'
-p3935
-(lp3936
+ssg11
 S'JOHN DONVAN'
+p3934
+sg16
+(lp3935
+S'Thank you, Art Laffer.'
+p3936
+aS'And that concludes our closing statements.'
 p3937
-asS'date'
+aS'And now it is time to learn which side you feel argued best.'
 p3938
-(dp3939
-S'year'
+aS"We're going to ask you again for your second vote, to go to the keypad at each of your seats."
+p3939
+aS'Our motion is: The Rich Are Taxed Enough.'
 p3940
-S'2012'
+aS"At this point, if you agree with that motion after everything you've heard, push number one on your keypad."
 p3941
-sS'day'
+aS'If you disagree, push number two.'
 p3942
-S'24'
+aS'If you are, became, remain, undecided, push number three.'
 p3943
-sS'month'
+aS'And we will have the results in about a minute and a half.'
 p3944
-S'October'
+aS'I think the system is still open so, has anybody not voted?'
 p3945
-ssS'before'
+aS"Everybody's good."
 p3946
-(lp3947
-S'28%-FOR'
+aS'All right.'
+p3947
+aS"While we're waiting for those results to come, the first thing I want to say is that this was a really, really, real pleasure to listen to this debate."
 p3948
-aS'49%-AGAINST'
+aS'The way the four of you brought your game to this, a lot of humor, a lot of respect, actually, for one another.'
 p3949
-aS'23%-UNDECIDED'
+aS"It's what we like to do, and I want to thank all of you for doing it."
 p3950
+aS"I'd also like to thank everybody who got up to ask a question, including the questions that didn't get used."
+p3951
+aS'It takes a lot of nerve to get up and do it.'
+p3952
+aS'And some of the questions were brilliant and on targets.'
+p3953
+aS'And the others were just darn interesting.'
+p3954
+aS'No, seriously, just not exactly where we wanted to take the discussion tonight.'
+p3955
+aS'So everybody who got up and asked questions, thanks very much.'
+p3956
+aS'Give them a round of applause.'
+p3957
+aS'And, finally, in terms of thanks, we want to thank, again, the Richmond Center for their participation tonight and in making all of this possible.'
+p3958
+aS'Thank you to them.'
+p3959
+aS'We encourage you to talk about this debate; talk to your friends, tweet about it, blog about it.'
+p3960
+aS'Our twitter handle is @IQ2US.'
+p3961
+aS'The hashtag is actually #taxdebate.'
+p3962
+aS"I think earlier I said our hashtag was #IQ2US, that would work, too, but #taxdebate is what we're looking for tonight."
+p3963
+aS'We have our next debate coming up next month, it will be on November 14.'
+p3964
+aS'The motion, the proposition, that we will be arguing is Legalize Drugs.'
+p3965
+aS'For the motion, we have Paul Butler.'
+p3966
+aS'He is a professor at Georgetown Law School; he is also a former federal prosecutor.'
+p3967
+aS"His partner is Nick Gillespie -- he is one of America's foremost libertarians, and he is also editor in Chief of reason.com and Reason TV."
+p3968
+aS'Against the motion, Theodore Dalrymple.'
+p3969
+aS'He is a retired prison doctor and a fellow at the Manhattan Institute.'
+p3970
+aS'And Asa Hutchinson, who is a former administrator of the Drug Enforcement Administration and the first undersecretary of the Department of Homeland Security.'
+p3971
+aS'We have tickets for that debate on November 14 and for our December 5 debate, which is Science Refutes God, available on our website.'
+p3972
+aS'The website is www.iq2us.org.'
+p3973
+aS'We would love to see all of you and we were delighted that we sold out and we love selling out, so help us do that.'
+p3974
+aS"Well, that doesn't sound right."
+p3975
+aS"Don't -- We don't want to sell out."
+p3976
+aS'We would like to sell all of our tickets.'
+p3977
+aS"If you can't be in the audience for any of those upcoming debates, and also if you want to see this one again, there are a lot of ways that you can catch this one and the upcoming ones."
+p3978
+aS'We have a livestream on FORA.tv and then the debate lives on that site for some time.'
+p3979
+aS"You can also, as I said earlier, listen to these debates on NPR, that's WNYC right here in New York City."
+p3980
+aS'Or watch them on WNET and the World Digital channel.'
+p3981
+aS'Okay.'
+p3982
+aS'So, you have listened to the arguments for and against on this motion: The Rich Are Taxed Enough.'
+p3983
+aS'We had you vote once before the debate and once again afterwards on where you stand on this motion.'
+p3984
+aS'Here are the results.'
+p3985
+aS'The teams whose numbers will have changed the most will be declared our winner.'
+p3986
+aS'Before the debate 28 percent were for the motion, 49 percent against, and 23 percent undecided.'
+p3987
+aS"After the debate, 30 percent are for the motion, that's up 2 percent."
+p3988
+aS'Sixty-three percent are against.'
+p3989
+aS'That is up 14 percent.'
+p3990
+aS'Seven percent are undecided, but this means the vote goes for the team arguing against the motion.'
+p3991
+aS'Our congratulations to them.'
+p3992
+aS"Thank you from me, John Donovan, and Intelligence Squared U.S. We'll see you next time. "
+p3993
+asg18
+(dp3994
+S'20:36:51'
+p3995
+I1
+sS'20:41:07'
+p3996
+I55
+sS'20:38:49'
+p3997
+I26
+sS'20:40:54'
+p3998
+I51
+sS'20:37:55'
+p3999
+I14
+sS'20:39:51'
+p4000
+I37
+ssg8
+(lp4001
+S'Thank you, Art Laffer.'
+p4002
+aS'And that concludes our closing statements.And now it is time to learn which side you feel argued best.'
+p4003
+aS"We're going to ask youagain for your second vote, to go to the keypad at each of your seats."
+p4004
+aS'Our motion is:The Rich Are Taxed Enough.'
+p4005
+aS"At this point, if you agree with that motion after everythingyou've heard, push number one on your keypad."
+p4006
+aS'If you disagree, push number two.'
+p4007
+aS'Ifyou are, became, remain, undecided, push number three.'
+p4008
+aS'And we will have the resultsin about a minute and a half.'
+p4009
+aS'I think the system is still open so, has anybody not voted?'
+p4010
+aS"Everybody's good."
+p4011
+aS'All right.'
+p4012
+aS"While we're waiting for those results to come, the firstthing I want to say is that this was a really, really, real pleasure to listen to this debate."
+p4013
+aS'The way the four of you brought your game to this, a lot of humor, a lot of respect,actually, for one another.'
+p4014
+aS"It's what we like to do, and I want to thank all of you for doingit.I'd also like to thank everybody who got up to ask a question, including the questions [[applause]] that didn't get used.It takes a lot of nerve to get up and do it."
+p4015
+aS'And some of the questions were brilliant andon targets.'
+p4016
+aS'And the others were just darn interesting.No, seriously, just not exactly where we wanted to take the discussion tonight.'
+p4017
+aS'So [[laughter]] everybody who got up and asked questions, thanks very much.'
+p4018
+aS'Give them a round ofapplause.And, finally, in terms of thanks, we want to thank, again, the Richmond Center for their [[applause]] participation tonight and in making all of this possible.'
+p4019
+aS'Thank you to them.We encourage you to talk about this debate; talk to your friends, tweet about it, blog [[applause]] about it.'
+p4020
+aS'Our twitter handle is @IQ2US.'
+p4021
+aS'The hashtag is actually #taxdebate.'
+p4022
+aS"I thinkearlier I said our hashtag was #IQ2US, that would work, too, but #taxdebate is whatwe're looking for tonight."
+p4023
+aS'We have our next debate coming up next month, it will be onNovember 14.The motion, the proposition, that we will be arguing is Legalize Drugs.'
+p4024
+aS'For the motion,we have Paul Butler.'
+p4025
+aS'He is a professor at Georgetown Law School; he is also a formerfederal prosecutor.'
+p4026
+aS"His partner is Nick Gillespie -- he is one of America's foremostlibertarians, and he is also editor in Chief of reason.com and Reason TV."
+p4027
+aS'Against themotion, Theodore Dalrymple.'
+p4028
+aS'He is a retired prison doctor and a fellow at theManhattan Institute.'
+p4029
+aS'And Asa Hutchinson, who is a former administrator of the DrugEnforcement Administration and the first undersecretary of the Department ofHomeland Security.'
+p4030
+aS'We have tickets for that debate on November 14 and for ourDecember 5 debate, which is Science Refutes God, available on our website.'
+p4031
+aS'Thewebsite is www.iq2us.org.'
+p4032
+aS'We would love to see all of you and we were delighted thatwe sold out and we love selling out, so help us do that.'
+p4033
+aS"Well, that doesn't sound right.Don't --We don't want to sell out."
+p4034
+aS'We would like to sell all of our tickets.'
+p4035
+aS"[[laughter]] If you can't be in the audience for any of those upcoming debates, and also if you want [[laughter]] to see this one again, there are a lot of ways that you can catch this one and theupcoming ones."
+p4036
+aS'We have a livestream on FORA.tv and then the debate lives on that sitefor some time.'
+p4037
+aS"You can also, as I said earlier, listen to these debates on NPR, that'sWNYC right here in New York City."
+p4038
+aS'Or watch them on WNET and the World Digitalchannel.'
+p4039
+aS'Okay.'
+p4040
+aS'So, you have listened to the arguments for and against on this motion:The Rich Are Taxed Enough.'
+p4041
+aS'We had you vote once before the debate and once againafterwards on where you stand on this motion.'
+p4042
+aS'Here are the results.'
+p4043
+aS'The teams whosenumbers will have changed the most will be declared our winner.'
+p4044
+aS'Before the debate 28percent were for the motion, 49 percent against, and 23 percent undecided.'
+p4045
+aS"After thedebate, 30 percent are for the motion, that's up 2 percent."
+p4046
+aS'Sixty-three percent areagainst.'
+p4047
+aS'That is up 14 percent.Seven percent are undecided, but this means the vote goes for the team arguing againstthe motion.'
+p4048
+aS"Our congratulations to them.Thank you from me, John Donovan, and Intelligence Squared U.S. We'll see you next [[applause]] time. "
+p4049
+asg13
+(dp4050
+I1
+S'62'
+p4051
+sI26
+S'63'
+p4052
+sI53
+S'64'
+p4053
+ssasS'after'
+p4054
+(lp4055
+S'30%-FOR'
+p4056
+aS'63%-AGAINST'
+p4057
+aS'7%-UNDECIDED'
+p4058
+asS'against'
+p4059
+(lp4060
+S'I'
+p4061
+aS'ROBERT REICH'
+p4062
+aS'MARK Z'
+p4063
+asS'moderator'
+p4064
+(lp4065
+S'JOHN DONVAN'
+p4066
+asS'date'
+p4067
+(dp4068
+S'year'
+p4069
+S'2012'
+p4070
+sS'day'
+p4071
+S'24'
+p4072
+sS'month'
+p4073
+S'October'
+p4074
+ssS'before'
+p4075
+(lp4076
+S'28%-FOR'
+p4077
+aS'49%-AGAINST'
+p4078
+aS'23%-UNDECIDED'
+p4079
 as.

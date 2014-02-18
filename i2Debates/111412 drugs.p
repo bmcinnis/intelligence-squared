@@ -6942,49 +6942,334 @@ asg16
 S'20:30:47'
 p3314
 I1
-ssasS'after'
-p3315
-(lp3316
-S'58%-FOR'
+ssa(dp3315
+g8
+(dp3316
+I19
+S'[laughter]'
 p3317
-aS'30%-AGAINST'
+sI18
+S'[laughter]'
 p3318
-aS'12%-UNDECIDED'
+sI11
+S'[applause]'
 p3319
-asS'against'
+sI50
+S'[applause]'
 p3320
-(lp3321
-S'THEODORE DALRYMPLE'
-p3322
-aS'ASA HUTCHINSON'
-p3323
-asS'moderator'
-p3324
-(lp3325
+sI14
+S'[applause]'
+p3321
+ssg11
 S'JOHN DONVAN'
+p3322
+sg13
+(lp3323
+S'And that concludes our closing statements.'
+p3324
+aS'And now it is time to learn which side you feel has argued the best.'
+p3325
+aS"We're going to ask you again to go to the key pads at your seat."
 p3326
-asS'date'
+aS"And I'm going to restate the motion and see where you stand now after hearing the arguments."
 p3327
-(dp3328
-S'year'
+aS'Our motion is, "legalize drugs.'
+p3328
+aS'" Push number one if you agree with the motion, two if you disagree, and three if you became or remain undecided.'
 p3329
-S'2012'
+aS'Anybody need more time?'
 p3330
-sS'day'
+aS'Just call out.'
 p3331
-S'14'
+aS'No?'
 p3332
-sS'month'
+aS'All right.'
 p3333
-S'November'
+aS"So we'll have the results in about 45 seconds or a minute."
 p3334
-ssS'before'
+aS'First of all, I just want to -- I just want to thank the level of debate we heard here tonight.'
 p3335
-(lp3336
-S'45%-FOR'
+aS'I really appreciated that these two teams respected one another, appreciated one another.'
+p3336
+aS'It was forceful but friendly.'
 p3337
-aS'23%-AGAINST'
+aS'So congratulations to them for the way they did this.'
 p3338
-aS'32%-UNDECIDED'
+aS"And to all of the people who had the guts to get up and ask questions, and even the ones that didn't get through and people I didn't call on, thank you very much for participateding and a round of applause for them."
 p3339
+aS'So this is our fall season.'
+p3340
+aS'We have one more event in our fall season.'
+p3341
+aS'And that will be coming up on -- December 5th, okay.'
+p3342
+aS'Thank you.'
+p3343
+aS"It's December 5th."
+p3344
+aS'Even in the room knew that but me.'
+p3345
+aS'The upcoming debate is called the -- the motion is "science refutes religion.'
+p3346
+aS'" God.'
+p3347
+aS'Boy, you people -- Can I sit there?'
+p3348
+aS'And all of you come up here.'
+p3349
+aS'Thank you.'
+p3350
+aS'Science refutes God.'
+p3351
+aS"And the team arguing for the motion includes Lawrence Krauss -- I'm back on script."
+p3352
+aS'Lawrence Kraus.'
+p3353
+aS'He is professor of physics at the school of earth and space exploration at Arizona state.'
+p3354
+aS'His partner is Michael Shermer who is the founding publisher of Skeptic magazine.'
+p3355
+aS'And arguing against the motion that science refutes God, Ian Hutchinson, who is professor of nuclear science and engineering at MIT.'
+p3356
+aS'His partner is Dinesh dSouza, the best selling author of "What\'s So Great About Christianity?'
+p3357
+aS'" tickets for this debate are available for our website, that is www.IQ2US.org.'
+p3358
+aS'Our next season begins in January.'
+p3359
+aS'Five more debates coming up.'
+p3360
+aS'We start on Wednesday, January 16.'
+p3361
+aS'That will be here at Kauffman.'
+p3362
+aS'Topics and debaters are being worked on still, but they will be posted on our website next month.'
+p3363
+aS"If you can't be in the audience for any of those upcoming debates, there are a lot of other ways to catch them."
+p3364
+aS'I talked about some of them at the beginning, but you can watch the live stream on fora.tv.'
+p3365
+aS'You can listen to the debates on NPR, WNYC here in New York.'
+p3366
+aS'You can download them as a podcast or watch them on WNET and the World Digital Channel.'
+p3367
+aS'Again, if you would like to tweet about the debate, we would love that.'
+p3368
+aS'We read them all.'
+p3369
+aS'The twitter handle is @IQ2US, and the hash tag for this debate was DrugDebate.'
+p3370
+aS'All right, so here come the final results.'
+p3371
+aS"All right, so remember, we've asked you to vote twice, once before the debate, and once again after the debate, where you stand on this motion before you hear the arguments and afterwards, and the team that has changed its number -- the team that has changed its results by the largest percentage will be declared our winner."
+p3372
+aS'So here was the motion, "Legalize drugs.'
+p3373
+aS'" Before the debate, 45 percent agreed with the motion, 23 percent were against, and 32 percent were undecided.'
+p3374
+aS"After the debate, let's go first to the team arguing for the motion."
+p3375
+aS'Their second vote was 58 percent, 45 up to 58 percent.'
+p3376
+aS'That is a move of 13 percent.'
+p3377
+aS"That's what needs to be beaten."
+p3378
+aS'The team against the motion, their first vote was 23 percent, the second vote was 30 percent.'
+p3379
+aS"They've only gone up 7 percent."
+p3380
+aS'It is not enough.'
+p3381
+aS'The team -- debate goes to the other side.'
+p3382
+aS'Our winners, the team arguing in favor of the motion, "Legalize drugs.'
+p3383
+aS'" Our congratulations to them.'
+p3384
+aS'Thank you from me, John Donvan, and Intelligence Squared U.S. where we like to say, "Think twice.'
+p3385
+ag189
+asg16
+(dp3386
+S'20:32:02'
+p3387
+I11
+sS'20:33:58'
+p3388
+I30
+sS'20:32:59'
+p3389
+I18
+sS'20:34:53'
+p3390
+I42
+ssg19
+(lp3391
+S'And that concludes our closing statements.'
+p3392
+aS'And now it is time to learn which side youfeel has argued the best.'
+p3393
+aS"We're going to ask you again to go to the key pads at yourseat."
+p3394
+aS"And I'm going to restate the motion and see where you stand now after hearingthe arguments."
+p3395
+aS'Our motion is, "legalize drugs.'
+p3396
+aS'" Push number one if you agree with themotion, two if you disagree, and three if you became or remain undecided.Anybody need more time?'
+p3397
+aS'Just call out.'
+p3398
+aS'No?'
+p3399
+aS'All right.'
+p3400
+aS"So we'll have the results inabout 45 seconds or a minute.First of all, I just want to -- I just want to thank the level of debate we heard heretonight."
+p3401
+aS'I really appreciated that these two teams respected one another, appreciatedone another.'
+p3402
+aS'It was forceful but friendly.'
+p3403
+aS"So congratulations to them for the way theydid this.And to all of the people who had the guts to get up and ask questions, and even the [[applause]] ones that didn't get through and people I didn't call on, thank you very much forparticipateding and a round of applause for them.So this is our fall season."
+p3404
+aS'We have one more event in our fall season.'
+p3405
+aS'And that will be [[applause]] coming up on -- December 5th, okay.'
+p3406
+aS'Thank you.'
+p3407
+aS"It's December 5th."
+p3408
+aS'Even in the roomknew that but me.'
+p3409
+aS'The upcoming debate is called the -- the motion is "science refutesreligion.'
+p3410
+aS'" God.'
+p3411
+aS'Boy, you people --Can I sit there?'
+p3412
+aS'[[laughter]] And all of you come up here.'
+p3413
+aS'Thank you.'
+p3414
+aS'Science refutes God.'
+p3415
+aS"And the team arguing [[laughter]] for the motion includes Lawrence Krauss -- I'm back on script."
+p3416
+aS'Lawrence Kraus.'
+p3417
+aS'He isprofessor of physics at the school of earth and space exploration at Arizona state.'
+p3418
+aS'Hispartner is Michael Shermer who is the founding publisher of Skeptic magazine.'
+p3419
+aS'Andarguing against the motion that science refutes God, Ian Hutchinson, who is professor ofnuclear science and engineering at MIT.'
+p3420
+aS'His partner is Dinesh dSouza, the best sellingauthor of "What\'s So Great About Christianity?'
+p3421
+aS'" tickets for this debate are available forour website, that is www.IQ2US.org.'
+p3422
+aS'Our next season begins in January.'
+p3423
+aS'Five moredebates coming up.'
+p3424
+aS'We start on Wednesday, January 16.'
+p3425
+aS'That will be here atKauffman.'
+p3426
+aS"Topics and debaters are being worked on still, but they will be posted on ourwebsite next month.If you can't be in the audience for any of those upcoming debates, there are a lot ofother ways to catch them."
+p3427
+aS'I talked about some of them at the beginning, but you canwatch the live stream on fora.tv.'
+p3428
+aS'You can listen to the debates on NPR, WNYC here inNew York.'
+p3429
+aS'You can download them as a podcast or watch them on WNET and the WorldDigital Channel.'
+p3430
+aS'Again, if you would like to tweet about the debate, we would love that.'
+p3431
+aS'We read them all.'
+p3432
+aS'The twitter handle is @IQ2US, and the hash tag for this debate wasDrugDebate.All right, so here come the final results.'
+p3433
+aS"All right, so remember, we've asked you to votetwice, once before the debate, and once again after the debate, where you stand on thismotion before you hear the arguments and afterwards, and the team that has changedits number -- the team that has changed its results by the largest percentage will bedeclared our winner."
+p3434
+aS'So here was the motion, "Legalize drugs.'
+p3435
+aS'"Before the debate, 45 percent agreed with the motion, 23 percent were against, and 32percent were undecided.'
+p3436
+aS"After the debate, let's go first to the team arguing for themotion."
+p3437
+aS'Their second vote was 58 percent, 45 up to 58 percent.'
+p3438
+aS'That is a move of 13percent.'
+p3439
+aS"That's what needs to be beaten."
+p3440
+aS'The team against the motion, their first votewas 23 percent, the second vote was 30 percent.'
+p3441
+aS"They've only gone up 7 percent."
+p3442
+aS'It isnot enough.'
+p3443
+aS'The team -- debate goes to the other side.'
+p3444
+aS'Our winners, the team arguingin favor of the motion, "Legalize drugs.'
+p3445
+aS'" Our congratulations to them.'
+p3446
+aS'Thank you fromme, John Donvan, and Intelligence Squared U.S. where we like to say, "Think twice.'
+p3447
+ag189
+asg22
+(dp3448
+I40
+S'53'
+p3449
+sI12
+S'52'
+p3450
+ssasS'after'
+p3451
+(lp3452
+S'58%-FOR'
+p3453
+aS'30%-AGAINST'
+p3454
+aS'12%-UNDECIDED'
+p3455
+asS'against'
+p3456
+(lp3457
+S'THEODORE DALRYMPLE'
+p3458
+aS'ASA HUTCHINSON'
+p3459
+asS'moderator'
+p3460
+(lp3461
+S'JOHN DONVAN'
+p3462
+asS'date'
+p3463
+(dp3464
+S'year'
+p3465
+S'2012'
+p3466
+sS'day'
+p3467
+S'14'
+p3468
+sS'month'
+p3469
+S'November'
+p3470
+ssS'before'
+p3471
+(lp3472
+S'45%-FOR'
+p3473
+aS'23%-AGAINST'
+p3474
+aS'32%-UNDECIDED'
+p3475
 as.

@@ -8965,49 +8965,350 @@ asg13
 I14
 S'61'
 p4281
-ssasS'after'
-p4282
-(lp4283
-S'65%-FOR'
+ssa(dp4282
+g22
+(dp4283
+I42
+S'[laughter]'
 p4284
-aS'28%-AGAINST'
+sI13
+S'[applause]'
 p4285
-aS'7%-UNDECIDED'
+sI46
+S'[laughter]'
 p4286
-asS'against'
+sI15
+S'[applause]'
 p4287
-(lp4288
-S'LAURA INGRAHAM'
+sI49
+S'[cheers]'
+p4288
+sI19
+S'[applause]'
 p4289
-aS'RALPH REED'
+sI20
+S'[laughter]'
 p4290
-asS'moderator'
+sI47
+S'[laughter]'
 p4291
-(lp4292
+ssg11
 S'JOHN DONVAN'
-p4293
-asS'date'
+p4292
+sg16
+(lp4293
+S'Thank you, Mickey Edwards.'
 p4294
-(dp4295
-S'year'
+aS'And that concludes our closing statements.'
+p4295
+aS"And now it's time to see which side you feel has argued the best."
 p4296
-S'2013'
+aS'We\'re going to ask you again to go to the keypads by your seats and vote your view now on this motion, "The GOP must seize the center or die.'
 p4297
-sS'day'
+aS'" If you agree with the side arguing for the motion, push number one.'
 p4298
-S'17'
+aS'If you disagree with the motion, vote for that side, push number two.'
 p4299
-sS'month'
+aS"If you're undecided, became undecided, remained undecided, push number three."
 p4300
-S'April'
+aS"You can ignore the other keys and we'll have the results in about two minutes actually."
 p4301
-ssS'before'
+aS"And so, while we're doing that, I just -- I want to ask your attention for a moment because this could have been a very ugly debate and it wasn't."
 p4302
-(lp4303
-S'65%-FOR'
+aS"It wasn't."
+p4303
+aS'I think all four debaters came to the stage respecting the fact that there are arguments on the other side.'
 p4304
-aS'14%-AGAINST'
+aS'They played it that way.'
 p4305
-aS'21%-UNDECIDED'
+aS'This was a good, honest exchange of ideas, and I think progress was made just in understanding where both sides stand.'
 p4306
+aS"I'd like to give a round of applause to all of them."
+p4307
+aS"And I'd also like to thank every single person who got up and asked a question tonight."
+p4308
+aS'You hit the target.'
+p4309
+aS'Thank you to all of you for doing so.'
+p4310
+aS'And I love this.'
+p4311
+aS"I think this is the first time it's ever happened -- and forgive me for typecasting, but I -- you know, I think it's the first time we've ever asked a probably overwhelmingly liberal audience to choose between these conservatives and these conservatives."
+p4312
+aS'So that must have been a challenge.'
+p4313
+aS'Wed love you to keep Tweeting about the debate.'
+p4314
+aS"We know you've been doing it all along."
+p4315
+aS'Our Twitter handle is @IQ2US.'
+p4316
+aS'Our hash tag tonight is #GOP.'
+p4317
+aS'Our next debate is here in New York.'
+p4318
+aS"It's on Wednesday."
+p4319
+aS"It's May 8th."
+p4320
+aS'The motion is "the FDA\'s caution is hazardous to our health.'
+p4321
+aS'" Arguing for that motion, we\'ll have Scott Gottleib.'
+p4322
+aS'He served in various capacities at the FDA.'
+p4323
+aS'Most recently, he was the director of medical policy development there.'
+p4324
+aS'His partner will be Peter Huber, a senior fellow at the Manhattan institute.'
+p4325
+aS'He has also debated with us in the past and was terrific on this stage.'
+p4326
+aS'Arguing against them, Jerry Avorn; he is a professor of medicine at Harvard who believes that when it comes to drug safety, the FDA is not doing well.'
+p4327
+aS"And David Challoner is his partner; he is chair of an institute of medicine committee that found the FDA's medical device clearance process to be fundamentally flawed."
+p4328
+aS'Tickets are still available for this one.'
+p4329
+aS'The 19th we will be in Washington, D.C. in partnership with the McCain Institute for International Leadership.'
+p4330
+aS'We\'re doing a debate there with this motion: "Cutting the Pentagon\'s budget is a gift to our enemies.'
+p4331
+aS'" For more information, you can visit our website, www.iq2us.org.'
+p4332
+aS"And as I set at the beginning, we're on NPR stations, PBS stations here in New York, across the nation."
+p4333
+aS"We're a podcast."
+p4334
+aS'Download us, talk about us.'
+p4335
+aS'Come back next time.'
+p4336
+aS'All right.'
+p4337
+aS'All right.'
+p4338
+aS"It's all in."
+p4339
+aS'Remember, the way we do this, we have you vote twice and the team whose numbers have moved the most in percentage point terms will be declared our winner.'
+p4340
+aS'Our motion is "the GOP must seize the center or die.'
+p4341
+aS'" Here are the results from before you heard the arguments.'
+p4342
+aS'65 percent of you agreed with the motion.'
+p4343
+aS'14 percent were against.'
+p4344
+aS'21 percent were divided.'
+p4345
+aS'Those are the first results.'
+p4346
+aS'Remember, the team that changes its numbers the most from first to second vote is the winner.'
+p4347
+aS"So let's go to the second vote."
+p4348
+aS"Let's first look at the team arguing for the motion."
+p4349
+aS'They went from 65 percent to 65 percent.'
+p4350
+aS'They picked up -- They picked up zero percentage points.'
+p4351
+aS'Zero is the number to beat.'
+p4352
+aS'The team against the motion, their first vote was 14 percent.'
+p4353
+aS'Their second vote was 28 percent.'
+p4354
+aS'They went up 14 percentage points.'
+p4355
+aS"That's enough."
+p4356
+aS'The motion, "The GOP must seize the center or die" has been defeated.'
+p4357
+aS'Thank you from me, John Donvan, and'
+p4358
+asg18
+(dp4359
+S'20:33:16'
+p4360
+I29
+sS'20:32:16'
+p4361
+I15
+sS'20:34:13'
+p4362
+I40
+ssg8
+(lp4363
+S'Thank you, Mickey Edwards.'
+p4364
+aS'And that concludes our closing statements.'
+p4365
+aS"And now it'stime to see which side you feel has argued the best."
+p4366
+aS'We\'re going to ask you again to goto the keypads by your seats and vote your view now on this motion, "The GOP mustseize the center or die.'
+p4367
+aS'" If you agree with the side arguing for the motion, push numberone.'
+p4368
+aS'If you disagree with the motion, vote for that side, push number two.'
+p4369
+aS"If you'reundecided, became undecided, remained undecided, push number three."
+p4370
+aS"You canignore the other keys and we'll have the results in about two minutes actually."
+p4371
+aS"And so,while we're doing that, I just -- I want to ask your attention for a moment because thiscould have been a very ugly debate and it wasn't."
+p4372
+aS"It wasn't."
+p4373
+aS'I think all four debaterscame to the stage respecting the fact that there are arguments on the other side.'
+p4374
+aS'Theyplayed it that way.'
+p4375
+aS'This was a good, honest exchange of ideas, and I think progress wasmade just in understanding where both sides stand.'
+p4376
+aS"I'd like to give a round of applauseto all of them.And I'd also like to thank every single person who got up and asked a question tonight."
+p4377
+aS'[[applause]]  You hit the target.'
+p4378
+aS'Thank you to all of you for doing so.And I love this.'
+p4379
+aS"I think this is the first time it's ever happened -- and forgive me for [[applause]] typecasting, but I -- you know, I think it's the first time we've ever asked a probablyoverwhelmingly liberal audience to choose between these conservatives and theseconservatives.So that must have been a challenge."
+p4380
+aS'[[applause]] Wed love you to keep Tweeting about the debate.'
+p4381
+aS"We know you've been doing it all [[laughter]] along."
+p4382
+aS'Our Twitter handle is @IQ2US.'
+p4383
+aS'Our hash tag tonight is #GOP.'
+p4384
+aS'Our next debate ishere in New York.'
+p4385
+aS"It's on Wednesday."
+p4386
+aS"It's May 8th."
+p4387
+aS'The motion is "the FDA\'s caution ishazardous to our health.'
+p4388
+aS'" Arguing for that motion, we\'ll have Scott Gottleib.'
+p4389
+aS'He servedin various capacities at the FDA.'
+p4390
+aS'Most recently, he was the director of medical policydevelopment there.'
+p4391
+aS'His partner will be Peter Huber, a senior fellow at the Manhattaninstitute.'
+p4392
+aS'He has also debated with us in the past and was terrific on this stage.'
+p4393
+aS"Arguingagainst them, Jerry Avorn; he is a professor of medicine at Harvard who believes thatwhen it comes to drug safety, the FDA is not doing well.And David Challoner is his partner; he is chair of an institute of medicine committee thatfound the FDA's medical device clearance process to be fundamentally flawed."
+p4394
+aS'Ticketsare still available for this one.'
+p4395
+aS'The 19th we will be in Washington, D.C. in partnershipwith the McCain Institute for International Leadership.'
+p4396
+aS'We\'re doing a debate there withthis motion: "Cutting the Pentagon\'s budget is a gift to our enemies.'
+p4397
+aS'" For moreinformation, you can visit our website, www.iq2us.org.'
+p4398
+aS"And as I set at the beginning,we're on NPR stations, PBS stations here in New York, across the nation."
+p4399
+aS"We're apodcast."
+p4400
+aS'Download us, talk about us.'
+p4401
+aS'Come back next time.'
+p4402
+aS'All right.'
+p4403
+aS'All right.'
+p4404
+aS"It's allin."
+p4405
+aS'Remember, the way we do this, we have you vote twice and the team whosenumbers have moved the most in percentage point terms will be declared our winner.'
+p4406
+aS'Our motion is "the GOP must seize the center or die.'
+p4407
+aS'"Here are the results from before you heard the arguments.'
+p4408
+aS'65 percent of you agreedwith the motion.'
+p4409
+aS'14 percent were against.21 percent were divided.'
+p4410
+aS'Those are the first results.'
+p4411
+aS'Remember, the team that changes [[laughter]] its numbers the most from first to second vote is the winner.'
+p4412
+aS"So let's go to the secondvote."
+p4413
+aS"Let's first look at the team arguing for the motion."
+p4414
+aS'They went from 65 percent to65 percent.'
+p4415
+aS'They picked up --They picked up zero percentage points.'
+p4416
+aS'Zero is the number to beat.'
+p4417
+aS'[[laughter]] The team against the motion, their first vote was 14 percent.'
+p4418
+aS'Their second vote was 28 [[laughter]] percent.They went up 14 percentage points.'
+p4419
+aS"That's enough."
+p4420
+aS'The motion, "The GOP must seize [[cheers]] the center or die" has been defeated.'
+p4421
+aS'Thank you from me, John Donvan, and'
+p4422
+asg13
+(dp4423
+I20
+S'62'
+p4424
+sI47
+S'63'
+p4425
+ssasS'after'
+p4426
+(lp4427
+S'65%-FOR'
+p4428
+aS'28%-AGAINST'
+p4429
+aS'7%-UNDECIDED'
+p4430
+asS'against'
+p4431
+(lp4432
+S'LAURA INGRAHAM'
+p4433
+aS'RALPH REED'
+p4434
+asS'moderator'
+p4435
+(lp4436
+S'JOHN DONVAN'
+p4437
+asS'date'
+p4438
+(dp4439
+S'year'
+p4440
+S'2013'
+p4441
+sS'day'
+p4442
+S'17'
+p4443
+sS'month'
+p4444
+S'April'
+p4445
+ssS'before'
+p4446
+(lp4447
+S'65%-FOR'
+p4448
+aS'14%-AGAINST'
+p4449
+aS'21%-UNDECIDED'
+p4450
 as.

@@ -7028,49 +7028,356 @@ p3379
 sg16
 (lp3380
 g3378
-asasS'after'
-p3381
-(lp3382
-S'23%-FOR'
+asa(dp3381
+g22
+(dp3382
+I42
+S'[applause]'
 p3383
-aS'64%-AGAINST'
+sI45
+S'[laughter]'
 p3384
-aS'13%-UNDECIDED'
+sI14
+S'[applause]'
 p3385
-asS'against'
+sI17
+S'[applause]'
 p3386
-(lp3387
-S'DENNIS BLAIR'
+sI58
+S'[laughter]'
+p3387
+sI29
+S'[applause]'
 p3388
-aS'NORTON SCHWARTZ'
+sI30
+S'[laughter]'
 p3389
-asS'moderator'
-p3390
-(lp3391
+ssg11
 S'JOHN DONVAN'
+p3390
+sg16
+(lp3391
+S'And that concludes our closing statements.'
 p3392
-asS'date'
+aS"And now it's time to learn which side you feel argued the best."
 p3393
-(dp3394
-S'year'
+aS"We're going to have you go to the keypads at your seats again and vote a second time."
+p3394
+aS"And I'll remind you that it's the team whose numbers move from the first vote to the second vote most in percentage point terms who will be declared our winner."
 p3395
-S'2013'
+aS'Push #1 if you agree with this statement as argued by this side: The U.S. Drone Program is Fatally Flawed.'
 p3396
-sS'day'
+aS'Push #2 if you disagree with that statement, you agree with the arguments made by this side.'
 p3397
-S'10'
+aS"That's #2."
 p3398
-sS'month'
+aS"And if you're undecided, became undecided or remain undecided, push #3."
 p3399
-S'September'
+aS'You can ignore the other keys.'
 p3400
-ssS'before'
+aS"And we'll lock it out in about 15 seconds."
 p3401
-(lp3402
-S'23%-FOR'
+aS"And we'll have the results in about 90 seconds."
+p3402
+aS"And while we're doing that, one thing I want to do -- I felt that this debate tonight had a -- an emotional undertone to it."
 p3403
-aS'34%-AGAINST'
+aS'These are very, very passionate issues and difficult ones.'
 p3404
-aS'43%-UNDECIDED'
+aS'And yet, the level of the debate was remarkably civil and informed and respectable, so I want congratulate all of our debaters -- -- for bringing that.'
 p3405
+aS"And I also -- I'd also like to thank everybody who got up to ask a question."
+p3406
+aS'They were all good questions tonight, so thank you for that.'
+p3407
+aS'And nobody debated the debaters, and that was even better.'
+p3408
+aS'So thank you to all of you -- all of -- -- I want to point out that tonight, the president is giving a speech in 32 minutes.'
+p3409
+aS"He's laying out the case for military action in Syria following this suggestion put forward by the Russians, to have international monitors go in and lock down the chemical weapons."
+p3410
+aS"It's only a month ago, actually, that Intelligence Squared was in Aspen."
+p3411
+aS'And we debated the following motion: the U.S. has no dog in the fight in Syria.'
+p3412
+aS'So in light of that speech, I thought you would like to hear what the results of that debate were.'
+p3413
+aS'Again, the motion was the U.S. has no dog in the fight in Syria.'
+p3414
+aS'At the end of the debate, 61% of the live audience in Aspen was in support of that motion.'
+p3415
+aS'And that was a gain for them of 21 percentage points.'
+p3416
+aS'33 percent were against.'
+p3417
+aS'So, they only picked up three percentage points.'
+p3418
+aS'So, that was a clear win for the side that was voting to keep America out of this fight.'
+p3419
+aS'As it happens, one of those winning debaters is with us tonight -- Richard Falkenrath.'
+p3420
+aS'I just want to ask you to take a little bow.'
+p3421
+aS"He was dying to ask a question tonight, but you're a stage guy, not an audience guy."
+p3422
+aS"I'd like to also just ask -- remind you about Tweeting about the debate."
+p3423
+aS'Our Twitter handle is @IQ2US.'
+p3424
+aS"We're delighted if you Tweet afterwards your reaction to how it was handled and the results of the vote."
+p3425
+aS'The hashtag is #drones.'
+p3426
+aS'Our next debate is on October 16th here.'
+p3427
+aS'The motion is: Break Up the Big Banks.'
+p3428
+aS'Supporting the motion -- supporting the break-up -- Richard Fisher.'
+p3429
+aS"He's president and CEO of the Federal Reserve Bank of Dallas."
+p3430
+aS'And his partner is Simon Johnson.'
+p3431
+aS"He's a professor at MIT Sloan School of Management and former chief economist at the International Monetary Fund."
+p3432
+aS'Opposing them -- opposing the bank break-up -- Douglas Elliott.'
+p3433
+aS"He is a fellow at the Brookings Institution and a former investment banker -- and Paul Saltzman, who is president of the Clearing House Association, which is America's oldest banking association."
+p3434
+aS'Other topics coming up this fall include the global job markets, the second amendment, and the case for going vegan.'
+p3435
+aS'Tickets are available at our website for that one -- www.IQ2US.org.'
+p3436
+aS"On Friday, October 18th, we'll be in California debating this motion, For a Better Future, Live in a Red State."
+p3437
+aS'Watch the -- -- you can watch that live streamed.'
+p3438
+aS"It's going to be noon on the East Coast and 9:00 a.m. on the West Coast."
+p3439
+aS"Of course, as we've said before, our live stream is on FORA.tv, but you can also hear our debates, including this one, on NPR stations around the country and on WNYC."
+p3440
+aS'And our website has information updated on all of these items.'
+p3441
+aS'So we have the final vote results.'
+p3442
+aS'Remember, the team whose numbers have changed the most in percentage point terms before the debate and after the debate will be declared our winner.'
+p3443
+aS'The motion is this, "The U.S. drone program is fatally flawed.'
+p3444
+aS'" The vote went this way before the motion, 23 percent agreed that the program is flawed, 34 percent were against, 43 percent were undecided.'
+p3445
+aS'Those are the first results.'
+p3446
+aS'Remember, now, this change in votes.'
+p3447
+aS'The second vote, "The U.S. drone program is fatally flawed.'
+p3448
+aS'The team arguing for the motion, their second vote was 23 percent.'
+p3449
+aS'They gained zero.'
+p3450
+aS'That is the number to beat.'
+p3451
+aS'The team arguing against the motion, their first vote was 34 percent.'
+p3452
+aS'Their second vote was 64 percent.'
+p3453
+aS"That's a gain of 30 percentage points."
+p3454
+aS'The motion "The U.S. drone program is fatally flawed" has been defeated.'
+p3455
+aS'Our congratulations to that team.'
+p3456
+aS"Thank you from me, John Donvan, and Intelligence Squared U.S. We'll see you next time."
+p3457
+asg18
+(dp3458
+S'20:28:02'
+p3459
+I9
+sS'20:29:04'
+p3460
+I20
+sS'20:31:00'
+p3461
+I43
+sS'20:32:34'
+p3462
+I62
+sS'20:32:00'
+p3463
+I55
+sS'20:30:06'
+p3464
+I31
+ssg8
+(lp3465
+S'And that concludes our closing statements.'
+p3466
+aS"And now it's time to learn which side youfeel argued the best."
+p3467
+aS"We're going to have you go to the keypads at your seats again andvote a second time."
+p3468
+aS"And I'll remind you that it's the team whose numbers move fromthe first vote to the second vote most in percentage point terms who will be declaredour winner."
+p3469
+aS'Push #1 if you agree with this statement as argued by this side: The U.S.Drone Program is Fatally Flawed.'
+p3470
+aS'Push #2 if you disagree with that statement, youagree with the arguments made by this side.'
+p3471
+aS"That's #2."
+p3472
+aS"And if you're undecided,became undecided or remain undecided, push #3."
+p3473
+aS'You can ignore the other keys.'
+p3474
+aS"Andwe'll lock it out in about 15 seconds.And we'll have the results in about 90 seconds."
+p3475
+aS"And while we're doing that, one thing Iwant to do -- I felt that this debate tonight had a -- an emotional undertone to it."
+p3476
+aS'Theseare very, very passionate issues and difficult ones.'
+p3477
+aS'And yet, the level of the debate wasremarkably civil and informed and respectable, so I want congratulate all of ourdebaters ---- for bringing that.'
+p3478
+aS"And I also -- I'd also like to thank everybody who got up to ask a [[applause]] question."
+p3479
+aS'They were all good questions tonight, so thank you for that.'
+p3480
+aS'And nobodydebated the debaters, and that was even better.'
+p3481
+aS'So thank you to all of you -- all of ---- I want to point out that tonight, the president is giving a speech in 32 minutes.'
+p3482
+aS"He's [[applause]] laying out the case for military action in Syria following this suggestion put forward bythe Russians, to have international monitors go in and lock down the chemical weapons.It's only a month ago, actually, that Intelligence Squared was in Aspen."
+p3483
+aS'And we debatedthe following motion: the U.S. has no dog in the fight in Syria.'
+p3484
+aS'So in light of that speech,I thought you would like to hear what the results of that debate were.'
+p3485
+aS'Again, themotion was the U.S. has no dog in the fight in Syria.'
+p3486
+aS'At the end of the debate, 61% ofthe live audience in Aspen was in support of that motion.'
+p3487
+aS'And that was a gain for themof 21 percentage points.'
+p3488
+aS'33 percent were against.'
+p3489
+aS'So, they only picked up threepercentage points.'
+p3490
+aS'So, that was a clear win for the side that was voting to keep Americaout of this fight.'
+p3491
+aS'As it happens, one of those winning debaters is with us tonight --Richard Falkenrath.'
+p3492
+aS"I just want to ask you to take a little bow.He was dying to ask a question tonight, but you're a stage guy, not an audience guy."
+p3493
+aS"[[applause]] I'd like to also just ask -- remind you about Tweeting about the debate."
+p3494
+aS'[[laughter]] Our Twitter handle is @IQ2US.'
+p3495
+aS"We're delighted if you Tweet afterwards your reactionto how it was handled and the results of the vote."
+p3496
+aS'The hashtag is #drones.'
+p3497
+aS'Our nextdebate is on October 16th here.'
+p3498
+aS'The motion is: Break Up the Big Banks.'
+p3499
+aS'Supporting themotion -- supporting the break-up -- Richard Fisher.'
+p3500
+aS"He's president and CEO of theFederal Reserve Bank of Dallas."
+p3501
+aS'And his partner is Simon Johnson.'
+p3502
+aS"He's a professor atMIT Sloan School of Management and former chief economist at the InternationalMonetary Fund."
+p3503
+aS'Opposing them -- opposing the bank break-up -- Douglas Elliott.'
+p3504
+aS"He is afellow at the Brookings Institution and a former investment banker -- and Paul Saltzman,who is president of the Clearing House Association, which is America's oldest bankingassociation."
+p3505
+aS'Other topics coming up this fall include the global job markets, the secondamendment, and the case for going vegan.Tickets are available at our website for that one -- www.IQ2US.org.'
+p3506
+aS"[[applause]] On Friday, October 18th, we'll be in California debating this motion, For a Better Future,Live in a Red State."
+p3507
+aS'Watch the ---- you can watch that live streamed.'
+p3508
+aS"It's going to be noon on the East Coast and 9:00 [[laughter]] a.m. on the West Coast."
+p3509
+aS"Of course, as we've said before, our live stream is on FORA.tv,but you can also hear our debates, including this one, on NPR stations around thecountry and on WNYC."
+p3510
+aS'And our website has information updated on all of these items.So we have the final vote results.'
+p3511
+aS'Remember, the team whose numbers have changedthe most in percentage point terms before the debate and after the debate will bedeclared our winner.'
+p3512
+aS'The motion is this, "The U.S. drone program is fatally flawed.'
+p3513
+aS'" Thevote went this way before the motion, 23 percent agreed that the program is flawed, 34percent were against, 43 percent were undecided.'
+p3514
+aS'Those are the first results.Remember, now, this change in votes.The second vote, "The U.S. drone program is fatally flawed.'
+p3515
+aS'The team arguing for themotion, their second vote was 23 percent.'
+p3516
+aS'They gained zero.'
+p3517
+aS'That is the number tobeat.The team arguing against the motion, their first vote was 34 percent.'
+p3518
+aS'Their second vote [[laughter]] was 64 percent.'
+p3519
+aS"That's a gain of 30 percentage points."
+p3520
+aS'The motion "The U.S. droneprogram is fatally flawed" has been defeated.'
+p3521
+aS'Our congratulations to that team.'
+p3522
+aS"Thankyou from me, John Donvan, and Intelligence Squared U.S. We'll see you next time."
+p3523
+asg13
+(dp3524
+I40
+S'52'
+p3525
+sI14
+S'51'
+p3526
+ssasS'after'
+p3527
+(lp3528
+S'23%-FOR'
+p3529
+aS'64%-AGAINST'
+p3530
+aS'13%-UNDECIDED'
+p3531
+asS'against'
+p3532
+(lp3533
+S'DENNIS BLAIR'
+p3534
+aS'NORTON SCHWARTZ'
+p3535
+asS'moderator'
+p3536
+(lp3537
+S'JOHN DONVAN'
+p3538
+asS'date'
+p3539
+(dp3540
+S'year'
+p3541
+S'2013'
+p3542
+sS'day'
+p3543
+S'10'
+p3544
+sS'month'
+p3545
+S'September'
+p3546
+ssS'before'
+p3547
+(lp3548
+S'23%-FOR'
+p3549
+aS'34%-AGAINST'
+p3550
+aS'43%-UNDECIDED'
+p3551
 as.

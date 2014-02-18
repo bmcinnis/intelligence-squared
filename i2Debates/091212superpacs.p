@@ -6776,49 +6776,313 @@ I8
 sS'20:30:19'
 p3251
 I18
-ssasS'after'
-p3252
-(lp3253
-S'22%-FOR'
+ssa(dp3252
+g27
+(dp3253
+I1
+S'[applause]'
 p3254
-aS'69%-AGAINST'
+sI18
+S'[applause]'
 p3255
-aS'9%-UNDECIDED'
+sI14
+S'[applause]'
 p3256
-asS'against'
-p3257
-(lp3258
-S'JONATHAN SOROS'
-p3259
-aS'TREVOR POTTER'
-p3260
-asS'moderator'
-p3261
-(lp3262
+ssg11
 S'JOHN DONVAN'
+p3257
+sg16
+(lp3258
+S'Thank you, David Keating.'
+p3259
+aS'And that concludes our closing statements.'
+p3260
+aS"And now it's time to learn which side you and the audience feel has -- feels has voted the best."
+p3261
+aS'We are asking you again to go to the keypad at your seat that will register your vote.'
+p3262
+aS"We're going to get the readout on this almost instantaneously."
 p3263
-asS'date'
+aS'The motion is "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
 p3264
-(dp3265
-S'year'
+aS'" If you feel this side argued best, push number one.'
+p3265
+aS'The opposing side, push number two.'
 p3266
-S'2012'
+aS'If you are or became undecided, push number three.'
 p3267
-sS'day'
+aS'And you can ignore all of the other keys and correct your vote, and it will just register the last vote.'
 p3268
-S'12'
+aS'Okay.'
 p3269
-sS'month'
+aS"So while you're doing that, and while the votes are being tabulated, the first thing I want to say is that this was, for us, relaunching this season in the midst of a political campaign, it was just about a perfect -- just about a perfect target for us."
 p3270
-S'September'
+aS'And I think all of us at Intelligence Squared are really, really impressed by the level of debate that these panelists brought to this.'
 p3271
-ssS'before'
+aS'It was very serious and informational without being medicinal.'
 p3272
-(lp3273
-S'19%-FOR'
+aS'It was terrific.'
+p3273
+aS'So thank you for that.'
 p3274
-aS'63%-AGAINST'
+aS'And also, I want to say sometimes we have some tricky times with audience questions.'
 p3275
-aS'18%-UNDECIDED'
+aS'Questions tonight were terrific.'
 p3276
+aS'So to everybody who got up there and had the nerve, thank you very much for that.'
+p3277
+aS"A few things about what's coming down the road."
+p3278
+aS'First of all, we -- anybody who was Tweeting tonight, thank you for that.'
+p3279
+aS'And you are welcomed and encouraged by us to Tweet after the debate and get the word out about us.'
+p3280
+aS'Our Twitter handle is @IQ2US.'
+p3281
+aS'And the hash tag is the same, #IQ2US.'
+p3282
+aS'Our next debate is on Thursday, October 4.'
+p3283
+aS'The motion is "Better Elected Islamists than Dictators.'
+p3284
+aS'" Arguing in support of this motion we\'re going to have Reuel Marc Gerecht, a senior fellow at the foundation for defensive democracies and a former Middle East specialist; Brian Katulis, he is a senior fellow at the Center for American Progress, who has been focusing on U.S. foreign policy in the Middle East and South Asia.'
+p3285
+aS'Arguing against this motion, Daniel Pipes.'
+p3286
+aS'He is president of the Middle East forum.'
+p3287
+aS'He is described as perhaps the most prominent U.S. scholar on radical Islam by the Washington Post.'
+p3288
+aS'And Zuhdi Jasser, he is president of the American Islamic Forum for Democracy which he founded to advocate for the separation of mosque and state.'
+p3289
+aS"October 10th, everybody get on a plane and fly to Chicago because we're going to be doing a debate there."
+p3290
+aS"We're taking part in the second annual Chicago Ideas Week."
+p3291
+aS'There we are debating the motion, "Ration End of Life Care.'
+p3292
+aS'" I may later pronounce it "ration.'
+p3293
+aS'" I haven\'t decided yet.'
+p3294
+aS'But you get the point.'
+p3295
+aS'Tickets and more information about all of the upcoming fall debates can be found on our website, www.iq2us.org.'
+p3296
+aS"And if you can't make it to the next debate, watch the live stream as we had tonight."
+p3297
+aS"Our new partner is the Wall Street Journal's video initiative, WSJ live."
+p3298
+aS'And you -- as I said at the very beginning, you can listen to all of our debates online.'
+p3299
+aS'And this particular debate on WNYC here in New York.'
+p3300
+aS'Our turnaround time is usually several days.'
+p3301
+aS'And just look at their schedule.'
+p3302
+aS'And also for the televised version, WNET and the WORLD digital channel.'
+p3303
+aS'All right, we have the results in.'
+p3304
+aS'Remember, our motion is this: "Two Cheers for Super PACs: Money in Politics is Still Overregulated.'
+p3305
+aS'" You heard the heated and intelligent arguments.'
+p3306
+aS"We've asked you to vote twice, both before the debate and again at the end of the debate."
+p3307
+aS'And the team whose numbers have moved the most will be declared our winner.'
+p3308
+aS'And it goes like this: Before the debate, 19 percent were for the motion, 63 percent were against, 18 percent undecided.'
+p3309
+aS'After the debate, 22 percent are for the motion.'
+p3310
+aS"That's up 3 percent."
+p3311
+aS'69 percent are against.'
+p3312
+aS'That is up 6 percent, 9 percent are undecided.'
+p3313
+aS"That's down 9 percent."
+p3314
+aS'That means that the side arguing against the motion in a squeaker has carried this debate.'
+p3315
+aS'Our congratulations to them.'
+p3316
+aS'Thank you from me, John Donovan.'
+p3317
+aS"We'll see you next time from Intelligence Squared US."
+p3318
+asg23
+(dp3319
+S'20:35:18'
+p3320
+I52
+sS'20:31:16'
+p3321
+I7
+sS'20:34:16'
+p3322
+I40
+sS'20:33:19'
+p3323
+I29
+sS'20:32:16'
+p3324
+I18
+ssg8
+(lp3325
+S'Thank you, David Keating.And that concludes our closing statements.'
+p3326
+aS"And now it's time to learn which side you [[applause]] and the audience feel has -- feels has voted the best."
+p3327
+aS'We are asking you again to go tothe keypad at your seat that will register your vote.'
+p3328
+aS"We're going to get the readout onthis almost instantaneously."
+p3329
+aS'The motion is "Two Cheers for Super PACs: Money inPolitics is Still Overregulated.'
+p3330
+aS'" If you feel this side argued best, push number one.'
+p3331
+aS'Theopposing side, push number two.If you are or became undecided, push number three.'
+p3332
+aS'And you can ignore all of theother keys and correct your vote, and it will just register the last vote.'
+p3333
+aS'Okay.'
+p3334
+aS"So whileyou're doing that, and while the votes are being tabulated, the first thing I want to say isthat this was, for us, relaunching this season in the midst of a political campaign, it wasjust about a perfect -- just about a perfect target for us."
+p3335
+aS'And I think all of us atIntelligence Squared are really, really impressed by the level of debate that thesepanelists brought to this.It was very serious and informational without being medicinal.'
+p3336
+aS'It was terrific.'
+p3337
+aS'So thank [[applause]] you for that.'
+p3338
+aS'And also, I want to say sometimes we have some tricky times withaudience questions.'
+p3339
+aS'Questions tonight were terrific.'
+p3340
+aS"So to everybody who got up thereand had the nerve, thank you very much for that.A few things about what's coming down the road."
+p3341
+aS'First of all, we -- anybody who was [[applause]] Tweeting tonight, thank you for that.'
+p3342
+aS'And you are welcomed and encouraged by us toTweet after the debate and get the word out about us.'
+p3343
+aS'Our Twitter handle is @IQ2US.And the hash tag is the same, #IQ2US.'
+p3344
+aS'Our next debate is on Thursday, October 4.'
+p3345
+aS'Themotion is "Better Elected Islamists than Dictators.'
+p3346
+aS'" Arguing in support of this motionwe\'re going to have Reuel Marc Gerecht, a senior fellow at the foundation for defensivedemocracies and a former Middle East specialist; Brian Katulis, he is a senior fellow atthe Center for American Progress, who has been focusing on U.S. foreign policy in theMiddle East and South Asia.'
+p3347
+aS'Arguing against this motion, Daniel Pipes.'
+p3348
+aS'He is presidentof the Middle East forum.'
+p3349
+aS'He is described as perhaps the most prominent U.S. scholaron radical Islam by the Washington Post.And Zuhdi Jasser, he is president of the American Islamic Forum for Democracy which hefounded to advocate for the separation of mosque and state.'
+p3350
+aS"October 10th, everybodyget on a plane and fly to Chicago because we're going to be doing a debate there."
+p3351
+aS"We'retaking part in the second annual Chicago Ideas Week."
+p3352
+aS'There we are debating themotion, "Ration End of Life Care.'
+p3353
+aS'" I may later pronounce it "ration.'
+p3354
+aS'" I haven\'t decidedyet.'
+p3355
+aS'But you get the point.'
+p3356
+aS'Tickets and more information about all of the upcoming falldebates can be found on our website, www.iq2us.org.'
+p3357
+aS"And if you can't make it to thenext debate, watch the live stream as we had tonight."
+p3358
+aS"Our new partner is the WallStreet Journal's video initiative, WSJ live."
+p3359
+aS'And you -- as I said at the very beginning, youcan listen to all of our debates online.'
+p3360
+aS'And this particular debate on WNYC here in NewYork.Our turnaround time is usually several days.'
+p3361
+aS'And just look at their schedule.'
+p3362
+aS'And alsofor the televised version, WNET and the WORLD digital channel.'
+p3363
+aS'All right, we have theresults in.'
+p3364
+aS'Remember, our motion is this: "Two Cheers for Super PACs: Money inPolitics is Still Overregulated.'
+p3365
+aS'" You heard the heated and intelligent arguments.'
+p3366
+aS"We'veasked you to vote twice, both before the debate and again at the end of the debate.And the team whose numbers have moved the most will be declared our winner."
+p3367
+aS'And itgoes like this: Before the debate, 19 percent were for the motion, 63 percent wereagainst, 18 percent undecided.'
+p3368
+aS'After the debate, 22 percent are for the motion.'
+p3369
+aS"That'sup 3 percent."
+p3370
+aS'69 percent are against.'
+p3371
+aS"That is up 6 percent, 9 percent are undecided.That's down 9 percent."
+p3372
+aS'That means that the side arguing against the motion in asqueaker has carried this debate.'
+p3373
+aS'Our congratulations to them.'
+p3374
+aS"Thank you from me,John Donovan.We'll see you next time from Intelligence Squared US."
+p3375
+asg13
+(dp3376
+I40
+S'53'
+p3377
+sI7
+S'52'
+p3378
+ssasS'after'
+p3379
+(lp3380
+S'22%-FOR'
+p3381
+aS'69%-AGAINST'
+p3382
+aS'9%-UNDECIDED'
+p3383
+asS'against'
+p3384
+(lp3385
+S'JONATHAN SOROS'
+p3386
+aS'TREVOR POTTER'
+p3387
+asS'moderator'
+p3388
+(lp3389
+S'JOHN DONVAN'
+p3390
+asS'date'
+p3391
+(dp3392
+S'year'
+p3393
+S'2012'
+p3394
+sS'day'
+p3395
+S'12'
+p3396
+sS'month'
+p3397
+S'September'
+p3398
+ssS'before'
+p3399
+(lp3400
+S'19%-FOR'
+p3401
+aS'63%-AGAINST'
+p3402
+aS'18%-UNDECIDED'
+p3403
 as.

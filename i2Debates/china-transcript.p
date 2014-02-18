@@ -7380,49 +7380,164 @@ aS'You can buy it on Amazon since you like it so much.'
 p3544
 aS'You can preorder it.'
 p3545
-asasS'after'
-p3546
-(lp3547
-S'9%-FOR'
+asa(dp3546
+g22
+(dp3547
+I20
+S'[applause]'
 p3548
-aS'85%-AGAINST'
+sI18
+S'[applause]'
 p3549
-aS'6%-UNDECIDED'
+sI4
+S'[laughter]'
 p3550
-asS'against'
-p3551
-(lp3552
-S'IAN BREMMER'
-p3553
-aS'MINXIN PEI'
-p3554
-asS'moderator'
-p3555
-(lp3556
+ssg11
 S'JOHN DONVAN'
+p3551
+sg16
+(lp3552
+S'Our next debate is coming up on April 17th, and here is our motion: When it comes to politics, the Internet is closing our minds.'
+p3553
+aS'Speaking for the motion, well have Eli Pariser.'
+p3554
+aS'He is a pioneering online organizer and board president of MoveOn.org.'
+p3555
+aS'His book, The Filter Bubble, three words, was the -- -- so easy, so easy -- was the inspiration for this debate.'
+p3556
+aS'His partner booked is Lawrence Lessig, a law professor at Harvard and one of the countrys preeminent legal scholars.'
 p3557
-asS'date'
+aS'Hes been called the philosopher king of Internet law by the New York Times and the Elvis of cyber law by Wired Magazine.'
 p3558
-(dp3559
-S'year'
+aS'Against the motion, were going to have Evgeny Morozov who is a journalist and author of The Net Delusion.'
+p3559
+aS'He bemoans what he calls slacktivism, which is defined by him as the tendency of the Internet to distract the population from any type of serious political engagement.'
 p3560
-S'2012'
+aS'And his partner, Jacob Weisberg, who first joined the online magazine Slate back in 1996 -- thats when people were just figuring out what the Internet was.'
 p3561
-sS'day'
+aS'And today he is the chairman and editor-in-chief of the Slate Group.'
 p3562
-S'13'
+aS'I also want to say that we -- I think all of us with Intelligence Squared are delighted by the spirit with which this panel came to this debate tonight, the level of arguments, the fact that you stuck to ideas, that it didnt get nasty or personal but was thoughtful and provocative.'
 p3563
-sS'month'
+aS'I want to thank you for the way that youve conducted yourselves during this debate.'
 p3564
-S'March'
+aS'And also, to the audience questions that were on point and really did help move this debate along, thank you to all of you who stood up and asked questions.'
 p3565
-ssS'before'
+aS'Okay, and so I now have the results.'
 p3566
-(lp3567
-S'17%-FOR'
+aS'Its all in.'
+p3567
+aS'We have asked you to vote twice, once before the debate and once again after the debate.'
 p3568
-aS'50%-AGAINST'
+aS'This is the final result on who wins this argument according to our live audience here.'
 p3569
-aS'33%-UNDECIDED'
+aS'Our motion is "China does capitalism better than America.'
 p3570
+aS'Before the debate, 17 percent of you were in favor of the motion, 50 percent against, and 33 percent undecided.'
+p3571
+aS'After the debate, 9 percent are for the motion -- thats down 8 percent -- 85 percent support the motion -- thats up 35 percent -- 6 percent are undecided.'
+p3572
+aS'The team arguing against the motion, "China does capitalism better than America, wins this debate.'
+p3573
+aS'Our congratulations to them.'
+p3574
+aS'And thank you from me, John Donvan, and Intelligence Squared U.S. We will see you next time.'
+p3575
+asg18
+(dp3576
+S'20:33:34'
+p3577
+I13
+sS'20:32:43'
+p3578
+I2
+sS'20:34:33'
+p3579
+I24
+ssg8
+(lp3580
+S'Our next debate is coming up on April 17th, and here is our motion: When it comes topolitics, the Internet is closing our minds.Speaking for the motion, well have Eli Pariser.'
+p3581
+aS'He is a pioneering online organizer andboard president of MoveOn.org.'
+p3582
+aS'His book, The Filter Bubble, three words, was the ---- so easy, so easy -- was the inspiration for this debate.'
+p3583
+aS'His partner booked is Lawrence [[laughter]] Lessig, a law professor at Harvard and one of the countrys preeminent legal scholars.Hes been called the philosopher king of Internet law by the New York Times and theElvis of cyber law by Wired Magazine.'
+p3584
+aS'Against the motion, were going to have EvgenyMorozov who is a journalist and author of The Net Delusion.'
+p3585
+aS'He bemoans what hecalls slacktivism, which is defined by him as the tendency of the Internet to distract thepopulation from any type of serious political engagement.'
+p3586
+aS'And his partner, JacobWeisberg, who first joined the online magazine Slate back in 1996 -- thats when peoplewere just figuring out what the Internet was.And today he is the chairman and editor-in-chief of the Slate Group.'
+p3587
+aS'I also want to saythat we -- I think all of us with Intelligence Squared are delighted by the spirit withwhich this panel came to this debate tonight, the level of arguments, the fact that youstuck to ideas, that it didnt get nasty or personal but was thoughtful and provocative.'
+p3588
+aS'Iwant to thank you for the way that youve conducted yourselves during this debate.And also, to the audience questions that were on point and really did help move this [[applause]] debate along, thank you to all of you who stood up and asked questions.Okay, and so I now have the results.'
+p3589
+aS'Its all in.'
+p3590
+aS'We have asked you to vote twice, once [[applause]] before the debate and once again after the debate.'
+p3591
+aS'This is the final result on who winsthis argument according to our live audience here.'
+p3592
+aS'Our motion is "China does capitalismbetter than America.Before the debate, 17 percent of you were in favor of the motion, 50 percent against,and 33 percent undecided.'
+p3593
+aS'After the debate, 9 percent are for the motion -- thatsdown 8 percent -- 85 percent support the motion -- thats up 35 percent -- 6 percent areundecided.'
+p3594
+aS'The team arguing against the motion, "China does capitalism better thanAmerica, wins this debate.'
+p3595
+aS'Our congratulations to them.'
+p3596
+aS'And thank you from me, JohnDonvan, and Intelligence Squared U.S. We will see you next time.'
+p3597
+asg13
+(dp3598
+I24
+S'54'
+p3599
+ssasS'after'
+p3600
+(lp3601
+S'9%-FOR'
+p3602
+aS'85%-AGAINST'
+p3603
+aS'6%-UNDECIDED'
+p3604
+asS'against'
+p3605
+(lp3606
+S'IAN BREMMER'
+p3607
+aS'MINXIN PEI'
+p3608
+asS'moderator'
+p3609
+(lp3610
+S'JOHN DONVAN'
+p3611
+asS'date'
+p3612
+(dp3613
+S'year'
+p3614
+S'2012'
+p3615
+sS'day'
+p3616
+S'13'
+p3617
+sS'month'
+p3618
+S'March'
+p3619
+ssS'before'
+p3620
+(lp3621
+S'17%-FOR'
+p3622
+aS'50%-AGAINST'
+p3623
+aS'33%-UNDECIDED'
+p3624
 as.

@@ -14,7 +14,7 @@
 
 import imp
 
-mods = ['os','pprint','pickle','re','numpy']
+mods = ['os','pprint','pickle','re','numpy','csv']
 error = []
 for m in mods:        
     try:
@@ -34,7 +34,7 @@ if (len(error)>0):
 
 """ %(",".join(error))
 else:
-    import os, pprint, pickle, re, numpy
+    import os, pprint, pickle, re, numpy, csv
 
     debateDir = 'i2Debates'
     debateFilePattern = '.*[.]p$'
@@ -47,7 +47,10 @@ else:
         """
 
         if ((os.path.isfile(filepath))&(re.match(debateFilePattern,filepath)!=None)):
-            debate = pickle.load(open( filepath,"rb"))
+            f = open( filepath,"rb");
+            out = f.read().replace('\r\n', '\n')
+            f.close()
+            debate = pickle.loads(out)
             return debate
         else:
             return False
@@ -134,7 +137,7 @@ else:
                     elif ((fGoForth == True)&(fCurrentSection == "")):
                         catchAll.append({'STATEMENT':l['STATEMENT'],
                                                 'SPEAKER':l['SPEAKER']})
-
+                        
         ##  Clean the before and after polling results and introduce the delta
         poll_results = ['before','after']
         poll_types = []
@@ -196,7 +199,7 @@ else:
 
     def splitWords(text):
         """
-            Simply takes a sentence and splits it by spaces using a regular expression
+            splitWords():  Simply takes a sentence and splits it by spaces using a regular expression
         """
         ret = 0
         if type(text) is list:
@@ -206,31 +209,133 @@ else:
             ret +=len(re.sub('(\s+)','|-BJM-|',text).split("|-BJM-|"))            
         return ret
 
+
+    def createLIWC(filepath=r'C:\Users\Brian McInnis\Google Drive\Programming\Experiments\data\LIWC\LIWC2007dictionary_bjm.csv'):
+        """
+            createLIWC():   If you have a .csv distribution of the LIWC database, make sure that the
+            column category types are properly left justified such that the title for the category
+            is directly over the first column of associated words.
+        """
+        cols = []
+        names = []
+        categories = {}
+        with open(filepath, 'rb') as f:
+            reader = csv.reader(f)
+            line = 0
+            for row in reader:
+                if(line==0):
+                    title = list(set(row))
+                    title.remove("")
+                    print title
+                elif(line==1):
+                    cols = [c for c in range(0,len(row)) if(row[c]!="")]
+                    print cols
+                elif(line==2):
+                    names = dict([(r,row[r]) for r in range(0,len(row)) if row[r] != ""])
+                    print names
+                else:
+                    current_category = ""
+                    for c in range(0,len(row)):
+                        if c in names:
+                            current_category = names[c]
+                            categories.setdefault(current_category,[])
+                        if (current_category!=""):
+                            categories[current_category].append(row[c])                    
+                line+=1
+                
+        for c in categories.keys():
+            categories[c] = [r for r in categories[c] if r!=""]
+            categories[c] = sorted(categories[c])
+
+        return categories
+                
+    def liwcScores(text,commands={'liwc':{},'categories':[]}):
+        """
+            liwcScores():   Using the LIWC dictionary provide a series of basic summaries.
+            Because this function is used in conjunction with the summarize() function,
+            the "commands" property is used to store refences to the LIWC installation as
+            well as the LIWC categories of interest.  The return object (also inline with
+            how the summarize function operates) is single-dimension dict object with
+            numeric values for aggregation.
+        """
+        liwc = commands['liwc']
+        ret = {}
+        ret['total-words'] = splitWords(text)
+        ret['total-sentences'] = len(text)
+        for c in commands['categories']:
+            if c in liwc:
+                ret.setdefault(c,0)
+                for t in text:            
+                    ret[c]+=numpy.sum([len(re.findall(r'\b%s\b' %(w),t,flags=re.IGNORECASE)) for w in liwc[c]])
+        return ret
+
+
+    def dictDepth(obj,depth=0,key=[]):
+        """
+            dictDepth():   recursively iterates through the nested dictionary to return
+            a list of keys mapping to each non-dictionary item.  This function can be
+            used with the arrayTraversal() function to create a flattened dataset.
+        """
+        store=[]
+        for o in sorted(obj.keys()):
+            if(type(obj[o]) is dict):
+                #print "%s%s" %(" "*depth,o)
+                if len(key)>depth:
+                    key = key[:depth]
+                key.append(o)
+                store.extend(dictDepth(obj=obj[o],depth=depth+1,key=key))
+            else:
+                if len(key)>depth:
+                    key = key[:depth]
+                key.append(o)
+                #print "%s%s" %(" "*depth,o)
+                store.append(key)
+        return store
+            
+
     def arrayTraversal(obj,depth):
         """
             arrayTraversal():   Recursive function to identify the values of nested elements
         """
-        if ((type(depth) is list):
+        if ((type(depth) is list)&(type(obj) is dict)):
             first = depth[0]
             if first in obj:
-                print obj[first]
+                #print obj[first]
                 depth.pop(0)
                 return arrayTraversal(obj[first],depth)
             else:
-                print 'Error: "'+first+'" does not exist'
+                #print 'Error: "'+first+'" does not exist'
+                return None
+        elif (len(depth)>0):
+            #print 'Error:  Unrecognized keys = ' + ",".join(depth)
+            return None
         else:
-            print 'Found: '+ obj[depth]
-            return obj[depth]
+            #print 'Found: ' + str(obj)
+            return obj
             
 
-    def summarize(obj, roles, prop):
+    def summarize(obj, roles, prop=None, propArgs=None):
         """
             summarize():    Meant to be somewhat general purpose, takes as input the debate object
             as well as the roles/people to be summarized by, as well as a property for summarizing.
             The property could very well be a function, built in like len() or custom.
+
+            For example, the following will count the number of words per statements made by
+            each side of the debate, per section (because the text data is split by section).
+
+                    summarize(
+                          obj=debate,
+                          roles={'for':debate['for'],
+                                 'against':debate['against']},
+                          prop=splitWords);
+
         """
         revRole = {}
+
         ret = {}
+        flat = []
+        skeys = []
+
         ### Reverse the roles object so that the names are keys and the role type is
         ###     the value, this way the loop through the statemens will be quick.
         
@@ -240,22 +345,63 @@ else:
                 
         ### Loop through the statements and assign each property value to the by
         ###     group revRole object values.
-                
+
+        line = 0
         for o in sorted(obj['sections'].keys()):
             for l in obj['sections'][o]:
-                if l['SPEAKER'] in revRole:
-                    #print '%s--%s(%s)|%f'   %(o,
-                    #                        revRole[l['SPEAKER']],
-                    #                        l['SPEAKER'],
-                    #                        prop(l['STATEMENT']))
-                    ret.setdefault(o,{})
-                    ret[o].setdefault(revRole[l['SPEAKER']],0)
-                    ret[o][revRole[l['SPEAKER']]] += prop(l['STATEMENT'])
-        return ret
 
-    def flatten(obj,variables):
-        variables ="" 
-    
+        ### The unit of observation is the statement (variable: state) which is
+        ###     appended to the return array (variable: flat)
+                
+                state = [obj['title'],obj['file'],line,o,l['SPEAKER']]
+                skeys = ['title','file','line','section','speaker']
+                if l['SPEAKER'] not in revRole:
+                    revRole[l['SPEAKER']] = 'other'
+                    print 'Extending REV ROLE: '+l['SPEAKER']
+                    
+        ### Extend the state variable to include the speaker and their role
+                state.extend([revRole[l['SPEAKER']]])
+                skeys.extend(['role'])
+
+                ret.setdefault(o,{})
+                ret[o].setdefault(revRole[l['SPEAKER']],{})
+                    
+        ### Summarize the data in someway given a supplied function (see: len(), splitWords())
+        ###  Make sure that whether the result of (prop) is a number or dict, the final nested
+        ###  value must be numeric.  Currently only top level nesting is possible.
+
+                if prop != None:
+                    propRet = None
+                    if propArgs != None:
+                        propRet = prop(l['STATEMENT'],propArgs)
+                    else:
+                        propRet = prop(l['STATEMENT'])
+                    if propRet != None:
+                        if (isinstance(propRet, (int, long, float, complex))):
+                            ret[o][revRole[l['SPEAKER']]].setdefault('number',0)
+                            ret[o][revRole[l['SPEAKER']]]['number'] += propRet
+                            state.extend([propRet])                            
+                            skeys.extend(['%s' %(prop.__name__)])
+                        elif (isinstance(propRet,dict)):
+                            for pR in sorted(propRet.keys()):
+                                ret[o][revRole[l['SPEAKER']]].setdefault(pR,0)
+                                ret[o][revRole[l['SPEAKER']]][pR] += propRet[pR]
+                                skeys.extend(['%s-%s' %(prop.__name__,pR)])
+                                state.extend([propRet[pR]])                            
+
+        ### Aggregate the sentence level observations into a statement
+                statement_text = " ".join(l['STATEMENT'])
+                statement_text = re.sub('([\s]{2,})',' ',statement_text)
+                skeys.extend(['statement'])
+                state.extend([statement_text])
+                flat.append(state)
+                line+=1
+                
+        ### The "skeys" variable represents the keys for the last item in the given debate text
+        ###  this is not optimal, but for the time being make sure that any 'prop' function passed
+        ###  to process the text returns the same number of items, and in the same order
+        ###  regardless of the text supplied.
+        return ret, flat, skeys
 
 ###### Correction object.  This object captures specific processing
     ##  instructions for each of the debate records.  The key for the object
@@ -274,12 +420,12 @@ else:
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
                                         'DR. SCOTT GOTTLIEB':'SCOTT GOTTLIEB'},
                             'sections':{
-                                    '18:48:36':'R0-Audience Instructions',
-                                    '18:54:02':'R1-Introduction',
-                                    '19:00:02':'R2-Opening Statements',
-                                    '19:30:03':'R3-Debate',
-                                    '20:12:01':'R4-Closing Statements',
-                                    '20:22:03':'R5-Conclusion',
+                                    '18:48:36':'R0',
+                                    '18:54:02':'R1',
+                                    '19:00:02':'R2',
+                                    '19:30:03':'R3',
+                                    '20:12:01':'R4',
+                                    '20:22:03':'R5',
                                 }
                         },
                         'i2Debates/011613 israel iran.p':{
@@ -287,12 +433,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '18:47:02':'R0-Audience Instructions',
-                                    '18:51:01':'R1-Introduction',
-                                    '18:59:00':'R2-Opening Statements',
-                                    '19:29:51':'R3-Debate',
-                                    '20:20:41':'R4-Closing Statements',
-                                    '20:29:00':'R5-Conclusion',
+                                    '18:47:02':'R0',
+                                    '18:51:01':'R1',
+                                    '18:59:00':'R2',
+                                    '19:29:51':'R3',
+                                    '20:20:41':'R4',
+                                    '20:29:00':'R5',
                                 }
                         },
                         'i2Debates/021313 genetic engineering.p':{
@@ -301,12 +447,12 @@ else:
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
                                         'ROBERT WINSTON':'LORD ROBERT WINSTON'},
                             'sections':{
-                                    '18:49:35':'R0-Audience Instructions',
-                                    '18:52:06':'R1-Introduction',
-                                    '18:58:51':'R2-Opening Statements',
-                                    '19:29:09':'R3-Debate',
-                                    '20:20:05':'R4-Closing Statements',
-                                    '20:29:57':'R5-Conclusion',
+                                    '18:49:35':'R0',
+                                    '18:52:06':'R1',
+                                    '18:58:51':'R2',
+                                    '19:29:09':'R3',
+                                    '20:20:05':'R4',
+                                    '20:29:57':'R5',
                                 }
                         },
                         'i2Debates/031313 strong dollar.p':{
@@ -314,12 +460,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '18:47:41':'R0-Audience Instructions',
-                                    '18:53:04':'R1-Introduction',
-                                    '18:59:05':'R2-Opening Statements',
-                                    '19:28:00':'R3-Debate',
-                                    '20:21:14':'R4-Closing Statements',
-                                    '20:31:54':'R5-Conclusion',
+                                    '18:47:41':'R0',
+                                    '18:53:04':'R1',
+                                    '18:59:05':'R2',
+                                    '19:28:00':'R3',
+                                    '20:21:14':'R4',
+                                    '20:31:54':'R5',
                                 }
                         },                                          
                         'i2Debates/041713 gop.p':{
@@ -328,12 +474,12 @@ else:
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
                                         'RALPH REEDR':'RALPH REED'},
                             'sections':{
-                                    '18:48:14':'R0-Audience Instructions',
-                                    '18:52:12':'R1-Introduction',
-                                    '18:57:13':'R2-Opening Statements',
-                                    '19:12:19':'R3-Debate',
-                                    '20:21:18':'R4-Closing Statements',
-                                    '20:32:16':'R5-Conclusion',
+                                    '18:48:14':'R0',
+                                    '18:52:12':'R1',
+                                    '18:57:13':'R2',
+                                    '19:12:19':'R3',
+                                    '20:21:18':'R4',
+                                    '20:32:16':'R5',
                                 }
                         },                                          
                         'i2Debates/061913 pentagon budget.p':{
@@ -343,12 +489,12 @@ else:
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
                                         'REW KREPINEVICH':'ANDREW KREPINEVICH'},
                             'sections':{
-                                    '17:33:29':'R0-Audience Instructions',
-                                    '17:40:30':'R1-Introduction',
-                                    '17:45:29':'R2-Opening Statements',
-                                    '18:11:32':'R3-Debate',
-                                    '18:53:34':'R4-Closing Statements',
-                                    '19:05:30':'R5-Conclusion',
+                                    '17:33:29':'R0',
+                                    '17:40:30':'R1',
+                                    '17:45:29':'R2',
+                                    '18:11:32':'R3',
+                                    '18:53:34':'R4',
+                                    '19:05:30':'R5',
                                 }
                         },                                          
                        'i2Debates/091013 drones.p':{
@@ -358,12 +504,12 @@ else:
                                         'ADMIRAL DENNIS BLAIR':'DENNIS BLAIR',
                                         'GENERAL NORTON SCHWARTZ':'NORTON SCHWARTZ'},
                             'sections':{
-                                    '18:46:03':'R0-Audience Instructions',
-                                    '18:51:04':'R1-Introduction',
-                                    '18:57:58':'R2-Opening Statements',
-                                    '19:27:09':'R3-Debate',
-                                    '20:17:06':'R4-Closing Statements',
-                                    '20:28:02':'R5-Conclusion',
+                                    '18:46:03':'R0',
+                                    '18:51:04':'R1',
+                                    '18:57:58':'R2',
+                                    '19:27:09':'R3',
+                                    '20:17:06':'R4',
+                                    '20:28:02':'R5',
                                 }
                         },                                                               
                        'i2Debates/091212superpacs.p':{
@@ -371,12 +517,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '18:47:11':'R0-Audience Instructions',
-                                    '18:51:12':'R1-Introduction',
-                                    '18:57:10':'R2-Opening Statements',
-                                    '19:28:14':'R3-Debate',
-                                    '20:21:15':'R4-Closing Statements',
-                                    '20:31:16':'R5-Conclusion',
+                                    '18:47:11':'R0',
+                                    '18:51:12':'R1',
+                                    '18:57:10':'R2',
+                                    '19:28:14':'R3',
+                                    '20:21:15':'R4',
+                                    '20:31:16':'R5',
                                 }
                         },                                                               
                        'i2Debates/101012rationinghealthcare.p':{
@@ -384,12 +530,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '19:29:07':'R0-Audience Instructions',
-                                    '19:39:04':'R1-Introduction',
-                                    '19:45:02':'R2-Opening Statements',
-                                    '20:15:59':'R3-Debate',
-                                    '21:14:56':'R4-Closing Statements',
-                                    '21:24:06':'R5-Conclusion',
+                                    '19:29:07':'R0',
+                                    '19:39:04':'R1',
+                                    '19:45:02':'R2',
+                                    '20:15:59':'R3',
+                                    '21:14:56':'R4',
+                                    '21:24:06':'R5',
                                 }
                         },                                                               
                        'i2Debates/101613 big banks.p':{
@@ -397,12 +543,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '18:49:35':'R0-Audience Instructions',
-                                    '18:54:00':'R1-Introduction',
-                                    '19:01:04':'R2-Opening Statements',
-                                    '19:30:57':'R3-Debate',
-                                    '20:19:00':'R4-Closing Statements',
-                                    '20:27:00':'R5-Conclusion',
+                                    '18:49:35':'R0',
+                                    '18:54:00':'R1',
+                                    '19:01:04':'R2',
+                                    '19:30:57':'R3',
+                                    '20:19:00':'R4',
+                                    '20:27:00':'R5',
                                 }
                         },                                                               
                        'i2Debates/101813 red state.p':{
@@ -410,12 +556,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '12:00:00':'R0-Audience Instructions',
-                                    '12:11:52':'R1-Introduction',
-                                    '12:16:57':'R2-Opening Statements',
-                                    '12:40:56':'R3-Debate',
-                                    '13:30:59':'R4-Closing Statements',
-                                    '13:38:02':'R5-Conclusion',
+                                    '12:00:00':'R0',
+                                    '12:11:52':'R1',
+                                    '12:16:57':'R2',
+                                    '12:40:56':'R3',
+                                    '13:30:59':'R4',
+                                    '13:38:02':'R5',
                                 }
                         },                                                               
                        'i2Debates/102412 taxes.p':{
@@ -425,12 +571,12 @@ else:
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
                                         'ART LAFFER':'ARTHUR LAFFER'},
                             'sections':{
-                                    '18:52:02':'R0-Audience Instructions',
-                                    '18:56:55':'R1-Introduction',
-                                    '19:02:59':'R2-Opening Statements',
-                                    '19:32:56':'R3-Debate',
-                                    '20:28:54':'R4-Closing Statements',
-                                    '20:36:51':'R5-Conclusion',
+                                    '18:52:02':'R0',
+                                    '18:56:55':'R1',
+                                    '19:02:59':'R2',
+                                    '19:32:56':'R3',
+                                    '20:28:54':'R4',
+                                    '20:36:51':'R5',
                                 }
                         },
                        'i2Debates/111412 drugs.p':{
@@ -438,12 +584,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '18:48:51':'R0-Audience Instructions',
-                                    '18:53:11':'R1-Introduction',
-                                    '18:58:06':'R2-Opening Statements',
-                                    '19:28:57':'R3-Debate',
-                                    '20:22:00':'R4-Closing Statements',
-                                    '20:30:47':'R5-Conclusion',
+                                    '18:48:51':'R0',
+                                    '18:53:11':'R1',
+                                    '18:58:06':'R2',
+                                    '19:28:57':'R3',
+                                    '20:22:00':'R4',
+                                    '20:30:47':'R5',
                                 }
                         },                     
                        'i2Debates/111413 guns.p':{
@@ -454,12 +600,12 @@ else:
                                         'ALAN DERSHOWITZ':'ALAN DERSHOWITZ',
                                         'EUGENE VOLOH':'EUGENE VOLOKH'},
                             'sections':{
-                                    '18:48:32':'R0-Audience Instructions',
-                                    '18:51:59':'R1-Introduction',
-                                    '18:57:59':'R2-Opening Statements',
-                                    '19:29:58':'R3-Debate',
-                                    '20:21:08':'R4-Closing Statements',
-                                    '20:32:00':'R5-Conclusion',
+                                    '18:48:32':'R0',
+                                    '18:51:59':'R1',
+                                    '18:57:59':'R2',
+                                    '19:29:58':'R3',
+                                    '20:21:08':'R4',
+                                    '20:32:00':'R5',
                                 }
                         },                     
                        'i2Debates/112013 nsa.p':{
@@ -467,12 +613,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '17:36:03':'R0-Audience Instructions',
-                                    '17:39:07':'R1-Introduction',
-                                    '17:44:04':'R2-Opening Statements',
-                                    '18:11:05':'R3-Debate',
-                                    '18:50:05':'R4-Closing Statements',
-                                    '18:59:11':'R5-Conclusion',
+                                    '17:36:03':'R0',
+                                    '17:39:07':'R1',
+                                    '17:44:04':'R2',
+                                    '18:11:05':'R3',
+                                    '18:50:05':'R4',
+                                    '18:59:11':'R5',
                                 }
                         },                     
                        'i2Debates/china-transcript.p':{
@@ -480,12 +626,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '18:48:30':'R0-Audience Instructions',
-                                    '18:51:38':'R1-Introduction',
-                                    '18:58:37':'R2-Opening Statements',
-                                    '19:29:36':'R3-Debate',
-                                    '20:20:37':'R4-Closing Statements',
-                                    '20:30:36':'R5-Conclusion',
+                                    '18:48:30':'R0',
+                                    '18:51:38':'R1',
+                                    '18:58:37':'R2',
+                                    '19:29:36':'R3',
+                                    '20:20:37':'R4',
+                                    '20:30:36':'R5',
                                 }
                         },                     
                        'i2Debates/college.p':{
@@ -493,12 +639,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '19:50:51':'R0-Audience Instructions',
-                                    '19:54:52':'R1-Introduction',
-                                    '19:57:54':'R2-Opening Statements',
-                                    '20:30:54':'R3-Debate',
-                                    '21:18:53':'R4-Closing Statements',
-                                    '21:27:55':'R5-Conclusion',
+                                    '19:50:51':'R0',
+                                    '19:54:52':'R1',
+                                    '19:57:54':'R2',
+                                    '20:30:54':'R3',
+                                    '21:18:53':'R4',
+                                    '21:27:55':'R5',
                                 }
                         },                     
                        'i2Debates/internet-politics.p':{
@@ -506,12 +652,12 @@ else:
                             'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE']},
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '18:45:42':'R0-Audience Instructions',
-                                    '18:49:43':'R1-Introduction',
-                                    '18:55:41':'R2-Opening Statements',
-                                    '19:24:48':'R3-Debate',
-                                    '20:18:47':'R4-Closing Statements',
-                                    '20:28:48':'R5-Conclusion',
+                                    '18:45:42':'R0',
+                                    '18:49:43':'R1',
+                                    '18:55:41':'R2',
+                                    '19:24:48':'R3',
+                                    '20:18:47':'R4',
+                                    '20:28:48':'R5',
                                 }
                         },                     
                       'i2Debates/men-are-finished.p':{
@@ -521,12 +667,12 @@ else:
                                         'JON DONVAN':'JOHN DONVAN',
                                         'MALE ZINCZENKO':'DAVID ZINCZENKO'},
                             'sections':{
-                                    '18:47:18':'R0-Audience Instructions',
-                                    '18:50:17':'R1-Introduction',
-                                    '18:52:16':'R2-Opening Statements',
-                                    '19:25:16':'R3-Debate',
-                                    '20:23:17':'R4-Closing Statements',
-                                    '20:33:16':'R5-Conclusion',
+                                    '18:47:18':'R0',
+                                    '18:50:17':'R1',
+                                    '18:52:16':'R2',
+                                    '19:25:16':'R3',
+                                    '20:23:17':'R4',
+                                    '20:33:16':'R5',
                                 }
                         },                     
                       'i2Debates/obama-jobs-act.p':{
@@ -537,12 +683,12 @@ else:
                                         'JON DONVAN':'JOHN DONVAN',
                                         'MARK Z':'MARK ZANDI'},
                             'sections':{
-                                    '18:44:53':'R0-Audience Instructions',
-                                    '18:48:54':'R1-Introduction',
-                                    '18:51:57':'R2-Opening Statements',
-                                    '19:23:56':'R3-Debate',
-                                    '20:17:52':'R4-Closing Statements',
-                                    '20:27:54':'R5-Conclusion',
+                                    '18:44:53':'R0',
+                                    '18:48:54':'R1',
+                                    '18:51:57':'R2',
+                                    '19:23:56':'R3',
+                                    '20:17:52':'R4',
+                                    '20:27:54':'R5',
                                 }
                         },                     
                       'i2Debates/obamacare.p':{
@@ -551,12 +697,12 @@ else:
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
                                         'JON DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '18:50:21':'R0-Audience Instructions',
-                                    '18:55:25':'R1-Introduction',
-                                    '18:56:20':'R2-Opening Statements',
-                                    '19:29:26':'R3-Debate',
-                                    '20:23:24':'R4-Closing Statements',
-                                    '20:33:22':'R5-Conclusion',
+                                    '18:50:21':'R0',
+                                    '18:55:25':'R1',
+                                    '18:56:20':'R2',
+                                    '19:29:26':'R3',
+                                    '20:23:24':'R4',
+                                    '20:33:22':'R5',
                                 }
                         },                     
                       'i2Debates/palestine.p':{
@@ -565,12 +711,12 @@ else:
                             'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
                                         'JON DONVAN':'JOHN DONVAN'},
                             'sections':{
-                                    '18:51:41':'R0-Audience Instructions',
-                                    '18:55:44':'R1-Introduction',
-                                    '19:00:40':'R2-Opening Statements',
-                                    '19:32:42':'R3-Debate',
-                                    '20:26:42':'R4-Closing Statements',
-                                    '20:37:45':'R5-Conclusion',
+                                    '18:51:41':'R0',
+                                    '18:55:44':'R1',
+                                    '19:00:40':'R2',
+                                    '19:32:42':'R3',
+                                    '20:26:42':'R4',
+                                    '20:37:45':'R5',
                                 }
                         }                                            
                      };
@@ -582,34 +728,107 @@ else:
     ## Identify all of the pickle files associated with I2US debates
     debateFiles = ["%s/%s" %(debateDir,f) for f in os.listdir(debateDir+"/") if re.match(debateFilePattern,f)]
 
+    ## Create a LIWC Dictionary of terms
+    liwc = createLIWC();
+
     ## Load a debate from its pickle file and return the turn taking frequency
     ##  by role and participant
-    full={}
-    aKeys = []
+    allDebates={}
+    allResults=[]
+    allData=[]
     for d in debateFiles:
-        ## Note that not all 22 files are read, merely the ones with correction keys
         debate = openDebate(filepath=d)
         if (d in correctionObj):
             debate = correctDebates(correction=correctionObj[d], obj=debate)
 
-            ret = {'title':debate['title'],
-                   'before':debate['before'],
-                   'after':debate['after']}
-            
-            ret.update(summarize(
-                                      obj=debate,
-                                      roles={'for':debate['for'],
-                                             'against':debate['against']},
-                                      prop=splitWords)
-                                )
+        ## Preserve the filename just for ease
 
-            full[d]=debate
-            aKeys.extend(ret.keys())
-            aKeys = list(set(aKeys))
+            debate['file'] = d
+
+            ret = {'title':debate['title'],
+                   'date':debate['date'],
+                   'poll':debate['poll'],
+                   'file':debate['file']}
+
+            roles = ['for','against','moderator','other']
+            roles = dict([(r,[]) for r in roles])
+            for r in roles.keys():
+                if r in debate:
+                    roles[r].extend(debate[r])
+            print roles
+
+        ## The summarize() function returns two objects, the full data in a form
+        ##      useful for NUMPY (data) as well as an aggregate (collapse) of the results
+        ##      by section and by role.  Summarize prop values "len" returns the number of
+        ##      statement arrays/sentences per statement, whereas "splitWords" returns the
+        ##      total number of words per statement per speaker.
+
+            collapsed, data, dkeys = summarize(
+                                      obj=debate,
+                                      roles=roles,
+                                      prop=liwcScores,
+                                      propArgs={'liwc':liwc,'categories':['Past','Present','Future']})
+            ret.update(collapsed)
+
+        ## Return all of the different data objects created through this process
+
+            allResults.append(ret)
+
+            if len(allData)==0:
+                allData.extend([dkeys])
+            allData.extend(data)
+
+            allDebates[d]=debate
+
+        ## For error checking purposes, the speakerTurnFrequencies() function is
+        ##      or was quite useful
 
         speakerTurns = speakerTurnFrequencies(debate)
         print (d)
         pprint.pprint(speakerTurns)
         
+print '--Sanity check on the allData Object--'
+print list(set([len(a) for a in allData]))
+
+delim = "#*|*#"
+
+print '--Return the ALLDATA object--'
+retData = [delim.join([str(b) for b in a])+"\n" for a in allData]
+f = open('debateData.txt','wb')
+f.writelines(retData)
+f.close()
+
+print '--Return the ALLRESULTS object--'
+# Perhaps my favorite few lines of this script because it uses both the
+# dictDepth() and arrayTraversal() functions to assign variable names to
+# values in any sized dict().  This was also challenging to write because
+# of how I pop values from the depth array in arrayTraversal().
+
+akeys = []
+ares = []
+for a in allResults:
+    # Unfortunately the depth variables for each dictionary need to be taken
+    # and can't be appended to a growing list of all unique variables.
+    dD = dictDepth(obj=a)
+    avals = dict([('-'.join(d),arrayTraversal(obj=a,depth=d)) for d in dD])
+    ares.append(avals)
+    
+    akeys.extend(avals.keys())
+    akeys = list(set(akeys))
+
+    # As a work around, all variables not present in a given results dict
+    # are applied with None values
+for a in ares:
+    diff = set(akeys).difference(set(a.keys()))
+    a.update(dict([(d,None) for d in diff]))
+
+akeys = sorted(akeys)
+retRes = [delim.join([str(ak) for ak in akeys])+"\n"]
+retRes.extend([delim.join([str(a[ak]) for ak in akeys])+"\n" for a in ares])
+f = open('debateResults.txt','wb')
+f.writelines(retRes)
+f.close()
+        
+
 
 print('--end--');

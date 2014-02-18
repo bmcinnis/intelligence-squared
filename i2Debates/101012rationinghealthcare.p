@@ -5760,49 +5760,373 @@ asg13
 I24
 S'55'
 p2764
-ssasS'after'
-p2765
-(lp2766
-S'81%-FOR'
+ssa(dp2765
+g38
+(dp2766
+I67
+S'[applause]'
 p2767
-aS'12%-AGAINST'
+sI4
+S'[laughter]'
 p2768
-aS'7%-UNDECIDED'
+sI40
+S'[applause]'
 p2769
-asS'against'
+sI76
+S'[applause]'
 p2770
-(lp2771
-S'SALLY PIPES'
+sI46
+S'[applause]'
+p2771
+sI54
+S'[applause]'
 p2772
-aS'KEN CONNOR'
+sI27
+S'[applause]'
 p2773
-asS'moderator'
+ssg11
+S'ARTHUR KELLERMANN'
 p2774
+sg16
 (lp2775
-S'JOHN DONVAN'
+S'Most Western democracies have health care systems that provide you with all the care you need, whether or not you can afford it.'
 p2776
-asS'date'
+aS'Our health care system has evolved to provide you with all the health care you can afford, whether or not you need it.'
 p2777
-(dp2778
-S'year'
+aS"Modern American medicine is a $2.8 trillion a year industry, and it is rapidly outgrowing our economy's capacity to support it."
+p2778
+aS'More high tech care is not necessarily better care.'
 p2779
-S'2012'
+aS'Sometimes the basics, pain control, bedside attention, love, matter a lot more than the most sophisticated $100,000 medicines there are.'
 p2780
-sS'day'
+aS"That's why, when terminally ill patients came into my ER, I did not immediately incubate, immediately start multiple IVs, immediately do anything I didn't absolutely have to do."
 p2781
-S'10'
+aS'I stabilized the patient the best I could, I assessed the situation, and I talked to the patient.'
 p2782
-sS'month'
+aS'If they were able to communicate or not, I would bring the proxy -- the son, the daughter of, a brother, the spouse to the bedside.'
 p2783
-S'October'
+aS'Let me tell you what happened one night as an example.'
 p2784
-ssS'before'
+aS'I brought a daughter who had cared for her mother for 10 years to the bedside, and I said, "Your mom has severe pneumonia.'
 p2785
-(lp2786
-S'43%-FOR'
+aS"She's septic."
+p2786
+aS"This is the third time she's been in the hospital in the last two months."
 p2787
-aS'22%-AGAINST'
+aS'We can do everything we know to do, and she will almost certainly die, but she might pull through.'
 p2788
-aS'35%-UNDECIDED'
+aS"And the best we can hope for is she'll be the way she was a week ago when she didn't recognize you and was in the nursing home."
 p2789
+aS"So my question to you is not 'What do you want us to do?"
+p2790
+aS"' I know what you want us to do."
+p2791
+aS'You want us to make your mother the way she used to be.'
+p2792
+aS"I can't do that."
+p2793
+aS"So I want to ask you, 'What would your mother want if she came back now and stood next to you?"
+p2794
+aS'\'" And she said, "Mama would say, \'It\'s time.'
+p2795
+aS'\'" As you vote tonight, I ask you to consider what kind of doctor do you want to take care of your mother, and what kind of doctor will you want to take care of you, and that should guide your vote.'
+p2796
+aS'John Donvan Thank you, Art Kellermann.'
+p2797
+aS"We're going to have the second vote now."
+p2798
+aS'So if you go to the keypads in your seat.'
+p2799
+aS'After hearing everything, we want to know where you stand, whether you have been persuaded to one side or the other.'
+p2800
+aS'If you agree with the motion, "Ration end-of-life care," the side argued by this team, push number one.'
+p2801
+aS'If you disagree with the motion, with this team, push number two.'
+p2802
+aS'And if you are or became undecided, push number three.'
+p2803
+aS'And you can ignore all of the other keys.'
+p2804
+aS'And they will lock in pretty quickly, actually.'
+p2805
+aS"We'll have the vote probably in about a minute and 45 seconds."
+p2806
+aS"And so, while we're waiting, a few things that I want to say."
+p2807
+aS"First of all, ma'am, if we're lucky enough to be invited back next year, you find me at the beginning of the debate."
+p2808
+aS'I owe you the first question.'
+p2809
+aS'Okay?'
+p2810
+aS'All right.'
+p2811
+aS"And everybody else who stood up and asked questions, including the ones that we didn't get to use, it takes a lot of guts to stand up, and a lot of the questions were great, actually."
+p2812
+aS'I want to thank all of you for doing that.'
+p2813
+aS'I also want to thank, despite what I would professionally consider a little bit of meandering in the middle, I think we got into some very important places in this debate where the clash was head-on.'
+p2814
+aS"We could see the values represented by both of these sides, because he doesn't actually have to think in real time."
+p2815
+aS"That's a very impressive thing to see happen."
+p2816
+aS"It's difficult to do."
+p2817
+aS"I want to thank this panel for what they've brought here to this stage."
+p2818
+aS"It's really been a pleasure to be part of Chicago Ideas Week and to be in the city at all."
+p2819
+aS"You actually are a very, very lively audience, and you're going to sound great on the radio."
+p2820
+aS'Afterwards, after the debate, we would be delighted, of course, to have you tweet about the debate.'
+p2821
+aS'Our Twitter handle is @IQ2US, and the hashtag is the same, #IQ2US.'
+p2822
+aS'I want to thank the CIW team, in particular I want to name some people.'
+p2823
+aS'Brad Keywell, Carrie Kennedy, and Jessica Malkin who, again, was very instrumental in getting us on this stage.'
+p2824
+aS'Our next debate is Wednesday, October 24th.'
+p2825
+aS'It will be held in New York City.'
+p2826
+aS'And the motion in this date is, "The rich are taxed enough.'
+p2827
+aS'" In support of the motion, we have Glen Hubbard, is currently dean of the Columbia Business School.'
+p2828
+aS'He is also an economic advisor to presidential candidate Mitt Romney.'
+p2829
+aS'His partner is Art Laffer, who is known as the father of supply side economics, the famous Laffer curve is his curve.'
+p2830
+aS"He was a member of President Reagan's economic policy advisory board."
+p2831
+aS"He's debated with us before, and he's actually very -- not only smart, he's very witty."
+p2832
+aS'He keeps everybody laughing.'
+p2833
+aS'Against this motion, "The rich are taxed enough," we have Robert Reich, who is former secretary of labor in the Clinton Administration and professor at the University of California in Berkeley, and Mark Zandi, who is one of the most widely followed economic forecasters and the chief economist of Moody\'s Analytics.'
+p2834
+aS'So, all right.'
+p2835
+aS'The results are being walked up.'
+p2836
+aS'So, remember, we had you vote -- This never happens in New York.'
+p2837
+aS'That was very generous.'
+p2838
+aS'Our motion is, "Ration end- of-life care.'
+p2839
+aS'" We now have the results in on your votes.'
+p2840
+aS'Remember, we had you vote before you heard the argument and once again after hearing the arguments, and the team who has changed your numbers the most, who has moved you to their side by the largest percentage, will be declared our winners.'
+p2841
+aS'So here is how it breaks out.'
+p2842
+aS'Before the debate, 43 percent were for the motion, 22 percent against, and 35 percent undecided.'
+p2843
+aS"After the debate, 38 percent are for the motion -- I'm sorry."
+p2844
+aS'After the debate, 81 percent are for the motion, up 38 percent; 12 percent are against it, down 10 percent; 7 percent are undecided.'
+p2845
+aS'The side arguing for the motion carries the debate.'
+p2846
+aS'Our congratulations to them.'
+p2847
+aS'Thank you from, me, John Donvan, in Chicago, and Intelligence Squared U.S. '
+p2848
+asg18
+(dp2849
+S'21:24:06'
+p2850
+I25
+sS'21:27:05'
+p2851
+I60
+sS'21:22:00'
+p2852
+I2
+sS'21:28:06'
+p2853
+I72
+sS'21:24:52'
+p2854
+I34
+sS'21:26:02'
+p2855
+I49
+sS'21:23:07'
+p2856
+I13
+ssg8
+(lp2857
+S"Most Western democracies have health care systems that provide you with all the careyou need, whether or not you can afford it.Our health care system has evolved to provide you with all the health care you canafford, whether or not you need it.Modern American medicine is a $2.8 trillion a year industry, and it is rapidly outgrowing [[laughter]] our economy's capacity to support it."
+p2858
+aS'More high tech care is not necessarily better care.'
+p2859
+aS'Sometimes the basics, pain control, bedside attention, love, matter a lot more than themost sophisticated $100,000 medicines there are.'
+p2860
+aS"That's why, when terminally illpatients came into my ER, I did not immediately incubate, immediately start multipleIVs, immediately do anything I didn't absolutely have to do."
+p2861
+aS'I stabilized the patient thebest I could, I assessed the situation, and I talked to the patient.'
+p2862
+aS'If they were able tocommunicate or not, I would bring the proxy -- the son, the daughter of, a brother, thespouse to the bedside.Let me tell you what happened one night as an example.'
+p2863
+aS'I brought a daughter who hadcared for her mother for 10 years to the bedside, and I said, "Your mom has severepneumonia.'
+p2864
+aS"She's septic."
+p2865
+aS"This is the third time she's been in the hospital in the last twomonths."
+p2866
+aS'We can do everything we know to do, and she will almost certainly die, but shemight pull through.'
+p2867
+aS"And the best we can hope for is she'll be the way she was a weekago when she didn't recognize you and was in the nursing home."
+p2868
+aS"So my question to youis not 'What do you want us to do?"
+p2869
+aS"' I know what you want us to do."
+p2870
+aS'You want us tomake your mother the way she used to be.'
+p2871
+aS"I can't do that."
+p2872
+aS"So I want to ask you, 'Whatwould your mother want if she came back now and stood next to you?"
+p2873
+aS'\'" And she said,"Mama would say, \'It\'s time.'
+p2874
+aS'\'" As you vote tonight, I ask you to consider what kind ofdoctor do you want to take care of your mother, and what kind of doctor will you wantto take care of you, and that should guide your vote.John DonvanThank you, Art Kellermann.We\'re going to have the second vote now.'
+p2875
+aS'So if you go to the keypads in your seat.'
+p2876
+aS'[[applause]]  After hearing everything, we want to know where you stand, whether you have beenpersuaded to one side or the other.'
+p2877
+aS'If you agree with the motion, "Ration end-of-lifecare," the side argued by this team, push number one.'
+p2878
+aS'If you disagree with the motion,with this team, push number two.'
+p2879
+aS'And if you are or became undecided, push numberthree.'
+p2880
+aS'And you can ignore all of the other keys.'
+p2881
+aS'And they will lock in pretty quickly,actually.'
+p2882
+aS"We'll have the vote probably in about a minute and 45 seconds.And so, while we're waiting, a few things that I want to say."
+p2883
+aS"First of all, ma'am, if we'relucky enough to be invited back next year, you find me at the beginning of the debate."
+p2884
+aS'Iowe you the first question.'
+p2885
+aS'Okay?'
+p2886
+aS'All right.'
+p2887
+aS"And everybody else who stood up andasked questions, including the ones that we didn't get to use, it takes a lot of guts tostand up, and a lot of the questions were great, actually."
+p2888
+aS'I want to thank all of you fordoing that.I also want to thank, despite what I would professionally consider a little bit of [[applause]] meandering in the middle, I think we got into some very important places in this debatewhere the clash was head-on.'
+p2889
+aS"We could see the values represented by both of thesesides, because he doesn't actually have to think in real time."
+p2890
+aS"That's a very impressivething to see happen."
+p2891
+aS"It's difficult to do."
+p2892
+aS"I want to thank this panel for what they'vebrought here to this stage.It's really been a pleasure to be part of Chicago Ideas Week and to be in the city at all."
+p2893
+aS"[[applause]]  You actually are a very, very lively audience, and you're going to sound great on theradio.Afterwards, after the debate, we would be delighted, of course, to have you tweetabout the debate."
+p2894
+aS'Our Twitter handle is @IQ2US, and the hashtag is the same, #IQ2US.I want to thank the CIW team, in particular I want to name some people.'
+p2895
+aS'Brad Keywell,Carrie Kennedy, and Jessica Malkin who, again, was very instrumental in getting us onthis stage.Our next debate is Wednesday, October 24th.'
+p2896
+aS'It will be held in New York City.'
+p2897
+aS'And the [[applause]] motion in this date is, "The rich are taxed enough.'
+p2898
+aS'" In support of the motion, we haveGlen Hubbard, is currently dean of the Columbia Business School.'
+p2899
+aS'He is also aneconomic advisor to presidential candidate Mitt Romney.'
+p2900
+aS'His partner is Art Laffer, whois known as the father of supply side economics, the famous Laffer curve is his curve.'
+p2901
+aS"He was a member of President Reagan's economic policy advisory board.He's debated with us before, and he's actually very -- not only smart, he's very witty."
+p2902
+aS'Hekeeps everybody laughing.'
+p2903
+aS'Against this motion, "The rich are taxed enough," we haveRobert Reich, who is former secretary of labor in the Clinton Administration andprofessor at the University of California in Berkeley, and Mark Zandi, who is one of themost widely followed economic forecasters and the chief economist of Moody\'sAnalytics.So, all right.'
+p2904
+aS'The results are being walked up.'
+p2905
+aS'So, remember, we had you vote --This never happens in New York.'
+p2906
+aS'That was very generous.'
+p2907
+aS'Our motion is, "Ration end- [[applause]] of-life care.'
+p2908
+aS'" We now have the results in on your votes.'
+p2909
+aS'Remember, we had you votebefore you heard the argument and once again after hearing the arguments, and theteam who has changed your numbers the most, who has moved you to their side by thelargest percentage, will be declared our winners.So here is how it breaks out.'
+p2910
+aS'Before the debate, 43 percent were for the motion, 22percent against, and 35 percent undecided.'
+p2911
+aS"After the debate, 38 percent are for themotion -- I'm sorry."
+p2912
+aS'After the debate, 81 percent are for the motion, up 38 percent; 12percent are against it, down 10 percent; 7 percent are undecided.The side arguing for the motion carries the debate.'
+p2913
+aS'Our congratulations to them.'
+p2914
+aS'Thank [[applause]] you from, me, John Donvan, in Chicago, and Intelligence Squared U.S. '
+p2915
+asg13
+(dp2916
+I27
+S'56'
+p2917
+sI55
+S'57'
+p2918
+ssasS'after'
+p2919
+(lp2920
+S'81%-FOR'
+p2921
+aS'12%-AGAINST'
+p2922
+aS'7%-UNDECIDED'
+p2923
+asS'against'
+p2924
+(lp2925
+S'SALLY PIPES'
+p2926
+aS'KEN CONNOR'
+p2927
+asS'moderator'
+p2928
+(lp2929
+S'JOHN DONVAN'
+p2930
+asS'date'
+p2931
+(dp2932
+S'year'
+p2933
+S'2012'
+p2934
+sS'day'
+p2935
+S'10'
+p2936
+sS'month'
+p2937
+S'October'
+p2938
+ssS'before'
+p2939
+(lp2940
+S'43%-FOR'
+p2941
+aS'22%-AGAINST'
+p2942
+aS'35%-UNDECIDED'
+p2943
 as.

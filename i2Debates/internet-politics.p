@@ -7474,49 +7474,325 @@ I22
 sS'20:26:40'
 p3592
 I8
-ssasS'after'
-p3593
-(lp3594
-S'53%-FOR'
+ssa(dp3593
+g22
+(dp3594
+I10
+S'[applause]'
 p3595
-aS'36%-AGAINST'
+sI50
+S'[applause]'
 p3596
-aS'11%-UNDECIDED'
-p3597
-asS'against'
-p3598
-(lp3599
-S'JACOB WEISBERG'
-p3600
-aS'EVGENY MOROZOV'
-p3601
-asS'moderator'
-p3602
-(lp3603
+ssg11
 S'JOHN DONVAN'
+p3597
+sg16
+(lp3598
+S'Thank you.'
+p3599
+aS'And that concludes our closing statements.'
+p3600
+aS'And now it is time to learn which side you believe has argued best.'
+p3601
+aS"We're going to ask you again to go to those key pads at your seat that will register your vote on which side you feel presented the stronger argument tonight."
+p3602
+aS'And we will get the readout pretty much immediately.'
+p3603
+aS'Press one if you support the motion that when it comes to politics, the internet is closing our minds.'
 p3604
-asS'date'
+aS'Press number two if you are against this motion.'
 p3605
-(dp3606
-S'year'
+aS'And press number three if you remain or became undecided.'
+p3606
+aS'And you can correct your vote if you think you pressed the wrong button, and it will be locked in right away.'
 p3607
-S'2012'
+aS"And we'll have the results in about 90 seconds."
 p3608
-sS'day'
+aS'So first, I want to ask -- I want to ask for a round of applause for our debaters, for the quality of -- -- of the arguments that they brought here tonight.'
 p3609
-S'17'
+aS'It was witty, and it was informative, and it went places.'
 p3610
-sS'month'
+aS'Thank you very much to them.'
 p3611
-S'April'
+aS"Thank you also to everyone in the audience who had the guts to stand up and ask a question and to all the people who I didn't get to answer -- to ask questions, I wasn't able to allow to ask questions, thank you, very much for your contribution to those as well."
 p3612
-ssS'before'
+aS'So going forward, I just want to let you know that our next debate is in May.'
 p3613
-(lp3614
-S'28%-FOR'
+aS"It's our last debate of the season."
+p3614
+aS'And our motion comes down to three words, "Ban college football.'
 p3615
-aS'37%-AGAINST'
+aS'" And we had actually set this debate up quite a while back.'
 p3616
-aS'35%-UNDECIDED'
+aS'It has -- it was not in relation to the Penn State scandal.'
 p3617
+aS'It was actually motivated more by reporting that was done about the business side of college football and the sometimes harsh nature of the sport on the bodies of the athletes who play it.'
+p3618
+aS'So our debaters will include somebody who wrote one of those articles, Malcolm Gladwell, who is author of "The Tipping Point," and "Blink," and he will be on the panel arguing for the motion.'
+p3619
+aS'And he wrote the piece in the New Yorker in which he compares college football to dog fighting.'
+p3620
+aS'His partner will be Buzz Bissinger.'
+p3621
+aS'He is the Pulitzer prize-winning journalist and author of Friday Night Lights.'
+p3622
+aS'That served as the inspiration for a movie of the same name and a critically acclaimed television series also of the same name.'
+p3623
+aS'Opposing them, we have a football player, Tim Green.'
+p3624
+aS'He is the former Atlanta falcons NFL defensive end, and Syracuse University all American.'
+p3625
+aS'He was inducted into the college football hall of fame in 2002.'
+p3626
+aS'And his partner also debating against the motion, Jason Whitlock.'
+p3627
+aS"He is Foxsports.coms national columnist, and he's already as an offensive tackle at Ball State University."
+p3628
+aS"So that's our last debate."
+p3629
+aS"That's on May 17th."
+p3630
+aS'And we would love to see you there.'
+p3631
+aS"Also we're trying something new tonight after the debate."
+p3632
+aS'Any of you want to join us, we are partnering with the New American Tavern to host a post debate reception that will be upstairs at Amity Hall.'
+p3633
+aS"That's a block away from here on Third Street between Thompson and Sullivan."
+p3634
+aS'Details are in the programs that you have.'
+p3635
+aS'But our idea was that we noticed a lot of times people walk out of here still kind of energized and revisiting the issues and debating among yourselves.'
+p3636
+aS'We wanted to give you a place to do it and get together.'
+p3637
+aS'And to share your ideas across the partisan divide.'
+p3638
+aS"So that'll be at Amity Hall, $5 beer and well drinks."
+p3639
+aS'And I will be there for a bit as well along with other members of the Intelligence Squared staff.'
+p3640
+aS'And finally, you are encouraged to Tweet about this debate.'
+p3641
+aS'Our Twitter handle is @IQ2US.'
+p3642
+aS'And the hash tag is IQ2US.'
+p3643
+aS"So we'll just wait about -- it's ready already."
+p3644
+aS'Thank you.'
+p3645
+aS'All right.'
+p3646
+aS'So the results are all in.'
+p3647
+aS'Our motion is this: "When it comes to politics, the internet is closing our minds.'
+p3648
+aS'" You have heard the arguments for and against over the course of this debate.'
+p3649
+aS'We ask you to vote before and again afterwards where you stand on this and how persuasive the teams were.'
+p3650
+aS'Here are the results.'
+p3651
+aS'Before the debate, 28 percent voted for the motion.'
+p3652
+aS'37 percent against and 35 percent were undecided.'
+p3653
+aS'After the debate, 53 percent are for the motion.'
+p3654
+aS'That is up 25 percent.'
+p3655
+aS'36 percent are against it.'
+p3656
+aS'That is down 1 percent.'
+p3657
+aS'We have 11 percent undecided.'
+p3658
+aS'The motion, when it comes to politics, the internet is closing our minds has carried.'
+p3659
+aS'Our congratulations to that team.'
+p3660
+aS'Thank you for me, John Donvan and Intelligence Squared'
+p3661
+asg18
+(dp3662
+S'20:29:50'
+p3663
+I23
+sS'20:28:48'
+p3664
+I11
+sS'20:30:48'
+p3665
+I35
+sS'20:31:49'
+p3666
+I47
+ssg8
+(lp3667
+S'Thank you.'
+p3668
+aS'And that concludes our closing statements.'
+p3669
+aS'And now it is time to learnwhich side you believe has argued best.'
+p3670
+aS"We're going to ask you again to go to those keypads at your seat that will register your vote on which side you feel presented thestronger argument tonight."
+p3671
+aS'And we will get the readout pretty much immediately.Press one if you support the motion that when it comes to politics, the internet isclosing our minds.'
+p3672
+aS'Press number two if you are against this motion.'
+p3673
+aS'And press numberthree if you remain or became undecided.'
+p3674
+aS'And you can correct your vote if you thinkyou pressed the wrong button, and it will be locked in right away.'
+p3675
+aS"And we'll have theresults in about 90 seconds."
+p3676
+aS'So first, I want to ask -- I want to ask for a round ofapplause for our debaters, for the quality of ---- of the arguments that they brought here tonight.'
+p3677
+aS'[[applause]] It was witty, and it was informative, and it went places.'
+p3678
+aS"Thank you very much to them.Thank you also to everyone in the audience who had the guts to stand up and ask aquestion and to all the people who I didn't get to answer -- to ask questions, I wasn'table to allow to ask questions, thank you, very much for your contribution to those aswell."
+p3679
+aS'So going forward, I just want to let you know that our next debate is in May.'
+p3680
+aS"It'sour last debate of the season."
+p3681
+aS'And our motion comes down to three words, "Bancollege football.'
+p3682
+aS'" And we had actually set this debate up quite a while back.'
+p3683
+aS'It has -- itwas not in relation to the Penn State scandal.'
+p3684
+aS'It was actually motivated more byreporting that was done about the business side of college football and the sometimesharsh nature of the sport on the bodies of the athletes who play it.'
+p3685
+aS'So our debaters willinclude somebody who wrote one of those articles, Malcolm Gladwell, who is author of"The Tipping Point," and "Blink," and he will be on the panel arguing for the motion.And he wrote the piece in the New Yorker in which he compares college football to dogfighting.'
+p3686
+aS'His partner will be Buzz Bissinger.'
+p3687
+aS'He is the Pulitzer prize-winning journalistand author of Friday Night Lights.'
+p3688
+aS'That served as the inspiration for a movie of the samename and a critically acclaimed television series also of the same name.'
+p3689
+aS'Opposingthem, we have a football player, Tim Green.'
+p3690
+aS'He is the former Atlanta falcons NFLdefensive end, and Syracuse University all American.'
+p3691
+aS'He was inducted into the collegefootball hall of fame in 2002.'
+p3692
+aS'And his partner also debating against the motion, JasonWhitlock.'
+p3693
+aS"He is Foxsports.coms national columnist, and he's already as an offensivetackle at Ball State University."
+p3694
+aS"So that's our last debate."
+p3695
+aS"That's on May 17th."
+p3696
+aS'And wewould love to see you there.'
+p3697
+aS"Also we're trying something new tonight after the debate.Any of you want to join us, we are partnering with the New American Tavern to host apost debate reception that will be upstairs at Amity Hall.That's a block away from here on Third Street between Thompson and Sullivan."
+p3698
+aS'Detailsare in the programs that you have.'
+p3699
+aS'But our idea was that we noticed a lot of timespeople walk out of here still kind of energized and revisiting the issues and debatingamong yourselves.'
+p3700
+aS'We wanted to give you a place to do it and get together.'
+p3701
+aS'And toshare your ideas across the partisan divide.'
+p3702
+aS"So that'll be at Amity Hall, $5 beer and welldrinks."
+p3703
+aS'And I will be there for a bit as well along with other members of the IntelligenceSquared staff.'
+p3704
+aS'And finally, you are encouraged to Tweet about this debate.'
+p3705
+aS'Our Twitterhandle is @IQ2US.'
+p3706
+aS'And the hash tag is IQ2US.'
+p3707
+aS"So we'll just wait about -- it's readyalready."
+p3708
+aS'Thank you.'
+p3709
+aS'All right.'
+p3710
+aS'So the results are all in.'
+p3711
+aS'Our motion is this: "When itcomes to politics, the internet is closing our minds.'
+p3712
+aS'" You have heard the arguments forand against over the course of this debate.'
+p3713
+aS'We ask you to vote before and againafterwards where you stand on this and how persuasive the teams were.Here are the results.'
+p3714
+aS'Before the debate, 28 percent voted for the motion.'
+p3715
+aS'37 percentagainst and 35 percent were undecided.'
+p3716
+aS'After the debate, 53 percent are for themotion.'
+p3717
+aS'That is up 25 percent.36 percent are against it.'
+p3718
+aS'That is down 1 percent.'
+p3719
+aS'We have 11 percent undecided.'
+p3720
+aS'The [[applause]] motion, when it comes to politics, the internet is closing our minds has carried.'
+p3721
+aS'Ourcongratulations to that team.'
+p3722
+aS'Thank you for me, John Donvan and Intelligence Squared'
+p3723
+asg13
+(dp3724
+I52
+S'57'
+p3725
+sI21
+S'56'
+p3726
+ssasS'after'
+p3727
+(lp3728
+S'53%-FOR'
+p3729
+aS'36%-AGAINST'
+p3730
+aS'11%-UNDECIDED'
+p3731
+asS'against'
+p3732
+(lp3733
+S'JACOB WEISBERG'
+p3734
+aS'EVGENY MOROZOV'
+p3735
+asS'moderator'
+p3736
+(lp3737
+S'JOHN DONVAN'
+p3738
+asS'date'
+p3739
+(dp3740
+S'year'
+p3741
+S'2012'
+p3742
+sS'day'
+p3743
+S'17'
+p3744
+sS'month'
+p3745
+S'April'
+p3746
+ssS'before'
+p3747
+(lp3748
+S'28%-FOR'
+p3749
+aS'37%-AGAINST'
+p3750
+aS'35%-UNDECIDED'
+p3751
 as.

@@ -6301,49 +6301,309 @@ I9
 sS'13:38:02'
 p3021
 I24
-ssasS'after'
-p3022
-(lp3023
-S'73%-FOR'
+ssa(dp3022
+g65
+(dp3023
+I33
+S'[laughter]'
 p3024
-aS'23%-AGAINST'
+sI16
+S'[applause]'
 p3025
-aS'4%-UNDECIDED'
+sI53
+S'[applause]'
 p3026
-asS'against'
+sI55
+S'[applause]'
 p3027
-(lp3028
-S'GRAY DAVIS'
+sI24
+S'[applause]'
+p3028
+sI26
+S'[applause]'
 p3029
-aS'MICHAEL LIND'
-p3030
-asS'moderator'
-p3031
-(lp3032
+ssg11
 S'JOHN DONVAN'
+p3030
+sg16
+(lp3031
+S'Thank you Hugh Hewitt.'
+p3032
+aS'And that concludes our closing statements.'
 p3033
-asS'date'
+aS'And now its time to learn which side you feel has argued the best.'
 p3034
-(dp3035
-S'year'
+aS'Were going to ask you again to go to the keypads at your seat and register where you stand on this motion after hearing all of the debaters present their arguments.'
+p3035
+aS'The motion is For a better future, live in a red state.'
 p3036
-S'2013'
+aS'If you agree with this motion, if you agree with this team, if you are with the team arguing with the red states push number one.'
 p3037
-sS'day'
+aS'If you disagree, if you are with the team that effectively is arguing for the blue states, because theyre arguing against the motion push number two.'
 p3038
-S'18'
+aS'If youre undecided, if you became undecided, or remain undecided, push number three.'
 p3039
-sS'month'
+aS'And you can ignore all of the other keys, they are not live, and we will have the results in just about two minutes.'
 p3040
-S'October'
+aS'While we wait for that to happen I have a few things that I would like to say.'
 p3041
-ssS'before'
+aS'First of all as Bob Rosenkranz said at the opening our goal at Intelligence Squared US as a philanthropy is to raise the level of public discourse, and we count on the debaters to bring a style and a tone of argument to our stage in order to meet that goal.'
 p3042
-(lp3043
-S'54%-FOR'
+aS'And these four debaters just did that excellently.'
+p3043
+aS'I really want to congratulate them for doing that.'
 p3044
-aS'24%-AGAINST'
+aS'Secondly on the whole matter of audience questions, I know its very, very tough to get up in front of a microphone and even tougher if the moderator says Thats really not on point, so to all of those people to whom I had to say that I sincerely, actually congratulate you and honor you for getting up.'
 p3045
-aS'22%-UNDECIDED'
+aS"It's just that we try to squeeze it into this very narrow format."
 p3046
+aS'So, my apologies with respect.'
+p3047
+aS'There was nothing wrong with any of those questions, and some of them might actually sponsor some pretty good debate topics for us in the future.'
+p3048
+aS'So, thank you to all of the people that asked questions.'
+p3049
+aS"And finally, we'd like to thank the Philanthropy Roundtable for inviting us to put on this debate as part of your annual meeting."
+p3050
+aS'Thank you.'
+p3051
+aS'We would love it if there are Twitterers in the crowd to tweet about this debate.'
+p3052
+aS'Our Twitter handle is @iq2us.'
+p3053
+aS'The hashtag for this debate is #redstate.'
+p3054
+aS'Also, for those of you who might be in New York later on this fall, we have a pretty busy season coming up on a range of topics.'
+p3055
+aS'On October 30th we will be debating the global job market.'
+p3056
+aS'The motion that night: "Let Anyone Take a Job Anywhere.'
+p3057
+aS'On November 14 we are debating this quote, unquote: "The Constitutional Right to Bear Arms has Outlived Its Usefulness.'
+p3058
+aS'On December 4 we are debating: "Don\'t Eat Anything with a Face.'
+p3059
+aS'All of these will be live-streamed, by the way.'
+p3060
+aS"So if you can't get to New York you can watch them."
+p3061
+aS"If you're in Washington, D.C., on November 20, we are partnering with the McCain Institute."
+p3062
+aS'Were debating NSA surveillance.'
+p3063
+aS'Tickets for all of these debates are on sale now and for more information or to join our mailing list go to our website, www.iq2us.org.'
+p3064
+aS'And as I said also at the beginning our debates are on NPR stations across the country.'
+p3065
+aS'So, all right.'
+p3066
+aS'You have voted twice.'
+p3067
+aS'The results are in.'
+p3068
+aS'Our motion is this: "For a Better Future, Live in a Red State.'
+p3069
+aS'The way this works, you voted twice.'
+p3070
+aS'The team whose numbers have moved the most in percentage point terms between the two votes is declared our winner.'
+p3071
+aS'Here is the result of the preliminary vote on the motion: "For a Better Future, Live in a Red State.'
+p3072
+aS'Fifty-four percent of you agreed with this motion at the outset.'
+p3073
+aS'Twenty-four percent were against.'
+p3074
+aS'Twenty-two percent were divided.'
+p3075
+aS'Those are the first results.'
+p3076
+aS'Remember, you voted again.'
+p3077
+aS"The team that's changed the numbers the most in percentage point terms is the winner."
+p3078
+aS"Let's go to the second vote."
+p3079
+aS'The team arguing for the motion, their second vote was 73 percent.'
+p3080
+aS'They went from 54 percent to 73 percent.'
+p3081
+aS'They picked up 19 percentage points.'
+p3082
+aS'That is the number to beat.'
+p3083
+aS"Let's go to the team against the motion."
+p3084
+aS'They went from 24 percent to 23 percent.'
+p3085
+aS'They lost 1 percent.'
+p3086
+aS'It means the team that\'s arguing for the motion: "For a Better Future, Live in a Red State," has carried this debate.'
+p3087
+aS'Our congratulations to them.'
+p3088
+aS"Thank you from me, John Donovan, and Intelligence Squared U.S. We'll see you next time."
+p3089
+asg18
+(dp3090
+S'13:39:08'
+p3091
+I14
+sS'13:39:56'
+p3092
+I26
+sS'13:41:57'
+p3093
+I51
+sS'13:40:58'
+p3094
+I38
+ssg8
+(lp3095
+S'Thank you Hugh Hewitt.'
+p3096
+aS'And that concludes our closing statements.'
+p3097
+aS'And now its timeto learn which side you feel has argued the best.'
+p3098
+aS'Were going to ask you again to go tothe keypads at your seat and register where you stand on this motion after hearing all ofthe debaters present their arguments.'
+p3099
+aS'The motion is For a better future, live in a redstate.'
+p3100
+aS'If you agree with this motion, if you agree with this team, if you are with theteam arguing with the red states push number one.'
+p3101
+aS'If you disagree, if you are with theteam that effectively is arguing for the blue states, because theyre arguing against themotion push number two.'
+p3102
+aS'If youre undecided, if you became undecided, or remainundecided, push number three.'
+p3103
+aS'And you can ignore all of the other keys, they are notlive, and we will have the results in just about two minutes.'
+p3104
+aS'While we wait for that tohappen I have a few things that I would like to say.'
+p3105
+aS'First of all as Bob Rosenkranz said atthe opening our goal at Intelligence Squared US as a philanthropy is to raise the level ofpublic discourse, and we count on the debaters to bring a style and a tone of argumentto our stage in order to meet that goal.And these four debaters just did that excellently.'
+p3106
+aS'I really want to congratulate them fordoing that.Secondly on the whole matter of audience questions, I know its very, very tough to get [[applause]] up in front of a microphone and even tougher if the moderator says Thats really not onpoint, so to all of those people to whom I had to say that I sincerely, actuallycongratulate you and honor you for getting up.'
+p3107
+aS"It's just that we try to squeeze it intothis very narrow format."
+p3108
+aS'So, my apologies with respect.'
+p3109
+aS'There was nothing wrong withany of those questions, and some of them might actually sponsor some pretty gooddebate topics for us in the future.'
+p3110
+aS"So, thank you to all of the people that askedquestions.And finally, we'd like to thank the Philanthropy Roundtable for inviting us to put on this [[applause]] debate as part of your annual meeting."
+p3111
+aS'Thank you.We would love it if there are Twitterers in the crowd to tweet about this debate.'
+p3112
+aS'Our [[applause]] Twitter handle is @iq2us.'
+p3113
+aS'The hashtag for this debate is #redstate.'
+p3114
+aS'Also, for those ofyou who might be in New York later on this fall, we have a pretty busy season coming upon a range of topics.'
+p3115
+aS'On October 30th we will be debating the global job market.'
+p3116
+aS'Themotion that night: "Let Anyone Take a Job Anywhere.'
+p3117
+aS'On November 14 we aredebating this quote, unquote: "The Constitutional Right to Bear Arms has Outlived ItsUsefulness.'
+p3118
+aS'On December 4 we are debating: "Don\'t Eat Anything with a Face.All of these will be live-streamed, by the way.'
+p3119
+aS"So if you can't get to New York you can [[laughter]] watch them."
+p3120
+aS"If you're in Washington, D.C., on November 20, we are partnering with theMcCain Institute."
+p3121
+aS'Were debating NSA surveillance.'
+p3122
+aS'Tickets for all of these debates areon sale now and for more information or to join our mailing list go to our website,www.iq2us.org.And as I said also at the beginning our debates are on NPR stations across the country.So, all right.'
+p3123
+aS'You have voted twice.'
+p3124
+aS'The results are in.'
+p3125
+aS'Our motion is this: "For a BetterFuture, Live in a Red State.'
+p3126
+aS'The way this works, you voted twice.'
+p3127
+aS'The team whosenumbers have moved the most in percentage point terms between the two votes isdeclared our winner.'
+p3128
+aS'Here is the result of the preliminary vote on the motion: "For aBetter Future, Live in a Red State.'
+p3129
+aS'Fifty-four percent of you agreed with this motion atthe outset.'
+p3130
+aS'Twenty-four percent were against.'
+p3131
+aS'Twenty-two percent were divided.Those are the first results.'
+p3132
+aS'Remember, you voted again.'
+p3133
+aS"The team that's changed thenumbers the most in percentage point terms is the winner."
+p3134
+aS"Let's go to the second vote.The team arguing for the motion, their second vote was 73 percent."
+p3135
+aS'They went from 54percent to 73 percent.'
+p3136
+aS'They picked up 19 percentage points.'
+p3137
+aS'That is the number tobeat.'
+p3138
+aS"Let's go to the team against the motion."
+p3139
+aS'They went from 24 percent to 23percent.'
+p3140
+aS'They lost 1 percent.It means the team that\'s arguing for the motion: "For a Better Future, Live in a RedState," has carried this debate.Our congratulations to them.'
+p3141
+aS"Thank you from me, John Donovan, and Intelligence [[applause]] Squared U.S. We'll see you next time."
+p3142
+asg13
+(dp3143
+I41
+S'51'
+p3144
+sI14
+S'50'
+p3145
+ssasS'after'
+p3146
+(lp3147
+S'73%-FOR'
+p3148
+aS'23%-AGAINST'
+p3149
+aS'4%-UNDECIDED'
+p3150
+asS'against'
+p3151
+(lp3152
+S'GRAY DAVIS'
+p3153
+aS'MICHAEL LIND'
+p3154
+asS'moderator'
+p3155
+(lp3156
+S'JOHN DONVAN'
+p3157
+asS'date'
+p3158
+(dp3159
+S'year'
+p3160
+S'2013'
+p3161
+sS'day'
+p3162
+S'18'
+p3163
+sS'month'
+p3164
+S'October'
+p3165
+ssS'before'
+p3166
+(lp3167
+S'54%-FOR'
+p3168
+aS'24%-AGAINST'
+p3169
+aS'22%-UNDECIDED'
+p3170
 as.

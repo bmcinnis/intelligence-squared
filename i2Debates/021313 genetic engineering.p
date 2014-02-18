@@ -6916,49 +6916,344 @@ sg16
 (lp3293
 S"I hope -- I hope they show the same responsibility that we're trying to show this evening."
 p3294
-asasS'after'
-p3295
-(lp3296
-S'41%-FOR'
+asa(dp3295
+g22
+(dp3296
+I1
+S'[applause]'
 p3297
-aS'49%-AGAINST'
+sI36
+S'[applause]'
 p3298
-aS'10%-UNDECIDED'
+sI38
+S'[laughter]'
 p3299
-asS'against'
+sI43
+S'[applause]'
 p3300
-(lp3301
-S'NITA FARAHANY'
+sI13
+S'[applause]'
+p3301
+sI45
+S'[laughter]'
 p3302
-aS'LEE SILVER'
+sI16
+S'[applause]'
 p3303
-asS'moderator'
+sI59
+S'[applause]'
 p3304
-(lp3305
+ssg11
 S'JOHN DONVAN'
-p3306
-asS'date'
+p3305
+sg16
+(lp3306
+S'Thank you, Robert Winston.'
 p3307
-(dp3308
-S'year'
+aS'And that concludes our closing statements.'
+p3308
+aS'And now it is time to learn which side you feel has argued the best.'
 p3309
-S'2013'
+aS"We're going to ask you again now to go to the key pads at your seat that will register your vote."
 p3310
-sS'day'
+aS'And we will get this readout almost instantaneously.'
 p3311
-S'13'
+aS'Remember, the motion is, prohibit genetically engineered babies.'
 p3312
-sS'month'
+aS'If you agree with the motion, if that means if you agree with the prohibition of it, push number one.'
 p3313
-S'February'
+aS'And if you disagree, push number two.'
 p3314
-ssS'before'
+aS'And if you remain or became undecided, push number three.'
 p3315
-(lp3316
-S'24%-FOR'
+aS"And, as I said before, you can ignore the other keys, and you can correct an incorrectly keyed vote just by pressing the right one, and it'll register your last vote."
+p3316
+aS"And we're going to have the results probably in about 120 seconds from now."
 p3317
-aS'30%-AGAINST'
+aS'So I want to say that this has been a spectacularly -- spectacularly well-argued debate by both sides.'
 p3318
-aS'46%-UNDECIDED'
+aS'I just want to invite a round of applause for them for what they did.'
 p3319
+aS'And there are a lot of debates where I actually reject a lot of questions.'
+p3320
+aS"There wasn't one bad one tonight at all."
+p3321
+aS'I just want to thank everybody in the audience for great questions that you brought up.'
+p3322
+aS'We would love to have you Tweet about the debate.'
+p3323
+aS'As I said before, use the Twitter handle @IQ2US.'
+p3324
+aS'Our hashtag for this debate was #designerbabies.'
+p3325
+aS'Our next one comes up on Wednesday, March 13th.'
+p3326
+aS'The motion will be "America doesnt need a strong dollar policy.'
+p3327
+aS'" Our debaters arguing this motion, Steve Forbes.'
+p3328
+aS'He is the chairman and editor in chief of Forbes Media.'
+p3329
+aS"His partner will be James Grant, editor and founder of the Financial Markets Journal, Grant's Interest Rate Observer."
+p3330
+aS'Tickets for our -- that season are available through our website, www.IQ2U.S..org.'
+p3331
+aS'Their opponents, by the way, are -- one card out of my hand -- Frederick Mishkin.'
+p3332
+aS'He is a former member of the board of governors of the Federal Reserve.'
+p3333
+aS'And his partner arguing for the motion will be John Taylor who is the chairman and founder of FedEx -- FX Concepts, one of the largest currency hedge funds, not FedEx.'
+p3334
+aS"For those of you who can't join the live audience, of course there are a lot of other ways to watch this debate."
+p3335
+aS'Those of you watching live stream on fora.tv know about that, but you can also listen to these debates on NPR or watch them on PBS stations across the country.'
+p3336
+aS'Check your local listings for air times and dates.'
+p3337
+aS"Just a very few -- very small biographical facts about our panelists tonight, though, I didn't get to share."
+p3338
+aS'I was able to tell you about the two guys on the end living in the same apartment building.'
+p3339
+aS"I did not share Robert Winston is actually -- he's been made a peer for his work in the U.K."
+p3340
+aS'He actually is known as Lord Winston.'
+p3341
+aS'And it was at his insistence that we dropped that tonight, because he was over here in the colonies.'
+p3342
+aS'But actually we had a conference call with him last week.'
+p3343
+aS'He was in the House of Lords.'
+p3344
+aS'And he said, "I\'ve got to run.'
+p3345
+aS"I'll call you back in ten minutes."
+p3346
+aS"I've got to go vote."
+p3347
+aS'" So that was -- that was a lot of fun.'
+p3348
+aS"And Nita Farahany, she doesn't want me to say this, but when she graduated from high school, she was the National Forensic Society's single best national debater in the country."
+p3349
+aS'And she more or less begged me not to tell you that, so we have the queen of debaters and the lord of -- All right.'
+p3350
+aS'We now have the final results in.'
+p3351
+aS'Remember, you voted twice: before the debate and again after hearing the arguments.'
+p3352
+aS'The team that changes the most minds will be declared our winner.'
+p3353
+aS'The motion is, "Prohibit genetically engineered babies.'
+p3354
+aS'" Let\'s look at the results.'
+p3355
+aS'For the team that was arguing for this motion to prohibit, before the debate, 24 percent agreed, 30 percent were against, and 46 percent were divided.'
+p3356
+aS'That was the preliminary vote for everybody.'
+p3357
+aS'Those are the first results.'
+p3358
+aS"Now let's look at the vote that the team arguing for the motion received in the second vote."
+p3359
+aS'The team arguing for the motion, the second vote is 41 percent.'
+p3360
+aS"That's an increase of 17 percent."
+p3361
+aS'That is the number that the other team needs to beat.'
+p3362
+aS'It needs to beat 17 percent.'
+p3363
+aS"Let's see how the other team did."
+p3364
+aS'Before, they were 30 percent.'
+p3365
+aS'They went up to 49 percent.'
+p3366
+aS"That's a 19 percent difference."
+p3367
+aS'They just pushed by.'
+p3368
+aS'The team arguing against prohibition of genetically engineered babies carries this debate.'
+p3369
+aS'Our congratulations to them.'
+p3370
+aS"Thank you from me, John Donvan, and Intelligence Squared U.S. We'll see you next time."
+p3371
+asg18
+(dp3372
+S'20:31:59'
+p3373
+I32
+sS'20:30:53'
+p3374
+I18
+sS'20:33:51'
+p3375
+I52
+sS'20:33:01'
+p3376
+I43
+sS'20:29:57'
+p3377
+I8
+ssg8
+(lp3378
+S'Thank you, Robert Winston.And that concludes our closing statements.'
+p3379
+aS'And now it is time to learn which side you [[applause]] feel has argued the best.'
+p3380
+aS"We're going to ask you again now to go to the key pads atyour seat that will register your vote."
+p3381
+aS'And we will get this readout almostinstantaneously.'
+p3382
+aS'Remember, the motion is, prohibit genetically engineered babies.'
+p3383
+aS'Ifyou agree with the motion, if that means if you agree with the prohibition of it, pushnumber one.'
+p3384
+aS'And if you disagree, push number two.'
+p3385
+aS"And if you remain or becameundecided, push number three.And, as I said before, you can ignore the other keys, and you can correct an incorrectlykeyed vote just by pressing the right one, and it'll register your last vote."
+p3386
+aS"And we'regoing to have the results probably in about 120 seconds from now.So I want to say that this has been a spectacularly -- spectacularly well-argued debate byboth sides."
+p3387
+aS'I just want to invite a round of applause for them for what they did.And there are a lot of debates where I actually reject a lot of questions.'
+p3388
+aS"There wasn't [[applause]] one bad one tonight at all."
+p3389
+aS'I just want to thank everybody in the audience for greatquestions that you brought up.We would love to have you Tweet about the debate.'
+p3390
+aS'As I said before, use the Twitter [[applause]] handle @IQ2US.'
+p3391
+aS'Our hashtag for this debate was #designerbabies.Our next one comes up on Wednesday, March 13th.'
+p3392
+aS'The motion will be "Americadoesnt need a strong dollar policy.'
+p3393
+aS'" Our debaters arguing this motion,Steve Forbes.'
+p3394
+aS'He is the chairman and editor in chief of Forbes Media.'
+p3395
+aS"His partner willbe James Grant, editor and founder of the Financial Markets Journal, Grant's InterestRate Observer."
+p3396
+aS'Tickets for our -- that season are available through our website,www.IQ2U.S..org.Their opponents, by the way, are -- one card out of my hand -- Frederick Mishkin.'
+p3397
+aS'He isa former member of the board of governors of the Federal Reserve.'
+p3398
+aS"And his partnerarguing for the motion will be John Taylor who is the chairman and founder of FedEx --FX Concepts, one of the largest currency hedge funds, not FedEx.For those of you who can't join the live audience, of course there are a lot of other waysto watch this debate."
+p3399
+aS'Those of you watching live stream on fora.tv know about that, butyou can also listen to these debates on NPR or watch them on PBS stations across thecountry.'
+p3400
+aS"Check your local listings for air times and dates.Just a very few -- very small biographical facts about our panelists tonight, though, Ididn't get to share."
+p3401
+aS'I was able to tell you about the two guys on the end living in thesame apartment building.'
+p3402
+aS"I did not share Robert Winston is actually -- he's been made apeer for his work in the U.K."
+p3403
+aS'He actually is known as Lord Winston.And it was at his insistence that we dropped that tonight, because he was over here in [[applause]] the colonies.But actually we had a conference call with him last week.'
+p3404
+aS'He was in the House of Lords.'
+p3405
+aS'[[laughter]] And he said, "I\'ve got to run.'
+p3406
+aS"I'll call you back in ten minutes."
+p3407
+aS"I've got to go vote."
+p3408
+aS'" Sothat was -- that was a lot of fun.'
+p3409
+aS"And Nita Farahany, she doesn't want me to say this,but when she graduated from high school, she was the National Forensic Society's singlebest national debater in the country.And she more or less begged me not to tell you that, so we have the queen of debaters [[applause]] and the lord of --All right."
+p3410
+aS'We now have the final results in.'
+p3411
+aS'Remember, you voted twice: before the [[laughter]] debate and again after hearing the arguments.'
+p3412
+aS'The team that changes the most mindswill be declared our winner.'
+p3413
+aS'The motion is, "Prohibit genetically engineered babies.'
+p3414
+aS'" Let\'s look at the results.'
+p3415
+aS'For the team that was arguing for this motion to prohibit,before the debate, 24 percent agreed, 30 percent were against, and 46 percent weredivided.'
+p3416
+aS'That was the preliminary vote for everybody.'
+p3417
+aS'Those are the first results.'
+p3418
+aS"Nowlet's look at the vote that the team arguing for the motion received in the second vote.The team arguing for the motion, the second vote is 41 percent."
+p3419
+aS"That's an increase of17 percent."
+p3420
+aS'That is the number that the other team needs to beat.'
+p3421
+aS'It needs to beat 17percent.'
+p3422
+aS"Let's see how the other team did."
+p3423
+aS'Before, they were 30 percent.'
+p3424
+aS'They wentup to 49 percent.'
+p3425
+aS"That's a 19 percent difference."
+p3426
+aS'They just pushed by.'
+p3427
+aS'The teamarguing against prohibition of genetically engineered babies carries this debate.'
+p3428
+aS'Ourcongratulations to them.'
+p3429
+aS'Thank you from me, John Donvan, and Intelligence SquaredU.S.'
+p3430
+aS"We'll see you next time."
+p3431
+asg13
+(dp3432
+I18
+S'52'
+p3433
+sI43
+S'53'
+p3434
+ssasS'after'
+p3435
+(lp3436
+S'41%-FOR'
+p3437
+aS'49%-AGAINST'
+p3438
+aS'10%-UNDECIDED'
+p3439
+asS'against'
+p3440
+(lp3441
+S'NITA FARAHANY'
+p3442
+aS'LEE SILVER'
+p3443
+asS'moderator'
+p3444
+(lp3445
+S'JOHN DONVAN'
+p3446
+asS'date'
+p3447
+(dp3448
+S'year'
+p3449
+S'2013'
+p3450
+sS'day'
+p3451
+S'13'
+p3452
+sS'month'
+p3453
+S'February'
+p3454
+ssS'before'
+p3455
+(lp3456
+S'24%-FOR'
+p3457
+aS'30%-AGAINST'
+p3458
+aS'46%-UNDECIDED'
+p3459
 as.

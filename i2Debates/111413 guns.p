@@ -4046,3623 +4046,3901 @@ g8
 (lp1934
 S'All right.'
 p1935
-aS"Again, we're not debating --"
+aS"Again, we're not debating -- Alan Dershowitz:I prefer the English rule to the Florida rule.-- the NRA's stance on gun control tonight, but we are -- this point did come up in termsof the constitutional issue."
 p1936
-asg11
-S'JOHN DONVAN'
-p1937
-sg16
-(lp1938
-S'All right.'
-p1939
-aS"Again, we're not debating --"
-p1940
-asa(dp1941
-g8
-(lp1942
-S'I prefer the English rule to the Florida rule.'
-p1943
-asg11
-S' ALAN DERSHOWITZ'
-p1944
-sg16
-(lp1945
-g1943
-asa(dp1946
-g8
-(lp1947
-S"-- the NRA's stance on gun control tonight, but we are -- this point did come up in termsof the constitutional issue."
-p1948
 aS"Your opponent -- speaking out to the side that's arguing thatThe Constitutional Right to Bear Arms has Outlived Its Usefulness, your opponent saidwell, you know, the constitution -- the amendment may be there, the right to bear armsmay be enshrined in the law, but that doesn't mean that you can't limit gun control.That, in fact, the Heller decision specified all sorts of situations, guns in the hands ofmentally ill people, felons, et cetera, that as it is your hands aren't tied, in fact, to effectgun ownership laws in the United States, and I just want to have you respond to thatand then hear what your opponent says in response."
-p1949
+p1937
 asg11
 S'JOHN DONVAN'
-p1950
+p1938
 sg13
-(dp1951
-I0
+(dp1939
+I3
 S'33'
-p1952
+p1940
 ssg16
-(lp1953
-S"-- the NRA's stance on gun control tonight, but we are -- this point did come up in terms of the constitutional issue."
-p1954
+(lp1941
+S'All right.'
+p1942
+aS"Again, we're not debating -- Alan Dershowitz: I prefer the English rule to the Florida rule."
+p1943
+aS"-- the NRA's stance on gun control tonight, but we are -- this point did come up in terms of the constitutional issue."
+p1944
 aS"Your opponent -- speaking out to the side that's arguing that The Constitutional Right to Bear Arms has Outlived Its Usefulness, your opponent said well, you know, the constitution -- the amendment may be there, the right to bear arms may be enshrined in the law, but that doesn't mean that you can't limit gun control."
-p1955
+p1945
 aS"That, in fact, the Heller decision specified all sorts of situations, guns in the hands of mentally ill people, felons, et cetera, that as it is your hands aren't tied, in fact, to effect gun ownership laws in the United States, and I just want to have you respond to that and then hear what your opponent says in response."
-p1956
+p1946
 asg18
-(dp1957
+(dp1947
 S'19:51:56'
-p1958
-I9
-ssa(dp1959
+p1948
+I12
+ssa(dp1949
+g8
+(lp1950
+S'You know, I agree with that.'
+p1951
+asg11
+S'SANFORD LEVINSON'
+p1952
+sg16
+(lp1953
+g1951
+asa(dp1954
+g8
+(lp1955
+S'Sandy Levinson.'
+p1956
+asg11
+S'JOHN DONVAN'
+p1957
+sg16
+(lp1958
+g1956
+asa(dp1959
 g8
 (lp1960
-S'You know, I agree with that.'
+S'Most Americans, if you poll them, believe a) that there is some kind of fundamentalindividual right to own firearms, and b) that there ought to be reasonable regulation.So, the question is who ought to decide at the end of the day what counts as reasonableregulation?'
 p1961
+aS"I believe precisely because there's so much difference -- good faithdifference of opinion, that this is an America of the 21st Century, a subject for legislativeresolution."
+p1962
+aS"You won't like some of the particular solutions, but that's what federalismand political diversity is about."
+p1963
+aS"But none of us on this panel is arguing that the state cannever ever limit guns, and at least as a political preference, neither Alan nor I wouldsupport in the United States in the 21st Century a proposal to ban any and all firearms,but we're talking about reasonable regulation and who ought to make reasonableregulation."
+p1964
 asg11
 S'SANFORD LEVINSON'
-p1962
+p1965
 sg16
-(lp1963
-g1961
-asa(dp1964
+(lp1966
+S'Most Americans, if you poll them, believe a) that there is some kind of fundamental individual right to own firearms, and b) that there ought to be reasonable regulation.'
+p1967
+aS'So, the question is who ought to decide at the end of the day what counts as reasonable regulation?'
+p1968
+aS"I believe precisely because there's so much difference -- good faith difference of opinion, that this is an America of the 21st Century, a subject for legislative resolution."
+p1969
+aS"You won't like some of the particular solutions, but that's what federalism and political diversity is about."
+p1970
+aS"But none of us on this panel is arguing that the state can never ever limit guns, and at least as a political preference, neither Alan nor I would support in the United States in the 21st Century a proposal to ban any and all firearms, but we're talking about reasonable regulation and who ought to make reasonable regulation."
+p1971
+asg18
+(dp1972
+S'19:53:04'
+p1973
+I11
+ssa(dp1974
 g8
-(lp1965
-S'Sandy Levinson.'
-p1966
+(lp1975
+S"But they're saying that the existing amendment does not -- is not an obstacle toreasonable regulation."
+p1976
 asg11
 S'JOHN DONVAN'
-p1967
-sg16
-(lp1968
-g1966
-asa(dp1969
-g8
-(lp1970
-S'Most Americans, if you poll them, believe a) that there is some kind of fundamentalindividual right to own firearms, and b) that there ought to be reasonable regulation.So, the question is who ought to decide at the end of the day what counts as reasonableregulation?'
-p1971
-aS"I believe precisely because there's so much difference -- good faithdifference of opinion, that this is an America of the 21st Century, a subject for legislativeresolution."
-p1972
-aS"You won't like some of the particular solutions, but that's what federalismand political diversity is about."
-p1973
-aS"But none of us on this panel is arguing that the state cannever ever limit guns, and at least as a political preference, neither Alan nor I wouldsupport in the United States in the 21st Century a proposal to ban any and all firearms,but we're talking about reasonable regulation and who ought to make reasonableregulation."
-p1974
-asg11
-S'SANFORD LEVINSON'
-p1975
-sg16
-(lp1976
-S'Most Americans, if you poll them, believe a) that there is some kind of fundamental individual right to own firearms, and b) that there ought to be reasonable regulation.'
 p1977
-aS'So, the question is who ought to decide at the end of the day what counts as reasonable regulation?'
-p1978
-aS"I believe precisely because there's so much difference -- good faith difference of opinion, that this is an America of the 21st Century, a subject for legislative resolution."
+sg16
+(lp1978
+S"But they're saying that the existing amendment does not -- is not an obstacle to reasonable regulation."
 p1979
-aS"You won't like some of the particular solutions, but that's what federalism and political diversity is about."
-p1980
-aS"But none of us on this panel is arguing that the state can never ever limit guns, and at least as a political preference, neither Alan nor I would support in the United States in the 21st Century a proposal to ban any and all firearms, but we're talking about reasonable regulation and who ought to make reasonable regulation."
-p1981
-asg18
-(dp1982
-S'19:53:04'
-p1983
-I11
-ssa(dp1984
+asa(dp1980
 g8
-(lp1985
-S"But they're saying that the existing amendment does not -- is not an obstacle toreasonable regulation."
+(lp1981
+S"Well, but there's a tension here, because -- I mean, for the first 200 years of our history,the Second Amendment really played no role in American constitutional law, if youdefine that as judicial decisions, especially at the national level."
+p1982
+aS"It's only been in the lastsix, seven years that it's played any role."
+p1983
+aS'So, the debate, in part, as well, should theSecond Amendment now really be invigorated so that five to four majorities of theSupreme Court will decide whether or not Martha Stewart should be able to have a gunfor self-defense?'
+p1984
+aS'And it appears, although Justice Scalia didn\'t offer even an iota of areason -- that he said, "No, she doesn\'t get it.'
+p1985
+aS'" Or do you want these -- let\'s say, hashedout?Either the Second Amendment really has some genuine bite to it or it\'s an expressiveaspect of the Constitution --'
 p1986
 asg11
-S'JOHN DONVAN'
-p1987
-sg16
-(lp1988
-S"But they're saying that the existing amendment does not -- is not an obstacle to reasonable regulation."
-p1989
-asa(dp1990
-g8
-(lp1991
-S"Well, but there's a tension here, because -- I mean, for the first 200 years of our history,the Second Amendment really played no role in American constitutional law, if youdefine that as judicial decisions, especially at the national level."
-p1992
-aS"It's only been in the lastsix, seven years that it's played any role."
-p1993
-aS'So, the debate, in part, as well, should theSecond Amendment now really be invigorated so that five to four majorities of theSupreme Court will decide whether or not Martha Stewart should be able to have a gunfor self-defense?'
-p1994
-aS'And it appears, although Justice Scalia didn\'t offer even an iota of areason -- that he said, "No, she doesn\'t get it.'
-p1995
-aS'" Or do you want these -- let\'s say, hashedout?Either the Second Amendment really has some genuine bite to it or it\'s an expressiveaspect of the Constitution --'
-p1996
-asg11
 S'SANFORD LEVINSON'
-p1997
+p1987
 sg13
-(dp1998
+(dp1988
 I6
 S'34'
-p1999
+p1989
 ssg16
-(lp2000
+(lp1990
 S"Well, but there's a tension here, because -- I mean, for the first 200 years of our history, the Second Amendment really played no role in American constitutional law, if you define that as judicial decisions, especially at the national level."
-p2001
+p1991
 aS"It's only been in the last six, seven years that it's played any role."
-p2002
+p1992
 aS'So, the debate, in part, as well, should the Second Amendment now really be invigorated so that five to four majorities of the Supreme Court will decide whether or not Martha Stewart should be able to have a gun for self-defense?'
-p2003
+p1993
 aS'And it appears, although Justice Scalia didn\'t offer even an iota of a reason -- that he said, "No, she doesn\'t get it.'
-p2004
+p1994
 aS'" Or do you want these -- let\'s say, hashed out?'
-p2005
+p1995
 aS"Either the Second Amendment really has some genuine bite to it or it's an expressive aspect of the Constitution --"
-p2006
+p1996
 asg18
-(dp2007
+(dp1997
 S'19:54:02'
-p2008
+p1998
 I9
-ssa(dp2009
+ssa(dp1999
 g8
-(lp2010
+(lp2000
 S'All right.'
-p2011
+p2001
 asg11
 S'JOHN DONVAN'
-p2012
+p2002
 sg16
-(lp2013
-g2011
-asa(dp2014
+(lp2003
+g2001
+asa(dp2004
 g8
-(lp2015
+(lp2005
 S'-- as it has -- as it was for roughly for the first 200 years of our history.'
-p2016
+p2006
 asg11
 S'SANFORD LEVINSON'
-p2017
+p2007
 sg16
-(lp2018
-g2016
-asa(dp2019
+(lp2008
+g2006
+asa(dp2009
 g8
+(lp2010
+S'I want to give Eugene Volokh a chance to respond.'
+p2011
+aS"But after that, I'm going to come forquestions for you in the audience."
+p2012
+aS'And the way that will work is just raise your hand.'
+p2013
+aS"I'llcall on you."
+p2014
+aS'Well, a microphone will be brought to you.'
+p2015
+aS'We will ask you to wait until themic reaches you so that the radio broadcast folks and the folks listening on the livestream can hear you.'
+p2016
+aS"I'll ask you to state your name and I'll ask you to ask a questionthat's focused on the topic tonight."
+p2017
+aS'Eugene Volokh.'
+p2018
+asg11
+S'JOHN DONVAN'
+p2019
+sg16
 (lp2020
 S'I want to give Eugene Volokh a chance to respond.'
 p2021
-aS"But after that, I'm going to come forquestions for you in the audience."
+aS"But after that, I'm going to come for questions for you in the audience."
 p2022
 aS'And the way that will work is just raise your hand.'
 p2023
-aS"I'llcall on you."
+aS"I'll call on you."
 p2024
 aS'Well, a microphone will be brought to you.'
 p2025
-aS'We will ask you to wait until themic reaches you so that the radio broadcast folks and the folks listening on the livestream can hear you.'
+aS'We will ask you to wait until the mic reaches you so that the radio broadcast folks and the folks listening on the live stream can hear you.'
 p2026
-aS"I'll ask you to state your name and I'll ask you to ask a questionthat's focused on the topic tonight."
+aS"I'll ask you to state your name and I'll ask you to ask a question that's focused on the topic tonight."
 p2027
 aS'Eugene Volokh.'
 p2028
-asg11
-S'JOHN DONVAN'
-p2029
-sg16
-(lp2030
-S'I want to give Eugene Volokh a chance to respond.'
-p2031
-aS"But after that, I'm going to come for questions for you in the audience."
-p2032
-aS'And the way that will work is just raise your hand.'
-p2033
-aS"I'll call on you."
-p2034
-aS'Well, a microphone will be brought to you.'
-p2035
-aS'We will ask you to wait until the mic reaches you so that the radio broadcast folks and the folks listening on the live stream can hear you.'
-p2036
-aS"I'll ask you to state your name and I'll ask you to ask a question that's focused on the topic tonight."
-p2037
-aS'Eugene Volokh.'
-p2038
-asa(dp2039
+asa(dp2029
 g8
-(lp2040
+(lp2030
 S"So let me answer Sandy's point, and working, also, a point he made about thebackground checks failing in Congress.My colleague, Adam Winkler at the UCLA Law School -- I don't think anybody wouldthink as a hardcore NRA-supporting, Second Amendment maximalist -- I think made avery good argument that the thing that probably most defeated background checks wasthe proposed ban on the so-called assault weapons, which are semi-automatic weaponsthat are really functionally not much different than other kinds of weapons."
-p2041
+p2031
 aS'But theywere singled out for specific prohibition.'
-p2042
+p2032
 aS'He said that poisoned the well, that afterassuring people, "Oh, we\'re not going to come to take your guns," people said, "Whoa,they are coming to take our guns.'
-p2043
+p2033
 aS'" And that caused people to dig on.'
-p2044
+p2034
 aS"You're talkingabout the functions of individual rights."
-p2045
+p2035
 aS'One of the functions of individual rights is toprovide enough of a detente in these kinds of social battles, especially culture warbattles, that a side could say, "Look, we\'re confident enough they\'re not coming to takeour guns, that if what is on the table is a background check, it might pass just as it haspassed in the past " -- in the early 90s.'
-p2046
+p2036
 aS"So, so, that's actually one advantage that theSecond Amendment -- so securing an individual right.But more specifically, the call into question -- the quote is about the right to bear arms,specifically the right to bear arms being recognized as an individual right provides."
-p2047
+p2037
 aS'If thatwere called into question, if that were repealed or people would say, "Well, we wouldrepeal it if it weren\'t for our better political sensibilities," that\'s the sort of thing thatwould poison the well further.'
-p2048
+p2038
 aS"So if you want to actually get a background check passed,you're much better off with a Second Amendment respected and firmly recognized aspart our Constitution, and then question and said to be something that'sripe for repeal."
-p2049
+p2039
 asg11
 S'EUGENE VOLOKH'
-p2050
+p2040
 sg13
-(dp2051
+(dp2041
 I16
 S'35'
-p2052
+p2042
 ssg16
-(lp2053
+(lp2043
 S"So let me answer Sandy's point, and working, also, a point he made about the background checks failing in Congress."
-p2054
+p2044
 aS"My colleague, Adam Winkler at the UCLA Law School -- I don't think anybody would think as a hardcore NRA-supporting, Second Amendment maximalist -- I think made a very good argument that the thing that probably most defeated background checks was the proposed ban on the so-called assault weapons, which are semi-automatic weapons that are really functionally not much different than other kinds of weapons."
-p2055
+p2045
 aS'But they were singled out for specific prohibition.'
-p2056
+p2046
 aS'He said that poisoned the well, that after assuring people, "Oh, we\'re not going to come to take your guns," people said, "Whoa, they are coming to take our guns.'
-p2057
+p2047
 aS'" And that caused people to dig on.'
-p2058
+p2048
 aS"You're talking about the functions of individual rights."
-p2059
+p2049
 aS'One of the functions of individual rights is to provide enough of a detente in these kinds of social battles, especially culture war battles, that a side could say, "Look, we\'re confident enough they\'re not coming to take our guns, that if what is on the table is a background check, it might pass just as it has passed in the past " -- in the early 90s.'
-p2060
+p2050
 aS"So, so, that's actually one advantage that the Second Amendment -- so securing an individual right."
-p2061
+p2051
 aS'But more specifically, the call into question -- the quote is about the right to bear arms, specifically the right to bear arms being recognized as an individual right provides.'
-p2062
+p2052
 aS'If that were called into question, if that were repealed or people would say, "Well, we would repeal it if it weren\'t for our better political sensibilities," that\'s the sort of thing that would poison the well further.'
-p2063
+p2053
 aS"So if you want to actually get a background check passed, you're much better off with a Second Amendment respected and firmly recognized as part our Constitution, and then question and said to be something that's ripe for repeal."
-p2064
+p2054
 asg18
-(dp2065
+(dp2055
 S'19:54:50'
-p2066
+p2056
 I2
 sS'19:55:57'
-p2067
+p2057
 I16
-ssa(dp2068
+ssa(dp2058
 g8
-(lp2069
+(lp2059
 S"Let's go to some questions from the audience."
-p2070
+p2060
 aS'And right there on the end.'
-p2071
+p2061
 aS'Oh, let mejust say one thing, because I need to do this for the radio broadcast.'
-p2072
+p2062
 aS'And I appreciateyou waiting a second.'
-p2073
+p2063
 aS"Tonight's debate is being broadcast worldwide on our website,IQ2US.org and on fora.tv."
-p2074
+p2064
 aS"And if you're actually watching the live stream, we want tohear from you, too, during this part of the debate."
-p2075
+p2065
 aS"You can send us questions on Twitteror Facebook with the hashtag #gunsdebate, so we won't miss it.And be sure to include your city, state, and your first name, at least."
-p2076
+p2066
 aS"And I want toremind you that we're in the question and answer of this Intelligence Squared U.S.Debate."
-p2077
+p2067
 aS"I'm John Donvan, your moderator."
-p2078
+p2068
 aS"We have four debaters -- two teams of two --debating this motion: The Constitutional Right to Bear Arms Has Outlived its Usefulness.We're going to audience questions."
-p2079
+p2069
 asg11
 S'JOHN DONVAN'
-p2080
+p2070
 sg16
-(lp2081
+(lp2071
 S"Let's go to some questions from the audience."
-p2082
+p2072
 aS'And right there on the end.'
-p2083
+p2073
 aS'Oh, let me just say one thing, because I need to do this for the radio broadcast.'
-p2084
+p2074
 aS'And I appreciate you waiting a second.'
-p2085
+p2075
 aS"Tonight's debate is being broadcast worldwide on our website, IQ2US.org and on fora.tv."
-p2086
+p2076
 aS"And if you're actually watching the live stream, we want to hear from you, too, during this part of the debate."
-p2087
+p2077
 aS"You can send us questions on Twitter or Facebook with the hashtag #gunsdebate, so we won't miss it."
-p2088
+p2078
 aS'And be sure to include your city, state, and your first name, at least.'
-p2089
+p2079
 aS"And I want to remind you that we're in the question and answer of this Intelligence Squared U.S."
-p2090
+p2080
 aS'Debate.'
-p2091
+p2081
 aS"I'm John Donvan, your moderator."
-p2092
+p2082
 aS'We have four debaters -- two teams of two -- debating this motion: The Constitutional Right to Bear Arms Has Outlived its Usefulness.'
-p2093
+p2083
 aS"We're going to audience questions."
-p2094
+p2084
 asg18
-(dp2095
+(dp2085
 S'19:56:58'
-p2096
+p2086
 I6
-ssa(dp2097
+ssa(dp2087
 g22
-(dp2098
+(dp2088
 I6
 S'[applause]'
-p2099
+p2089
 ssg8
-(lp2100
+(lp2090
 S'Thank you.'
-p2101
+p2091
 aS'This question is for those arguing against the motion.'
-p2102
+p2092
 aS'When you talkedabout self-defense being a great spectrum from against personal security and alsoagainst the tyranny of the government, and also talking about how the SecondAmendment, in some circumstances, is anachronistic, can you let me know what it lookslike today, in the 21st century, for someone to defend themselves with arms against thetyranny of the government?'
-p2103
+p2093
 asg11
 S'FEMALE SPEAKER'
-p2104
+p2094
 sg16
-(lp2105
+(lp2095
 S'Thank you.'
-p2106
+p2096
 aS'This question is for those arguing against the motion.'
-p2107
+p2097
 aS'When you talked about self-defense being a great spectrum from against personal security and also against the tyranny of the government, and also talking about how the Second Amendment, in some circumstances, is anachronistic, can you let me know what it looks like today, in the 21st century, for someone to defend themselves with arms against the tyranny of the government?'
-p2108
-asa(dp2109
+p2098
+asa(dp2099
 g8
-(lp2110
+(lp2100
 S'David Kopel.'
-p2111
+p2101
 asg11
 S'JOHN DONVAN'
-p2112
+p2102
 sg16
-(lp2113
-g2111
-asa(dp2114
+(lp2103
+g2101
+asa(dp2104
 g8
-(lp2115
+(lp2105
 S"Well, to start with, it's normal defensive uses when you happen to be in a neighborhoodthat is politically powerless.In Chicago, like a lot of places, there are some neighborhoods that have a very strongpolice presence and a strong deterrent effect, and there are other neighborhoods that,for whatever reasons, get essentially very little protection."
-p2116
+p2106
 aS'And when the governmentsteps aside so that the rapists and thugs can do to you as they will, that is a form of atleast of misgovernment, so people being able to protect themselves matters there.'
-p2117
+p2107
 aS"Andyou can look at the United States, fortunately, we don't need to protect ourselvesagainst government in the sense that we were doing in 1776, but you can look aroundthe world at the various tyrannies that exist and people sometimes using gunssuccessfully protect themselves."
-p2118
+p2108
 aS"Now I would point out, every genocidal government ofthe last century has assiduously disarmed the intended victims of genocide beforehand,and you can say well, if you have handgun what good is that going to do you against atank?Well, they take the view, and they're the ones who are carrying out the genocide, theytake the view that if there is any resistance, if even one of our -- out of 100 of our secretpolice were putting people on cattle cars gets shot, that could really mess up ourgenocide program."
-p2119
+p2109
 asg11
 S'DAVID KOPEL'
-p2120
+p2110
 sg13
-(dp2121
+(dp2111
 I2
 S'36'
-p2122
+p2112
 ssg16
-(lp2123
+(lp2113
 S"Well, to start with, it's normal defensive uses when you happen to be in a neighborhood that is politically powerless."
-p2124
+p2114
 aS'In Chicago, like a lot of places, there are some neighborhoods that have a very strong police presence and a strong deterrent effect, and there are other neighborhoods that, for whatever reasons, get essentially very little protection.'
-p2125
+p2115
 aS'And when the government steps aside so that the rapists and thugs can do to you as they will, that is a form of at least of misgovernment, so people being able to protect themselves matters there.'
-p2126
+p2116
 aS"And you can look at the United States, fortunately, we don't need to protect ourselves against government in the sense that we were doing in 1776, but you can look around the world at the various tyrannies that exist and people sometimes using guns successfully protect themselves."
-p2127
+p2117
 aS'Now I would point out, every genocidal government of the last century has assiduously disarmed the intended victims of genocide beforehand, and you can say well, if you have handgun what good is that going to do you against a tank?'
-p2128
+p2118
 aS"Well, they take the view, and they're the ones who are carrying out the genocide, they take the view that if there is any resistance, if even one of our -- out of 100 of our secret police were putting people on cattle cars gets shot, that could really mess up our genocide program."
-p2129
+p2119
 asg18
-(dp2130
+(dp2120
 S'19:57:57'
-p2131
+p2121
 I2
 sS'19:59:01'
-p2132
+p2122
 I14
-ssa(dp2133
+ssa(dp2123
 g22
-(dp2134
+(dp2124
 I2
 S'[laughter]'
-p2135
+p2125
 ssg8
-(lp2136
+(lp2126
 S'David, let me interrupt you a second, because I feel that you maybe slipped the questiona little bit, not overly.No, no.'
-p2137
+p2127
 aS"I'm not saying that to be disrespectful, because the part of her question you [[laughter]] answered, which was -- her question was related to where in the modern world in theUnited States would there be a militia resisting its government, and you described asituation in which the government was absent and so it fulfilled the function thegovernment wasn't doing."
-p2138
+p2128
 aS'But she asked a different question.'
-p2139
+p2129
 aS'Is there a scenario yousee in this country, I think, in this country where you would need to take up armsagainst that absent police force or any other force that represents the establishedgovernment?'
-p2140
+p2130
 asg11
 S'JOHN DONVAN'
-p2141
+p2131
 sg16
-(lp2142
+(lp2132
 S'David, let me interrupt you a second, because I feel that you maybe slipped the question a little bit, not overly.'
-p2143
+p2133
 aS'No, no.'
-p2144
+p2134
 aS"I'm not saying that to be disrespectful, because the part of her question you answered, which was -- her question was related to where in the modern world in the United States would there be a militia resisting its government, and you described a situation in which the government was absent and so it fulfilled the function the government wasn't doing."
-p2145
+p2135
 aS'But she asked a different question.'
-p2146
+p2136
 aS'Is there a scenario you see in this country, I think, in this country where you would need to take up arms against that absent police force or any other force that represents the established government?'
-p2147
+p2137
 asg18
-(dp2148
+(dp2138
 S'19:59:50'
-p2149
+p2139
 I10
-ssa(dp2150
+ssa(dp2140
 g8
-(lp2151
+(lp2141
 S"Not presently, but nobody in the United States in 1760 thought they'd have to befighting the British 15 years later, and nobody -- no sane person in Germany in 1930thought that the country would fall -- would within 30 years fall into the hands ofgenocidal maniacs."
-p2152
+p2142
 asg11
 S'DAVID KOPEL'
-p2153
+p2143
 sg13
-(dp2154
+(dp2144
 I2
 S'37'
-p2155
+p2145
 ssg16
-(lp2156
+(lp2146
 S"Not presently, but nobody in the United States in 1760 thought they'd have to be fighting the British 15 years later, and nobody -- no sane person in Germany in 1930 thought that the country would fall -- would within 30 years fall into the hands of genocidal maniacs."
+p2147
+asa(dp2148
+g8
+(lp2149
+S'Well, how do you explain the fact that the highest ratio of opposition to free availabilityof guns are in the communities that have been subject to genocide?'
+p2150
+aS'The Jewishcommunity, the African American community, and other communities that have beensubject to genocide are the ones that are most opposed to vigilante people in Americahaving guns.'
+p2151
+aS"There must be -- either you're smarter than they are or they're self-interest is correct and you're wrong about genocide."
+p2152
+asg11
+S'ALAN DERSHOWITZ'
+p2153
+sg16
+(lp2154
+S'Well, how do you explain the fact that the highest ratio of opposition to free availability of guns are in the communities that have been subject to genocide?'
+p2155
+aS'The Jewish community, the African American community, and other communities that have been subject to genocide are the ones that are most opposed to vigilante people in America having guns.'
+p2156
+aS"There must be -- either you're smarter than they are or they're self- interest is correct and you're wrong about genocide."
 p2157
 asa(dp2158
 g8
 (lp2159
-S'Well, how do you explain the fact that the highest ratio of opposition to free availabilityof guns are in the communities that have been subject to genocide?'
-p2160
-aS'The Jewishcommunity, the African American community, and other communities that have beensubject to genocide are the ones that are most opposed to vigilante people in Americahaving guns.'
-p2161
-aS"There must be -- either you're smarter than they are or they're self-interest is correct and you're wrong about genocide."
-p2162
-asg11
-S'ALAN DERSHOWITZ'
-p2163
-sg16
-(lp2164
-S'Well, how do you explain the fact that the highest ratio of opposition to free availability of guns are in the communities that have been subject to genocide?'
-p2165
-aS'The Jewish community, the African American community, and other communities that have been subject to genocide are the ones that are most opposed to vigilante people in America having guns.'
-p2166
-aS"There must be -- either you're smarter than they are or they're self- interest is correct and you're wrong about genocide."
-p2167
-asa(dp2168
-g8
-(lp2169
 S'You are stereotyping those people.'
-p2170
+p2160
 aS"There's far more diversity --"
-p2171
+p2161
 asg11
 S'DAVID KOPEL'
-p2172
+p2162
 sg16
-(lp2173
+(lp2163
 S'You are stereotyping those people.'
-p2174
+p2164
 aS"There's far more diversity --"
-p2175
-asa(dp2176
+p2165
+asa(dp2166
 g8
-(lp2177
+(lp2167
 S"I'm counting them."
-p2178
+p2168
 asg11
 S'ALAN DERSHOWITZ'
-p2179
+p2169
 sg16
-(lp2180
-g2178
-asa(dp2181
+(lp2170
+g2168
+asa(dp2171
 g22
-(dp2182
+(dp2172
 I1
 S'[laughter]'
-p2183
+p2173
+sI3
+S'[applause]'
+p2174
 ssg8
-(lp2184
-S"There's --"
-p2185
+(lp2175
+S"There's -- Alan Dershowitz: [[laughter]] I'm polling them.I'm saying majority wins."
+p2176
+aS'[[applause]] '
+p2177
 asg11
 S'MALE SPEAKER'
+p2178
+sg16
+(lp2179
+S"There's -- Alan Dershowitz: I'm polling them."
+p2180
+aS"I'm saying majority wins."
+p2181
+asa(dp2182
+g8
+(lp2183
+S'And if you look at the public opinion polls of the black community, they support gunownership as a principle.'
+p2184
+aS'They support the Second Amendment and they actually havea favorable view --'
+p2185
+asg11
+S'DAVID KOPEL'
 p2186
 sg16
 (lp2187
-g2185
-asa(dp2188
-g22
-(dp2189
-I1
-S'[applause]'
-p2190
-ssg8
-(lp2191
-S"I'm polling them.I'm saying majority wins."
-p2192
-aS'[[applause]] '
-p2193
-asg11
-S' ALAN DERSHOWITZ'
-p2194
-sg16
-(lp2195
-S"I'm polling them."
-p2196
-aS"I'm saying majority wins."
-p2197
-asa(dp2198
-g8
-(lp2199
-S'And if you look at the public opinion polls of the black community, they support gunownership as a principle.'
-p2200
-aS'They support the Second Amendment and they actually havea favorable view --'
-p2201
-asg11
-S'DAVID KOPEL'
-p2202
-sg16
-(lp2203
 S'And if you look at the public opinion polls of the black community, they support gun ownership as a principle.'
-p2204
+p2188
 aS'They support the Second Amendment and they actually have a favorable view --'
-p2205
+p2189
 asg18
-(dp2206
+(dp2190
 S'20:00:53'
-p2207
+p2191
 I3
-ssa(dp2208
+ssa(dp2192
 g8
-(lp2209
+(lp2193
 S'At much lower ratio than White Anglo Saxon Protestants, right?'
-p2210
+p2194
 asg11
 S'ALAN DERSHOWITZ'
-p2211
+p2195
 sg16
-(lp2212
-g2210
-asa(dp2213
+(lp2196
+g2194
+asa(dp2197
 g22
-(dp2214
+(dp2198
 I1
 S'[laughter]'
-p2215
+p2199
 ssg8
-(lp2216
+(lp2200
 S'Blah, blah, blah.'
-p2217
+p2201
 aS'The point is --'
+p2202
+asg11
+S'DAVID KOPEL'
+p2203
+sg13
+(dp2204
+I1
+S'38'
+p2205
+ssg16
+(lp2206
+S'Blah, blah, blah.'
+p2207
+aS'The point is --'
+p2208
+asa(dp2209
+g22
+(dp2210
+I1
+S'[laughter]'
+p2211
+ssg8
+(lp2212
+S"Now that's an intelligent response."
+p2213
+asg11
+S'ALAN DERSHOWITZ'
+p2214
+sg16
+(lp2215
+g2213
+asa(dp2216
+g8
+(lp2217
+S"So your point is blacks are pro NRA, but they're not as pro NRA as white people andtherefore what?"
 p2218
 asg11
 S'DAVID KOPEL'
 p2219
-sg13
-(dp2220
-I1
-S'38'
-p2221
-ssg16
-(lp2222
-S'Blah, blah, blah.'
-p2223
-aS'The point is --'
-p2224
-asa(dp2225
-g22
-(dp2226
-I1
-S'[laughter]'
-p2227
-ssg8
-(lp2228
-S"Now that's an intelligent response."
-p2229
-asg11
-S'ALAN DERSHOWITZ'
-p2230
 sg16
-(lp2231
-g2229
-asa(dp2232
-g8
-(lp2233
-S"So your point is blacks are pro NRA, but they're not as pro NRA as white people andtherefore what?"
-p2234
-asg11
-S'DAVID KOPEL'
-p2235
-sg16
-(lp2236
+(lp2220
 S"So your point is blacks are pro NRA, but they're not as pro NRA as white people and therefore what?"
-p2237
-asa(dp2238
+p2221
+asa(dp2222
 g22
-(dp2239
+(dp2223
 I5
 S'[unintelligible]'
-p2240
+p2224
 ssg8
-(lp2241
+(lp2225
 S"Therefore it seems to me people know their own self-interests, and if you look at theratio of people in various ethnic groups, I'm not stereotyping, as I say, I'm polling, yousee that gun ownership favorability depends a great deal on cultural background, onbackground, historical background, and the very people that have been most subject togenocide are the very same people generally that seem to have a lower support for gun"
-p2242
+p2226
 asg11
 S'ALAN DERSHOWITZ'
-p2243
+p2227
 sg16
-(lp2244
+(lp2228
 S"Therefore it seems to me people know their own self-interests, and if you look at the ratio of people in various ethnic groups, I'm not stereotyping, as I say, I'm polling, you see that gun ownership favorability depends a great deal on cultural background, on background, historical background, and the very people that have been most subject to genocide are the very same people generally that seem to have a lower support for gun"
-p2245
-asa(dp2246
+p2229
+asa(dp2230
 g8
-(lp2247
+(lp2231
 S'Which has what to do with our motion?'
+p2232
+asg11
+S'JOHN DONVAN'
+p2233
+sg16
+(lp2234
+g2232
+asa(dp2235
+g8
+(lp2236
+S'Can I -- It has to do with his point about genocide.'
+p2237
+asg11
+S'EUGENE VOLOKH'
+p2238
+sg16
+(lp2239
+S'Can I -- It has to do with his point about genocide.'
+p2240
+asa(dp2241
+g8
+(lp2242
+S'Okay.'
+p2243
+aS'What does your point have to do with our motion?'
+p2244
+asg11
+S'JOHN DONVAN'
+p2245
+sg16
+(lp2246
+S'Okay.'
+p2247
+aS'What does your point have to do with our motion?'
 p2248
-asg11
-S'JOHN DONVAN'
-p2249
-sg16
+asa(dp2249
+g8
 (lp2250
-g2248
-asa(dp2251
-g8
-(lp2252
-S'Can I -- It has to do with his point about genocide.'
-p2253
-asg11
-S'EUGENE VOLOKH'
-p2254
-sg16
-(lp2255
-S'Can I -- It has to do with his point about genocide.'
-p2256
-asa(dp2257
-g8
-(lp2258
-S'Okay.'
-p2259
-aS'What does your point have to do with our motion?'
-p2260
-asg11
-S'JOHN DONVAN'
-p2261
-sg16
-(lp2262
-S'Okay.'
-p2263
-aS'What does your point have to do with our motion?'
-p2264
-asa(dp2265
-g8
-(lp2266
 S'Can I offer a slightly different perspective?'
-p2267
+p2251
 asg11
 S'EUGENE VOLOKH'
-p2268
+p2252
 sg16
-(lp2269
-g2267
-asa(dp2270
+(lp2253
+g2251
+asa(dp2254
 g8
-(lp2271
+(lp2255
 S'Eugene Volokh.'
-p2272
+p2256
 asg11
 S'JOHN DONVAN'
-p2273
+p2257
 sg16
-(lp2274
-g2272
-asa(dp2275
+(lp2258
+g2256
+asa(dp2259
 g8
-(lp2276
+(lp2260
 S'I actually, and this is directly related to the motion.'
-p2277
+p2261
 aS'Im not sure to what extent todayprivate gun ownership in a country like America would be effective in stoppinggovernment tyranny.There are plausible arguments that by making tyranny more costly it may make it lesslikely even if ultimately they get super-tyrannical they could crush all opposition.Plausible arguments to the contrary.'
-p2278
+p2262
 aS'But the question, recall, is whether the right tokeep and bear arms has become obsolete.'
-p2279
+p2263
 aS"What I'm saying is, there used to be twomain functions, one deterrence of government tyranny and one assurance of self-defense."
-p2280
+p2264
 aS"It's possible that today the first function is not really achievable, but thesecond function is very much out there."
-p2281
+p2265
 aS"I don't see the right as having become obsoleteif one aspect of it, given changes in the structure of the military and the securityapparatus and changes in modern weaponry, if that function is no longer usable, I'm notsure, but it may very well not be."
-p2282
+p2266
 asg11
 S'EUGENE VOLOKH'
-p2283
+p2267
 sg13
-(dp2284
+(dp2268
 I3
 S'39'
-p2285
+p2269
 ssg16
-(lp2286
+(lp2270
 S'I actually, and this is directly related to the motion.'
-p2287
+p2271
 aS'Im not sure to what extent today private gun ownership in a country like America would be effective in stopping government tyranny.'
-p2288
+p2272
 aS'There are plausible arguments that by making tyranny more costly it may make it less likely even if ultimately they get super-tyrannical they could crush all opposition.'
-p2289
+p2273
 aS'Plausible arguments to the contrary.'
-p2290
+p2274
 aS'But the question, recall, is whether the right to keep and bear arms has become obsolete.'
-p2291
+p2275
 aS"What I'm saying is, there used to be two main functions, one deterrence of government tyranny and one assurance of self- defense."
-p2292
+p2276
 aS"It's possible that today the first function is not really achievable, but the second function is very much out there."
-p2293
+p2277
 aS"I don't see the right as having become obsolete if one aspect of it, given changes in the structure of the military and the security apparatus and changes in modern weaponry, if that function is no longer usable, I'm not sure, but it may very well not be."
-p2294
+p2278
 asg18
-(dp2295
+(dp2279
 S'20:01:59'
-p2296
+p2280
 I3
-ssa(dp2297
+ssa(dp2281
 g8
-(lp2298
+(lp2282
 S'All right.'
-p2299
+p2283
 aS'I want to bring up another question.'
-p2300
+p2284
 aS'Very, very briefly, because I want to getin more questions.'
-p2301
+p2285
 asg11
 S'JOHN DONVAN'
-p2302
+p2286
 sg16
-(lp2303
+(lp2287
 S'All right.'
-p2304
+p2288
 aS'I want to bring up another question.'
-p2305
+p2289
 aS'Very, very briefly, because I want to get in more questions.'
-p2306
+p2290
 asg18
-(dp2307
+(dp2291
 S'20:02:52'
-p2308
+p2292
 I2
-ssa(dp2309
+ssa(dp2293
 g8
-(lp2310
+(lp2294
 S"I think we're dancing around the fact that --"
-p2311
+p2295
 asg11
 S'SANFORD LEVINSON'
-p2312
+p2296
 sg16
-(lp2313
-g2311
-asa(dp2314
+(lp2297
+g2295
+asa(dp2298
 g8
-(lp2315
+(lp2299
 S'Sandy Levinson.'
-p2316
+p2300
 asg11
 S'JOHN DONVAN'
-p2317
+p2301
 sg16
-(lp2318
-g2316
-asa(dp2319
+(lp2302
+g2300
+asa(dp2303
 g8
-(lp2320
+(lp2304
 S'-- there are at least thousands, and maybe even a couple of million Americans whobelieve we do live in a tyranny, who are organized in militia movements.And all of the focus on self-defense and the idea that the Second Amendment -- theoriginal Second Amendment is historically anachronistic, with regard to "Oh, everybodybelieves the current United States is just wonderful," there are some people -- I don\'tagree with them, in terms of their own politics, but there are some people who don\'tthink it\'s wonderful and who want to drill and know how to use arms against thepossibility of engaging in armed revolt.'
-p2321
+p2305
 aS'Now, do you support that as a protected SecondAmendment right?'
-p2322
+p2306
 aS'That should be constitutional?'
-p2323
+p2307
 asg11
 S'SANFORD LEVINSON'
-p2324
+p2308
 sg16
-(lp2325
+(lp2309
 S'-- there are at least thousands, and maybe even a couple of million Americans who believe we do live in a tyranny, who are organized in militia movements.'
-p2326
+p2310
 aS'And all of the focus on self-defense and the idea that the Second Amendment -- the original Second Amendment is historically anachronistic, with regard to "Oh, everybody believes the current United States is just wonderful," there are some people -- I don\'t agree with them, in terms of their own politics, but there are some people who don\'t think it\'s wonderful and who want to drill and know how to use arms against the possibility of engaging in armed revolt.'
-p2327
+p2311
 aS'Now, do you support that as a protected Second Amendment right?'
-p2328
+p2312
 aS'That should be constitutional?'
-p2329
+p2313
 asg18
-(dp2330
+(dp2314
 S'20:03:03'
-p2331
+p2315
 I2
-ssa(dp2332
+ssa(dp2316
 g8
-(lp2333
+(lp2317
 S"Oh, I'm sorry."
-p2334
+p2318
 aS'Eugene -- take --'
-p2335
+p2319
 asg11
 S'JOHN DONVAN'
-p2336
+p2320
 sg16
-(lp2337
+(lp2321
 S"Oh, I'm sorry."
-p2338
+p2322
 aS'Eugene -- take --'
-p2339
-asa(dp2340
+p2323
+asa(dp2324
 g8
-(lp2341
+(lp2325
 S"That's an interesting question."
-p2342
+p2326
 asg11
 S'EUGENE VOLOKH'
-p2343
+p2327
 sg13
-(dp2344
+(dp2328
 I1
 S'40'
-p2345
+p2329
 ssg16
-(lp2346
-g2342
-asa(dp2347
+(lp2330
+g2326
+asa(dp2331
 g8
-(lp2348
+(lp2332
 S'-- 15 seconds on this or --'
-p2349
+p2333
 asg11
 S'JOHN DONVAN'
-p2350
+p2334
 sg16
-(lp2351
-g2349
-asa(dp2352
+(lp2335
+g2333
+asa(dp2336
 g8
-(lp2353
+(lp2337
 S"I'm sorry."
-p2354
+p2338
 aS'So --'
-p2355
+p2339
 asg11
 S'EUGENE VOLOKH'
-p2356
+p2340
 sg16
-(lp2357
+(lp2341
 S"I'm sorry."
-p2358
+p2342
 aS'So --'
-p2359
-asa(dp2360
+p2343
+asa(dp2344
 g8
-(lp2361
+(lp2345
 S'-- and the --'
-p2362
+p2346
 asg11
 S'JOHN DONVAN'
-p2363
+p2347
 sg16
-(lp2364
-g2362
-asa(dp2365
+(lp2348
+g2346
+asa(dp2349
 g8
-(lp2366
+(lp2350
 S'-- right to drill?'
+p2351
+asg11
+S'EUGENE VOLOKH'
+p2352
+sg16
+(lp2353
+g2351
+asa(dp2354
+g8
+(lp2355
+S'Militias.'
+p2356
+asg11
+S'SANFORD LEVINSON'
+p2357
+sg16
+(lp2358
+g2356
+asa(dp2359
+g8
+(lp2360
+S'I think probably would be -- I mean, if it initially --'
+p2361
+asg11
+S'EUGENE VOLOH'
+p2362
+sg16
+(lp2363
+g2361
+asa(dp2364
+g8
+(lp2365
+S"-- if it's a conspiracy to actually engage in revolution?"
+p2366
+aS'No.'
 p2367
 asg11
 S'EUGENE VOLOKH'
 p2368
 sg16
 (lp2369
-g2367
-asa(dp2370
+S"-- if it's a conspiracy to actually engage in revolution?"
+p2370
+aS'No.'
+p2371
+asa(dp2372
 g8
-(lp2371
-S'Militias.'
-p2372
+(lp2373
+S'No.'
+p2374
+aS'Just to drill.'
+p2375
 asg11
 S'SANFORD LEVINSON'
-p2373
+p2376
 sg16
-(lp2374
-g2372
-asa(dp2375
-g8
-(lp2376
-S'I think probably would be -- I mean, if it initially --'
-p2377
-asg11
-S'EUGENE VOLOH'
+(lp2377
+S'No.'
 p2378
-sg16
-(lp2379
-g2377
+aS'Just to drill.'
+p2379
 asa(dp2380
 g8
 (lp2381
-S"-- if it's a conspiracy to actually engage in revolution?"
+S"Yeah, why don't you stand up?"
 p2382
-aS'No.'
+aS'Yeah.'
 p2383
 asg11
-S'EUGENE VOLOKH'
+S'JOHN DONVAN'
 p2384
 sg16
 (lp2385
-S"-- if it's a conspiracy to actually engage in revolution?"
+S"Yeah, why don't you stand up?"
 p2386
-aS'No.'
+aS'Yeah.'
 p2387
 asa(dp2388
 g8
 (lp2389
-S'No.'
-p2390
-aS'Just to drill.'
-p2391
-asg11
-S'SANFORD LEVINSON'
-p2392
-sg16
-(lp2393
-S'No.'
-p2394
-aS'Just to drill.'
-p2395
-asa(dp2396
-g8
-(lp2397
-S"Yeah, why don't you stand up?"
-p2398
-aS'Yeah.'
-p2399
-asg11
-S'JOHN DONVAN'
-p2400
-sg16
-(lp2401
-S"Yeah, why don't you stand up?"
-p2402
-aS'Yeah.'
-p2403
-asa(dp2404
-g8
-(lp2405
 S'Probably.'
-p2406
+p2390
 asg11
 S'EUGENE VOLOKH'
-p2407
+p2391
 sg16
-(lp2408
-g2406
-asa(dp2409
+(lp2392
+g2390
+asa(dp2393
 g22
-(dp2410
+(dp2394
 I1
 S'[laughter]'
-p2411
+p2395
 ssg8
-(lp2412
+(lp2396
 S"You're wearing a button."
-p2413
+p2397
 aS'That makes me nervous.No, a mic will come down this side.'
-p2414
+p2398
 aS'Sorry.'
-p2415
+p2399
 aS'And can you tell us your name, or at least [[laughter]] your first name?'
+p2400
+asg11
+S'JOHN DONVAN'
+p2401
+sg16
+(lp2402
+S"You're wearing a button."
+p2403
+aS'That makes me nervous.'
+p2404
+aS'No, a mic will come down this side.'
+p2405
+aS'Sorry.'
+p2406
+aS'And can you tell us your name, or at least your first name?'
+p2407
+asg18
+(dp2408
+S'20:04:00'
+p2409
+I1
+ssa(dp2410
+g8
+(lp2411
+S'Yes.'
+p2412
+aS'Hello.'
+p2413
+aS'My name is Lea.'
+p2414
+aS'And I have a question for all of you, really, is why do youthink the Second Amendment was intended to protect the rights of Americans to rise upagainst a tyrannical government when Article 1 in the constitution allows armed citizensin militias to suppress insurrections, not to cause them?'
+p2415
+aS'The Constitution definestreason as "levying war against the government" in Article 3 --'
 p2416
 asg11
-S'JOHN DONVAN'
-p2417
-sg16
-(lp2418
-S"You're wearing a button."
-p2419
-aS'That makes me nervous.'
-p2420
-aS'No, a mic will come down this side.'
-p2421
-aS'Sorry.'
-p2422
-aS'And can you tell us your name, or at least your first name?'
-p2423
-asg18
-(dp2424
-S'20:04:00'
-p2425
-I1
-ssa(dp2426
-g8
-(lp2427
-S'Yes.'
-p2428
-aS'Hello.'
-p2429
-aS'My name is Lea.'
-p2430
-aS'And I have a question for all of you, really, is why do youthink the Second Amendment was intended to protect the rights of Americans to rise upagainst a tyrannical government when Article 1 in the constitution allows armed citizensin militias to suppress insurrections, not to cause them?'
-p2431
-aS'The Constitution definestreason as "levying war against the government" in Article 3 --'
-p2432
-asg11
 S'FEMALE SPEAKER'
-p2433
+p2417
 sg13
-(dp2434
+(dp2418
 I2
 S'41'
-p2435
+p2419
 ssg16
-(lp2436
+(lp2420
 S'Yes.'
-p2437
+p2421
 aS'Hello.'
-p2438
+p2422
 aS'My name is Lea.'
-p2439
+p2423
 aS'And I have a question for all of you, really, is why do you think the Second Amendment was intended to protect the rights of Americans to rise up against a tyrannical government when Article 1 in the constitution allows armed citizens in militias to suppress insurrections, not to cause them?'
-p2440
+p2424
 aS'The Constitution defines treason as "levying war against the government" in Article 3 --'
-p2441
-asa(dp2442
+p2425
+asa(dp2426
 g8
-(lp2443
+(lp2427
 S"I'm going to stop you there, because you had a question mark after the --"
-p2444
+p2428
 asg11
 S'JOHN DONVAN'
-p2445
+p2429
 sg16
-(lp2446
-g2444
-asa(dp2447
+(lp2430
+g2428
+asa(dp2431
 g8
-(lp2448
+(lp2432
 S'I did.'
-p2449
+p2433
 asg11
 S'FEMALE SPEAKER'
-p2450
+p2434
 sg16
-(lp2451
-g2449
-asa(dp2452
+(lp2435
+g2433
+asa(dp2436
 g8
-(lp2453
+(lp2437
 S'-- part.'
-p2454
+p2438
 asg11
 S'JOHN DONVAN'
-p2455
+p2439
 sg16
-(lp2456
-g2454
-asa(dp2457
+(lp2440
+g2438
+asa(dp2441
 g22
-(dp2458
+(dp2442
 I1
 S'[laughter]'
-p2459
+p2443
 ssg8
-(lp2460
+(lp2444
 S'I did.'
-p2461
+p2445
 asg11
 S'FEMALE SPEAKER'
-p2462
+p2446
 sg16
-(lp2463
-g2461
-asa(dp2464
+(lp2447
+g2445
+asa(dp2448
 g8
-(lp2465
+(lp2449
 S"You know, I think there's a deceptively easy answer --"
-p2466
+p2450
 asg11
 S'SANFORD LEVINSON'
-p2467
+p2451
 sg16
-(lp2468
-g2466
-asa(dp2469
+(lp2452
+g2450
+asa(dp2453
 g8
-(lp2470
+(lp2454
 S'Sandy Levinson.'
-p2471
+p2455
 asg11
 S'JOHN DONVAN'
-p2472
+p2456
 sg16
-(lp2473
-g2471
-asa(dp2474
+(lp2457
+g2455
+asa(dp2458
 g8
-(lp2475
+(lp2459
 S'-- to your question.'
-p2476
+p2460
 aS'The 1787 Constitution did not include the Second Amendment.'
-p2477
+p2461
 aS'TheSecond Amendment, as Alan would emphasize, is part of the Bill of Rights that wereadded in 1791 at the behest of people who really were very suspicious of this newnational government that was created by the Constitution.And, you know, one could quote Emerson or Walt Whitman, that the Constitutioncontains contradictions.'
-p2478
+p2462
 aS'And you have put your finger on a very key contradiction --'
-p2479
+p2463
 asg11
 S'SANFORD LEVINSON'
-p2480
+p2464
 sg16
-(lp2481
+(lp2465
 S'-- to your question.'
-p2482
+p2466
 aS'The 1787 Constitution did not include the Second Amendment.'
-p2483
+p2467
 aS'The Second Amendment, as Alan would emphasize, is part of the Bill of Rights that were added in 1791 at the behest of people who really were very suspicious of this new national government that was created by the Constitution.'
-p2484
+p2468
 aS'And, you know, one could quote Emerson or Walt Whitman, that the Constitution contains contradictions.'
-p2485
+p2469
 aS'And you have put your finger on a very key contradiction --'
-p2486
+p2470
 asg18
-(dp2487
+(dp2471
 S'20:05:01'
-p2488
+p2472
 I4
-ssa(dp2489
+ssa(dp2473
 g8
-(lp2490
+(lp2474
 S'Do you disagree enough with that to want to argue with it-- David Kopel?'
-p2491
+p2475
 asg11
 S'JOHN DONVAN'
-p2492
+p2476
 sg16
-(lp2493
-g2491
-asa(dp2494
+(lp2477
+g2475
+asa(dp2478
 g8
-(lp2495
+(lp2479
 S'The Supreme Court justice Story --'
-p2496
+p2480
 asg11
 S'DAVID KOPEL'
-p2497
+p2481
 sg16
-(lp2498
-g2496
-asa(dp2499
+(lp2482
+g2480
+asa(dp2483
 g8
-(lp2500
+(lp2484
 S'David Kopel.'
-p2501
+p2485
 asg11
 S'JOHN DONVAN'
-p2502
+p2486
 sg13
-(dp2503
+(dp2487
 I1
 S'42'
-p2504
+p2488
 ssg16
-(lp2505
-g2501
-asa(dp2506
+(lp2489
+g2485
+asa(dp2490
 g8
-(lp2507
+(lp2491
 S'-- would disagree that there was a contradiction there, as he explained in his treatises.That insurrection is an illegitimate, violent act -- violent action against the government.But if the Second Amendment militias, led by their state governments, were evernecessary to overthrow a tyranny, that would not be an insurrection --'
-p2508
+p2492
 asg11
 S'DAVID KOPEL'
-p2509
+p2493
 sg16
-(lp2510
+(lp2494
 S'-- would disagree that there was a contradiction there, as he explained in his treatises.'
-p2511
+p2495
 aS'That insurrection is an illegitimate, violent act -- violent action against the government.'
-p2512
+p2496
 aS'But if the Second Amendment militias, led by their state governments, were ever necessary to overthrow a tyranny, that would not be an insurrection --'
-p2513
-asa(dp2514
+p2497
+asa(dp2498
 g8
-(lp2515
+(lp2499
 S'Like in the Civil War.'
-p2516
+p2500
 asg11
 S'ALAN DERSHOWITZ'
-p2517
+p2501
 sg16
-(lp2518
-g2516
-asa(dp2519
+(lp2502
+g2500
+asa(dp2503
 g8
-(lp2520
+(lp2504
 S'That would be --'
-p2521
+p2505
 asg11
 S'DAVID KOPEL'
-p2522
+p2506
 sg16
-(lp2523
-g2521
-asa(dp2524
+(lp2507
+g2505
+asa(dp2508
 g8
-(lp2525
+(lp2509
 S'Like the Civil War, right?'
-p2526
+p2510
 asg11
 S'ALAN DERSHOWITZ'
-p2527
+p2511
 sg16
-(lp2528
-g2526
-asa(dp2529
+(lp2512
+g2510
+asa(dp2513
 g8
-(lp2530
+(lp2514
 S'The -- let me talk, please.'
-p2531
+p2515
 aS'That would be a restoration of constitutional order.'
-p2532
+p2516
 aS"That'swhat Justice Story's viewpoint is."
-p2533
+p2517
 aS'It would be a dictatorship that was the insurrection,that was lawless, that was at war with the Constitution.'
+p2518
+asg11
+S'DAVID KOPEL'
+p2519
+sg16
+(lp2520
+S'The -- let me talk, please.'
+p2521
+aS'That would be a restoration of constitutional order.'
+p2522
+aS"That's what Justice Story's viewpoint is."
+p2523
+aS'It would be a dictatorship that was the insurrection, that was lawless, that was at war with the Constitution.'
+p2524
+asg18
+(dp2525
+S'20:05:58'
+p2526
+I3
+ssa(dp2527
+g8
+(lp2528
+S'So was the Civil War --'
+p2529
+asg11
+S'ALAN DERSHOWITZ'
+p2530
+sg16
+(lp2531
+g2529
+asa(dp2532
+g8
+(lp2533
+S'Wait, Alan, hang on --'
 p2534
 asg11
-S'DAVID KOPEL'
+S'JOHN DONVAN'
 p2535
 sg16
 (lp2536
-S'The -- let me talk, please.'
-p2537
-aS'That would be a restoration of constitutional order.'
-p2538
-aS"That's what Justice Story's viewpoint is."
-p2539
-aS'It would be a dictatorship that was the insurrection, that was lawless, that was at war with the Constitution.'
-p2540
-asg18
-(dp2541
-S'20:05:58'
-p2542
-I3
-ssa(dp2543
+g2534
+asa(dp2537
 g8
-(lp2544
-S'So was the Civil War --'
-p2545
+(lp2538
+S'-- a legitimate --'
+p2539
 asg11
 S'ALAN DERSHOWITZ'
-p2546
+p2540
 sg16
-(lp2547
-g2545
-asa(dp2548
+(lp2541
+g2539
+asa(dp2542
 g8
-(lp2549
-S'Wait, Alan, hang on --'
-p2550
+(lp2543
+S'No, no.'
+p2544
+asg11
+S'DAVID KOPEL'
+p2545
+sg16
+(lp2546
+g2544
+asa(dp2547
+g8
+(lp2548
+S'Are you -- David, are you done?'
+p2549
 asg11
 S'JOHN DONVAN'
-p2551
+p2550
 sg16
-(lp2552
-g2550
-asa(dp2553
+(lp2551
+g2549
+asa(dp2552
 g8
-(lp2554
-S'-- a legitimate --'
-p2555
+(lp2553
+S'Yes.'
+p2554
 asg11
-S'ALAN DERSHOWITZ'
-p2556
+S'DAVID KOPEL'
+p2555
 sg16
-(lp2557
-g2555
-asa(dp2558
+(lp2556
+g2554
+asa(dp2557
 g8
-(lp2559
-S'No, no.'
+(lp2558
+S'Okay.'
+p2559
+aS'What -- Alan.'
 p2560
 asg11
-S'DAVID KOPEL'
-p2561
-sg16
-(lp2562
-g2560
-asa(dp2563
-g8
-(lp2564
-S'Are you -- David, are you done?'
-p2565
-asg11
 S'JOHN DONVAN'
+p2561
+sg13
+(dp2562
+I1
+S'43'
+p2563
+ssg16
+(lp2564
+S'Okay.'
+p2565
+aS'What -- Alan.'
 p2566
-sg16
-(lp2567
-g2565
-asa(dp2568
+asa(dp2567
 g8
-(lp2569
-S'Yes.'
-p2570
+(lp2568
+S'So, was the Civil War legitimate or -- was it a legitimate insurrection or an illegalinsurrection?'
+p2569
 asg11
-S'DAVID KOPEL'
-p2571
+S'ALAN DERSHOWITZ'
+p2570
 sg16
-(lp2572
-g2570
+(lp2571
+S'So, was the Civil War legitimate or -- was it a legitimate insurrection or an illegal insurrection?'
+p2572
 asa(dp2573
 g8
 (lp2574
-S'Okay.'
+S'I have an answer to that.'
 p2575
-aS'What -- Alan.'
+asg11
+S'EUGENE VOLOKH'
 p2576
+sg16
+(lp2577
+g2575
+asa(dp2578
+g8
+(lp2579
+S'Eugene Volokh.'
+p2580
 asg11
 S'JOHN DONVAN'
-p2577
-sg13
-(dp2578
-I1
-S'43'
-p2579
-ssg16
-(lp2580
-S'Okay.'
 p2581
-aS'What -- Alan.'
-p2582
+sg16
+(lp2582
+g2580
 asa(dp2583
 g8
 (lp2584
-S'So, was the Civil War legitimate or -- was it a legitimate insurrection or an illegalinsurrection?'
+S'Which civil war?'
 p2585
-asg11
-S'ALAN DERSHOWITZ'
+aS'Do you mean the civil war against the federal government or the civilwar that was fought between 1775 and 1781, in the U.S.?'
 p2586
-sg16
-(lp2587
-S'So, was the Civil War legitimate or -- was it a legitimate insurrection or an illegal insurrection?'
-p2588
-asa(dp2589
-g8
-(lp2590
-S'I have an answer to that.'
-p2591
 asg11
 S'EUGENE VOLOKH'
-p2592
+p2587
 sg16
-(lp2593
-g2591
-asa(dp2594
-g8
-(lp2595
-S'Eugene Volokh.'
-p2596
-asg11
-S'JOHN DONVAN'
-p2597
-sg16
-(lp2598
-g2596
-asa(dp2599
-g8
-(lp2600
+(lp2588
 S'Which civil war?'
-p2601
-aS'Do you mean the civil war against the federal government or the civilwar that was fought between 1775 and 1781, in the U.S.?'
+p2589
+aS'Do you mean the civil war against the federal government or the civil war that was fought between 1775 and 1781, in the U.S.?'
+p2590
+asa(dp2591
+g8
+(lp2592
+S'No.'
+p2593
+aS'The one that we all refer to the "Civil War.'
+p2594
+aS'"'
+p2595
+asg11
+S'ALAN DERSHOWITZ'
+p2596
+sg16
+(lp2597
+S'No.'
+p2598
+aS'The one that we all refer to the "Civil War.'
+p2599
+ag2595
+asa(dp2600
+g8
+(lp2601
+S'So, the answer is --'
 p2602
 asg11
 S'EUGENE VOLOKH'
 p2603
 sg16
 (lp2604
-S'Which civil war?'
-p2605
-aS'Do you mean the civil war against the federal government or the civil war that was fought between 1775 and 1781, in the U.S.?'
-p2606
-asa(dp2607
+g2602
+asa(dp2605
 g8
-(lp2608
-S'No.'
-p2609
-aS'The one that we all refer to the "Civil War.'
-p2610
-aS'"'
-p2611
-asg11
-S'ALAN DERSHOWITZ'
-p2612
-sg16
-(lp2613
-S'No.'
-p2614
-aS'The one that we all refer to the "Civil War.'
-p2615
-ag2611
-asa(dp2616
-g8
-(lp2617
-S'So, the answer is --'
-p2618
-asg11
-S'EUGENE VOLOKH'
-p2619
-sg16
-(lp2620
-g2618
-asa(dp2621
-g8
-(lp2622
+(lp2606
 S'With a capital T, a capital C, and a capital W. A guy involving Abraham Lincoln.Remember that one?'
-p2623
+p2607
 asg11
 S'ALAN DERSHOWITZ'
-p2624
+p2608
 sg16
-(lp2625
+(lp2609
 S'With a capital T, a capital C, and a capital W. A guy involving Abraham Lincoln.'
-p2626
+p2610
 aS'Remember that one?'
-p2627
-asa(dp2628
+p2611
+asa(dp2612
 g22
-(dp2629
+(dp2613
 I1
 S'[laughter]'
-p2630
+p2614
 ssg8
-(lp2631
+(lp2615
 S'So the answer --'
-p2632
+p2616
 asg11
 S'EUGENE VOLOKH'
-p2633
+p2617
 sg16
-(lp2634
-g2632
-asa(dp2635
+(lp2618
+g2616
+asa(dp2619
 g8
-(lp2636
+(lp2620
 S'Was that a legitimate insurrection?'
-p2637
+p2621
 aS'That was lead by state militias.'
-p2638
+p2622
 asg11
 S'ALAN DERSHOWITZ'
-p2639
+p2623
 sg16
-(lp2640
+(lp2624
 S'Was that a legitimate insurrection?'
-p2641
+p2625
 aS'That was lead by state militias.'
-p2642
-asa(dp2643
+p2626
+asa(dp2627
 g8
-(lp2644
+(lp2628
 S'So the answer is --'
-p2645
+p2629
 asg11
 S'EUGENE VOLOKH'
-p2646
+p2630
 sg16
-(lp2647
-g2645
-asa(dp2648
+(lp2631
+g2629
+asa(dp2632
 g8
-(lp2649
+(lp2633
 S'Someone help me out here with the question.'
-p2650
+p2634
 asg11
 S'JOHN DONVAN'
-p2651
+p2635
 sg16
-(lp2652
-g2650
-asa(dp2653
+(lp2636
+g2634
+asa(dp2637
 g8
-(lp2654
+(lp2638
 S'-- that we think the Revolutionary War was legitimate, partly because we were the oneson the winning side.'
-p2655
+p2639
 aS'But partly because we think it was a just insurrection; that we thinkthe Civil War is illegitimate because it was an unjust insurrection.'
-p2656
+p2640
 aS"But to return to yourquestion, it's an excellent question."
-p2657
+p2641
 aS"But if you'll look at the framing era documents andthe post-framing documents -- and for that matter, the pre-framing documents, SirWilliam Blackstone's Commentaries on the Laws of England -- it was understood thatwhile, obviously, every government must be able to suppress revolutions against it --and it will, whether it's a tyrannical government or not -- one merit that was seen at thetime -- again, I'm skeptical about it today -- but without question, historically seen at thetime in an armed citizenry is it would preferably deter tyranny, and if necessary,overthrow it, recognizing that if it fails, that they'll be hung -- hanged for treason."
-p2658
+p2642
 aS'Thatwas understood.'
-p2659
+p2643
 asg11
 S'EUGENE VOLOKH'
-p2660
+p2644
 sg13
-(dp2661
+(dp2645
 I4
 S'44'
-p2662
+p2646
 ssg16
-(lp2663
+(lp2647
 S'-- that we think the Revolutionary War was legitimate, partly because we were the ones on the winning side.'
-p2664
+p2648
 aS'But partly because we think it was a just insurrection; that we think the Civil War is illegitimate because it was an unjust insurrection.'
-p2665
+p2649
 aS"But to return to your question, it's an excellent question."
-p2666
+p2650
 aS"But if you'll look at the framing era documents and the post-framing documents -- and for that matter, the pre-framing documents, Sir William Blackstone's Commentaries on the Laws of England -- it was understood that while, obviously, every government must be able to suppress revolutions against it -- and it will, whether it's a tyrannical government or not -- one merit that was seen at the time -- again, I'm skeptical about it today -- but without question, historically seen at the time in an armed citizenry is it would preferably deter tyranny, and if necessary, overthrow it, recognizing that if it fails, that they'll be hung -- hanged for treason."
-p2667
+p2651
 aS'That was understood.'
-p2668
+p2652
 asg18
-(dp2669
+(dp2653
 S'20:07:21'
-p2670
+p2654
 I12
-ssa(dp2671
+ssa(dp2655
 g8
-(lp2672
+(lp2656
 S'All right, sir.'
-p2673
+p2657
 asg11
 S'JOHN DONVAN'
-p2674
+p2658
 sg16
-(lp2675
-g2673
-asa(dp2676
+(lp2659
+g2657
+asa(dp2660
 g8
-(lp2677
+(lp2661
 S'My name is John Donahue.'
-p2678
+p2662
 aS'I thought I heard David Kopel say that you were more likelyto be shot as a burglar than to go to prison, which must be wildly off, because tens ofthousands of burglars are in prison, and very few people are actually shot byhomeowners.'
-p2679
+p2663
 aS'But my question goes to the question of an anachronism in light of theexperience of other countries similar to the United States.'
-p2680
+p2664
 aS'So for example, Australia,after experiencing --'
-p2681
+p2665
 asg11
 S'MALE SPEAKER'
-p2682
+p2666
 sg16
-(lp2683
+(lp2667
 S'My name is John Donahue.'
-p2684
+p2668
 aS'I thought I heard David Kopel say that you were more likely to be shot as a burglar than to go to prison, which must be wildly off, because tens of thousands of burglars are in prison, and very few people are actually shot by homeowners.'
-p2685
+p2669
 aS'But my question goes to the question of an anachronism in light of the experience of other countries similar to the United States.'
-p2686
+p2670
 aS'So for example, Australia, after experiencing --'
+p2671
+asa(dp2672
+g8
+(lp2673
+S'Sir, I just want to ask you to zoom in on your question.'
+p2674
+asg11
+S'JOHN DONVAN'
+p2675
+sg16
+(lp2676
+g2674
+asa(dp2677
+g8
+(lp2678
+S'Yeah.'
+p2679
+aS'So, to focus on Australia, in 1996, they had experienced a horrific mass murder.And 12 days later, they decided to abolish all semi-automatic weapons and to abolishthe right to use guns --'
+p2680
+asg11
+S'MALE SPEAKER'
+p2681
+sg16
+(lp2682
+S'Yeah.'
+p2683
+aS'So, to focus on Australia, in 1996, they had experienced a horrific mass murder.'
+p2684
+aS'And 12 days later, they decided to abolish all semi-automatic weapons and to abolish the right to use guns --'
+p2685
+asg18
+(dp2686
+S'20:08:02'
 p2687
-asa(dp2688
+I1
+ssa(dp2688
 g8
 (lp2689
-S'Sir, I just want to ask you to zoom in on your question.'
+S"Sir, I'm sorry."
 p2690
-asg11
-S'JOHN DONVAN'
+aS'rules.'
 p2691
-sg16
-(lp2692
-g2690
-asa(dp2693
-g8
-(lp2694
-S'Yeah.'
-p2695
-aS'So, to focus on Australia, in 1996, they had experienced a horrific mass murder.And 12 days later, they decided to abolish all semi-automatic weapons and to abolishthe right to use guns --'
-p2696
-asg11
-S'MALE SPEAKER'
-p2697
-sg16
-(lp2698
-S'Yeah.'
-p2699
-aS'So, to focus on Australia, in 1996, they had experienced a horrific mass murder.'
-p2700
-aS'And 12 days later, they decided to abolish all semi-automatic weapons and to abolish the right to use guns --'
-p2701
-asg18
-(dp2702
-S'20:08:02'
-p2703
-I1
-ssa(dp2704
-g8
-(lp2705
-S"Sir, I'm sorry."
-p2706
-aS'rules.'
-p2707
 aS'I need you -- not too much premise and just get tothe question, please.'
-p2708
+p2692
 asg11
 S'JOHN DONVAN'
-p2709
+p2693
 sg16
-(lp2710
+(lp2694
 S"Sir, I'm sorry."
-p2711
+p2695
 aS'rules.'
-p2712
+p2696
 aS'I need you -- not too much premise and just get to the question, please.'
-p2713
-asa(dp2714
+p2697
+asa(dp2698
 g8
-(lp2715
+(lp2699
 S'Okay.'
-p2716
+p2700
 aS'So the question is why, in light of the fact that their murder rate has droppedsubstantially since that time and is now about one-fourth or one-fifth the rate of themurder rate in the United States, do you parade these horribles as emanating fromremoving the Second Amendment if it seems as though the Second Amendmentoperates more in the way that Alan Dershowitz has suggested as an impediment toavoiding homicide?'
-p2717
+p2701
 asg11
 S'MALE SPEAKER'
-p2718
+p2702
 sg13
-(dp2719
+(dp2703
 I6
 S'45'
-p2720
+p2704
 ssg16
-(lp2721
+(lp2705
 S'Okay.'
-p2722
+p2706
 aS'So the question is why, in light of the fact that their murder rate has dropped substantially since that time and is now about one-fourth or one-fifth the rate of the murder rate in the United States, do you parade these horribles as emanating from removing the Second Amendment if it seems as though the Second Amendment operates more in the way that Alan Dershowitz has suggested as an impediment to avoiding homicide?'
-p2723
-asa(dp2724
+p2707
+asa(dp2708
 g8
-(lp2725
+(lp2709
 S"My concern with that question is I think that one of the debaters here said that there'salways going to be evidence on both sides on the impact and that we would just get intodescending studies."
-p2726
+p2710
 asg11
 S'JOHN DONVAN'
-p2727
+p2711
 sg16
-(lp2728
+(lp2712
 S"My concern with that question is I think that one of the debaters here said that there's always going to be evidence on both sides on the impact and that we would just get into descending studies."
-p2729
+p2713
 asg18
-(dp2730
+(dp2714
 S'20:08:55'
-p2731
+p2715
 I3
-ssa(dp2732
+ssa(dp2716
 g8
-(lp2733
+(lp2717
 S'Well, the question was asked --'
-p2734
+p2718
 asg11
 S'EUGENE VOLOKH'
-p2735
+p2719
 sg16
-(lp2736
-g2734
-asa(dp2737
+(lp2720
+g2718
+asa(dp2721
 g8
-(lp2738
+(lp2722
 S'And it would be a wash.'
-p2739
+p2723
 asg11
 S'MALE SPEAKER'
-p2740
+p2724
 sg16
-(lp2741
-g2739
-asa(dp2742
+(lp2725
+g2723
+asa(dp2726
 g8
-(lp2743
+(lp2727
 S'Well, no, because we have other things that we want to get onto.'
-p2744
+p2728
 aS'So, I would like tomove on to them.'
-p2745
+p2729
 asg11
 S'JOHN DONVAN'
-p2746
+p2730
 sg16
-(lp2747
+(lp2731
 S'Well, no, because we have other things that we want to get onto.'
-p2748
+p2732
 aS'So, I would like to move on to them.'
-p2749
-asa(dp2750
+p2733
+asa(dp2734
 g8
-(lp2751
+(lp2735
 S"Well, I just want to say for the record I'm not sure of the factual assertions behind thatquestion."
-p2752
+p2736
 asg11
 S'EUGENE VOLOKH'
-p2753
+p2737
 sg16
-(lp2754
+(lp2738
 S"Well, I just want to say for the record I'm not sure of the factual assertions behind that question."
-p2755
-asa(dp2756
+p2739
+asa(dp2740
 g22
-(dp2757
+(dp2741
 I2
 S'[laughter]'
-p2758
+p2742
 ssg8
-(lp2759
+(lp2743
 S"Exactly right and these guys will say it is and you'll have studies and nobody here hasread them."
-p2760
+p2744
 aS"Sir?You were with us before, weren't you?"
-p2761
+p2745
 aS'[[laughter]] '
-p2762
+p2746
 asg11
 S'JOHN DONVAN'
-p2763
+p2747
 sg16
-(lp2764
+(lp2748
 S"Exactly right and these guys will say it is and you'll have studies and nobody here has read them."
-p2765
+p2749
 aS'Sir?'
-p2766
+p2750
 aS"You were with us before, weren't you?"
-p2767
-asa(dp2768
+p2751
+asa(dp2752
 g8
-(lp2769
+(lp2753
 S'Yes I was.'
-p2770
+p2754
 asg11
 S'MALE SPEAKER'
-p2771
+p2755
 sg16
-(lp2772
-g2770
-asa(dp2773
+(lp2756
+g2754
+asa(dp2757
 g8
-(lp2774
+(lp2758
 S'How old were you last year?'
-p2775
+p2759
 asg11
 S'JOHN DONVAN'
-p2776
+p2760
 sg16
-(lp2777
-g2775
-asa(dp2778
+(lp2761
+g2759
+asa(dp2762
 g8
-(lp2779
+(lp2763
 S'Twelve.'
-p2780
+p2764
 asg11
 S'MALE SPEAKER'
-p2781
+p2765
 sg16
-(lp2782
-g2780
-asa(dp2783
+(lp2766
+g2764
+asa(dp2767
 g8
-(lp2784
+(lp2768
 S'You were 12 last year?'
-p2785
+p2769
 asg11
 S'JOHN DONVAN'
-p2786
+p2770
 sg16
-(lp2787
-g2785
-asa(dp2788
+(lp2771
+g2769
+asa(dp2772
 g22
-(dp2789
+(dp2773
 I1
 S'[laughter]'
-p2790
+p2774
 ssg8
-(lp2791
+(lp2775
 S'Well, 13, I think.'
-p2792
+p2776
 aS"I don't remember exactly."
-p2793
+p2777
 asg11
 S'MALE SPEAKER'
-p2794
+p2778
 sg13
-(dp2795
+(dp2779
 I1
 S'46'
-p2796
+p2780
 ssg16
-(lp2797
+(lp2781
 S'Well, 13, I think.'
-p2798
+p2782
 aS"I don't remember exactly."
-p2799
-asa(dp2800
+p2783
+asa(dp2784
 g8
-(lp2801
+(lp2785
 S"You did a great question on our Israel debate, and you're with Collegiate School, right?"
-p2802
+p2786
 asg11
 S'JOHN DONVAN'
-p2803
+p2787
 sg16
-(lp2804
-g2802
-asa(dp2805
+(lp2788
+g2786
+asa(dp2789
 g8
-(lp2806
+(lp2790
 S'Yes.'
-p2807
+p2791
 asg11
 S'MALE SPEAKER'
-p2808
+p2792
 sg16
-(lp2809
-g2807
-asa(dp2810
+(lp2793
+g2791
+asa(dp2794
 g22
-(dp2811
+(dp2795
 I1
 S'[applause]'
-p2812
+p2796
 ssg8
-(lp2813
+(lp2797
 S'This whole row.'
-p2814
+p2798
 aS'Welcome to our debate, guys.'
-p2815
+p2799
 aS'Thanks for coming.So you have to be as good as you were last year when you were 12.'
-p2816
+p2800
 aS'[[applause]] '
-p2817
+p2801
 asg11
 S'JOHN DONVAN'
-p2818
+p2802
 sg16
-(lp2819
+(lp2803
 S'This whole row.'
-p2820
+p2804
 aS'Welcome to our debate, guys.'
-p2821
+p2805
 aS'Thanks for coming.'
-p2822
+p2806
 aS'So you have to be as good as you were last year when you were 12.'
-p2823
-asa(dp2824
+p2807
+asa(dp2808
 g8
-(lp2825
+(lp2809
 S'Okay.'
-p2826
+p2810
 aS'So my question is for the people who are arguing against the motion.'
-p2827
+p2811
 aS"And myquestion is if -- I think -- something that I'm a little unsure of in your argument that Ithink is a bit of a contradiction."
-p2828
+p2812
 aS"You've argued that you're not going to be able tosuccessfully impede the right -- the ability of criminals to gain weapons.You used Martin Luther King at being politically assassinated as an example of that."
-p2829
+p2813
 aS'Yet,you also sort of stated that --'
-p2830
+p2814
 asg11
 S'MALE SPEAKER'
+p2815
+sg16
+(lp2816
+S'Okay.'
+p2817
+aS'So my question is for the people who are arguing against the motion.'
+p2818
+aS"And my question is if -- I think -- something that I'm a little unsure of in your argument that I think is a bit of a contradiction."
+p2819
+aS"You've argued that you're not going to be able to successfully impede the right -- the ability of criminals to gain weapons."
+p2820
+aS'You used Martin Luther King at being politically assassinated as an example of that.'
+p2821
+aS'Yet, you also sort of stated that --'
+p2822
+asg18
+(dp2823
+S'20:09:59'
+p2824
+I4
+ssa(dp2825
+g22
+(dp2826
+I1
+S'[laughter]'
+p2827
+ssg8
+(lp2828
+S"Hey, just because you're 14 doesn't mean you can't zoom in on a question.So go for it."
+p2829
+aS'[[laughter]] '
+p2830
+asg11
+S'JOHN DONVAN'
 p2831
 sg16
 (lp2832
-S'Okay.'
-p2833
-aS'So my question is for the people who are arguing against the motion.'
-p2834
-aS"And my question is if -- I think -- something that I'm a little unsure of in your argument that I think is a bit of a contradiction."
-p2835
-aS"You've argued that you're not going to be able to successfully impede the right -- the ability of criminals to gain weapons."
-p2836
-aS'You used Martin Luther King at being politically assassinated as an example of that.'
-p2837
-aS'Yet, you also sort of stated that --'
-p2838
-asg18
-(dp2839
-S'20:09:59'
-p2840
-I4
-ssa(dp2841
-g22
-(dp2842
-I1
-S'[laughter]'
-p2843
-ssg8
-(lp2844
-S"Hey, just because you're 14 doesn't mean you can't zoom in on a question.So go for it."
-p2845
-aS'[[laughter]] '
-p2846
-asg11
-S'JOHN DONVAN'
-p2847
-sg16
-(lp2848
 S"Hey, just because you're 14 doesn't mean you can't zoom in on a question."
-p2849
+p2833
 aS'So go for it.'
-p2850
-asa(dp2851
+p2834
+asa(dp2835
 g8
-(lp2852
+(lp2836
 S"If -- let's see -- how will having political assassins not being able to access guns berelated to people able to defend themselves against burglars in their home?"
-p2853
+p2837
 aS"If a burglaris able to get a gun, isn't that something a bit different than a political assassin who'swilling to throw away their life?"
-p2854
+p2838
 aS'And so --'
-p2855
+p2839
 asg11
 S'MALE SPEAKER'
-p2856
+p2840
 sg16
-(lp2857
+(lp2841
 S"If -- let's see -- how will having political assassins not being able to access guns be related to people able to defend themselves against burglars in their home?"
-p2858
+p2842
 aS"If a burglar is able to get a gun, isn't that something a bit different than a political assassin who's willing to throw away their life?"
-p2859
+p2843
 aS'And so --'
-p2860
-asa(dp2861
+p2844
+asa(dp2845
 g8
-(lp2862
+(lp2846
 S'Okay.'
-p2863
+p2847
 aS'Okay.'
-p2864
+p2848
 asg11
 S'JOHN DONVAN'
-p2865
+p2849
 sg13
-(dp2866
+(dp2850
 I1
 S'47'
-p2867
+p2851
 ssg16
-(lp2868
+(lp2852
 S'Okay.'
-p2869
+p2853
 aS'Okay.'
-p2870
-asa(dp2871
+p2854
+asa(dp2855
 g8
-(lp2872
+(lp2856
 S'-- this sort of self-defense situation.'
-p2873
+p2857
 asg11
 S'MALE SPEAKER'
-p2874
+p2858
 sg16
-(lp2875
-g2873
-asa(dp2876
+(lp2859
+g2857
+asa(dp2860
 g8
-(lp2877
+(lp2861
 S'Very quickly, David Kopel.'
-p2878
+p2862
 asg11
 S'JOHN DONVAN'
-p2879
+p2863
 sg16
-(lp2880
-g2878
-asa(dp2881
+(lp2864
+g2862
+asa(dp2865
 g8
-(lp2882
+(lp2866
 S"As your question recognizes, there's a wide variety of criminals with different intensitiesand motivation, and so a political assassin is sort of at the top of the scale in terms oflong-term planning, and you can have other criminals who are much more casual.So, one of the anti-gun control arguments is what you're referring to -- the futility thesis.That nothing you do is ever going to stop criminals from having guns, and that is true formany criminals who are determined to get guns."
-p2883
+p2867
 aS"Can you at the margins of, you know, 1percent or 5 percent, delay when they get the gun, or can you also have laws that saywell, we can't really shut down the black market, but we can say that if you're aconvicted felon for a genuinely violent crime and you're found carrying a gun, thatthere's going to be a severe sentence and that -- the studies do show that has somedeterrent effect on them carrying guns."
-p2884
+p2868
 aS"So I think you can't --"
-p2885
+p2869
 asg11
 S'DAVID KOPEL'
-p2886
+p2870
 sg16
-(lp2887
+(lp2871
 S"As your question recognizes, there's a wide variety of criminals with different intensities and motivation, and so a political assassin is sort of at the top of the scale in terms of long-term planning, and you can have other criminals who are much more casual."
-p2888
+p2872
 aS"So, one of the anti-gun control arguments is what you're referring to -- the futility thesis."
-p2889
+p2873
 aS'That nothing you do is ever going to stop criminals from having guns, and that is true for many criminals who are determined to get guns.'
-p2890
+p2874
 aS"Can you at the margins of, you know, 1 percent or 5 percent, delay when they get the gun, or can you also have laws that say well, we can't really shut down the black market, but we can say that if you're a convicted felon for a genuinely violent crime and you're found carrying a gun, that there's going to be a severe sentence and that -- the studies do show that has some deterrent effect on them carrying guns."
-p2891
+p2875
 aS"So I think you can't --"
-p2892
+p2876
 asg18
-(dp2893
+(dp2877
 S'20:10:53'
-p2894
+p2878
 I3
-ssa(dp2895
+ssa(dp2879
 g8
-(lp2896
+(lp2880
 S"I want -- again, you know, I'm sorry to be stickler about this, but we'll wander all overand you're going to have to vote on this amendment language shortly, and that's whyI'm trying to keep the questions focused on that."
-p2897
+p2881
 aS"So, sir, I hope you're going to deliverfor me."
-p2898
+p2882
 aS"And it's a tough one, by the way."
-p2899
+p2883
 aS"I don't think it's particularly easy to frame aquestion on this one."
-p2900
+p2884
 asg11
 S'JOHN DONVAN'
-p2901
+p2885
 sg16
-(lp2902
+(lp2886
 S"I want -- again, you know, I'm sorry to be stickler about this, but we'll wander all over and you're going to have to vote on this amendment language shortly, and that's why I'm trying to keep the questions focused on that."
-p2903
+p2887
 aS"So, sir, I hope you're going to deliver for me."
-p2904
+p2888
 aS"And it's a tough one, by the way."
-p2905
+p2889
 aS"I don't think it's particularly easy to frame a question on this one."
-p2906
+p2890
 asg18
-(dp2907
+(dp2891
 S'20:11:56'
-p2908
+p2892
 I5
-ssa(dp2909
+ssa(dp2893
 g8
-(lp2910
+(lp2894
 S'Hi.'
-p2911
+p2895
 aS'My name is Fortuna.'
-p2912
+p2896
 aS'I have a question to David and Eugene.'
-p2913
+p2897
 aS'So, ifyou guys were to write constitution from scratch, what words would you put in place ofthe Second Amendment to properly represent the point of view you are defending?'
-p2914
+p2898
 asg11
 S'MALE SPEAKER'
-p2915
+p2899
 sg16
-(lp2916
+(lp2900
 S'Hi.'
-p2917
+p2901
 aS'My name is Fortuna.'
-p2918
+p2902
 aS'I have a question to David and Eugene.'
-p2919
+p2903
 aS'So, if you guys were to write constitution from scratch, what words would you put in place of the Second Amendment to properly represent the point of view you are defending?'
-p2920
-asa(dp2921
+p2904
+asa(dp2905
 g8
-(lp2922
+(lp2906
 S'Great question.'
-p2923
+p2907
 aS'And how -- language that you could come up with that would defendagainst these guys and give you what you want.'
-p2924
+p2908
 aS'Who would like to take that?'
-p2925
+p2909
 aS'DavidKopel or Eugene Volokh?'
-p2926
+p2910
 asg11
 S'JOHN DONVAN'
-p2927
+p2911
 sg16
-(lp2928
+(lp2912
 S'Great question.'
-p2929
+p2913
 aS'And how -- language that you could come up with that would defend against these guys and give you what you want.'
-p2930
+p2914
 aS'Who would like to take that?'
-p2931
+p2915
 aS'David Kopel or Eugene Volokh?'
-p2932
-asa(dp2933
+p2916
+asa(dp2917
 g22
-(dp2934
+(dp2918
 I1
 S'[laughter]'
-p2935
+p2919
 ssg8
-(lp2936
+(lp2920
 S'I think Eugene is about to give you a quote, but the short answer is --Modern state constitutions say it in modern language, and so any one of those recent [[laughter]] ones, Wisconsin, for example.'
-p2937
+p2921
 asg11
 S'DAVID KOPEL'
-p2938
+p2922
 sg13
-(dp2939
+(dp2923
 I1
 S'48'
-p2940
+p2924
 ssg16
-(lp2941
+(lp2925
 S'I think Eugene is about to give you a quote, but the short answer is -- Modern state constitutions say it in modern language, and so any one of those recent ones, Wisconsin, for example.'
-p2942
-asa(dp2943
+p2926
+asa(dp2927
 g8
-(lp2944
+(lp2928
 S'You would take out that whole militia thing?'
-p2945
+p2929
 asg11
 S'JOHN DONVAN'
-p2946
+p2930
 sg16
-(lp2947
-g2945
-asa(dp2948
+(lp2931
+g2929
+asa(dp2932
 g8
-(lp2949
+(lp2933
 S'So let me read to you the 1998 Wisconsin provision, which was close backed by thenstate Senator Russ Feingold, not exactly the most conservative of conservatives.'
-p2950
+p2934
 aS'It says,"The people have the right to keep and bear arms for security defense, hunting,recreation, or any other lawful purpose.'
-p2951
+p2935
 aS'"So that\'s what Senator Feingold was willing to say.'
-p2952
+p2936
 aS"I actually don't think that thepreamble today -- the militia clause today -- is terribly helpful."
-p2953
+p2937
 aS"If I had to re-write it, I'dprobably end up -- I wouldn't worry about the possible political blowback that mightcause even more infringement on this issue."
-p2954
+p2938
 aS'I probably would --'
-p2955
+p2939
 asg11
 S'EUGENE VOLOKH'
-p2956
+p2940
 sg16
-(lp2957
+(lp2941
 S'So let me read to you the 1998 Wisconsin provision, which was close backed by then state Senator Russ Feingold, not exactly the most conservative of conservatives.'
-p2958
+p2942
 aS'It says, "The people have the right to keep and bear arms for security defense, hunting, recreation, or any other lawful purpose.'
-p2959
+p2943
 aS'" So that\'s what Senator Feingold was willing to say.'
-p2960
+p2944
 aS"I actually don't think that the preamble today -- the militia clause today -- is terribly helpful."
-p2961
+p2945
 aS"If I had to re-write it, I'd probably end up -- I wouldn't worry about the possible political blowback that might cause even more infringement on this issue."
-p2962
+p2946
 aS'I probably would --'
-p2963
+p2947
 asg18
-(dp2964
+(dp2948
 S'20:13:02'
-p2965
+p2949
 I4
-ssa(dp2966
+ssa(dp2950
 g8
-(lp2967
+(lp2951
 S'Eugene -- just when you turn your head --'
-p2968
+p2952
 asg11
 S'JOHN DONVAN'
-p2969
+p2953
 sg16
-(lp2970
-g2968
-asa(dp2971
+(lp2954
+g2952
+asa(dp2955
 g8
-(lp2972
+(lp2956
 S'Got it.'
-p2973
+p2957
 asg11
 S'EUGENE VOLOKH'
-p2974
+p2958
 sg16
-(lp2975
-g2973
-asa(dp2976
+(lp2959
+g2957
+asa(dp2960
 g8
-(lp2977
+(lp2961
 S'-- can you be careful of the mic?'
-p2978
+p2962
 asg11
 S'JOHN DONVAN'
-p2979
+p2963
 sg16
-(lp2980
-g2978
-asa(dp2981
+(lp2964
+g2962
+asa(dp2965
 g8
-(lp2982
+(lp2966
 S"So I probably wouldn't include it."
-p2983
+p2967
 aS"And I actually wouldn't include hunting, recreation, orany other lawful purpose."
-p2984
+p2968
 aS'I think that is something that could be left to the politicalprocess.'
-p2985
+p2969
 aS'But I think the people have the right to keep and bear arms for security anddefense.'
-p2986
+p2970
 aS"I think Russell Feingold -- that's one of the few things that I'm going to agreewith Russell Feingold on."
-p2987
+p2971
 asg11
 S'EUGENE VOLOKH'
-p2988
+p2972
 sg16
-(lp2989
+(lp2973
 S"So I probably wouldn't include it."
-p2990
+p2974
 aS"And I actually wouldn't include hunting, recreation, or any other lawful purpose."
-p2991
+p2975
 aS'I think that is something that could be left to the political process.'
-p2992
+p2976
 aS'But I think the people have the right to keep and bear arms for security and defense.'
-p2993
+p2977
 aS"I think Russell Feingold -- that's one of the few things that I'm going to agree with Russell Feingold on."
-p2994
-asa(dp2995
+p2978
+asa(dp2979
 g8
-(lp2996
+(lp2980
 S"I'd like to see what the other side would say to that."
-p2997
+p2981
 aS'Sandy Levinson.'
-p2998
+p2982
 asg11
 S'JOHN DONVAN'
-p2999
+p2983
 sg16
-(lp3000
+(lp2984
 S"I'd like to see what the other side would say to that."
-p3001
+p2985
 aS'Sandy Levinson.'
-p3002
-asa(dp3003
+p2986
+asa(dp2987
 g8
-(lp3004
+(lp2988
 S'Two quick things.'
-p3005
+p2989
 aS'I like state constitutions and their ability to experiment.'
-p3006
+p2990
 aS"One of thethings I like about state constitutions is that with almost no exception, they're all easierto amend than the U.S. Constitution.So, if the good people of Wisconsin should decide in the next 10 years that maybe this istoo broad, then it's really very easy to amend the constitution."
-p3007
+p2991
 aS"One of the problemswith the United States Constitution is that it's next to impossible to amend, so that weare stuck with the language of 1787 or 1791, which you're happy to jettison."
-p3008
+p2992
 aS'But whichdoes involve, in fact, re-writing the history of the Second Amendment and re-writingwhat many people thought was the original meaning of the Second Amendment.'
-p3009
+p2993
 asg11
 S'SANFORD LEVINSON'
-p3010
+p2994
 sg13
-(dp3011
+(dp2995
 I0
 S'49'
-p3012
+p2996
 ssg16
-(lp3013
+(lp2997
 S'Two quick things.'
-p3014
+p2998
 aS'I like state constitutions and their ability to experiment.'
-p3015
+p2999
 aS"One of the things I like about state constitutions is that with almost no exception, they're all easier to amend than the U.S. Constitution."
-p3016
+p3000
 aS"So, if the good people of Wisconsin should decide in the next 10 years that maybe this is too broad, then it's really very easy to amend the constitution."
-p3017
+p3001
 aS"One of the problems with the United States Constitution is that it's next to impossible to amend, so that we are stuck with the language of 1787 or 1791, which you're happy to jettison."
-p3018
+p3002
 aS'But which does involve, in fact, re-writing the history of the Second Amendment and re-writing what many people thought was the original meaning of the Second Amendment.'
-p3019
+p3003
 asg18
-(dp3020
+(dp3004
 S'20:14:01'
-p3021
+p3005
 I3
-ssa(dp3022
+ssa(dp3006
 g8
-(lp3023
+(lp3007
 S"Right there, ma'am."
-p3024
+p3008
 asg11
 S'JOHN DONVAN'
-p3025
+p3009
 sg16
-(lp3026
-g3024
-asa(dp3027
+(lp3010
+g3008
+asa(dp3011
 g8
-(lp3028
+(lp3012
 S'Hi.'
-p3029
+p3013
 aS'My name is Stephanie, and I have a question.'
-p3030
+p3014
 aS"Does the Second Amendment protectthe right to bear unsafe or unregulated firearms as a product?And what is the government's role in ensuring that firearms are safe to use, reduceaccidents, and to -- the misuse of firearm products, especially for -- by young childrenand by minors?"
-p3031
+p3015
 asg11
 S'FEMALE SPEAKER'
-p3032
+p3016
 sg16
-(lp3033
+(lp3017
 S'Hi.'
-p3034
+p3018
 aS'My name is Stephanie, and I have a question.'
-p3035
+p3019
 aS'Does the Second Amendment protect the right to bear unsafe or unregulated firearms as a product?'
-p3036
+p3020
 aS"And what is the government's role in ensuring that firearms are safe to use, reduce accidents, and to -- the misuse of firearm products, especially for -- by young children and by minors?"
-p3037
+p3021
 asg18
-(dp3038
+(dp3022
 S'20:14:57'
-p3039
+p3023
 I2
-ssa(dp3040
+ssa(dp3024
 g8
-(lp3041
+(lp3025
 S'Thank you.'
-p3042
+p3026
 asg11
 S'JOHN DONVAN'
-p3043
+p3027
 sg16
-(lp3044
-g3042
+(lp3028
+g3026
+asa(dp3029
+g8
+(lp3030
+S'Because when you mentioned Chicago, those are kids under the age of 21.'
+p3031
+aS'Youngpeople under the age of 21.'
+p3032
+asg11
+S'FEMALE SPEAKER'
+p3033
+sg16
+(lp3034
+S'Because when you mentioned Chicago, those are kids under the age of 21.'
+p3035
+aS'Young people under the age of 21.'
+p3036
+asa(dp3037
+g8
+(lp3038
+S'That was a very, very well-focused question.'
+p3039
+aS"I'm going to -- I'm assuming it was to thisside, arguing against the motion."
+p3040
+asg11
+S'JOHN DONVAN'
+p3041
+sg16
+(lp3042
+S'That was a very, very well-focused question.'
+p3043
+aS"I'm going to -- I'm assuming it was to this side, arguing against the motion."
+p3044
 asa(dp3045
 g8
 (lp3046
-S'Because when you mentioned Chicago, those are kids under the age of 21.'
-p3047
-aS'Youngpeople under the age of 21.'
-p3048
-asg11
-S'FEMALE SPEAKER'
-p3049
-sg16
-(lp3050
-S'Because when you mentioned Chicago, those are kids under the age of 21.'
-p3051
-aS'Young people under the age of 21.'
-p3052
-asa(dp3053
-g8
-(lp3054
-S'That was a very, very well-focused question.'
-p3055
-aS"I'm going to -- I'm assuming it was to thisside, arguing against the motion."
-p3056
-asg11
-S'JOHN DONVAN'
-p3057
-sg16
-(lp3058
-S'That was a very, very well-focused question.'
-p3059
-aS"I'm going to -- I'm assuming it was to this side, arguing against the motion."
-p3060
-asa(dp3061
-g8
-(lp3062
 S'Those --'
-p3063
+p3047
 asg11
 S'DAVID KOPEL'
-p3064
+p3048
 sg16
-(lp3065
-g3063
-asa(dp3066
+(lp3049
+g3047
+asa(dp3050
 g8
-(lp3067
+(lp3051
 S'David Kopel.'
-p3068
+p3052
 asg11
 S'JOHN DONVAN'
-p3069
+p3053
 sg16
-(lp3070
-g3068
-asa(dp3071
+(lp3054
+g3052
+asa(dp3055
 g8
-(lp3072
+(lp3056
 S'Those things you mentioned are legitimate governmental purposes.'
-p3073
+p3057
 aS'And the question --if -- in pursuit of those legitimate governmental purposes, what are the particular lawswhich advance them?'
-p3074
+p3058
 aS'And do those laws significantly harm the ability of law-abidingpeople to use guns for lawful purposes?'
-p3075
+p3059
 aS'And you can look at different laws on thesesubjects.'
-p3076
+p3060
 aS"And as I'd say, some fail the test and some pass the test."
-p3077
+p3061
 asg11
 S'DAVID KOPEL'
-p3078
+p3062
 sg13
-(dp3079
+(dp3063
 I0
 S'50'
-p3080
+p3064
 ssg16
-(lp3081
+(lp3065
 S'Those things you mentioned are legitimate governmental purposes.'
-p3082
+p3066
 aS'And the question -- if -- in pursuit of those legitimate governmental purposes, what are the particular laws which advance them?'
-p3083
+p3067
 aS'And do those laws significantly harm the ability of law-abiding people to use guns for lawful purposes?'
-p3084
+p3068
 aS'And you can look at different laws on these subjects.'
-p3085
+p3069
 aS"And as I'd say, some fail the test and some pass the test."
-p3086
+p3070
 asg18
-(dp3087
+(dp3071
 S'20:15:54'
-p3088
+p3072
 I5
-ssa(dp3089
+ssa(dp3073
 g8
-(lp3090
+(lp3074
 S"And I should just say, not a single Second Amendment decision or state -- or decisionunder any of the 44 state constitutional rights to keep and bear arms contradict that orundermine the safety issue that you're raising."
-p3091
+p3075
 aS'So, if, for example, a state court imposesliability because a gun is prone to misfiring or something like that, no constitutionalproblem.'
-p3092
+p3076
 aS"There's an interesting debate as to what the proper regulatory scheme for thatis."
-p3093
+p3077
 aS'But the Second Amendment is not an obstacle because --'
-p3094
+p3078
 asg11
 S'EUGENE VOLOKH'
-p3095
+p3079
 sg16
-(lp3096
+(lp3080
 S"And I should just say, not a single Second Amendment decision or state -- or decision under any of the 44 state constitutional rights to keep and bear arms contradict that or undermine the safety issue that you're raising."
-p3097
+p3081
 aS'So, if, for example, a state court imposes liability because a gun is prone to misfiring or something like that, no constitutional problem.'
-p3098
+p3082
 aS"There's an interesting debate as to what the proper regulatory scheme for that is."
-p3099
+p3083
 aS'But the Second Amendment is not an obstacle because --'
-p3100
-asa(dp3101
+p3084
+asa(dp3085
 g8
-(lp3102
+(lp3086
 S"Well, that's what you say."
-p3103
+p3087
 aS'But just remember what --'
-p3104
+p3088
 asg11
 S'ALAN DERSHOWITZ'
-p3105
+p3089
 sg16
-(lp3106
+(lp3090
 S"Well, that's what you say."
-p3107
+p3091
 aS'But just remember what --'
-p3108
-asa(dp3109
+p3092
+asa(dp3093
 g8
-(lp3110
+(lp3094
 S'Alan Dershowitz.'
-p3111
+p3095
 asg11
 S'JOHN DONVAN'
-p3112
+p3096
 sg16
-(lp3113
-g3111
-asa(dp3114
+(lp3097
+g3095
+asa(dp3098
 g8
-(lp3115
+(lp3099
 S'-- David said.'
-p3116
+p3100
 aS"David said that he's going to mount a Second Amendment constitutionalchallenge to New York's law that prevents you from taking your gun out of the state."
-p3117
+p3101
 aS"So,there's always the threat, if there's a constitutional amendment, that every regulationwill be challenged."
-p3118
+p3102
 aS'The NRA thinks everything is unconstitutional -- locks on guns, safetyprovisions for guns, making sure guns are stored properly.'
-p3119
+p3103
 aS'The NRA can make aconstitutional argument against any reasonable regulation.'
-p3120
+p3104
 aS'I think every --'
-p3121
+p3105
 asg11
 S'ALAN DERSHOWITZ'
-p3122
+p3106
 sg16
-(lp3123
+(lp3107
 S'-- David said.'
-p3124
+p3108
 aS"David said that he's going to mount a Second Amendment constitutional challenge to New York's law that prevents you from taking your gun out of the state."
-p3125
+p3109
 aS"So, there's always the threat, if there's a constitutional amendment, that every regulation will be challenged."
-p3126
+p3110
 aS'The NRA thinks everything is unconstitutional -- locks on guns, safety provisions for guns, making sure guns are stored properly.'
-p3127
+p3111
 aS'The NRA can make a constitutional argument against any reasonable regulation.'
-p3128
+p3112
 aS'I think every --'
-p3129
+p3113
 asg18
-(dp3130
+(dp3114
 S'20:16:59'
-p3131
+p3115
 I6
-ssa(dp3132
+ssa(dp3116
 g8
-(lp3133
+(lp3117
 S'And so could --'
-p3134
+p3118
 asg11
 S'DAVID KOPEL'
-p3135
+p3119
 sg16
-(lp3136
-g3134
-asa(dp3137
+(lp3120
+g3118
+asa(dp3121
 g8
-(lp3138
+(lp3122
 S'-- body has to --'
-p3139
+p3123
 asg11
 S'ALAN DERSHOWITZ'
-p3140
+p3124
 sg16
-(lp3141
-g3139
-asa(dp3142
+(lp3125
+g3123
+asa(dp3126
 g8
-(lp3143
+(lp3127
 S'-- the ACLU.'
-p3144
+p3128
 asg11
 S'DAVID KOPEL'
-p3145
+p3129
 sg16
-(lp3146
-g3144
-asa(dp3147
+(lp3130
+g3128
+asa(dp3131
 g8
-(lp3148
+(lp3132
 S'-- admit -- everybody has to admit that if there is a constitutional amendment, thepresumption is against regulation.'
-p3149
+p3133
 aS'If there is no constitutional amendment, thepresumption is in favor of regulation.'
-p3150
+p3134
 aS"That's why we ought not to constitutionalize thisright."
-p3151
+p3135
 aS'We ought to constitutionalize the right of self-defense, but not the derivative rightof gun ownership.'
-p3152
+p3136
 asg11
 S'ALAN DERSHOWITZ'
-p3153
+p3137
 sg13
-(dp3154
+(dp3138
 I2
 S'51'
-p3155
+p3139
 ssg16
-(lp3156
+(lp3140
 S'-- admit -- everybody has to admit that if there is a constitutional amendment, the presumption is against regulation.'
-p3157
+p3141
 aS'If there is no constitutional amendment, the presumption is in favor of regulation.'
-p3158
+p3142
 aS"That's why we ought not to constitutionalize this right."
-p3159
+p3143
 aS'We ought to constitutionalize the right of self-defense, but not the derivative right of gun ownership.'
-p3160
-asa(dp3161
+p3144
+asa(dp3145
 g8
-(lp3162
+(lp3146
 S'Alan, this is like saying that the Fourth Amendment -- the problem with the FourthAmendment is that every single criminal defendant can try to argue for reading it extrabroadly and excluding all the evidence against them, and they do.'
-p3163
+p3147
 aS'And they lose.'
-p3164
+p3148
 asg11
 S'EUGENE VOLOKH'
-p3165
+p3149
 sg16
-(lp3166
+(lp3150
 S'Alan, this is like saying that the Fourth Amendment -- the problem with the Fourth Amendment is that every single criminal defendant can try to argue for reading it extra broadly and excluding all the evidence against them, and they do.'
-p3167
+p3151
 aS'And they lose.'
-p3168
+p3152
+asa(dp3153
+g8
+(lp3154
+S'They lose.'
+p3155
+asg11
+S'ALAN DERSHOWITZ'
+p3156
+sg16
+(lp3157
+g3155
+asa(dp3158
+g8
+(lp3159
+S"We judge the Fourth Amendment by how it's actually been interpreted, rather than bysome possibility that maybe it's going to be over-interpreted --"
+p3160
+asg11
+S'EUGENE VOLOKH'
+p3161
+sg16
+(lp3162
+S"We judge the Fourth Amendment by how it's actually been interpreted, rather than by some possibility that maybe it's going to be over-interpreted --"
+p3163
+asa(dp3164
+g8
+(lp3165
+S'This is just the beginning.'
+p3166
+asg11
+S'ALAN DERSHOWITZ'
+p3167
+sg16
+(lp3168
+g3166
 asa(dp3169
 g8
 (lp3170
-S'They lose.'
+S'The Second Amendment?'
 p3171
-asg11
-S'ALAN DERSHOWITZ'
+aS'No.'
 p3172
-sg16
-(lp3173
-g3171
-asa(dp3174
-g8
-(lp3175
-S"We judge the Fourth Amendment by how it's actually been interpreted, rather than bysome possibility that maybe it's going to be over-interpreted --"
-p3176
-asg11
-S'EUGENE VOLOKH'
-p3177
-sg16
-(lp3178
-S"We judge the Fourth Amendment by how it's actually been interpreted, rather than by some possibility that maybe it's going to be over-interpreted --"
-p3179
-asa(dp3180
-g8
-(lp3181
-S'This is just the beginning.'
-p3182
-asg11
-S'ALAN DERSHOWITZ'
-p3183
-sg16
-(lp3184
-g3182
-asa(dp3185
-g8
-(lp3186
-S'The Second Amendment?'
-p3187
-aS'No.'
-p3188
 aS'The right to keep and bear arms has been around -- as anindividual right --'
-p3189
+p3173
 asg11
 S'EUGENE VOLOKH'
-p3190
+p3174
 sg16
-(lp3191
+(lp3175
 S'The Second Amendment?'
-p3192
+p3176
 aS'No.'
-p3193
+p3177
 aS'The right to keep and bear arms has been around -- as an individual right --'
-p3194
-asa(dp3195
+p3178
+asa(dp3179
 g8
-(lp3196
+(lp3180
 S'10 years --'
-p3197
+p3181
 asg11
 S'ALAN DERSHOWITZ'
-p3198
+p3182
 sg16
-(lp3199
-g3197
-asa(dp3200
+(lp3183
+g3181
+asa(dp3184
 g8
-(lp3201
+(lp3185
 S'-- since 1776, at the state level --'
-p3202
+p3186
 asg11
 S'EUGENE VOLOKH'
-p3203
+p3187
 sg16
-(lp3204
-g3202
-asa(dp3205
+(lp3188
+g3186
+asa(dp3189
 g8
-(lp3206
+(lp3190
 S' --'
+p3191
+asg11
+S'MALE SPEAKER'
+p3192
+sg16
+(lp3193
+g3191
+asa(dp3194
+g8
+(lp3195
+S'There are dozens -- there are dozens --'
+p3196
+asg11
+S'EUGENE VOLOKH'
+p3197
+sg16
+(lp3198
+g3196
+asa(dp3199
+g8
+(lp3200
+S' --'
+p3201
+asg11
+S'MALE SPEAKER'
+p3202
+sg16
+(lp3203
+g3201
+asa(dp3204
+g8
+(lp3205
+S'-- of court decisions from the 1800s on to the 1900s into 2000s, interpreting it.'
+p3206
+aS'None ofthem have had the effect of striking down any such laws.'
 p3207
 asg11
-S'MALE SPEAKER'
+S'EUGENE VOLOKH'
 p3208
-sg16
-(lp3209
-g3207
-asa(dp3210
-g8
-(lp3211
-S'There are dozens -- there are dozens --'
-p3212
-asg11
-S'EUGENE VOLOKH'
-p3213
-sg16
-(lp3214
-g3212
-asa(dp3215
-g8
-(lp3216
-S' --'
-p3217
-asg11
-S'MALE SPEAKER'
-p3218
-sg16
-(lp3219
-g3217
-asa(dp3220
-g8
-(lp3221
-S'-- of court decisions from the 1800s on to the 1900s into 2000s, interpreting it.'
-p3222
-aS'None ofthem have had the effect of striking down any such laws.'
-p3223
-asg11
-S'EUGENE VOLOKH'
-p3224
 sg13
-(dp3225
+(dp3209
 I2
 S'52'
-p3226
+p3210
 ssg16
-(lp3227
+(lp3211
 S'-- of court decisions from the 1800s on to the 1900s into 2000s, interpreting it.'
-p3228
+p3212
 aS'None of them have had the effect of striking down any such laws.'
-p3229
+p3213
 asg18
-(dp3230
+(dp3214
 S'20:18:03'
-p3231
+p3215
 I2
-ssa(dp3232
+ssa(dp3216
 g8
-(lp3233
+(lp3217
 S'Sir, could you come down just a few steps, so the camera can see you.'
-p3234
+p3218
 aS"You're a little bitof shadow."
-p3235
+p3219
 aS'Just three steps.'
-p3236
+p3220
 aS"That's great, sir."
-p3237
+p3221
 asg11
 S'JOHN DONVAN'
-p3238
+p3222
 sg16
-(lp3239
+(lp3223
 S'Sir, could you come down just a few steps, so the camera can see you.'
-p3240
+p3224
 aS"You're a little bit of shadow."
-p3241
+p3225
 aS'Just three steps.'
-p3242
+p3226
 aS"That's great, sir."
-p3243
-asa(dp3244
+p3227
+asa(dp3228
 g8
-(lp3245
+(lp3229
 S"My name's Eric."
-p3246
+p3230
 aS'So, my question is that -- so on the campus where Staten Island Collegenow sits was Willowbrook where the state of New York interns the mentally ill childrento die.'
-p3247
+p3231
 aS"If we believe that the right of self-defense is to protect vulnerable citizens, whichyou have all said, and given that in the press, TV news, and even here tonight we'vedemonized the mentally ill, is it not a violation of the civil rights of the mentally ill tobear arms?"
-p3248
+p3232
 asg11
 S'MALE SPEAKER'
-p3249
+p3233
 sg16
-(lp3250
+(lp3234
 S"My name's Eric."
-p3251
+p3235
 aS'So, my question is that -- so on the campus where Staten Island College now sits was Willowbrook where the state of New York interns the mentally ill children to die.'
-p3252
+p3236
 aS"If we believe that the right of self-defense is to protect vulnerable citizens, which you have all said, and given that in the press, TV news, and even here tonight we've demonized the mentally ill, is it not a violation of the civil rights of the mentally ill to bear arms?"
+p3237
+asa(dp3238
+g8
+(lp3239
+S"I think it's a legitimate question."
+p3240
+aS'That is to say --'
+p3241
+asg11
+S'SANFORD LEVINSON'
+p3242
+sg16
+(lp3243
+S"I think it's a legitimate question."
+p3244
+aS'That is to say --'
+p3245
+asa(dp3246
+g8
+(lp3247
+S'Wait.'
+p3248
+aS'Are you saying is it a violation of their right to deny them the ability to bear arms?'
+p3249
+asg11
+S'JOHN DONVAN'
+p3250
+sg16
+(lp3251
+S'Wait.'
+p3252
+aS'Are you saying is it a violation of their right to deny them the ability to bear arms?'
 p3253
 asa(dp3254
 g8
 (lp3255
-S"I think it's a legitimate question."
-p3256
-aS'That is to say --'
-p3257
-asg11
-S'SANFORD LEVINSON'
-p3258
-sg16
-(lp3259
-S"I think it's a legitimate question."
-p3260
-aS'That is to say --'
-p3261
-asa(dp3262
-g8
-(lp3263
-S'Wait.'
-p3264
-aS'Are you saying is it a violation of their right to deny them the ability to bear arms?'
-p3265
-asg11
-S'JOHN DONVAN'
-p3266
-sg16
-(lp3267
-S'Wait.'
-p3268
-aS'Are you saying is it a violation of their right to deny them the ability to bear arms?'
-p3269
-asa(dp3270
-g8
-(lp3271
 S'Yes.'
-p3272
+p3256
 asg11
 S'MALE SPEAKER'
-p3273
+p3257
 sg16
-(lp3274
-g3272
-asa(dp3275
+(lp3258
+g3256
+asa(dp3259
 g8
-(lp3276
+(lp3260
 S"Justice Scalia, without presenting any argument, announced in Heller that just as MarthaStewart can be deprived of her right to self-defense, it apparently was the case that alllaws limiting the rights of mentally ill people, a notoriously accordion-like term, could belimited.I presume that all of us agree there are some mentally ill people who shouldn't beallowed close to a gun."
-p3277
+p3261
 aS'I would imagine that as a policy matter, not as a constitutionalmatter, all of us might well agree that there are some mentally ill people whom wewould, in fact, allow to have a gun if we really do take self-defense very seriously.'
-p3278
+p3262
 aS'This --what you might want is legislators, city councils, et cetera, to write very carefullegislation and tell us which is which, rather than to leave this up to judges who, quitefrankly, have no training whatsoever in discerning differences of level of mental illness,or have no training in trying to figure out what, if anything, the data actually support.'
-p3279
+p3263
 asg11
 S'SANFORD LEVINSON'
-p3280
+p3264
 sg16
-(lp3281
+(lp3265
 S'Justice Scalia, without presenting any argument, announced in Heller that just as Martha Stewart can be deprived of her right to self-defense, it apparently was the case that all laws limiting the rights of mentally ill people, a notoriously accordion-like term, could be limited.'
-p3282
+p3266
 aS"I presume that all of us agree there are some mentally ill people who shouldn't be allowed close to a gun."
-p3283
+p3267
 aS'I would imagine that as a policy matter, not as a constitutional matter, all of us might well agree that there are some mentally ill people whom we would, in fact, allow to have a gun if we really do take self-defense very seriously.'
-p3284
+p3268
 aS'This -- what you might want is legislators, city councils, et cetera, to write very careful legislation and tell us which is which, rather than to leave this up to judges who, quite frankly, have no training whatsoever in discerning differences of level of mental illness, or have no training in trying to figure out what, if anything, the data actually support.'
-p3285
+p3269
 asg18
-(dp3286
+(dp3270
 S'20:19:59'
-p3287
+p3271
 I12
 sS'20:19:07'
-p3288
+p3272
 I4
-ssa(dp3289
+ssa(dp3273
 g8
-(lp3290
+(lp3274
 S'Would the other side like to respond?'
-p3291
+p3275
 asg11
 S'JOHN DONVAN'
-p3292
+p3276
 sg13
-(dp3293
+(dp3277
 I1
 S'53'
-p3294
+p3278
 ssg16
-(lp3295
-g3291
-asa(dp3296
+(lp3279
+g3275
+asa(dp3280
 g8
-(lp3297
+(lp3281
 S"Sandy, that's exactly what Justice Scalia's opinion does, is he basically says that in termsof gun bans for people who are mentally ill, that the Second Amendment as heinterprets it, is not going to intervene and it's going to be left to the political process.Now, the Gun Control Act of 1968, the main federal law, is a lifetime ban on gunpossession by anybody who has ever been found to be in the words of theCongressional statute, our laws, mentally defective."
-p3298
+p3282
 aS'I think that that has reflected thesomewhat prejudices of the time, and as Sandy has said, that there is -- there are somepeople -- mentally ill people on the whole are less violent than the general public.'
-p3299
+p3283
 aS"Thereis also a small subset of them who are dangerously violent and absolutely should beprohibited from possessing guns, but I would also -- I agree with you that the breadth ofthe current prohibition, I don't think, fully makes sense based on current understandingsand social science."
-p3300
+p3284
 asg11
 S'DAVID KOPEL'
-p3301
+p3285
 sg16
-(lp3302
+(lp3286
 S"Sandy, that's exactly what Justice Scalia's opinion does, is he basically says that in terms of gun bans for people who are mentally ill, that the Second Amendment as he interprets it, is not going to intervene and it's going to be left to the political process."
-p3303
+p3287
 aS'Now, the Gun Control Act of 1968, the main federal law, is a lifetime ban on gun possession by anybody who has ever been found to be in the words of the Congressional statute, our laws, mentally defective.'
-p3304
+p3288
 aS'I think that that has reflected the somewhat prejudices of the time, and as Sandy has said, that there is -- there are some people -- mentally ill people on the whole are less violent than the general public.'
-p3305
+p3289
 aS"There is also a small subset of them who are dangerously violent and absolutely should be prohibited from possessing guns, but I would also -- I agree with you that the breadth of the current prohibition, I don't think, fully makes sense based on current understandings and social science."
-p3306
+p3290
 asg18
-(dp3307
+(dp3291
 S'20:21:08'
-p3308
+p3292
 I12
-ssa(dp3309
+ssa(dp3293
 g22
-(dp3310
+(dp3294
 I1
 S'[laughter]'
-p3311
+p3295
 sI2
 S'[applause]'
-p3312
+p3296
 ssg8
-(lp3313
+(lp3297
 S"So there's a touch of agreement on this.All right."
-p3314
+p3298
 aS'And this concludes round two of this Intelligence Squared U.S. debate -- [[laughter]] -- where our motion is: The Constitutional Right to Bear Arms has Outlived its [[applause]] Usefulness.'
-p3315
+p3299
 aS"Remember we had you vote just before the debate began and immediatelyafter this closing round of closing statements we're going to have you vote a secondtime."
-p3316
+p3300
 aS'The team whose numbers have changed the most will be declared our winner.On to round three, closing statements.'
-p3317
+p3301
 aS'Each debater will make a closing statement inturn uninterrupted.'
-p3318
+p3302
 aS'They will be two minutes each.'
-p3319
+p3303
 aS'Our motion is this: TheConstitutional Right to Bear Arms has Outlived its Usefulness.'
-p3320
+p3304
 aS'And here to summarizehis position against this motion to persuade you to vote against, Eugene Volokh.'
-p3321
+p3305
 aS"He'sprofessor of law at the UCLA School of Law."
-p3322
+p3306
 asg11
 S'JOHN DONVAN'
-p3323
+p3307
 sg16
-(lp3324
+(lp3308
 S"So there's a touch of agreement on this."
-p3325
+p3309
 aS'All right.'
-p3326
+p3310
 aS'And this concludes round two of this Intelligence Squared U.S. debate -- -- where our motion is: The Constitutional Right to Bear Arms has Outlived its Usefulness.'
-p3327
+p3311
 aS"Remember we had you vote just before the debate began and immediately after this closing round of closing statements we're going to have you vote a second time."
-p3328
+p3312
 aS'The team whose numbers have changed the most will be declared our winner.'
-p3329
+p3313
 aS'On to round three, closing statements.'
-p3330
+p3314
 aS'Each debater will make a closing statement in turn uninterrupted.'
-p3331
+p3315
 aS'They will be two minutes each.'
-p3332
+p3316
 aS'Our motion is this: The Constitutional Right to Bear Arms has Outlived its Usefulness.'
-p3333
+p3317
 aS'And here to summarize his position against this motion to persuade you to vote against, Eugene Volokh.'
-p3334
+p3318
 aS"He's professor of law at the UCLA School of Law."
-p3335
+p3319
 asg18
-(dp3336
+(dp3320
 S'20:21:54'
-p3337
+p3321
 I11
-ssa(dp3338
+ssa(dp3322
 g22
-(dp3339
+(dp3323
 I15
 S'[laughter]'
-p3340
+p3324
 ssg11
 S'EUGENE VOLOKH'
-p3341
+p3325
 sg16
-(lp3342
+(lp3326
 S"So, we've heard all sorts of things about death, about assassination, about futility."
-p3343
+p3327
 aS'I want to end this on a cheerful note.'
-p3344
+p3328
 aS'I want to tell you about some good news.'
-p3345
+p3329
 aS'So, from 1993 on, the size -- the amount of guns in America increased from 200 million to probably about 300 million.'
-p3346
+p3330
 aS"Now, you might think that's good news or not, but that's not what I'm claiming is good news."
-p3347
+p3331
 aS"Likewise, or since from the mid -- in the mid-'80s about 10 states, any law abiding adult could carry a gun concealed on his person just by getting a license, except for one of the 10, you didnt even need a license."
-p3348
+p3332
 aS'That state, it turns out, was Vermont.'
-p3349
+p3333
 aS'Now that number is over 40.'
-p3350
+p3334
 aS"During that time, and I'm not going to say -- I'm not making a causal claim here, I will tell you the claim I'm making in a moment."
-p3351
+p3335
 aS'During that time, the homicide rate and the firearms homicide rate, basically fell by a factor of two.'
-p3352
+p3336
 aS'The general violent crime rate and the gun violent crime rate basically fell by a factor of roughly three to four.'
-p3353
+p3337
 aS'I will tell you, the number -- it was so shocking, I thought it was just nonsense spread on the Internet.'
-p3354
+p3338
 aS"But if it is, it's spread on the Internet by the Bureau of Justice Statistics, so that gives it some special claim as nonsense goes."
-p3355
+p3339
 aS"So -- -- I think it's probably not nonsense."
-p3356
+p3340
 aS'The serious violent crime with guns against youths, age 12 to 17, fell by a factor of 20 -- by 95 percent.'
-p3357
+p3341
 aS"Now, I'm not saying that the growing gun stock caused-- that's -- there's actually a hot debate about that -- I don't know what the right answer is."
-p3358
+p3342
 aS'But it seems to have happened in spite of the growing gun stock.'
-p3359
+p3343
 aS"We'd think, if some of the arguments we've heard are correct, the result would have been vast amount of bloodshed."
-p3360
+p3344
 aS"It hasn't been."
-p3361
+p3345
 aS'Something worked.'
-p3362
+p3346
 aS"We don't know what."
-p3363
+p3347
 aS'Nobody really quite knows what.'
-p3364
+p3348
 aS'But something has caused this tremendous and sustained decline of crime.'
-p3365
+p3349
 aS'We should be looking to see what that was.'
-p3366
+p3350
 aS"It wasn't gun control, maybe it wasn't gun de-control."
-p3367
+p3351
 aS'It was something.'
-p3368
+p3352
 aS"That's --"
-p3369
+p3353
 asg18
-(dp3370
+(dp3354
 S'20:22:57'
-p3371
+p3355
 I11
 sS'20:24:00'
-p3372
+p3356
 I24
 ssg8
-(lp3373
+(lp3357
 S"So, we've heard all sorts of things about death, about assassination, about futility."
-p3374
+p3358
 aS'Iwant to end this on a cheerful note.'
-p3375
+p3359
 aS'I want to tell you about some good news.'
-p3376
+p3360
 aS'So, from1993 on, the size -- the amount of guns in America increased from 200 million toprobably about 300 million.'
-p3377
+p3361
 aS"Now, you might think that's good news or not, but that'snot what I'm claiming is good news."
-p3378
+p3362
 aS"Likewise, or since from the mid -- in the mid-'80sabout 10 states, any law abiding adult could carry a gun concealed on his person just bygetting a license, except for one of the 10, you didnt even need a license."
-p3379
+p3363
 aS'That state, itturns out, was Vermont.'
-p3380
+p3364
 aS'Now that number is over 40.'
-p3381
+p3365
 aS"During that time, and I'm notgoing to say -- I'm not making a causal claim here, I will tell you the claim I'm making in amoment."
-p3382
+p3366
 aS'During that time, the homicide rate and the firearms homicide rate, basicallyfell by a factor of two.The general violent crime rate and the gun violent crime rate basically fell by a factor ofroughly three to four.'
-p3383
+p3367
 aS'I will tell you, the number -- it was so shocking, I thought it wasjust nonsense spread on the Internet.'
-p3384
+p3368
 aS"But if it is, it's spread on the Internet by theBureau of Justice Statistics, so that gives it some special claim as nonsense goes."
-p3385
+p3369
 aS"So -- -- I think it's probably not nonsense."
-p3386
+p3370
 aS'The serious violent crime with guns against youths, [[laughter]] age 12 to 17, fell by a factor of 20 -- by 95 percent.'
-p3387
+p3371
 aS"Now, I'm not saying that the growinggun stock caused-- that's -- there's actually a hot debate about that -- I don't know whatthe right answer is."
-p3388
+p3372
 aS"But it seems to have happened in spite of the growing gun stock.We'd think, if some of the arguments we've heard are correct, the result would havebeen vast amount of bloodshed."
-p3389
+p3373
 aS"It hasn't been."
-p3390
+p3374
 aS'Something worked.'
-p3391
+p3375
 aS"We don't knowwhat."
-p3392
+p3376
 aS'Nobody really quite knows what.'
-p3393
+p3377
 aS'But something has caused this tremendous andsustained decline of crime.'
-p3394
+p3378
 aS'We should be looking to see what that was.'
-p3395
+p3379
 aS"It wasn't guncontrol, maybe it wasn't gun de-control."
-p3396
+p3380
 aS'It was something.'
-p3397
+p3381
 aS"That's --"
-p3398
+p3382
 asg13
-(dp3399
+(dp3383
 I5
 S'54'
-p3400
-ssa(dp3401
+p3384
+ssa(dp3385
 g8
-(lp3402
+(lp3386
 S'Eugene Volokh.'
-p3403
+p3387
 asg11
 S'JOHN DONVAN'
-p3404
+p3388
 sg16
-(lp3405
-g3403
-asa(dp3406
+(lp3389
+g3387
+asa(dp3390
 g8
-(lp3407
+(lp3391
 S'-- what we should be thinking about --'
-p3408
+p3392
 asg11
 S'EUGENE VOLOKH'
-p3409
+p3393
 sg16
-(lp3410
-g3408
-asa(dp3411
+(lp3394
+g3392
+asa(dp3395
 g8
-(lp3412
+(lp3396
 S'Thank you very much.'
+p3397
+asg11
+S'JOHN DONVAN'
+p3398
+sg16
+(lp3399
+g3397
+asa(dp3400
+g8
+(lp3401
+S'-- and not guns.'
+p3402
+asg11
+S'EUGENE VOLOKH'
+p3403
+sg16
+(lp3404
+g3402
+asa(dp3405
+g22
+(dp3406
+I1
+S'[applause]'
+p3407
+ssg8
+(lp3408
+S'Your time is up.'
+p3409
+aS'Thank you.'
+p3410
+aS'Eugene Volokh.Our motion is: The Constitutional Right to Bear Arms Has Outlived its Usefulness.'
+p3411
+aS'And [[applause]] here to summarize his position in support of this motion, to persuade you to vote for it,Sanford Levinson, author of "Framed: America\'s 51 Constitutions and the Crisis ofGovernance" and a professor of government and professor of law at the University ofTexas in Austin.'
+p3412
+aS'Sanford Levinson.'
 p3413
 asg11
 S'JOHN DONVAN'
 p3414
-sg16
-(lp3415
-g3413
-asa(dp3416
-g8
-(lp3417
-S'-- and not guns.'
-p3418
-asg11
-S'EUGENE VOLOKH'
-p3419
-sg16
-(lp3420
-g3418
-asa(dp3421
-g22
-(dp3422
-I1
-S'[applause]'
-p3423
-ssg8
-(lp3424
-S'Your time is up.'
-p3425
-aS'Thank you.'
-p3426
-aS'Eugene Volokh.Our motion is: The Constitutional Right to Bear Arms Has Outlived its Usefulness.'
-p3427
-aS'And [[applause]] here to summarize his position in support of this motion, to persuade you to vote for it,Sanford Levinson, author of "Framed: America\'s 51 Constitutions and the Crisis ofGovernance" and a professor of government and professor of law at the University ofTexas in Austin.'
-p3428
-aS'Sanford Levinson.'
-p3429
-asg11
-S'JOHN DONVAN'
-p3430
 sg13
-(dp3431
+(dp3415
 I1
 S'55'
-p3432
+p3416
 ssg16
-(lp3433
+(lp3417
 S'Your time is up.'
-p3434
+p3418
 aS'Thank you.'
-p3435
+p3419
 aS'Eugene Volokh.'
-p3436
+p3420
 aS'Our motion is: The Constitutional Right to Bear Arms Has Outlived its Usefulness.'
-p3437
+p3421
 aS'And here to summarize his position in support of this motion, to persuade you to vote for it, Sanford Levinson, author of "Framed: America\'s 51 Constitutions and the Crisis of Governance" and a professor of government and professor of law at the University of Texas in Austin.'
-p3438
+p3422
 aS'Sanford Levinson.'
-p3439
-asa(dp3440
+p3423
+asa(dp3424
 g22
-(dp3441
+(dp3425
 I13
 S'[laughter]'
-p3442
+p3426
 ssg8
-(lp3443
+(lp3427
 S'All right.'
-p3444
+p3428
 aS"It's no surprise that my friend Eugene Volokh makes very, very powerful,eloquent arguments about the public policy of gun control."
-p3445
+p3429
 aS"But that's not what we'redebating this evening."
-p3446
+p3430
 aS'The question is to what extent any particular policy should beconstitutionalized, which at the national level, means that it\'s close to written in stoneand impervious to any change in the future.And I really do think when you vote, that ought to be the principal question you\'reasking, not whether you believe a particular policy in 2013 makes sense, because if youconstitutionalize it, you also have to say, "It\'s going to make sense in 2023, 2033, and adinfinitum.'
-p3447
+p3431
 aS'" Secondly, I think David Kopel used interestingly different language atdifferent points in his argument.'
-p3448
+p3432
 aS'And he, too, has made very capable arguments.'
-p3449
+p3433
 aS"I don'tknow him so well as I know Eugene, so you shouldn't take anything amiss when I don'trefer to him as my friend."
-p3450
+p3434
 aS"I've known Eugene, you know ---- since he was a child, almost."
-p3451
+p3435
 aS'But --'
-p3452
+p3436
 asg11
 S'SANFORD LEVINSON'
-p3453
+p3437
 sg16
-(lp3454
+(lp3438
 S'All right.'
-p3455
+p3439
 aS"It's no surprise that my friend Eugene Volokh makes very, very powerful, eloquent arguments about the public policy of gun control."
-p3456
+p3440
 aS"But that's not what we're debating this evening."
-p3457
+p3441
 aS"The question is to what extent any particular policy should be constitutionalized, which at the national level, means that it's close to written in stone and impervious to any change in the future."
-p3458
+p3442
 aS'And I really do think when you vote, that ought to be the principal question you\'re asking, not whether you believe a particular policy in 2013 makes sense, because if you constitutionalize it, you also have to say, "It\'s going to make sense in 2023, 2033, and ad infinitum.'
-p3459
+p3443
 aS'" Secondly, I think David Kopel used interestingly different language at different points in his argument.'
-p3460
+p3444
 aS'And he, too, has made very capable arguments.'
-p3461
+p3445
 aS"I don't know him so well as I know Eugene, so you shouldn't take anything amiss when I don't refer to him as my friend."
-p3462
+p3446
 aS"I've known Eugene, you know -- -- since he was a child, almost."
-p3463
+p3447
 aS'But --'
-p3464
+p3448
 asg18
-(dp3465
+(dp3449
 S'20:24:55'
-p3466
+p3450
 I5
-ssa(dp3467
+ssa(dp3451
 g8
-(lp3468
+(lp3452
 S'He was very bright.'
-p3469
+p3453
 asg11
 S'MALE SPEAKER'
-p3470
+p3454
 sg16
-(lp3471
-g3469
-asa(dp3472
+(lp3455
+g3453
+asa(dp3456
 g8
-(lp3473
+(lp3457
 S"-- at one point, David said that -- I think it was Washington's policy -- no rational personcould agree with it."
-p3474
+p3458
 asg11
 S'SANFORD LEVINSON'
-p3475
+p3459
 sg16
-(lp3476
+(lp3460
 S"-- at one point, David said that -- I think it was Washington's policy -- no rational person could agree with it."
-p3477
+p3461
 asg18
-(dp3478
+(dp3462
 S'20:25:55'
-p3479
+p3463
 I2
-ssa(dp3480
+ssa(dp3464
 g8
-(lp3481
+(lp3465
 S'That was New York City --'
-p3482
+p3466
 asg11
 S'DAVID KOPEL'
-p3483
+p3467
 sg16
-(lp3484
-g3482
-asa(dp3485
+(lp3468
+g3466
+asa(dp3469
 g8
-(lp3486
+(lp3470
 S'Oh, okay.'
-p3487
+p3471
 aS"New York-- it really doesn't matter."
-p3488
+p3472
 asg11
 S'SANFORD LEVINSON'
-p3489
+p3473
 sg13
-(dp3490
+(dp3474
 I1
 S'56'
-p3491
+p3475
 ssg16
-(lp3492
+(lp3476
 S'Oh, okay.'
-p3493
+p3477
 aS"New York-- it really doesn't matter."
-p3494
-asa(dp3495
+p3478
+asa(dp3479
 g8
-(lp3496
+(lp3480
 S'These are uninterrupted.'
-p3497
+p3481
 asg11
 S'JOHN DONVAN'
-p3498
+p3482
 sg16
-(lp3499
-g3497
-asa(dp3500
+(lp3483
+g3481
+asa(dp3484
 g8
-(lp3501
+(lp3485
 S'Now, I really --'
-p3502
+p3486
 asg11
 S'SANFORD LEVINSON'
-p3503
+p3487
 sg16
-(lp3504
-g3502
-asa(dp3505
+(lp3488
+g3486
+asa(dp3489
 g8
-(lp3506
+(lp3490
 S' --'
-p3507
+p3491
 asg11
 S'JOHN DONVAN'
-p3508
+p3492
 sg16
-(lp3509
-g3507
-asa(dp3510
+(lp3493
+g3491
+asa(dp3494
 g8
-(lp3511
+(lp3495
 S"-- don't think it's the case that you have to be a lunatic to agree with MichaelBloomberg."
-p3512
+p3496
 aS"Maybe he's got the wrong policy."
-p3513
+p3497
 aS'But it seems to me that the rationality test-- at least the way that lawyers use it -- really does require that you believe the otherside is truly lunatic.'
-p3514
+p3498
 aS'But what was telling is that in his more recent comment, he said, ineffect, that there are legitimate reasons for -- there are reasonable people whodisagree.'
-p3515
+p3499
 aS'And --'
-p3516
+p3500
 asg11
 S'SANFORD LEVINSON'
-p3517
+p3501
 sg16
-(lp3518
+(lp3502
 S"-- don't think it's the case that you have to be a lunatic to agree with Michael Bloomberg."
-p3519
+p3503
 aS"Maybe he's got the wrong policy."
-p3520
+p3504
 aS'But it seems to me that the rationality test -- at least the way that lawyers use it -- really does require that you believe the other side is truly lunatic.'
-p3521
+p3505
 aS'But what was telling is that in his more recent comment, he said, in effect, that there are legitimate reasons for -- there are reasonable people who disagree.'
-p3522
+p3506
 aS'And --'
-p3523
-asa(dp3524
+p3507
+asa(dp3508
 g8
-(lp3525
+(lp3509
 S"Sanford Levinson, I'm sorry, your time is up --"
-p3526
+p3510
 asg11
 S'JOHN DONVAN'
-p3527
+p3511
 sg16
-(lp3528
-g3526
-asa(dp3529
+(lp3512
+g3510
+asa(dp3513
 g8
-(lp3530
+(lp3514
 S'-- we can --'
-p3531
+p3515
 asg11
 S'SANFORD LEVINSON'
-p3532
+p3516
 sg16
-(lp3533
-g3531
-asa(dp3534
+(lp3517
+g3515
+asa(dp3518
 g8
-(lp3535
+(lp3519
 S'Thank you.'
-p3536
+p3520
 asg11
 S'JOHN DONVAN'
-p3537
+p3521
 sg16
-(lp3538
-g3536
-asa(dp3539
+(lp3522
+g3520
+asa(dp3523
 g8
-(lp3540
+(lp3524
 S'-- disagree.'
-p3541
+p3525
 asg11
 S'SANFORD LEVINSON'
-p3542
+p3526
 sg16
-(lp3543
-g3541
-asa(dp3544
+(lp3527
+g3525
+asa(dp3528
 g22
-(dp3545
+(dp3529
 I1
 S'[applause]'
-p3546
+p3530
 ssg8
-(lp3547
+(lp3531
 S'Our -- -- [[applause]] our motion is: The Constitutional Right to Bear Arms Has Outlived its Usefulness.'
-p3548
+p3532
 aS'Andhere to summarize his position against this motion, David Kopel, Research Director atthe Independence Institute and Associate Policy Analyst at the Cato Institute.'
+p3533
+asg11
+S'JOHN DONVAN'
+p3534
+sg16
+(lp3535
+S'Our -- -- our motion is: The Constitutional Right to Bear Arms Has Outlived its Usefulness.'
+p3536
+aS'And here to summarize his position against this motion, David Kopel, Research Director at the Independence Institute and Associate Policy Analyst at the Cato Institute.'
+p3537
+asg18
+(dp3538
+S'20:26:50'
+p3539
+I5
+ssa(dp3540
+g8
+(lp3541
+S'Professor Dershowitz wants to re-litigate the constitutionality of the Civil War.'
+p3542
+aS'Well,that settled, actually, the question that we have for tonight in our political process.'
+p3543
+aS'As of1850, the Bill of Rights, as interpreted by federal courts, was only a limit on the federalgovernment and did not apply to the states.'
+p3544
+aS'And then we had the Civil War, and theterrible violations of the rights of the freedman that happened after the Civil War, whenthe southern states abolished slavery in name, but tried to keep the freedmen in defacto servitude and subjugation by saying they could only have public assemblies whenthey got special permission, and by saying they needed special permission, if ever, thatthey could possess firearms for protection.'
+p3545
+aS"And again, that was part of the Ku Klux Klan'sstrategy of disarming them."
+p3546
+aS'The country recognized that not only were the oppressionsof the freedmen under these black codes -- the new slave codes -- human rightsviolations in themselves, but that the lack of civil liberty in the south had been one ofthe important causes of the war, because it led to the suppression of speech, criticizingslavery, and poisoned the political dialogue there.And so, the country said we love diversity, we love the vastness of our country and thedifferent state experimentations, but some experiments are so dangerous that they leadto catastrophe and we tried the experiment of saying well just leave it up to stategovernments to protect civil liberties.'
+p3547
+aS'Thats not enough.'
+p3548
+aS'We need to set a nationalbaseline on human rights and the 14th Amendment was enacted to make the Bill ofRights, including especially the First and Second Amendments, applicable to the states.The baseline of the Second Amendment does not outlaw all gun control, and it allowsMontana to go much further in protecting gun rights than New York City does, but itsays everywhere that there are American citizens every government must respect thebaseline of the fundamental civil rights contained in our Bill of Rights.'
 p3549
 asg11
-S'JOHN DONVAN'
-p3550
-sg16
-(lp3551
-S'Our -- -- our motion is: The Constitutional Right to Bear Arms Has Outlived its Usefulness.'
-p3552
-aS'And here to summarize his position against this motion, David Kopel, Research Director at the Independence Institute and Associate Policy Analyst at the Cato Institute.'
-p3553
-asg18
-(dp3554
-S'20:26:50'
-p3555
-I5
-ssa(dp3556
-g8
-(lp3557
-S'Professor Dershowitz wants to re-litigate the constitutionality of the Civil War.'
-p3558
-aS'Well,that settled, actually, the question that we have for tonight in our political process.'
-p3559
-aS'As of1850, the Bill of Rights, as interpreted by federal courts, was only a limit on the federalgovernment and did not apply to the states.'
-p3560
-aS'And then we had the Civil War, and theterrible violations of the rights of the freedman that happened after the Civil War, whenthe southern states abolished slavery in name, but tried to keep the freedmen in defacto servitude and subjugation by saying they could only have public assemblies whenthey got special permission, and by saying they needed special permission, if ever, thatthey could possess firearms for protection.'
-p3561
-aS"And again, that was part of the Ku Klux Klan'sstrategy of disarming them."
-p3562
-aS'The country recognized that not only were the oppressionsof the freedmen under these black codes -- the new slave codes -- human rightsviolations in themselves, but that the lack of civil liberty in the south had been one ofthe important causes of the war, because it led to the suppression of speech, criticizingslavery, and poisoned the political dialogue there.And so, the country said we love diversity, we love the vastness of our country and thedifferent state experimentations, but some experiments are so dangerous that they leadto catastrophe and we tried the experiment of saying well just leave it up to stategovernments to protect civil liberties.'
-p3563
-aS'Thats not enough.'
-p3564
-aS'We need to set a nationalbaseline on human rights and the 14th Amendment was enacted to make the Bill ofRights, including especially the First and Second Amendments, applicable to the states.The baseline of the Second Amendment does not outlaw all gun control, and it allowsMontana to go much further in protecting gun rights than New York City does, but itsays everywhere that there are American citizens every government must respect thebaseline of the fundamental civil rights contained in our Bill of Rights.'
-p3565
-asg11
 S'DAVID KOPEL'
-p3566
+p3550
 sg13
-(dp3567
+(dp3551
 I0
 S'57'
-p3568
+p3552
 ssg16
-(lp3569
+(lp3553
 S'Professor Dershowitz wants to re-litigate the constitutionality of the Civil War.'
-p3570
+p3554
 aS'Well, that settled, actually, the question that we have for tonight in our political process.'
-p3571
+p3555
 aS'As of 1850, the Bill of Rights, as interpreted by federal courts, was only a limit on the federal government and did not apply to the states.'
-p3572
+p3556
 aS'And then we had the Civil War, and the terrible violations of the rights of the freedman that happened after the Civil War, when the southern states abolished slavery in name, but tried to keep the freedmen in de facto servitude and subjugation by saying they could only have public assemblies when they got special permission, and by saying they needed special permission, if ever, that they could possess firearms for protection.'
-p3573
+p3557
 aS"And again, that was part of the Ku Klux Klan's strategy of disarming them."
-p3574
+p3558
 aS'The country recognized that not only were the oppressions of the freedmen under these black codes -- the new slave codes -- human rights violations in themselves, but that the lack of civil liberty in the south had been one of the important causes of the war, because it led to the suppression of speech, criticizing slavery, and poisoned the political dialogue there.'
-p3575
+p3559
 aS'And so, the country said we love diversity, we love the vastness of our country and the different state experimentations, but some experiments are so dangerous that they lead to catastrophe and we tried the experiment of saying well just leave it up to state governments to protect civil liberties.'
-p3576
+p3560
 aS'Thats not enough.'
-p3577
+p3561
 aS'We need to set a national baseline on human rights and the 14th Amendment was enacted to make the Bill of Rights, including especially the First and Second Amendments, applicable to the states.'
-p3578
+p3562
 aS'The baseline of the Second Amendment does not outlaw all gun control, and it allows Montana to go much further in protecting gun rights than New York City does, but it says everywhere that there are American citizens every government must respect the baseline of the fundamental civil rights contained in our Bill of Rights.'
-p3579
+p3563
 asg18
-(dp3580
+(dp3564
 S'20:28:54'
-p3581
+p3565
 I24
 sS'20:28:05'
-p3582
+p3566
 I14
-ssa(dp3583
+ssa(dp3567
 g22
-(dp3584
+(dp3568
 I1
 S'[applause]'
-p3585
+p3569
 ssg8
-(lp3586
+(lp3570
 S'Thank you, David Kopel.Our motion: The Constitutional Right to Bear Arms has Outlived its Usefulness; and here [[applause]] to summarize his position for the motion, Alan Dershowitz, professor of law at HarvardLaw School.'
-p3587
+p3571
 asg11
 S'JOHN DONVAN'
-p3588
+p3572
 sg16
-(lp3589
+(lp3573
 S'Thank you, David Kopel.'
-p3590
+p3574
 aS'Our motion: The Constitutional Right to Bear Arms has Outlived its Usefulness; and here to summarize his position for the motion, Alan Dershowitz, professor of law at Harvard Law School.'
-p3591
-asa(dp3592
+p3575
+asa(dp3576
 g22
-(dp3593
+(dp3577
 I22
 S'[applause]'
-p3594
+p3578
 ssg11
 S'ALAN DERSHOWITZ'
-p3595
+p3579
 sg16
-(lp3596
+(lp3580
 S'I ask you to vote for the motion based largely on what Professor Volokh has brilliantly argued.'
-p3597
+p3581
 aS'He has conceded that he wouldnt include a militia in his model Bill of Rights.'
-p3598
+p3582
 aS'He also has conceded that he wouldnt constitutionalize the right of hunting.'
-p3599
+p3583
 aS'By making those two arguments, he has conceded the basic proposition: that the Second Amendment the way its currently written is anachronistic and has outlived its usefulness.'
-p3600
+p3584
 aS'He would substitute another amendment for that, an amendment much like the one that he said was passed in Wisconsin.'
-p3601
+p3585
 aS'It seems to me that they have conceded away the basic argument, namely that the Second Amendment as written is anachronistic.'
-p3602
+p3586
 aS'Whats left?'
-p3603
+p3587
 aS'Whats left is: do we really want militia groups that are armed today, and armed under the Second Amendment, to have the right to confront our government and try to conduct yet another revolution of the kind that we had back in the American Revolution and the Civil War?'
-p3604
+p3588
 aS'It seems to me the answer to that is quite clearly no.'
-p3605
+p3589
 aS'Sigmund Freud had a very famous statement back 100 years ago in which he said, The first human who hurled an insult instead of a stone was the founder of civilization.'
-p3606
+p3590
 aS'The First Amendment protects insults.'
-p3607
+p3591
 aS'It does not protect stones, it does not protect violence.'
-p3608
+p3592
 aS'We could live very comfortably with a First Amendment and without a Second Amendment.'
-p3609
+p3593
 aS'I dont want to amend the Bill of Rights because I worry that other things could happen, but I do want to make it very clear that the Second Amendment with its emphasis on militias and hunting, and with no mention of self-defense has outlived its usefulness.'
-p3610
+p3594
 aS'Therefore I urge you to vote yes and lets begin a debate on whether we should have an amendment protecting the right of self-defense, not the right of guns.'
-p3611
+p3595
 asg18
-(dp3612
+(dp3596
 S'20:30:58'
-p3613
+p3597
 I20
 sS'20:29:53'
-p3614
+p3598
 I9
 ssg8
-(lp3615
+(lp3599
 S'I ask you to vote for the motion based largely on what Professor Volokh has brilliantlyargued.'
-p3616
+p3600
 aS'He has conceded that he wouldnt include a militia in his model Bill of Rights.'
-p3617
+p3601
 aS'Healso has conceded that he wouldnt constitutionalize the right of hunting.'
-p3618
+p3602
 aS'By makingthose two arguments, he has conceded the basic proposition: that the SecondAmendment the way its currently written is anachronistic and has outlived itsusefulness.'
-p3619
+p3603
 aS'He would substitute another amendment for that, an amendment much likethe one that he said was passed in Wisconsin.'
-p3620
+p3604
 aS'It seems to me that they have concededaway the basic argument, namely that the Second Amendment as written isanachronistic.'
-p3621
+p3605
 aS'Whats left?Whats left is: do we really want militia groups that are armed today, and armed underthe Second Amendment, to have the right to confront our government and try toconduct yet another revolution of the kind that we had back in the American Revolutionand the Civil War?'
-p3622
+p3606
 aS'It seems to me the answer to that is quite clearly no.'
-p3623
+p3607
 aS'Sigmund Freudhad a very famous statement back 100 years ago in which he said, The first human whohurled an insult instead of a stone was the founder of civilization.'
-p3624
+p3608
 aS'The First Amendmentprotects insults.'
-p3625
+p3609
 aS'It does not protect stones, it does not protect violence.'
-p3626
+p3610
 aS'We could livevery comfortably with a First Amendment and without a Second Amendment.'
-p3627
+p3611
 aS'I dontwant to amend the Bill of Rights because I worry that other things could happen, but Ido want to make it very clear that the Second Amendment with its emphasis on militiasand hunting, and with no mention of self-defense has outlived its usefulness.Therefore I urge you to vote yes and lets begin a debate on whether we should have anamendment protecting the right of self-defense, not the right of guns.'
-p3628
+p3612
 asg13
-(dp3629
+(dp3613
 I4
 S'58'
-p3630
-ssasS'after'
-p3631
-(lp3632
-S'74%-FOR'
-p3633
-aS'22%-AGAINST'
-p3634
-aS'4%-UNDECIDED'
-p3635
-asS'against'
-p3636
-(lp3637
-S'DAVID KOPEL'
-p3638
-aS'EUGENE VOLOKH'
-p3639
-asS'moderator'
-p3640
-(lp3641
+p3614
+ssa(dp3615
+g22
+(dp3616
+I39
+S'[laughter]'
+p3617
+sI12
+S'[applause]'
+p3618
+sI18
+S'[applause]'
+p3619
+sI20
+S'[laughter]'
+p3620
+sI21
+S'[laughter]'
+p3621
+sI60
+S'[applause]'
+p3622
+sI29
+S'[laughter]'
+p3623
+ssg11
 S'JOHN DONVAN'
+p3624
+sg16
+(lp3625
+S'Thank you, Alan Dershowitz.'
+p3626
+aS'And that concludes our closing statements.'
+p3627
+aS'And now its time to learn which side has argued the best.'
+p3628
+aS'Were going to ask you again to go to the keypads at your seat and to push the button that will register your vote.'
+p3629
+aS'Remember the motion is this: The Constitutional Right to Bear Arms has Outlived its Usefulness.'
+p3630
+aS'If you now side with this motion -- with this team, push number one.'
+p3631
+aS'If you are against this motion -- if youre with this team, push number two.'
+p3632
+aS'If you became or remain undecided, push number three.'
+p3633
+aS'And well have the results in about 90 seconds from now.'
+p3634
+aS'So while thats happening, whatd Id like to do -- first of all is say that our goal in this debate was to touch on this topic, but in a way that maybe youve never heard it argued before, and to have it argued well, and I really think that we succeeded in doing that thanks to the spirit of fairness and decency -- -- all of these debaters brought to the stage.'
+p3635
+aS'And as you could see me struggling with shaping this questions and to -- were not used to framing it this way so everybody who got up and asked a question, even if I didnt take it, I appreciate that you got up and tried.'
+p3636
+aS'I can obviously sense the passion that everyone in this room feels about this issue.'
+p3637
+aS'So to everybody who asked a question and those who didnt get to, I really want to thank you as well for getting up and moving that along.'
+p3638
+aS'Wed like to have you tweet about this debate.'
+p3639
+aS'Use the twitter handle @IQ2US and #gunsdebate.'
+p3640
+aS"You can join the 43,000 NRA members who have -- -- who have -- and we say welcome to Intelligence Squared U.S. We're glad to have you."
+p3641
+aS"We're glad you discovered us."
 p3642
-asS'date'
+aS'Our next debate at the Kaufman will be on Wednesday, December 4th.'
 p3643
-(dp3644
-S'year'
+aS"The motion on that debate -- at that debate will be: Don't Eat Anything With a Face."
+p3644
+aS'For the motion, Dr. Neal Barnard.'
 p3645
-S'2013'
+aS"He's a clinical researcher who studies the effect of diet on health."
 p3646
-sS'day'
+aS'His partner is Gene Baur.'
 p3647
-S'14'
+aS'He is president and co-founder of Farm Sanctuary.'
 p3648
-sS'month'
+aS'Time Magazine calls him the "conscience of the food movement.'
 p3649
-S'November'
+aS'" Arguing against, Chris Masterjohn, who is a nutritional science researcher and proponent of the Paleo diet.'
 p3650
-ssS'before'
+aS'Anybody on that?'
 p3651
-(lp3652
-S'64%-FOR'
+aS"No, you don't have to raise your hand."
+p3652
+aS'Oh, you raised your hand.'
 p3653
-aS'18%-AGAINST'
+aS'Okay.'
 p3654
-aS'18%-UNDECIDED'
+aS"Let's all look."
 p3655
+aS'And Joel Salitan.'
+p3656
+aS'He\'s the third generation alternative farmer who was made famous in Michael Pollan\'s bestseller "The Omnivore\'s Dilemma.'
+p3657
+aS'" Next Wednesday, November 20th, we\'re going to be in Washington DC in partnership with the McCain Institute.'
+p3658
+aS'We\'re going to be debating this motion there -- "Spy on Me: I\'d Rather Be Safe.'
+p3659
+aS'" Tickets for that are free.'
+p3660
+aS'And if you get down to DC, come see us.'
+p3661
+aS'And tickets for all of our remaining fall debates are available through our website, www.IQ2US.org.'
+p3662
+aS"If you can't join our live audience, of course, you can watch us on the live stream, as I believe a lot of people were doing tonight."
+p3663
+aS'And you can listen to all of our debates, including this one, on NPR stations across the country.'
+p3664
+aS'You can check your local listings for air dates and times, and you can hear yourself applaud.'
+p3665
+aS'Make sure to visit our website for up-to-date information and follow us on Twitter and Facebook.'
+p3666
+aS'Okay.'
+p3667
+aS"And by the way, we're always open to ideas for debate topics, so you can send those in."
+p3668
+aS"We just -- you know, think of something -- in terms of something that's really vital and that really is a dichotomy of views, and send it in."
+p3669
+aS"And we're very interested in hearing those."
+p3670
+aS'Okay.'
+p3671
+aS'So, we have the final results in now.'
+p3672
+aS'Our motion is this: The Constitutional Right to Bear Arms Has Outlived its Usefulness.'
+p3673
+aS"The way we do this -- you've listened to the arguments."
+p3674
+aS'We had you vote before the debate and again after the debate.'
+p3675
+aS'And the team whose numbers have changed the most in percentage point terms will be declared our winner.'
+p3676
+aS'So, here are the results.'
+p3677
+aS'Before the debate -- on the motion The Constitutional Right to Bear Arms Has Outlived its Usefulness -- 64 percent agreed with that motion.'
+p3678
+aS'18 percent were against.'
+p3679
+aS'And 18 percent were undecided.'
+p3680
+aS'Those were the first results.'
+p3681
+aS'Remember, you have to beat the -- your starting number by more percentage points than your opponents.'
+p3682
+aS'Here now are the results of the second vote.'
+p3683
+aS'On the Constitutional Right to Bear Arms Has Outlived its Usefulness, the team arguing for the motion -- their second vote was 74 percent.'
+p3684
+aS'They went from 64 percent to 74 percent.'
+p3685
+aS'They picked up 10 percent.'
+p3686
+aS'That is the number to beat.'
+p3687
+aS'Against the motion, their vote -- now, their first vote was 18 percent.'
+p3688
+aS'Their second vote was 22 percent.'
+p3689
+aS"That's up only four percentage points."
+p3690
+aS'It means the team arguing for the motion has narrowly won this debate: The Constitutional Right to Bear Arms Has Outlived its Usefulness.'
+p3691
+aS'That motion is carried.'
+p3692
+aS'All right.'
+p3693
+aS"Congratulations to all of our debaters, and thank you from me, John Donvan, and Intelligence Squared U.S. We'll see you next time."
+p3694
+asg18
+(dp3695
+S'20:33:53'
+p3696
+I31
+sS'20:34:52'
+p3697
+I44
+sS'20:32:00'
+p3698
+I8
+sS'20:32:50'
+p3699
+I18
+sS'20:35:54'
+p3700
+I57
+ssg8
+(lp3701
+S'Thank you, Alan Dershowitz.'
+p3702
+aS'And that concludes our closing statements.'
+p3703
+aS'And now itstime to learn which side has argued the best.'
+p3704
+aS'Were going to ask you again to go to thekeypads at your seat and to push the button that will register your vote.'
+p3705
+aS'Remember themotion is this: The Constitutional Right to Bear Arms has Outlived its Usefulness.'
+p3706
+aS'If younow side with this motion -- with this team, push number one.'
+p3707
+aS'If you are against thismotion -- if youre with this team, push number two.'
+p3708
+aS'If you became or remainundecided, push number three.'
+p3709
+aS'And well have the results in about 90 seconds fromnow.So while thats happening, whatd Id like to do -- first of all is say that our goal in thisdebate was to touch on this topic, but in a way that maybe youve never heard it arguedbefore, and to have it argued well, and I really think that we succeeded in doing thatthanks to the spirit of fairness and decency ---- all of these debaters brought to the stage.'
+p3710
+aS'And as you could see me struggling with [[applause]] shaping this questions and to -- were not used to framing it this way so everybody whogot up and asked a question, even if I didnt take it, I appreciate that you got up andtried.'
+p3711
+aS'I can obviously sense the passion that everyone in this room feels about this issue.So to everybody who asked a question and those who didnt get to, I really want tothank you as well for getting up and moving that along.Wed like to have you tweet about this debate.'
+p3712
+aS'Use the twitter handle @IQ2US and [[applause]] #gunsdebate.'
+p3713
+aS"You can join the 43,000 NRA members who have ---- who have -- and we say welcome to Intelligence Squared U.S. [[laughter]] We're glad to have you."
+p3714
+aS"We're glad you discovered us."
+p3715
+aS'Our next debate at the Kaufman [[laughter]] will be on Wednesday, December 4th.'
+p3716
+aS"The motion on that debate -- at that debate willbe: Don't Eat Anything With a Face."
+p3717
+aS'For the motion, Dr. Neal Barnard.'
+p3718
+aS"He's a clinicalresearcher who studies the effect of diet on health."
+p3719
+aS'His partner is Gene Baur.'
+p3720
+aS'He ispresident and co-founder of Farm Sanctuary.'
+p3721
+aS'Time Magazine calls him the "conscienceof the food movement.'
+p3722
+aS'" Arguing against, Chris Masterjohn, who is a nutritional scienceresearcher and proponent of the Paleo diet.'
+p3723
+aS'Anybody on that?'
+p3724
+aS"No, you don't have toraise your hand."
+p3725
+aS'Oh, you raised your hand.'
+p3726
+aS"Okay.Let's all look."
+p3727
+aS'And Joel Salitan.'
+p3728
+aS'He\'s the third generation alternative farmer who was [[laughter]] made famous in Michael Pollan\'s bestseller "The Omnivore\'s Dilemma.'
+p3729
+aS'"Next Wednesday, November 20th, we\'re going to be in Washington DC in partnershipwith the McCain Institute.'
+p3730
+aS'We\'re going to be debating this motion there -- "Spy on Me:I\'d Rather Be Safe.'
+p3731
+aS'" Tickets for that are free.'
+p3732
+aS'And if you get down to DC, come see us.And tickets for all of our remaining fall debates are available through our website,www.IQ2US.org.'
+p3733
+aS"If you can't join our live audience, of course, you can watch us on thelive stream, as I believe a lot of people were doing tonight."
+p3734
+aS'And you can listen to all ofour debates, including this one, on NPR stations across the country.'
+p3735
+aS'You can check yourlocal listings for air dates and times, and you can hear yourself applaud.Make sure to visit our website for up-to-date information and follow us on Twitter and [[laughter]] Facebook.'
+p3736
+aS'Okay.'
+p3737
+aS"And by the way, we're always open to ideas for debate topics, so youcan send those in."
+p3738
+aS"We just -- you know, think of something -- in terms of somethingthat's really vital and that really is a dichotomy of views, and send it in."
+p3739
+aS"And we're veryinterested in hearing those."
+p3740
+aS'Okay.So, we have the final results in now.'
+p3741
+aS'Our motion is this: The Constitutional Right to BearArms Has Outlived its Usefulness.'
+p3742
+aS"The way we do this -- you've listened to thearguments."
+p3743
+aS'We had you vote before the debate and again after the debate.'
+p3744
+aS'And theteam whose numbers have changed the most in percentage point terms will be declaredour winner.'
+p3745
+aS'So, here are the results.'
+p3746
+aS'Before the debate -- on the motion TheConstitutional Right to Bear Arms Has Outlived its Usefulness -- 64 percent agreed withthat motion.'
+p3747
+aS'18 percent were against.'
+p3748
+aS'And 18 percent were undecided.'
+p3749
+aS'Those were thefirst results.'
+p3750
+aS'Remember, you have to beat the -- your starting number by morepercentage points than your opponents.'
+p3751
+aS'Here now are the results of the second vote.On the Constitutional Right to Bear Arms Has Outlived its Usefulness, the team arguingfor the motion -- their second vote was 74 percent.'
+p3752
+aS'They went from 64 percent to 74percent.'
+p3753
+aS'They picked up 10 percent.'
+p3754
+aS'That is the number to beat.'
+p3755
+aS'Against the motion,their vote -- now, their first vote was 18 percent.'
+p3756
+aS"Their second vote was 22 percent.That's up only four percentage points."
+p3757
+aS'It means the team arguing for the motion hasnarrowly won this debate: The Constitutional Right to Bear Arms Has Outlived itsUsefulness.That motion is carried.'
+p3758
+aS'All right.'
+p3759
+aS"Congratulations to all of our debaters, and thank you [[applause]] from me, John Donvan, and Intelligence Squared U.S. We'll see you next time."
+p3760
+asg13
+(dp3761
+I36
+S'60'
+p3762
+sI12
+S'59'
+p3763
+ssasS'after'
+p3764
+(lp3765
+S'74%-FOR'
+p3766
+aS'22%-AGAINST'
+p3767
+aS'4%-UNDECIDED'
+p3768
+asS'against'
+p3769
+(lp3770
+S'DAVID KOPEL'
+p3771
+aS'EUGENE VOLOKH'
+p3772
+asS'moderator'
+p3773
+(lp3774
+S'JOHN DONVAN'
+p3775
+asS'date'
+p3776
+(dp3777
+S'year'
+p3778
+S'2013'
+p3779
+sS'day'
+p3780
+S'14'
+p3781
+sS'month'
+p3782
+S'November'
+p3783
+ssS'before'
+p3784
+(lp3785
+S'64%-FOR'
+p3786
+aS'18%-AGAINST'
+p3787
+aS'18%-UNDECIDED'
+p3788
 as.

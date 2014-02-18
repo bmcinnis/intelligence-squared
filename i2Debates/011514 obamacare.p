@@ -7144,49 +7144,273 @@ p3418
 sg16
 (lp3419
 g3417
-asasS'after'
-p3420
-(lp3421
-S'32%-FOR'
+asa(dp3420
+g22
+(dp3421
+I1
+S'[laughter]'
 p3422
-aS'59%-AGAINST'
+sI35
+S'[applause]'
 p3423
-aS'9%-UNDECIDED'
+sI38
+S'[applause]'
 p3424
-asS'against'
+sI40
+S'[applause]'
 p3425
-(lp3426
-S'DOUGLAS KAMEROW'
+sI9
+S'[laughter]'
+p3426
+sI15
+S'[laughter]'
 p3427
-aS'JONATHAN CHAIT'
+sI17
+S'[laughter]'
 p3428
-asS'moderator'
-p3429
-(lp3430
+ssg11
 S'JOHN DONVAN'
+p3429
+sg16
+(lp3430
+S'Yeah, well, watching a live Tweet about myself sounds like something I would do.'
 p3431
-asS'date'
+aS'Wed like you all to Tweet about this debate.'
 p3432
-(dp3433
-S'year'
+aS'Use the Twitter handle @IQ2US, the hashtag is Obamacare.'
+p3433
+aS'We want to also talk about our upcoming debates.'
 p3434
-S'2014'
+aS"We've made a change to our lineup."
 p3435
-sS'day'
+aS"Our debate next month -- it's on February 12th."
 p3436
-S'15'
+aS'The topic was going to be on labor unions.'
 p3437
-sS'month'
+aS'That has been moved to our Fall 2014 debates.'
 p3438
-S'January'
+aS"Taking its place -- we're going to do it here at the Kaufman -- the motion will be Grant Snowden Clemency."
 p3439
-ssS'before'
+aS"Arguing for the motion, we'll have Ben Wizner."
 p3440
-(lp3441
-S'16%-FOR'
+aS"He is Snowden's legal adviser and director of the ACLU's speech privacy and technology project."
+p3441
+aS"He'll be for the motion."
 p3442
-aS'53%-AGAINST'
+aS'Against the motion, Ambassador James Woolsey.'
 p3443
-aS'31%-UNDECIDED'
+aS"He's Chairman of the Foundation for Defense of Democracies and former director of Central Intelligence."
 p3444
+aS'His partner, also against this motion, Andrew McCarthy, the former top federal prosecutor and contributing editor at National Review.'
+p3445
+aS'The remaining seat on that panel arguing for the motion has not been filled yet.'
+p3446
+aS'We will announce it on our website shortly.'
+p3447
+aS"It's not who you think it is -- you know -- The rest of our spring topics are these: Putin's Russia."
+p3448
+aS"We'll be doing universities and online education."
+p3449
+aS"We'll be doing millenials in the workplace."
+p3450
+aS"And we'll be doing death."
+p3451
+aS"We're going to be traveling up to Harvard shortly to debate affirmative action on campus, and to the National Constitution Center in Philadelphia, where we will be debating the targeted killing of U.S. Citizens abroad and its constitutionality."
+p3452
+aS'Tickets for all of our spring debates are on sale through our website www.iq2US.org.'
+p3453
+aS"And for those of you who can't be in our live audiences and those of you who are watching now on our website or on for a.TV -- we can be seen that way."
+p3454
+aS"And as I've said, all of these debates will be available on NPR stations across the nation."
+p3455
+aS'All right.'
+p3456
+aS'We have the final results in.'
+p3457
+aS'Our motion is this: Obamacare is now beyond rescue.'
+p3458
+aS"We've had you vote before the debate and had you vote a second time after hearing the arguments on this very motion."
+p3459
+aS'And remember, the team whose numbers have changed the most in your judgment -- in percentage point terms -- will be declared our winner.'
+p3460
+aS'So, the initial vote on the motion: Obamacare is now beyond rescue -- before the debate, 16 percent agreed with the motion.'
+p3461
+aS'53 percent were against.'
+p3462
+aS'31 percent were undecided.'
+p3463
+aS'So, those are the first results.'
+p3464
+aS'Remember, you voted a second time.'
+p3465
+aS'The winner is the one that has changed the numbers the most in percentage point terms.'
+p3466
+aS'So, here are the results of the second vote.'
+p3467
+aS'Obamacare is now beyond rescue.'
+p3468
+aS'The team arguing for the motion, their vote went to 32 percent.'
+p3469
+aS"That's an increase of 16 percentage points -- That's the number to beat."
+p3470
+aS'The team against the motion, they went from 53 percent.'
+p3471
+aS'Second vote, 59 percent.'
+p3472
+aS"That's only six percent."
+p3473
+aS'It is not enough.'
+p3474
+aS'The team arguing for the motion: Obamacare is now beyond rescue has triumphed in this debated.'
+p3475
+aS'Our congratulations to them.'
+p3476
+aS"Thank you from me, John Donvan, and Intelligence Squared U.S. We'll see you next time."
+p3477
+asg18
+(dp3478
+S'20:24:05'
+p3479
+I5
+sS'20:26:05'
+p3480
+I31
+sS'20:26:43'
+p3481
+I40
+sS'20:25:02'
+p3482
+I17
+ssg8
+(lp3483
+S'Yeah, well, watching a live Tweet about myself sounds like something I would do.Wed like you all to Tweet about this debate.'
+p3484
+aS'Use the Twitter handle @IQ2US, the [[laughter]] hashtag is Obamacare.'
+p3485
+aS'We want to also talk about our upcoming debates.'
+p3486
+aS"We've madea change to our lineup."
+p3487
+aS"Our debate next month -- it's on February 12th."
+p3488
+aS'The topic wasgoing to be on labor unions.'
+p3489
+aS"That has been moved to our Fall 2014 debates.Taking its place -- we're going to do it here at the Kaufman -- the motion will be GrantSnowden Clemency."
+p3490
+aS"Arguing for the motion, we'll have Ben Wizner."
+p3491
+aS"He is Snowden'slegal adviser and director of the ACLU's speech privacy and technology project."
+p3492
+aS"He'll befor the motion.Against the motion, Ambassador James Woolsey."
+p3493
+aS"He's Chairman of the Foundation for [[laughter]] Defense of Democracies and former director of Central Intelligence."
+p3494
+aS'His partner, alsoagainst this motion, Andrew McCarthy, the former top federal prosecutor andcontributing editor at National Review.'
+p3495
+aS'The remaining seat on that panel arguing for themotion has not been filled yet.'
+p3496
+aS'We will announce it on our website shortly.'
+p3497
+aS"It's not whoyou think it is -- you know --The rest of our spring topics are these: Putin's Russia."
+p3498
+aS"We'll be doing universities and [[laughter]] online education."
+p3499
+aS"We'll be doing millenials in the workplace."
+p3500
+aS"And we'll be doing death.We're going to be traveling up to Harvard shortly to debate affirmative action on [[laughter]] campus, and to the National Constitution Center in Philadelphia, where we will bedebating the targeted killing of U.S. Citizens abroad and its constitutionality."
+p3501
+aS'Tickets forall of our spring debates are on sale through our website www.iq2US.org.'
+p3502
+aS"And for thoseof you who can't be in our live audiences and those of you who are watching now on ourwebsite or on for a.TV -- we can be seen that way."
+p3503
+aS"And as I've said, all of these debateswill be available on NPR stations across the nation.All right."
+p3504
+aS'We have the final results in.'
+p3505
+aS'Our motion is this: Obamacare is now beyondrescue.'
+p3506
+aS"We've had you vote before the debate and had you vote a second time afterhearing the arguments on this very motion."
+p3507
+aS'And remember, the team whose numbershave changed the most in your judgment -- in percentage point terms -- will be declaredour winner.'
+p3508
+aS'So, the initial vote on the motion: Obamacare is now beyond rescue --before the debate, 16 percent agreed with the motion.'
+p3509
+aS'53 percent were against.'
+p3510
+aS'31percent were undecided.So, those are the first results.'
+p3511
+aS'Remember, you voted a second time.'
+p3512
+aS'The winner is theone that has changed the numbers the most in percentage point terms.'
+p3513
+aS'So, here are theresults of the second vote.'
+p3514
+aS'Obamacare is now beyond rescue.'
+p3515
+aS'The team arguing for themotion, their vote went to 32 percent.'
+p3516
+aS"That's an increase of 16 percentage points --That's the number to beat."
+p3517
+aS'The team against the motion, they went from 53 percent.'
+p3518
+aS'[[applause]] Second vote, 59 percent.'
+p3519
+aS"That's only six percent."
+p3520
+aS'It is not enough.'
+p3521
+aS'The team arguing forthe motion: Obamacare is now beyond rescue has triumphed in this debated.Our congratulations to them.'
+p3522
+aS"Thank you from me, John Donvan, and Intelligence [[applause]] Squared U.S. We'll see you next time."
+p3523
+asg13
+(dp3524
+I17
+S'55'
+p3525
+ssasS'after'
+p3526
+(lp3527
+S'32%-FOR'
+p3528
+aS'59%-AGAINST'
+p3529
+aS'9%-UNDECIDED'
+p3530
+asS'against'
+p3531
+(lp3532
+S'DOUGLAS KAMEROW'
+p3533
+aS'JONATHAN CHAIT'
+p3534
+asS'moderator'
+p3535
+(lp3536
+S'JOHN DONVAN'
+p3537
+asS'date'
+p3538
+(dp3539
+S'year'
+p3540
+S'2014'
+p3541
+sS'day'
+p3542
+S'15'
+p3543
+sS'month'
+p3544
+S'January'
+p3545
+ssS'before'
+p3546
+(lp3547
+S'16%-FOR'
+p3548
+aS'53%-AGAINST'
+p3549
+aS'31%-UNDECIDED'
+p3550
 as.

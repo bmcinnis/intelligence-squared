@@ -4076,1111 +4076,1108 @@ aS"Ma'am, can you tell us your name, please?"
 p1966
 aS"Oh, and if you hold -- it's already turned on."
 p1967
-aS'Katherine Ibata-Arens: Hello?'
-p1968
-aS'Can you hear me?'
-p1969
-aS"And if you hold the mic about a fist's distance from your mouth, the radio broadcast will hear it fine."
-p1970
-aS'Katherine Ibata-Arens: Hi.'
-p1971
-aS'Katherine Ibata-Arens, professor of international political economy and expert on Asian entrepreneurship from DePaul university.'
-p1972
-aS'I enjoyed this talk quite a lot.'
-p1973
-aS"I'm an alum of Northwestern, so it's a great pleasure to see Dr. Bienen who was the president while I was a doctoral candidate there."
-p1974
-aS"It's a great pleasure to be with all of you tonight."
-p1975
-aS'My question is something that has not come up in the debate, and that is social networks.'
-p1976
-aS"I do analysis of high-tech gazelles all over the world, and I find that the social networks that individual entrepreneurs obtain while they are in the K through 16 pipeline, particularly while they're at universities and/or graduate schools are absolutely critical for them getting, one, trusting business partners, their first business partners, and two, angel investments."
-p1977
-aS"So I'd like for both sides to comment on the quality of the social networks that you get while you're in university."
-p1978
-aS'Peter Thiel.'
-p1979
 asg18
-(dp1980
+(dp1968
 S'20:53:54'
-p1981
+p1969
 I14
-sS'20:54:45'
-p1982
-I31
 ssg8
-(lp1983
+(lp1970
 S'All right.'
-p1984
+p1971
 aS'Peter Thiel, thank you very much.'
-p1985
+p1972
 aS"We're going to take a break."
-p1986
+p1973
 aS"And when wecome back, we're going to go to questions from you in the audience.So I'm going to do my little bit of radio here."
-p1987
+p1974
 aS'This is one of those moments when I needyou to very spontaneously applaud when I -- exactly when I tell you to.'
-p1988
+p1975
 aS"And I'm going to-- I'm going to say a line or so, and then I'm going to -- then I'm going to say the lineagain without the applause to give the radio editors a chance to make an editingdecision on how to do that."
-p1989
+p1976
 aS'So when I raise my right hand, you can just do a round ofapplause like before, please.Our motion is too many kids go to college.'
-p1990
+p1977
 aS'This is a debate from Intelligence Squared [[applause]] U.S. We are in Chicago.'
-p1991
+p1978
 aS"We have two teams of two arguing out this motion, and nowwe're going to go to questions from the audience."
-p1992
+p1979
 aS"And I'm going to do that one moretime without the applause.Our motion is too many kids go to college."
-p1993
+p1980
 aS'This is a debate from Intelligence SquaredU.S.'
-p1994
+p1981
 aS"We are in Chicago.And now we're going to go to questions from the audience."
-p1995
+p1982
 aS'So if you can raise yourhand, a mic will come to you, and I want to encourage you to -- to -- right down in thefront will be first -- to really think in terms of a question that moves us along on thismotion and that is terse.'
-p1996
+p1983
 aS'No two-parters.'
-p1997
+p1984
 aS'And have some phrases so it really is aquestion.'
-p1998
+p1985
 aS'Thanks.'
-p1999
+p1986
 aS"Ma'am, can you tell us your name, please?"
-p2000
-aS"Oh, and if you hold -- it'salready turned on.Katherine Ibata-Arens:Hello?"
-p2001
-aS"Can you hear me?And if you hold the mic about a fist's distance from your mouth, the radio broadcast willhear it fine.Katherine Ibata-Arens:Hi."
-p2002
-aS'Katherine Ibata-Arens, professor of international political economy and expert onAsian entrepreneurship from DePaul university.'
-p2003
-aS'I enjoyed this talk quite a lot.'
-p2004
-aS"I'm analum of Northwestern, so it's a great pleasure to see Dr. Bienen who was the presidentwhile I was a doctoral candidate there."
-p2005
-aS"It's a great pleasure to be with all of you tonight.My question is something that has not come up in the debate, and that is socialnetworks.I do analysis of high-tech gazelles all over the world, and I find that the social networksthat individual entrepreneurs obtain while they are in the K through 16 pipeline,particularly while they're at universities and/or graduate schools are absolutely criticalfor them getting, one, trusting business partners, their first business partners, and two,angel investments."
-p2006
-aS"So I'd like for both sides to comment on the quality of the socialnetworks that you get while you're in university.Peter Thiel."
-p2007
+p1987
+aS"Oh, and if you hold -- it'salready turned on."
+p1988
 asg13
-(dp2008
+(dp1989
 I16
 S'31'
-p2009
-ssa(dp2010
+p1990
+ssa(dp1991
 g8
-(lp2011
-S'Well, I think -- I think the social networks are quite valuable.'
+(lp1992
+S'Hello?'
+p1993
+aS'Can you hear me?'
+p1994
+asg11
+S'KATHERINE IBATA-ARENS'
+p1995
+sg16
+(lp1996
+S'Hello?'
+p1997
+aS'Can you hear me?'
+p1998
+asa(dp1999
+g8
+(lp2000
+S"And if you hold the mic about a fist's distance from your mouth, the radio broadcast willhear it fine."
+p2001
+asg11
+S'JOHN DONVAN'
+p2002
+sg16
+(lp2003
+S"And if you hold the mic about a fist's distance from your mouth, the radio broadcast will hear it fine."
+p2004
+asa(dp2005
+g8
+(lp2006
+S'Hi.'
+p2007
+aS'Katherine Ibata-Arens, professor of international political economy and expert onAsian entrepreneurship from DePaul university.'
+p2008
+aS'I enjoyed this talk quite a lot.'
+p2009
+aS"I'm analum of Northwestern, so it's a great pleasure to see Dr. Bienen who was the presidentwhile I was a doctoral candidate there."
+p2010
+aS"It's a great pleasure to be with all of you tonight.My question is something that has not come up in the debate, and that is socialnetworks.I do analysis of high-tech gazelles all over the world, and I find that the social networksthat individual entrepreneurs obtain while they are in the K through 16 pipeline,particularly while they're at universities and/or graduate schools are absolutely criticalfor them getting, one, trusting business partners, their first business partners, and two,angel investments."
+p2011
+aS"So I'd like for both sides to comment on the quality of the socialnetworks that you get while you're in university."
 p2012
-aS"It's still not clear that itjustifies charging a quarter million."
+asg11
+S'KATHERINE IBATA-ARENS'
 p2013
-aS'I think the social networks tend to be the mostvaluable only at the elite colleges.'
-p2014
-aS'Once you go below that level, they actually functionin a way where people, again, do not have access.'
+sg16
+(lp2014
+S'Hi.'
 p2015
-aS'So I think you have a very ambiguousaspect about how it works.'
+aS'Katherine Ibata-Arens, professor of international political economy and expert on Asian entrepreneurship from DePaul university.'
 p2016
-aS'In practice, in Silicon Valley, most of the companies do getstarted by people who are a few years out of college.'
+aS'I enjoyed this talk quite a lot.'
 p2017
-aS"And I tend to think that when Istarted PayPal, there were some people I brought in from Stanford, but I started with acolleague who--we met in a different social context in Silicon Valley.And we'd gone to different schools, so it ended up being somewhat -- my ownexperience was different."
+aS"I'm an alum of Northwestern, so it's a great pleasure to see Dr. Bienen who was the president while I was a doctoral candidate there."
 p2018
-aS"But I do think elite colleges have a social networking value.That's a very oddly different thing from what we've heard here."
+aS"It's a great pleasure to be with all of you tonight."
 p2019
-aS"That's very differentfrom that its about learning, that it's about turning people into citizens or anything likethat."
+aS'My question is something that has not come up in the debate, and that is social networks.'
 p2020
-aS"And it seems to me that even if that's true, it should cost way, way less."
+aS"I do analysis of high-tech gazelles all over the world, and I find that the social networks that individual entrepreneurs obtain while they are in the K through 16 pipeline, particularly while they're at universities and/or graduate schools are absolutely critical for them getting, one, trusting business partners, their first business partners, and two, angel investments."
 p2021
+aS"So I'd like for both sides to comment on the quality of the social networks that you get while you're in university."
+p2022
+asg18
+(dp2023
+S'20:54:45'
+p2024
+I6
+ssa(dp2025
+g8
+(lp2026
+S'Peter Thiel.'
+p2027
+asg11
+S'JOHN DONVAN'
+p2028
+sg16
+(lp2029
+g2027
+asa(dp2030
+g8
+(lp2031
+S'Well, I think -- I think the social networks are quite valuable.'
+p2032
+aS"It's still not clear that itjustifies charging a quarter million."
+p2033
+aS'I think the social networks tend to be the mostvaluable only at the elite colleges.'
+p2034
+aS'Once you go below that level, they actually functionin a way where people, again, do not have access.'
+p2035
+aS'So I think you have a very ambiguousaspect about how it works.'
+p2036
+aS'In practice, in Silicon Valley, most of the companies do getstarted by people who are a few years out of college.'
+p2037
+aS"And I tend to think that when Istarted PayPal, there were some people I brought in from Stanford, but I started with acolleague who--we met in a different social context in Silicon Valley.And we'd gone to different schools, so it ended up being somewhat -- my ownexperience was different."
+p2038
+aS"But I do think elite colleges have a social networking value.That's a very oddly different thing from what we've heard here."
+p2039
+aS"That's very differentfrom that its about learning, that it's about turning people into citizens or anything likethat."
+p2040
+aS"And it seems to me that even if that's true, it should cost way, way less."
+p2041
 asg11
 S'PETER THIEL'
-p2022
+p2042
 sg13
-(dp2023
+(dp2043
 I8
 S'32'
-p2024
+p2044
 ssg16
-(lp2025
+(lp2045
 S'Well, I think -- I think the social networks are quite valuable.'
-p2026
+p2046
 aS"It's still not clear that it justifies charging a quarter million."
-p2027
-aS'I think the social networks tend to be the most valuable only at the elite colleges.'
-p2028
-aS'Once you go below that level, they actually function in a way where people, again, do not have access.'
-p2029
-aS'So I think you have a very ambiguous aspect about how it works.'
-p2030
-aS'In practice, in Silicon Valley, most of the companies do get started by people who are a few years out of college.'
-p2031
-aS'And I tend to think that when I started PayPal, there were some people I brought in from Stanford, but I started with a colleague who--we met in a different social context in Silicon Valley.'
-p2032
-aS"And we'd gone to different schools, so it ended up being somewhat -- my own experience was different."
-p2033
-aS'But I do think elite colleges have a social networking value.'
-p2034
-aS"That's a very oddly different thing from what we've heard here."
-p2035
-aS"That's very different from that its about learning, that it's about turning people into citizens or anything like that."
-p2036
-aS"And it seems to me that even if that's true, it should cost way, way less."
-p2037
-asg18
-(dp2038
-S'20:55:54'
-p2039
-I8
-ssa(dp2040
-g8
-(lp2041
-S'Vivek?'
-p2042
-asg11
-S'JOHN DONVAN'
-p2043
-sg16
-(lp2044
-g2042
-asa(dp2045
-g8
-(lp2046
-S'You know, not just elite colleges.'
 p2047
-aS"Peter keeps talking about a quarter million dollars.That's Stanford."
+aS'I think the social networks tend to be the most valuable only at the elite colleges.'
 p2048
-aS'The rest of America is not Stanford.'
+aS'Once you go below that level, they actually function in a way where people, again, do not have access.'
 p2049
-aS'Most colleges are much, muchcheaper.'
+aS'So I think you have a very ambiguous aspect about how it works.'
 p2050
-aS'And the direction the students have are the same.'
+aS'In practice, in Silicon Valley, most of the companies do get started by people who are a few years out of college.'
 p2051
-aS"It's not that the elite, youknow, students at Stanford have a big advantage over the others."
+aS'And I tend to think that when I started PayPal, there were some people I brought in from Stanford, but I started with a colleague who--we met in a different social context in Silicon Valley.'
 p2052
-aS"It's just that theyhappen to have gone to a nicer campus."
+aS"And we'd gone to different schools, so it ended up being somewhat -- my own experience was different."
 p2053
-aS'So the social network is equally important nomatter where you go.'
+aS'But I do think elite colleges have a social networking value.'
 p2054
-aS"Now, the other thing is that if you don't go to college, if you drop-- forget about dropping out."
+aS"That's a very oddly different thing from what we've heard here."
 p2055
-aS"If you went directly from high school to work, you're goingto have a very junior position in some big company or some startup where you havevery limited interaction with anyone else.You're not going to build social skills."
+aS"That's very different from that its about learning, that it's about turning people into citizens or anything like that."
 p2056
-aS"You're not going to have a network greater thanthe handful of people that you happen to work with in your department."
+aS"And it seems to me that even if that's true, it should cost way, way less."
 p2057
-aS"I don't knowhow many of you worked in big companies or any companies."
-p2058
-aS"But it's always to people you're exposed to."
-p2059
-aS"When you're in college, you're interactingwith lots and lots of people all across the board."
-p2060
-aS"It's those interactions that define you.That can't be quantified."
-p2061
-aS"But that's what carries you through your whole life."
-p2062
-aS'You get tomeet diverse people.'
-p2063
-aS"It's not just people who happen to work in the same field and thesame company that you do."
-p2064
-aS"So the kids that are dropping out and starting their ownstartups, they're going to be disadvantaged for the rest of their lives."
-p2065
-aS"I don't know whatthey're going to be 30 years from now because they haven't had that social interactionwhich defines human beings."
-p2066
-aS'We need that.'
-p2067
-aS'We need that extra three or four yearswhere you get to stabilize and learn and become who you are and decide what youwant to be when you grow up.'
-p2068
-asg11
-S'VIVEK WADHWA'
-p2069
-sg16
-(lp2070
-S'You know, not just elite colleges.'
-p2071
-aS'Peter keeps talking about a quarter million dollars.'
-p2072
-aS"That's Stanford."
-p2073
-aS'The rest of America is not Stanford.'
-p2074
-aS'Most colleges are much, much cheaper.'
-p2075
-aS'And the direction the students have are the same.'
-p2076
-aS"It's not that the elite, you know, students at Stanford have a big advantage over the others."
-p2077
-aS"It's just that they happen to have gone to a nicer campus."
-p2078
-aS'So the social network is equally important no matter where you go.'
-p2079
-aS"Now, the other thing is that if you don't go to college, if you drop -- forget about dropping out."
-p2080
-aS"If you went directly from high school to work, you're going to have a very junior position in some big company or some startup where you have very limited interaction with anyone else."
-p2081
-aS"You're not going to build social skills."
-p2082
-aS"You're not going to have a network greater than the handful of people that you happen to work with in your department."
-p2083
-aS"I don't know how many of you worked in big companies or any companies."
-p2084
-aS"But it's always to people you're exposed to."
-p2085
-aS"When you're in college, you're interacting with lots and lots of people all across the board."
-p2086
-aS"It's those interactions that define you."
-p2087
-aS"That can't be quantified."
-p2088
-aS"But that's what carries you through your whole life."
-p2089
-aS'You get to meet diverse people.'
-p2090
-aS"It's not just people who happen to work in the same field and the same company that you do."
-p2091
-aS"So the kids that are dropping out and starting their own startups, they're going to be disadvantaged for the rest of their lives."
-p2092
-aS"I don't know what they're going to be 30 years from now because they haven't had that social interaction which defines human beings."
-p2093
-aS'We need that.'
-p2094
-aS'We need that extra three or four years where you get to stabilize and learn and become who you are and decide what you want to be when you grow up.'
-p2095
 asg18
-(dp2096
-S'20:56:57'
-p2097
-I9
-ssa(dp2098
+(dp2058
+S'20:55:54'
+p2059
+I8
+ssa(dp2060
 g8
-(lp2099
-S'Peter --'
-p2100
+(lp2061
+S'Vivek?'
+p2062
 asg11
 S'JOHN DONVAN'
-p2101
+p2063
 sg16
-(lp2102
-g2100
-asa(dp2103
+(lp2064
+g2062
+asa(dp2065
 g8
-(lp2104
-S"You don't know that going into college."
-p2105
+(lp2066
+S'You know, not just elite colleges.'
+p2067
+aS"Peter keeps talking about a quarter million dollars.That's Stanford."
+p2068
+aS'The rest of America is not Stanford.'
+p2069
+aS'Most colleges are much, muchcheaper.'
+p2070
+aS'And the direction the students have are the same.'
+p2071
+aS"It's not that the elite, youknow, students at Stanford have a big advantage over the others."
+p2072
+aS"It's just that theyhappen to have gone to a nicer campus."
+p2073
+aS'So the social network is equally important nomatter where you go.'
+p2074
+aS"Now, the other thing is that if you don't go to college, if you drop-- forget about dropping out."
+p2075
+aS"If you went directly from high school to work, you're goingto have a very junior position in some big company or some startup where you havevery limited interaction with anyone else.You're not going to build social skills."
+p2076
+aS"You're not going to have a network greater thanthe handful of people that you happen to work with in your department."
+p2077
+aS"I don't knowhow many of you worked in big companies or any companies."
+p2078
+aS"But it's always to people you're exposed to."
+p2079
+aS"When you're in college, you're interactingwith lots and lots of people all across the board."
+p2080
+aS"It's those interactions that define you.That can't be quantified."
+p2081
+aS"But that's what carries you through your whole life."
+p2082
+aS'You get tomeet diverse people.'
+p2083
+aS"It's not just people who happen to work in the same field and thesame company that you do."
+p2084
+aS"So the kids that are dropping out and starting their ownstartups, they're going to be disadvantaged for the rest of their lives."
+p2085
+aS"I don't know whatthey're going to be 30 years from now because they haven't had that social interactionwhich defines human beings."
+p2086
+aS'We need that.'
+p2087
+aS'We need that extra three or four yearswhere you get to stabilize and learn and become who you are and decide what youwant to be when you grow up.'
+p2088
 asg11
 S'VIVEK WADHWA'
-p2106
+p2089
 sg16
-(lp2107
-g2105
-asa(dp2108
-g8
-(lp2109
-S'Peter, did you say earlier that if you were to do it all over again, you would still go toStanford.'
+(lp2090
+S'You know, not just elite colleges.'
+p2091
+aS'Peter keeps talking about a quarter million dollars.'
+p2092
+aS"That's Stanford."
+p2093
+aS'The rest of America is not Stanford.'
+p2094
+aS'Most colleges are much, much cheaper.'
+p2095
+aS'And the direction the students have are the same.'
+p2096
+aS"It's not that the elite, you know, students at Stanford have a big advantage over the others."
+p2097
+aS"It's just that they happen to have gone to a nicer campus."
+p2098
+aS'So the social network is equally important no matter where you go.'
+p2099
+aS"Now, the other thing is that if you don't go to college, if you drop -- forget about dropping out."
+p2100
+aS"If you went directly from high school to work, you're going to have a very junior position in some big company or some startup where you have very limited interaction with anyone else."
+p2101
+aS"You're not going to build social skills."
+p2102
+aS"You're not going to have a network greater than the handful of people that you happen to work with in your department."
+p2103
+aS"I don't know how many of you worked in big companies or any companies."
+p2104
+aS"But it's always to people you're exposed to."
+p2105
+aS"When you're in college, you're interacting with lots and lots of people all across the board."
+p2106
+aS"It's those interactions that define you."
+p2107
+aS"That can't be quantified."
+p2108
+aS"But that's what carries you through your whole life."
+p2109
+aS'You get to meet diverse people.'
 p2110
-aS"And can you take 20 seconds to explain why, and why you don't feel that thetime you spent getting your -- on a graduate degree was a drag on your -- on your other-- other energies."
+aS"It's not just people who happen to work in the same field and the same company that you do."
 p2111
+aS"So the kids that are dropping out and starting their own startups, they're going to be disadvantaged for the rest of their lives."
+p2112
+aS"I don't know what they're going to be 30 years from now because they haven't had that social interaction which defines human beings."
+p2113
+aS'We need that.'
+p2114
+aS'We need that extra three or four years where you get to stabilize and learn and become who you are and decide what you want to be when you grow up.'
+p2115
+asg18
+(dp2116
+S'20:56:57'
+p2117
+I9
+ssa(dp2118
+g8
+(lp2119
+S'Peter --'
+p2120
 asg11
 S'JOHN DONVAN'
-p2112
+p2121
+sg16
+(lp2122
+g2120
+asa(dp2123
+g8
+(lp2124
+S"You don't know that going into college."
+p2125
+asg11
+S'VIVEK WADHWA'
+p2126
+sg16
+(lp2127
+g2125
+asa(dp2128
+g8
+(lp2129
+S'Peter, did you say earlier that if you were to do it all over again, you would still go toStanford.'
+p2130
+aS"And can you take 20 seconds to explain why, and why you don't feel that thetime you spent getting your -- on a graduate degree was a drag on your -- on your other-- other energies."
+p2131
+asg11
+S'JOHN DONVAN'
+p2132
 sg13
-(dp2113
+(dp2133
 I0
 S'33'
-p2114
-ssg16
-(lp2115
-S'Peter, did you say earlier that if you were to do it all over again, you would still go to Stanford.'
-p2116
-aS"And can you take 20 seconds to explain why, and why you don't feel that the time you spent getting your -- on a graduate degree was a drag on your -- on your other -- other energies."
-p2117
-asg18
-(dp2118
-S'20:57:57'
-p2119
-I4
-ssa(dp2120
-g8
-(lp2121
-S"Well, I didn't know what else to do."
-p2122
-aS'And I think I probably would not have known whatelse to do.'
-p2123
-aS'In some ways, I was probably a candidate for a good general liberal artshumanities education in many ways.'
-p2124
-aS'I was really interested in learning.'
-p2125
-aS'I was veryinterested in these things on their terms.'
-p2126
-aS"I don't think most people are like me."
-p2127
-aS'I think alot of people are at a different -- at a different place.'
-p2128
-asg11
-S'PETER THIEL'
-p2129
-sg16
-(lp2130
-S"Well, I didn't know what else to do."
-p2131
-aS'And I think I probably would not have known what else to do.'
-p2132
-aS'In some ways, I was probably a candidate for a good general liberal arts humanities education in many ways.'
-p2133
-aS'I was really interested in learning.'
 p2134
-aS'I was very interested in these things on their terms.'
-p2135
-aS"I don't think most people are like me."
+ssg16
+(lp2135
+S'Peter, did you say earlier that if you were to do it all over again, you would still go to Stanford.'
 p2136
-aS'I think a lot of people are at a different -- at a different place.'
+aS"And can you take 20 seconds to explain why, and why you don't feel that the time you spent getting your -- on a graduate degree was a drag on your -- on your other -- other energies."
 p2137
-asa(dp2138
-g8
-(lp2139
-S'Peter, they are like you.'
-p2140
-aS'They are like you.'
-p2141
-aS"They don't know what they want to be."
-p2142
-asg11
-S'VIVEK WADHWA'
-p2143
-sg16
-(lp2144
-S'Peter, they are like you.'
-p2145
-aS'They are like you.'
-p2146
-aS"They don't know what they want to be."
-p2147
-asa(dp2148
-g8
-(lp2149
-S"It's -- I don't think people are identical."
-p2150
-aS'I think this is --'
-p2151
-asg11
-S'PETER THIEL'
-p2152
-sg16
-(lp2153
-S"It's -- I don't think people are identical."
-p2154
-aS'I think this is --'
-p2155
-asa(dp2156
-g8
-(lp2157
-S"They're not as smart as you, but they are like you."
-p2158
-aS'I tell you.'
-p2159
-asg11
-S'VIVEK WADHWA'
-p2160
-sg16
-(lp2161
-S"They're not as smart as you, but they are like you."
-p2162
-aS'I tell you.'
-p2163
-asa(dp2164
-g8
-(lp2165
-S'I know that this is a big philosophical disagreement we have.'
-p2166
-aS"We should not understate.I don't think everybody is cut from the same cloth."
-p2167
-aS'People are actually different.'
-p2168
-aS"Andwe need to acknowledge the diversity that exists in our world and we shouldn't pretendthat everybody is the same and everybody should do the same thing."
-p2169
-asg11
-S'PETER THIEL'
-p2170
-sg16
-(lp2171
-S'I know that this is a big philosophical disagreement we have.'
-p2172
-aS'We should not understate.'
-p2173
-aS"I don't think everybody is cut from the same cloth."
-p2174
-aS'People are actually different.'
-p2175
-aS"And we need to acknowledge the diversity that exists in our world and we shouldn't pretend that everybody is the same and everybody should do the same thing."
-p2176
-asa(dp2177
-g8
-(lp2178
-S"Peter, you didn't know what you wanted to be when you were young."
-p2179
-aS"Most childrendon't know."
-p2180
-aS"They're muddling through it.They learn by interacting with other people and getting ideas from other students whohave diverse backgrounds."
-p2181
-aS"That's how they decide what they're going to be."
-p2182
-asg11
-S'VIVEK WADHWA'
-p2183
-sg16
-(lp2184
-S"Peter, you didn't know what you wanted to be when you were young."
-p2185
-aS"Most children don't know."
-p2186
-aS"They're muddling through it."
-p2187
-aS'They learn by interacting with other people and getting ideas from other students who have diverse backgrounds.'
-p2188
-aS"That's how they decide what they're going to be."
-p2189
 asg18
-(dp2190
+(dp2138
+S'20:57:57'
+p2139
+I4
+ssa(dp2140
+g8
+(lp2141
+S"Well, I didn't know what else to do."
+p2142
+aS'And I think I probably would not have known whatelse to do.'
+p2143
+aS'In some ways, I was probably a candidate for a good general liberal artshumanities education in many ways.'
+p2144
+aS'I was really interested in learning.'
+p2145
+aS'I was veryinterested in these things on their terms.'
+p2146
+aS"I don't think most people are like me."
+p2147
+aS'I think alot of people are at a different -- at a different place.'
+p2148
+asg11
+S'PETER THIEL'
+p2149
+sg16
+(lp2150
+S"Well, I didn't know what else to do."
+p2151
+aS'And I think I probably would not have known what else to do.'
+p2152
+aS'In some ways, I was probably a candidate for a good general liberal arts humanities education in many ways.'
+p2153
+aS'I was really interested in learning.'
+p2154
+aS'I was very interested in these things on their terms.'
+p2155
+aS"I don't think most people are like me."
+p2156
+aS'I think a lot of people are at a different -- at a different place.'
+p2157
+asa(dp2158
+g8
+(lp2159
+S'Peter, they are like you.'
+p2160
+aS'They are like you.'
+p2161
+aS"They don't know what they want to be."
+p2162
+asg11
+S'VIVEK WADHWA'
+p2163
+sg16
+(lp2164
+S'Peter, they are like you.'
+p2165
+aS'They are like you.'
+p2166
+aS"They don't know what they want to be."
+p2167
+asa(dp2168
+g8
+(lp2169
+S"It's -- I don't think people are identical."
+p2170
+aS'I think this is --'
+p2171
+asg11
+S'PETER THIEL'
+p2172
+sg16
+(lp2173
+S"It's -- I don't think people are identical."
+p2174
+aS'I think this is --'
+p2175
+asa(dp2176
+g8
+(lp2177
+S"They're not as smart as you, but they are like you."
+p2178
+aS'I tell you.'
+p2179
+asg11
+S'VIVEK WADHWA'
+p2180
+sg16
+(lp2181
+S"They're not as smart as you, but they are like you."
+p2182
+aS'I tell you.'
+p2183
+asa(dp2184
+g8
+(lp2185
+S'I know that this is a big philosophical disagreement we have.'
+p2186
+aS"We should not understate.I don't think everybody is cut from the same cloth."
+p2187
+aS'People are actually different.'
+p2188
+aS"Andwe need to acknowledge the diversity that exists in our world and we shouldn't pretendthat everybody is the same and everybody should do the same thing."
+p2189
+asg11
+S'PETER THIEL'
+p2190
+sg16
+(lp2191
+S'I know that this is a big philosophical disagreement we have.'
+p2192
+aS'We should not understate.'
+p2193
+aS"I don't think everybody is cut from the same cloth."
+p2194
+aS'People are actually different.'
+p2195
+aS"And we need to acknowledge the diversity that exists in our world and we shouldn't pretend that everybody is the same and everybody should do the same thing."
+p2196
+asa(dp2197
+g8
+(lp2198
+S"Peter, you didn't know what you wanted to be when you were young."
+p2199
+aS"Most childrendon't know."
+p2200
+aS"They're muddling through it.They learn by interacting with other people and getting ideas from other students whohave diverse backgrounds."
+p2201
+aS"That's how they decide what they're going to be."
+p2202
+asg11
+S'VIVEK WADHWA'
+p2203
+sg16
+(lp2204
+S"Peter, you didn't know what you wanted to be when you were young."
+p2205
+aS"Most children don't know."
+p2206
+aS"They're muddling through it."
+p2207
+aS'They learn by interacting with other people and getting ideas from other students who have diverse backgrounds.'
+p2208
+aS"That's how they decide what they're going to be."
+p2209
+asg18
+(dp2210
 S'20:58:53'
-p2191
+p2211
 I2
-ssa(dp2192
+ssa(dp2212
 g22
-(dp2193
+(dp2213
 I1
 S'[applause]'
-p2194
+p2214
 ssg8
-(lp2195
+(lp2215
 S'But -- but, I think --I think that most -- I think that there are a lot of people already in high school who were [[applause]] not academically motivated.'
-p2196
+p2216
 aS"And I can say that even if they do not know what theywanted to do professionally or work wise, you could say they weren't particularlyinterested in reading books and learning."
-p2197
+p2217
 aS'And this was not their talent.'
-p2198
+p2218
 aS"That's not whatthey were psyched to do."
-p2199
+p2219
 aS"And there is something crazy about saying everyone has to belocked into a room and read books and -- and that's what we have to do. "
-p2200
+p2220
 asg11
 S'PETER THIEL'
-p2201
+p2221
 sg13
-(dp2202
+(dp2222
 I1
 S'34'
-p2203
-ssg16
-(lp2204
-S'But -- but, I think -- I think that most -- I think that there are a lot of people already in high school who were not academically motivated.'
-p2205
-aS"And I can say that even if they do not know what they wanted to do professionally or work wise, you could say they weren't particularly interested in reading books and learning."
-p2206
-aS'And this was not their talent.'
-p2207
-aS"That's not what they were psyched to do."
-p2208
-aS"And there is something crazy about saying everyone has to be locked into a room and read books and -- and that's what we have to do. "
-p2209
-asa(dp2210
-g8
-(lp2211
-S'You made that point very forcefully, I just want to go to another question.'
-p2212
-aS'Sir.'
-p2213
-aS"You'vegot a black book in your left hand."
-p2214
-aS'If you raise it, a microphone will find you.'
-p2215
-aS'There yougo.'
-p2216
-asg11
-S'JOHN DONVAN'
-p2217
-sg16
-(lp2218
-S'You made that point very forcefully, I just want to go to another question.'
-p2219
-aS'Sir.'
-p2220
-aS"You've got a black book in your left hand."
-p2221
-aS'If you raise it, a microphone will find you.'
-p2222
-aS'There you go.'
 p2223
-asa(dp2224
-g8
-(lp2225
-S'Hi.'
+ssg16
+(lp2224
+S'But -- but, I think -- I think that most -- I think that there are a lot of people already in high school who were not academically motivated.'
+p2225
+aS"And I can say that even if they do not know what they wanted to do professionally or work wise, you could say they weren't particularly interested in reading books and learning."
 p2226
-aS"My name is Jeff Nelson, and I actually run a college readiness and persistenceprogram here in Chicago that takes low-income kids to and through colleges.And amazingly, though, I've actually been appreciating some of the comments that arecoming out of this table."
+aS'And this was not their talent.'
 p2227
-aS'I do --'
+aS"That's not what they were psyched to do."
 p2228
-asg11
-S'JEFF NELSON'
+aS"And there is something crazy about saying everyone has to be locked into a room and read books and -- and that's what we have to do. "
 p2229
-sg16
-(lp2230
-S'Hi.'
-p2231
-aS'My name is Jeff Nelson, and I actually run a college readiness and persistence program here in Chicago that takes low-income kids to and through colleges.'
+asa(dp2230
+g8
+(lp2231
+S'You made that point very forcefully, I just want to go to another question.'
 p2232
-aS"And amazingly, though, I've actually been appreciating some of the comments that are coming out of this table."
+aS'Sir.'
 p2233
-aS'I do --'
+aS"You'vegot a black book in your left hand."
 p2234
-asg18
-(dp2235
-S'20:59:56'
+aS'If you raise it, a microphone will find you.'
+p2235
+aS'There yougo.'
 p2236
-I2
-ssa(dp2237
-g8
+asg11
+S'JOHN DONVAN'
+p2237
+sg16
 (lp2238
-S"By this table, you mean the side that's arguing that too many kids go to college."
+S'You made that point very forcefully, I just want to go to another question.'
 p2239
-asg11
-S'JOHN DONVAN'
+aS'Sir.'
 p2240
-sg16
-(lp2241
-g2239
-asa(dp2242
+aS"You've got a black book in your left hand."
+p2241
+aS'If you raise it, a microphone will find you.'
+p2242
+aS'There you go.'
+p2243
+asa(dp2244
 g8
-(lp2243
-S'Correct.'
-p2244
+(lp2245
+S'Hi.'
+p2246
+aS"My name is Jeff Nelson, and I actually run a college readiness and persistenceprogram here in Chicago that takes low-income kids to and through colleges.And amazingly, though, I've actually been appreciating some of the comments that arecoming out of this table."
+p2247
+aS'I do --'
+p2248
 asg11
 S'JEFF NELSON'
-p2245
-sg16
-(lp2246
-g2244
-asa(dp2247
-g8
-(lp2248
-S'Okay.'
 p2249
-asg11
-S'JOHN DONVAN'
-p2250
 sg16
-(lp2251
-g2249
-asa(dp2252
-g8
-(lp2253
-S'What I did agree with is that I share a frustration with higher ed, and I think there is adistortion.'
+(lp2250
+S'Hi.'
+p2251
+aS'My name is Jeff Nelson, and I actually run a college readiness and persistence program here in Chicago that takes low-income kids to and through colleges.'
+p2252
+aS"And amazingly, though, I've actually been appreciating some of the comments that are coming out of this table."
+p2253
+aS'I do --'
 p2254
-aS'But I think the solution is unfounded.'
-p2255
-aS"I don't think the solution is actuallythat you should deter kids from actually going to college."
+asg18
+(dp2255
+S'20:59:56'
 p2256
-aS'I think your frustration comesfrom the fact that there are fundamental reforms that need to be made to highereducation.'
-p2257
-aS'In my opinion, it should in some way mirror the reforms that are happeningin charter schools.'
-p2258
-asg11
-S'JEFF NELSON'
-p2259
-sg16
-(lp2260
-S'What I did agree with is that I share a frustration with higher ed, and I think there is a distortion.'
-p2261
-aS'But I think the solution is unfounded.'
-p2262
-aS"I don't think the solution is actually that you should deter kids from actually going to college."
-p2263
-aS'I think your frustration comes from the fact that there are fundamental reforms that need to be made to higher education.'
-p2264
-aS'In my opinion, it should in some way mirror the reforms that are happening in charter schools.'
-p2265
-asa(dp2266
+I2
+ssa(dp2257
 g8
-(lp2267
-S'Could you bring this around to a question?'
-p2268
+(lp2258
+S"By this table, you mean the side that's arguing that too many kids go to college."
+p2259
 asg11
 S'JOHN DONVAN'
-p2269
+p2260
 sg16
-(lp2270
-g2268
-asa(dp2271
+(lp2261
+g2259
+asa(dp2262
 g8
-(lp2272
-S'I will get to a question.'
-p2273
+(lp2263
+S'Correct.'
+p2264
 asg11
 S'JEFF NELSON'
+p2265
+sg16
+(lp2266
+g2264
+asa(dp2267
+g8
+(lp2268
+S'Okay.'
+p2269
+asg11
+S'JOHN DONVAN'
+p2270
+sg16
+(lp2271
+g2269
+asa(dp2272
+g8
+(lp2273
+S'What I did agree with is that I share a frustration with higher ed, and I think there is adistortion.'
 p2274
+aS'But I think the solution is unfounded.'
+p2275
+aS"I don't think the solution is actuallythat you should deter kids from actually going to college."
+p2276
+aS'I think your frustration comesfrom the fact that there are fundamental reforms that need to be made to highereducation.'
+p2277
+aS'In my opinion, it should in some way mirror the reforms that are happeningin charter schools.'
+p2278
+asg11
+S'JEFF NELSON'
+p2279
+sg16
+(lp2280
+S'What I did agree with is that I share a frustration with higher ed, and I think there is a distortion.'
+p2281
+aS'But I think the solution is unfounded.'
+p2282
+aS"I don't think the solution is actually that you should deter kids from actually going to college."
+p2283
+aS'I think your frustration comes from the fact that there are fundamental reforms that need to be made to higher education.'
+p2284
+aS'In my opinion, it should in some way mirror the reforms that are happening in charter schools.'
+p2285
+asa(dp2286
+g8
+(lp2287
+S'Could you bring this around to a question?'
+p2288
+asg11
+S'JOHN DONVAN'
+p2289
+sg16
+(lp2290
+g2288
+asa(dp2291
+g8
+(lp2292
+S'I will get to a question.'
+p2293
+asg11
+S'JEFF NELSON'
+p2294
 sg13
-(dp2275
+(dp2295
 I0
 S'35'
-p2276
+p2296
 ssg16
-(lp2277
-g2273
-asa(dp2278
-g8
-(lp2279
-S'Thanks.'
-p2280
-asg11
-S'JOHN DONVAN'
-p2281
-sg16
-(lp2282
-g2280
-asa(dp2283
-g8
-(lp2284
-S'So --'
-p2285
-asg11
-S'JEFF NELSON'
-p2286
-sg16
-(lp2287
-g2285
-asa(dp2288
-g8
-(lp2289
-S'But I mean now.'
-p2290
-aS'Thanks.'
-p2291
-asg11
-S'JOHN DONVAN'
-p2292
-sg16
-(lp2293
-S'But I mean now.'
-p2294
-aS'Thanks.'
-p2295
-asa(dp2296
-g8
 (lp2297
-S'So -- so the question is, do you think there are fundamental reforms that could be madeto higher education that would sway you to want to have more kids actually stay incollege?'
-p2298
+g2293
+asa(dp2298
+g8
+(lp2299
+S'Thanks.'
+p2300
 asg11
-S'JEFF NELSON'
-p2299
-sg16
-(lp2300
-S'So -- so the question is, do you think there are fundamental reforms that could be made to higher education that would sway you to want to have more kids actually stay in college?'
+S'JOHN DONVAN'
 p2301
-asa(dp2302
-g8
-(lp2303
-S'Do you mean the four-year classic --'
-p2304
-asg11
-S'JOHN DONVAN'
-p2305
 sg16
-(lp2306
-g2304
-asa(dp2307
+(lp2302
+g2300
+asa(dp2303
 g8
-(lp2308
-S'Yes.'
-p2309
+(lp2304
+S'So --'
+p2305
 asg11
 S'JEFF NELSON'
-p2310
+p2306
 sg16
-(lp2311
-g2309
-asa(dp2312
+(lp2307
+g2305
+asa(dp2308
 g8
-(lp2313
-S'Yes.'
-p2314
+(lp2309
+S'But I mean now.'
+p2310
+aS'Thanks.'
+p2311
 asg11
 S'JOHN DONVAN'
-p2315
+p2312
 sg16
-(lp2316
-g2314
-asa(dp2317
+(lp2313
+S'But I mean now.'
+p2314
+aS'Thanks.'
+p2315
+asa(dp2316
 g8
-(lp2318
-S'Yeah, I think that certifications as a replacement for the B.A.'
+(lp2317
+S'So -- so the question is, do you think there are fundamental reforms that could be madeto higher education that would sway you to want to have more kids actually stay incollege?'
+p2318
+asg11
+S'JEFF NELSON'
 p2319
-aS'is the way to go.And I think there are a lot of market forces working in that direction because the B.A.really is meaningless.'
-p2320
-aS"And employers do know that it tells them extremely little.Whereas if they could get some strong indication that the kid sitting in front of them hasactually learned something about things that are relevant to the job they're going tohave, that would be good for them."
+sg16
+(lp2320
+S'So -- so the question is, do you think there are fundamental reforms that could be made to higher education that would sway you to want to have more kids actually stay in college?'
 p2321
-aS'And it would level the playing field.'
-p2322
-aS'Let me repeat,I do not see our college campuses having fewer people on them, I see it having as manyor more but not locked into the B.A.'
-p2323
-aS'straightjacket.'
+asa(dp2322
+g8
+(lp2323
+S'Do you mean the four-year classic --'
 p2324
 asg11
-S'CHARLES MURRAY'
+S'JOHN DONVAN'
 p2325
 sg16
 (lp2326
-S'Yeah, I think that certifications as a replacement for the B.A.'
-p2327
-aS'is the way to go.'
-p2328
-aS'And I think there are a lot of market forces working in that direction because the B.A.'
+g2324
+asa(dp2327
+g8
+(lp2328
+S'Yes.'
 p2329
-aS'really is meaningless.'
+asg11
+S'JEFF NELSON'
 p2330
-aS'And employers do know that it tells them extremely little.'
-p2331
-aS"Whereas if they could get some strong indication that the kid sitting in front of them has actually learned something about things that are relevant to the job they're going to have, that would be good for them."
-p2332
-aS'And it would level the playing field.'
-p2333
-aS'Let me repeat, I do not see our college campuses having fewer people on them, I see it having as many or more but not locked into the B.A.'
+sg16
+(lp2331
+g2329
+asa(dp2332
+g8
+(lp2333
+S'Yes.'
 p2334
-aS'straightjacket.'
+asg11
+S'JOHN DONVAN'
 p2335
+sg16
+(lp2336
+g2334
+asa(dp2337
+g8
+(lp2338
+S'Yeah, I think that certifications as a replacement for the B.A.'
+p2339
+aS'is the way to go.And I think there are a lot of market forces working in that direction because the B.A.really is meaningless.'
+p2340
+aS"And employers do know that it tells them extremely little.Whereas if they could get some strong indication that the kid sitting in front of them hasactually learned something about things that are relevant to the job they're going tohave, that would be good for them."
+p2341
+aS'And it would level the playing field.'
+p2342
+aS'Let me repeat,I do not see our college campuses having fewer people on them, I see it having as manyor more but not locked into the B.A.'
+p2343
+aS'straightjacket.'
+p2344
+asg11
+S'CHARLES MURRAY'
+p2345
+sg16
+(lp2346
+S'Yeah, I think that certifications as a replacement for the B.A.'
+p2347
+aS'is the way to go.'
+p2348
+aS'And I think there are a lot of market forces working in that direction because the B.A.'
+p2349
+aS'really is meaningless.'
+p2350
+aS'And employers do know that it tells them extremely little.'
+p2351
+aS"Whereas if they could get some strong indication that the kid sitting in front of them has actually learned something about things that are relevant to the job they're going to have, that would be good for them."
+p2352
+aS'And it would level the playing field.'
+p2353
+aS'Let me repeat, I do not see our college campuses having fewer people on them, I see it having as many or more but not locked into the B.A.'
+p2354
+aS'straightjacket.'
+p2355
 asg18
-(dp2336
+(dp2356
 S'21:00:53'
-p2337
+p2357
 I1
-ssa(dp2338
+ssa(dp2358
 g22
-(dp2339
+(dp2359
 I5
 S'[laughter]'
-p2340
+p2360
 ssg11
 S'JOHN DONVAN'
-p2341
+p2361
 sg16
-(lp2342
+(lp2362
 S"We're being streamed live on Slate.com."
-p2343
+p2363
 aS'Slate.com is our media partner and we had people submit questions actually beforehand once they knew what the topic was, and I just want to read one of those questions here.'
-p2344
+p2364
 aS"From Minneapolis, Minnesota, a Rob Barbeau asks if fewer people go to college, actually he said if less people go to college, but I'm an English major so -- -- sorry, sorry, Rob Barbeau, but he said if fewer people go to college, shouldn't the value of a college degree go up?"
-p2345
+p2365
 aS'Charles Murray.'
-p2346
+p2366
 asg18
-(dp2347
+(dp2367
 S'21:01:55'
-p2348
+p2368
 I7
 ssg8
-(lp2349
+(lp2369
 S"We're being streamed live on Slate.com."
-p2350
+p2370
 aS'Slate.com is our media partner and we hadpeople submit questions actually beforehand once they knew what the topic was, and Ijust want to read one of those questions here.'
-p2351
+p2371
 aS"From Minneapolis, Minnesota, a RobBarbeau asks if fewer people go to college, actually he said if less people go to college,but I'm an English major so ---- sorry, sorry, Rob Barbeau, but he said if fewer people go to college, shouldn't the [[laughter]] value of a college degree go up?"
-p2352
+p2372
 aS'Charles Murray.'
-p2353
+p2373
 asg13
-(dp2354
+(dp2374
 I5
 S'36'
-p2355
-ssa(dp2356
-g8
-(lp2357
-S"I'm sorry."
-p2358
-asg11
-S'CHARLES MURRAY'
-p2359
-sg16
-(lp2360
-g2358
-asa(dp2361
-g8
-(lp2362
-S"If fewer people go to college, shouldn't the value of a college degree go up?"
-p2363
-asg11
-S'JOHN DONVAN'
-p2364
-sg16
-(lp2365
-g2363
-asa(dp2366
-g8
-(lp2367
-S'No.'
-p2368
-aS"It's because the college degree, you may have heard me say this, doesn't meananything."
-p2369
-aS'If you say, "Oh, well, if you have a classical education and that becomes thestandard of what goes into a B.A.'
-p2370
-aS"and you can be confident that's what a kid has gottenwhen they have a B.A., then you'd have a very different kind of value associated with aB.A., but it doesn't happen right now."
-p2371
-asg11
-S'CHARLES MURRAY'
-p2372
-sg16
-(lp2373
-S'No.'
-p2374
-aS"It's because the college degree, you may have heard me say this, doesn't mean anything."
 p2375
-aS'If you say, "Oh, well, if you have a classical education and that becomes the standard of what goes into a B.A.'
-p2376
-aS"and you can be confident that's what a kid has gotten when they have a B.A., then you'd have a very different kind of value associated with a B.A., but it doesn't happen right now."
-p2377
-asa(dp2378
+ssa(dp2376
 g8
-(lp2379
-S'Okay.'
-p2380
-aS'Henry Bienen.'
-p2381
+(lp2377
+S"I'm sorry."
+p2378
+asg11
+S'CHARLES MURRAY'
+p2379
+sg16
+(lp2380
+g2378
+asa(dp2381
+g8
+(lp2382
+S"If fewer people go to college, shouldn't the value of a college degree go up?"
+p2383
 asg11
 S'JOHN DONVAN'
-p2382
-sg16
-(lp2383
-S'Okay.'
 p2384
-aS'Henry Bienen.'
-p2385
+sg16
+(lp2385
+g2383
 asa(dp2386
 g8
 (lp2387
-S'If we have fewer people who go to college, the premium of wages will go up in Chinaand India and Brazil and Turkey where the jobs will go, and those folks will benefit.'
+S'No.'
 p2388
-asg11
-S'HENRY BIENEN'
+aS"It's because the college degree, you may have heard me say this, doesn't meananything."
 p2389
-sg16
-(lp2390
-S'If we have fewer people who go to college, the premium of wages will go up in China and India and Brazil and Turkey where the jobs will go, and those folks will benefit.'
+aS'If you say, "Oh, well, if you have a classical education and that becomes thestandard of what goes into a B.A.'
+p2390
+aS"and you can be confident that's what a kid has gottenwhen they have a B.A., then you'd have a very different kind of value associated with aB.A., but it doesn't happen right now."
 p2391
-asa(dp2392
-g8
-(lp2393
-S"You know, I'm reminded of the onion which had a suggested solution for the recessionin the U.S. was just to give everybody another degree."
-p2394
-aS'And I think we have to think wecan\'t just mechanically say, "You go to college, you get a B.A.'
-p2395
-aS'"It is, "What are you learning?'
-p2396
-aS'What are the specifics?'
-p2397
-aS'" You have to be focused muchmore on the detail --'
-p2398
 asg11
-S'PETER THIEL'
-p2399
+S'CHARLES MURRAY'
+p2392
 sg16
-(lp2400
-S"You know, I'm reminded of the onion which had a suggested solution for the recession in the U.S. was just to give everybody another degree."
-p2401
-aS'And I think we have to think we can\'t just mechanically say, "You go to college, you get a B.A.'
-p2402
-aS'" It is, "What are you learning?'
-p2403
-aS'What are the specifics?'
-p2404
-aS'" You have to be focused much more on the detail --'
-p2405
-asg18
-(dp2406
-S'21:02:55'
-p2407
-I3
-ssa(dp2408
+(lp2393
+S'No.'
+p2394
+aS"It's because the college degree, you may have heard me say this, doesn't mean anything."
+p2395
+aS'If you say, "Oh, well, if you have a classical education and that becomes the standard of what goes into a B.A.'
+p2396
+aS"and you can be confident that's what a kid has gotten when they have a B.A., then you'd have a very different kind of value associated with a B.A., but it doesn't happen right now."
+p2397
+asa(dp2398
 g8
-(lp2409
-S'No, I wanted to take to you, Henry Bienen, the question that -- Peter\'s opening point isthat, that is the default position in society, increasing more so, certainly more than 45 years ago, that it is -- if you\'re anywhere close to middleclass oraspiring to the middleclass it is an automatic, "I have to go to college," without a wholemuch great deal of the sort of weighing of other options that this team is talking about.Can you take that on?'
-p2410
-aS"Is it too much of the default's position?"
-p2411
+(lp2399
+S'Okay.'
+p2400
+aS'Henry Bienen.'
+p2401
 asg11
 S'JOHN DONVAN'
-p2412
+p2402
+sg16
+(lp2403
+S'Okay.'
+p2404
+aS'Henry Bienen.'
+p2405
+asa(dp2406
+g8
+(lp2407
+S'If we have fewer people who go to college, the premium of wages will go up in Chinaand India and Brazil and Turkey where the jobs will go, and those folks will benefit.'
+p2408
+asg11
+S'HENRY BIENEN'
+p2409
+sg16
+(lp2410
+S'If we have fewer people who go to college, the premium of wages will go up in China and India and Brazil and Turkey where the jobs will go, and those folks will benefit.'
+p2411
+asa(dp2412
+g8
+(lp2413
+S"You know, I'm reminded of the onion which had a suggested solution for the recessionin the U.S. was just to give everybody another degree."
+p2414
+aS'And I think we have to think wecan\'t just mechanically say, "You go to college, you get a B.A.'
+p2415
+aS'"It is, "What are you learning?'
+p2416
+aS'What are the specifics?'
+p2417
+aS'" You have to be focused muchmore on the detail --'
+p2418
+asg11
+S'PETER THIEL'
+p2419
+sg16
+(lp2420
+S"You know, I'm reminded of the onion which had a suggested solution for the recession in the U.S. was just to give everybody another degree."
+p2421
+aS'And I think we have to think we can\'t just mechanically say, "You go to college, you get a B.A.'
+p2422
+aS'" It is, "What are you learning?'
+p2423
+aS'What are the specifics?'
+p2424
+aS'" You have to be focused much more on the detail --'
+p2425
+asg18
+(dp2426
+S'21:02:55'
+p2427
+I3
+ssa(dp2428
+g8
+(lp2429
+S'No, I wanted to take to you, Henry Bienen, the question that -- Peter\'s opening point isthat, that is the default position in society, increasing more so, certainly more than 45 years ago, that it is -- if you\'re anywhere close to middleclass oraspiring to the middleclass it is an automatic, "I have to go to college," without a wholemuch great deal of the sort of weighing of other options that this team is talking about.Can you take that on?'
+p2430
+aS"Is it too much of the default's position?"
+p2431
+asg11
+S'JOHN DONVAN'
+p2432
 sg13
-(dp2413
+(dp2433
 I4
 S'37'
-p2414
+p2434
 ssg16
-(lp2415
+(lp2435
 S'No, I wanted to take to you, Henry Bienen, the question that -- Peter\'s opening point is that, that is the default position in society, increasing more so, certainly more than 45 years ago, that it is -- if you\'re anywhere close to middleclass or aspiring to the middleclass it is an automatic, "I have to go to college," without a whole much great deal of the sort of weighing of other options that this team is talking about.'
-p2416
+p2436
 aS'Can you take that on?'
-p2417
+p2437
 aS"Is it too much of the default's position?"
-p2418
-asa(dp2419
+p2438
+asa(dp2439
 g8
-(lp2420
+(lp2440
 S"Well, I think one of the problems in the U.S., and I said this earlier, is that we haven'thad a lot of other good options."
-p2421
+p2441
 aS"So I'm not against having vocational streams in highschools, for example Westinghouse High School here, a relatively new high school, is aninteresting place."
-p2422
+p2442
 aS'It has both a high performance stream and a vocational stream.See, Mr. Mayor, you send me to these places, I try to learn something about them.'
-p2423
+p2443
 aS"Sothat's okay with me."
-p2424
+p2444
 aS"I'm not against that."
-p2425
+p2445
 aS"I'm not against for more on the job training.Only 10 percent of our labor force has what the Swiss and the Germans would call onthe job training."
-p2426
+p2446
 aS"I'm not against that."
-p2427
+p2447
 aS"Americans have decided they didn't want to go inthat direction, they didn't want to stream the kids in high school really early."
-p2428
+p2448
 aS"But I thinkit's not a terrible option at least to open it up."
-p2429
+p2449
 asg11
 S'HENRY BIENEN'
-p2430
+p2450
 sg16
-(lp2431
+(lp2451
 S"Well, I think one of the problems in the U.S., and I said this earlier, is that we haven't had a lot of other good options."
-p2432
-aS"So I'm not against having vocational streams in high schools, for example Westinghouse High School here, a relatively new high school, is an interesting place."
-p2433
-aS'It has both a high performance stream and a vocational stream.'
-p2434
-aS'See, Mr. Mayor, you send me to these places, I try to learn something about them.'
-p2435
-aS"So that's okay with me."
-p2436
-aS"I'm not against that."
-p2437
-aS"I'm not against for more on the job training."
-p2438
-aS'Only 10 percent of our labor force has what the Swiss and the Germans would call on the job training.'
-p2439
-aS"I'm not against that."
-p2440
-aS"Americans have decided they didn't want to go in that direction, they didn't want to stream the kids in high school really early."
-p2441
-aS"But I think it's not a terrible option at least to open it up."
-p2442
-asg18
-(dp2443
-S'21:03:51'
-p2444
-I4
-ssa(dp2445
-g8
-(lp2446
-S"There's a question down in the front room."
-p2447
-aS'You have a mic?'
-p2448
-asg11
-S'JOHN DONVAN'
-p2449
-sg16
-(lp2450
-S"There's a question down in the front room."
-p2451
-aS'You have a mic?'
 p2452
-asa(dp2453
-g8
-(lp2454
-S'Yes.'
+aS"So I'm not against having vocational streams in high schools, for example Westinghouse High School here, a relatively new high school, is an interesting place."
+p2453
+aS'It has both a high performance stream and a vocational stream.'
+p2454
+aS'See, Mr. Mayor, you send me to these places, I try to learn something about them.'
 p2455
-asg11
-S'JESSICA POSENER'
+aS"So that's okay with me."
 p2456
-sg16
-(lp2457
-g2455
-asa(dp2458
-g8
-(lp2459
-S'Okay.'
+aS"I'm not against that."
+p2457
+aS"I'm not against for more on the job training."
+p2458
+aS'Only 10 percent of our labor force has what the Swiss and the Germans would call on the job training.'
+p2459
+aS"I'm not against that."
 p2460
+aS"Americans have decided they didn't want to go in that direction, they didn't want to stream the kids in high school really early."
+p2461
+aS"But I think it's not a terrible option at least to open it up."
+p2462
+asg18
+(dp2463
+S'21:03:51'
+p2464
+I4
+ssa(dp2465
+g8
+(lp2466
+S"There's a question down in the front room."
+p2467
+aS'You have a mic?'
+p2468
 asg11
 S'JOHN DONVAN'
-p2461
+p2469
 sg16
-(lp2462
-g2460
-asa(dp2463
+(lp2470
+S"There's a question down in the front room."
+p2471
+aS'You have a mic?'
+p2472
+asa(dp2473
 g8
-(lp2464
-S"Hi, I'm Jessica Posener ."
-p2465
-aS"My question is that it seems to me that inthe -- with the invention of the Internet, technology, globalization, there seems to beless and less a concrete set of skills that people need to be successful in the world.There's much more like what a liberal arts education I think maybe focuses ondeveloping critical thinking skills."
-p2466
-aS'And so how would a shift from a liberal arts or sort ofa more a broader education to more concrete courses, focus on a very specific skill set,change the ability of our society to innovate and to continue to respond to changingdemands?'
-p2467
+(lp2474
+S'Yes.'
+p2475
 asg11
 S'JESSICA POSENER'
-p2468
+p2476
 sg16
-(lp2469
-S"Hi, I'm Jessica Posener ."
-p2470
-aS'My question is that it seems to me that in the -- with the invention of the Internet, technology, globalization, there seems to be less and less a concrete set of skills that people need to be successful in the world.'
-p2471
-aS"There's much more like what a liberal arts education I think maybe focuses on developing critical thinking skills."
-p2472
-aS'And so how would a shift from a liberal arts or sort of a more a broader education to more concrete courses, focus on a very specific skill set, change the ability of our society to innovate and to continue to respond to changing demands?'
-p2473
-asg18
-(dp2474
-S'21:05:02'
-p2475
-I8
-ssa(dp2476
-g8
 (lp2477
-S'So --'
-p2478
-asg11
-S'PETER THIEL'
-p2479
-sg16
-(lp2480
-g2478
-asa(dp2481
+g2475
+asa(dp2478
 g8
-(lp2482
-S'Peter Thiel.'
-p2483
+(lp2479
+S'Okay.'
+p2480
 asg11
 S'JOHN DONVAN'
-p2484
-sg13
-(dp2485
-I1
-S'38'
-p2486
-ssg16
-(lp2487
-g2483
-asa(dp2488
-g22
-(dp2489
-I2
-S'[laughter]'
-p2490
-ssg8
-(lp2491
-S'-- I actually very much disagree with almost every premise posted in that question butjust let me ---- let me just -- [[laughter]] '
-p2492
-asg11
-S'PETER THIEL'
-p2493
+p2481
 sg16
-(lp2494
-S'-- I actually very much disagree with almost every premise posted in that question but just let me -- -- let me just --'
+(lp2482
+g2480
+asa(dp2483
+g8
+(lp2484
+S"Hi, I'm Jessica Posener ."
+p2485
+aS"My question is that it seems to me that inthe -- with the invention of the Internet, technology, globalization, there seems to beless and less a concrete set of skills that people need to be successful in the world.There's much more like what a liberal arts education I think maybe focuses ondeveloping critical thinking skills."
+p2486
+aS'And so how would a shift from a liberal arts or sort ofa more a broader education to more concrete courses, focus on a very specific skill set,change the ability of our society to innovate and to continue to respond to changingdemands?'
+p2487
+asg11
+S'JESSICA POSENER'
+p2488
+sg16
+(lp2489
+S"Hi, I'm Jessica Posener ."
+p2490
+aS'My question is that it seems to me that in the -- with the invention of the Internet, technology, globalization, there seems to be less and less a concrete set of skills that people need to be successful in the world.'
+p2491
+aS"There's much more like what a liberal arts education I think maybe focuses on developing critical thinking skills."
+p2492
+aS'And so how would a shift from a liberal arts or sort of a more a broader education to more concrete courses, focus on a very specific skill set, change the ability of our society to innovate and to continue to respond to changing demands?'
+p2493
+asg18
+(dp2494
+S'21:05:02'
 p2495
-asa(dp2496
+I8
+ssa(dp2496
 g8
 (lp2497
-S'Wow.'
+S'So --'
 p2498
 asg11
-S'JOHN DONVAN'
+S'PETER THIEL'
 p2499
 sg16
 (lp2500
@@ -5188,187 +5185,189 @@ g2498
 asa(dp2501
 g8
 (lp2502
-S"-- I'll just flag one."
+S'Peter Thiel.'
 p2503
-aS'The most concrete skill oriented education people get is engineeringdegrees, and that is actually probably the one area and we may even agree on thiswhere I think the U.S. does not have an excess of engineers.'
+asg11
+S'JOHN DONVAN'
 p2504
-aS"But that is something that'sspecific and tracked and engineering is specific and that's what people get paid for themost."
-p2505
-aS"And as we were heading into a more technologically oriented world, that'sactually -- there's going to probably be an increasing premium on engineering and onspecific types of skills."
+sg13
+(dp2505
+I1
+S'38'
 p2506
-aS'And if I had to give people advice and they were set on going tocollege, you should study engineering or some form of engineering unless you are in areally unusual situation and really passionate about something else.So I would sort of quibble with the question on that level.'
-p2507
+ssg16
+(lp2507
+g2503
+asa(dp2508
+g22
+(dp2509
+I2
+S'[laughter]'
+p2510
+ssg8
+(lp2511
+S'-- I actually very much disagree with almost every premise posted in that question butjust let me ---- let me just -- [[laughter]] '
+p2512
 asg11
 S'PETER THIEL'
-p2508
-sg16
-(lp2509
-S"-- I'll just flag one."
-p2510
-aS'The most concrete skill oriented education people get is engineering degrees, and that is actually probably the one area and we may even agree on this where I think the U.S. does not have an excess of engineers.'
-p2511
-aS"But that is something that's specific and tracked and engineering is specific and that's what people get paid for the most."
-p2512
-aS"And as we were heading into a more technologically oriented world, that's actually -- there's going to probably be an increasing premium on engineering and on specific types of skills."
 p2513
-aS'And if I had to give people advice and they were set on going to college, you should study engineering or some form of engineering unless you are in a really unusual situation and really passionate about something else.'
-p2514
-aS'So I would sort of quibble with the question on that level.'
+sg16
+(lp2514
+S'-- I actually very much disagree with almost every premise posted in that question but just let me -- -- let me just --'
 p2515
+asa(dp2516
+g8
+(lp2517
+S'Wow.'
+p2518
+asg11
+S'JOHN DONVAN'
+p2519
+sg16
+(lp2520
+g2518
+asa(dp2521
+g8
+(lp2522
+S"-- I'll just flag one."
+p2523
+aS'The most concrete skill oriented education people get is engineeringdegrees, and that is actually probably the one area and we may even agree on thiswhere I think the U.S. does not have an excess of engineers.'
+p2524
+aS"But that is something that'sspecific and tracked and engineering is specific and that's what people get paid for themost."
+p2525
+aS"And as we were heading into a more technologically oriented world, that'sactually -- there's going to probably be an increasing premium on engineering and onspecific types of skills."
+p2526
+aS'And if I had to give people advice and they were set on going tocollege, you should study engineering or some form of engineering unless you are in areally unusual situation and really passionate about something else.So I would sort of quibble with the question on that level.'
+p2527
+asg11
+S'PETER THIEL'
+p2528
+sg16
+(lp2529
+S"-- I'll just flag one."
+p2530
+aS'The most concrete skill oriented education people get is engineering degrees, and that is actually probably the one area and we may even agree on this where I think the U.S. does not have an excess of engineers.'
+p2531
+aS"But that is something that's specific and tracked and engineering is specific and that's what people get paid for the most."
+p2532
+aS"And as we were heading into a more technologically oriented world, that's actually -- there's going to probably be an increasing premium on engineering and on specific types of skills."
+p2533
+aS'And if I had to give people advice and they were set on going to college, you should study engineering or some form of engineering unless you are in a really unusual situation and really passionate about something else.'
+p2534
+aS'So I would sort of quibble with the question on that level.'
+p2535
 asg18
-(dp2516
+(dp2536
 S'21:05:54'
-p2517
+p2537
 I9
-ssa(dp2518
+ssa(dp2538
 g22
-(dp2519
+(dp2539
 I7
 S'[applause]'
-p2520
+p2540
 ssg11
 S'HENRY BIENEN'
-p2521
+p2541
 sg16
-(lp2522
+(lp2542
 S"Yes, because I've been wanting to make this point because I think it was Charles who -- if I were to reinterpret what he said, he wasnt against too many kids going to college."
-p2523
+p2543
 aS'He was really against too many kids going to get four-year B.A.'
-p2524
+p2544
 aS'at expensive colleges.'
-p2525
+p2545
 aS'I dont think thats really a mis-description, but so much of this conversation from Peter and Charles has been a focus where theyre negative about the general B.A.'
-p2526
+p2546
 aS'or presumably the humanities and social sciences.'
-p2527
+p2547
 aS'So let me speak up for the humanities and social sciences.'
-p2528
+p2548
 aS'So there are lots of smart people who think analytically and rigorously who take the humanities and social sciences, who are art history majors, God love them, and who are historians and who learn Arabic and who learn Chinese, or who learn Hindi or who learn whatever.'
-p2529
+p2549
 aS'And were going to send lots of those people.'
-p2530
+p2550
 aS'They need to have those languages.'
-p2531
+p2551
 aS'They need to learn cultures that are different from the U.S. Theyre going to be business people who go abroad.'
-p2532
+p2552
 aS'Theyre going to be diplomats, whoever they may be, so why should we only think that the only place to get an education which is rigorous, analytical, and will serve you well is going to be in the engineering, mathematics --'
-p2533
+p2553
 asg18
-(dp2534
+(dp2554
 S'21:06:53'
-p2535
+p2555
 I11
 ssg8
-(lp2536
+(lp2556
 S"Yes, because I've been wanting to make this point because I think it was Charles who -- ifI were to reinterpret what he said, he wasnt against too many kids going to college."
-p2537
+p2557
 aS'Hewas really against too many kids going to get four-year B.A.'
-p2538
+p2558
 aS'at expensive colleges.'
-p2539
+p2559
 aS'Idont think thats really a mis-description, but so much of this conversation from Peterand Charles has been a focus where theyre negative about the general B.A.'
-p2540
+p2560
 aS'orpresumably the humanities and social sciences.'
-p2541
+p2561
 aS'So let me speak up for the humanitiesand social sciences.So there are lots of smart people who think analytically and rigorously who take the [[applause]] humanities and social sciences, who are art history majors, God love them, and who arehistorians and who learn Arabic and who learn Chinese, or who learn Hindi or who learnwhatever.And were going to send lots of those people.'
-p2542
+p2562
 aS'They need to have those languages.'
-p2543
+p2563
 aS'Theyneed to learn cultures that are different from the U.S. Theyre going to be businesspeople who go abroad.'
-p2544
+p2564
 aS'Theyre going to be diplomats, whoever they may be, so whyshould we only think that the only place to get an education which is rigorous,analytical, and will serve you well is going to be in the engineering, mathematics --'
-p2545
+p2565
 asg13
-(dp2546
+(dp2566
 I11
 S'39'
-p2547
-ssa(dp2548
-g8
-(lp2549
-S'So whats really going on in the Center for Nanofabrication and Molecular SelfAssembly?'
-p2550
-aS'Those are not English majors hanging out there.'
-p2551
-asg11
-S'JOHN DONVAN'
-p2552
-sg16
-(lp2553
-S'So whats really going on in the Center for Nanofabrication and Molecular Self Assembly?'
-p2554
-aS'Those are not English majors hanging out there.'
-p2555
-asa(dp2556
-g8
-(lp2557
-S'No, nothing I said is against the sciences.'
-p2558
-aS'I sunk a fortune into the sciences, and wehired the best chemists and computer scientists we could hire, and thats great.'
-p2559
-aS'I dontthink its one hand here or the other hand that.'
-p2560
-aS'You can do lots of things in a greatuniversity.'
-p2561
-asg11
-S'HENRY BIENEN'
-p2562
-sg16
-(lp2563
-S'No, nothing I said is against the sciences.'
-p2564
-aS'I sunk a fortune into the sciences, and we hired the best chemists and computer scientists we could hire, and thats great.'
-p2565
-aS'I dont think its one hand here or the other hand that.'
-p2566
-aS'You can do lots of things in a great university.'
 p2567
-asa(dp2568
+ssa(dp2568
 g8
 (lp2569
-S'Charles Murray.'
+S'So whats really going on in the Center for Nanofabrication and Molecular SelfAssembly?'
 p2570
+aS'Those are not English majors hanging out there.'
+p2571
 asg11
 S'JOHN DONVAN'
-p2571
+p2572
 sg16
-(lp2572
-g2570
-asa(dp2573
-g8
-(lp2574
-S'I just want to comment that when we talk about the humanities and social sciences andrigorous critical thinking, Im not only in favor that, I think we have a dearth of it in theuniversity system.'
+(lp2573
+S'So whats really going on in the Center for Nanofabrication and Molecular Self Assembly?'
+p2574
+aS'Those are not English majors hanging out there.'
 p2575
-aS'The problem is we are talking as if universities consisted of Stanford,of Northwestern and Harvard and places like that.Very few kids go to those colleges.'
-p2576
-aS'Most of them are at West Podunk State or itsequivalent.'
-p2577
-aS'And you are talking about course that theyre no relation --'
+asa(dp2576
+g8
+(lp2577
+S'No, nothing I said is against the sciences.'
 p2578
-asg11
-S'CHARLES MURRAY'
+aS'I sunk a fortune into the sciences, and wehired the best chemists and computer scientists we could hire, and thats great.'
 p2579
-sg16
-(lp2580
-S'I just want to comment that when we talk about the humanities and social sciences and rigorous critical thinking, Im not only in favor that, I think we have a dearth of it in the university system.'
+aS'I dontthink its one hand here or the other hand that.'
+p2580
+aS'You can do lots of things in a greatuniversity.'
 p2581
-aS'The problem is we are talking as if universities consisted of Stanford, of Northwestern and Harvard and places like that.'
+asg11
+S'HENRY BIENEN'
 p2582
-aS'Very few kids go to those colleges.'
-p2583
-aS'Most of them are at West Podunk State or its equivalent.'
+sg16
+(lp2583
+S'No, nothing I said is against the sciences.'
 p2584
-aS'And you are talking about course that theyre no relation --'
+aS'I sunk a fortune into the sciences, and we hired the best chemists and computer scientists we could hire, and thats great.'
 p2585
-asg18
-(dp2586
-S'21:07:57'
+aS'I dont think its one hand here or the other hand that.'
+p2586
+aS'You can do lots of things in a great university.'
 p2587
-I4
-ssa(dp2588
+asa(dp2588
 g8
 (lp2589
-S'Could you name some names, seriously, of the types of colleges that youre referring to?'
+S'Charles Murray.'
 p2590
 asg11
 S'JOHN DONVAN'
@@ -5379,1401 +5378,1670 @@ g2590
 asa(dp2593
 g8
 (lp2594
-S'Yeah, you take the state university systems which usually have about three tiers.Theres the, like Ohio State and Iowa University and so forth.'
+S'I just want to comment that when we talk about the humanities and social sciences andrigorous critical thinking, Im not only in favor that, I think we have a dearth of it in theuniversity system.'
 p2595
-aS'Then theres a second tierof colleges which are acknowledged to be not nearly as good even though theyre four-year and sometimes theres a third tier.'
+aS'The problem is we are talking as if universities consisted of Stanford,of Northwestern and Harvard and places like that.Very few kids go to those colleges.'
 p2596
-aS'And those are the places where you are gettingthe courses that teach economics with magazine articles, that teach Shakespeare byhaving kids watch movies of Shakespeares plays but you dont ask them to read them,places where kids do not -- Im not talking anecdotes.'
+aS'Most of them are at West Podunk State or itsequivalent.'
 p2597
-aS'Im talking surveys about thepercentages of kids who graduate from college unable to write grammatical sentences.Critical thinking doesnt enter the realm of college life in those places.'
+aS'And you are talking about course that theyre no relation --'
 p2598
 asg11
 S'CHARLES MURRAY'
 p2599
+sg16
+(lp2600
+S'I just want to comment that when we talk about the humanities and social sciences and rigorous critical thinking, Im not only in favor that, I think we have a dearth of it in the university system.'
+p2601
+aS'The problem is we are talking as if universities consisted of Stanford, of Northwestern and Harvard and places like that.'
+p2602
+aS'Very few kids go to those colleges.'
+p2603
+aS'Most of them are at West Podunk State or its equivalent.'
+p2604
+aS'And you are talking about course that theyre no relation --'
+p2605
+asg18
+(dp2606
+S'21:07:57'
+p2607
+I4
+ssa(dp2608
+g8
+(lp2609
+S'Could you name some names, seriously, of the types of colleges that youre referring to?'
+p2610
+asg11
+S'JOHN DONVAN'
+p2611
+sg16
+(lp2612
+g2610
+asa(dp2613
+g8
+(lp2614
+S'Yeah, you take the state university systems which usually have about three tiers.Theres the, like Ohio State and Iowa University and so forth.'
+p2615
+aS'Then theres a second tierof colleges which are acknowledged to be not nearly as good even though theyre four-year and sometimes theres a third tier.'
+p2616
+aS'And those are the places where you are gettingthe courses that teach economics with magazine articles, that teach Shakespeare byhaving kids watch movies of Shakespeares plays but you dont ask them to read them,places where kids do not -- Im not talking anecdotes.'
+p2617
+aS'Im talking surveys about thepercentages of kids who graduate from college unable to write grammatical sentences.Critical thinking doesnt enter the realm of college life in those places.'
+p2618
+asg11
+S'CHARLES MURRAY'
+p2619
 sg13
-(dp2600
+(dp2620
 I8
 S'40'
-p2601
+p2621
 ssg16
-(lp2602
+(lp2622
 S'Yeah, you take the state university systems which usually have about three tiers.'
-p2603
+p2623
 aS'Theres the, like Ohio State and Iowa University and so forth.'
-p2604
+p2624
 aS'Then theres a second tier of colleges which are acknowledged to be not nearly as good even though theyre four- year and sometimes theres a third tier.'
-p2605
+p2625
 aS'And those are the places where you are getting the courses that teach economics with magazine articles, that teach Shakespeare by having kids watch movies of Shakespeares plays but you dont ask them to read them, places where kids do not -- Im not talking anecdotes.'
-p2606
+p2626
 aS'Im talking surveys about the percentages of kids who graduate from college unable to write grammatical sentences.'
-p2607
+p2627
 aS'Critical thinking doesnt enter the realm of college life in those places.'
-p2608
+p2628
 asg18
-(dp2609
+(dp2629
 S'21:08:53'
-p2610
+p2630
 I8
-ssa(dp2611
+ssa(dp2631
 g8
-(lp2612
+(lp2632
 S'Question right in the center with the beret.'
-p2613
+p2633
 aS'Thanks.'
-p2614
+p2634
 asg11
 S'JOHN DONVAN'
-p2615
+p2635
 sg16
-(lp2616
+(lp2636
 S'Question right in the center with the beret.'
-p2617
+p2637
 aS'Thanks.'
-p2618
-asa(dp2619
+p2638
+asa(dp2639
 g8
-(lp2620
+(lp2640
 S'Hi.'
-p2621
+p2641
 aS'My name is Irene and Im a final-year physics college student.'
-p2622
+p2642
 aS'Andmy question is, as a society, weve grown up with the notion of the importance of awell-rounded individual which is why a number of four-year Bachelor programs in theU.S.'
-p2623
+p2643
 aS'have a substantial amount of unrelated course work that has nothing to do with apersons major.'
-p2624
+p2644
 aS'On the other hand, Europe, which recently adopted the three-yearBachelor system a couple of years ago, has much less of that unrelated, more well-rounded amount of coursework and more focus on the concrete, actual coursework thatpertains to ones major.'
-p2625
+p2645
 aS'And my question to you is which system do you think has anadvantage in the future?'
-p2626
+p2646
 asg11
 S'FEMALE SPEAKER'
-p2627
+p2647
 sg16
-(lp2628
+(lp2648
 S'Hi.'
-p2629
+p2649
 aS'My name is Irene and Im a final-year physics college student.'
-p2630
+p2650
 aS'And my question is, as a society, weve grown up with the notion of the importance of a well-rounded individual which is why a number of four-year Bachelor programs in the U.S. have a substantial amount of unrelated course work that has nothing to do with a persons major.'
-p2631
+p2651
 aS'On the other hand, Europe, which recently adopted the three-year Bachelor system a couple of years ago, has much less of that unrelated, more well- rounded amount of coursework and more focus on the concrete, actual coursework that pertains to ones major.'
-p2632
+p2652
 aS'And my question to you is which system do you think has an advantage in the future?'
-p2633
-asa(dp2634
+p2653
+asa(dp2654
 g8
-(lp2635
+(lp2655
 S'Well, may I respond first by saying that if the required course in the humanities was totake The Epic Poem from Homer to Milton, Id say thats great.'
-p2636
+p2656
 aS'If its to take The EpicFilm from Ben Hur to Lord of the Rings, its not so great.So what we have as course requirements in this country, it just doesnt fit this image youwant to see of people sitting Aristotle and the classics and the rest of it.'
-p2637
+p2657
 aS'Its not thecurriculum.'
-p2638
+p2658
 asg11
 S'CHARLES MURRAY'
-p2639
+p2659
 sg16
-(lp2640
+(lp2660
 S'Well, may I respond first by saying that if the required course in the humanities was to take The Epic Poem from Homer to Milton, Id say thats great.'
-p2641
+p2661
 aS'If its to take The Epic Film from Ben Hur to Lord of the Rings, its not so great.'
-p2642
-aS'So what we have as course requirements in this country, it just doesnt fit this image you want to see of people sitting Aristotle and the classics and the rest of it.'
-p2643
-aS'Its not the curriculum.'
-p2644
-asg18
-(dp2645
-S'21:09:56'
-p2646
-I3
-ssa(dp2647
-g8
-(lp2648
-S'Sir, there -- youre behind -- yeah, thank you.'
-p2649
-aS'And the mics coming from your right side.'
-p2650
-asg11
-S'JOHN DONVAN'
-p2651
-sg16
-(lp2652
-S'Sir, there -- youre behind -- yeah, thank you.'
-p2653
-aS'And the mics coming from your right side.'
-p2654
-asa(dp2655
-g8
-(lp2656
-S'My names Randall Spencer.'
-p2657
-asg11
-S'RANDALL SPENCER'
-p2658
-sg16
-(lp2659
-g2657
-asa(dp2660
-g8
-(lp2661
-S'Could you -- we didnt turn the mic on.'
 p2662
-aS'Could you just repeat now?'
+aS'So what we have as course requirements in this country, it just doesnt fit this image you want to see of people sitting Aristotle and the classics and the rest of it.'
 p2663
-aS'I think its ready foryou.'
+aS'Its not the curriculum.'
 p2664
+asg18
+(dp2665
+S'21:09:56'
+p2666
+I3
+ssa(dp2667
+g8
+(lp2668
+S'Sir, there -- youre behind -- yeah, thank you.'
+p2669
+aS'And the mics coming from your right side.'
+p2670
 asg11
 S'JOHN DONVAN'
-p2665
+p2671
 sg16
-(lp2666
-S'Could you -- we didnt turn the mic on.'
-p2667
-aS'Could you just repeat now?'
-p2668
-aS'I think its ready for you.'
-p2669
-asa(dp2670
-g8
-(lp2671
-S'My names Randall Spencer.'
-p2672
-aS'I myself graduated from a four-year college with anengineering degree.'
+(lp2672
+S'Sir, there -- youre behind -- yeah, thank you.'
 p2673
-aS'Weve heard about students that -- how much more people makeby getting college degrees.'
+aS'And the mics coming from your right side.'
 p2674
-aS'But what do we know about those who think that they havethis idea that college is something that theyre supposed to do, and they end up going tocollege and building up debt and they dont finish.'
-p2675
-aS'What do we know about them as faras the money they make, the debt they accrue, the percentage of people that are goingto college and are not directly --'
-p2676
+asa(dp2675
+g8
+(lp2676
+S'My names Randall Spencer.'
+p2677
 asg11
 S'RANDALL SPENCER'
-p2677
+p2678
+sg16
+(lp2679
+g2677
+asa(dp2680
+g8
+(lp2681
+S'Could you -- we didnt turn the mic on.'
+p2682
+aS'Could you just repeat now?'
+p2683
+aS'I think its ready foryou.'
+p2684
+asg11
+S'JOHN DONVAN'
+p2685
+sg16
+(lp2686
+S'Could you -- we didnt turn the mic on.'
+p2687
+aS'Could you just repeat now?'
+p2688
+aS'I think its ready for you.'
+p2689
+asa(dp2690
+g8
+(lp2691
+S'My names Randall Spencer.'
+p2692
+aS'I myself graduated from a four-year college with anengineering degree.'
+p2693
+aS'Weve heard about students that -- how much more people makeby getting college degrees.'
+p2694
+aS'But what do we know about those who think that they havethis idea that college is something that theyre supposed to do, and they end up going tocollege and building up debt and they dont finish.'
+p2695
+aS'What do we know about them as faras the money they make, the debt they accrue, the percentage of people that are goingto college and are not directly --'
+p2696
+asg11
+S'RANDALL SPENCER'
+p2697
 sg13
-(dp2678
+(dp2698
 I4
 S'41'
-p2679
+p2699
 ssg16
-(lp2680
+(lp2700
 S'My names Randall Spencer.'
-p2681
+p2701
 aS'I myself graduated from a four-year college with an engineering degree.'
-p2682
+p2702
 aS'Weve heard about students that -- how much more people make by getting college degrees.'
-p2683
+p2703
 aS'But what do we know about those who think that they have this idea that college is something that theyre supposed to do, and they end up going to college and building up debt and they dont finish.'
-p2684
+p2704
 aS'What do we know about them as far as the money they make, the debt they accrue, the percentage of people that are going to college and are not directly --'
-p2685
+p2705
 asg18
-(dp2686
+(dp2706
 S'21:10:53'
-p2687
+p2707
 I7
-ssa(dp2688
+ssa(dp2708
 g8
-(lp2689
+(lp2709
 S'Can I rephrase your question to put a twist on it to relate it to our topic, is are so manykids -- are there people going to college who are hurt by going to college?'
-p2690
+p2710
 asg11
 S'JOHN DONVAN'
-p2691
+p2711
 sg16
-(lp2692
+(lp2712
 S'Can I rephrase your question to put a twist on it to relate it to our topic, is are so many kids -- are there people going to college who are hurt by going to college?'
-p2693
-asa(dp2694
+p2713
+asa(dp2714
 g8
-(lp2695
+(lp2715
 S'Right, exactly.'
-p2696
+p2716
 aS'And are there more or less --'
-p2697
+p2717
 asg11
 S'RANDALL SPENCER'
-p2698
-sg16
-(lp2699
-S'Right, exactly.'
-p2700
-aS'And are there more or less --'
-p2701
-asa(dp2702
-g8
-(lp2703
-S'Henry -- okay, great question.'
-p2704
-aS'Henry Bienen.'
-p2705
-asg11
-S'JOHN DONVAN'
-p2706
-sg16
-(lp2707
-S'Henry -- okay, great question.'
-p2708
-aS'Henry Bienen.'
-p2709
-asa(dp2710
-g8
-(lp2711
-S"It's interesting."
-p2712
-aS"The data shows, and the data is conclusive on this, that it's not justgetting a degree which increases your life chances and your income."
-p2713
-aS"In fact, even incommunity colleges, which are basically two-year places, if you're in there for a periodof time like one semester, you have a better chance, and you'll earn more money than ifyou never went."
-p2714
-aS'And this is true of two-year, four-year colleges, whatever.'
-p2715
-aS"So it's -- ifyou look at this, it's almost linear that the more time you spend in college, irrespectiveof whether you get a degree, pays off for you."
-p2716
-aS'Now, there is a sheepskin effect ataround 16 years.'
-p2717
-aS"But it's a little bump."
 p2718
-aS"It's not a huge bump so --"
-p2719
-asg11
-S'HENRY BIENEN'
-p2720
 sg16
-(lp2721
-S"It's interesting."
-p2722
-aS"The data shows, and the data is conclusive on this, that it's not just getting a degree which increases your life chances and your income."
-p2723
-aS"In fact, even in community colleges, which are basically two-year places, if you're in there for a period of time like one semester, you have a better chance, and you'll earn more money than if you never went."
-p2724
-aS'And this is true of two-year, four-year colleges, whatever.'
-p2725
-aS"So it's -- if you look at this, it's almost linear that the more time you spend in college, irrespective of whether you get a degree, pays off for you."
-p2726
-aS'Now, there is a sheepskin effect at around 16 years.'
-p2727
-aS"But it's a little bump."
-p2728
-aS"It's not a huge bump so --"
-p2729
-asg18
-(dp2730
-S'21:11:51'
-p2731
-I8
-ssa(dp2732
+(lp2719
+S'Right, exactly.'
+p2720
+aS'And are there more or less --'
+p2721
+asa(dp2722
 g8
-(lp2733
-S'How do you know that going to college is what causes that benefit as opposed to peoplewho are able to achieve those sorts of things in life rather than people who select to goto college?'
-p2734
+(lp2723
+S'Henry -- okay, great question.'
+p2724
+aS'Henry Bienen.'
+p2725
 asg11
 S'JOHN DONVAN'
-p2735
+p2726
 sg16
-(lp2736
-S'How do you know that going to college is what causes that benefit as opposed to people who are able to achieve those sorts of things in life rather than people who select to go to college?'
-p2737
-asa(dp2738
+(lp2727
+S'Henry -- okay, great question.'
+p2728
+aS'Henry Bienen.'
+p2729
+asa(dp2730
 g8
-(lp2739
-S"Well, there's always a causation issue, as I said from the beginning."
-p2740
-aS"It's not so clearoften what's correlation and what's cause."
-p2741
-aS'On this one, I think we have lots of studieswhich show that when you try to normalize or hold account for all the other variables,and there are lots of them; family background, environment, even intelligence.'
-p2742
-aS'I mean,some people are smarter than other people.'
-p2743
-aS"That's a fact of life."
-p2744
-aS'Whatever you do, youstill find a college effect.'
-p2745
-aS"But the point I was making to this question, John, because Ithink it's a very important question, that -- and even if you look at debt, if you look atthe number of years in college or the number of even months in college, it'sextraordinary."
-p2746
-aS'It pays off.'
-p2747
+(lp2731
+S"It's interesting."
+p2732
+aS"The data shows, and the data is conclusive on this, that it's not justgetting a degree which increases your life chances and your income."
+p2733
+aS"In fact, even incommunity colleges, which are basically two-year places, if you're in there for a periodof time like one semester, you have a better chance, and you'll earn more money than ifyou never went."
+p2734
+aS'And this is true of two-year, four-year colleges, whatever.'
+p2735
+aS"So it's -- ifyou look at this, it's almost linear that the more time you spend in college, irrespectiveof whether you get a degree, pays off for you."
+p2736
+aS'Now, there is a sheepskin effect ataround 16 years.'
+p2737
+aS"But it's a little bump."
+p2738
+aS"It's not a huge bump so --"
+p2739
 asg11
 S'HENRY BIENEN'
+p2740
+sg16
+(lp2741
+S"It's interesting."
+p2742
+aS"The data shows, and the data is conclusive on this, that it's not just getting a degree which increases your life chances and your income."
+p2743
+aS"In fact, even in community colleges, which are basically two-year places, if you're in there for a period of time like one semester, you have a better chance, and you'll earn more money than if you never went."
+p2744
+aS'And this is true of two-year, four-year colleges, whatever.'
+p2745
+aS"So it's -- if you look at this, it's almost linear that the more time you spend in college, irrespective of whether you get a degree, pays off for you."
+p2746
+aS'Now, there is a sheepskin effect at around 16 years.'
+p2747
+aS"But it's a little bump."
 p2748
+aS"It's not a huge bump so --"
+p2749
+asg18
+(dp2750
+S'21:11:51'
+p2751
+I8
+ssa(dp2752
+g8
+(lp2753
+S'How do you know that going to college is what causes that benefit as opposed to peoplewho are able to achieve those sorts of things in life rather than people who select to goto college?'
+p2754
+asg11
+S'JOHN DONVAN'
+p2755
+sg16
+(lp2756
+S'How do you know that going to college is what causes that benefit as opposed to people who are able to achieve those sorts of things in life rather than people who select to go to college?'
+p2757
+asa(dp2758
+g8
+(lp2759
+S"Well, there's always a causation issue, as I said from the beginning."
+p2760
+aS"It's not so clearoften what's correlation and what's cause."
+p2761
+aS'On this one, I think we have lots of studieswhich show that when you try to normalize or hold account for all the other variables,and there are lots of them; family background, environment, even intelligence.'
+p2762
+aS'I mean,some people are smarter than other people.'
+p2763
+aS"That's a fact of life."
+p2764
+aS'Whatever you do, youstill find a college effect.'
+p2765
+aS"But the point I was making to this question, John, because Ithink it's a very important question, that -- and even if you look at debt, if you look atthe number of years in college or the number of even months in college, it'sextraordinary."
+p2766
+aS'It pays off.'
+p2767
+asg11
+S'HENRY BIENEN'
+p2768
 sg13
-(dp2749
+(dp2769
 I9
 S'42'
-p2750
-ssg16
-(lp2751
-S"Well, there's always a causation issue, as I said from the beginning."
-p2752
-aS"It's not so clear often what's correlation and what's cause."
-p2753
-aS'On this one, I think we have lots of studies which show that when you try to normalize or hold account for all the other variables, and there are lots of them; family background, environment, even intelligence.'
-p2754
-aS'I mean, some people are smarter than other people.'
-p2755
-aS"That's a fact of life."
-p2756
-aS'Whatever you do, you still find a college effect.'
-p2757
-aS"But the point I was making to this question, John, because I think it's a very important question, that -- and even if you look at debt, if you look at the number of years in college or the number of even months in college, it's extraordinary."
-p2758
-aS'It pays off.'
-p2759
-asa(dp2760
-g8
-(lp2761
-S'Peter Thiel.'
-p2762
-asg11
-S'JOHN DONVAN'
-p2763
-sg16
-(lp2764
-g2762
-asa(dp2765
-g8
-(lp2766
-S"Well, you know, I think there is -- I think it pays off but not nearly as much as you thinkbecause I still think it's mostly correlation and just a tiny bit causation."
-p2767
-aS"But I want toquibble a little bit more with the idea of the data shows and what this means.And we're always looking backwards."
-p2768
-aS'And so 2005, you could have said the data showsthat housing prices always go up.'
-p2769
-aS"And they are less likely to go up if they've gone up alot."
 p2770
-aS"And so what I will tell you as an analytic truth, not an empirical truth, when peopleare paying way more than they ever have, there are going to be more people who havebeen hurt than who were hurt in the '50s or '60s, when it was effectively free."
-p2771
-aS'And so --and this will not be seen in advance.'
+ssg16
+(lp2771
+S"Well, there's always a causation issue, as I said from the beginning."
 p2772
-aS'You will see this in 10, 15, 20 years time.'
+aS"It's not so clear often what's correlation and what's cause."
 p2773
-aS"You'restarting to see it with college students, have to move back in with their parents becausethey cannot afford to get their own place and pay off their debts."
+aS'On this one, I think we have lots of studies which show that when you try to normalize or hold account for all the other variables, and there are lots of them; family background, environment, even intelligence.'
 p2774
-asg11
-S'PETER THIEL'
+aS'I mean, some people are smarter than other people.'
 p2775
-sg16
-(lp2776
-S"Well, you know, I think there is -- I think it pays off but not nearly as much as you think because I still think it's mostly correlation and just a tiny bit causation."
+aS"That's a fact of life."
+p2776
+aS'Whatever you do, you still find a college effect.'
 p2777
-aS'But I want to quibble a little bit more with the idea of the data shows and what this means.'
+aS"But the point I was making to this question, John, because I think it's a very important question, that -- and even if you look at debt, if you look at the number of years in college or the number of even months in college, it's extraordinary."
 p2778
-aS"And we're always looking backwards."
+aS'It pays off.'
 p2779
-aS'And so 2005, you could have said the data shows that housing prices always go up.'
-p2780
-aS"And they are less likely to go up if they've gone up a lot."
-p2781
-aS"And so what I will tell you as an analytic truth, not an empirical truth, when people are paying way more than they ever have, there are going to be more people who have been hurt than who were hurt in the '50s or '60s, when it was effectively free."
-p2782
-aS'And so -- and this will not be seen in advance.'
-p2783
-aS'You will see this in 10, 15, 20 years time.'
-p2784
-aS"You're starting to see it with college students, have to move back in with their parents because they cannot afford to get their own place and pay off their debts."
-p2785
-asg18
-(dp2786
-S'21:12:57'
-p2787
-I3
-ssa(dp2788
+asa(dp2780
 g8
-(lp2789
-S'So is that the popping of the bubble that you referred to, tas college being?'
-p2790
-aS'When youdescribed it as a bubble in housing, and housing crashed obviously when credit dried up.What is the popping of the college bubble?'
-p2791
+(lp2781
+S'Peter Thiel.'
+p2782
 asg11
 S'JOHN DONVAN'
-p2792
+p2783
 sg16
-(lp2793
-S'So is that the popping of the bubble that you referred to, tas college being?'
-p2794
-aS'When you described it as a bubble in housing, and housing crashed obviously when credit dried up.'
-p2795
-aS'What is the popping of the college bubble?'
-p2796
-asa(dp2797
+(lp2784
+g2782
+asa(dp2785
 g8
-(lp2798
-S"What I think we are seeing is a gradual unravel with the -- with this incredible recessionin the U.S. because the basic lie that you take on all this debt, and then you get a goodjob is being seen as not quite true.And there are many cases where it's not true."
-p2799
-aS"And I basically think it's sort of -- we seeit unravel over four or five years as you have one class after another graduate, and thereare no good jobs, even for the people with college degrees."
-p2800
-aS"I would say it's differentfrom housing because there's no specific market."
-p2801
-aS"You can't precisely evaluate a collegedegree."
-p2802
-aS"And that's actually one of the things that makes it a much more perniciousbubble than housing because it will not pop instantly, and therefore it's likely to beactually even more pronounced and more extreme before it unravels."
-p2803
+(lp2786
+S"Well, you know, I think there is -- I think it pays off but not nearly as much as you thinkbecause I still think it's mostly correlation and just a tiny bit causation."
+p2787
+aS"But I want toquibble a little bit more with the idea of the data shows and what this means.And we're always looking backwards."
+p2788
+aS'And so 2005, you could have said the data showsthat housing prices always go up.'
+p2789
+aS"And they are less likely to go up if they've gone up alot."
+p2790
+aS"And so what I will tell you as an analytic truth, not an empirical truth, when peopleare paying way more than they ever have, there are going to be more people who havebeen hurt than who were hurt in the '50s or '60s, when it was effectively free."
+p2791
+aS'And so --and this will not be seen in advance.'
+p2792
+aS'You will see this in 10, 15, 20 years time.'
+p2793
+aS"You'restarting to see it with college students, have to move back in with their parents becausethey cannot afford to get their own place and pay off their debts."
+p2794
 asg11
 S'PETER THIEL'
-p2804
+p2795
 sg16
-(lp2805
-S'What I think we are seeing is a gradual unravel with the -- with this incredible recession in the U.S. because the basic lie that you take on all this debt, and then you get a good job is being seen as not quite true.'
-p2806
-aS"And there are many cases where it's not true."
-p2807
-aS"And I basically think it's sort of -- we see it unravel over four or five years as you have one class after another graduate, and there are no good jobs, even for the people with college degrees."
-p2808
-aS"I would say it's different from housing because there's no specific market."
-p2809
-aS"You can't precisely evaluate a college degree."
-p2810
-aS"And that's actually one of the things that makes it a much more pernicious bubble than housing because it will not pop instantly, and therefore it's likely to be actually even more pronounced and more extreme before it unravels."
-p2811
+(lp2796
+S"Well, you know, I think there is -- I think it pays off but not nearly as much as you think because I still think it's mostly correlation and just a tiny bit causation."
+p2797
+aS'But I want to quibble a little bit more with the idea of the data shows and what this means.'
+p2798
+aS"And we're always looking backwards."
+p2799
+aS'And so 2005, you could have said the data shows that housing prices always go up.'
+p2800
+aS"And they are less likely to go up if they've gone up a lot."
+p2801
+aS"And so what I will tell you as an analytic truth, not an empirical truth, when people are paying way more than they ever have, there are going to be more people who have been hurt than who were hurt in the '50s or '60s, when it was effectively free."
+p2802
+aS'And so -- and this will not be seen in advance.'
+p2803
+aS'You will see this in 10, 15, 20 years time.'
+p2804
+aS"You're starting to see it with college students, have to move back in with their parents because they cannot afford to get their own place and pay off their debts."
+p2805
 asg18
-(dp2812
-S'21:14:02'
-p2813
+(dp2806
+S'21:12:57'
+p2807
 I3
-ssa(dp2814
+ssa(dp2808
 g8
-(lp2815
-S'Another question from the rear there.'
-p2816
+(lp2809
+S'So is that the popping of the bubble that you referred to, tas college being?'
+p2810
+aS'When youdescribed it as a bubble in housing, and housing crashed obviously when credit dried up.What is the popping of the college bubble?'
+p2811
 asg11
 S'JOHN DONVAN'
-p2817
+p2812
 sg16
-(lp2818
-g2816
-asa(dp2819
+(lp2813
+S'So is that the popping of the bubble that you referred to, tas college being?'
+p2814
+aS'When you described it as a bubble in housing, and housing crashed obviously when credit dried up.'
+p2815
+aS'What is the popping of the college bubble?'
+p2816
+asa(dp2817
 g8
-(lp2820
-S'Hi.'
+(lp2818
+S"What I think we are seeing is a gradual unravel with the -- with this incredible recessionin the U.S. because the basic lie that you take on all this debt, and then you get a goodjob is being seen as not quite true.And there are many cases where it's not true."
+p2819
+aS"And I basically think it's sort of -- we seeit unravel over four or five years as you have one class after another graduate, and thereare no good jobs, even for the people with college degrees."
+p2820
+aS"I would say it's differentfrom housing because there's no specific market."
 p2821
-aS"I'm exploration and a graduate of the University of Chicago."
+aS"You can't precisely evaluate a collegedegree."
 p2822
-aS"We'veheard lots of reasons to go to college."
+aS"And that's actually one of the things that makes it a much more perniciousbubble than housing because it will not pop instantly, and therefore it's likely to beactually even more pronounced and more extreme before it unravels."
 p2823
-aS"Most of it has been about work and economics, alittle bit about the need to meet diverse people, be exposed to things we might not seebefore.In the spirit of the debate, could you clarify what it is you think college is actually for?What's the end or purpose of college?"
+asg11
+S'PETER THIEL'
 p2824
+sg16
+(lp2825
+S'What I think we are seeing is a gradual unravel with the -- with this incredible recession in the U.S. because the basic lie that you take on all this debt, and then you get a good job is being seen as not quite true.'
+p2826
+aS"And there are many cases where it's not true."
+p2827
+aS"And I basically think it's sort of -- we see it unravel over four or five years as you have one class after another graduate, and there are no good jobs, even for the people with college degrees."
+p2828
+aS"I would say it's different from housing because there's no specific market."
+p2829
+aS"You can't precisely evaluate a college degree."
+p2830
+aS"And that's actually one of the things that makes it a much more pernicious bubble than housing because it will not pop instantly, and therefore it's likely to be actually even more pronounced and more extreme before it unravels."
+p2831
+asg18
+(dp2832
+S'21:14:02'
+p2833
+I3
+ssa(dp2834
+g8
+(lp2835
+S'Another question from the rear there.'
+p2836
+asg11
+S'JOHN DONVAN'
+p2837
+sg16
+(lp2838
+g2836
+asa(dp2839
+g8
+(lp2840
+S'Hi.'
+p2841
+aS"I'm exploration and a graduate of the University of Chicago."
+p2842
+aS"We'veheard lots of reasons to go to college."
+p2843
+aS"Most of it has been about work and economics, alittle bit about the need to meet diverse people, be exposed to things we might not seebefore.In the spirit of the debate, could you clarify what it is you think college is actually for?What's the end or purpose of college?"
+p2844
 asg11
 S'FEMALE SPEAKER'
-p2825
+p2845
 sg13
-(dp2826
+(dp2846
 I0
 S'43'
-p2827
+p2847
 ssg16
-(lp2828
+(lp2848
 S'Hi.'
-p2829
+p2849
 aS"I'm exploration and a graduate of the University of Chicago."
-p2830
+p2850
 aS"We've heard lots of reasons to go to college."
-p2831
+p2851
 aS'Most of it has been about work and economics, a little bit about the need to meet diverse people, be exposed to things we might not see before.'
-p2832
+p2852
 aS'In the spirit of the debate, could you clarify what it is you think college is actually for?'
-p2833
+p2853
 aS"What's the end or purpose of college?"
-p2834
+p2854
 asg18
-(dp2835
+(dp2855
 S'21:14:53'
-p2836
+p2856
 I4
-ssa(dp2837
+ssa(dp2857
 g8
-(lp2838
+(lp2858
 S'What a great question.'
-p2839
+p2859
 aS'Thank you.'
-p2840
+p2860
 aS'Henry Bienen or Vivek, if you want to take that.'
-p2841
+p2861
 asg11
 S'JOHN DONVAN'
-p2842
-sg16
-(lp2843
-S'What a great question.'
-p2844
-aS'Thank you.'
-p2845
-aS'Henry Bienen or Vivek, if you want to take that.'
-p2846
-asa(dp2847
-g8
-(lp2848
-S'Different strokes for different folks.'
-p2849
-aS"I think it's what you make of it."
-p2850
-aS'I think it can besometimes very focused.'
-p2851
-aS"It can be, as Vivek has said, people don't know what they wantto do until they get there."
-p2852
-aS'You learn, how do I know what I want to be until I grow up.'
-p2853
-aS"Idon't have a handy dandy formula."
-p2854
-aS"I think it's a good question, but I don't think there'san answer to it that it should be this or that because people are so diverse."
-p2855
-aS'They comewith different interests, different experiences, different backgrounds.'
-p2856
-aS'And they growpresumably in those -- in those years in college.'
-p2857
-aS'And many of them find themselves.They get sparked by different things.'
-p2858
-aS"I don't know what's going to spark somebody'sinterest."
-p2859
-aS'I mentioned for Steve Jobs it was a calligraphy course he stepped into.'
-p2860
-aS'Forsomebody, it may be reading Shakespeare.'
-p2861
-aS'It may be looking at beautiful paintings.'
 p2862
+sg16
+(lp2863
+S'What a great question.'
+p2864
+aS'Thank you.'
+p2865
+aS'Henry Bienen or Vivek, if you want to take that.'
+p2866
+asa(dp2867
+g8
+(lp2868
+S'Different strokes for different folks.'
+p2869
+aS"I think it's what you make of it."
+p2870
+aS'I think it can besometimes very focused.'
+p2871
+aS"It can be, as Vivek has said, people don't know what they wantto do until they get there."
+p2872
+aS'You learn, how do I know what I want to be until I grow up.'
+p2873
+aS"Idon't have a handy dandy formula."
+p2874
+aS"I think it's a good question, but I don't think there'san answer to it that it should be this or that because people are so diverse."
+p2875
+aS'They comewith different interests, different experiences, different backgrounds.'
+p2876
+aS'And they growpresumably in those -- in those years in college.'
+p2877
+aS'And many of them find themselves.They get sparked by different things.'
+p2878
+aS"I don't know what's going to spark somebody'sinterest."
+p2879
+aS'I mentioned for Steve Jobs it was a calligraphy course he stepped into.'
+p2880
+aS'Forsomebody, it may be reading Shakespeare.'
+p2881
+aS'It may be looking at beautiful paintings.'
+p2882
 aS"Itmay be listening to beautiful music.It may be all of a sudden math grabs them, and they didn't know what they could do."
-p2863
+p2883
 asg11
 S'HENRY BIENEN'
-p2864
-sg16
-(lp2865
-S'Different strokes for different folks.'
-p2866
-aS"I think it's what you make of it."
-p2867
-aS'I think it can be sometimes very focused.'
-p2868
-aS"It can be, as Vivek has said, people don't know what they want to do until they get there."
-p2869
-aS'You learn, how do I know what I want to be until I grow up.'
-p2870
-aS"I don't have a handy dandy formula."
-p2871
-aS"I think it's a good question, but I don't think there's an answer to it that it should be this or that because people are so diverse."
-p2872
-aS'They come with different interests, different experiences, different backgrounds.'
-p2873
-aS'And they grow presumably in those -- in those years in college.'
-p2874
-aS'And many of them find themselves.'
-p2875
-aS'They get sparked by different things.'
-p2876
-aS"I don't know what's going to spark somebody's interest."
-p2877
-aS'I mentioned for Steve Jobs it was a calligraphy course he stepped into.'
-p2878
-aS'For somebody, it may be reading Shakespeare.'
-p2879
-aS'It may be looking at beautiful paintings.'
-p2880
-aS'It may be listening to beautiful music.'
-p2881
-aS"It may be all of a sudden math grabs them, and they didn't know what they could do."
-p2882
-asg18
-(dp2883
-S'21:15:51'
 p2884
-I11
-ssa(dp2885
-g8
-(lp2886
-S'But would it ever be watching Lord of the Rings.'
+sg16
+(lp2885
+S'Different strokes for different folks.'
+p2886
+aS"I think it's what you make of it."
 p2887
-aS'Could be.'
+aS'I think it can be sometimes very focused.'
 p2888
-aS"One more question on thefar right, ma'am."
+aS"It can be, as Vivek has said, people don't know what they want to do until they get there."
 p2889
-aS'Yep, if you could just stand up.'
+aS'You learn, how do I know what I want to be until I grow up.'
 p2890
+aS"I don't have a handy dandy formula."
+p2891
+aS"I think it's a good question, but I don't think there's an answer to it that it should be this or that because people are so diverse."
+p2892
+aS'They come with different interests, different experiences, different backgrounds.'
+p2893
+aS'And they grow presumably in those -- in those years in college.'
+p2894
+aS'And many of them find themselves.'
+p2895
+aS'They get sparked by different things.'
+p2896
+aS"I don't know what's going to spark somebody's interest."
+p2897
+aS'I mentioned for Steve Jobs it was a calligraphy course he stepped into.'
+p2898
+aS'For somebody, it may be reading Shakespeare.'
+p2899
+aS'It may be looking at beautiful paintings.'
+p2900
+aS'It may be listening to beautiful music.'
+p2901
+aS"It may be all of a sudden math grabs them, and they didn't know what they could do."
+p2902
+asg18
+(dp2903
+S'21:15:51'
+p2904
+I11
+ssa(dp2905
+g8
+(lp2906
+S'But would it ever be watching Lord of the Rings.'
+p2907
+aS'Could be.'
+p2908
+aS"One more question on thefar right, ma'am."
+p2909
+aS'Yep, if you could just stand up.'
+p2910
 asg11
 S'JOHN DONVAN'
-p2891
+p2911
 sg16
-(lp2892
+(lp2912
 S'But would it ever be watching Lord of the Rings.'
-p2893
+p2913
 aS'Could be.'
-p2894
+p2914
 aS"One more question on the far right, ma'am."
-p2895
+p2915
 aS'Yep, if you could just stand up.'
-p2896
-asa(dp2897
+p2916
+asa(dp2917
 g8
-(lp2898
+(lp2918
 S'Hello.'
-p2899
+p2919
 aS"My name is Layla Dolsin , and I'm currently an MBA studentat the University of Chicago."
-p2900
+p2920
 aS"We've heard that -- or some of you have compared collegeeducation to a bubble."
-p2901
+p2921
 aS"And I'm sitting here wondering whether it might not be a bubblebut rather inflation."
-p2902
+p2922
 aS'The same kind of healthy inflation that you would experience withinflation of GDP as the economy grows.'
-p2903
+p2923
 aS"So what I'm wondering is, do you feel like highschool education, in the same way that it might have been sufficient for society in the'60s, is also sufficient for society today."
-p2904
+p2924
 aS'Thank you.'
-p2905
+p2925
 asg11
 S'LAYLA DOLSIN'
-p2906
+p2926
 sg16
-(lp2907
+(lp2927
 S'Hello.'
-p2908
+p2928
 aS"My name is Layla Dolsin , and I'm currently an MBA student at the University of Chicago."
-p2909
+p2929
 aS"We've heard that -- or some of you have compared college education to a bubble."
-p2910
+p2930
 aS"And I'm sitting here wondering whether it might not be a bubble but rather inflation."
-p2911
+p2931
 aS'The same kind of healthy inflation that you would experience with inflation of GDP as the economy grows.'
-p2912
+p2932
 aS"So what I'm wondering is, do you feel like high school education, in the same way that it might have been sufficient for society in the '60s, is also sufficient for society today."
-p2913
+p2933
 aS'Thank you.'
-p2914
-asa(dp2915
+p2934
+asa(dp2935
 g8
-(lp2916
+(lp2936
 S'Charles Murray.'
-p2917
+p2937
 asg11
 S'JOHN DONVAN'
-p2918
+p2938
 sg13
-(dp2919
+(dp2939
 I0
 S'44'
-p2920
+p2940
 ssg16
-(lp2921
-g2917
-asa(dp2922
+(lp2941
+g2937
+asa(dp2942
 g8
-(lp2923
+(lp2943
 S'Well, since I said that virtually everybody needs more education and training after highschool, obviously, I think that high school is not sufficient.I do think that a great deal of what we talk about as a liberal education can be done atthe K-12 level.'
-p2924
+p2944
 aS"There are things like the core knowledge curriculum that's created byE.D."
-p2925
+p2945
 aS'Hirsch, which is just wonderful.'
-p2926
+p2946
 aS"And it doesn't teach everybody a full-fledgedclassical education, but it -- it gets a lot of the common cultural knowledge for everyonein K-12."
-p2927
+p2947
 aS"We aren't doing it in college."
-p2928
+p2948
 aS'I think we could do it there.'
-p2929
+p2949
 asg11
 S'CHARLES MURRAY'
-p2930
+p2950
 sg16
-(lp2931
+(lp2951
 S'Well, since I said that virtually everybody needs more education and training after high school, obviously, I think that high school is not sufficient.'
-p2932
-aS'I do think that a great deal of what we talk about as a liberal education can be done at the K-12 level.'
-p2933
-aS"There are things like the core knowledge curriculum that's created by E.D."
-p2934
-aS'Hirsch, which is just wonderful.'
-p2935
-aS"And it doesn't teach everybody a full-fledged classical education, but it -- it gets a lot of the common cultural knowledge for everyone in K-12."
-p2936
-aS"We aren't doing it in college."
-p2937
-aS'I think we could do it there.'
-p2938
-asg18
-(dp2939
-S'21:16:54'
-p2940
-I2
-ssa(dp2941
-g8
-(lp2942
-S'Let me take one more question.'
-p2943
-aS'Green, wearing all green.'
-p2944
-asg11
-S'JOHN DONVAN'
-p2945
-sg16
-(lp2946
-S'Let me take one more question.'
-p2947
-aS'Green, wearing all green.'
-p2948
-asa(dp2949
-g8
-(lp2950
-S'Hello.'
-p2951
-aS"My name -- hello, my name is Katherine Darts , and I'm anarchitect and academic here, who was educated in Chicago, Paris and Copenhagen also.My question to everyone on the panel, what do academic institutions need to do toeliminate the influence-based system of family's previous alumni relations and moneythat keep us from having this open competition of education that Mr. Murray wants andget us to the opportunity of --"
 p2952
-asg11
-S'KATHERINE DARTS'
+aS'I do think that a great deal of what we talk about as a liberal education can be done at the K-12 level.'
 p2953
-sg16
-(lp2954
-S'Hello.'
+aS"There are things like the core knowledge curriculum that's created by E.D."
+p2954
+aS'Hirsch, which is just wonderful.'
 p2955
-aS"My name -- hello, my name is Katherine Darts , and I'm an architect and academic here, who was educated in Chicago, Paris and Copenhagen also."
+aS"And it doesn't teach everybody a full-fledged classical education, but it -- it gets a lot of the common cultural knowledge for everyone in K-12."
 p2956
-aS"My question to everyone on the panel, what do academic institutions need to do to eliminate the influence-based system of family's previous alumni relations and money that keep us from having this open competition of education that Mr. Murray wants and get us to the opportunity of --"
+aS"We aren't doing it in college."
 p2957
+aS'I think we could do it there.'
+p2958
 asg18
-(dp2958
-S'21:17:54'
-p2959
-I6
-ssa(dp2960
+(dp2959
+S'21:16:54'
+p2960
+I2
+ssa(dp2961
 g8
-(lp2961
-S"I'm going to respectfully pass on the question, although I think it's a very valid point,because I don't think it's going to get us to the issue of whether too many kids go tocollege or not."
-p2962
-aS'Sir, in the black tie.'
+(lp2962
+S'Let me take one more question.'
 p2963
-aS'But thank you for the question.'
+aS'Green, wearing all green.'
 p2964
 asg11
 S'JOHN DONVAN'
 p2965
 sg16
 (lp2966
-S"I'm going to respectfully pass on the question, although I think it's a very valid point, because I don't think it's going to get us to the issue of whether too many kids go to college or not."
+S'Let me take one more question.'
 p2967
-aS'Sir, in the black tie.'
+aS'Green, wearing all green.'
 p2968
-aS'But thank you for the question.'
-p2969
-asa(dp2970
+asa(dp2969
 g8
-(lp2971
-S'Hi.'
+(lp2970
+S'Hello.'
+p2971
+aS"My name -- hello, my name is Katherine Darts , and I'm anarchitect and academic here, who was educated in Chicago, Paris and Copenhagen also.My question to everyone on the panel, what do academic institutions need to do toeliminate the influence-based system of family's previous alumni relations and moneythat keep us from having this open competition of education that Mr. Murray wants andget us to the opportunity of --"
 p2972
-aS'My name is Phil Pappus .'
-p2973
-aS'When I was young, I read thatmajority of the CEOs in Fortune 500 companies only had a high school education.'
-p2974
-aS"Dueto the deterioration of secondary education in the United States, isn't college, a collegedegree, a necessity to show that you have something that was once called a high schooldegree?"
-p2975
 asg11
-S'PHIL PAPPUS'
-p2976
+S'KATHERINE DARTS'
+p2973
 sg16
-(lp2977
-S'Hi.'
-p2978
-aS'My name is Phil Pappus .'
+(lp2974
+S'Hello.'
+p2975
+aS"My name -- hello, my name is Katherine Darts , and I'm an architect and academic here, who was educated in Chicago, Paris and Copenhagen also."
+p2976
+aS"My question to everyone on the panel, what do academic institutions need to do to eliminate the influence-based system of family's previous alumni relations and money that keep us from having this open competition of education that Mr. Murray wants and get us to the opportunity of --"
+p2977
+asg18
+(dp2978
+S'21:17:54'
 p2979
-aS'When I was young, I read that majority of the CEOs in Fortune 500 companies only had a high school education.'
-p2980
-aS"Due to the deterioration of secondary education in the United States, isn't college, a college degree, a necessity to show that you have something that was once called a high school degree?"
-p2981
-asa(dp2982
+I6
+ssa(dp2980
 g8
-(lp2983
-S'Peter Thiel.'
+(lp2981
+S"I'm going to respectfully pass on the question, although I think it's a very valid point,because I don't think it's going to get us to the issue of whether too many kids go tocollege or not."
+p2982
+aS'Sir, in the black tie.'
+p2983
+aS'But thank you for the question.'
 p2984
 asg11
 S'JOHN DONVAN'
 p2985
 sg16
 (lp2986
-g2984
-asa(dp2987
+S"I'm going to respectfully pass on the question, although I think it's a very valid point, because I don't think it's going to get us to the issue of whether too many kids go to college or not."
+p2987
+aS'Sir, in the black tie.'
+p2988
+aS'But thank you for the question.'
+p2989
+asa(dp2990
+g8
+(lp2991
+S'Hi.'
+p2992
+aS'My name is Phil Pappus .'
+p2993
+aS'When I was young, I read thatmajority of the CEOs in Fortune 500 companies only had a high school education.'
+p2994
+aS"Dueto the deterioration of secondary education in the United States, isn't college, a collegedegree, a necessity to show that you have something that was once called a high schooldegree?"
+p2995
+asg11
+S'PHIL PAPPUS'
+p2996
+sg16
+(lp2997
+S'Hi.'
+p2998
+aS'My name is Phil Pappus .'
+p2999
+aS'When I was young, I read that majority of the CEOs in Fortune 500 companies only had a high school education.'
+p3000
+aS"Due to the deterioration of secondary education in the United States, isn't college, a college degree, a necessity to show that you have something that was once called a high school degree?"
+p3001
+asa(dp3002
+g8
+(lp3003
+S'Peter Thiel.'
+p3004
+asg11
+S'JOHN DONVAN'
+p3005
+sg16
+(lp3006
+g3004
+asa(dp3007
 g22
-(dp2988
+(dp3008
 I5
 S'[applause]'
-p2989
+p3009
 ssg11
 S'PETER THIEL'
-p2990
+p3010
 sg16
-(lp2991
+(lp3011
 S"It's possible that that's -- well, I think high school is very -- lots of them are still very good."
-p2992
+p3012
 aS'A lot of them are not.'
-p2993
+p3013
 aS"But it seems to me that that's a perverse cure for the disease."
-p2994
+p3014
 aS'And so if that is the disease, we should be fixing K through 12 education.'
-p2995
+p3015
 aS'And I think probably all of us on the panel would agree that K through 12 education has a lot of room for improvement.'
-p2996
+p3016
 asg18
-(dp2997
+(dp3017
 S'21:18:53'
-p2998
+p3018
 I3
 ssg8
-(lp2999
+(lp3019
 S"It's possible that that's -- well, I think high school is very -- lots of them are still verygood."
-p3000
+p3020
 aS'A lot of them are not.'
-p3001
+p3021
 aS"But it seems to me that that's a perverse cure for thedisease."
-p3002
+p3022
 aS'And so if that is the disease, we should be fixing K through 12 education.And I think probably all of us on the panel would agree that K through 12 education hasa lot of room for improvement.'
-p3003
+p3023
 asg13
-(dp3004
+(dp3024
 I0
 S'45'
-p3005
-ssa(dp3006
+p3025
+ssa(dp3026
 g22
-(dp3007
+(dp3027
 I2
 S'[applause]'
-p3008
+p3028
 ssg8
-(lp3009
+(lp3029
 S'All right.'
-p3010
+p3030
 aS'And I have to say that concludes round two of this Intelligence Squared U.S.debate.And here is where we are.'
-p3011
+p3031
 aS'We are about to hear brief closing statements from each [[applause]] debater.'
-p3012
+p3032
 aS'The statements will be two minutes each.'
-p3013
+p3033
 aS'They will be uninterrupted.'
-p3014
+p3034
 aS'Andremember, you voted before the debate, and this is their last chance for them to try toconvince you that they have argued most persuasively.'
-p3015
+p3035
 aS"And you'll be asked to vote onceagain and choose a winner just a few minutes from now."
-p3016
+p3036
 aS'So onto round three, closingstatements from each debater in turn.'
-p3017
+p3037
 aS'Our motion is this: "Too many kids go tocollege.'
-p3018
+p3038
 aS'" And here to speak against the motion, Henry Bienen, president emeritus ofNorthwestern University.'
-p3019
+p3039
 asg11
 S'JOHN DONVAN'
-p3020
-sg16
-(lp3021
-S'All right.'
-p3022
-aS'And I have to say that concludes round two of this Intelligence Squared U.S. debate.'
-p3023
-aS'And here is where we are.'
-p3024
-aS'We are about to hear brief closing statements from each debater.'
-p3025
-aS'The statements will be two minutes each.'
-p3026
-aS'They will be uninterrupted.'
-p3027
-aS'And remember, you voted before the debate, and this is their last chance for them to try to convince you that they have argued most persuasively.'
-p3028
-aS"And you'll be asked to vote once again and choose a winner just a few minutes from now."
-p3029
-aS'So onto round three, closing statements from each debater in turn.'
-p3030
-aS'Our motion is this: "Too many kids go to college.'
-p3031
-aS'" And here to speak against the motion, Henry Bienen, president emeritus of Northwestern University.'
-p3032
-asa(dp3033
-g8
-(lp3034
-S'Well, no one seems to doubt, including our opponents, that there is a wage premiumand a benefit to college.'
-p3035
-aS"They may have some confusion about what kind of college,whether they're expensive or not, though the debate was not about cost, as Iunderstood it.Mr."
-p3036
-aS"Thiel raises, I think, interesting points about causation, the direction of causation.But I think it's clear also that going to college isn't of itself an effect."
-p3037
-aS"It's a variable whichmoves people along in their lives, gives them more chance and gives them more income,independent of all the other things that get them to college in the first place."
-p3038
-aS'Now, yes,there are too many people who are unprepared that go to college.'
-p3039
-aS'And I agree withwhat Peter said at the very last minute, that it would be a perverse effect to say, okay,college is going to be remedial for the lousy high school education that they got.'
 p3040
-aS"Theanswer to that, which we're trying very hard to do in Chicago, is to improve the Kthrough 12 elementary and high school education."
-p3041
-aS"And that's key."
+sg16
+(lp3041
+S'All right.'
 p3042
-aS"That is key to societyas it is to make sure that higher education is good and affordable for all.So the answer is not that too many kids go to college any more than it would be toomany kid go to high school or elementary school because they don't get a goodeducation in too many of those places, and I'm sure there are plenty of colleges wherethey don't get a good education, sure, I'm sure that's the case."
+aS'And I have to say that concludes round two of this Intelligence Squared U.S. debate.'
 p3043
-aS"I've just never been inany of them but I know that they exist."
+aS'And here is where we are.'
 p3044
-aS'So I think the answer is very clear and that youhave to decide in the negative on the proposition that too many kids go to college.'
+aS'We are about to hear brief closing statements from each debater.'
 p3045
-aS"Thatis after all the proposition, it's not about costs, it's not about whether everything isperfect, at every college in the country, it's not about whether we should do everythingexactly how we've done it, it is the proposition that too many kids go to college, and theanswer is clearly and unequivocally that's a wrong answer."
+aS'The statements will be two minutes each.'
 p3046
+aS'They will be uninterrupted.'
+p3047
+aS'And remember, you voted before the debate, and this is their last chance for them to try to convince you that they have argued most persuasively.'
+p3048
+aS"And you'll be asked to vote once again and choose a winner just a few minutes from now."
+p3049
+aS'So onto round three, closing statements from each debater in turn.'
+p3050
+aS'Our motion is this: "Too many kids go to college.'
+p3051
+aS'" And here to speak against the motion, Henry Bienen, president emeritus of Northwestern University.'
+p3052
+asa(dp3053
+g8
+(lp3054
+S'Well, no one seems to doubt, including our opponents, that there is a wage premiumand a benefit to college.'
+p3055
+aS"They may have some confusion about what kind of college,whether they're expensive or not, though the debate was not about cost, as Iunderstood it.Mr."
+p3056
+aS"Thiel raises, I think, interesting points about causation, the direction of causation.But I think it's clear also that going to college isn't of itself an effect."
+p3057
+aS"It's a variable whichmoves people along in their lives, gives them more chance and gives them more income,independent of all the other things that get them to college in the first place."
+p3058
+aS'Now, yes,there are too many people who are unprepared that go to college.'
+p3059
+aS'And I agree withwhat Peter said at the very last minute, that it would be a perverse effect to say, okay,college is going to be remedial for the lousy high school education that they got.'
+p3060
+aS"Theanswer to that, which we're trying very hard to do in Chicago, is to improve the Kthrough 12 elementary and high school education."
+p3061
+aS"And that's key."
+p3062
+aS"That is key to societyas it is to make sure that higher education is good and affordable for all.So the answer is not that too many kids go to college any more than it would be toomany kid go to high school or elementary school because they don't get a goodeducation in too many of those places, and I'm sure there are plenty of colleges wherethey don't get a good education, sure, I'm sure that's the case."
+p3063
+aS"I've just never been inany of them but I know that they exist."
+p3064
+aS'So I think the answer is very clear and that youhave to decide in the negative on the proposition that too many kids go to college.'
+p3065
+aS"Thatis after all the proposition, it's not about costs, it's not about whether everything isperfect, at every college in the country, it's not about whether we should do everythingexactly how we've done it, it is the proposition that too many kids go to college, and theanswer is clearly and unequivocally that's a wrong answer."
+p3066
 asg11
 S'HENRY BIENEN'
-p3047
+p3067
 sg13
-(dp3048
+(dp3068
 I14
 S'46'
-p3049
+p3069
 ssg16
-(lp3050
+(lp3070
 S'Well, no one seems to doubt, including our opponents, that there is a wage premium and a benefit to college.'
-p3051
+p3071
 aS"They may have some confusion about what kind of college, whether they're expensive or not, though the debate was not about cost, as I understood it."
-p3052
+p3072
 aS'Mr. Thiel raises, I think, interesting points about causation, the direction of causation.'
-p3053
+p3073
 aS"But I think it's clear also that going to college isn't of itself an effect."
-p3054
+p3074
 aS"It's a variable which moves people along in their lives, gives them more chance and gives them more income, independent of all the other things that get them to college in the first place."
-p3055
+p3075
 aS'Now, yes, there are too many people who are unprepared that go to college.'
-p3056
+p3076
 aS'And I agree with what Peter said at the very last minute, that it would be a perverse effect to say, okay, college is going to be remedial for the lousy high school education that they got.'
-p3057
+p3077
 aS"The answer to that, which we're trying very hard to do in Chicago, is to improve the K through 12 elementary and high school education."
-p3058
+p3078
 aS"And that's key."
-p3059
+p3079
 aS'That is key to society as it is to make sure that higher education is good and affordable for all.'
-p3060
+p3080
 aS"So the answer is not that too many kids go to college any more than it would be too many kid go to high school or elementary school because they don't get a good education in too many of those places, and I'm sure there are plenty of colleges where they don't get a good education, sure, I'm sure that's the case."
-p3061
+p3081
 aS"I've just never been in any of them but I know that they exist."
-p3062
+p3082
 aS'So I think the answer is very clear and that you have to decide in the negative on the proposition that too many kids go to college.'
-p3063
+p3083
 aS"That is after all the proposition, it's not about costs, it's not about whether everything is perfect, at every college in the country, it's not about whether we should do everything exactly how we've done it, it is the proposition that too many kids go to college, and the answer is clearly and unequivocally that's a wrong answer."
-p3064
+p3084
 asg18
-(dp3065
+(dp3085
 S'21:19:54'
-p3066
+p3086
 I4
 sS'21:20:53'
-p3067
+p3087
 I14
-ssa(dp3068
+ssa(dp3088
 g22
-(dp3069
+(dp3089
 I1
 S'[applause]'
-p3070
+p3090
 ssg8
-(lp3071
+(lp3091
 S'Thank you, Henry Bienen.There\'s a little bit of a lag on that one, but our motion is "Too many kids go to college," [[applause]] and here to summarize his position in support of the motion, Peter Thiel.He is PayPal cofounder who\'s 20 Under 20 Fellowship Awards grant cash to young techentrepreneurs.'
-p3072
+p3092
 asg11
 S'JOHN DONVAN'
-p3073
-sg16
-(lp3074
-S'Thank you, Henry Bienen.'
-p3075
-aS'There\'s a little bit of a lag on that one, but our motion is "Too many kids go to college," and here to summarize his position in support of the motion, Peter Thiel.'
-p3076
-aS"He is PayPal cofounder who's 20 Under 20 Fellowship Awards grant cash to young tech entrepreneurs."
-p3077
-asg18
-(dp3078
-S'21:21:58'
-p3079
-I3
-ssa(dp3080
-g8
-(lp3081
-S'The one thing that was clearly not done by the other side was to answer my questionabout where would the accountability be for all the people who get hurt by the systemthat costs too much and is not delivering.'
-p3082
-aS'And it is clear to me that there is noaccountability on the part of our education establishment.'
-p3083
-aS"They're not willing to givepeople refunds."
-p3084
-aS"They're not -- if you get a Ford and it blows up, a Ford Pinto blows up,you can go to the Ford company, you can get money back for your car, you might evenbe able to sue them for torts, such a mentality is unthinkable in the college case."
-p3085
-aS'Andgiven that there is this lack of accountability, buyer beware.'
-p3086
-aS'You are on your own.'
-p3087
-aS'Youtake on the loans.'
-p3088
-aS"It's worse than housing debt."
-p3089
-aS'You can never get out of it, not eventhrough bankruptcy.Bush amended the bankruptcy laws in 2005 so you cannot get out of college debts forthe rest of your life.'
-p3090
-aS'And you need to think about this on your own.'
-p3091
-aS'The way bubblesend is when people start thinking for themselves.'
-p3092
-aS'And that is the first thing we want toencourage people to do is not to simply go with the social pressure, not to go with thebill of goods, "This has always been done.'
 p3093
-aS'This is automatic.'
-p3094
-aS'This is necessary.'
+sg16
+(lp3094
+S'Thank you, Henry Bienen.'
 p3095
-aS'This isglobalization.'
+aS'There\'s a little bit of a lag on that one, but our motion is "Too many kids go to college," and here to summarize his position in support of the motion, Peter Thiel.'
 p3096
-aS'" But think for yourself, "Is the cost worth the benefit?'
+aS"He is PayPal cofounder who's 20 Under 20 Fellowship Awards grant cash to young tech entrepreneurs."
 p3097
+asg18
+(dp3098
+S'21:21:58'
+p3099
+I3
+ssa(dp3100
+g8
+(lp3101
+S'The one thing that was clearly not done by the other side was to answer my questionabout where would the accountability be for all the people who get hurt by the systemthat costs too much and is not delivering.'
+p3102
+aS'And it is clear to me that there is noaccountability on the part of our education establishment.'
+p3103
+aS"They're not willing to givepeople refunds."
+p3104
+aS"They're not -- if you get a Ford and it blows up, a Ford Pinto blows up,you can go to the Ford company, you can get money back for your car, you might evenbe able to sue them for torts, such a mentality is unthinkable in the college case."
+p3105
+aS'Andgiven that there is this lack of accountability, buyer beware.'
+p3106
+aS'You are on your own.'
+p3107
+aS'Youtake on the loans.'
+p3108
+aS"It's worse than housing debt."
+p3109
+aS'You can never get out of it, not eventhrough bankruptcy.Bush amended the bankruptcy laws in 2005 so you cannot get out of college debts forthe rest of your life.'
+p3110
+aS'And you need to think about this on your own.'
+p3111
+aS'The way bubblesend is when people start thinking for themselves.'
+p3112
+aS'And that is the first thing we want toencourage people to do is not to simply go with the social pressure, not to go with thebill of goods, "This has always been done.'
+p3113
+aS'This is automatic.'
+p3114
+aS'This is necessary.'
+p3115
+aS'This isglobalization.'
+p3116
+aS'" But think for yourself, "Is the cost worth the benefit?'
+p3117
 aS'" And when morepeople think for themselves about this, we will get to a very different equilibrium wherethere\'s less of a caste system, less of a social need to do these things for status reasons,people will still go to college, they will still get advance degrees, but there will be fewerof them who do it because there are a lot of people who are doing it for the wrongreasons, and I think that will be a much healthier and more balanced country.'
-p3098
+p3118
 asg11
 S'PETER THIEL'
-p3099
+p3119
 sg13
-(dp3100
+(dp3120
 I13
 S'47'
-p3101
+p3121
 ssg16
-(lp3102
+(lp3122
 S'The one thing that was clearly not done by the other side was to answer my question about where would the accountability be for all the people who get hurt by the system that costs too much and is not delivering.'
-p3103
+p3123
 aS'And it is clear to me that there is no accountability on the part of our education establishment.'
-p3104
+p3124
 aS"They're not willing to give people refunds."
-p3105
+p3125
 aS"They're not -- if you get a Ford and it blows up, a Ford Pinto blows up, you can go to the Ford company, you can get money back for your car, you might even be able to sue them for torts, such a mentality is unthinkable in the college case."
-p3106
+p3126
 aS'And given that there is this lack of accountability, buyer beware.'
-p3107
+p3127
 aS'You are on your own.'
-p3108
+p3128
 aS'You take on the loans.'
-p3109
+p3129
 aS"It's worse than housing debt."
-p3110
+p3130
 aS'You can never get out of it, not even through bankruptcy.'
-p3111
+p3131
 aS'Bush amended the bankruptcy laws in 2005 so you cannot get out of college debts for the rest of your life.'
-p3112
+p3132
 aS'And you need to think about this on your own.'
-p3113
+p3133
 aS'The way bubbles end is when people start thinking for themselves.'
-p3114
+p3134
 aS'And that is the first thing we want to encourage people to do is not to simply go with the social pressure, not to go with the bill of goods, "This has always been done.'
-p3115
+p3135
 aS'This is automatic.'
-p3116
+p3136
 aS'This is necessary.'
-p3117
+p3137
 aS'This is globalization.'
-p3118
+p3138
 aS'" But think for yourself, "Is the cost worth the benefit?'
-p3119
+p3139
 aS'" And when more people think for themselves about this, we will get to a very different equilibrium where there\'s less of a caste system, less of a social need to do these things for status reasons, people will still go to college, they will still get advance degrees, but there will be fewer of them who do it because there are a lot of people who are doing it for the wrong reasons, and I think that will be a much healthier and more balanced country.'
-p3120
+p3140
 asg18
-(dp3121
+(dp3141
 S'21:22:53'
-p3122
+p3142
 I10
-ssa(dp3123
+ssa(dp3143
 g22
-(dp3124
+(dp3144
 I1
 S'[applause]'
-p3125
+p3145
 ssg8
-(lp3126
+(lp3146
 S'Thank you, Peter Thiel.Our motion is "Too many kids go to college.'
-p3127
+p3147
 aS'" [[applause]] And here now to summarize his position against the motion, Vivek Wadhwa.'
-p3128
+p3148
 aS'He isdirector of research at Duke Center for Entrepreneurship and ResearchCommercialization.'
-p3129
+p3149
 asg11
 S'JOHN DONVAN'
-p3130
+p3150
 sg16
-(lp3131
+(lp3151
 S'Thank you, Peter Thiel.'
-p3132
+p3152
 aS'Our motion is "Too many kids go to college.'
-p3133
+p3153
 aS'" And here now to summarize his position against the motion, Vivek Wadhwa.'
-p3134
+p3154
 aS'He is director of research at Duke Center for Entrepreneurship and Research Commercialization.'
-p3135
+p3155
 asg18
-(dp3136
+(dp3156
 S'21:23:54'
-p3137
+p3157
 I2
-ssa(dp3138
+ssa(dp3158
 g22
-(dp3139
+(dp3159
 I25
 S'[applause]'
-p3140
+p3160
 sI18
 S'[applause]'
-p3141
+p3161
 ssg11
 S'VIVEK WADHWA'
-p3142
-sg16
-(lp3143
-S'Yeah.'
-p3144
-aS"What I heard from the other side was that if we define college the way Middle America does, then we actually are agreeing that we want more kids to go to college, so I'm not going to spend my two minutes on that."
-p3145
-aS"I want to actually challenge my new friend, Peter Thiel, on something which is very dear to his heart, about the fact that it's so expensive to go to college."
-p3146
-aS'That I agree with him on.'
-p3147
-aS"And it's also antiquated."
-p3148
-aS"The system's antiquated."
-p3149
-aS'Peter and I are both associated with a great university called Singular University, which is on campus, where we teach about exponential technologies, how all these advances are happening which can change the world, impact the lives of billions.'
-p3150
-aS'Well, you know, think about it, five or 10 years ago did you ever use an iPhone or an Android?'
-p3151
-aS'None of us did.'
-p3152
-aS"I'll bet you everyone in the audience has one today."
-p3153
-aS"The fact is that it's now possible to communicate in ways we could never do before."
-p3154
-aS'We have these tabular devices which can deliver 3D simulations, take us into 3D worlds.'
-p3155
-aS'We can teach people by taking them into games.'
-p3156
-aS'We can change the entire concept of education.'
-p3157
-aS'He has the ability to do that.'
-p3158
-aS"He has done it before with social network, with Facebook, he's done it with PayPal."
-p3159
-aS'He has the ability to do this.'
-p3160
-aS"Instead of investing in silly little social media technologies, why don't we put our joint efforts into improving education if it's changing the way we deliver, to change the way we educate -- -- and changing the world."
-p3161
-aS'I tell you, Peter, you can make it happen.'
 p3162
-aS'So I challenge you here publicly to put your energy into improving education, into automating, into rethinking the way we educate so that the masses can get educated because all of us agree that we do want more people to go to whatever we call college.'
-p3163
-aS"Again, I'm not going to define it as a four-year degree, again to get more education so we can be more competitive, we can take on the world, we can change the world together."
+sg16
+(lp3163
+S'Yeah.'
 p3164
-aS"We're going to need it more than ever over the next few decades."
+aS"What I heard from the other side was that if we define college the way Middle America does, then we actually are agreeing that we want more kids to go to college, so I'm not going to spend my two minutes on that."
 p3165
-asg18
-(dp3166
-S'21:24:51'
+aS"I want to actually challenge my new friend, Peter Thiel, on something which is very dear to his heart, about the fact that it's so expensive to go to college."
+p3166
+aS'That I agree with him on.'
 p3167
+aS"And it's also antiquated."
+p3168
+aS"The system's antiquated."
+p3169
+aS'Peter and I are both associated with a great university called Singular University, which is on campus, where we teach about exponential technologies, how all these advances are happening which can change the world, impact the lives of billions.'
+p3170
+aS'Well, you know, think about it, five or 10 years ago did you ever use an iPhone or an Android?'
+p3171
+aS'None of us did.'
+p3172
+aS"I'll bet you everyone in the audience has one today."
+p3173
+aS"The fact is that it's now possible to communicate in ways we could never do before."
+p3174
+aS'We have these tabular devices which can deliver 3D simulations, take us into 3D worlds.'
+p3175
+aS'We can teach people by taking them into games.'
+p3176
+aS'We can change the entire concept of education.'
+p3177
+aS'He has the ability to do that.'
+p3178
+aS"He has done it before with social network, with Facebook, he's done it with PayPal."
+p3179
+aS'He has the ability to do this.'
+p3180
+aS"Instead of investing in silly little social media technologies, why don't we put our joint efforts into improving education if it's changing the way we deliver, to change the way we educate -- -- and changing the world."
+p3181
+aS'I tell you, Peter, you can make it happen.'
+p3182
+aS'So I challenge you here publicly to put your energy into improving education, into automating, into rethinking the way we educate so that the masses can get educated because all of us agree that we do want more people to go to whatever we call college.'
+p3183
+aS"Again, I'm not going to define it as a four-year degree, again to get more education so we can be more competitive, we can take on the world, we can change the world together."
+p3184
+aS"We're going to need it more than ever over the next few decades."
+p3185
+asg18
+(dp3186
+S'21:24:51'
+p3187
 I12
 ssg8
-(lp3168
+(lp3188
 S'Yeah.'
-p3169
+p3189
 aS"What I heard from the other side was that if we define college the way MiddleAmerica does, then we actually are agreeing that we want more kids to go to college, soI'm not going to spend my two minutes on that."
-p3170
+p3190
 aS"I want to actually challenge my newfriend, Peter Thiel, on something which is very dear to his heart, about the fact that it'sso expensive to go to college."
-p3171
+p3191
 aS'That I agree with him on.'
-p3172
+p3192
 aS"And it's also antiquated."
-p3173
+p3193
 aS"Thesystem's antiquated."
-p3174
+p3194
 aS'Peter and I are both associated with a great university calledSingular University, which is on campus, where weteach about exponential technologies, how all these advances are happening which canchange the world, impact the lives of billions.'
-p3175
+p3195
 aS'Well, you know, think about it, five or 10years ago did you ever use an iPhone or an Android?'
-p3176
+p3196
 aS'None of us did.'
-p3177
+p3197
 aS"I'll bet youeveryone in the audience has one today."
-p3178
+p3198
 aS"The fact is that it's now possible tocommunicate in ways we could never do before.We have these tabular devices which can deliver 3D simulations, take us into 3D worlds.We can teach people by taking them into games."
-p3179
+p3199
 aS'We can change the entire concept ofeducation.'
-p3180
+p3200
 aS'He has the ability to do that.'
-p3181
+p3201
 aS"He has done it before with social network, withFacebook, he's done it with PayPal."
-p3182
+p3202
 aS'He has the ability to do this.'
-p3183
+p3203
 aS"Instead of investing insilly little social media technologies, why don't we put our joint efforts into improvingeducation if it's changing the way we deliver, to change the way we educate ---- and changing the world."
-p3184
+p3204
 aS'I tell you, Peter, you can make it happen.'
-p3185
+p3205
 aS'So I challenge you [[applause]] here publicly to put your energy into improving education, into automating, intorethinking the way we educate so that the masses can get educated because all of usagree that we do want more people to go to whatever we call college.'
-p3186
+p3206
 aS"Again, I'm notgoing to define it as a four-year degree, again to get more education so we can be morecompetitive, we can take on the world, we can change the world together."
-p3187
+p3207
 aS"We're goingto need it more than ever over the next few decades."
-p3188
+p3208
 asg13
-(dp3189
+(dp3209
 I18
 S'48'
-p3190
-ssa(dp3191
+p3210
+ssa(dp3211
 g8
-(lp3192
+(lp3212
 S'Thank you, Vivek Wadhwa.'
-p3193
+p3213
 aS'Our motion is "Too many kids go to college.'
-p3194
+p3214
 aS'" And now tospeak in support of the motion, Charles Murray.He is author of "Real Education: Four Simple Truths for Bringing America\'s Schools Backto Reality.'
-p3195
+p3215
 aS'"'
-p3196
+p3216
 asg11
 S'JOHN DONVAN'
-p3197
-sg16
-(lp3198
-S'Thank you, Vivek Wadhwa.'
-p3199
-aS'Our motion is "Too many kids go to college.'
-p3200
-aS'" And now to speak in support of the motion, Charles Murray.'
-p3201
-aS'He is author of "Real Education: Four Simple Truths for Bringing America\'s Schools Back to Reality.'
-p3202
-ag3196
-asg18
-(dp3203
-S'21:25:55'
-p3204
-I2
-ssa(dp3205
-g8
-(lp3206
-S"I think that even though we're supposed to be diametrically opposed, in fact theres alot of common ground."
-p3207
-aS'Its not a very good thing to say in a debate.'
-p3208
-aS'But suppose wegot rid of the B.A.'
-p3209
-aS'because it doesnt mean anything.'
-p3210
-aS'Suppose we had as the goal ofeducation not this piece of paper, but we had as a goal of education that all childrenshall reach adulthood having discovered things they love to do and having learned howto do them well.'
-p3211
-aS'If we take that as the goal of education, we will have a system utterlydifferent from the one we have now, and it will not be college as we know it.'
-p3212
-aS'It will notbe four years, and a lot of times, it wont be residential.'
-p3213
-aS'And most of all, it will notseparate people into those who are college graduates and those who are not.'
-p3214
-aS'And thefact is that every career goes through a couple of phases.'
-p3215
-aS'We all start out asapprentices.And after we learn our trade, we become journeyman.'
-p3216
-aS'And some of us who get reallygood at it become master craftsmen.'
 p3217
-aS'That is just as true of a history professor or alawyer or a physician as it is of a carpenter or a plumber or an electrician.'
-p3218
-aS'The kinds ofchanges we need to make to our educational system, sweeping, fundamental reforms,getting rid of the B.A., moving to certifications, has as its ultimate goal, in my view,something that is very important for America as it is increasingly stratified by class.'
+sg16
+(lp3218
+S'Thank you, Vivek Wadhwa.'
 p3219
-aS'Andthat is that it promotes a recognition among us that we are all engaged in the sameprocess.'
+aS'Our motion is "Too many kids go to college.'
 p3220
-aS'We are not divided into professionals and service workers or blue collarworkers.'
+aS'" And now to speak in support of the motion, Charles Murray.'
 p3221
-aS'We all start out as apprentices.'
+aS'He is author of "Real Education: Four Simple Truths for Bringing America\'s Schools Back to Reality.'
 p3222
-aS'We become journeyman, and we all strive tobecome master craftsmen.'
-p3223
-aS'Thank you.'
+ag3216
+asg18
+(dp3223
+S'21:25:55'
 p3224
+I2
+ssa(dp3225
+g8
+(lp3226
+S"I think that even though we're supposed to be diametrically opposed, in fact theres alot of common ground."
+p3227
+aS'Its not a very good thing to say in a debate.'
+p3228
+aS'But suppose wegot rid of the B.A.'
+p3229
+aS'because it doesnt mean anything.'
+p3230
+aS'Suppose we had as the goal ofeducation not this piece of paper, but we had as a goal of education that all childrenshall reach adulthood having discovered things they love to do and having learned howto do them well.'
+p3231
+aS'If we take that as the goal of education, we will have a system utterlydifferent from the one we have now, and it will not be college as we know it.'
+p3232
+aS'It will notbe four years, and a lot of times, it wont be residential.'
+p3233
+aS'And most of all, it will notseparate people into those who are college graduates and those who are not.'
+p3234
+aS'And thefact is that every career goes through a couple of phases.'
+p3235
+aS'We all start out asapprentices.And after we learn our trade, we become journeyman.'
+p3236
+aS'And some of us who get reallygood at it become master craftsmen.'
+p3237
+aS'That is just as true of a history professor or alawyer or a physician as it is of a carpenter or a plumber or an electrician.'
+p3238
+aS'The kinds ofchanges we need to make to our educational system, sweeping, fundamental reforms,getting rid of the B.A., moving to certifications, has as its ultimate goal, in my view,something that is very important for America as it is increasingly stratified by class.'
+p3239
+aS'Andthat is that it promotes a recognition among us that we are all engaged in the sameprocess.'
+p3240
+aS'We are not divided into professionals and service workers or blue collarworkers.'
+p3241
+aS'We all start out as apprentices.'
+p3242
+aS'We become journeyman, and we all strive tobecome master craftsmen.'
+p3243
+aS'Thank you.'
+p3244
 asg11
 S'CHARLES MURRAY'
-p3225
+p3245
 sg13
-(dp3226
+(dp3246
 I18
 S'49'
-p3227
-ssg16
-(lp3228
-S"I think that even though we're supposed to be diametrically opposed, in fact theres a lot of common ground."
-p3229
-aS'Its not a very good thing to say in a debate.'
-p3230
-aS'But suppose we got rid of the B.A.'
-p3231
-aS'because it doesnt mean anything.'
-p3232
-aS'Suppose we had as the goal of education not this piece of paper, but we had as a goal of education that all children shall reach adulthood having discovered things they love to do and having learned how to do them well.'
-p3233
-aS'If we take that as the goal of education, we will have a system utterly different from the one we have now, and it will not be college as we know it.'
-p3234
-aS'It will not be four years, and a lot of times, it wont be residential.'
-p3235
-aS'And most of all, it will not separate people into those who are college graduates and those who are not.'
-p3236
-aS'And the fact is that every career goes through a couple of phases.'
-p3237
-aS'We all start out as apprentices.'
-p3238
-aS'And after we learn our trade, we become journeyman.'
-p3239
-aS'And some of us who get really good at it become master craftsmen.'
-p3240
-aS'That is just as true of a history professor or a lawyer or a physician as it is of a carpenter or a plumber or an electrician.'
-p3241
-aS'The kinds of changes we need to make to our educational system, sweeping, fundamental reforms, getting rid of the B.A., moving to certifications, has as its ultimate goal, in my view, something that is very important for America as it is increasingly stratified by class.'
-p3242
-aS'And that is that it promotes a recognition among us that we are all engaged in the same process.'
-p3243
-aS'We are not divided into professionals and service workers or blue collar workers.'
-p3244
-aS'We all start out as apprentices.'
-p3245
-aS'We become journeyman, and we all strive to become master craftsmen.'
-p3246
-aS'Thank you.'
 p3247
-asg18
-(dp3248
-S'21:26:53'
+ssg16
+(lp3248
+S"I think that even though we're supposed to be diametrically opposed, in fact theres a lot of common ground."
 p3249
-I11
-ssasS'after'
+aS'Its not a very good thing to say in a debate.'
 p3250
-(lp3251
-S'47%-FOR'
+aS'But suppose we got rid of the B.A.'
+p3251
+aS'because it doesnt mean anything.'
 p3252
-aS'46%-AGAINST'
+aS'Suppose we had as the goal of education not this piece of paper, but we had as a goal of education that all children shall reach adulthood having discovered things they love to do and having learned how to do them well.'
 p3253
-aS'7%-UNDECIDED'
+aS'If we take that as the goal of education, we will have a system utterly different from the one we have now, and it will not be college as we know it.'
 p3254
-asS'against'
+aS'It will not be four years, and a lot of times, it wont be residential.'
 p3255
-(lp3256
-S'HENRY BIENEN'
+aS'And most of all, it will not separate people into those who are college graduates and those who are not.'
+p3256
+aS'And the fact is that every career goes through a couple of phases.'
 p3257
-aS'VIVEK WADHWA'
+aS'We all start out as apprentices.'
 p3258
-asS'moderator'
+aS'And after we learn our trade, we become journeyman.'
 p3259
-(lp3260
-S'JOHN DONVAN'
+aS'And some of us who get really good at it become master craftsmen.'
+p3260
+aS'That is just as true of a history professor or a lawyer or a physician as it is of a carpenter or a plumber or an electrician.'
 p3261
-asS'date'
+aS'The kinds of changes we need to make to our educational system, sweeping, fundamental reforms, getting rid of the B.A., moving to certifications, has as its ultimate goal, in my view, something that is very important for America as it is increasingly stratified by class.'
 p3262
-(dp3263
-S'year'
+aS'And that is that it promotes a recognition among us that we are all engaged in the same process.'
+p3263
+aS'We are not divided into professionals and service workers or blue collar workers.'
 p3264
-S'2011'
+aS'We all start out as apprentices.'
 p3265
-sS'day'
+aS'We become journeyman, and we all strive to become master craftsmen.'
 p3266
-S'12'
+aS'Thank you.'
 p3267
-sS'month'
-p3268
-S'October'
+asg18
+(dp3268
+S'21:26:53'
 p3269
-ssS'before'
-p3270
-(lp3271
-S'39%-FOR'
+I11
+ssa(dp3270
+g22
+(dp3271
+I1
+S'[applause]'
 p3272
-aS'40%-AGAINST'
+sI11
+S'[applause]'
 p3273
-aS'21%-UNDECIDED'
+sI13
+S'[laughter]'
 p3274
+sI17
+S'[applause]'
+p3275
+sI22
+S'[applause]'
+p3276
+sI30
+S'[laughter]'
+p3277
+ssg11
+S'JOHN DONVAN'
+p3278
+sg16
+(lp3279
+S'Thank you, Charles Murray.'
+p3280
+aS'And that concludes our closing statements.'
+p3281
+aS'We have been though all three rounds of this debate now, and it is time to learn which side you feel has argued best.'
+p3282
+aS'Were asking you again to go to the keypad at your seat that will register your vote.'
+p3283
+aS'Were asking you to judge on this motion, "Too many kids go to college.'
+p3284
+aS'Which side presented the stronger arguments?'
+p3285
+aS'Press number one if you feel this side, arguing too many kids go to college, presented a better argument.'
+p3286
+aS'Press number two if it was this side.'
+p3287
+aS'Press number three if you are or became undecided in the course of the debate.'
+p3288
+aS'And well have the results in about 90 seconds from now.'
+p3289
+aS'So before I announce the results of that debate, I just want to first of all thank our panelists for coming here with the attitude and the kind of argument that we encourage.'
+p3290
+aS'They were terrific.'
+p3291
+aS'And I want to say something about the questions that were asked here tonight.'
+p3292
+aS'I really wish that I could import you folks back to New York.'
+p3293
+aS'Because we had a lot of trouble with the question situation there, and you all really got the message.'
+p3294
+aS'And there wasnt a bad one among them.'
+p3295
+aS'And so thank you very much, and thanks to the audience for all of that.'
+p3296
+aS'So this is our first debate in the city of Chicago, and it was our second outside of New York.'
+p3297
+aS'And we want to thank very, very much the organizers of Chicago Ideas Week for inviting us to be a partner program with them.'
+p3298
+aS'And we also want to spend a very, very huge thanks to Grosvenor Capital Management who underwrote tonights debate for us and made the whole thing possible.'
+p3299
+aS'Thank you.'
+p3300
+aS'So we are -- we head back to New York.'
+p3301
+aS'We have two more debates in the fall season.'
+p3302
+aS'You can actually watch those online, as this one, its been streamed by our media partner, Slate.'
+p3303
+aS'It will be 5:45 p.m. in Chicago on our debate days.'
+p3304
+aS'And this is what were doing.'
+p3305
+aS'On October 25, were debating the motion, Congress should approve Obamas jobs plan.'
+p3306
+aS'The panelists at this point include the chief economist at Moodys Analytics and also a former economic advisor to President Obama.'
+p3307
+aS'On November 15, our motion is "The world would be better off without religion.'
+p3308
+aS'And our panelists then include a rabbi and Charles Darwins great-great grandson.'
+p3309
+aS'Streaming at 5:45 on Slate.com.'
+p3310
+aS'You can find a full listing of the panelists for these debates in tonights program, which you should have all been handed on the way in.'
+p3311
+aS'And if you happen to be in New York for any of these, tickets are still available for some of them, for both of them.'
+p3312
+aS'And for updates on future debates, you can go to our website.'
+p3313
+aS'You drop a business card in one of the boxes on your way out, and we will follow up with emails on how you can get in touch with our website.'
+p3314
+aS'Were on Twitter, future debates by doing that.'
+p3315
+aS'All of our debates can be heard on NPR stations across the country, including WBEZ here in Chicago.'
+p3316
+aS'So if you tune in, youll hear your own applause, which makes it all worthwhile.'
+p3317
+aS'All right now, these debaters have been arguing the motion "Too many kids go to college.'
+p3318
+aS'Weve asked you to listen to these debates as they went through three rounds.'
+p3319
+aS'You voted before the debate and once again afterwards to tell us where you stood when you came in and which side you feel argued best.'
+p3320
+aS'So here are the results.'
+p3321
+aS'The motion, "Too many kids go to college.'
+p3322
+aS'" Before the debate, 39 percent supported the motion, 40 percent were against, and 21 percent undecided.'
+p3323
+aS'After the debate, 47 percent are for the motion for the side for the motion.'
+p3324
+aS"That's up eight percent."
+p3325
+aS'Against is 46 percent.'
+p3326
+aS"That's up six percent."
+p3327
+aS'Undecided seven percent.'
+p3328
+aS'The side arguing for the motion, just barely wins this debate.'
+p3329
+aS'Our congratulations to them.'
+p3330
+aS"And thank you from me, John Donvan and Intelligence Squared U.S. We'll see you next time."
+p3331
+asg18
+(dp3332
+S'21:30:53'
+p3333
+I39
+sS'21:28:54'
+p3334
+I15
+sS'21:29:53'
+p3335
+I28
+sS'21:27:55'
+p3336
+I3
+ssg8
+(lp3337
+S'Thank you, Charles Murray.And that concludes our closing statements.'
+p3338
+aS'We have been though all three rounds of [[applause]] this debate now, and it is time to learn which side you feel has argued best.Were asking you again to go to the keypad at your seat that will register your vote.Were asking you to judge on this motion, "Too many kids go to college.'
+p3339
+aS'Which sidepresented the stronger arguments?'
+p3340
+aS'Press number one if you feel this side, arguing toomany kids go to college, presented a better argument.'
+p3341
+aS'Press number two if it was thisside.'
+p3342
+aS'Press number three if you are or became undecided in the course of the debate.And well have the results in about 90 seconds from now.'
+p3343
+aS'So before I announce theresults of that debate, I just want to first of all thank our panelists for coming here withthe attitude and the kind of argument that we encourage.They were terrific.'
+p3344
+aS'And I want to say something about the questions that were asked [[applause]] here tonight.'
+p3345
+aS'I really wish that I could import you folks back to New York.Because we had a lot of trouble with the question situation there, and you all really got [[laughter]] the message.And there wasnt a bad one among them.'
+p3346
+aS'And so thank you very much, and thanks tothe audience for all of that.So this is our first debate in the city of Chicago, and it was our second outside of New [[applause]] York.'
+p3347
+aS'And we want to thank very, very much the organizers of Chicago Ideas Week forinviting us to be a partner program with them.'
+p3348
+aS'And we also want to spend a very, veryhuge thanks to Grosvenor Capital Management who underwrote tonights debate for usand made the whole thing possible.'
+p3349
+aS'Thank you.So we are -- we head back to New York.'
+p3350
+aS'We have two more debates in the fall season.'
+p3351
+aS'[[applause]] You can actually watch those online, as this one, its been streamed by our mediapartner, Slate.'
+p3352
+aS'It will be 5:45 p.m. in Chicago on our debate days.'
+p3353
+aS'And this is what weredoing.'
+p3354
+aS'On October 25, were debating the motion, Congress should approve Obamasjobs plan.'
+p3355
+aS'The panelists at this point include the chief economist at Moodys Analyticsand also a former economic advisor to President Obama.On November 15, our motion is "The world would be better off without religion.'
+p3356
+aS'Andour panelists then include a rabbi and Charles Darwins great-great grandson.Streaming at 5:45 on Slate.com.'
+p3357
+aS'You can find a full listing of the panelists for these [[laughter]] debates in tonights program, which you should have all been handed on the way in.And if you happen to be in New York for any of these, tickets are still available for someof them, for both of them.'
+p3358
+aS'And for updates on future debates, you can go to ourwebsite.'
+p3359
+aS'You drop a business card in one of the boxes on your way out, and we willfollow up with emails on how you can get in touch with our website.'
+p3360
+aS'Were on Twitter,future debates by doing that.'
+p3361
+aS'All of our debates can be heard on NPR stations acrossthe country, including WBEZ here in Chicago.'
+p3362
+aS'So if you tune in, youll hear your ownapplause, which makes it all worthwhile.All right now, these debaters have been arguing the motion "Too many kids go tocollege.'
+p3363
+aS'Weve asked you to listen to these debates as they went through three rounds.You voted before the debate and once again afterwards to tell us where you stoodwhen you came in and which side you feel argued best.'
+p3364
+aS'So here are the results.'
+p3365
+aS'Themotion, "Too many kids go to college.'
+p3366
+aS'" Before the debate, 39 percent supported themotion, 40 percent were against, and 21 percent undecided.'
+p3367
+aS'After the debate, 47percent are for the motion for the side for the motion.'
+p3368
+aS"That's up eight percent."
+p3369
+aS'Againstis 46 percent.'
+p3370
+aS"That's up six percent."
+p3371
+aS'Undecided seven percent.'
+p3372
+aS'The side arguing for themotion, just barely wins this debate.'
+p3373
+aS'Our congratulations to them.'
+p3374
+aS"And thank you fromme, John Donvan and Intelligence Squared U.S. We'll see you next time."
+p3375
+asg13
+(dp3376
+I20
+S'50'
+p3377
+ssasS'after'
+p3378
+(lp3379
+S'47%-FOR'
+p3380
+aS'46%-AGAINST'
+p3381
+aS'7%-UNDECIDED'
+p3382
+asS'against'
+p3383
+(lp3384
+S'HENRY BIENEN'
+p3385
+aS'VIVEK WADHWA'
+p3386
+asS'moderator'
+p3387
+(lp3388
+S'JOHN DONVAN'
+p3389
+asS'date'
+p3390
+(dp3391
+S'year'
+p3392
+S'2011'
+p3393
+sS'day'
+p3394
+S'12'
+p3395
+sS'month'
+p3396
+S'October'
+p3397
+ssS'before'
+p3398
+(lp3399
+S'39%-FOR'
+p3400
+aS'40%-AGAINST'
+p3401
+aS'21%-UNDECIDED'
+p3402
 as.

@@ -5373,316 +5373,316 @@ p2560
 aS"Okay, that's great."
 p2561
 asa(dp2562
-g8
-(lp2563
-S'Okay.'
-p2564
-aS"My name's Jessica Bloomgarten , and the question is for theagainst side.You guys have been very focused on making the debate around the size of things andasset size, and I thought Richard's proposal around the division of function and sort of aGlass-Steagall type proposal is really interesting, and I feel like you haven't addressedthat, so I'd like to hear your opinion on that."
-p2565
-asg11
-S'FEMALE SPEAKER'
-p2566
-sg16
-(lp2567
-S'Okay.'
-p2568
-aS"My name's Jessica Bloomgarten , and the question is for the against side."
-p2569
-aS"You guys have been very focused on making the debate around the size of things and asset size, and I thought Richard's proposal around the division of function and sort of a Glass-Steagall type proposal is really interesting, and I feel like you haven't addressed that, so I'd like to hear your opinion on that."
-p2570
-asg18
-(dp2571
-S'19:55:51'
-p2572
-I2
-ssa(dp2573
 g22
-(dp2574
-I1
+(dp2563
+I8
 S'[laughter]'
-p2575
-ssg8
-(lp2576
-S'So --Can you come with that -- with like a one-sentence question?'
-p2577
-asg11
-S' JOHN DONVAN'
-p2578
-sg13
-(dp2579
-I1
-S'40'
-p2580
-ssg16
-(lp2581
-g2577
-asa(dp2582
-g8
-(lp2583
-S'What do you think --'
-p2584
-asg11
+p2564
+ssg11
 S'FEMALE SPEAKER'
-p2585
+p2565
 sg16
-(lp2586
-g2584
-asa(dp2587
+(lp2566
+S'Okay.'
+p2567
+aS"My name's Jessica Bloomgarten , and the question is for the against side."
+p2568
+aS"You guys have been very focused on making the debate around the size of things and asset size, and I thought Richard's proposal around the division of function and sort of a Glass-Steagall type proposal is really interesting, and I feel like you haven't addressed that, so I'd like to hear your opinion on that."
+p2569
+aS'John Donvan: So --Can you come with that -- with like a one-sentence question?'
+p2570
+aS'What do you think --'
+p2571
+asg18
+(dp2572
+S'19:55:51'
+p2573
+I2
+ssg8
+(lp2574
+S'Okay.'
+p2575
+aS"My name's Jessica Bloomgarten , and the question is for theagainst side.You guys have been very focused on making the debate around the size of things andasset size, and I thought Richard's proposal around the division of function and sort of aGlass-Steagall type proposal is really interesting, and I feel like you haven't addressedthat, so I'd like to hear your opinion on that."
+p2576
+aS'John Donvan:So --Can you come with that -- with like a one-sentence question?What do you think -- [[laughter]] '
+p2577
+asg13
+(dp2578
+I8
+S'40'
+p2579
+ssa(dp2580
 g8
-(lp2588
+(lp2581
 S'No, I think I got it.'
-p2589
+p2582
 asg11
 S'MALE SPEAKER'
-p2590
+p2583
 sg16
-(lp2591
-g2589
-asa(dp2592
+(lp2584
+g2582
+asa(dp2585
 g8
-(lp2593
+(lp2586
 S'-- what do you think about splitting up the big space on function as opposed to size?'
-p2594
+p2587
 asg11
 S'FEMALE SPEAKER'
-p2595
+p2588
 sg16
-(lp2596
-g2594
-asa(dp2597
+(lp2589
+g2587
+asa(dp2590
 g22
-(dp2598
+(dp2591
 I1
 S'[laughter]'
-p2599
+p2592
 ssg8
-(lp2600
+(lp2593
 S'Sure.'
-p2601
+p2594
 aS'Id be happy --'
-p2602
+p2595
 asg11
 S'DOUGLAS ELLIOTT'
+p2596
+sg16
+(lp2597
+S'Sure.'
+p2598
+aS'Id be happy --'
+p2599
+asa(dp2600
+g8
+(lp2601
+S'Doug Elliott.'
+p2602
+asg11
+S'JOHN DONVAN'
 p2603
 sg16
 (lp2604
-S'Sure.'
-p2605
-aS'Id be happy --'
-p2606
-asa(dp2607
+g2602
+asa(dp2605
 g8
-(lp2608
-S'Doug Elliott.'
-p2609
-asg11
-S'JOHN DONVAN'
-p2610
-sg16
-(lp2611
-g2609
-asa(dp2612
-g8
-(lp2613
+(lp2606
 S'Be happy to give you some thoughts on it.'
-p2614
+p2607
 aS'And I will in one second.'
-p2615
+p2608
 aS"The only reasonwe've been so focused on the other point is that is the actual point of the debate."
-p2616
+p2609
 aS'Andit\'s kind of a sleight of hand to say, "We think that once you do this thing, it will changethe whole economics so much that we know that it will achieve the same effect.'
-p2617
+p2610
 aS'"I understand there\'s an argument for it that\'s far from proof.'
-p2618
+p2611
 aS'But coming back to yourquestion, I happen to oppose re-imposing something like the full version of Glass-Steagall -- I know Paul does as well -- because the world has changed immensely.'
-p2619
+p2612
 aS"Glass-Steagall didn't even work 20-some years ago because already by that point the principaldifference that Glass- Steagall focused on, the difference between a security and a loanhad become extremely unclear and irrelevant because the bank -- the big companiesthat we're talking about here, all they wanted was to efficiently get credit."
-p2620
+p2613
 aS'And theywanted to be able to do that through the markets, and they wanted to be able to do itthrough the banks.'
-p2621
+p2614
 aS'And banks are important parts of the market as well.'
-p2622
+p2615
 aS'So they sit inthe middle where they can help with either side of this.'
-p2623
+p2616
 aS'To arbitrarily break it up -- firstof all, it will be really arbitrary.'
-p2624
+p2617
 aS"I don't even know how you define a loan versus asecurity now."
-p2625
+p2618
 aS"It just -- you can't do it in this world."
-p2626
+p2619
 aS"If you do, it'll be a very arbitrarychoice."
-p2627
+p2620
 asg11
 S'DOUGLAS ELLIOTT'
-p2628
+p2621
 sg13
-(dp2629
+(dp2622
 I17
 S'41'
-p2630
+p2623
 ssg16
-(lp2631
+(lp2624
 S'Be happy to give you some thoughts on it.'
-p2632
+p2625
 aS'And I will in one second.'
-p2633
+p2626
 aS"The only reason we've been so focused on the other point is that is the actual point of the debate."
-p2634
+p2627
 aS'And it\'s kind of a sleight of hand to say, "We think that once you do this thing, it will change the whole economics so much that we know that it will achieve the same effect.'
-p2635
+p2628
 aS'" I understand there\'s an argument for it that\'s far from proof.'
-p2636
+p2629
 aS'But coming back to your question, I happen to oppose re-imposing something like the full version of Glass- Steagall -- I know Paul does as well -- because the world has changed immensely.'
-p2637
+p2630
 aS"Glass- Steagall didn't even work 20-some years ago because already by that point the principal difference that Glass- Steagall focused on, the difference between a security and a loan had become extremely unclear and irrelevant because the bank -- the big companies that we're talking about here, all they wanted was to efficiently get credit."
-p2638
+p2631
 aS'And they wanted to be able to do that through the markets, and they wanted to be able to do it through the banks.'
-p2639
+p2632
 aS'And banks are important parts of the market as well.'
-p2640
+p2633
 aS'So they sit in the middle where they can help with either side of this.'
-p2641
+p2634
 aS'To arbitrarily break it up -- first of all, it will be really arbitrary.'
-p2642
+p2635
 aS"I don't even know how you define a loan versus a security now."
-p2643
+p2636
 aS"It just -- you can't do it in this world."
-p2644
+p2637
 aS"If you do, it'll be a very arbitrary choice."
-p2645
+p2638
 asg18
-(dp2646
+(dp2639
 S'19:58:02'
-p2647
+p2640
 I17
 sS'19:56:55'
-p2648
+p2641
 I4
-ssa(dp2649
+ssa(dp2642
 g8
-(lp2650
+(lp2643
 S'So let me ask the question, if I may --'
-p2651
+p2644
 asg11
 S'RICHARD FISHER'
-p2652
+p2645
 sg16
-(lp2653
-g2651
-asa(dp2654
+(lp2646
+g2644
+asa(dp2647
 g8
-(lp2655
+(lp2648
 S'Please.'
-p2656
+p2649
 asg11
 S'DOUGLAS ELLIOTT'
-p2657
+p2650
 sg16
-(lp2658
-g2656
-asa(dp2659
+(lp2651
+g2649
+asa(dp2652
 g8
-(lp2660
+(lp2653
 S'Yes, Richard Fisher.'
-p2661
+p2654
 asg11
 S'JOHN DONVAN'
-p2662
+p2655
 sg16
-(lp2663
-g2661
-asa(dp2664
+(lp2656
+g2654
+asa(dp2657
 g8
-(lp2665
+(lp2658
 S'Should the taxpayer guarantee those loans?'
-p2666
+p2659
 asg11
 S'RICHARD FISHER'
-p2667
+p2660
 sg16
-(lp2668
-g2666
-asa(dp2669
+(lp2661
+g2659
+asa(dp2662
 g22
-(dp2670
+(dp2663
 I0
 S'[inaudible]'
-p2671
+p2664
 ssg8
-(lp2672
+(lp2665
 g1461
 asg11
 S'MALE SPEAKER'
-p2673
+p2666
 sg16
-(lp2674
+(lp2667
 g1461
-asa(dp2675
+asa(dp2668
 g8
-(lp2676
+(lp2669
 S'Bad loan, should a taxpayer guarantee a bad loan made by a mega institution, a too bigto fail bank, a SIFI?'
-p2677
+p2670
 asg11
 S'RICHARD FISHER'
-p2678
+p2671
 sg16
-(lp2679
+(lp2672
 S'Bad loan, should a taxpayer guarantee a bad loan made by a mega institution, a too big to fail bank, a SIFI?'
-p2680
-asa(dp2681
+p2673
+asa(dp2674
 g8
-(lp2682
+(lp2675
 S'No.'
-p2683
+p2676
 asg11
 S'PAUL SALTZMAN'
-p2684
+p2677
 sg16
-(lp2685
-g2683
-asa(dp2686
+(lp2678
+g2676
+asa(dp2679
 g8
-(lp2687
+(lp2680
 S"No, it's not what were proposing."
-p2688
+p2681
 asg11
 S'DOUGLAS ELLIOTT'
-p2689
+p2682
 sg16
-(lp2690
-g2688
+(lp2683
+g2681
+asa(dp2684
+g8
+(lp2685
+S"Well, all I've said is that the only thing I want the taxpayer exposed to is protecting thesavings that are deposited in the commercial bank of a complex bank holding company.Do you disagree or do you agree?"
+p2686
+asg11
+S'RICHARD FISHER'
+p2687
+sg16
+(lp2688
+S"Well, all I've said is that the only thing I want the taxpayer exposed to is protecting the savings that are deposited in the commercial bank of a complex bank holding company."
+p2689
+aS'Do you disagree or do you agree?'
+p2690
 asa(dp2691
 g8
 (lp2692
-S"Well, all I've said is that the only thing I want the taxpayer exposed to is protecting thesavings that are deposited in the commercial bank of a complex bank holding company.Do you disagree or do you agree?"
+S"That's actually a different thing from --"
 p2693
 asg11
-S'RICHARD FISHER'
+S'DOUGLAS ELLIOTT'
 p2694
 sg16
 (lp2695
-S"Well, all I've said is that the only thing I want the taxpayer exposed to is protecting the savings that are deposited in the commercial bank of a complex bank holding company."
-p2696
-aS'Do you disagree or do you agree?'
-p2697
-asa(dp2698
+g2693
+asa(dp2696
 g8
-(lp2699
-S"That's actually a different thing from --"
-p2700
-asg11
-S'DOUGLAS ELLIOTT'
-p2701
-sg16
-(lp2702
-g2700
-asa(dp2703
-g8
-(lp2704
+(lp2697
 S'Doug, do you disagree or do you agree?'
-p2705
+p2698
 asg11
 S'RICHARD FISHER'
+p2699
+sg16
+(lp2700
+g2698
+asa(dp2701
+g22
+(dp2702
+I1
+S'[laughter]'
+p2703
+ssg8
+(lp2704
+S'Say it again because I want to make sure I understand.'
+p2705
+asg11
+S'DOUGLAS ELLIOTT'
 p2706
 sg16
 (lp2707
@@ -5693,167 +5693,167 @@ g22
 I1
 S'[laughter]'
 p2710
-ssg8
-(lp2711
-S'Say it again because I want to make sure I understand.'
-p2712
-asg11
-S'DOUGLAS ELLIOTT'
-p2713
-sg16
-(lp2714
-g2712
-asa(dp2715
-g22
-(dp2716
-I1
-S'[laughter]'
-p2717
 ssg11
 S'JOHN DONVAN'
-p2718
+p2711
 sg16
-(lp2719
+(lp2712
 S'Have you done courtroom work?'
-p2720
+p2713
 aS'Or are you just watching a lot of shows?'
-p2721
+p2714
 aS'Richard Fisher -- we guarantee the banking system.'
-p2722
+p2715
 aS'Taxpayers guarantee the banking system.'
-p2723
+p2716
 aS'Our proposal is to limit the guarantee strictly to the commercial banking operation that takes the savings of the people and then invests it in loans.'
-p2724
+p2717
 aS'Would you disagree with that or agree with it?'
-p2725
+p2718
 asg18
-(dp2726
+(dp2719
 S'19:58:57'
-p2727
+p2720
 I7
 ssg8
-(lp2728
+(lp2721
 S'Have you done courtroom work?Or are you just watching a lot of shows?'
-p2729
+p2722
 aS'[[laughter]] Richard Fisher-- we guarantee the banking system.'
-p2730
+p2723
 aS'Taxpayers guarantee the banking system.'
-p2731
+p2724
 aS'Ourproposal is to limit the guarantee strictly to the commercial banking operation thattakes the savings of the people and then invests it in loans.'
-p2732
+p2725
 aS'Would you disagree withthat or agree with it?'
-p2733
+p2726
 asg13
-(dp2734
+(dp2727
 I1
 S'42'
-p2735
-ssa(dp2736
+p2728
+ssa(dp2729
 g8
-(lp2737
+(lp2730
 S'I think that is where the guarantee should be.'
-p2738
+p2731
 aS'It is where the --'
-p2739
+p2732
 asg11
 S'DOUGLAS ELLIOTT'
+p2733
+sg16
+(lp2734
+S'I think that is where the guarantee should be.'
+p2735
+aS'It is where the --'
+p2736
+asa(dp2737
+g8
+(lp2738
+S'Good.'
+p2739
+asg11
+S'RICHARD FISHER'
 p2740
 sg16
 (lp2741
-S'I think that is where the guarantee should be.'
-p2742
-aS'It is where the --'
-p2743
-asa(dp2744
+g2739
+asa(dp2742
 g8
-(lp2745
-S'Good.'
-p2746
-asg11
-S'RICHARD FISHER'
-p2747
-sg16
-(lp2748
-g2746
-asa(dp2749
-g8
-(lp2750
+(lp2743
 S'-- guarantee is now.'
-p2751
+p2744
 asg11
 S'DOUGLAS ELLIOTT'
-p2752
+p2745
 sg16
-(lp2753
-g2751
-asa(dp2754
+(lp2746
+g2744
+asa(dp2747
 g8
-(lp2755
+(lp2748
 S'Good.'
-p2756
+p2749
 asg11
 S'RICHARD FISHER'
-p2757
+p2750
 sg16
-(lp2758
-g2756
-asa(dp2759
+(lp2751
+g2749
+asa(dp2752
 g8
-(lp2760
+(lp2753
 S"You -- you're arguing a different point."
+p2754
+asg11
+S'DOUGLAS ELLIOTT'
+p2755
+sg16
+(lp2756
+g2754
+asa(dp2757
+g22
+(dp2758
+I2
+S'[laughter]'
+p2759
+ssg8
+(lp2760
+S'No, because if JPMorgan were to fail because of a -- let\'s take JPMorgan as XYZ Bankwere to fail and XYZ Bank was JPMorgan ---- because of a rogue trader in London called "the whale" who took an enormous risk, [[laughter]] should we bail them out?'
 p2761
 asg11
-S'DOUGLAS ELLIOTT'
+S'RICHARD FISHER'
 p2762
 sg16
 (lp2763
-g2761
-asa(dp2764
-g22
-(dp2765
-I2
-S'[laughter]'
-p2766
-ssg8
-(lp2767
-S'No, because if JPMorgan were to fail because of a -- let\'s take JPMorgan as XYZ Bankwere to fail and XYZ Bank was JPMorgan ---- because of a rogue trader in London called "the whale" who took an enormous risk, [[laughter]] should we bail them out?'
+S'No, because if JPMorgan were to fail because of a -- let\'s take JPMorgan as XYZ Bank were to fail and XYZ Bank was JPMorgan -- -- because of a rogue trader in London called "the whale" who took an enormous risk, should we bail them out?'
+p2764
+asa(dp2765
+g8
+(lp2766
+S"No, and we didn't."
+p2767
+aS'Why are we looking at the London Whale as the --'
 p2768
 asg11
-S'RICHARD FISHER'
+S'PAUL SALTZMAN'
 p2769
 sg16
 (lp2770
-S'No, because if JPMorgan were to fail because of a -- let\'s take JPMorgan as XYZ Bank were to fail and XYZ Bank was JPMorgan -- -- because of a rogue trader in London called "the whale" who took an enormous risk, should we bail them out?'
-p2771
-asa(dp2772
-g8
-(lp2773
 S"No, and we didn't."
-p2774
+p2771
 aS'Why are we looking at the London Whale as the --'
+p2772
+asa(dp2773
+g8
+(lp2774
+S'Paul Saltzman.'
 p2775
 asg11
-S'PAUL SALTZMAN'
+S'JOHN DONVAN'
 p2776
 sg16
 (lp2777
-S"No, and we didn't."
-p2778
-aS'Why are we looking at the London Whale as the --'
-p2779
-asa(dp2780
+g2775
+asa(dp2778
 g8
-(lp2781
-S'Paul Saltzman.'
+(lp2779
+S'-- reason for how the system worked?'
+p2780
+aS'Who was penalized?'
+p2781
+aS'The shareholders.'
 p2782
 asg11
-S'JOHN DONVAN'
+S'PAUL SALTZMAN'
 p2783
-sg16
-(lp2784
-g2782
-asa(dp2785
-g8
+sg13
+(dp2784
+I0
+S'43'
+p2785
+ssg16
 (lp2786
 S'-- reason for how the system worked?'
 p2787
@@ -5861,35 +5861,34 @@ aS'Who was penalized?'
 p2788
 aS'The shareholders.'
 p2789
-asg11
-S'PAUL SALTZMAN'
-p2790
-sg13
-(dp2791
-I0
-S'43'
-p2792
-ssg16
-(lp2793
-S'-- reason for how the system worked?'
-p2794
-aS'Who was penalized?'
-p2795
-aS'The shareholders.'
-p2796
-asa(dp2797
+asa(dp2790
 g8
-(lp2798
+(lp2791
 S"Yeah, that's right."
-p2799
+p2792
 asg11
 S'MALE SPEAKER'
-p2800
+p2793
 sg16
-(lp2801
-g2799
-asa(dp2802
+(lp2794
+g2792
+asa(dp2795
 g8
+(lp2796
+S'Who was penalized?'
+p2797
+aS'Management.'
+p2798
+aS'Look at the newspaper.'
+p2799
+aS"That's an example not of asystem broken."
+p2800
+aS"That's a system working."
+p2801
+asg11
+S'PAUL SALTZMAN'
+p2802
+sg16
 (lp2803
 S'Who was penalized?'
 p2804
@@ -5897,2894 +5896,3247 @@ aS'Management.'
 p2805
 aS'Look at the newspaper.'
 p2806
-aS"That's an example not of asystem broken."
+aS"That's an example not of a system broken."
 p2807
 aS"That's a system working."
 p2808
-asg11
-S'PAUL SALTZMAN'
-p2809
-sg16
-(lp2810
-S'Who was penalized?'
-p2811
-aS'Management.'
-p2812
-aS'Look at the newspaper.'
-p2813
-aS"That's an example not of a system broken."
-p2814
-aS"That's a system working."
-p2815
-asa(dp2816
+asa(dp2809
 g22
-(dp2817
+(dp2810
 I1
 S'[applause]'
-p2818
+p2811
 ssg8
-(lp2819
+(lp2812
 S'If Jamie Dimon --'
-p2820
+p2813
 asg11
 S'SIMON JOHNSON'
-p2821
+p2814
 sg16
-(lp2822
-g2820
-asa(dp2823
+(lp2815
+g2813
+asa(dp2816
 g8
-(lp2824
+(lp2817
 S'Simon Johnson.'
-p2825
+p2818
 asg11
 S'JOHN DONVAN'
-p2826
+p2819
 sg16
-(lp2827
-g2825
-asa(dp2828
+(lp2820
+g2818
+asa(dp2821
 g8
-(lp2829
+(lp2822
 S'Jamie Dimon went to see the attorney general just now to discuss the London Whale.Jamie Dimon went to see --'
-p2830
+p2823
 asg11
 S'SIMON JOHNSON'
-p2831
+p2824
 sg16
-(lp2832
+(lp2825
 S'Jamie Dimon went to see the attorney general just now to discuss the London Whale.'
-p2833
+p2826
 aS'Jamie Dimon went to see --'
-p2834
-asa(dp2835
+p2827
+asa(dp2828
 g22
-(dp2836
+(dp2829
 I1
 S'[laughter]'
-p2837
+p2830
 ssg8
-(lp2838
+(lp2831
 S'Oh, you were there, Simon.'
-p2839
+p2832
 aS'You were there.'
-p2840
+p2833
 aS'[[laughter]] '
-p2841
+p2834
 asg11
 S'PAUL SALTZMAN'
+p2835
+sg16
+(lp2836
+S'Oh, you were there, Simon.'
+p2837
+aS'You were there. '
+p2838
+asa(dp2839
+g8
+(lp2840
+S'Simon, Simon, Simon, tell our radio listeners what the London Whale is.'
+p2841
+asg11
+S'JOHN DONVAN'
 p2842
 sg16
 (lp2843
-S'Oh, you were there, Simon.'
-p2844
-aS'You were there. '
+g2841
+asg18
+(dp2844
+S'20:00:01'
 p2845
-asa(dp2846
+I1
+ssa(dp2846
 g8
 (lp2847
-S'Simon, Simon, Simon, tell our radio listeners what the London Whale is.'
-p2848
-asg11
-S'JOHN DONVAN'
-p2849
-sg16
-(lp2850
-g2848
-asg18
-(dp2851
-S'20:00:01'
-p2852
-I1
-ssa(dp2853
-g8
-(lp2854
 S'The London Whale was a trading operation, an individual, a group of individuals inLondon, lost a lot of money on bad derivative bets and, according to a concessionpublically made by JPMorgan today, there was market manipulation involved in thattransaction.'
-p2855
+p2848
 aS'But the point is, Jamie Dimon went to discuss his legal problems with EricHolder, the attorney general.'
-p2856
+p2849
 aS'I can assure you, you will not get to see the attorneygeneral should you get into any legal problems.'
-p2857
+p2850
 aS"That is -- there's only one company,according to public justice, there's only one company, as far as they can recall, that hasbeen to see the attorney general."
-p2858
+p2851
 asg11
 S'SIMON JOHNSON'
-p2859
+p2852
 sg16
-(lp2860
+(lp2853
 S'The London Whale was a trading operation, an individual, a group of individuals in London, lost a lot of money on bad derivative bets and, according to a concession publically made by JPMorgan today, there was market manipulation involved in that transaction.'
-p2861
+p2854
 aS'But the point is, Jamie Dimon went to discuss his legal problems with Eric Holder, the attorney general.'
-p2862
+p2855
 aS'I can assure you, you will not get to see the attorney general should you get into any legal problems.'
-p2863
+p2856
 aS"That is -- there's only one company, according to public justice, there's only one company, as far as they can recall, that has been to see the attorney general."
-p2864
-asa(dp2865
+p2857
+asa(dp2858
 g22
-(dp2866
+(dp2859
 I3
 S'[laughter]'
-p2867
+p2860
 ssg8
-(lp2868
+(lp2861
 S"I want to remind you -- I want to remind you that we're in the question and answer section."
-p2869
+p2862
 asg11
 S'JOHN DONVAN'
-p2870
+p2863
 sg13
-(dp2871
+(dp2864
 I0
 S'44'
-p2872
+p2865
 ssg16
-(lp2873
+(lp2866
 S"I want to remind you -- I want to remind you that we're in the question and answer section."
-p2874
-asa(dp2875
+p2867
+asa(dp2868
 g8
-(lp2876
+(lp2869
 S"Well, Paul said the system's working perfectly."
-p2877
+p2870
 asg11
 S'SIMON JOHNSON'
-p2878
+p2871
 sg16
-(lp2879
-g2877
-asa(dp2880
+(lp2872
+g2870
+asa(dp2873
 g8
-(lp2881
+(lp2874
 S"I want to remind you we're in the question and answer section."
-p2882
+p2875
 aS"I'll do this in a second."
-p2883
+p2876
 aS"Iwant to remind you that we're in the question and answer section of this IntelligenceSquared U.S. debate."
-p2884
+p2877
 aS"I'm John Donovan, your moderator."
-p2885
+p2878
 aS'We have floor debaters, twoteams of two, arguing it out over this motion: "Break Up the Big Banks.'
-p2886
+p2879
 aS'" Sir.'
-p2887
+p2880
 asg11
 S'JOHN DONVAN'
-p2888
+p2881
 sg16
-(lp2889
+(lp2882
 S"I want to remind you we're in the question and answer section."
-p2890
+p2883
 aS"I'll do this in a second."
-p2891
+p2884
 aS"I want to remind you that we're in the question and answer section of this Intelligence Squared U.S. debate."
-p2892
+p2885
 aS"I'm John Donovan, your moderator."
-p2893
+p2886
 aS'We have floor debaters, two teams of two, arguing it out over this motion: "Break Up the Big Banks.'
-p2894
+p2887
 aS'" Sir.'
-p2895
+p2888
 asg18
-(dp2896
+(dp2889
 S'20:00:59'
-p2897
+p2890
 I4
-ssa(dp2898
+ssa(dp2891
 g8
-(lp2899
+(lp2892
 S'Hi.'
+p2893
+aS'Jonathan Reese .'
+p2894
+aS"It's funny --"
+p2895
+asg11
+S'MALE SPEAKER'
+p2896
+sg16
+(lp2897
+S'Hi.'
+p2898
+aS'Jonathan Reese .'
+p2899
+aS"It's funny --"
 p2900
-aS'Jonathan Reese .'
-p2901
-aS"It's funny --"
-p2902
-asg11
-S'MALE SPEAKER'
-p2903
-sg16
-(lp2904
-S'Hi.'
-p2905
-aS'Jonathan Reese .'
-p2906
-aS"It's funny --"
-p2907
-asa(dp2908
+asa(dp2901
 g8
-(lp2909
+(lp2902
 S'Do you mind standing?'
-p2910
+p2903
 asg11
 S'JOHN DONVAN'
-p2911
+p2904
 sg16
-(lp2912
-g2910
-asa(dp2913
+(lp2905
+g2903
+asa(dp2906
 g8
-(lp2914
+(lp2907
 S'Sure.'
-p2915
+p2908
 asg11
 S'MALE SPEAKER'
-p2916
+p2909
 sg16
-(lp2917
-g2915
-asa(dp2918
+(lp2910
+g2908
+asa(dp2911
 g8
-(lp2919
+(lp2912
 S'Thank you very much.'
-p2920
+p2913
 asg11
 S'JOHN DONVAN'
-p2921
+p2914
 sg16
-(lp2922
-g2920
-asa(dp2923
+(lp2915
+g2913
+asa(dp2916
 g22
-(dp2924
+(dp2917
 I4
 S'[laughter]'
-p2925
+p2918
 ssg8
+(lp2919
+S'Jonathan Reese.'
+p2920
+aS"It's funny that Eric Holders' name just came up, because he also saidbefore Congress that the size of the banks was problematic in terms of prosecutingthem."
+p2921
+aS"He then took it back because it had kind of slipped out and he didn't want toadmit to that, but ---- he did say that."
+p2922
+aS'Do you find that troubling?'
+p2923
+aS'[[laughter]] '
+p2924
+asg11
+S'MALE SPEAKER'
+p2925
+sg16
 (lp2926
 S'Jonathan Reese.'
 p2927
-aS"It's funny that Eric Holders' name just came up, because he also saidbefore Congress that the size of the banks was problematic in terms of prosecutingthem."
+aS"It's funny that Eric Holders' name just came up, because he also said before Congress that the size of the banks was problematic in terms of prosecuting them."
 p2928
-aS"He then took it back because it had kind of slipped out and he didn't want toadmit to that, but ---- he did say that."
+aS"He then took it back because it had kind of slipped out and he didn't want to admit to that, but -- -- he did say that."
 p2929
 aS'Do you find that troubling?'
 p2930
-aS'[[laughter]] '
-p2931
+asa(dp2931
+g8
+(lp2932
+S'Paul Saltzman.'
+p2933
 asg11
-S'MALE SPEAKER'
-p2932
-sg16
-(lp2933
-S'Jonathan Reese.'
+S'JOHN DONVAN'
 p2934
-aS"It's funny that Eric Holders' name just came up, because he also said before Congress that the size of the banks was problematic in terms of prosecuting them."
-p2935
-aS"He then took it back because it had kind of slipped out and he didn't want to admit to that, but -- -- he did say that."
+sg13
+(dp2935
+I1
+S'45'
 p2936
-aS'Do you find that troubling?'
-p2937
+ssg16
+(lp2937
+g2933
 asa(dp2938
 g8
 (lp2939
-S'Paul Saltzman.'
-p2940
-asg11
-S'JOHN DONVAN'
-p2941
-sg13
-(dp2942
-I1
-S'45'
-p2943
-ssg16
-(lp2944
-g2940
-asa(dp2945
-g8
-(lp2946
 S'Yes I did.'
-p2947
+p2940
 aS'Yes I do.'
-p2948
+p2941
 aS"No bank, no individual, no company should be too big to put in jail ifthey've violated the law, okay?"
-p2949
+p2942
 aS"That's point number one."
-p2950
+p2943
 aS'Number two, have you readthe newspapers lately?'
-p2951
+p2944
 aS'Okay?'
-p2952
+p2945
 aS"Do you think banks aren't being prosecuted every dayand probably for political reasons?"
-p2953
+p2946
 aS'Eleven billion dollars of fines being suggested foractivity that occurred prior to the acquisition of the companies that the governmentsuggested they acquire?So this notion that somehow banks are immune from prosecution is just simply not true.No bank should be too big to jail.'
-p2954
+p2947
 aS"No one who has violated the law should be immune.That's my position, and I would assume it's the position of the other debaters aroundthis table."
-p2955
+p2948
 asg11
 S'PAUL SALTZMAN'
-p2956
+p2949
 sg16
-(lp2957
+(lp2950
 S'Yes I did.'
-p2958
+p2951
 aS'Yes I do.'
-p2959
+p2952
 aS"No bank, no individual, no company should be too big to put in jail if they've violated the law, okay?"
-p2960
+p2953
 aS"That's point number one."
-p2961
+p2954
 aS'Number two, have you read the newspapers lately?'
-p2962
+p2955
 aS'Okay?'
-p2963
+p2956
 aS"Do you think banks aren't being prosecuted every day and probably for political reasons?"
-p2964
+p2957
 aS'Eleven billion dollars of fines being suggested for activity that occurred prior to the acquisition of the companies that the government suggested they acquire?'
-p2965
+p2958
 aS'So this notion that somehow banks are immune from prosecution is just simply not true.'
-p2966
+p2959
 aS'No bank should be too big to jail.'
-p2967
+p2960
 aS'No one who has violated the law should be immune.'
-p2968
+p2961
 aS"That's my position, and I would assume it's the position of the other debaters around this table."
-p2969
+p2962
 asg18
-(dp2970
+(dp2963
 S'20:01:55'
-p2971
+p2964
 I6
-ssa(dp2972
+ssa(dp2965
 g8
-(lp2973
+(lp2966
 S"If you remember there was the PBS documentary in which the deputy attorney generalwho is responsible for bringing prosecution actually said on camera that they've beenreluctant to bring not just against JPMorgan Chase, other large financial institutions,they've been reluctant to bring the prosecutions."
-p2974
+p2967
 aS'That gentleman left office very soonafter that statement came out on television.'
-p2975
+p2968
 aS"Look, it's a very uncomfortable statementabout American society and the American legal system, but honestly, that is where weare today."
-p2976
+p2969
 aS'These banks are too big to prosecute effectively.'
-p2977
+p2970
 asg11
 S'SIMON JOHNSON'
-p2978
+p2971
 sg16
-(lp2979
+(lp2972
 S"If you remember there was the PBS documentary in which the deputy attorney general who is responsible for bringing prosecution actually said on camera that they've been reluctant to bring not just against JPMorgan Chase, other large financial institutions, they've been reluctant to bring the prosecutions."
-p2980
+p2973
 aS'That gentleman left office very soon after that statement came out on television.'
-p2981
+p2974
 aS"Look, it's a very uncomfortable statement about American society and the American legal system, but honestly, that is where we are today."
-p2982
+p2975
 aS'These banks are too big to prosecute effectively.'
-p2983
-asa(dp2984
+p2976
+asa(dp2977
 g8
-(lp2985
+(lp2978
 S'Sir, in the center.'
-p2986
+p2979
 aS'No, behind you.'
-p2987
+p2980
 aS'Gray jacket.'
-p2988
+p2981
 aS'And remember to stand up and tell usyour name, please.'
-p2989
+p2982
 asg11
 S'JOHN DONVAN'
-p2990
+p2983
 sg16
-(lp2991
+(lp2984
 S'Sir, in the center.'
-p2992
+p2985
 aS'No, behind you.'
-p2993
+p2986
 aS'Gray jacket.'
-p2994
+p2987
 aS'And remember to stand up and tell us your name, please.'
+p2988
+asa(dp2989
+g8
+(lp2990
+S'Hi.'
+p2991
+aS'Im , a student at Blair.'
+p2992
+asg11
+S'MALE SPEAKER'
+p2993
+sg16
+(lp2994
+S'Hi.'
 p2995
-asa(dp2996
-g8
-(lp2997
-S'Hi.'
-p2998
 aS'Im , a student at Blair.'
+p2996
+asa(dp2997
+g8
+(lp2998
+S"So you're a student at Blair?"
 p2999
-asg11
-S'MALE SPEAKER'
+aS'Tell us about Blair for just a second.'
 p3000
-sg16
-(lp3001
-S'Hi.'
-p3002
-aS'Im , a student at Blair.'
-p3003
-asa(dp3004
-g8
-(lp3005
-S"So you're a student at Blair?"
-p3006
-aS'Tell us about Blair for just a second.'
-p3007
 aS'Is there a whole groupof you here?'
-p3008
+p3001
 asg11
 S'JOHN DONVAN'
-p3009
+p3002
 sg16
-(lp3010
+(lp3003
 S"So you're a student at Blair?"
-p3011
+p3004
 aS'Tell us about Blair for just a second.'
-p3012
+p3005
 aS'Is there a whole group of you here?'
-p3013
+p3006
 asg18
-(dp3014
+(dp3007
 S'20:02:54'
-p3015
+p3008
 I2
-ssa(dp3016
+ssa(dp3009
 g8
-(lp3017
+(lp3010
 S"Yeah, there's a small group of us here right in the middle."
-p3018
+p3011
 asg11
 S'MALE SPEAKER'
-p3019
+p3012
 sg16
-(lp3020
-g3018
-asa(dp3021
+(lp3013
+g3011
+asa(dp3014
 g8
-(lp3022
+(lp3015
 S'Are you the debating team?'
-p3023
+p3016
 asg11
 S'JOHN DONVAN'
-p3024
+p3017
 sg13
-(dp3025
+(dp3018
 I1
 S'46'
-p3026
+p3019
 ssg16
-(lp3027
-g3023
-asa(dp3028
+(lp3020
+g3016
+asa(dp3021
 g22
-(dp3029
+(dp3022
 I1
 S'[laughter]'
-p3030
+p3023
 ssg8
-(lp3031
+(lp3024
 S'Yeah.'
-p3032
+p3025
 aS'Well, a few of us are captains of a debating team, and --'
-p3033
+p3026
 asg11
 S'MALE SPEAKER'
-p3034
+p3027
 sg16
-(lp3035
+(lp3028
 S'Yeah.'
-p3036
+p3029
 aS'Well, a few of us are captains of a debating team, and --'
-p3037
-asa(dp3038
+p3030
+asa(dp3031
 g22
-(dp3039
+(dp3032
 I1
 S'[applause]'
-p3040
+p3033
 ssg8
-(lp3041
+(lp3034
 S'Congratulations.'
-p3042
+p3035
 aS'Thanks for coming.'
-p3043
+p3036
 asg11
 S'JOHN DONVAN'
-p3044
+p3037
 sg16
-(lp3045
+(lp3038
 S'Congratulations.'
-p3046
+p3039
 aS'Thanks for coming.'
-p3047
-asa(dp3048
+p3040
+asa(dp3041
 g8
-(lp3049
+(lp3042
 S'Well, this question is for -- this question is for the for side.'
-p3050
+p3043
 aS"In the scenario that you'veproposed of the splitting of the big banks, how do you think the market will react to thesplitting of these economic giants?"
-p3051
+p3044
 asg11
 S'MALE SPEAKER'
+p3045
+sg16
+(lp3046
+S'Well, this question is for -- this question is for the for side.'
+p3047
+aS"In the scenario that you've proposed of the splitting of the big banks, how do you think the market will react to the splitting of these economic giants?"
+p3048
+asa(dp3049
+g8
+(lp3050
+S'Richard Fisher.'
+p3051
+asg11
+S'JOHN DONVAN'
 p3052
 sg16
 (lp3053
-S'Well, this question is for -- this question is for the for side.'
-p3054
-aS"In the scenario that you've proposed of the splitting of the big banks, how do you think the market will react to the splitting of these economic giants?"
-p3055
-asa(dp3056
-g8
-(lp3057
-S'Richard Fisher.'
-p3058
-asg11
-S'JOHN DONVAN'
-p3059
-sg16
-(lp3060
-g3058
-asa(dp3061
+g3051
+asa(dp3054
 g22
-(dp3062
+(dp3055
 I9
 S'[laughter]'
-p3063
+p3056
 sI6
 S'[applause]'
-p3064
+p3057
 ssg11
 S'RICHARD FISHER'
-p3065
+p3058
 sg16
-(lp3066
+(lp3059
 S"I think the market would greet it with great applause, and I'll tell you why."
-p3067
+p3060
 aS"Because the market would then gravitate to those with the most efficient delivery of services and all the services these gentlemen speak of rather than just assuming that they can conduct business with them because they're totally safe at all times."
-p3068
+p3061
 aS'Only the most efficient would survive.'
-p3069
+p3062
 aS"That's what the American capitalist system is all about."
-p3070
+p3063
 aS"If you're not efficient you should fail."
-p3071
+p3064
 aS"If you're efficient you should succeed and grow."
-p3072
+p3065
 aS"So, to me -- -- that's what we're talking about here."
-p3073
+p3066
 aS"We're talking about taking away the fence of protection, that -- you dont yet, but your parents as taxpayers, unless you're a very successful young debater -- -- provide, just taking away all those guarantees and just saying you have to stand up on your own legs just like anybody else to compete efficiently."
-p3074
+p3067
 aS'And, by the way, it may be that XYZ Bank competes better than everybody else and has that business.'
-p3075
+p3068
 aS"That's fine with me, but I do not want to risk another penny of taxpayer money to bail them out when they make a big mistake, and I think that's exactly what will happen, and it will happen in bigger size and it will happen again and it may well, if things go poorly, happen before the waiting period that this gentleman mentioned."
-p3076
+p3069
 asg18
-(dp3077
+(dp3070
 S'20:04:01'
-p3078
+p3071
 I9
 ssg8
-(lp3079
+(lp3072
 S"I think the market would greet it with great applause, and I'll tell you why."
-p3080
+p3073
 aS"Because themarket would then gravitate to those with the most efficient delivery of services and allthe services these gentlemen speak of rather than just assuming that they can conductbusiness with them because they're totally safe at all times."
-p3081
+p3074
 aS'Only the most efficientwould survive.'
-p3082
+p3075
 aS"That's what the American capitalist system is all about."
-p3083
+p3076
 aS"If you're notefficient you should fail."
-p3084
+p3077
 aS"If you're efficient you should succeed and grow."
-p3085
+p3078
 aS"So, to me ---- that's what we're talking about here."
-p3086
+p3079
 aS"We're talking about taking away the fence of [[applause]] protection, that -- you dont yet, but your parents as taxpayers, unless you're a verysuccessful young debater ---- provide, just taking away all those guarantees and just saying you have to stand up on [[laughter]] your own legs just like anybody else to compete efficiently."
-p3087
+p3080
 aS'And, by the way, it may bethat XYZ Bank competes better than everybody else and has that business.'
-p3088
+p3081
 aS"That's finewith me, but I do not want to risk another penny of taxpayer money to bail them outwhen they make a big mistake, and I think that's exactly what will happen, and it willhappen in bigger size and it will happen again and it may well, if things go poorly,happen before the waiting period that this gentleman mentioned."
-p3089
+p3082
 asg13
-(dp3090
+(dp3083
 I16
 S'47'
-p3091
-ssa(dp3092
+p3084
+ssa(dp3085
 g8
-(lp3093
+(lp3086
 S'Doug Elliot.'
-p3094
+p3087
 asg11
 S'JOHN DONVAN'
-p3095
+p3088
 sg16
-(lp3096
-g3094
-asa(dp3097
+(lp3089
+g3087
+asa(dp3090
 g8
-(lp3098
+(lp3091
 S'Yeah, just wanted to say we agree with you on the objective.'
-p3099
+p3092
 aS"We don't agree with youthat what you're proposing will achieve that objective."
-p3100
+p3093
 asg11
 S'DOUGLAS ELLIOTT'
-p3101
+p3094
 sg16
-(lp3102
+(lp3095
 S'Yeah, just wanted to say we agree with you on the objective.'
-p3103
+p3096
 aS"We don't agree with you that what you're proposing will achieve that objective."
-p3104
-asa(dp3105
+p3097
+asa(dp3098
 g8
-(lp3106
+(lp3099
 S'I want to go to another question.'
-p3107
+p3100
 aS"And I -- every now and then I have to do this, but I'dlove to hear a female voice."
-p3108
+p3101
 aS"And I'm not seeing any female."
-p3109
+p3102
 aS'I see masculine hands.That other guy you could have told like your --'
-p3110
+p3103
 asg11
 S'JOHN DONVAN'
-p3111
+p3104
 sg16
-(lp3112
+(lp3105
 S'I want to go to another question.'
-p3113
+p3106
 aS"And I -- every now and then I have to do this, but I'd love to hear a female voice."
-p3114
+p3107
 aS"And I'm not seeing any female."
-p3115
+p3108
 aS'I see masculine hands.'
-p3116
+p3109
 aS'That other guy you could have told like your --'
-p3117
+p3110
 asg18
-(dp3118
+(dp3111
 S'20:04:56'
-p3119
+p3112
 I3
-ssa(dp3120
+ssa(dp3113
 g8
-(lp3121
+(lp3114
 S'Female voice.'
-p3122
+p3115
 aS'Female hand.'
-p3123
+p3116
 asg11
 S'MALE SPEAKER'
+p3117
+sg16
+(lp3118
+S'Female voice.'
+p3119
+aS'Female hand.'
+p3120
+asa(dp3121
+g8
+(lp3122
+S'Thanks.'
+p3123
+asg11
+S'JOHN DONVAN'
 p3124
 sg16
 (lp3125
-S'Female voice.'
-p3126
-aS'Female hand.'
-p3127
-asa(dp3128
+g3123
+asa(dp3126
 g8
-(lp3129
-S'Thanks.'
-p3130
-asg11
-S'JOHN DONVAN'
-p3131
-sg16
-(lp3132
-g3130
-asa(dp3133
-g8
-(lp3134
+(lp3127
 S'Thank you.'
-p3135
+p3128
 aS'Hi.'
-p3136
+p3129
 aS"I'm Jen Pachichi , I work at DPCC ."
-p3137
+p3130
 aS'Ihave a question for Richard and Simon.'
-p3138
+p3131
 aS"So you're saying that these banks are all globalin nature."
-p3139
+p3132
 aS"And you're proposing to break up the U.S. banks."
-p3140
+p3133
 aS'But how would you handleinternational banks like Barclays who have both commercial, retail, and investmentbanking divisions?'
-p3141
+p3134
 aS'How would they operate in America?'
-p3142
+p3135
 asg11
 S'FEMALE SPEAKER'
-p3143
+p3136
 sg16
-(lp3144
+(lp3137
 S'Thank you.'
-p3145
+p3138
 aS'Hi.'
-p3146
+p3139
 aS"I'm Jen Pachichi , I work at DPCC ."
-p3147
+p3140
 aS'I have a question for Richard and Simon.'
-p3148
+p3141
 aS"So you're saying that these banks are all global in nature."
-p3149
+p3142
 aS"And you're proposing to break up the U.S. banks."
-p3150
+p3143
 aS'But how would you handle international banks like Barclays who have both commercial, retail, and investment banking divisions?'
-p3151
+p3144
 aS'How would they operate in America?'
-p3152
-asa(dp3153
+p3145
+asa(dp3146
 g8
-(lp3154
+(lp3147
 S'Richard Fisher.'
-p3155
+p3148
 asg11
 S'JOHN DONVAN'
-p3156
+p3149
 sg16
-(lp3157
-g3155
-asa(dp3158
+(lp3150
+g3148
+asa(dp3151
 g8
-(lp3159
+(lp3152
 S'One of the arguments you always hear is we have to be big because the others are big.And if not, they will dominate the world.'
-p3160
+p3153
 aS'You are a young woman.'
-p3161
+p3154
 aS'You probably are tooyoung to remember.'
-p3162
+p3155
 aS'That was an argument made that the Japanese banks were todominate the world, Nomura, et cetera.'
-p3163
+p3156
 aS'Or that French banks would dominate theworld.'
-p3164
+p3157
 aS"It hasn't happened."
-p3165
+p3158
 aS"It doesn't happen because they grow to such a size andscale that they're unmanageable."
-p3166
+p3159
 aS"I don't fear international competition."
-p3167
+p3160
 aS"I want to justbe the best at what we do.I want to make sure that our taxpayers are protected so that we don't get driven intothe tank like we were before."
-p3168
+p3161
 aS'And I do believe that we can be internationallycompetitive just by being outstanding.'
-p3169
+p3162
 aS"But we've had these fears before."
-p3170
+p3163
 aS'These areprotectionist fears.'
-p3171
+p3164
 aS"And by the way, they're nonsensical."
-p3172
+p3165
 asg11
 S'RICHARD FISHER'
-p3173
+p3166
 sg13
-(dp3174
+(dp3167
 I9
 S'48'
-p3175
+p3168
 ssg16
-(lp3176
+(lp3169
 S'One of the arguments you always hear is we have to be big because the others are big.'
-p3177
+p3170
 aS'And if not, they will dominate the world.'
-p3178
+p3171
 aS'You are a young woman.'
-p3179
+p3172
 aS'You probably are too young to remember.'
-p3180
+p3173
 aS'That was an argument made that the Japanese banks were to dominate the world, Nomura, et cetera.'
-p3181
+p3174
 aS'Or that French banks would dominate the world.'
-p3182
+p3175
 aS"It hasn't happened."
-p3183
+p3176
 aS"It doesn't happen because they grow to such a size and scale that they're unmanageable."
-p3184
+p3177
 aS"I don't fear international competition."
-p3185
+p3178
 aS'I want to just be the best at what we do.'
-p3186
+p3179
 aS"I want to make sure that our taxpayers are protected so that we don't get driven into the tank like we were before."
-p3187
+p3180
 aS'And I do believe that we can be internationally competitive just by being outstanding.'
-p3188
+p3181
 aS"But we've had these fears before."
-p3189
+p3182
 aS'These are protectionist fears.'
-p3190
+p3183
 aS"And by the way, they're nonsensical."
-p3191
+p3184
 asg18
-(dp3192
+(dp3185
 S'20:05:52'
-p3193
+p3186
 I7
-ssa(dp3194
+ssa(dp3187
 g22
-(dp3195
+(dp3188
 I2
 S'[laughter]'
-p3196
+p3189
 ssg8
-(lp3197
+(lp3190
 S'Another question?'
-p3198
+p3191
 aS'Sir, right in the center there.'
-p3199
+p3192
 aS"You thought I called on you before,and I called the guy behind you, but now it's you.If you can stand up when the mic reaches you, thanks."
-p3200
+p3193
 aS'[[laughter]] '
-p3201
+p3194
 asg11
 S'JOHN DONVAN'
-p3202
+p3195
 sg16
-(lp3203
+(lp3196
 S'Another question?'
-p3204
+p3197
 aS'Sir, right in the center there.'
-p3205
+p3198
 aS"You thought I called on you before, and I called the guy behind you, but now it's you."
-p3206
+p3199
 aS'If you can stand up when the mic reaches you, thanks.'
-p3207
-asa(dp3208
+p3200
+asa(dp3201
 g8
+(lp3202
+S'Weston Onami .'
+p3203
+aS"I think I agree with Mr. Fisher's proposal."
+p3204
+aS"I don'tknow if the means you choose will achieve that end."
+p3205
+aS'I think the two biggest protectionsare the Dodd-Frank Act and the Federal Reserve.'
+p3206
+aS"Shouldn't we be talking aboutbreaking up the biggest public bank and their role in subsidizing the large banks that wehave?"
+p3207
+asg11
+S'MALE SPEAKER'
+p3208
+sg16
 (lp3209
 S'Weston Onami .'
 p3210
 aS"I think I agree with Mr. Fisher's proposal."
 p3211
-aS"I don'tknow if the means you choose will achieve that end."
-p3212
-aS'I think the two biggest protectionsare the Dodd-Frank Act and the Federal Reserve.'
-p3213
-aS"Shouldn't we be talking aboutbreaking up the biggest public bank and their role in subsidizing the large banks that wehave?"
-p3214
-asg11
-S'MALE SPEAKER'
-p3215
-sg16
-(lp3216
-S'Weston Onami .'
-p3217
-aS"I think I agree with Mr. Fisher's proposal."
-p3218
 aS"I don't know if the means you choose will achieve that end."
-p3219
+p3212
 aS'I think the two biggest protections are the Dodd-Frank Act and the Federal Reserve.'
-p3220
+p3213
 aS"Shouldn't we be talking about breaking up the biggest public bank and their role in subsidizing the large banks that we have?"
-p3221
-asa(dp3222
+p3214
+asa(dp3215
 g8
-(lp3223
+(lp3216
 S'You mean the Fed.'
-p3224
+p3217
 asg11
 S'JOHN DONVAN'
-p3225
+p3218
 sg16
-(lp3226
-g3224
-asa(dp3227
+(lp3219
+g3217
+asa(dp3220
 g8
-(lp3228
+(lp3221
 S"Yes, the Fed.What's the question?"
-p3229
+p3222
 asg11
 S'MALE SPEAKER'
-p3230
+p3223
 sg16
-(lp3231
+(lp3224
 S'Yes, the Fed.'
-p3232
+p3225
 aS"What's the question?"
-p3233
-asa(dp3234
+p3226
+asa(dp3227
 g22
-(dp3235
+(dp3228
 I1
 S'[laughter]'
-p3236
+p3229
 ssg8
-(lp3237
+(lp3230
 S"Let's break up the Fed.Richard Elliot."
-p3238
+p3231
 aS'[[laughter]] '
-p3239
+p3232
 asg11
 S'JOHN DONVAN'
-p3240
+p3233
 sg16
-(lp3241
+(lp3234
 S"Let's break up the Fed."
-p3242
+p3235
 aS'Richard Elliot.'
-p3243
-asa(dp3244
+p3236
+asa(dp3237
 g22
-(dp3245
+(dp3238
 I1
 S'[applause]'
-p3246
+p3239
 ssg8
-(lp3247
+(lp3240
 S'Richard, you want me to take that for you?'
-p3248
+p3241
 asg11
 S'PAUL SALTZMAN'
-p3249
+p3242
 sg16
-(lp3250
-g3248
+(lp3243
+g3241
 asg18
-(dp3251
+(dp3244
 S'20:07:04'
-p3252
+p3245
 I1
-ssa(dp3253
+ssa(dp3246
 g8
-(lp3254
+(lp3247
 S'My opponents will give you a very good argument for why we should not break up theFed.'
-p3255
+p3248
 asg11
 S'RICHARD FISHER'
-p3256
+p3249
 sg13
-(dp3257
+(dp3250
 I0
 S'49'
-p3258
+p3251
 ssg16
-(lp3259
+(lp3252
 S'My opponents will give you a very good argument for why we should not break up the Fed.'
-p3260
-asa(dp3261
+p3253
+asa(dp3254
 g8
+(lp3255
+S'Down in the front, there was somebody raising his hand before.'
+p3256
+aS'Yeah.'
+p3257
+aS"Mic's coming toyou."
+p3258
+aS"If you don't mind also walking up a few steps to get into the camera light."
+p3259
+aS'Thanks.'
+p3260
+asg11
+S'JOHN DONVAN'
+p3261
+sg16
 (lp3262
 S'Down in the front, there was somebody raising his hand before.'
 p3263
 aS'Yeah.'
 p3264
-aS"Mic's coming toyou."
+aS"Mic's coming to you."
 p3265
 aS"If you don't mind also walking up a few steps to get into the camera light."
 p3266
 aS'Thanks.'
 p3267
-asg11
-S'JOHN DONVAN'
-p3268
-sg16
-(lp3269
-S'Down in the front, there was somebody raising his hand before.'
-p3270
-aS'Yeah.'
-p3271
-aS"Mic's coming to you."
-p3272
-aS"If you don't mind also walking up a few steps to get into the camera light."
-p3273
-aS'Thanks.'
-p3274
-asa(dp3275
+asa(dp3268
 g8
-(lp3276
+(lp3269
 S"I'm Mendel Lazarus."
-p3277
+p3270
 aS"I'm a senior at Yeshiva University, an accounting student, just cameto watch the debate."
-p3278
+p3271
 aS'I had a question for Richard and Simon.'
-p3279
+p3272
 aS"And we've mentionedseveral times the complexities of these large banks, specifically JPMorgan, 4 trillion inassets, 80 trillion in these incredibly risky derivative swaps."
-p3280
+p3273
 aS"In a sense, yeah, you'reright, these are incredibly risky things that are so colossal."
-p3281
+p3274
 aS'How would it -- I mean,somebody asked about the economy.'
-p3282
+p3275
 aS"But you're suggesting breaking all of this up?Who exactly do you think it is that's going to pick up the pieces and make this allfunction in a smoother way?Take first shot?"
-p3283
+p3276
 asg11
 S'MALE SPEAKER'
-p3284
+p3277
 sg16
-(lp3285
+(lp3278
 S"I'm Mendel Lazarus."
-p3286
+p3279
 aS"I'm a senior at Yeshiva University, an accounting student, just came to watch the debate."
-p3287
+p3280
 aS'I had a question for Richard and Simon.'
-p3288
+p3281
 aS"And we've mentioned several times the complexities of these large banks, specifically JPMorgan, 4 trillion in assets, 80 trillion in these incredibly risky derivative swaps."
-p3289
+p3282
 aS"In a sense, yeah, you're right, these are incredibly risky things that are so colossal."
-p3290
+p3283
 aS'How would it -- I mean, somebody asked about the economy.'
-p3291
+p3284
 aS"But you're suggesting breaking all of this up?"
-p3292
+p3285
 aS"Who exactly do you think it is that's going to pick up the pieces and make this all function in a smoother way?"
-p3293
+p3286
 aS'Take first shot?'
-p3294
+p3287
 asg18
-(dp3295
+(dp3288
 S'20:07:57'
-p3296
+p3289
 I8
-ssa(dp3297
+ssa(dp3290
 g22
-(dp3298
+(dp3291
 I1
 S'[applause]'
-p3299
+p3292
 ssg8
-(lp3300
+(lp3293
 S'Simon Johnson.'
-p3301
+p3294
 asg11
 S'JOHN DONVAN'
-p3302
+p3295
 sg16
-(lp3303
-g3301
-asa(dp3304
+(lp3296
+g3294
+asa(dp3297
 g8
-(lp3305
+(lp3298
 S'The problem is weve put huge subsidies behind these businesses.'
-p3306
+p3299
 aS'And particularly withthe subsidies of -- behind the derivative book, for example, we are proposing to removethose subsidies.'
-p3307
+p3300
 aS'And we believe, because this is what we see around the rest of theAmerican economy, that when you operate without the subsidies, you get efficiency,people who are not very good at running a business go out of business.'
-p3308
+p3301
 aS'Other peopleenter and take over.'
-p3309
+p3302
 aS"So that's the dynamic of American capitalism."
-p3310
+p3303
 aS'All we want forbanking and for the operation of these financial markets is what we have in the rest ofthe American economy.'
-p3311
+p3304
 aS'Why should JPMorgan and the people who run it be exemptfrom the way the rest of the American economy operates?'
-p3312
+p3305
 aS'What makes them sospecial, so different?'
-p3313
+p3306
 aS'Is it your point that they have become particularly dangerousbecause of the business they operate?'
-p3314
+p3307
 aS'You may be right that they are particularlydangerous.'
-p3315
+p3308
 aS"Then I think it's even more pressing issue of public policy."
-p3316
+p3309
 asg11
 S'SIMON JOHNSON'
-p3317
+p3310
 sg16
-(lp3318
+(lp3311
 S'The problem is weve put huge subsidies behind these businesses.'
-p3319
+p3312
 aS'And particularly with the subsidies of -- behind the derivative book, for example, we are proposing to remove those subsidies.'
-p3320
+p3313
 aS'And we believe, because this is what we see around the rest of the American economy, that when you operate without the subsidies, you get efficiency, people who are not very good at running a business go out of business.'
-p3321
+p3314
 aS'Other people enter and take over.'
-p3322
+p3315
 aS"So that's the dynamic of American capitalism."
-p3323
+p3316
 aS'All we want for banking and for the operation of these financial markets is what we have in the rest of the American economy.'
-p3324
+p3317
 aS'Why should JPMorgan and the people who run it be exempt from the way the rest of the American economy operates?'
-p3325
+p3318
 aS'What makes them so special, so different?'
-p3326
+p3319
 aS'Is it your point that they have become particularly dangerous because of the business they operate?'
-p3327
+p3320
 aS'You may be right that they are particularly dangerous.'
-p3328
+p3321
 aS"Then I think it's even more pressing issue of public policy."
-p3329
+p3322
 asg18
-(dp3330
+(dp3323
 S'20:09:02'
-p3331
+p3324
 I12
-ssa(dp3332
+ssa(dp3325
 g8
-(lp3333
+(lp3326
 S"Sir, can I ask you if you feel that your question was answered in the sense that you were-- I think you were looking for, tell me what this future looks like, what's going tohappen."
-p3334
+p3327
 asg11
 S'JOHN DONVAN'
-p3335
+p3328
 sg13
-(dp3336
+(dp3329
 I0
 S'50'
-p3337
+p3330
 ssg16
-(lp3338
+(lp3331
 S"Sir, can I ask you if you feel that your question was answered in the sense that you were -- I think you were looking for, tell me what this future looks like, what's going to happen."
-p3339
-asa(dp3340
+p3332
+asa(dp3333
 g8
-(lp3341
+(lp3334
 S'Okay.'
-p3342
+p3335
 asg11
 S'MALE SPEAKER'
-p3343
+p3336
 sg16
-(lp3344
-g3342
-asa(dp3345
+(lp3337
+g3335
+asa(dp3338
 g8
-(lp3346
+(lp3339
 S'Richard Fisher.'
-p3347
+p3340
 asg11
 S'JOHN DONVAN'
-p3348
+p3341
 sg16
-(lp3349
-g3347
-asa(dp3350
+(lp3342
+g3340
+asa(dp3343
 g8
-(lp3351
+(lp3344
 S"A more efficient operator that doesn't need to be subsidized to operate will pick up thatbusiness."
-p3352
+p3345
 aS'Let me give you an example.'
-p3353
+p3346
 aS'There are huge hedge funds that managederivatives.'
-p3354
+p3347
 aS'With each increase in the risk position they take, they have to post greatermargin.'
-p3355
+p3348
 aS'That does not occur at the XYZ banking institution you mentioned before.'
-p3356
+p3349
 aS'Whyshould they be different than -- why should they have different rules apply to them thatare applied to everybody else in the industry?'
-p3357
+p3350
 aS"So, yes, it's a huge derivative book."
-p3358
+p3351
 aS"And,by the way, it's also a question of how the derivatives are balanced in terms of risk."
-p3359
+p3352
 aS'Itcould be 40-40.They could offset each other or they could have their own capital at risk.'
-p3360
+p3353
 aS'When youplace your own capital at risk and the number is less than 80 trillion -- I don\'t know whatit is, "X" -- you should be subject to the same rules as anybody else who takes an at riskposition.'
-p3361
+p3354
 aS"That's all we're advocating."
-p3362
+p3355
 aS"And I'm sure and I know there are others thatwould take up those positions that were sound and replace the positions that thatinstitution will have, but that's because they're better and more efficient operators andthey don't operate with a subsidy."
-p3363
+p3356
 asg11
 S'RICHARD FISHER'
-p3364
+p3357
 sg16
-(lp3365
+(lp3358
 S"A more efficient operator that doesn't need to be subsidized to operate will pick up that business."
-p3366
+p3359
 aS'Let me give you an example.'
-p3367
+p3360
 aS'There are huge hedge funds that manage derivatives.'
-p3368
+p3361
 aS'With each increase in the risk position they take, they have to post greater margin.'
-p3369
+p3362
 aS'That does not occur at the XYZ banking institution you mentioned before.'
-p3370
+p3363
 aS'Why should they be different than -- why should they have different rules apply to them that are applied to everybody else in the industry?'
-p3371
+p3364
 aS"So, yes, it's a huge derivative book."
-p3372
+p3365
 aS"And, by the way, it's also a question of how the derivatives are balanced in terms of risk."
-p3373
+p3366
 aS'It could be 40-40.'
-p3374
+p3367
 aS'They could offset each other or they could have their own capital at risk.'
-p3375
+p3368
 aS'When you place your own capital at risk and the number is less than 80 trillion -- I don\'t know what it is, "X" -- you should be subject to the same rules as anybody else who takes an at risk position.'
-p3376
+p3369
 aS"That's all we're advocating."
-p3377
+p3370
 aS"And I'm sure and I know there are others that would take up those positions that were sound and replace the positions that that institution will have, but that's because they're better and more efficient operators and they don't operate with a subsidy."
-p3378
+p3371
 asg18
-(dp3379
+(dp3372
 S'20:09:51'
-p3380
+p3373
 I8
-ssa(dp3381
+ssa(dp3374
 g8
-(lp3382
+(lp3375
 S'All right.'
-p3383
+p3376
 aS'Let me bring in Paul Saltzman.'
-p3384
+p3377
 asg11
 S'JOHN DONVAN'
+p3378
+sg16
+(lp3379
+S'All right.'
+p3380
+aS'Let me bring in Paul Saltzman.'
+p3381
+asa(dp3382
+g8
+(lp3383
+S"You know, look, it's -- been waiting for the moment to address this fictitious subsidyquestion, there's no subsidy, okay?"
+p3384
+asg11
+S'PAUL SALTZMAN'
 p3385
 sg16
 (lp3386
-S'All right.'
-p3387
-aS'Let me bring in Paul Saltzman.'
-p3388
-asa(dp3389
-g8
-(lp3390
-S"You know, look, it's -- been waiting for the moment to address this fictitious subsidyquestion, there's no subsidy, okay?"
-p3391
-asg11
-S'PAUL SALTZMAN'
-p3392
-sg16
-(lp3393
 S"You know, look, it's -- been waiting for the moment to address this fictitious subsidy question, there's no subsidy, okay?"
-p3394
-asa(dp3395
+p3387
+asa(dp3388
 g8
-(lp3396
+(lp3389
 S'Oh.'
-p3397
+p3390
 asg11
 S'RICHARD FISHER'
-p3398
+p3391
 sg16
-(lp3399
-g3397
-asa(dp3400
+(lp3392
+g3390
+asa(dp3393
 g8
-(lp3401
+(lp3394
 S"There's no -- there's no transference of wealth --"
-p3402
+p3395
 asg11
 S'PAUL SALTZMAN'
-p3403
+p3396
 sg16
-(lp3404
-g3402
-asa(dp3405
+(lp3397
+g3395
+asa(dp3398
 g22
-(dp3406
+(dp3399
 I1
 S'[laughter]'
-p3407
+p3400
 ssg8
-(lp3408
+(lp3401
 S'I used love you.'
-p3409
+p3402
 aS"I don't love you anymore---- Richard, there is no subsidy."
-p3410
+p3403
 aS'There is no empirical evidence to suggest that any [[laughter]] taxpayer dollars are currently being transferred for the benefit of big banks.'
-p3411
+p3404
 aS'You\'rethrowing out the term "subsidy" and creating this argument as if it\'s the agriculturalindustry that gets taxpayer dollars.'
-p3412
+p3405
 aS"What you're talking about, just to put it in thecontext, is allegations or assertions that banks -- somehow large banks borrow at fundscheaper than would otherwise be the case because of market perceptions that they willbe bailed out"
-p3413
+p3406
 asg11
 S'RICHARD FISHER'
-p3414
+p3407
 sg13
-(dp3415
+(dp3408
 I0
 S'51'
-p3416
+p3409
 ssg16
-(lp3417
+(lp3410
 S'I used love you.'
-p3418
+p3411
 aS"I don't love you anymore-- -- Richard, there is no subsidy."
-p3419
+p3412
 aS'There is no empirical evidence to suggest that any taxpayer dollars are currently being transferred for the benefit of big banks.'
-p3420
+p3413
 aS'You\'re throwing out the term "subsidy" and creating this argument as if it\'s the agricultural industry that gets taxpayer dollars.'
-p3421
+p3414
 aS"What you're talking about, just to put it in the context, is allegations or assertions that banks -- somehow large banks borrow at funds cheaper than would otherwise be the case because of market perceptions that they will be bailed out"
-p3422
-asa(dp3423
+p3415
+asa(dp3416
 g8
-(lp3424
+(lp3417
 S'Which seems like a quite reasonable and logical argument.'
-p3425
+p3418
 asg11
 S'JOHN DONVAN'
+p3419
+sg16
+(lp3420
+g3418
+asg18
+(dp3421
+S'20:11:08'
+p3422
+I1
+ssa(dp3423
+g8
+(lp3424
+S"It's just not true."
+p3425
+asg11
+S'PAUL SALTZMAN'
 p3426
 sg16
 (lp3427
 g3425
-asg18
-(dp3428
-S'20:11:08'
-p3429
-I1
-ssa(dp3430
+asa(dp3428
 g8
-(lp3431
-S"It's just not true."
-p3432
-asg11
-S'PAUL SALTZMAN'
-p3433
-sg16
-(lp3434
-g3432
-asa(dp3435
-g8
-(lp3436
+(lp3429
 S'Oh.'
-p3437
+p3430
 asg11
 S'MALE SPEAKER'
-p3438
+p3431
 sg16
-(lp3439
-g3437
-asa(dp3440
+(lp3432
+g3430
+asa(dp3433
 g22
-(dp3441
+(dp3434
 I1
 S'[laughter]'
-p3442
+p3435
 ssg8
-(lp3443
+(lp3436
 S'Okay?'
-p3444
+p3437
 aS"It's just not true, okay.Again, going back to your colleagues in the Federal Reserve System, okay, economists at [[laughter]] the Federal Reserve Bank of Philadelphia --"
-p3445
+p3438
 asg11
 S'PAUL SALTZMAN'
-p3446
+p3439
 sg16
-(lp3447
+(lp3440
 S'Okay?'
-p3448
+p3441
 aS"It's just not true, okay."
-p3449
+p3442
 aS'Again, going back to your colleagues in the Federal Reserve System, okay, economists at the Federal Reserve Bank of Philadelphia --'
-p3450
-asa(dp3451
+p3443
+asa(dp3444
 g8
-(lp3452
+(lp3445
 S'There are lots of economists in the Federal Reserve, by the way.'
-p3453
+p3446
 asg11
 S'RICHARD FISHER'
-p3454
+p3447
 sg16
-(lp3455
-g3453
-asa(dp3456
+(lp3448
+g3446
+asa(dp3449
 g8
-(lp3457
+(lp3450
 S'I see, but only yours are right, Richard.'
-p3458
+p3451
 aS'But only yours are right'
-p3459
+p3452
 asg11
 S'PAUL SALTZMAN'
+p3453
+sg16
+(lp3454
+S'I see, but only yours are right, Richard.'
+p3455
+aS'But only yours are right'
+p3456
+asa(dp3457
+g8
+(lp3458
+S"No, that's not -- "
+p3459
+asg11
+S'RICHARD FISHER'
 p3460
 sg16
 (lp3461
-S'I see, but only yours are right, Richard.'
+S"No, that's not -- "
 p3462
-aS'But only yours are right'
-p3463
-asa(dp3464
+asa(dp3463
 g8
-(lp3465
-S"No, that's not -- "
-p3466
-asg11
-S'RICHARD FISHER'
-p3467
-sg16
-(lp3468
-S"No, that's not -- "
-p3469
-asa(dp3470
-g8
-(lp3471
+(lp3464
 S'A very well respected economist, okay, made it pretty clear, okay, that the growth of thelarge banks has everything to do with economies of size, scope, and scale, and not thesubsidy.'
-p3472
+p3465
 aS"Secondly, evidence suggests that large institutions borrow at cheaper fundsbecause they're larger, they issue more debt, they have liquidity premiums; moreanalysts cover them."
-p3473
+p3466
 aS'Coca-Cola borrows more cheaply than RC Cola.'
-p3474
+p3467
 aS'Would yousuggest breaking up Coca-Cola or calling that a subsidy?'
-p3475
+p3468
 aS"The fact of the matter is thedeposit liability structure of banks is very complex and it's impossible to assess how andwhen cost of funds differentials are attributable to the too big to fail issue that you're --"
-p3476
+p3469
 asg11
 S'PAUL SALTZMAN'
-p3477
+p3470
 sg13
-(dp3478
+(dp3471
 I0
 S'52'
-p3479
+p3472
 ssg16
-(lp3480
+(lp3473
 S'A very well respected economist, okay, made it pretty clear, okay, that the growth of the large banks has everything to do with economies of size, scope, and scale, and not the subsidy.'
-p3481
+p3474
 aS"Secondly, evidence suggests that large institutions borrow at cheaper funds because they're larger, they issue more debt, they have liquidity premiums; more analysts cover them."
-p3482
+p3475
 aS'Coca-Cola borrows more cheaply than RC Cola.'
-p3483
+p3476
 aS'Would you suggest breaking up Coca-Cola or calling that a subsidy?'
-p3484
+p3477
 aS"The fact of the matter is the deposit liability structure of banks is very complex and it's impossible to assess how and when cost of funds differentials are attributable to the too big to fail issue that you're --"
-p3485
+p3478
 asg18
-(dp3486
+(dp3479
 S'20:12:06'
-p3487
+p3480
 I8
-ssa(dp3488
+ssa(dp3481
 g22
-(dp3489
+(dp3482
 I0
 S'[inaudible]'
+p3483
+ssg8
+(lp3484
+g1461
+asg11
+S'SIMON JOHNSON'
+p3485
+sg16
+(lp3486
+g1461
+asa(dp3487
+g8
+(lp3488
+S'Simon Johnson.'
+p3489
+asg11
+S'JOHN DONVAN'
 p3490
-ssg8
+sg16
 (lp3491
-g1461
-asg11
-S'SIMON JOHNSON'
-p3492
-sg16
+g3489
+asa(dp3492
+g8
 (lp3493
-g1461
-asa(dp3494
-g8
-(lp3495
-S'Simon Johnson.'
-p3496
-asg11
-S'JOHN DONVAN'
-p3497
-sg16
-(lp3498
-g3496
-asa(dp3499
-g8
-(lp3500
 S' simply not true.'
-p3501
+p3494
 asg11
 S'SIMON JOHNSON'
-p3502
+p3495
 sg16
-(lp3503
-g3501
-asa(dp3504
+(lp3496
+g3494
+asa(dp3497
 g8
-(lp3505
+(lp3498
 S'Simon Johnson.'
-p3506
+p3499
 asg11
 S'JOHN DONVAN'
-p3507
+p3500
 sg16
-(lp3508
-g3506
-asa(dp3509
+(lp3501
+g3499
+asa(dp3502
 g8
-(lp3510
+(lp3503
 S'You just summarized very nicely all the industry papers, the papers written by peoplewho work for the big banks on this topic.'
-p3511
+p3504
 aS'If we look at the independent research,including a workshop at NYU that you helped to organize last week, as you know therewere two very good --'
-p3512
+p3505
 asg11
 S'SIMON JOHNSON'
-p3513
+p3506
 sg16
-(lp3514
+(lp3507
 S'You just summarized very nicely all the industry papers, the papers written by people who work for the big banks on this topic.'
-p3515
+p3508
 aS'If we look at the independent research, including a workshop at NYU that you helped to organize last week, as you know there were two very good --'
-p3516
-asa(dp3517
+p3509
+asa(dp3510
 g22
-(dp3518
+(dp3511
 I0
 S'[inaudible]'
-p3519
+p3512
 ssg8
-(lp3520
+(lp3513
 g1461
 asg11
 S'MALE SPEAKER'
-p3521
+p3514
 sg16
-(lp3522
+(lp3515
 g1461
-asa(dp3523
+asa(dp3516
 g8
-(lp3524
+(lp3517
 S'-- let me -- may I finish John?'
-p3525
+p3518
 asg11
 S'SIMON JOHNSON'
-p3526
+p3519
 sg16
-(lp3527
-g3525
-asa(dp3528
+(lp3520
+g3518
+asa(dp3521
 g8
-(lp3529
+(lp3522
 S'Yes, you may.'
-p3530
+p3523
 asg11
 S'JOHN DONVAN'
-p3531
+p3524
 sg16
-(lp3532
-g3530
-asa(dp3533
+(lp3525
+g3523
+asa(dp3526
 g8
-(lp3534
+(lp3527
 S"But it's just not true."
-p3535
+p3528
 asg11
 S'PAUL SALTZMAN'
-p3536
+p3529
 sg16
+(lp3530
+g3528
+asa(dp3531
+g8
+(lp3532
+S'Well, let him finish his point and then you can tell him .'
+p3533
+asg11
+S'JOHN DONVAN'
+p3534
+sg13
+(dp3535
+I1
+S'53'
+p3536
+ssg16
 (lp3537
-g3535
+g3533
 asa(dp3538
 g8
 (lp3539
-S'Well, let him finish his point and then you can tell him .'
-p3540
-asg11
-S'JOHN DONVAN'
-p3541
-sg13
-(dp3542
-I1
-S'53'
-p3543
-ssg16
-(lp3544
-g3540
-asa(dp3545
-g8
-(lp3546
 S"There were two very good papers by independent academics and groups of academicsat that workshop just last week that showed there are substantial subsidies of the toobig to fail kind that exactly we've been talking about."
-p3547
+p3540
 aS'That was your own conferencecall.'
-p3548
+p3541
 aS'Why are you ignoring that evidence?'
-p3549
+p3542
 asg11
 S'SIMON JOHNSON'
-p3550
+p3543
 sg16
-(lp3551
+(lp3544
 S"There were two very good papers by independent academics and groups of academics at that workshop just last week that showed there are substantial subsidies of the too big to fail kind that exactly we've been talking about."
-p3552
+p3545
 aS'That was your own conference call.'
-p3553
+p3546
 aS'Why are you ignoring that evidence?'
-p3554
-asa(dp3555
+p3547
+asa(dp3548
 g8
-(lp3556
+(lp3549
 S'Why are you --'
-p3557
+p3550
 asg11
 S'PAUL SALTZMAN'
-p3558
+p3551
 sg16
-(lp3559
-g3557
-asa(dp3560
+(lp3552
+g3550
+asa(dp3553
 g8
-(lp3561
+(lp3554
 S'Paul Saltzman.'
-p3562
+p3555
 asg11
 S'JOHN DONVAN'
-p3563
+p3556
 sg16
-(lp3564
-g3562
-asa(dp3565
+(lp3557
+g3555
+asa(dp3558
 g8
-(lp3566
+(lp3559
 S'-- ignoring Randy Kroszners paper, former governor of the Federal Reserve --'
-p3567
+p3560
 asg11
 S'PAUL SALTZMAN'
+p3561
+sg16
+(lp3562
+g3560
+asa(dp3563
+g8
+(lp3564
+S"Randy Kroszner's paper -- "
+p3565
+asg11
+S'SIMON JOHNSON'
+p3566
+sg16
+(lp3567
+S"Randy Kroszner's paper -- "
 p3568
-sg16
-(lp3569
-g3567
-asa(dp3570
+asa(dp3569
 g8
-(lp3571
-S"Randy Kroszner's paper -- "
-p3572
-asg11
-S'SIMON JOHNSON'
-p3573
-sg16
-(lp3574
-S"Randy Kroszner's paper -- "
-p3575
-asa(dp3576
-g8
-(lp3577
+(lp3570
 S'-- why are you ignoring Loretta Mesters paper --'
-p3578
+p3571
 asg11
 S'PAUL SALTZMAN'
-p3579
+p3572
 sg16
-(lp3580
-g3578
-asa(dp3581
+(lp3573
+g3571
+asa(dp3574
 g8
-(lp3582
+(lp3575
 S"Randy Kroszner's --"
-p3583
+p3576
 asg11
 S'SIMON JOHNSON'
-p3584
+p3577
 sg16
-(lp3585
-g3583
-asa(dp3586
+(lp3578
+g3576
+asa(dp3579
 g8
-(lp3587
+(lp3580
 S'-- why are you ignoring all the papers that are against you?'
-p3588
+p3581
 aS"That's what you do, Simon."
+p3582
+asg11
+S'PAUL SALTZMAN'
+p3583
+sg16
+(lp3584
+S'-- why are you ignoring all the papers that are against you?'
+p3585
+aS"That's what you do, Simon."
+p3586
+asa(dp3587
+g8
+(lp3588
+S'Randy Kroszner simply --'
 p3589
 asg11
-S'PAUL SALTZMAN'
+S'SIMON JOHNSON'
 p3590
 sg16
 (lp3591
-S'-- why are you ignoring all the papers that are against you?'
-p3592
-aS"That's what you do, Simon."
-p3593
-asa(dp3594
+g3589
+asa(dp3592
 g8
-(lp3595
-S'Randy Kroszner simply --'
-p3596
-asg11
-S'SIMON JOHNSON'
-p3597
-sg16
-(lp3598
-g3596
-asa(dp3599
-g8
-(lp3600
+(lp3593
 S"You ignore everything that's against you and you -- "
-p3601
+p3594
 asg11
 S'PAUL SALTZMAN'
-p3602
+p3595
 sg16
-(lp3603
+(lp3596
 S"You ignore everything that's against you and you -- "
-p3604
-asa(dp3605
+p3597
+asa(dp3598
 g22
-(dp3606
+(dp3599
 I1
 S'[laughter]'
-p3607
+p3600
 ssg11
 S'JOHN DONVAN'
-p3608
+p3601
 sg16
-(lp3609
+(lp3602
 S'By the way, everybody got the package of the papers.'
-p3610
+p3603
 aS'I want you to make your own judgments on this. '
-p3611
+p3604
 asg18
-(dp3612
+(dp3605
 S'20:13:01'
-p3613
+p3606
 I3
 ssg8
-(lp3614
+(lp3607
 S'By the way, everybody got the package of the papers.I want you to make your own judgments on this.'
-p3615
+p3608
 aS'[[laughter]]  '
-p3616
+p3609
 asg13
-(dp3617
+(dp3610
 I2
 S'54'
-p3618
-ssa(dp3619
+p3611
+ssa(dp3612
 g8
-(lp3620
+(lp3613
 S"Randy Kroszner's paper was paid for by --"
-p3621
+p3614
 asg11
 S'SIMON JOHNSON'
-p3622
+p3615
 sg16
-(lp3623
-g3621
-asa(dp3624
+(lp3616
+g3614
+asa(dp3617
 g22
-(dp3625
+(dp3618
 I3
 S'[laughter]'
-p3626
+p3619
 sI7
 S'[laughter]'
-p3627
+p3620
 ssg8
-(lp3628
+(lp3621
 S'Wait, whoa, whoa, whoa.'
-p3629
+p3622
 aS"Dueling papers does not help us.And I realize that it's a serious point."
-p3630
+p3623
 aS"I'm not making light of the fact, but it doesn't help [[laughter]] us get anywhere because we can't evaluate them."
+p3624
+aS"So I -- -- I hope, Doug, you're not going to talk about a paper."
+p3625
+asg11
+S'JOHN DONVAN'
+p3626
+sg16
+(lp3627
+S'Wait, whoa, whoa, whoa.'
+p3628
+aS'Dueling papers does not help us.'
+p3629
+aS"And I realize that it's a serious point."
+p3630
+aS"I'm not making light of the fact, but it doesn't help us get anywhere because we can't evaluate them."
 p3631
 aS"So I -- -- I hope, Doug, you're not going to talk about a paper."
 p3632
-asg11
-S'JOHN DONVAN'
-p3633
-sg16
+asa(dp3633
+g8
 (lp3634
-S'Wait, whoa, whoa, whoa.'
-p3635
-aS'Dueling papers does not help us.'
-p3636
-aS"And I realize that it's a serious point."
-p3637
-aS"I'm not making light of the fact, but it doesn't help us get anywhere because we can't evaluate them."
-p3638
-aS"So I -- -- I hope, Doug, you're not going to talk about a paper."
-p3639
-asa(dp3640
-g8
-(lp3641
 S'Just one very straightforward thing.'
-p3642
+p3635
 asg11
 S'DOUGLAS ELLIOTT'
-p3643
+p3636
 sg16
-(lp3644
-g3642
-asa(dp3645
+(lp3637
+g3635
+asa(dp3638
 g8
-(lp3646
+(lp3639
 S'Yeah.'
-p3647
+p3640
 asg11
 S'JOHN DONVAN'
-p3648
+p3641
 sg16
-(lp3649
-g3647
-asa(dp3650
+(lp3642
+g3640
+asa(dp3643
 g22
-(dp3651
+(dp3644
 I1
 S'[laughter]'
-p3652
+p3645
 ssg8
-(lp3653
+(lp3646
 S"The papers you're talking about ended ---- no, but it is straightforward -- the papers ended in 2010."
-p3654
+p3647
 aS"That's three years ago."
-p3655
+p3648
 aS'A lot [[laughter]] has changed.'
-p3656
+p3649
 asg11
 S'DOUGLAS ELLIOTT'
-p3657
+p3650
 sg16
-(lp3658
+(lp3651
 S"The papers you're talking about ended -- -- no, but it is straightforward -- the papers ended in 2010."
-p3659
+p3652
 aS"That's three years ago."
-p3660
+p3653
 aS'A lot has changed.'
-p3661
-asa(dp3662
+p3654
+asa(dp3655
 g22
-(dp3663
+(dp3656
 I1
 S'[laughter]'
-p3664
+p3657
 ssg11
 S'JOHN DONVAN'
-p3665
+p3658
 sg16
-(lp3666
+(lp3659
 S'Okay.'
-p3667
+p3660
 aS"Let's go to -- thought that was pretty robust."
-p3668
+p3661
 aS'Maybe I should have let it go.'
-p3669
+p3662
 aS'Sir, right down front.'
-p3670
+p3663
 aS'Seeing -- yes, there are fewer hands going up now.'
-p3671
+p3664
 aS'Questions have been great tonight, by the way.'
-p3672
+p3665
 asg18
-(dp3673
+(dp3666
 S'20:13:54'
-p3674
+p3667
 I3
 ssg8
-(lp3675
+(lp3668
 S'Okay.'
-p3676
+p3669
 aS"Let's go to -- thought that was pretty robust."
-p3677
+p3670
 aS'Maybe I should have let it go.Sir, right down front.'
-p3678
+p3671
 aS'Seeing -- yes, there are fewer hands going up now.'
-p3679
+p3672
 aS'Questions [[laughter]] have been great tonight, by the way.'
-p3680
+p3673
 asg13
-(dp3681
+(dp3674
 I1
 S'55'
-p3682
-ssa(dp3683
+p3675
+ssa(dp3676
 g8
-(lp3684
+(lp3677
 S'My name is Joe Webber .'
-p3685
+p3678
 aS"I'm a -- this question is a bit different Ithink than most of the others."
-p3686
+p3679
 aS"I'm a veteran of the telecommunications wars of the1980s when the government decided that AT&T was too big, effectively -- it was theworld's largest corporation -- and broke it up into eight pieces."
-p3687
+p3680
 aS'Well, now, some yearslater -- and that was not without cost or disruption either, it was a pretty complexoperation to divest those companies -- and now here we are, 30 years, 25 years later,and we have two absolutely enormous companies, both of them bigger than AT&T was --'
-p3688
+p3681
 asg11
 S'MALE SPEAKER'
-p3689
+p3682
 sg16
-(lp3690
+(lp3683
 S'My name is Joe Webber .'
-p3691
+p3684
 aS"I'm a -- this question is a bit different I think than most of the others."
-p3692
+p3685
 aS"I'm a veteran of the telecommunications wars of the 1980s when the government decided that AT&T was too big, effectively -- it was the world's largest corporation -- and broke it up into eight pieces."
-p3693
+p3686
 aS'Well, now, some years later -- and that was not without cost or disruption either, it was a pretty complex operation to divest those companies -- and now here we are, 30 years, 25 years later, and we have two absolutely enormous companies, both of them bigger than AT&T was - -'
-p3694
-asa(dp3695
+p3687
+asa(dp3688
 g8
-(lp3696
+(lp3689
 S'So --'
-p3697
+p3690
 asg11
 S'JOHN DONVAN'
-p3698
+p3691
 sg16
-(lp3699
-g3697
-asa(dp3700
+(lp3692
+g3690
+asa(dp3693
 g8
-(lp3701
+(lp3694
 S'-- back in 1984.'
-p3702
+p3695
 asg11
 S'MALE SPEAKER'
-p3703
+p3696
 sg16
-(lp3704
-g3702
-asa(dp3705
+(lp3697
+g3695
+asa(dp3698
 g8
-(lp3706
+(lp3699
 S'-- so can you frame this as a question?'
-p3707
+p3700
 asg11
 S'JOHN DONVAN'
-p3708
+p3701
 sg16
-(lp3709
-g3707
-asa(dp3710
+(lp3702
+g3700
+asa(dp3703
 g8
-(lp3711
+(lp3704
 S"I'm sorry?"
-p3712
+p3705
 asg11
 S'MALE SPEAKER'
-p3713
+p3706
 sg16
-(lp3714
-g3712
-asa(dp3715
+(lp3707
+g3705
+asa(dp3708
 g8
-(lp3716
+(lp3709
 S'Can you frame your question as a question?'
-p3717
+p3710
 asg11
 S'JOHN DONVAN'
-p3718
+p3711
 sg16
-(lp3719
-g3717
-asa(dp3720
+(lp3712
+g3710
+asa(dp3713
 g22
-(dp3721
+(dp3714
 I5
 S'[laughter]'
-p3722
+p3715
 ssg11
 S'MALE SPEAKER'
-p3723
+p3716
 sg16
+(lp3717
+S'Oh, yeah, yeah, sure.'
+p3718
+aS'So the question here is maybe we should take a lesson from that.'
+p3719
+aS'And to my friends on my left, how are you going to make sure that the broken up pieces of all of these companies which are going to break up are not going to grow so large as to become threats to, you know, too big to fail again?'
+p3720
+aS'Are we going to play whack-a-mole with these people forever?'
+p3721
+asg18
+(dp3722
+S'20:15:04'
+p3723
+I4
+ssg8
 (lp3724
 S'Oh, yeah, yeah, sure.'
 p3725
-aS'So the question here is maybe we should take a lesson from that.'
-p3726
-aS'And to my friends on my left, how are you going to make sure that the broken up pieces of all of these companies which are going to break up are not going to grow so large as to become threats to, you know, too big to fail again?'
-p3727
-aS'Are we going to play whack-a-mole with these people forever?'
-p3728
-asg18
-(dp3729
-S'20:15:04'
-p3730
-I4
-ssg8
-(lp3731
-S'Oh, yeah, yeah, sure.'
-p3732
 aS'So the question here is maybe we should take a lesson from that.And to my friends on my left, how are you going to make sure that the broken up piecesof all of these companies which are going to break up are not going to grow so large asto become threats to, you know, too big to fail again?Are we going to play whack-a-mole with these people forever?'
-p3733
+p3726
 asg13
-(dp3734
+(dp3727
 I5
 S'56'
-p3735
-ssa(dp3736
+p3728
+ssa(dp3729
+g22
+(dp3730
+I1
+S'[applause]'
+p3731
+ssg8
+(lp3732
+S"Richard, that's a question Richard Fisher."
+p3733
+asg11
+S'JOHN DONVAN'
+p3734
+sg16
+(lp3735
+g3733
+asa(dp3736
 g22
 (dp3737
 I1
-S'[applause]'
+S'[laughter]'
 p3738
 ssg8
 (lp3739
-S"Richard, that's a question Richard Fisher."
+S'For the first time I\'m pleased to be called "somebody on the left.'
 p3740
-asg11
-S'JOHN DONVAN'
-p3741
-sg16
-(lp3742
-g3740
-asa(dp3743
-g22
-(dp3744
-I1
-S'[laughter]'
-p3745
-ssg8
-(lp3746
-S'For the first time I\'m pleased to be called "somebody on the left.'
-p3747
 aS'"I have no problem with growth.'
-p3748
+p3741
 aS'I have no problem with size, per se.'
-p3749
+p3742
 aS"What I have a [[laughter]] problem with is when it's subsidized by the American taxpayer."
-p3750
+p3743
 aS"If AT&T were to failtoday or if Verizon were to fail today we wouldn't bail them out with taxpayer money.We'd let them go."
-p3751
+p3744
 aS'We\'d say, "To hell with them.'
-p3752
+p3745
 aS'" That\'s not what we do with too big tofail banks.'
-p3753
+p3746
 aS"In fact we have enshrined through Dodd-Frank in my opinion this infinite,constant, permanent subsidization of the protection using taxpayer money.I don't care what the law says."
-p3754
+p3747
 aS"I'm telling you how it works."
-p3755
+p3748
 aS"And the way it works, andthe way it has worked, and we've seen an example of it, so we had an implicitassumption they would be bailed out, and then we had an explicit confirmation theywould be bailed out by the American taxpayer."
-p3756
+p3749
 aS'All I want --'
-p3757
+p3750
 asg11
 S'RICHARD FISHER'
-p3758
+p3751
 sg16
-(lp3759
+(lp3752
 S'For the first time I\'m pleased to be called "somebody on the left.'
-p3760
+p3753
 aS'" I have no problem with growth.'
-p3761
+p3754
 aS'I have no problem with size, per se.'
-p3762
+p3755
 aS"What I have a problem with is when it's subsidized by the American taxpayer."
-p3763
+p3756
 aS"If AT&T were to fail today or if Verizon were to fail today we wouldn't bail them out with taxpayer money."
-p3764
+p3757
 aS"We'd let them go."
-p3765
+p3758
 aS'We\'d say, "To hell with them.'
-p3766
+p3759
 aS'" That\'s not what we do with too big to fail banks.'
-p3767
+p3760
 aS'In fact we have enshrined through Dodd-Frank in my opinion this infinite, constant, permanent subsidization of the protection using taxpayer money.'
-p3768
+p3761
 aS"I don't care what the law says."
-p3769
+p3762
 aS"I'm telling you how it works."
-p3770
+p3763
 aS"And the way it works, and the way it has worked, and we've seen an example of it, so we had an implicit assumption they would be bailed out, and then we had an explicit confirmation they would be bailed out by the American taxpayer."
-p3771
+p3764
 aS'All I want --'
-p3772
+p3765
 asg18
-(dp3773
+(dp3766
 S'20:15:54'
-p3774
+p3767
 I7
-ssa(dp3775
+ssa(dp3768
 g8
-(lp3776
+(lp3769
 S'Richard --'
-p3777
+p3770
 asg11
 S'JOHN DONVAN'
-p3778
+p3771
 sg16
-(lp3779
-g3777
-asa(dp3780
+(lp3772
+g3770
+asa(dp3773
 g8
-(lp3781
+(lp3774
 S'-- all I want is to make sure that, that never happens again.'
-p3782
+p3775
 asg11
 S'RICHARD FISHER'
-p3783
+p3776
 sg16
-(lp3784
-g3782
-asa(dp3785
+(lp3777
+g3775
+asa(dp3778
 g8
-(lp3786
+(lp3779
 S"Richard, you're --"
-p3787
+p3780
 asg11
 S'JOHN DONVAN'
-p3788
+p3781
 sg16
-(lp3789
-g3787
-asa(dp3790
+(lp3782
+g3780
+asa(dp3783
 g8
-(lp3791
+(lp3784
 S"And if someone can grow based on their efficiency, I'm all for them."
-p3792
+p3785
 aS'But I will notprotect them by putting your money at risk.'
-p3793
+p3786
 asg11
 S'RICHARD FISHER'
-p3794
+p3787
 sg16
-(lp3795
+(lp3788
 S"And if someone can grow based on their efficiency, I'm all for them."
-p3796
+p3789
 aS'But I will not protect them by putting your money at risk.'
-p3797
-asa(dp3798
+p3790
+asa(dp3791
 g8
-(lp3799
+(lp3792
 S"I'm not sure that you addressed this question."
-p3800
+p3793
 aS'You may have, but you were returning topoints that you made several times.'
-p3801
+p3794
 aS"And I think his question was, you know, you breakup these or shrink these banks, what's to keep them from finding each other again andbecoming big again?"
-p3802
+p3795
 aS'And he seemed to think that that was a concern.'
-p3803
+p3796
 aS"And it seems --it's an interesting question, but I didn't think that I heard an answer to it."
-p3804
+p3797
 asg11
 S'JOHN DONVAN'
-p3805
+p3798
 sg13
-(dp3806
+(dp3799
 I3
 S'57'
-p3807
+p3800
 ssg16
-(lp3808
+(lp3801
 S"I'm not sure that you addressed this question."
-p3809
+p3802
 aS'You may have, but you were returning to points that you made several times.'
-p3810
+p3803
 aS"And I think his question was, you know, you break up these or shrink these banks, what's to keep them from finding each other again and becoming big again?"
-p3811
+p3804
 aS'And he seemed to think that that was a concern.'
-p3812
+p3805
 aS"And it seems -- it's an interesting question, but I didn't think that I heard an answer to it."
-p3813
-asa(dp3814
+p3806
+asa(dp3807
 g8
-(lp3815
+(lp3808
 S'Again, I want a level playing field.'
-p3816
+p3809
 aS'I want small banks to become big banks if they havethe talent to do so and they do so without taking risks that will then come back to bitethe American taxpayer on their --'
-p3817
+p3810
 asg11
 S'RICHARD FISHER'
+p3811
+sg16
+(lp3812
+S'Again, I want a level playing field.'
+p3813
+aS'I want small banks to become big banks if they have the talent to do so and they do so without taking risks that will then come back to bite the American taxpayer on their --'
+p3814
+asa(dp3815
+g8
+(lp3816
+S'Okay.'
+p3817
+asg11
+S'MALE SPEAKER'
 p3818
 sg16
 (lp3819
-S'Again, I want a level playing field.'
-p3820
-aS'I want small banks to become big banks if they have the talent to do so and they do so without taking risks that will then come back to bite the American taxpayer on their --'
-p3821
-asa(dp3822
-g8
+g3817
+asa(dp3820
+g22
+(dp3821
+I1
+S'[laughter]'
+p3822
+ssg8
 (lp3823
-S'Okay.'
+S'-- neck.'
 p3824
 asg11
-S'MALE SPEAKER'
+S'RICHARD FISHER'
 p3825
 sg16
 (lp3826
 g3824
 asa(dp3827
-g22
-(dp3828
-I1
-S'[laughter]'
-p3829
-ssg8
-(lp3830
-S'-- neck.'
-p3831
-asg11
-S'RICHARD FISHER'
-p3832
-sg16
-(lp3833
-g3831
-asa(dp3834
 g8
-(lp3835
+(lp3828
 S'Oh, let me let the other side respond, sir, and then --'
-p3836
+p3829
 asg11
 S'JOHN DONVAN'
-p3837
+p3830
 sg16
-(lp3838
-g3836
-asa(dp3839
+(lp3831
+g3829
+asa(dp3832
 g8
-(lp3840
+(lp3833
 S'Sure.'
-p3841
+p3834
 asg11
 S'MALE SPEAKER'
-p3842
+p3835
 sg16
-(lp3843
-g3841
-asa(dp3844
+(lp3836
+g3834
+asa(dp3837
 g8
-(lp3845
+(lp3838
 S'-- , Paul Saltzman.'
-p3846
+p3839
 asg11
 S'JOHN DONVAN'
-p3847
+p3840
 sg16
-(lp3848
-g3846
+(lp3841
+g3839
 asg18
-(dp3849
+(dp3842
 S'20:16:56'
-p3850
+p3843
 I1
-ssa(dp3851
+ssa(dp3844
 g8
-(lp3852
+(lp3845
 S'Maybe this is a concession, maybe not, I will support legislation that ends subsidies.'
-p3853
+p3846
 aS'Wehave it already.'
-p3854
+p3847
 aS"I'm not exactly quite sure what you're looking for, Richard."
-p3855
+p3848
 aS'The fact ofthe matter is the law prohibits taxpayer bailouts.'
-p3856
+p3849
 aS'No one wants a subsidy.'
-p3857
+p3850
 aS'No onewants firms to be artificially fueled by unfair advantage.'
-p3858
+p3851
 aS"We're in agreement as to thegoal."
-p3859
+p3852
 aS'The gentleman raised an excellent point.'
-p3860
+p3853
 aS'The fact of the matter is mostcompanies with large fixed expenses like banks grow large for a reason.'
-p3861
+p3854
 aS'They can onlybe profitable because what they do requires size, scope, and scale.'
-p3862
+p3855
 asg11
 S'PAUL SALTZMAN'
-p3863
+p3856
 sg16
-(lp3864
+(lp3857
 S'Maybe this is a concession, maybe not, I will support legislation that ends subsidies.'
-p3865
+p3858
 aS'We have it already.'
-p3866
+p3859
 aS"I'm not exactly quite sure what you're looking for, Richard."
-p3867
+p3860
 aS'The fact of the matter is the law prohibits taxpayer bailouts.'
-p3868
+p3861
 aS'No one wants a subsidy.'
-p3869
+p3862
 aS'No one wants firms to be artificially fueled by unfair advantage.'
-p3870
+p3863
 aS"We're in agreement as to the goal."
-p3871
+p3864
 aS'The gentleman raised an excellent point.'
-p3872
+p3865
 aS'The fact of the matter is most companies with large fixed expenses like banks grow large for a reason.'
-p3873
+p3866
 aS'They can only be profitable because what they do requires size, scope, and scale.'
-p3874
-asa(dp3875
+p3867
+asa(dp3868
 g22
-(dp3876
+(dp3869
 I1
 S'[laughter]'
-p3877
+p3870
 ssg8
-(lp3878
+(lp3871
 S"Well, I'm glad to hear you support my proposition."
-p3879
+p3872
 asg11
 S'RICHARD FISHER'
-p3880
+p3873
 sg16
+(lp3874
+g3872
+asa(dp3875
+g8
+(lp3876
+S'Goal.'
+p3877
+asg11
+S'PAUL SALTZMAN'
+p3878
+sg13
+(dp3879
+I1
+S'58'
+p3880
+ssg16
 (lp3881
-g3879
+g3877
 asa(dp3882
 g8
 (lp3883
-S'Goal.'
-p3884
-asg11
-S'PAUL SALTZMAN'
-p3885
-sg13
-(dp3886
-I1
-S'58'
-p3887
-ssg16
-(lp3888
-g3884
-asa(dp3889
-g8
-(lp3890
 S'My name is Fred Deutsch .'
-p3891
+p3884
 aS"To the side opposed, if your position isthat the scale and scope of JPMorgan allows it to be the most efficient compared to thesmaller banks, why is it that JPMorgan is not the low cost mortgage provider in NewYork and can't execute international trade as efficiently as the smaller banks with whomwe do business?"
-p3892
+p3885
 asg11
 S'MALE SPEAKER'
-p3893
+p3886
 sg16
-(lp3894
+(lp3887
 S'My name is Fred Deutsch .'
-p3895
+p3888
 aS"To the side opposed, if your position is that the scale and scope of JPMorgan allows it to be the most efficient compared to the smaller banks, why is it that JPMorgan is not the low cost mortgage provider in New York and can't execute international trade as efficiently as the smaller banks with whom we do business?"
-p3896
+p3889
 asg18
-(dp3897
+(dp3890
 S'20:18:04'
-p3898
+p3891
 I5
-ssa(dp3899
+ssa(dp3892
 g8
-(lp3900
+(lp3893
 S'Doug Elliott.'
-p3901
+p3894
 asg11
 S'JOHN DONVAN'
-p3902
+p3895
 sg16
-(lp3903
-g3901
-asa(dp3904
+(lp3896
+g3894
+asa(dp3897
 g8
-(lp3905
+(lp3898
 S'Sure.'
-p3906
+p3899
 aS"First of all, here you're talking about one specific example."
-p3907
+p3900
 aS"Every bank's going tohave strengths and weaknesses."
-p3908
+p3901
 aS"I don't think that the big strength of the banks we'retalking about is their retail business, and it wouldn't surprise me if there are times whenthey don't have the great advantage there."
-p3909
+p3902
 aS"Where I see the more compelling case iswhere you're talking about doing things that smaller banks just really can't do, period.The international trade, I'm not sure I could answer that."
-p3910
+p3903
 aS"I'm sure there are people whowould argue they do a nice job."
-p3911
+p3904
 aS"I don't know enough about it."
-p3912
+p3905
 asg11
 S'DOUGLAS ELLIOTT'
-p3913
+p3906
 sg16
-(lp3914
+(lp3907
 S'Sure.'
-p3915
+p3908
 aS"First of all, here you're talking about one specific example."
-p3916
+p3909
 aS"Every bank's going to have strengths and weaknesses."
-p3917
+p3910
 aS"I don't think that the big strength of the banks we're talking about is their retail business, and it wouldn't surprise me if there are times when they don't have the great advantage there."
-p3918
+p3911
 aS"Where I see the more compelling case is where you're talking about doing things that smaller banks just really can't do, period."
-p3919
+p3912
 aS"The international trade, I'm not sure I could answer that."
-p3920
+p3913
 aS"I'm sure there are people who would argue they do a nice job."
-p3921
+p3914
 aS"I don't know enough about it."
-p3922
-asa(dp3923
+p3915
+asa(dp3916
 g22
-(dp3924
+(dp3917
 I2
 S'[laughter]'
-p3925
+p3918
 ssg8
-(lp3926
+(lp3919
 S"So they're really good at managing big, complex derivative transactions in London."
-p3927
+p3920
 aS'Ithink that was the answer.'
-p3928
+p3921
 asg11
 S'SIMON JOHNSON'
-p3929
+p3922
 sg16
-(lp3930
+(lp3923
 S"So they're really good at managing big, complex derivative transactions in London."
-p3931
+p3924
 aS'I think that was the answer.'
-p3932
-asa(dp3933
+p3925
+asa(dp3926
 g22
-(dp3934
+(dp3927
 I1
 S'[applause]'
-p3935
+p3928
 sI10
 S'[applause]'
-p3936
+p3929
 ssg11
 S'JOHN DONVAN'
-p3937
+p3930
 sg16
-(lp3938
+(lp3931
 S'And that concludes round two of this Intelligence Squared U.S. debate -- -- where our motion is "Break up the Big Banks.'
-p3939
+p3932
 aS'" So here\'s where we are.'
-p3940
+p3933
 aS'We are about to move on to round three, round three, are brief closing statements by each debater in turn.'
-p3941
+p3934
 aS'They will be two minutes each.'
-p3942
+p3935
 aS'Remember how you voted before the debate.'
-p3943
+p3936
 aS"Immediately after these closing statements you'll be asked to vote again."
-p3944
+p3937
 aS"It's -- this is their last chance to change your minds before the second vote ."
-p3945
+p3938
 aS'On to round three, closing statements.'
-p3946
+p3939
 aS'Our motion is this, "Break up the Big Banks.'
-p3947
+p3940
 aS'" And here to summarize his position against this motion, Paul Saltzman, president of the Clearinghouse Association.'
-p3948
+p3941
 aS'Ladies and gentlemen, Paul Saltzman.'
-p3949
+p3942
 asg18
-(dp3950
+(dp3943
 S'20:19:00'
-p3951
+p3944
 I4
 ssg8
-(lp3952
+(lp3945
 S'And that concludes round two of this Intelligence Squared U.S. debate ---- where our motion is "Break up the Big Banks.'
-p3953
+p3946
 aS'" So here\'s where we are.'
-p3954
+p3947
 aS'We are about [[applause]] to move on to round three, round three, are brief closing statements by each debater inturn.They will be two minutes each.'
-p3955
+p3948
 aS"Remember how you voted before the debate.Immediately after these closing statements you'll be asked to vote again."
-p3956
+p3949
 aS"It's -- this istheir last chance to change your minds before the second vote .On to round three, closing statements."
-p3957
+p3950
 aS'Our motion is this, "Break up the Big Banks.'
-p3958
+p3951
 aS'"And here to summarize his position against this motion, Paul Saltzman, president of theClearinghouse Association.'
-p3959
+p3952
 aS'Ladies and gentlemen, Paul Saltzman.'
-p3960
+p3953
 asg13
-(dp3961
+(dp3954
 I8
 S'59'
-p3962
-ssa(dp3963
+p3955
+ssa(dp3956
 g8
-(lp3964
+(lp3957
 S'Thank you, John.'
-p3965
+p3958
 aS"And I'm going off script a little bit to basically say there's an awful lotwe do agree with."
-p3966
+p3959
 aS"There's an awful lot of the objectives that we do agree with."
-p3967
+p3960
 aS"We justhave different ways of getting there, but I know you've heard a lot of facts and figuresand contradictory assertions, but let me ask you to just consider three simple practicalfacts."
-p3968
+p3961
 aS'I ask you to remember that America needs global banks, and it reflects the globaleconomy in which we live.Unlike any era before, we live in a global economy.'
-p3969
+p3962
 aS"It's clear that our economy requiresthese international banks to support customers."
-p3970
+p3963
 aS'The only question is whether Americawill sit on the sidelines or be part of that.'
-p3971
+p3964
 aS"Today, just four of the world's largest 25banks are American banks."
-p3972
+p3965
 aS"To break them up and reduce that number to zerojeopardizes America's leadership in the world and America's global leadership."
-p3973
+p3966
 aS'We needsolutions that move the financial system forward, not backward.'
-p3974
+p3967
 aS"I ask that you keep inmind that we can't roll back the clock."
-p3975
+p3968
 aS"I know it's natural after the kind of disaster thatwe faced and the turmoil that we've all experienced to yearn for simpler, less complextimes, but the American economy that was once served exclusively by small banks justno longer exists."
-p3976
+p3969
 aS"The good old days weren't that good."
-p3977
+p3970
 aS"The S&L crisis, the GreatDepression, all were caused by systemic risks associated with smaller banks.Rolling back the clock to restructure the banking system isn't realistic, and it simplywouldn't make us safer."
-p3978
+p3971
 aS'I ask you to support Dodd-Frank, the macro-prudential reformsthat are making it less likely for banks to fail.'
-p3979
+p3972
 aS'In closing, I know it feels good, but Isubmit that breaking up the big banks would create a host of new problems and solvealmost none.'
-p3980
+p3973
 aS'We can do better and we should.'
-p3981
+p3974
 aS'Please vote no and oppose theproposition.'
-p3982
+p3975
 aS'Thank you.'
-p3983
+p3976
 asg11
 S'PAUL SALTZMAN'
-p3984
+p3977
 sg16
-(lp3985
+(lp3978
 S'Thank you, John.'
-p3986
+p3979
 aS"And I'm going off script a little bit to basically say there's an awful lot we do agree with."
-p3987
+p3980
 aS"There's an awful lot of the objectives that we do agree with."
-p3988
+p3981
 aS"We just have different ways of getting there, but I know you've heard a lot of facts and figures and contradictory assertions, but let me ask you to just consider three simple practical facts."
-p3989
+p3982
 aS'I ask you to remember that America needs global banks, and it reflects the global economy in which we live.'
-p3990
+p3983
 aS'Unlike any era before, we live in a global economy.'
-p3991
+p3984
 aS"It's clear that our economy requires these international banks to support customers."
-p3992
+p3985
 aS'The only question is whether America will sit on the sidelines or be part of that.'
-p3993
+p3986
 aS"Today, just four of the world's largest 25 banks are American banks."
-p3994
+p3987
 aS"To break them up and reduce that number to zero jeopardizes America's leadership in the world and America's global leadership."
-p3995
+p3988
 aS'We need solutions that move the financial system forward, not backward.'
-p3996
+p3989
 aS"I ask that you keep in mind that we can't roll back the clock."
-p3997
+p3990
 aS"I know it's natural after the kind of disaster that we faced and the turmoil that we've all experienced to yearn for simpler, less complex times, but the American economy that was once served exclusively by small banks just no longer exists."
-p3998
+p3991
 aS"The good old days weren't that good."
-p3999
+p3992
 aS'The S&L crisis, the Great Depression, all were caused by systemic risks associated with smaller banks.'
-p4000
+p3993
 aS"Rolling back the clock to restructure the banking system isn't realistic, and it simply wouldn't make us safer."
-p4001
+p3994
 aS'I ask you to support Dodd-Frank, the macro-prudential reforms that are making it less likely for banks to fail.'
-p4002
+p3995
 aS'In closing, I know it feels good, but I submit that breaking up the big banks would create a host of new problems and solve almost none.'
-p4003
+p3996
 aS'We can do better and we should.'
-p4004
+p3997
 aS'Please vote no and oppose the proposition.'
-p4005
+p3998
 aS'Thank you.'
-p4006
+p3999
 asg18
-(dp4007
+(dp4000
 S'20:19:55'
-p4008
+p4001
 I6
 sS'20:20:50'
-p4009
+p4002
 I17
-ssa(dp4010
+ssa(dp4003
 g22
-(dp4011
+(dp4004
 I1
 S'[applause]'
-p4012
+p4005
 sI4
 S'[applause]'
-p4013
+p4006
 ssg8
-(lp4014
+(lp4007
 S'Thank you, Paul Saltzman.Our motion is "Break up the Big Banks," and here to speak in summary in support of this [[applause]] motion, Richard Fisher, president of the Federal Reserve Bank of Dallas.'
-p4015
+p4008
 aS'Ladies andgentleman, Richard Fisher.'
-p4016
+p4009
 asg11
 S'JOHN DONVAN'
-p4017
+p4010
 sg13
-(dp4018
+(dp4011
 I4
 S'60'
-p4019
+p4012
 ssg16
-(lp4020
+(lp4013
 S'Thank you, Paul Saltzman.'
-p4021
+p4014
 aS'Our motion is "Break up the Big Banks," and here to speak in summary in support of this motion, Richard Fisher, president of the Federal Reserve Bank of Dallas.'
-p4022
+p4015
 aS'Ladies and gentleman, Richard Fisher.'
-p4023
-asa(dp4024
+p4016
+asa(dp4017
 g8
-(lp4025
+(lp4018
 S'Thank you.'
-p4026
+p4019
 aS'I would submit that America needs competition.'
-p4027
+p4020
 aS'I would submit thatAmerica needs a level playing field.'
-p4028
+p4021
 aS'I would submit that America never again wants toexpose its taxpayers to bailing out institutions that made bad decisions, because theywere badly managed and they were encouraged basically to achieve a size and scaleunder the protection of the law.I therefore strongly endorse taking action that would cordon off the guarantees weprovide to these mega financial institutions and just make them subject to the samecompetitive rules that affect all other businesses.'
-p4029
+p4022
 aS'I ask you to support our motion tobreak up the too big to fail banks.'
-p4030
+p4023
 aS'Thank you.'
-p4031
+p4024
 asg11
 S'RICHARD FISHER'
-p4032
+p4025
 sg16
-(lp4033
+(lp4026
 S'Thank you.'
-p4034
+p4027
 aS'I would submit that America needs competition.'
-p4035
+p4028
 aS'I would submit that America needs a level playing field.'
-p4036
+p4029
 aS'I would submit that America never again wants to expose its taxpayers to bailing out institutions that made bad decisions, because they were badly managed and they were encouraged basically to achieve a size and scale under the protection of the law.'
-p4037
+p4030
 aS'I therefore strongly endorse taking action that would cordon off the guarantees we provide to these mega financial institutions and just make them subject to the same competitive rules that affect all other businesses.'
-p4038
+p4031
 aS'I ask you to support our motion to break up the too big to fail banks.'
-p4039
+p4032
 aS'Thank you.'
-p4040
+p4033
 asg18
-(dp4041
+(dp4034
 S'20:21:56'
-p4042
+p4035
 I5
-ssa(dp4043
+ssa(dp4036
 g22
-(dp4044
+(dp4037
 I1
 S'[applause]'
-p4045
+p4038
 sI4
 S'[applause]'
-p4046
+p4039
 ssg8
-(lp4047
+(lp4040
 S'Thank you, Richard Fisher.And that is our motion: "Break up the Big Banks," and here to speak against the motion [[applause]] in his closing statement, Doug Elliott, a fellow in economic studies at the BrookingsInstitution.'
-p4048
+p4041
 aS'Ladies and gentleman, Doug Elliott.'
-p4049
+p4042
 asg11
 S'JOHN DONVAN'
-p4050
+p4043
 sg16
-(lp4051
+(lp4044
 S'Thank you, Richard Fisher.'
-p4052
+p4045
 aS'And that is our motion: "Break up the Big Banks," and here to speak against the motion in his closing statement, Doug Elliott, a fellow in economic studies at the Brookings Institution.'
-p4053
+p4046
 aS'Ladies and gentleman, Doug Elliott.'
-p4054
-asa(dp4055
+p4047
+asa(dp4048
 g22
-(dp4056
+(dp4049
 I6
 S'[laughter]'
-p4057
+p4050
 ssg11
 S'DOUGLAS ELLIOTT'
-p4058
+p4051
 sg16
-(lp4059
+(lp4052
 S'Thank you, John, and thank you everyone for the opportunity.'
-p4060
+p4053
 aS'This is an important question.'
-p4061
+p4054
 aS'Let me repeat what Paul said.'
-p4062
+p4055
 aS"The overall objectives you've described, Richard, and I think Simon, we would agree with."
-p4063
+p4056
 aS"I focus on two points why I don't agree with your actual proposal."
-p4064
+p4057
 aS"First is I'm still a little unclear exactly what it is and how it relates to the actual thing we were supposed to debate, and for me that's an important point, but beyond that -- -- beyond that, I do believe that from the years of experience I had working in the industry that the customers really have seen major advantages."
-p4065
+p4058
 aS'A lot of the growth has been customer driven, and I do want to say, Richard, early on you were describing bankers who were deliberately creating excessively large firms for the sake of being excessively large, opaque firms for the sake of maximizing the subsidies.'
-p4066
+p4059
 aS'I worked in M&A in finance working with financial institutions.'
-p4067
+p4060
 aS'I never once in the 20 years ever talked to anybody who, even in private conversations, had any of those things as their objectives.'
-p4068
+p4061
 aS'Now I can understand if you want to make the argument that the incentive structure pushes things that way, but I would strongly urge backing away from language that both of you at times have used that argues that the bankers are deliberately trying to create their firms in such a way that they get these subsidies.'
-p4069
+p4062
 aS"I think I'll leave it there."
-p4070
+p4063
 aS"I'd urge you to vote against the motion."
-p4071
+p4064
 asg18
-(dp4072
+(dp4065
 S'20:22:56'
-p4073
+p4066
 I4
 sS'20:24:01'
-p4074
+p4067
 I14
 ssg8
-(lp4075
+(lp4068
 S'Thank you, John, and thank you everyone for the opportunity.'
-p4076
+p4069
 aS'This is an importantquestion.'
-p4077
+p4070
 aS'Let me repeat what Paul said.'
-p4078
+p4071
 aS"The overall objectives you've described,Richard, and I think Simon, we would agree with."
-p4079
+p4072
 aS"I focus on two points why I don'tagree with your actual proposal.First is I'm still a little unclear exactly what it is and how it relates to the actual thing wewere supposed to debate, and for me that's an important point, but beyond that ---- beyond that, I do believe that from the years of experience I had working in the [[laughter]] industry that the customers really have seen major advantages."
-p4080
+p4073
 aS'A lot of the growth hasbeen customer driven, and I do want to say, Richard, early on you were describingbankers who were deliberately creating excessively large firms for the sake of beingexcessively large, opaque firms for the sake of maximizing the subsidies.'
-p4081
+p4074
 aS'I worked inM&A in finance working with financial institutions.'
-p4082
+p4075
 aS'I never once in the 20 years evertalked to anybody who, even in private conversations, had any of those things as theirobjectives.Now I can understand if you want to make the argument that the incentive structurepushes things that way, but I would strongly urge backing away from language that bothof you at times have used that argues that the bankers are deliberately trying to createtheir firms in such a way that they get these subsidies.'
-p4083
+p4076
 aS"I think I'll leave it there."
-p4084
+p4077
 aS"I'd urgeyou to vote against the motion."
-p4085
+p4078
 asg13
-(dp4086
+(dp4079
 I9
 S'61'
-p4087
-ssa(dp4088
+p4080
+ssa(dp4081
 g22
-(dp4089
+(dp4082
 I4
 S'[applause]'
-p4090
+p4083
 ssg8
-(lp4091
+(lp4084
 S'Thank you very much, Doug Elliott.'
-p4092
+p4085
 aS'And that is our motion: "Break up the Big Banks.'
-p4093
+p4086
 aS'"And here to summarize his position in support of the motion to break up the big banks,Simon Johnson, former chief economist at the IMF, professor at MIT Sloan School ofManagement.'
-p4094
+p4087
 aS'Ladies and gentlemen, Simon Johnson.'
-p4095
+p4088
 asg11
 S'JOHN DONVAN'
-p4096
+p4089
 sg16
-(lp4097
+(lp4090
 S'Thank you very much, Doug Elliott.'
-p4098
+p4091
 aS'And that is our motion: "Break up the Big Banks.'
-p4099
+p4092
 aS'" And here to summarize his position in support of the motion to break up the big banks, Simon Johnson, former chief economist at the IMF, professor at MIT Sloan School of Management.'
-p4100
+p4093
 aS'Ladies and gentlemen, Simon Johnson.'
-p4101
-asa(dp4102
+p4094
+asa(dp4095
 g22
-(dp4103
+(dp4096
 I20
 S'[applause]'
-p4104
+p4097
 ssg11
 S'SIMON JOHNSON'
-p4105
+p4098
 sg16
-(lp4106
+(lp4099
 S'In 1902, the administration of Teddy Roosevelt brought an antitrust action against Northern Securities.'
-p4107
+p4100
 aS'A very large railroad company in the northwest part of the United States.'
-p4108
+p4101
 aS'It was one of the first actions of its kind.'
-p4109
+p4102
 aS'It was extremely controversial.'
-p4110
+p4103
 aS"A lot of people in the mainstream didn't know what Roosevelt was doing."
-p4111
+p4104
 aS'There were plenty of arguments made that these monopolies were modern, they were efficient.'
-p4112
+p4105
 aS'They would benefit the American economy.'
-p4113
+p4106
 aS'J.P. Morgan, the original J.P. Morgan, the man, came to the White House in February 1902.'
-p4114
+p4107
 aS'And he said to Roosevelt and to his attorney general, "If we\'ve done anything wrong, send your man to see my man, and we\'ll fix it up.'
-p4115
+p4108
 aS'" And Roosevelt and his attorney general, thank goodness, said no.'
-p4116
+p4109
 aS"We don't want to fix it up."
-p4117
+p4110
 aS'We want to stop it.'
-p4118
+p4111
 aS"This, in Roosevelt's mind, was an excessive concentration of power."
-p4119
+p4112
 aS'It was dangerous to the democracy.'
-p4120
+p4113
 aS'They took that case all the way to the Supreme Court.'
-p4121
+p4114
 aS'They won it 4 to 3.'
-p4122
+p4115
 aS"And out of that came a lot more precedents, antitrust cases, more legislation and, I would submit, the really important change was a shift in the consensus, people like you in New York in 1902 didn't know what Roosevelt was doing or why it made sense."
-p4123
+p4116
 aS"They thought, many of them, it'd be bad for business."
-p4124
+p4117
 aS'In 1911, when the government moved to break up Standard Oil, there were very few defenders of huge monopolies.'
-p4125
+p4118
 aS'People understood concentrated power can be very damaging in this democracy.'
-p4126
+p4119
 aS'Vote for the democracy.'
-p4127
+p4120
 aS'Vote to break up the big banks.'
-p4128
+p4121
 aS'Thank you.'
-p4129
+p4122
 asg18
-(dp4130
+(dp4123
 S'20:25:00'
-p4131
+p4124
 I3
 sS'20:25:59'
-p4132
+p4125
 I13
 ssg8
-(lp4133
+(lp4126
 S'In 1902, the administration of Teddy Roosevelt brought an antitrust action againstNorthern Securities.'
-p4134
+p4127
 aS'A very large railroad company in the northwest part of the UnitedStates.It was one of the first actions of its kind.'
-p4135
+p4128
 aS'It was extremely controversial.'
-p4136
+p4129
 aS"A lot of peoplein the mainstream didn't know what Roosevelt was doing."
-p4137
+p4130
 aS'There were plenty ofarguments made that these monopolies were modern, they were efficient.'
-p4138
+p4131
 aS'They wouldbenefit the American economy.'
-p4139
+p4132
 aS'J.P. Morgan, the original J.P. Morgan, the man, came tothe White House in February 1902.'
-p4140
+p4133
 aS'And he said to Roosevelt and to his attorneygeneral, "If we\'ve done anything wrong, send your man to see my man, and we\'ll fix itup.'
-p4141
+p4134
 aS'" And Roosevelt and his attorney general, thank goodness, said no.'
-p4142
+p4135
 aS"We don't wantto fix it up."
-p4143
+p4136
 aS'We want to stop it.'
-p4144
+p4137
 aS"This, in Roosevelt's mind, was an excessiveconcentration of power."
-p4145
+p4138
 aS'It was dangerous to the democracy.'
-p4146
+p4139
 aS'They took that case all theway to the Supreme Court.They won it 4 to 3.'
-p4147
+p4140
 aS"And out of that came a lot more precedents, antitrust cases, morelegislation and, I would submit, the really important change was a shift in the consensus,people like you in New York in 1902 didn't know what Roosevelt was doing or why itmade sense."
-p4148
+p4141
 aS"They thought, many of them, it'd be bad for business."
-p4149
+p4142
 aS'In 1911, when thegovernment moved to break up Standard Oil, there were very few defenders of hugemonopolies.'
-p4150
+p4143
 aS'People understood concentrated power can be very damaging in thisdemocracy.'
-p4151
+p4144
 aS'Vote for the democracy.'
-p4152
+p4145
 aS'Vote to break up the big banks.'
-p4153
+p4146
 aS'Thank you.'
-p4154
+p4147
 asg13
-(dp4155
+(dp4148
 I15
 S'62'
+p4149
+ssa(dp4150
+g22
+(dp4151
+I65
+S'[applause]'
+p4152
+sI37
+S'[laughter]'
+p4153
+sI38
+S'[laughter]'
+p4154
+sI9
+S'[applause]'
+p4155
+sI14
+S'[applause]'
 p4156
-ssasS'after'
+sI48
+S'[laughter]'
 p4157
-(lp4158
-S'49%-FOR'
+sI17
+S'[applause]'
+p4158
+sI50
+S'[laughter]'
 p4159
-aS'39%-AGAINST'
+sI51
+S'[laughter]'
 p4160
-aS'12%-UNDECIDED'
+sI22
+S'[applause]'
 p4161
-asS'against'
-p4162
-(lp4163
-S'PAUL SALTZMAN'
-p4164
-aS'DOUGLAS ELLIOTT'
-p4165
-asS'moderator'
-p4166
-(lp4167
+ssg11
 S'JOHN DONVAN'
+p4162
+sg16
+(lp4163
+S'Thank you, Simon Johnson.'
+p4164
+aS'And that concludes our closing statements.'
+p4165
+aS"And now it's time to learn which side do you feel has argued best."
+p4166
+aS"We're asking you again to go to the key pads at your seat that will register your vote."
+p4167
+aS"We're going to get the readout on this almost instantaneously."
 p4168
-asS'date'
+aS'Press number one if you are for the motion, press number two if you are against the motion, and press number three if remain or became undecided.'
 p4169
-(dp4170
-S'year'
+aS"And again, we're going to lock that out in a second, and then we are about two minutes away from having the results."
+p4170
+aS'A few things I want to take care of.'
 p4171
-S'2013'
+aS"First of all, some news headlines, as we've been debating, the Senate has passed a measure to end the shutdown and to raise the debt limit."
 p4172
-sS'day'
+aS'President Obama began speaking on television five minutes ago, but nobody leaves.'
 p4173
-S'16'
+aS'And the House is expected to follow suit tonight.'
 p4174
-sS'month'
+aS'I also want to say this about this debate.'
 p4175
-S'October'
+aS'It was really terrific.'
 p4176
-ssS'before'
+aS'These debaters obviously feel passionate about this.'
 p4177
-(lp4178
-S'37%-FOR'
+aS'They have a shared common ground, but they have very, very honest disagreements that were honestly argued.'
+p4178
+aS'And I want to congratulate for the way they did this tonight.'
 p4179
-aS'19%-AGAINST'
+aS'I also again want to thank the Richard Paul Richman Center for Business Law and Public Policy for being our partner in this.'
 p4180
-aS'44%-UNDECIDED'
+aS"We love having them onboard, and they've been extremely helpful."
 p4181
+aS'So thank you to them as well.'
+p4182
+aS'And the last thing I want to say is, sometimes I said at the beginning, the questions can be pretty dodgy.'
+p4183
+aS"But tonight's questions were terrific."
+p4184
+aS"And I want to congratulate every -- we didn't throw one out."
+p4185
+aS'Everybody got in.'
+p4186
+aS"And I want to congratulate everybody who has the guts to get up and do it because it's a scary thing to do."
+p4187
+aS'So thank you for that.'
+p4188
+aS'We would love it if you would tweet about this debate.'
+p4189
+aS'Our Twitter handle is @IQ2US.'
+p4190
+aS'And the hash tag tonight is #BigBanks.'
+p4191
+aS'Our next debate here at the Kaufman will be on Wednesday, October 30th.'
+p4192
+aS'Our motion is, "Let Anyone Take a Job Anywhere.'
+p4193
+aS'" arguing in support of this motion, Bryan Caplan.'
+p4194
+aS"He's an economist."
+p4195
+aS"He's a leading proponent of open borders, which he describes as the efficient, egalitarian, libertarian, utilitarian way to double the world GDP."
+p4196
+aS'His partner is Vivek Wadhwa.'
+p4197
+aS"He's an academic and entrepreneur who has debated with us before."
+p4198
+aS"He's been named one of the 40 most influential minds in tech by Time magazine."
+p4199
+aS'Arguing against this motion, Kathleen Newland.'
+p4200
+aS'She is cofounder of the Migration Policy Institute where she studies the relationship between migration and development.'
+p4201
+aS'Her partner is Ron Unz, a former businessman and political activist, publisher of the American Conservative for six years.'
+p4202
+aS'Tickets to that debate are available at our website, www.iq2us.org.'
+p4203
+aS"This Friday, in two days, October 18th, we're having an intelligent lunch."
+p4204
+aS'We\'ll be in California debating the motion which is, "For a Better Future, Live in a Red State.'
+p4205
+aS'" You can -- yeah.'
+p4206
+aS'Where are we?'
+p4207
+aS'You can watch the live stream of this debate at noon here on the East Coast.'
+p4208
+aS"And it's 9:00 a.m. on the West Coast."
+p4209
+aS"And for those who can't get to that live audience, and if you want to get on the plane, you're welcome."
+p4210
+aS'There are a lot of other ways to catch these debates.'
+p4211
+aS'You can watch the live stream on our site, iq2us.org or fora.tv.'
+p4212
+aS'And as I said before, listen to these debates on NPR stations across the nation.'
+p4213
+aS'And you can also download the podcast.'
+p4214
+aS"And we're, of course, on Twitter and Facebook."
+p4215
+aS'And we welcome your feedback and topic ideas.'
+p4216
+aS'And speaking of ideas, we had put out a little bit of a note to people on our website asking them to please reconfigure the letters TBTF.'
+p4217
+aS'What else could it stand for?'
+p4218
+aS'We said we would read a couple of them that were kind of nice.'
+p4219
+aS'So the two that I like, a guy named John in Brooklyn, New York, said he has advice for the secret service, TBTF, "Trust but then frisk.'
+p4220
+aS'" And Marcella Rosen, also of New York, I just like it too much, "Too beautiful to forget.'
+p4221
+aS'" All right.'
+p4222
+aS'The results are in now.'
+p4223
+aS'Our motion is this: Break up the Big Banks.'
+p4224
+aS'We have had you vote twice, both before the debate and once again after the debate.'
+p4225
+aS'Remember, the team whose numbers have changed the most in percentage point terms will be declared our winner.'
+p4226
+aS'Here was the result of the preliminary vote on the motion, "Break up the Big Banks.'
+p4227
+aS'" Before the debate, 37 percent of you agreed with this motion.'
+p4228
+aS'19 percent were against.'
+p4229
+aS'44 percent were undecided.'
+p4230
+aS'So those are the first results.'
+p4231
+aS'Remember, the team that moves the numbers the most from first vote to second is declared our winner.'
+p4232
+aS'Here is then the second vote.'
+p4233
+aS'The team arguing for the motion, their second vote was 49 percent, from 37 percent to 49 percent.'
+p4234
+aS'That is an increase of 12 percentage points.'
+p4235
+aS'That is the number to beat.'
+p4236
+aS'The team against the motion, and their first vote was 19 percent.'
+p4237
+aS'Their second vote, 39 percent.'
+p4238
+aS"That's 20 percentage points above."
+p4239
+aS'They did it.'
+p4240
+aS'The team arguing against the motion has won this debate, "Break up the big banks.'
+p4241
+aS'" They have defeated that motion, "Break up the big banks.'
+p4242
+aS'" Congratulations to them, and thank you from me, John Donovan and Intelligence Squared U.S. We\'ll see you next time.'
+p4243
+asg18
+(dp4244
+S'20:27:00'
+p4245
+I3
+sS'20:29:56'
+p4246
+I37
+sS'20:28:57'
+p4247
+I25
+sS'20:30:59'
+p4248
+I50
+sS'20:31:55'
+p4249
+I62
+sS'20:27:57'
+p4250
+I12
+ssg8
+(lp4251
+S'Thank you, Simon Johnson.'
+p4252
+aS'And that concludes our closing statements.'
+p4253
+aS"And now it'stime to learn which side do you feel has argued best."
+p4254
+aS"We're asking you again to go tothe key pads at your seat that will register your vote.We're going to get the readout on this almost instantaneously."
+p4255
+aS'Press number one if youare for the motion, press number two if you are against the motion, and press numberthree if remain or became undecided.'
+p4256
+aS"And again, we're going to lock that out in asecond, and then we are about two minutes away from having the results."
+p4257
+aS'A few thingsI want to take care of.'
+p4258
+aS"First of all, some news headlines, as we've been debating, theSenate has passed a measure to end the shutdown and to raise the debt limit.President Obama began speaking on television five minutes ago, but nobody leaves."
+p4259
+aS'[[applause]] And the House is expected to follow suit tonight.'
+p4260
+aS'I also want to say this about thisdebate.'
+p4261
+aS'It was really terrific.'
+p4262
+aS'These debaters obviously feel passionate about this.They have a shared common ground, but they have very, very honest disagreementsthat were honestly argued.'
+p4263
+aS'And I want to congratulate for the way they did this tonight.I also again want to thank the Richard Paul Richman Center for Business Law and Public [[applause]] Policy for being our partner in this.'
+p4264
+aS"We love having them onboard, and they've beenextremely helpful."
+p4265
+aS'So thank you to them as well.And the last thing I want to say is, sometimes I said at the beginning, the questions can [[applause]] be pretty dodgy.'
+p4266
+aS"But tonight's questions were terrific."
+p4267
+aS"And I want to congratulate every-- we didn't throw one out."
+p4268
+aS'Everybody got in.'
+p4269
+aS"And I want to congratulate everybodywho has the guts to get up and do it because it's a scary thing to do."
+p4270
+aS'So thank you forthat.We would love it if you would tweet about this debate.'
+p4271
+aS'Our Twitter handle is @IQ2US.'
+p4272
+aS'[[applause]] And the hash tag tonight is #BigBanks.'
+p4273
+aS'Our next debate here at the Kaufman will be onWednesday, October 30th.Our motion is, "Let Anyone Take a Job Anywhere.'
+p4274
+aS'" arguing in support of this motion,Bryan Caplan.'
+p4275
+aS"He's an economist."
+p4276
+aS"He's a leading proponent of open borders, which hedescribes as the efficient, egalitarian, libertarian, utilitarian way to double the worldGDP."
+p4277
+aS'His partner is Vivek Wadhwa.'
+p4278
+aS"He's an academic and entrepreneur who hasdebated with us before."
+p4279
+aS"He's been named one of the 40 most influential minds in techby Time magazine."
+p4280
+aS'Arguing against this motion, Kathleen Newland.'
+p4281
+aS'She is cofounder ofthe Migration Policy Institute where she studies the relationship between migration anddevelopment.'
+p4282
+aS'Her partner is Ron Unz, a former businessman and political activist,publisher of the American Conservative for six years.'
+p4283
+aS'Tickets to that debate areavailable at our website, www.iq2us.org.'
+p4284
+aS"This Friday, in two days, October 18th, we'rehaving an intelligent lunch."
+p4285
+aS'We\'ll be in California debating the motion which is, "For aBetter Future, Live in a Red State.'
+p4286
+aS'"You can -- yeah.'
+p4287
+aS'Where are we?'
+p4288
+aS'[[laughter]] You can watch the live stream of this debate at noon here on the East Coast.'
+p4289
+aS"And it's [[laughter]] 9:00 a.m. on the West Coast."
+p4290
+aS"And for those who can't get to that live audience, and ifyou want to get on the plane, you're welcome."
+p4291
+aS'There are a lot of other ways to catchthese debates.'
+p4292
+aS'You can watch the live stream on our site, iq2us.org or fora.tv.'
+p4293
+aS'And as Isaid before, listen to these debates on NPR stations across the nation.'
+p4294
+aS'And you can alsodownload the podcast.'
+p4295
+aS"And we're, of course, on Twitter and Facebook."
+p4296
+aS'And wewelcome your feedback and topic ideas.'
+p4297
+aS'And speaking of ideas, we had put out a littlebit of a note to people on our website asking them to please reconfigure the lettersTBTF.'
+p4298
+aS'What else could it stand for?'
+p4299
+aS'We said we would read a couple of them that werekind of nice.So the two that I like, a guy named John in Brooklyn, New York, said he has advice for [[laughter]] the secret service, TBTF, "Trust but then frisk.'
+p4300
+aS'"And Marcella Rosen, also of New York, I just like it too much, "Too beautiful to forget.'
+p4301
+aS'" [[laughter]] All right.'
+p4302
+aS'The results are in now.'
+p4303
+aS'Our motion is this: Break up the Big Banks.'
+p4304
+aS'We have [[laughter]] had you vote twice, both before the debate and once again after the debate.Remember, the team whose numbers have changed the most in percentage point termswill be declared our winner.'
+p4305
+aS'Here was the result of the preliminary vote on the motion,"Break up the Big Banks.'
+p4306
+aS'" Before the debate, 37 percent of you agreed with thismotion.'
+p4307
+aS'19 percent were against.'
+p4308
+aS'44 percent were undecided.'
+p4309
+aS'So those are the firstresults.'
+p4310
+aS'Remember, the team that moves the numbers the most from first vote tosecond is declared our winner.'
+p4311
+aS'Here is then the second vote.'
+p4312
+aS'The team arguing for themotion, their second vote was 49 percent, from 37 percent to 49 percent.'
+p4313
+aS'That is anincrease of 12 percentage points.'
+p4314
+aS'That is the number to beat.'
+p4315
+aS'The team against themotion, and their first vote was 19 percent.Their second vote, 39 percent.'
+p4316
+aS"That's 20 percentage points above."
+p4317
+aS'They did it.'
+p4318
+aS'Theteam arguing against the motion has won this debate, "Break up the big banks.'
+p4319
+aS'" Theyhave defeated that motion, "Break up the big banks.'
+p4320
+aS'"Congratulations to them, and thank you from me, John Donovan and Intelligence [[applause]] Squared U.S. We\'ll see you next time.'
+p4321
+asg13
+(dp4322
+I48
+S'64'
+p4323
+sI20
+S'63'
+p4324
+ssasS'after'
+p4325
+(lp4326
+S'49%-FOR'
+p4327
+aS'39%-AGAINST'
+p4328
+aS'12%-UNDECIDED'
+p4329
+asS'against'
+p4330
+(lp4331
+S'PAUL SALTZMAN'
+p4332
+aS'DOUGLAS ELLIOTT'
+p4333
+asS'moderator'
+p4334
+(lp4335
+S'JOHN DONVAN'
+p4336
+asS'date'
+p4337
+(dp4338
+S'year'
+p4339
+S'2013'
+p4340
+sS'day'
+p4341
+S'16'
+p4342
+sS'month'
+p4343
+S'October'
+p4344
+ssS'before'
+p4345
+(lp4346
+S'37%-FOR'
+p4347
+aS'19%-AGAINST'
+p4348
+aS'44%-UNDECIDED'
+p4349
 as.
