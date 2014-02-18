@@ -55,4 +55,6 @@ The files *debateData.txt* and *debateResults.txt* include the primary data for 
 In case you want to pre-process the results in some way (i.e., search the text for LIWC categories or affect the methods I used to split the text into sections) then you will want to run the *i2-getstarted.py* script.  I heavily commented the file, but in a nutshell the functions are provided to help manage the pickle data, summarizing elements of the text, managing LIWC or other dictionary based files, and returning the *debateData.txt* and *debateResults.txt* files. The python script *i2-getstarted.py* demonstrates how to open the pickle files and perform some very basic summaries of the data.  If you have recommendations or thoughts about how to improve the program, please don't hesitate.
 
 
--- Thanks, Brian
+## Non-NLP Ideas
+
+On the side I'm putting together some thoughts about how to collaboratively edit/annotate the data.  This work is in the *i2-improvedata.py* file which uses a simpleHTTPServer to post a javascript interface (*index.html*).  It's incredibly early stage, so I just want to note that it's there in the repository.
