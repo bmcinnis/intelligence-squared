@@ -25,7 +25,7 @@ As more records are added to this folder the general data layout is subject to c
 
 ## Get Started
 
-The files *debateData.txt* and *debateResults.txt* include the primary data for all 22 debates.  Both use the delimiter *#*|*#* (smiley face with earmuffs), the first line of data are the variable headers.  The following will parse the files into NumPy Arrays, ready for analysis:
+The files *debateData.txt* and *debateResults.txt* include the primary data for all 22 debates.  Both use the delimiter *#*|*#* (smiley face with earmuffs), the first line of data are the variable headers.  The following will parse the files into NumPy Arrays, ready for analysis (this simple script is in *i2-sample.py*):
 
 ```python
     
