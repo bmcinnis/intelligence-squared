@@ -204,13 +204,13 @@ else:
         ret = 0
         if type(text) is list:
             for t in text:
-                ret +=len(re.sub('\b[^\s]+\b','|-BJM-|',t).split("|-BJM-|"))
+                ret +=len(re.split('[ ]+',t))
         elif type(text) is str:
-            ret +=len(re.sub('\b[^\s]+\b','|-BJM-|',text).split("|-BJM-|"))            
+            ret +=len(re.split('[ ]+',text))            
         return ret
 
 
-    def createLIWC(filepath=r'~\LIWC\LIWC2007dictionary_bjm.csv'):
+    def createLIWC(filepath=r'/Users/bjm277/Google Drive/Programming/Experiments/data/LIWC/LIWC2007dictionary_bjm.csv'):
         """
             createLIWC():   If you have a .csv distribution of the LIWC database, make sure that the
             column category types are properly left justified such that the title for the category
@@ -220,8 +220,8 @@ else:
         names = []
         categories = {}
         try:
-            with open(filepath, 'rb') as f:
-                reader = csv.reader(f)
+            with open(filepath, 'rbU') as f:
+                reader = csv.reader(f, delimiter = ',')
                 line = 0
                 for row in reader:
                     if(line==0):
@@ -262,13 +262,35 @@ else:
         """
         liwc = commands['liwc']
         ret = {}
+
         ret['total-words'] = splitWords(text)
         ret['total-sentences'] = len(text)
-        for c in commands['categories']:
-            if c in liwc:
-                ret.setdefault(c,0)
-                for t in text:            
-                    ret[c]+=numpy.sum([len(re.findall(r'\b%s\b' %(w),t,flags=re.IGNORECASE)) for w in liwc[c]])
+
+        if commands['categories']=='all':
+            commands['categories'] = liwc.keys()
+
+        if type(text) is str:
+            text = [text]
+
+        texts = 0
+        for t in text:
+            sent = re.findall('[^ ]+',t,flags=re.IGNORECASE);
+            for c in commands['categories']:                
+                if c in liwc:            
+                    ret.setdefault(c,0)
+                    intersect = set(sent).intersection(set(liwc[c]))
+                    if len(intersect)>0:
+                        #print intersect
+                        ret[c]+=numpy.sum([len(re.findall(r'\b%s\b' %(w),t,flags=re.IGNORECASE)) for w in liwc[c]])
+            #print '-Text:  %i of %i' %(texts, len(text))
+            texts +=1
+
+        if texts == 0:
+            for c in commands['categories']:                
+                if c in liwc:            
+                    ret.setdefault(c,0)
+            
+
         return ret
 
 
@@ -350,7 +372,11 @@ else:
 
         line = 0
         for o in sorted(obj['sections'].keys()):
+            print '---Section:  %s (%i)' %(o, len(obj['sections'][o]))
+            elem = 0
             for l in obj['sections'][o]:
+                print '--Element (%i of %i)' %(elem, len(obj['sections'][o]))
+                elem+=1
 
         ### The unit of observation is the statement (variable: state) which is
         ###     appended to the return array (variable: flat)
@@ -773,8 +799,10 @@ else:
         ##                                  propArgs={'liwc':liwc,'categories':['Past','Present','Future']})
 
             collapsed, data, dkeys = summarize(
-                                      obj=debate,
-                                      roles=roles)
+                                        obj=debate,
+                                        roles=roles,
+                                        prop=liwcScores,
+                                        propArgs={'liwc':liwc,'categories':'all'})            
 
             ret.update(collapsed)
 
