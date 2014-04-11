@@ -13,7 +13,7 @@
 rm(list = ls());
 
 ## Install and load any necessary packages
-pack <- c('plyr','doBy','xlsx','XLConnect','ggplot2','data.table','reshape','tm', 'topicmodels');
+pack <- c('plyr','moments','doBy','xlsx','XLConnect','ggplot2','data.table','reshape','tm', 'topicmodels');
 for (p in pack) {
   print(p);
   if(p %in% rownames(installed.packages()) == FALSE){
@@ -77,69 +77,138 @@ if (exists("dd",where=i2us)==FALSE){
 attach(i2us);
 
 ## Explore the dataset a little bit:
+ # (1) What are the polling results?
 
- ## [1.a:  Create outcome and margin variables to indicate which side won the debate]
-  dr$outcome[(dr$poll.delta.against>dr$poll.delta.for)]<-1;
-  dr$outcome[(dr$poll.delta.against<dr$poll.delta.for)]<-(-1);
-  dr$outcome[(dr$outcome==NA)]<-0;
-  dr$outcome<-as.numeric(dr$outcome);
+ #     [1.a] Select polling data and reshape after creating outcome variable.
+ #           The winner of the debate changes the most minds, as opposed to
+ #           recieves the most votes.
+
+poll<-grep(pattern='^poll.*$', 
+           x=names(dr), 
+           ignore.case = TRUE, 
+           perl = TRUE, 
+           value = TRUE);
+
+dr$outcome[(dr$poll.delta.against>dr$poll.delta.for)]<-"against";
+dr$outcome[(dr$poll.delta.against<dr$poll.delta.for)]<-"for";
+dr$outcome[(dr$outcome==NA)]<-"Tie";
+
+ #     [1.b] Reshape polling data so that side/outcome are equal to 
+ #           stage (e.g., before, after, delta) specific variables
+
+m.dr<-melt(dr,id.vars=c("title","outcome"),measure.vars=poll);
+m.dr[,"stage"]<-sub(pattern="(.*)[.]([^.]+)[.]([^.]+)$",
+                   x=m.dr$variable,
+                   replacement="\\2",
+                   perl=TRUE);
+
+m.dr[,"side"]<-sub(pattern="(.*)[.]([^.]+)[.](for|against|undecided)$",
+                    x=m.dr$variable,
+                    replacement="\\3",
+                    perl=TRUE);
+
+m.dr<-cast(m.dr, title+side+outcome~stage);
+
+ #     [1.c] Associate the prior outcome variable with side variables
+
+m.dr$outcome[(m.dr$outcome==m.dr$side)]<-"win"
+m.dr$outcome[(m.dr$outcome!="win")]<-"lose"
+m.dr$outcome[(m.dr$side=="undecided")]<-"none"
+
+ #     [1.d] Plot the before debate statistics
+
+p <- ggplot(data=m.dr,
+            aes(x=side, 
+                y=before))+
+  labs(title = "I2US:  Polling Before Debate", x = "By audience votes per side", y = "Percentage (%)")+
+  geom_boxplot()+
+  geom_jitter(aes(colour=factor(outcome)));
+print(p);
+
+  summary(m.dr$before);
+  summaryBy(data=m.dr,
+              formula=before~side+outcome,
+              FUN=c(min,mean,max,sd,skewness))
+
+ #     [1.e] Plot the after debate statistics
+
+p <- ggplot(data=m.dr,
+            aes(x=side, 
+                y=after))+
+  labs(title = "I2US:  Polling After Debate", x = "By audience votes per side", y = "Percentage (%)")+
+  geom_boxplot()+
+  geom_jitter(aes(colour=factor(outcome)));
+print(p);
   
-  dr$persuadable<-(dr$poll.before.undecided-dr$poll.after.undecided);
-  dr$margin.abs<-(dr$poll.after.for-dr$poll.after.against);
-  dr$margin.delta<-(dr$poll.delta.for-dr$poll.delta.against);
+  summary(m.dr$after);
+  summaryBy(data=m.dr,
+              formula=after~side+outcome,
+              FUN=c(min,mean,max,sd,skewness))
 
- ## [1.b:  Tabulate by outcome and then by margin]
-  addmargins(xtabs(formula=~title+outcome, data=dr),1);
-  # (21 files) 11/10 (52.3% AGAINST vs. FOR)
-  summaryBy(formula=poll.before.undecided~outcome, data=dr, FUN=c(mean,median));
-  # (21 files) A little less than a THIRD of the audience is undecided ahead of a debate
-  summaryBy(formula=poll.after.undecided~outcome, data=dr, FUN=c(mean,median));
-  # (21 files) After the debate about 8% remain undecided, meaning that on avg. 22% of the audience is persuadable
+ #     [1.f] Plot the DELTA debate statistics
+
+p <- ggplot(data=m.dr,
+            aes(x=side, 
+                y=delta))+
+      labs(title = "I2US:  Polling Delta", x = "By audience votes per side", y = "Difference (%after - %before)")+
+      geom_boxplot()+
+      geom_jitter(aes(colour=factor(outcome)));
+print(p);
+
+  summary(m.dr$delta);
+  summaryBy(data=m.dr,
+              formula=delta~side+outcome,
+              FUN=c(min,mean,max,sd,skewness))
+
+ #     [1.g] Prepare the DEBATE DATA to summarize LIWC scores
   
-  summaryBy(formula=persuadable~outcome, data=dr, FUN=c(mean,median));
-  # (21 files) 22-24% on avg. are persuaded through the debate, assuming that the
-  #   Audience members with existing opinions do not change their vote.
+  liwc<-c("liwcScores.Posemo","liwcScores.Negate");
+  m.dd<-melt(data=dd,
+             id.vars=c("title","role"),
+             measure.vars=liwc)
+  m.dd[,"side"]<-m.dd[,"role"];
+  m.dd.agg<-aggregate(formula=value~title+side+variable,data=m.dd,FUN=mean)
+  m.dd.agg<-cast(m.dd.agg,title+side~variable);
 
-  summaryBy(formula=poll.delta.against~outcome, data=dr, FUN=c(mean,median));
-  summaryBy(formula=poll.delta.for~outcome, data=dr, FUN=c(mean,median));
-  # (21 files) Though we don't know whether there is back and forth within the
-  #   populations with existing opinions, neither side appears to lose support
-  #   regardless of who wins a debate.
- 
-  summaryBy(formula=margin.abs~outcome, data=dr, FUN=c(mean,median));
-  # (21 files) The margin of victory (by audience final polling) is on avg. 34-35%
-  summaryBy(formula=margin.delta~outcome, data=dr, FUN=c(mean,median));
-  # (21 files) The margin of victory (by delta) is between 14 and 22%
+  m.d<-merge(x=m.dr,
+             y=m.dd.agg,
+             by=c("title","side"))
 
+  cor(x=c(m.d[(m.d$outcome=='win'),]$liwcScores.Posemo),
+      y=m.d[(m.d$outcome=='win'),]$delta);
+  cor(x=c(m.d[(m.d$outcome=='lose'),]$liwcScores.Posemo),
+      y=m.d[(m.d$outcome=='lose'),]$delta);
 
+## Explore the debate text data:
+ # (2) What does LIWC have to say about the debate data?
 
-## Convert LIWC scores to percentages
-# (1) Identify all of the LIWC variables of interest
+ #     [2.a] Identify the LIWC variables of interests
+
 titles <- unique(dd$title)
 liwc<-grep(pattern='^liwcScores[.](?!total).*$', 
-                   x=names(dd), 
-                   ignore.case = TRUE, 
-                   perl = TRUE, 
-                   value = TRUE);
+           x=names(dd), 
+           ignore.case = TRUE, 
+           perl = TRUE, 
+           value = TRUE);
 
-## LSM:  Linguistic Style Matching
-## Based on 9 LIWC:  articles, common adverbs, personal pronouns, indefinite pronouns, prepositions, negations, conjunctions, and quantifiers
+ #     [2.b] Perform the LSM (Linguistic Style Matching)
+ #           Based on 9 LIWC:  articles, common adverbs, personal pronouns, indefinite pronouns, prepositions, negations, conjunctions, and quantifiers
 
 liwc<-c("liwcScores.Article","liwcScores.Adverbs","liwcScores.Posemo","liwcScores.Ppron","liwcScores.Ipron","liwcScores.Prep","liwcScores.Negate","liwcScores.Conj","liwcScores.Quant");
 basic<-c("line","title","file","section","role","speaker");
 totals<-c("liwcScores.total.words","liwcScores.total.sentences");
 dd.liwc <- dd[,names(dd) %in% c(basic,liwc,totals)];
 
-## Create the LIWC percentages
-#   The function eLIWC creates a rolling average LIWC score, this is so that
-#   when calculating the LSM (Linguistic Style Matching), each exchange will
-#   represent the average LSM at that point (based on all prior exchanges).
-#   Most papers aggregate at the experience or document level, the rolling
-#   approach is to eventually see if there's a way to predict an outcome 
-#   based on early exchanges.
+ ## Create the LIWC percentages
+ #   The function eLIWC creates a rolling average LIWC score, this is so that
+ #   when calculating the LSM (Linguistic Style Matching), each exchange will
+ #   represent the average LSM at that point (based on all prior exchanges).
+ #   Most papers aggregate at the experience or document level, the rolling
+ #   approach is to eventually see if there's a way to predict an outcome 
+ #   based on early exchanges.
 
-## DDPLY (part of the PLYR package) is used to create by group LIWC calculations.
-#   Here LIWC scores are generated by title.
+ ## DDPLY (part of the PLYR package) is used to create by group LIWC calculations.
+ #   Here LIWC scores are generated by title.
 
 eLIWC <- function(x){
   print(x[1,"title"]);
@@ -156,12 +225,12 @@ dd.liwc<-ddply(dd.liwc,.(title,section,speaker), eLIWC);
 dd.liwc<-dd.liwc[with(dd.liwc, order(title, line)), ]
 
 
-## The ePairing function identifies the next speaker and their role in the debate.
-#   Additionally, the speakingOrder variable is created so that summaries (i.e., LSM)
-#   can be made based on who is speaking to whom.
+ ## The ePairing function identifies the next speaker and their role in the debate.
+ #   Additionally, the speakingOrder variable is created so that summaries (i.e., LSM)
+ #   can be made based on who is speaking to whom.
 
-## Here DDPLY aggregates the results by title and by section in order to isolate the
-#   debate portion of the show.
+ ## Here DDPLY aggregates the results by title and by section in order to isolate the
+ #   debate portion of the show.
 
 ePairing <- function(x){
   ## Return the prior value for each speaker
@@ -175,8 +244,7 @@ ePairing <- function(x){
 }
 dd.lsm<-ddply(dd.liwc,.(title,section), ePairing);
 
-## eLSM calculates the LSM
-#
+ ## eLSM calculates the LSM
 eLSM <- function(x){
   for (t in c(paste("perc.",liwc,sep=""))){
     x[,paste("p.",t,sep="")] <- c(rep(0.0001,1),head(as.numeric(x[,t]),-1));
@@ -191,7 +259,6 @@ eLSM <- function(x){
   return(x);
 }
 dd.lsm<-ddply(dd.lsm,.(title,section,speakingOrder), eLSM);
-
 
 eNumber <- function(x){
   for (i in 1:nrow(x)){
@@ -215,44 +282,15 @@ for (t in titles){
               aes(x=line, 
                   colour=factor(role),
                   y=lsm),
-                  group=factor(bin))+
+              group=factor(bin))+
     labs(title = paste("I2US Debate: ",t,sep=""), x = "By utterance (within Debate Section)", y = "Linguistic Style Matching (LSM)")+
     geom_point()+
     geom_line()+
     stat_smooth(method = "lm");
-
+  
   ggsave(plot=p, filename=paste("images/",t,".png",sep=""));
   print(p);
 }
-
-### Commented out below is work in progress:
-## Topic Models:
-#   Provides access to LDA by David Blei: http://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf
-#   (1) Create the term document matrix based on the statement data
-
-dd$rNames = paste(dd$file, dd$line, sep="_");
-dd.statement <- data.frame(docs=dd[,"statement"],row.names = c(dd[,"rNames"]));
-dd.statement <- DataframeSource(x=dd.statement);
-#inspect(Corpus(dd.statement))
-dd.tm <- DocumentTermMatrix(Corpus(dd.statement),control = list(removePunctuation = TRUE,
-                                                                tolower = TRUE));
-## Add meta data values to the TDM
-meta(dd.tm, '');
-
-#findFreqTerms(dd.tm, 5);
-#findAssocs(dd.tm, "war", 0.5);
-#rowTotals <- data.frame(apply(dd.tm , 1, sum));
-#lda<-LDA(x=dd.tm, k=2);
-
-
-## Merge the DD with DR
-#dm<-merge(x=dd.liwc,
-#          y=dr,
-#          by=c("file"));
-
-
-
-
 
 
 #####

@@ -131,6 +131,13 @@ else:
                             obj[c][fCurrentSection].append({'STATEMENT':l['STATEMENT'][fBreak-1:],
                                                             'SPEAKER':l['SPEAKER']})
                             fGoForth = False
+                    if (('00:00:00' in correction[c].keys())&(fCurrentSection=="")):
+                        print 'ZERO-START-TIME'
+                        fCurrentSection = correction[c]['00:00:00']
+                        print "%s----%s: %s" %(c, 'ZERO START', fCurrentSection)                        
+                        obj[c].setdefault(fCurrentSection,[])
+                        obj[c][fCurrentSection].append({'STATEMENT':l['STATEMENT'],
+                                                        'SPEAKER':l['SPEAKER']})
                     if ((fGoForth == True)&(fCurrentSection !="")):
                         obj[c][fCurrentSection].append({'STATEMENT':l['STATEMENT'],
                                                 'SPEAKER':l['SPEAKER']})
@@ -746,6 +753,258 @@ else:
                                     '20:26:42':'R4',
                                     '20:37:45':'R5',
                                 }
+                        },                     
+                      'i2Debates/040313 minimum wage.p':{
+                            'title':'Abolish the minimum wage',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '00:00:00':'R0',
+                                    '17:32:48':'R1',
+                                    '17:37:47':'R2',
+                                    '18:05:52':'R3',
+                                    '18:50:45':'R4',
+                                    '18:58:52':'R5',
+                                }
+                        },                     
+                      'i2Debates/tired-poor.p':{
+                            'title':'Dont give us your tired, your poor, your huddled masses',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:47:48':'R0',
+                                    '18:52:45':'R1',
+                                    '18:53:49':'R2',
+                                    '19:27:44':'R3',
+                                    '20:18:51':'R4',
+                                    '20:28:50':'R5',
+                                }
+                        },                     
+                      'i2Debates/teachers-unions.p':{
+                            'title':'Dont blame teachers unions for our failing schools',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '00:00:00':'R0',
+                                    '':'R1',
+                                    '':'R2',
+                                    '':'R3',
+                                    '':'R4',
+                                    '':'R5',
+                                }
+                        },                     
+                      'i2Debates/terrorists-enemy.p':{
+                            'title':'Treat terrorists like enemy combatants, not criminals',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '00:00:00':'R0',
+                                    '':'R1',
+                                    '':'R2',
+                                    '':'R3',
+                                    '':'R4',
+                                    '':'R5',
+                                }
+                        },                     
+                      'i2Debates/clean-energy.p':{
+                            'title':'Clean energy can drive Americas economic recovery',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:47:48':'R0',
+                                    '18:48:49':'R1',
+                                    '18:49:48':'R2',
+                                    '19:22:46':'R3',
+                                    '20:17:45':'R4',
+                                    '20:32:46':'R5',
+                                }
+                        },                     
+                      'i2Debates/globalization.p':{
+                            'title':'Its time to clip Americas global wings',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:46:38':'R0',
+                                    '18:49:39':'R1',
+                                    '18:51:36':'R2',
+                                    '19:22:34':'R3',
+                                    '20:15:33':'R4',
+                                    '20:27:38':'R5',
+                                }
+                        },                     
+                      'i2Debates/big-government.p':{
+                            'title':'Big government is stifling the American spirit',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:45:49':'R0',
+                                    '18:50:01':'R1',
+                                    '18:50:59':'R2',
+                                    '19:28:03':'R3',
+                                    '20:20:10':'R4',
+                                    '20:31:07':'R5',
+                                }
+                        },                     
+                      'i2Debates/war-on-terror.p':{
+                            'title':'Its time to end the war on terror',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '20:42:05':'R0',
+                                    '20:47:03':'R1',
+                                    '20:50:01':'R2',
+                                    '20:21:16':'R3',
+                                    '21:20:01':'R4',
+                                    '21:31:06':'R5',
+                                }
+                        },                     
+                      'i2Debates/us-israel.p':{
+                            'title':'The US should step back from its special relationship with Israel',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '00:00:00':'R0',
+                                    '':'R1',
+                                    '':'R2',
+                                    '':'R3',
+                                    '':'R4',
+                                    '':'R5',
+                                }
+                        },                     
+                      'i2Debates/senior-benefits.p':{
+                            'title':'Grandmas benefits imperil juniors future',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:47:09':'R0',
+                                    '18:52:10':'R1',
+                                    '18:54:09':'R2',
+                                    '19:26:11':'R3',
+                                    '20:17:07':'R4',
+                                    '20:27:09':'R5',
+                                }
+                        },                     
+                      'i2Debates/obesity 020712.p':{
+                            'title':'Obesity is the governments business',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:49:45':'R0',
+                                    '18:53:46':'R1',
+                                    '18:59:44':'R2',
+                                    '19:29:55':'R3',
+                                    '20:19:45':'R4',
+                                    '20:29:44':'R5',
+                                }
+                        },                     
+                      'i2Debates/organic-food.p':{
+                            'title':'Organic food is marketing hype',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '00:00:00':'R0',
+                                    '':'R1',
+                                    '':'R2',
+                                    '':'R3',
+                                    '':'R4',
+                                    '':'R5',
+                                }
+                        },                     
+                      'i2Debates/islam-peace.p':{
+                            'title':'Islam is a religion of peace',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:52:29':'R0',
+                                    '18:55:08':'R1',
+                                    '18:56:59':'R2',
+                                    '19:30:59':'R3',
+                                    '20:27:00':'R4',
+                                    '20:37:09':'R5',
+                                }
+                        },                     
+                      'i2Debates/foreign-policy.p':{
+                            'title':'Obamas foreign policy spells Americas decline',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '00:00:00':'R0',
+                                    '':'R1',
+                                    '':'R2',
+                                    '':'R3',
+                                    '':'R4',
+                                    '':'R5',
+                                }
+                        },                     
+                      'i2Debates/frackingaspen.p':{
+                            'title':'No fracking way: The natural gas boom has done more harm than good',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '19:03:04':'R0',
+                                    '19:08:06':'R1',
+                                    '19:13:59':'R2',
+                                    '19:45:01':'R3',
+                                    '20:30:01':'R4',
+                                    '20:40:08':'R5',
+                                }
+                        },                     
+                      'i2Debates/free-press.p':{
+                            'title':'Freedom of the press does not extend to state secrets',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:47:12':'R0',
+                                    '18:51:14':'R1',
+                                    '18:54:15':'R2',
+                                    '19:25:09':'R3',
+                                    '20:19:12':'R4',
+                                    '20:29:11':'R5',
+                                }
+                        },                     
+                      'i2Debates/cyber-war.p':{
+                            'title':'The cyber war threat has been grossly exaggerated',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '00:00:00':'R0',
+                                    '':'R1',
+                                    '':'R2',
+                                    '':'R3',
+                                    '':'R4',
+                                    '':'R5',
+                                }
+                        },                     
+                      'i2Debates/ban-college-football.p':{
+                            'title':'Ban college football',
+                            'roles':{'moderator':['ROBERT ROSENKRANZ','PREAMBLE','RESULTS']},
+                            'speakers':{'JOHN JOHN DONVAN':'JOHN DONVAN',
+                                        'JON DONVAN':'JOHN DONVAN'},
+                            'sections':{
+                                    '18:44:45':'R0',
+                                    '18:48:43':'R1',
+                                    '18:54:48':'R2',
+                                    '19:24:39':'R3',
+                                    '20:22:43':'R4',
+                                    '20:32:42':'R5',
+                                }
                         }                                            
                      };
 
@@ -766,7 +1025,10 @@ else:
     allData=[]
     for d in debateFiles:
         debate = openDebate(filepath=d)
+        correct_found = False
         if (d in correctionObj):
+            parse_go = False
+            correct_found = True
             debate = correctDebates(correction=correctionObj[d], obj=debate)
 
         ## Preserve the filename just for ease
@@ -784,35 +1046,37 @@ else:
                 if r in debate:
                     roles[r].extend(debate[r])
             print roles
+            
+            if (parse_go == True):
 
-        ## The summarize() function returns two objects, the full data in a form
-        ##      useful for NUMPY (data) as well as an aggregate (collapse) of the results
-        ##      by section and by role.  Summarize prop values "len" returns the number of
-        ##      statement arrays/sentences per statement, whereas "splitWords" returns the
-        ##      total number of words per statement per speaker.  For example, the following
-        ##      passes the data through LIWC looking for past, present, and future terms.
-        ##
-        ##      collapsed, data, dkeys = summarize(
-        ##                                 obj=debate,
-        ##                                  roles=roles,
-        ##                                  prop=liwcScores,
-        ##                                  propArgs={'liwc':liwc,'categories':['Past','Present','Future']})
+            ## The summarize() function returns two objects, the full data in a form
+            ##      useful for NUMPY (data) as well as an aggregate (collapse) of the results
+            ##      by section and by role.  Summarize prop values "len" returns the number of
+            ##      statement arrays/sentences per statement, whereas "splitWords" returns the
+            ##      total number of words per statement per speaker.  For example, the following
+            ##      passes the data through LIWC looking for past, present, and future terms.
+            ##
+            ##      collapsed, data, dkeys = summarize(
+            ##                                 obj=debate,
+            ##                                  roles=roles,
+            ##                                  prop=liwcScores,
+            ##                                  propArgs={'liwc':liwc,'categories':['Past','Present','Future']})
 
-            collapsed, data, dkeys = summarize(
-                                        obj=debate,
-                                        roles=roles,
-                                        prop=liwcScores,
-                                        propArgs={'liwc':liwc,'categories':'all'})            
+                collapsed, data, dkeys = summarize(
+                                            obj=debate,
+                                            roles=roles,
+                                            prop=liwcScores,
+                                            propArgs={'liwc':liwc,'categories':'all'})            
 
-            ret.update(collapsed)
+                ret.update(collapsed)
 
-        ## Return all of the different data objects created through this process
+            ## Return all of the different data objects created through this process
 
-            allResults.append(ret)
+                allResults.append(ret)
 
-            if len(allData)==0:
-                allData.extend([dkeys])
-            allData.extend(data)
+                if len(allData)==0:
+                    allData.extend([dkeys])
+                allData.extend(data)
 
             allDebates[d]=debate
 
